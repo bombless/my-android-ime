@@ -27,50 +27,221 @@ import androidx.compose.foundation.gestures.waitForUpOrCancellation
 
 import androidx.compose.ui.layout.onGloballyPositioned
 import androidx.compose.ui.layout.positionInRoot
+import androidx.compose.ui.layout.positionInWindow
 import androidx.compose.ui.geometry.Offset
 import kotlin.math.cos
 import kotlin.math.sin
 import kotlin.math.atan2
 
-@Composable fun KeyboardScreen(composing: String, rimeCandidates: List<String>, baiduCandidates: List<String>, deepSeekCandidates: List<String>, onKey: (String) -> Unit, onCandidate: (String) -> Unit) {
-    LaunchedEffect(composing, rimeCandidates, baiduCandidates, deepSeekCandidates) { android.util.Log.d("MyAndroidIME", "KeyboardScreen composing=$composing rime=${rimeCandidates.take(5)} baidu=${baiduCandidates.take(5)} deepseek=${deepSeekCandidates.take(5)}") }
+import androidx.compose.ui.platform.LocalConfiguration
+@Composable
+fun KeyboardScreen(
+    composing: String,
+    rimeCandidates: List<String>,
+    baiduCandidates: List<String>,
+    deepSeekCandidates: List<String>,
+    onKey: (String) -> Unit,
+    onCandidate: (String) -> Unit
+) {
+    // 控制标点浮层的全局状态
+    var showPunctuation by remember { mutableStateOf(false) }
+    var selectedIndex by remember { mutableStateOf(0) }
+    val punctuation = remember { listOf("，", "。", "、", "；", "：", "？", "！", "《", "》", "（", "）") }
+
+    // 记录键盘整体在屏幕上的坐标及高度，用于锚定左下角
+    var keyboardWindowPos by remember { mutableStateOf(Offset.Zero) }
+    var keyboardHeightPx by remember { mutableStateOf(0f) }
+
+    val density = LocalDensity.current
+
+    // 圆盘与气泡尺寸定义
+    val itemSizeDp = 44.dp
+    val itemSizePx = with(density) { itemSizeDp.toPx() }
+    val circleRadiusDp = 110.dp // 完整圆形的半径，足够大且不会超出键盘高度
+    val circleRadiusPx = with(density) { circleRadiusDp.toPx() }
+
+    // 圆心位置：贴在左下角（距离左边和底边各保留 itemRadius + 12dp，确保整圈都在屏幕内）
+    val paddingPx = with(density) { 12.dp.toPx() }
+    val centerLocalX = circleRadiusPx + itemSizePx / 2f + paddingPx
+    val centerLocalY = keyboardHeightPx - (circleRadiusPx + itemSizePx / 2f + paddingPx)
+
+    // 全局触摸坐标转换为选中项
+    fun updateSelection(windowTouchPos: Offset) {
+        // 转为键盘内的本地坐标
+        val localX = windowTouchPos.x - keyboardWindowPos.x
+        val localY = windowTouchPos.y - keyboardWindowPos.y
+
+        val dx = localX - centerLocalX
+        val dy = localY - centerLocalY
+
+        // 通过极坐标反切角求对应索引 (atan2 输出 -π ~ π)
+        var angle = Math.toDegrees(atan2(dy.toDouble(), dx.toDouble()))
+        if (angle < 0) angle += 360.0 // 转为 0° ~ 360°
+
+        // 11个符号均匀切分 360 度
+        val step = 360.0 / punctuation.size
+        // 偏置半个 step，使得角度区间正对中心
+        val index = (((angle + step / 2) % 360) / step).toInt().coerceIn(0, punctuation.lastIndex)
+        selectedIndex = index
+    }
+
     MaterialTheme {
-        Column(
+        Box(
             modifier = Modifier
                 .fillMaxWidth()
-                .windowInsetsPadding(WindowInsets.safeDrawing)
-                .padding(horizontal = 6.dp, vertical = 4.dp),
-            verticalArrangement = Arrangement.spacedBy(4.dp)
+                .onGloballyPositioned { coordinates ->
+                    keyboardWindowPos = coordinates.positionInWindow()
+                    keyboardHeightPx = coordinates.size.height.toFloat()
+                }
         ) {
-            CandidateSourceRow("小狼毫", rimeCandidates, onCandidate)
-            CandidateSourceRow("百度", baiduCandidates, onCandidate)
-            CandidateSourceRow("DeepSeek", deepSeekCandidates, onCandidate)
-
-            Box(
+            Column(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .height(30.dp),
-                contentAlignment = Alignment.CenterStart
+                    .windowInsetsPadding(WindowInsets.safeDrawing)
+                    .padding(horizontal = 6.dp, vertical = 4.dp),
+                verticalArrangement = Arrangement.spacedBy(4.dp)
             ) {
-                Text(composing, modifier = Modifier.fillMaxWidth(), maxLines = 1)
-            }
+                CandidateSourceRow("小狼毫", rimeCandidates, onCandidate)
+                CandidateSourceRow("百度", baiduCandidates, onCandidate)
+                CandidateSourceRow("DeepSeek", deepSeekCandidates, onCandidate)
 
-            listOf("QWERTYUIOP","ASDFGHJKL").forEach { row ->
+                Box(
+                    modifier = Modifier.fillMaxWidth().height(30.dp),
+                    contentAlignment = Alignment.CenterStart
+                ) {
+                    Text(composing, modifier = Modifier.fillMaxWidth(), maxLines = 1)
+                }
+
+                listOf("QWERTYUIOP", "ASDFGHJKL").forEach { row ->
+                    Row(
+                        Modifier.fillMaxWidth(),
+                        horizontalArrangement = Arrangement.spacedBy(3.dp)
+                    ) { row.forEach { Key(it.toString(), onKey) } }
+                }
                 Row(
                     Modifier.fillMaxWidth(),
                     horizontalArrangement = Arrangement.spacedBy(3.dp)
-                ) { row.forEach { Key(it.toString(), onKey) } }
+                ) {
+                    "ZXCVBNM".forEach { Key(it.toString(), onKey) }
+                    Key("⌫", onKey, 1.5f)
+                }
+                Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(3.dp)) {
+                    SpaceKey(
+                        onSpace = onKey,
+                        onCommitText = onKey,
+                        weight = 3f,
+                        onLongPressStart = { windowTouchPos ->
+                            showPunctuation = true
+                            updateSelection(windowTouchPos)
+                        },
+                        onDrag = { windowTouchPos ->
+                            updateSelection(windowTouchPos)
+                        },
+                        onRelease = {
+                            if (showPunctuation) {
+                                onKey(punctuation[selectedIndex])
+                                showPunctuation = false
+                            }
+                        }
+                    )
+                    Key("↵", onKey, 1.5f)
+                }
             }
-            Row(
-                Modifier.fillMaxWidth(),
-                horizontalArrangement = Arrangement.spacedBy(3.dp)
-            ) {
-                "ZXCVBNM".forEach { Key(it.toString(), onKey) }
-                Key("⌫", onKey, 1.5f)
+
+            // 贴在左下方的完整圆形面板
+            if (showPunctuation) {
+                Box(modifier = Modifier.fillMaxSize()) {
+                    punctuation.forEachIndexed { index, symbol ->
+                        val step = 360.0 / punctuation.size
+                        val angleRad = Math.toRadians(index * step)
+
+                        val itemCenterX = centerLocalX + circleRadiusPx * cos(angleRad).toFloat()
+                        val itemCenterY = centerLocalY + circleRadiusPx * sin(angleRad).toFloat()
+
+                        val offsetX = with(density) { (itemCenterX - itemSizePx / 2f).toDp() }
+                        val offsetY = with(density) { (itemCenterY - itemSizePx / 2f).toDp() }
+
+                        val selected = index == selectedIndex
+
+                        Surface(
+                            modifier = Modifier
+                                .offset(x = offsetX, y = offsetY)
+                                .size(itemSizeDp),
+                            shape = MaterialTheme.shapes.extraLarge,
+                            color = if (selected) {
+                                MaterialTheme.colorScheme.primaryContainer
+                            } else {
+                                MaterialTheme.colorScheme.surfaceVariant
+                            },
+                            tonalElevation = if (selected) 8.dp else 2.dp
+                        ) {
+                            Box(contentAlignment = Alignment.Center) {
+                                Text(
+                                    text = symbol,
+                                    style = MaterialTheme.typography.titleMedium,
+                                    color = if (selected) {
+                                        MaterialTheme.colorScheme.onPrimaryContainer
+                                    } else {
+                                        MaterialTheme.colorScheme.onSurfaceVariant
+                                    }
+                                )
+                            }
+                        }
+                    }
+                }
             }
-            Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(3.dp)) {
-                SpaceKey(onKey, onCandidate, 3f)
-                Key("↵",onKey,1.5f)
+        }
+    }
+}
+
+@Composable
+private fun RowScope.SpaceKey(
+    onSpace: (String) -> Unit,
+    onCommitText: (String) -> Unit,
+    weight: Float = 1f,
+    onLongPressStart: (Offset) -> Unit,
+    onDrag: (Offset) -> Unit,
+    onRelease: () -> Unit
+) {
+    var keyWindowPos by remember { mutableStateOf(Offset.Zero) }
+
+    Box(
+        modifier = Modifier
+            .weight(weight)
+            .height(52.dp)
+            .onGloballyPositioned { coordinates ->
+                keyWindowPos = coordinates.positionInWindow()
+            }
+    ) {
+        Button(
+            onClick = {},
+            modifier = Modifier
+                .fillMaxSize()
+                .pointerInput(Unit) {
+                    awaitEachGesture {
+                        val down = awaitFirstDown(requireUnconsumed = false)
+                        down.consume()
+
+                        val longPress = awaitLongPressOrCancellation(down.id)
+                        if (longPress == null) {
+                            onSpace("空格")
+                        } else {
+                            // 换算为空格键当前手指在 Window 的绝对位置并向上传递
+                            onLongPressStart(keyWindowPos + down.position)
+
+                            drag(down.id) { change ->
+                                onDrag(keyWindowPos + change.position)
+                                change.consume()
+                            }
+
+                            onRelease()
+                        }
+                    }
+                },
+            contentPadding = PaddingValues(0.dp)
+        ) {
+            Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                Text("空格", maxLines = 1)
             }
         }
     }
@@ -109,154 +280,6 @@ import kotlin.math.atan2
                             softWrap = false,
                             textAlign = TextAlign.Center
                         )
-                    }
-                }
-            }
-        }
-    }
-}
-@Composable
-private fun RowScope.SpaceKey(
-    onSpace: (String) -> Unit,
-    onCommitText: (String) -> Unit,
-    weight: Float = 1f
-) {
-    var showPunctuation by remember { mutableStateOf(false) }
-    var selectedIndex by remember { mutableStateOf(0) }
-    val punctuation = remember { listOf("，", "。", "、", "；", "：", "？", "！", "《", "》", "（", "）") }
-    val density = LocalDensity.current
-
-    // 空格键在自身的局部尺寸（像素）
-    var keyWidthPx by remember { mutableStateOf(0f) }
-    var keyHeightPx by remember { mutableStateOf(0f) }
-
-    // 气泡项尺寸（dp -> px）
-    val itemSizeDp = 44.dp
-    val itemSizePx = with(density) { itemSizeDp.toPx() }
-
-    // 动态计算圆弧半径：基于空格键宽度的比例，且设定上下限
-    // 这样在手机、折叠屏、横屏上都能自适应大小
-    val arcRadiusPx = remember(keyWidthPx) {
-        if (keyWidthPx > 0) {
-            (keyWidthPx * 1.1f).coerceIn(180.dp.value * density.density, 320.dp.value * density.density)
-        } else {
-            220.dp.value * density.density
-        }
-    }
-
-    // 圆心坐标（以空格键自身坐标系为基准：X为按键水平中点，Y为按键顶部）
-    val arcCenterLocalX = keyWidthPx / 2f
-    val arcCenterLocalY = 0f
-
-    // 选中的角度/距离测算（在空格键本地坐标系内直接计算）
-    fun selectByPosition(pointerX: Float, pointerY: Float) {
-        val dx = pointerX - arcCenterLocalX
-        val dy = pointerY - arcCenterLocalY
-
-        // 手指离圆心太近时不误触，也可以直接测算最近的标点项
-        var nearestIndex = selectedIndex
-        var nearestDistance = Float.MAX_VALUE
-
-        punctuation.indices.forEach { index ->
-            val t = index.toFloat() / (punctuation.size - 1)
-            // 角度从 -170° 到 -10°（预留两端边距，避免贴平）
-            val angleRad = Math.toRadians(-170.0 + 160.0 * t)
-            val targetX = arcCenterLocalX + arcRadiusPx * cos(angleRad).toFloat()
-            val targetY = arcCenterLocalY + arcRadiusPx * sin(angleRad).toFloat()
-
-            val dist = (pointerX - targetX) * (pointerX - targetX) + (pointerY - targetY) * (pointerY - targetY)
-            if (dist < nearestDistance) {
-                nearestDistance = dist
-                nearestIndex = index
-            }
-        }
-        selectedIndex = nearestIndex
-    }
-
-    Box(
-        modifier = Modifier
-            .weight(weight)
-            .height(52.dp)
-            .onGloballyPositioned { coordinates ->
-                keyWidthPx = coordinates.size.width.toFloat()
-                keyHeightPx = coordinates.size.height.toFloat()
-            }
-    ) {
-        Button(
-            onClick = {},
-            modifier = Modifier
-                .fillMaxSize()
-                .pointerInput(Unit) {
-                    awaitEachGesture {
-                        val down = awaitFirstDown(requireUnconsumed = false)
-                        down.consume()
-
-                        val longPress = awaitLongPressOrCancellation(down.id)
-                        if (longPress == null) {
-                            onSpace("空格")
-                        } else {
-                            showPunctuation = true
-                            selectedIndex = punctuation.size / 2 // 长按默认高亮正中间
-
-                            drag(down.id) { change ->
-                                selectByPosition(change.position.x, change.position.y)
-                                change.consume()
-                            }
-
-                            onCommitText(punctuation[selectedIndex])
-                            showPunctuation = false
-                        }
-                    }
-                },
-            contentPadding = PaddingValues(0.dp)
-        ) {
-            Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-                Text("空格", maxLines = 1)
-            }
-        }
-
-        // 浮层挂在空格键内部，使用绝对像素偏移渲染，不受限于外层写死的 690dp 宽度
-        if (showPunctuation) {
-            Box(
-                modifier = Modifier
-                    .fillMaxSize()
-            ) {
-                punctuation.forEachIndexed { index, symbol ->
-                    val t = index.toFloat() / (punctuation.size - 1)
-                    val angleRad = Math.toRadians(-170.0 + 160.0 * t)
-                    // 计算每个标点中心相对于空格键左上角的像素坐标
-                    val centerX = arcCenterLocalX + arcRadiusPx * cos(angleRad).toFloat()
-                    val centerY = arcCenterLocalY + arcRadiusPx * sin(angleRad).toFloat()
-
-                    // 转为左上角像素并换算成 Dp
-                    val offsetX = with(density) { (centerX - itemSizePx / 2f).toDp() }
-                    val offsetY = with(density) { (centerY - itemSizePx / 2f).toDp() }
-
-                    val selected = index == selectedIndex
-
-                    Surface(
-                        modifier = Modifier
-                            .offset(x = offsetX, y = offsetY)
-                            .size(itemSizeDp),
-                        shape = MaterialTheme.shapes.medium,
-                        color = if (selected) {
-                            MaterialTheme.colorScheme.primaryContainer
-                        } else {
-                            MaterialTheme.colorScheme.surfaceVariant
-                        },
-                        tonalElevation = if (selected) 8.dp else 2.dp
-                    ) {
-                        Box(contentAlignment = Alignment.Center) {
-                            Text(
-                                text = symbol,
-                                style = MaterialTheme.typography.titleMedium,
-                                color = if (selected) {
-                                    MaterialTheme.colorScheme.onPrimaryContainer
-                                } else {
-                                    MaterialTheme.colorScheme.onSurfaceVariant
-                                }
-                            )
-                        }
                     }
                 }
             }
