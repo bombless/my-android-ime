@@ -166,6 +166,11 @@ fun KeyboardScreen(
     var selectedNumberIndex by remember { mutableStateOf(0) }
     val numbers = remember { listOf("0", "1", "2", "3", "4", "5", "6", "7", "8", "9") }
 
+    var showLetters by remember { mutableStateOf(false) }
+    var selectedLetterIndex by remember { mutableStateOf(0) }
+    var letterWheelCenter by remember { mutableStateOf(Offset.Zero) }
+    val letters = remember { ('A'..'Z').map { it.toString() } }
+
     var keyboardWindowPos by remember { mutableStateOf(Offset.Zero) }
     var keyboardHeightPx by remember { mutableStateOf(0f) }
     var keyboardWidthPx by remember { mutableStateOf(0f) }
@@ -221,6 +226,26 @@ fun KeyboardScreen(
         selectedNumberIndex = (((angle + step / 2) % 360) / step).toInt().coerceIn(0, numbers.lastIndex)
     }
 
+    fun updateLetterSelection(windowTouchPos: Offset) {
+        val localX = windowTouchPos.x - keyboardWindowPos.x
+        val localY = windowTouchPos.y - keyboardWindowPos.y
+        val dx = localX - letterWheelCenter.x
+        val dy = localY - letterWheelCenter.y
+        val distance = kotlin.math.sqrt(dx * dx + dy * dy)
+
+        // 内圈 A-M，外圈 N-Z；中心附近保持当前选择，避免刚长按时误切换。
+        val innerRadiusPx = with(density) { 78.dp.toPx() }
+        val outerRadiusPx = with(density) { 142.dp.toPx() }
+        if (distance < innerRadiusPx * 0.45f) return
+
+        val ringOffset = if (distance <= (innerRadiusPx + outerRadiusPx) / 2f) 0 else 13
+        var angle = Math.toDegrees(atan2(dy.toDouble(), dx.toDouble()))
+        if (angle < 0) angle += 360.0
+        val step = 360.0 / 13.0
+        val slot = (((angle + step / 2) % 360) / step).toInt().coerceIn(0, 12)
+        selectedLetterIndex = ringOffset + slot
+    }
+
     MaterialTheme {
         // 外层 Box 只由键盘内容确定尺寸，绝不会被浮层撑开
         Box(
@@ -267,13 +292,57 @@ fun KeyboardScreen(
                     Row(
                         Modifier.fillMaxWidth(),
                         horizontalArrangement = Arrangement.spacedBy(3.dp)
-                    ) { row.forEach { Key(it.toString(), onKey) } }
+                    ) {
+                        row.forEach { letter ->
+                            LetterKey(
+                                label = letter.toString(),
+                                onClick = onKey,
+                                onLongPressStart = { pos ->
+                                    letterWheelCenter = Offset(
+                                        keyboardWidthPx / 2f,
+                                        pos.y - keyboardWindowPos.y
+                                    )
+                                    selectedLetterIndex = letters.indexOf(letter.toString()).coerceAtLeast(0)
+                                    showLetters = true
+                                    updateLetterSelection(pos)
+                                },
+                                onDrag = ::updateLetterSelection,
+                                onRelease = {
+                                    if (showLetters) {
+                                        onKey(letters[selectedLetterIndex])
+                                        showLetters = false
+                                    }
+                                }
+                            )
+                        }
+                    }
                 }
                 Row(
                     Modifier.fillMaxWidth(),
                     horizontalArrangement = Arrangement.spacedBy(3.dp)
                 ) {
-                    "ZXCVBNM".forEach { Key(it.toString(), onKey) }
+                    "ZXCVBNM".forEach { letter ->
+                        LetterKey(
+                            label = letter.toString(),
+                            onClick = onKey,
+                            onLongPressStart = { pos ->
+                                letterWheelCenter = Offset(
+                                    keyboardWidthPx / 2f,
+                                    pos.y - keyboardWindowPos.y
+                                )
+                                selectedLetterIndex = letters.indexOf(letter.toString()).coerceAtLeast(0)
+                                showLetters = true
+                                updateLetterSelection(pos)
+                            },
+                            onDrag = ::updateLetterSelection,
+                            onRelease = {
+                                if (showLetters) {
+                                    onKey(letters[selectedLetterIndex])
+                                    showLetters = false
+                                }
+                            }
+                        )
+                    }
                     Key("⌫", onKey, 1.5f)
                 }
                 Row(Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.spacedBy(3.dp)) {
@@ -310,6 +379,55 @@ fun KeyboardScreen(
             }
 
             // 浮层：使用 matchParentSize() 确保绝对重叠在键盘上，完全不撑大容器
+            if (showLetters) {
+                Box(
+                    modifier = Modifier
+                        .matchParentSize()
+                        .background(Color.Black.copy(alpha = 0.25f))
+                ) {
+                    val innerRadiusPx = with(density) { 78.dp.toPx() }
+                    val outerRadiusPx = with(density) { 142.dp.toPx() }
+                    val letterStep = 360.0 / 13.0
+
+                    letters.forEachIndexed { index, letter ->
+                        val isInner = index < 13
+                        val radius = if (isInner) innerRadiusPx else outerRadiusPx
+                        val slot = if (isInner) index else index - 13
+                        val angleRad = Math.toRadians(slot * letterStep)
+
+                        val itemCenterX = letterWheelCenter.x + radius * cos(angleRad).toFloat()
+                        val itemCenterY = letterWheelCenter.y + radius * sin(angleRad).toFloat()
+                        val offsetX = with(density) { (itemCenterX - itemSizePx / 2f).toDp() }
+                        val offsetY = with(density) { (itemCenterY - itemSizePx / 2f).toDp() }
+                        val selected = index == selectedLetterIndex
+
+                        Surface(
+                            modifier = Modifier
+                                .offset(x = offsetX, y = offsetY)
+                                .size(itemSizeDp),
+                            shape = MaterialTheme.shapes.extraLarge,
+                            color = if (selected) {
+                                MaterialTheme.colorScheme.primary
+                            } else {
+                                MaterialTheme.colorScheme.surface
+                            },
+                            tonalElevation = if (selected) 8.dp else 2.dp
+                        ) {
+                            Box(contentAlignment = Alignment.Center) {
+                                Text(
+                                    text = letter,
+                                    style = MaterialTheme.typography.titleMedium,
+                                    color = if (selected) {
+                                        MaterialTheme.colorScheme.onPrimary
+                                    } else {
+                                        MaterialTheme.colorScheme.onSurface
+                                    }
+                                )
+                            }
+                        }
+                    }
+                }
+            }
             if (showPunctuation) {
                 Box(
                     modifier = Modifier
@@ -480,6 +598,59 @@ private fun RowScope.EnterKey(
             contentPadding = PaddingValues(0.dp)
         ) {
             Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) { Text("↵", maxLines = 1) }
+        }
+    }
+}
+
+@Composable
+private fun RowScope.LetterKey(
+    label: String,
+    onClick: (String) -> Unit,
+    onLongPressStart: (Offset) -> Unit,
+    onDrag: (Offset) -> Unit,
+    onRelease: () -> Unit
+) {
+    var keyWindowPos by remember { mutableStateOf(Offset.Zero) }
+
+    Box(
+        modifier = Modifier
+            .weight(1f)
+            .height(52.dp)
+            .onGloballyPositioned { coordinates ->
+                keyWindowPos = coordinates.positionInWindow()
+            }
+    ) {
+        Button(
+            onClick = {},
+            modifier = Modifier
+                .fillMaxSize()
+                .pointerInput(label) {
+                    awaitEachGesture {
+                        val down = awaitFirstDown(requireUnconsumed = false)
+                        down.consume()
+
+                        val longPress = awaitLongPressOrCancellation(down.id)
+                        if (longPress == null) {
+                            onClick(label)
+                        } else {
+                            // 以被长按字母键的中心作为双环轮盘圆心。
+                            val center = keyWindowPos + Offset(size.width / 2f, size.height / 2f)
+                            onLongPressStart(center)
+
+                            drag(down.id) { change ->
+                                onDrag(keyWindowPos + change.position)
+                                change.consume()
+                            }
+
+                            onRelease()
+                        }
+                    }
+                },
+            contentPadding = PaddingValues(0.dp)
+        ) {
+            Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                Text(label, maxLines = 1)
+            }
         }
     }
 }
