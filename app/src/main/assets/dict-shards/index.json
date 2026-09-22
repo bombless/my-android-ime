@@ -1,0 +1,410 @@
+{
+  "format": 1,
+  "shardPrefixLength": 2,
+  "shards": {
+    "aa": {
+      "path": "a/aa.dict.yaml",
+      "entries": 1487
+    },
+    "ai": {
+      "path": "a/ai.dict.yaml",
+      "entries": 2300
+    },
+    "an": {
+      "path": "a/an.dict.yaml",
+      "entries": 3653
+    },
+    "ao": {
+      "path": "a/ao.dict.yaml",
+      "entries": 1230
+    },
+    "ba": {
+      "path": "b/ba.dict.yaml",
+      "entries": 17829
+    },
+    "be": {
+      "path": "b/be.dict.yaml",
+      "entries": 6523
+    },
+    "bi": {
+      "path": "b/bi.dict.yaml",
+      "entries": 11460
+    },
+    "bo": {
+      "path": "b/bo.dict.yaml",
+      "entries": 1841
+    },
+    "bu": {
+      "path": "b/bu.dict.yaml",
+      "entries": 14312
+    },
+    "ca": {
+      "path": "c/ca.dict.yaml",
+      "entries": 6738
+    },
+    "ce": {
+      "path": "c/ce.dict.yaml",
+      "entries": 1483
+    },
+    "ch": {
+      "path": "c/ch.dict.yaml",
+      "entries": 35924
+    },
+    "ci": {
+      "path": "c/ci.dict.yaml",
+      "entries": 1719
+    },
+    "co": {
+      "path": "c/co.dict.yaml",
+      "entries": 1364
+    },
+    "cu": {
+      "path": "c/cu.dict.yaml",
+      "entries": 2461
+    },
+    "da": {
+      "path": "d/da.dict.yaml",
+      "entries": 20686
+    },
+    "de": {
+      "path": "d/de.dict.yaml",
+      "entries": 3702
+    },
+    "di": {
+      "path": "d/di.dict.yaml",
+      "entries": 14872
+    },
+    "do": {
+      "path": "d/do.dict.yaml",
+      "entries": 8308
+    },
+    "du": {
+      "path": "d/du.dict.yaml",
+      "entries": 8632
+    },
+    "ee": {
+      "path": "e/ee.dict.yaml",
+      "entries": 1693
+    },
+    "ei": {
+      "path": "e/ei.dict.yaml",
+      "entries": 1
+    },
+    "en": {
+      "path": "e/en.dict.yaml",
+      "entries": 223
+    },
+    "er": {
+      "path": "e/er.dict.yaml",
+      "entries": 5258
+    },
+    "fa": {
+      "path": "f/fa.dict.yaml",
+      "entries": 10496
+    },
+    "fe": {
+      "path": "f/fe.dict.yaml",
+      "entries": 9947
+    },
+    "fo": {
+      "path": "f/fo.dict.yaml",
+      "entries": 314
+    },
+    "fu": {
+      "path": "f/fu.dict.yaml",
+      "entries": 6886
+    },
+    "ga": {
+      "path": "g/ga.dict.yaml",
+      "entries": 10393
+    },
+    "ge": {
+      "path": "g/ge.dict.yaml",
+      "entries": 6504
+    },
+    "go": {
+      "path": "g/go.dict.yaml",
+      "entries": 6708
+    },
+    "gu": {
+      "path": "g/gu.dict.yaml",
+      "entries": 17569
+    },
+    "ha": {
+      "path": "h/ha.dict.yaml",
+      "entries": 12034
+    },
+    "he": {
+      "path": "h/he.dict.yaml",
+      "entries": 9243
+    },
+    "ho": {
+      "path": "h/ho.dict.yaml",
+      "entries": 4396
+    },
+    "hu": {
+      "path": "h/hu.dict.yaml",
+      "entries": 21228
+    },
+    "ji": {
+      "path": "j/ji.dict.yaml",
+      "entries": 51583
+    },
+    "ju": {
+      "path": "j/ju.dict.yaml",
+      "entries": 6078
+    },
+    "ka": {
+      "path": "k/ka.dict.yaml",
+      "entries": 7567
+    },
+    "ke": {
+      "path": "k/ke.dict.yaml",
+      "entries": 5632
+    },
+    "ko": {
+      "path": "k/ko.dict.yaml",
+      "entries": 2597
+    },
+    "ku": {
+      "path": "k/ku.dict.yaml",
+      "entries": 4899
+    },
+    "la": {
+      "path": "l/la.dict.yaml",
+      "entries": 6962
+    },
+    "le": {
+      "path": "l/le.dict.yaml",
+      "entries": 2587
+    },
+    "li": {
+      "path": "l/li.dict.yaml",
+      "entries": 23013
+    },
+    "lo": {
+      "path": "l/lo.dict.yaml",
+      "entries": 2153
+    },
+    "lu": {
+      "path": "l/lu.dict.yaml",
+      "entries": 5932
+    },
+    "lv": {
+      "path": "l/lv.dict.yaml",
+      "entries": 2085
+    },
+    "ma": {
+      "path": "m/ma.dict.yaml",
+      "entries": 8195
+    },
+    "me": {
+      "path": "m/me.dict.yaml",
+      "entries": 10817
+    },
+    "mi": {
+      "path": "m/mi.dict.yaml",
+      "entries": 7518
+    },
+    "mo": {
+      "path": "m/mo.dict.yaml",
+      "entries": 3804
+    },
+    "mu": {
+      "path": "m/mu.dict.yaml",
+      "entries": 2139
+    },
+    "na": {
+      "path": "n/na.dict.yaml",
+      "entries": 7484
+    },
+    "ne": {
+      "path": "n/ne.dict.yaml",
+      "entries": 2609
+    },
+    "ni": {
+      "path": "n/ni.dict.yaml",
+      "entries": 9645
+    },
+    "no": {
+      "path": "n/no.dict.yaml",
+      "entries": 1267
+    },
+    "nu": {
+      "path": "n/nu.dict.yaml",
+      "entries": 842
+    },
+    "nv": {
+      "path": "n/nv.dict.yaml",
+      "entries": 984
+    },
+    "oo": {
+      "path": "o/oo.dict.yaml",
+      "entries": 31
+    },
+    "ou": {
+      "path": "o/ou.dict.yaml",
+      "entries": 834
+    },
+    "pa": {
+      "path": "p/pa.dict.yaml",
+      "entries": 3818
+    },
+    "pe": {
+      "path": "p/pe.dict.yaml",
+      "entries": 2242
+    },
+    "pi": {
+      "path": "p/pi.dict.yaml",
+      "entries": 5990
+    },
+    "po": {
+      "path": "p/po.dict.yaml",
+      "entries": 960
+    },
+    "pu": {
+      "path": "p/pu.dict.yaml",
+      "entries": 1544
+    },
+    "qi": {
+      "path": "q/qi.dict.yaml",
+      "entries": 25482
+    },
+    "qu": {
+      "path": "q/qu.dict.yaml",
+      "entries": 7051
+    },
+    "ra": {
+      "path": "r/ra.dict.yaml",
+      "entries": 1085
+    },
+    "re": {
+      "path": "r/re.dict.yaml",
+      "entries": 5615
+    },
+    "ri": {
+      "path": "r/ri.dict.yaml",
+      "entries": 1487
+    },
+    "ro": {
+      "path": "r/ro.dict.yaml",
+      "entries": 1435
+    },
+    "ru": {
+      "path": "r/ru.dict.yaml",
+      "entries": 3569
+    },
+    "sa": {
+      "path": "s/sa.dict.yaml",
+      "entries": 8058
+    },
+    "se": {
+      "path": "s/se.dict.yaml",
+      "entries": 587
+    },
+    "sh": {
+      "path": "s/sh.dict.yaml",
+      "entries": 54327
+    },
+    "si": {
+      "path": "s/si.dict.yaml",
+      "entries": 7426
+    },
+    "so": {
+      "path": "s/so.dict.yaml",
+      "entries": 1707
+    },
+    "su": {
+      "path": "s/su.dict.yaml",
+      "entries": 5747
+    },
+    "ta": {
+      "path": "t/ta.dict.yaml",
+      "entries": 10600
+    },
+    "te": {
+      "path": "t/te.dict.yaml",
+      "entries": 1744
+    },
+    "ti": {
+      "path": "t/ti.dict.yaml",
+      "entries": 11429
+    },
+    "to": {
+      "path": "t/to.dict.yaml",
+      "entries": 5619
+    },
+    "tu": {
+      "path": "t/tu.dict.yaml",
+      "entries": 5961
+    },
+    "wa": {
+      "path": "w/wa.dict.yaml",
+      "entries": 9737
+    },
+    "we": {
+      "path": "w/we.dict.yaml",
+      "entries": 10559
+    },
+    "wo": {
+      "path": "w/wo.dict.yaml",
+      "entries": 7484
+    },
+    "wu": {
+      "path": "w/wu.dict.yaml",
+      "entries": 11484
+    },
+    "xi": {
+      "path": "x/xi.dict.yaml",
+      "entries": 44806
+    },
+    "xu": {
+      "path": "x/xu.dict.yaml",
+      "entries": 8018
+    },
+    "ya": {
+      "path": "y/ya.dict.yaml",
+      "entries": 12952
+    },
+    "ye": {
+      "path": "y/ye.dict.yaml",
+      "entries": 3502
+    },
+    "yi": {
+      "path": "y/yi.dict.yaml",
+      "entries": 29729
+    },
+    "yo": {
+      "path": "y/yo.dict.yaml",
+      "entries": 12336
+    },
+    "yu": {
+      "path": "y/yu.dict.yaml",
+      "entries": 14973
+    },
+    "za": {
+      "path": "z/za.dict.yaml",
+      "entries": 6934
+    },
+    "ze": {
+      "path": "z/ze.dict.yaml",
+      "entries": 2126
+    },
+    "zh": {
+      "path": "z/zh.dict.yaml",
+      "entries": 51052
+    },
+    "zi": {
+      "path": "z/zi.dict.yaml",
+      "entries": 5587
+    },
+    "zo": {
+      "path": "z/zo.dict.yaml",
+      "entries": 2761
+    },
+    "zu": {
+      "path": "z/zu.dict.yaml",
+      "entries": 7905
+    }
+  }
+}

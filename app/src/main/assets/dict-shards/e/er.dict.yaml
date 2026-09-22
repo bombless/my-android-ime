@@ -1,0 +1,5263 @@
+---
+name: merged.er
+version: "1.0"
+sort: by_weight
+...
+二〇〇	er ling ling	100
+二〇〇〇	er ling ling ling	9999
+二〇〇〇年	er ling ling ling nian	100
+二〇〇一	er ling ling yi	9999
+二〇〇一年	er ling ling yi nian	100
+二〇〇七	er ling ling qi	9999
+二〇〇七年	er ling ling qi nian	100
+二〇〇三	er ling ling san	9999
+二〇〇三年	er ling ling san nian	100
+二〇〇九	er ling ling jiu	99
+二〇〇九年	er ling ling jiu nian	100
+二〇〇二	er ling ling er	99
+二〇〇二年	er ling ling er nian	100
+二〇〇五	er ling ling wu	9999
+二〇〇五年	er ling ling wu nian	100
+二〇〇八	er ling ling ba	99
+二〇〇八年	er ling ling ba nian	100
+二〇〇六	er ling ling liu	9999
+二〇〇六年	er ling ling liu nian	100
+二〇〇四	er ling ling si	9999
+二〇〇四年	er ling ling si nian	100
+二〇一〇	er ling yi ling	129
+二〇一〇年	er ling yi ling nian	543
+二〇一一	er ling yi yi	100
+二〇一一年	er ling yi yi nian	100
+二〇一七	er ling yi qi	100
+二〇一七年	er ling yi qi nian	100
+二〇一三	er ling yi san	100
+二〇一三年	er ling yi san nian	100
+二〇一九	er ling yi jiu	100
+二〇一九年	er ling yi jiu nian	100
+二〇一二	er ling yi er	100
+二〇一二年	er ling yi er nian	100
+二〇一五	er ling yi wu	100
+二〇一五年	er ling yi wu nian	100
+二〇一八	er ling yi ba	100
+二〇一八年	er ling yi ba nian	100
+二〇一六	er ling yi liu	100
+二〇一六年	er ling yi liu nian	100
+二〇一四	er ling yi si	100
+二〇一四年	er ling yi si nian	100
+二〇七〇	er ling qi ling	100
+二〇七〇年	er ling qi ling nian	100
+二〇七一	er ling qi yi	100
+二〇七一年	er ling qi yi nian	100
+二〇七七	er ling qi qi	100
+二〇七七年	er ling qi qi nian	100
+二〇七三	er ling qi san	100
+二〇七三年	er ling qi san nian	100
+二〇七九	er ling qi jiu	100
+二〇七九年	er ling qi jiu nian	100
+二〇七二	er ling qi er	100
+二〇七二年	er ling qi er nian	100
+二〇七五	er ling qi wu	100
+二〇七五年	er ling qi wu nian	100
+二〇七八	er ling qi ba	100
+二〇七八年	er ling qi ba nian	100
+二〇七六	er ling qi liu	100
+二〇七六年	er ling qi liu nian	100
+二〇七四	er ling qi si	100
+二〇七四年	er ling qi si nian	100
+二〇三	er ling san	165
+二〇三〇	er ling san ling	100
+二〇三〇年	er ling san ling nian	100
+二〇三一	er ling san yi	100
+二〇三一年	er ling san yi nian	100
+二〇三七	er ling san qi	100
+二〇三七年	er ling san qi nian	100
+二〇三三	er ling san san	100
+二〇三三年	er ling san san nian	100
+二〇三九	er ling san jiu	100
+二〇三九年	er ling san jiu nian	100
+二〇三二	er ling san er	100
+二〇三二年	er ling san er nian	100
+二〇三五	er ling san wu	168
+二〇三五年	er ling san wu nian	100
+二〇三五远景目标	er ling san wu yuan jing mu biao	87
+二〇三五远景规划目标	er ling san wu yuan jing gui hua mu biao	87
+二〇三八	er ling san ba	100
+二〇三八年	er ling san ba nian	100
+二〇三六	er ling san liu	100
+二〇三六年	er ling san liu nian	100
+二〇三四	er ling san si	100
+二〇三四年	er ling san si nian	100
+二〇九〇	er ling jiu ling	100
+二〇九〇年	er ling jiu ling nian	100
+二〇九一	er ling jiu yi	100
+二〇九一年	er ling jiu yi nian	100
+二〇九七	er ling jiu qi	100
+二〇九七年	er ling jiu qi nian	100
+二〇九三	er ling jiu san	100
+二〇九三年	er ling jiu san nian	100
+二〇九九	er ling jiu jiu	100
+二〇九九年	er ling jiu jiu nian	100
+二〇九二	er ling jiu er	100
+二〇九二年	er ling jiu er nian	100
+二〇九五	er ling jiu wu	100
+二〇九五年	er ling jiu wu nian	100
+二〇九八	er ling jiu ba	100
+二〇九八年	er ling jiu ba nian	100
+二〇九六	er ling jiu liu	100
+二〇九六年	er ling jiu liu nian	100
+二〇九四	er ling jiu si	100
+二〇九四年	er ling jiu si nian	100
+二〇二〇	er ling er ling	135
+二〇二〇年	er ling er ling nian	100
+二〇二一	er ling er yi	149
+二〇二一年	er ling er yi nian	197
+二〇二七	er ling er qi	100
+二〇二七年	er ling er qi nian	100
+二〇二三	er ling er san	100
+二〇二三年	er ling er san nian	100
+二〇二九	er ling er jiu	100
+二〇二九年	er ling er jiu nian	100
+二〇二二	er ling er er	172
+二〇二二年	er ling er er nian	100
+二〇二五	er ling er wu	100
+二〇二五年	er ling er wu nian	100
+二〇二八	er ling er ba	100
+二〇二八年	er ling er ba nian	100
+二〇二六	er ling er liu	100
+二〇二六年	er ling er liu nian	100
+二〇二四	er ling er si	100
+二〇二四年	er ling er si nian	100
+二〇五〇	er ling wu ling	100
+二〇五〇年	er ling wu ling nian	100
+二〇五一	er ling wu yi	100
+二〇五一年	er ling wu yi nian	100
+二〇五七	er ling wu qi	100
+二〇五七年	er ling wu qi nian	100
+二〇五三	er ling wu san	100
+二〇五三年	er ling wu san nian	100
+二〇五九	er ling wu jiu	100
+二〇五九年	er ling wu jiu nian	100
+二〇五二	er ling wu er	100
+二〇五二年	er ling wu er nian	100
+二〇五五	er ling wu wu	100
+二〇五五年	er ling wu wu nian	100
+二〇五八	er ling wu ba	100
+二〇五八年	er ling wu ba nian	100
+二〇五六	er ling wu liu	100
+二〇五六年	er ling wu liu nian	100
+二〇五四	er ling wu si	100
+二〇五四年	er ling wu si nian	100
+二〇五所	er ling wu suo	4
+二〇八〇	er ling ba ling	100
+二〇八〇年	er ling ba ling nian	100
+二〇八一	er ling ba yi	100
+二〇八一年	er ling ba yi nian	100
+二〇八七	er ling ba qi	100
+二〇八七年	er ling ba qi nian	100
+二〇八三	er ling ba san	100
+二〇八三年	er ling ba san nian	100
+二〇八九	er ling ba jiu	100
+二〇八九年	er ling ba jiu nian	100
+二〇八二	er ling ba er	100
+二〇八二年	er ling ba er nian	100
+二〇八五	er ling ba wu	100
+二〇八五年	er ling ba wu nian	100
+二〇八八	er ling ba ba	100
+二〇八八年	er ling ba ba nian	100
+二〇八六	er ling ba liu	100
+二〇八六年	er ling ba liu nian	100
+二〇八四	er ling ba si	100
+二〇八四年	er ling ba si nian	100
+二〇六〇	er ling liu ling	100
+二〇六〇年	er ling liu ling nian	100
+二〇六一	er ling liu yi	100
+二〇六一年	er ling liu yi nian	100
+二〇六七	er ling liu qi	100
+二〇六七年	er ling liu qi nian	100
+二〇六三	er ling liu san	100
+二〇六三年	er ling liu san nian	100
+二〇六九	er ling liu jiu	100
+二〇六九年	er ling liu jiu nian	100
+二〇六二	er ling liu er	100
+二〇六二年	er ling liu er nian	100
+二〇六五	er ling liu wu	100
+二〇六五年	er ling liu wu nian	100
+二〇六八	er ling liu ba	100
+二〇六八年	er ling liu ba nian	100
+二〇六六	er ling liu liu	100
+二〇六六年	er ling liu liu nian	100
+二〇六四	er ling liu si	100
+二〇六四年	er ling liu si nian	100
+二〇后	er ling hou	100
+二〇后们	er ling hou men	100
+二〇四〇	er ling si ling	100
+二〇四〇年	er ling si ling nian	100
+二〇四一	er ling si yi	100
+二〇四一年	er ling si yi nian	100
+二〇四七	er ling si qi	100
+二〇四七年	er ling si qi nian	100
+二〇四三	er ling si san	100
+二〇四三年	er ling si san nian	100
+二〇四九	er ling si jiu	100
+二〇四九年	er ling si jiu nian	100
+二〇四二	er ling si er	100
+二〇四二年	er ling si er nian	100
+二〇四五	er ling si wu	100
+二〇四五年	er ling si wu nian	100
+二〇四八	er ling si ba	100
+二〇四八年	er ling si ba nian	100
+二〇四六	er ling si liu	100
+二〇四六年	er ling si liu nian	100
+二〇四四	er ling si si	100
+二〇四四年	er ling si si nian	100
+二一〇〇	er yi ling ling	100
+二一〇〇年	er yi ling ling nian	100
+二一〇一	er yi ling yi	100
+二一〇一年	er yi ling yi nian	100
+二一〇七	er yi ling qi	100
+二一〇七年	er yi ling qi nian	100
+二一〇三	er yi ling san	100
+二一〇三年	er yi ling san nian	100
+二一〇九	er yi ling jiu	100
+二一〇九年	er yi ling jiu nian	100
+二一〇二	er yi ling er	100
+二一〇二年	er yi ling er nian	100
+二一〇五	er yi ling wu	100
+二一〇五年	er yi ling wu nian	100
+二一〇八	er yi ling ba	100
+二一〇八年	er yi ling ba nian	100
+二一〇六	er yi ling liu	100
+二一〇六年	er yi ling liu nian	100
+二一〇四	er yi ling si	100
+二一〇四年	er yi ling si nian	100
+二一一	er yi yi	100
+二一一〇	er yi yi ling	100
+二一一〇年	er yi yi ling nian	100
+二一一一	er yi yi yi	100
+二一一一年	er yi yi yi nian	100
+二一一七	er yi yi qi	100
+二一一七年	er yi yi qi nian	100
+二一一三	er yi yi san	100
+二一一三年	er yi yi san nian	100
+二一一九	er yi yi jiu	100
+二一一九年	er yi yi jiu nian	100
+二一一二	er yi yi er	100
+二一一二年	er yi yi er nian	100
+二一一五	er yi yi wu	100
+二一一五年	er yi yi wu nian	100
+二一一八	er yi yi ba	100
+二一一八年	er yi yi ba nian	100
+二一一六	er yi yi liu	100
+二一一六年	er yi yi liu nian	100
+二一一四	er yi yi si	100
+二一一四年	er yi yi si nian	100
+二一七〇	er yi qi ling	100
+二一七〇年	er yi qi ling nian	100
+二一七一	er yi qi yi	100
+二一七一年	er yi qi yi nian	100
+二一七七	er yi qi qi	100
+二一七七年	er yi qi qi nian	100
+二一七三	er yi qi san	100
+二一七三年	er yi qi san nian	100
+二一七九	er yi qi jiu	100
+二一七九年	er yi qi jiu nian	100
+二一七二	er yi qi er	100
+二一七二年	er yi qi er nian	100
+二一七五	er yi qi wu	100
+二一七五年	er yi qi wu nian	100
+二一七八	er yi qi ba	100
+二一七八年	er yi qi ba nian	100
+二一七六	er yi qi liu	100
+二一七六年	er yi qi liu nian	100
+二一七四	er yi qi si	100
+二一七四年	er yi qi si nian	100
+二一三〇	er yi san ling	100
+二一三〇年	er yi san ling nian	100
+二一三一	er yi san yi	100
+二一三一年	er yi san yi nian	100
+二一三七	er yi san qi	100
+二一三七年	er yi san qi nian	100
+二一三三	er yi san san	100
+二一三三年	er yi san san nian	100
+二一三九	er yi san jiu	100
+二一三九年	er yi san jiu nian	100
+二一三二	er yi san er	100
+二一三二年	er yi san er nian	100
+二一三五	er yi san wu	100
+二一三五年	er yi san wu nian	100
+二一三八	er yi san ba	100
+二一三八年	er yi san ba nian	100
+二一三六	er yi san liu	100
+二一三六年	er yi san liu nian	100
+二一三四	er yi san si	100
+二一三四年	er yi san si nian	100
+二一九	er yi jiu	132
+二一九〇	er yi jiu ling	100
+二一九〇年	er yi jiu ling nian	100
+二一九一	er yi jiu yi	100
+二一九一年	er yi jiu yi nian	100
+二一九七	er yi jiu qi	100
+二一九七年	er yi jiu qi nian	100
+二一九三	er yi jiu san	100
+二一九三年	er yi jiu san nian	100
+二一九九	er yi jiu jiu	100
+二一九九年	er yi jiu jiu nian	100
+二一九二	er yi jiu er	100
+二一九二年	er yi jiu er nian	100
+二一九五	er yi jiu wu	100
+二一九五年	er yi jiu wu nian	100
+二一九八	er yi jiu ba	100
+二一九八年	er yi jiu ba nian	100
+二一九六	er yi jiu liu	100
+二一九六年	er yi jiu liu nian	100
+二一九四	er yi jiu si	100
+二一九四年	er yi jiu si nian	100
+二一二〇	er yi er ling	100
+二一二〇年	er yi er ling nian	100
+二一二一	er yi er yi	100
+二一二一年	er yi er yi nian	100
+二一二七	er yi er qi	100
+二一二七年	er yi er qi nian	100
+二一二三	er yi er san	100
+二一二三年	er yi er san nian	100
+二一二九	er yi er jiu	100
+二一二九年	er yi er jiu nian	100
+二一二二	er yi er er	100
+二一二二年	er yi er er nian	100
+二一二五	er yi er wu	100
+二一二五年	er yi er wu nian	100
+二一二八	er yi er ba	100
+二一二八年	er yi er ba nian	100
+二一二六	er yi er liu	100
+二一二六年	er yi er liu nian	100
+二一二四	er yi er si	100
+二一二四年	er yi er si nian	100
+二一五〇	er yi wu ling	100
+二一五〇年	er yi wu ling nian	100
+二一五一	er yi wu yi	100
+二一五一年	er yi wu yi nian	100
+二一五七	er yi wu qi	100
+二一五七年	er yi wu qi nian	100
+二一五三	er yi wu san	100
+二一五三年	er yi wu san nian	100
+二一五九	er yi wu jiu	100
+二一五九年	er yi wu jiu nian	100
+二一五二	er yi wu er	100
+二一五二年	er yi wu er nian	100
+二一五五	er yi wu wu	100
+二一五五年	er yi wu wu nian	100
+二一五八	er yi wu ba	100
+二一五八年	er yi wu ba nian	100
+二一五六	er yi wu liu	100
+二一五六年	er yi wu liu nian	100
+二一五四	er yi wu si	100
+二一五四年	er yi wu si nian	100
+二一八〇	er yi ba ling	100
+二一八〇年	er yi ba ling nian	100
+二一八一	er yi ba yi	100
+二一八一年	er yi ba yi nian	100
+二一八七	er yi ba qi	100
+二一八七年	er yi ba qi nian	100
+二一八三	er yi ba san	100
+二一八三年	er yi ba san nian	100
+二一八九	er yi ba jiu	100
+二一八九年	er yi ba jiu nian	100
+二一八二	er yi ba er	100
+二一八二年	er yi ba er nian	100
+二一八五	er yi ba wu	100
+二一八五年	er yi ba wu nian	100
+二一八八	er yi ba ba	100
+二一八八年	er yi ba ba nian	100
+二一八六	er yi ba liu	100
+二一八六年	er yi ba liu nian	100
+二一八四	er yi ba si	100
+二一八四年	er yi ba si nian	100
+二一六〇	er yi liu ling	100
+二一六〇年	er yi liu ling nian	100
+二一六一	er yi liu yi	100
+二一六一年	er yi liu yi nian	100
+二一六七	er yi liu qi	100
+二一六七年	er yi liu qi nian	100
+二一六三	er yi liu san	100
+二一六三年	er yi liu san nian	100
+二一六九	er yi liu jiu	100
+二一六九年	er yi liu jiu nian	100
+二一六二	er yi liu er	100
+二一六二年	er yi liu er nian	100
+二一六五	er yi liu wu	100
+二一六五年	er yi liu wu nian	100
+二一六八	er yi liu ba	100
+二一六八年	er yi liu ba nian	100
+二一六六	er yi liu liu	100
+二一六六年	er yi liu liu nian	100
+二一六四	er yi liu si	100
+二一六四年	er yi liu si nian	100
+二一医院	er yi yi yuan	33
+二一四〇	er yi si ling	100
+二一四〇年	er yi si ling nian	100
+二一四一	er yi si yi	100
+二一四一年	er yi si yi nian	100
+二一四七	er yi si qi	100
+二一四七年	er yi si qi nian	100
+二一四三	er yi si san	100
+二一四三年	er yi si san nian	100
+二一四九	er yi si jiu	100
+二一四九年	er yi si jiu nian	100
+二一四二	er yi si er	100
+二一四二年	er yi si er nian	100
+二一四五	er yi si wu	100
+二一四五年	er yi si wu nian	100
+二一四八	er yi si ba	100
+二一四八年	er yi si ba nian	100
+二一四六	er yi si liu	100
+二一四六年	er yi si liu nian	100
+二一四四	er yi si si	100
+二一四四年	er yi si si nian	100
+二一添作五	er yi tian zuo wu	250
+二丁	er ding	136
+二丁基羟基甲苯	er ding ji qiang ji jia ben	39
+二丁挂	er ding gua	100
+二丁醚	er ding mi	100
+二七	er qi	27220
+二七〇〇	er qi ling ling	100
+二七〇〇年	er qi ling ling nian	100
+二七〇一	er qi ling yi	100
+二七〇一年	er qi ling yi nian	100
+二七〇七	er qi ling qi	100
+二七〇七年	er qi ling qi nian	100
+二七〇三	er qi ling san	100
+二七〇三年	er qi ling san nian	100
+二七〇九	er qi ling jiu	100
+二七〇九年	er qi ling jiu nian	100
+二七〇二	er qi ling er	100
+二七〇二年	er qi ling er nian	100
+二七〇五	er qi ling wu	100
+二七〇五年	er qi ling wu nian	100
+二七〇八	er qi ling ba	100
+二七〇八年	er qi ling ba nian	100
+二七〇六	er qi ling liu	100
+二七〇六年	er qi ling liu nian	100
+二七〇四	er qi ling si	100
+二七〇四年	er qi ling si nian	100
+二七一〇	er qi yi ling	100
+二七一〇年	er qi yi ling nian	100
+二七一一	er qi yi yi	100
+二七一一年	er qi yi yi nian	100
+二七一七	er qi yi qi	100
+二七一七年	er qi yi qi nian	100
+二七一三	er qi yi san	100
+二七一三年	er qi yi san nian	100
+二七一九	er qi yi jiu	100
+二七一九年	er qi yi jiu nian	100
+二七一二	er qi yi er	100
+二七一二年	er qi yi er nian	100
+二七一五	er qi yi wu	100
+二七一五年	er qi yi wu nian	100
+二七一八	er qi yi ba	100
+二七一八年	er qi yi ba nian	100
+二七一六	er qi yi liu	100
+二七一六年	er qi yi liu nian	100
+二七一四	er qi yi si	100
+二七一四年	er qi yi si nian	100
+二七七〇	er qi qi ling	100
+二七七〇年	er qi qi ling nian	100
+二七七一	er qi qi yi	100
+二七七一年	er qi qi yi nian	100
+二七七七	er qi qi qi	100
+二七七七年	er qi qi qi nian	100
+二七七三	er qi qi san	100
+二七七三年	er qi qi san nian	100
+二七七九	er qi qi jiu	100
+二七七九年	er qi qi jiu nian	100
+二七七二	er qi qi er	100
+二七七二年	er qi qi er nian	100
+二七七五	er qi qi wu	100
+二七七五年	er qi qi wu nian	100
+二七七八	er qi qi ba	100
+二七七八年	er qi qi ba nian	100
+二七七六	er qi qi liu	100
+二七七六年	er qi qi liu nian	100
+二七七四	er qi qi si	100
+二七七四年	er qi qi si nian	100
+二七三〇	er qi san ling	100
+二七三〇年	er qi san ling nian	100
+二七三一	er qi san yi	100
+二七三一年	er qi san yi nian	100
+二七三七	er qi san qi	100
+二七三七年	er qi san qi nian	100
+二七三三	er qi san san	100
+二七三三年	er qi san san nian	100
+二七三九	er qi san jiu	100
+二七三九年	er qi san jiu nian	100
+二七三二	er qi san er	100
+二七三二年	er qi san er nian	100
+二七三五	er qi san wu	100
+二七三五年	er qi san wu nian	100
+二七三八	er qi san ba	100
+二七三八年	er qi san ba nian	100
+二七三六	er qi san liu	100
+二七三六年	er qi san liu nian	100
+二七三医院	er qi san yi yuan	1
+二七三四	er qi san si	100
+二七三四年	er qi san si nian	100
+二七九〇	er qi jiu ling	100
+二七九〇年	er qi jiu ling nian	100
+二七九一	er qi jiu yi	100
+二七九一年	er qi jiu yi nian	100
+二七九七	er qi jiu qi	100
+二七九七年	er qi jiu qi nian	100
+二七九三	er qi jiu san	100
+二七九三年	er qi jiu san nian	100
+二七九九	er qi jiu jiu	100
+二七九九年	er qi jiu jiu nian	100
+二七九二	er qi jiu er	100
+二七九二年	er qi jiu er nian	100
+二七九五	er qi jiu wu	100
+二七九五年	er qi jiu wu nian	100
+二七九八	er qi jiu ba	100
+二七九八年	er qi jiu ba nian	100
+二七九六	er qi jiu liu	100
+二七九六年	er qi jiu liu nian	100
+二七九四	er qi jiu si	100
+二七九四年	er qi jiu si nian	100
+二七二〇	er qi er ling	100
+二七二〇年	er qi er ling nian	100
+二七二一	er qi er yi	100
+二七二一年	er qi er yi nian	100
+二七二七	er qi er qi	100
+二七二七年	er qi er qi nian	100
+二七二三	er qi er san	100
+二七二三年	er qi er san nian	100
+二七二九	er qi er jiu	100
+二七二九年	er qi er jiu nian	100
+二七二二	er qi er er	100
+二七二二年	er qi er er nian	100
+二七二五	er qi er wu	100
+二七二五年	er qi er wu nian	100
+二七二八	er qi er ba	100
+二七二八年	er qi er ba nian	100
+二七二六	er qi er liu	100
+二七二六年	er qi er liu nian	100
+二七二四	er qi er si	100
+二七二四年	er qi er si nian	100
+二七五〇	er qi wu ling	100
+二七五〇年	er qi wu ling nian	100
+二七五一	er qi wu yi	100
+二七五一年	er qi wu yi nian	100
+二七五七	er qi wu qi	100
+二七五七年	er qi wu qi nian	100
+二七五三	er qi wu san	100
+二七五三年	er qi wu san nian	100
+二七五九	er qi wu jiu	100
+二七五九年	er qi wu jiu nian	100
+二七五二	er qi wu er	100
+二七五二年	er qi wu er nian	100
+二七五五	er qi wu wu	100
+二七五五年	er qi wu wu nian	100
+二七五八	er qi wu ba	100
+二七五八年	er qi wu ba nian	100
+二七五六	er qi wu liu	100
+二七五六年	er qi wu liu nian	100
+二七五四	er qi wu si	100
+二七五四年	er qi wu si nian	100
+二七八〇	er qi ba ling	100
+二七八〇年	er qi ba ling nian	100
+二七八一	er qi ba yi	100
+二七八一年	er qi ba yi nian	100
+二七八七	er qi ba qi	100
+二七八七年	er qi ba qi nian	100
+二七八三	er qi ba san	100
+二七八三年	er qi ba san nian	100
+二七八九	er qi ba jiu	100
+二七八九年	er qi ba jiu nian	100
+二七八二	er qi ba er	100
+二七八二年	er qi ba er nian	100
+二七八五	er qi ba wu	100
+二七八五年	er qi ba wu nian	100
+二七八八	er qi ba ba	100
+二七八八年	er qi ba ba nian	100
+二七八六	er qi ba liu	100
+二七八六年	er qi ba liu nian	100
+二七八四	er qi ba si	100
+二七八四年	er qi ba si nian	100
+二七六〇	er qi liu ling	100
+二七六〇年	er qi liu ling nian	100
+二七六一	er qi liu yi	100
+二七六一年	er qi liu yi nian	100
+二七六七	er qi liu qi	100
+二七六七年	er qi liu qi nian	100
+二七六三	er qi liu san	100
+二七六三年	er qi liu san nian	100
+二七六九	er qi liu jiu	100
+二七六九年	er qi liu jiu nian	100
+二七六二	er qi liu er	100
+二七六二年	er qi liu er nian	100
+二七六五	er qi liu wu	100
+二七六五年	er qi liu wu nian	100
+二七六八	er qi liu ba	100
+二七六八年	er qi liu ba nian	100
+二七六六	er qi liu liu	100
+二七六六年	er qi liu liu nian	100
+二七六四	er qi liu si	100
+二七六四年	er qi liu si nian	100
+二七区	er qi qu	5395
+二七十四	er qi shi si	100
+二七厂	er qi chang	23
+二七四〇	er qi si ling	100
+二七四〇年	er qi si ling nian	100
+二七四一	er qi si yi	100
+二七四一年	er qi si yi nian	100
+二七四七	er qi si qi	100
+二七四七年	er qi si qi nian	100
+二七四三	er qi si san	100
+二七四三年	er qi si san nian	100
+二七四九	er qi si jiu	100
+二七四九年	er qi si jiu nian	100
+二七四二	er qi si er	100
+二七四二年	er qi si er nian	100
+二七四五	er qi si wu	100
+二七四五年	er qi si wu nian	100
+二七四八	er qi si ba	100
+二七四八年	er qi si ba nian	100
+二七四六	er qi si liu	100
+二七四六年	er qi si liu nian	100
+二七四四	er qi si si	100
+二七四四年	er qi si si nian	100
+二七大罢工	er qi da ba gong	160
+二七广场	er qi guang chang	586
+二七新村	er qi xin cun	191
+二七路	er qi lu	2215
+二七长江大桥	er qi chang jiang da qiao	100
+二万	er wan	24825
+二万七千	er wan qi qian	100
+二万三千	er wan san qian	100
+二万个	er wan ge	240
+二万九千	er wan jiu qian	100
+二万二千	er wan er qian	100
+二万五	er wan wu	191
+二万五千	er wan wu qian	2065
+二万五千里长征	er wan wu qian li chang zheng	3240
+二万人	er wan ren	1510
+二万倍	er wan bei	200
+二万元	er wan yuan	21635
+二万六千	er wan liu qian	100
+二万四千	er wan si qian	100
+二万块	er wan kuai	100
+二万多	er wan duo	100
+二三	er san	66680
+二三〇〇	er san ling ling	100
+二三〇〇年	er san ling ling nian	100
+二三〇一	er san ling yi	100
+二三〇一年	er san ling yi nian	100
+二三〇七	er san ling qi	100
+二三〇七年	er san ling qi nian	100
+二三〇三	er san ling san	100
+二三〇三年	er san ling san nian	100
+二三〇九	er san ling jiu	100
+二三〇九年	er san ling jiu nian	100
+二三〇二	er san ling er	100
+二三〇二年	er san ling er nian	100
+二三〇五	er san ling wu	100
+二三〇五年	er san ling wu nian	100
+二三〇八	er san ling ba	100
+二三〇八年	er san ling ba nian	100
+二三〇六	er san ling liu	100
+二三〇六年	er san ling liu nian	100
+二三〇四	er san ling si	100
+二三〇四年	er san ling si nian	100
+二三一〇	er san yi ling	100
+二三一〇年	er san yi ling nian	100
+二三一一	er san yi yi	100
+二三一一年	er san yi yi nian	100
+二三一七	er san yi qi	100
+二三一七年	er san yi qi nian	100
+二三一三	er san yi san	100
+二三一三年	er san yi san nian	100
+二三一九	er san yi jiu	100
+二三一九年	er san yi jiu nian	100
+二三一二	er san yi er	100
+二三一二年	er san yi er nian	100
+二三一五	er san yi wu	100
+二三一五年	er san yi wu nian	100
+二三一八	er san yi ba	100
+二三一八年	er san yi ba nian	100
+二三一六	er san yi liu	100
+二三一六年	er san yi liu nian	100
+二三一四	er san yi si	100
+二三一四年	er san yi si nian	100
+二三七〇	er san qi ling	100
+二三七〇年	er san qi ling nian	100
+二三七一	er san qi yi	100
+二三七一年	er san qi yi nian	100
+二三七七	er san qi qi	100
+二三七七年	er san qi qi nian	100
+二三七三	er san qi san	100
+二三七三年	er san qi san nian	100
+二三七九	er san qi jiu	100
+二三七九年	er san qi jiu nian	100
+二三七二	er san qi er	100
+二三七二年	er san qi er nian	100
+二三七五	er san qi wu	100
+二三七五年	er san qi wu nian	100
+二三七八	er san qi ba	100
+二三七八年	er san qi ba nian	100
+二三七六	er san qi liu	100
+二三七六年	er san qi liu nian	100
+二三七四	er san qi si	100
+二三七四年	er san qi si nian	100
+二三万	er san wan	360
+二三三〇	er san san ling	100
+二三三〇年	er san san ling nian	100
+二三三一	er san san yi	100
+二三三一年	er san san yi nian	100
+二三三七	er san san qi	100
+二三三七年	er san san qi nian	100
+二三三三	er san san san	100
+二三三三年	er san san san nian	100
+二三三九	er san san jiu	100
+二三三九年	er san san jiu nian	100
+二三三二	er san san er	100
+二三三二年	er san san er nian	100
+二三三五	er san san wu	100
+二三三五年	er san san wu nian	100
+二三三八	er san san ba	100
+二三三八年	er san san ba nian	100
+二三三六	er san san liu	100
+二三三六年	er san san liu nian	100
+二三三四	er san san si	100
+二三三四年	er san san si nian	100
+二三个	er san ge	1850
+二三九〇	er san jiu ling	100
+二三九〇年	er san jiu ling nian	100
+二三九一	er san jiu yi	100
+二三九一年	er san jiu yi nian	100
+二三九七	er san jiu qi	100
+二三九七年	er san jiu qi nian	100
+二三九三	er san jiu san	100
+二三九三年	er san jiu san nian	100
+二三九九	er san jiu jiu	100
+二三九九年	er san jiu jiu nian	100
+二三九二	er san jiu er	100
+二三九二年	er san jiu er nian	100
+二三九五	er san jiu wu	100
+二三九五年	er san jiu wu nian	100
+二三九八	er san jiu ba	100
+二三九八年	er san jiu ba nian	100
+二三九六	er san jiu liu	100
+二三九六年	er san jiu liu nian	100
+二三九四	er san jiu si	100
+二三九四年	er san jiu si nian	100
+二三事	er san shi	2090
+二三二〇	er san er ling	100
+二三二〇年	er san er ling nian	100
+二三二一	er san er yi	100
+二三二一年	er san er yi nian	100
+二三二七	er san er qi	100
+二三二七年	er san er qi nian	100
+二三二三	er san er san	100
+二三二三年	er san er san nian	100
+二三二九	er san er jiu	100
+二三二九年	er san er jiu nian	100
+二三二二	er san er er	100
+二三二二年	er san er er nian	100
+二三二五	er san er wu	100
+二三二五年	er san er wu nian	100
+二三二八	er san er ba	100
+二三二八年	er san er ba nian	100
+二三二六	er san er liu	100
+二三二六年	er san er liu nian	100
+二三二四	er san er si	100
+二三二四年	er san er si nian	100
+二三五〇	er san wu ling	100
+二三五〇年	er san wu ling nian	100
+二三五一	er san wu yi	100
+二三五一年	er san wu yi nian	100
+二三五七	er san wu qi	100
+二三五七年	er san wu qi nian	100
+二三五三	er san wu san	100
+二三五三年	er san wu san nian	100
+二三五九	er san wu jiu	100
+二三五九年	er san wu jiu nian	100
+二三五二	er san wu er	100
+二三五二年	er san wu er nian	100
+二三五五	er san wu wu	100
+二三五五年	er san wu wu nian	100
+二三五八	er san wu ba	100
+二三五八年	er san wu ba nian	100
+二三五六	er san wu liu	100
+二三五六年	er san wu liu nian	100
+二三五四	er san wu si	100
+二三五四年	er san wu si nian	100
+二三件	er san jian	100
+二三位	er san wei	470
+二三兆	er san zhao	1
+二三八〇	er san ba ling	100
+二三八〇年	er san ba ling nian	100
+二三八一	er san ba yi	100
+二三八一年	er san ba yi nian	100
+二三八七	er san ba qi	100
+二三八七年	er san ba qi nian	100
+二三八三	er san ba san	100
+二三八三年	er san ba san nian	100
+二三八九	er san ba jiu	100
+二三八九年	er san ba jiu nian	100
+二三八二	er san ba er	100
+二三八二年	er san ba er nian	100
+二三八五	er san ba wu	100
+二三八五年	er san ba wu nian	100
+二三八八	er san ba ba	100
+二三八八年	er san ba ba nian	100
+二三八六	er san ba liu	100
+二三八六年	er san ba liu nian	100
+二三八四	er san ba si	100
+二三八四年	er san ba si nian	100
+二三六〇	er san liu ling	100
+二三六〇年	er san liu ling nian	100
+二三六一	er san liu yi	100
+二三六一年	er san liu yi nian	100
+二三六七	er san liu qi	100
+二三六七年	er san liu qi nian	100
+二三六三	er san liu san	100
+二三六三年	er san liu san nian	100
+二三六九	er san liu jiu	100
+二三六九年	er san liu jiu nian	100
+二三六二	er san liu er	100
+二三六二年	er san liu er nian	100
+二三六五	er san liu wu	100
+二三六五年	er san liu wu nian	100
+二三六八	er san liu ba	100
+二三六八年	er san liu ba nian	100
+二三六六	er san liu liu	100
+二三六六年	er san liu liu nian	100
+二三六四	er san liu si	100
+二三六四年	er san liu si nian	100
+二三其德	er san qi de	205
+二三其志	er san qi zhi	1
+二三其意	er san qi yi	100
+二三其操	er san qi cao	1
+二三其节	er san qi jie	1
+二三十	er san shi	14315
+二三十个	er san shi ge	122
+二三十岁	er san shi sui	100
+二三十岁的	er san shi sui de	100
+二三十岁的人	er san shi sui de ren	100
+二三十岁的人了	er san shi sui de ren le	100
+二三十年	er san shi nian	100
+二三十年后	er san shi nian hou	100
+二三君子	er san jun zi	8
+二三四〇	er san si ling	100
+二三四〇年	er san si ling nian	100
+二三四一	er san si yi	100
+二三四一年	er san si yi nian	100
+二三四七	er san si qi	100
+二三四七年	er san si qi nian	100
+二三四三	er san si san	100
+二三四三年	er san si san nian	100
+二三四九	er san si jiu	100
+二三四九年	er san si jiu nian	100
+二三四二	er san si er	100
+二三四二年	er san si er nian	100
+二三四五	er san si wu	100
+二三四五六	er san si wu liu	100
+二三四五六七	er san si wu liu qi	100
+二三四五六七八	er san si wu liu qi ba	100
+二三四五六七八九	er san si wu liu qi ba jiu	100
+二三四五六七八九十	er san si wu liu qi ba jiu shi	100
+二三四五年	er san si wu nian	100
+二三四八	er san si ba	100
+二三四八年	er san si ba nian	100
+二三四六	er san si liu	100
+二三四六年	er san si liu nian	100
+二三四四	er san si si	100
+二三四四年	er san si si nian	100
+二三子	er san zi	1370
+二三季度	er san ji du	100
+二三年	er san nian	18815
+二三年级	er san nian ji	124
+二三得六	er san de liu	100
+二三成	er san cheng	194
+二三月	er san yue	930
+二三本	er san ben	192
+二三次	er san ci	1170
+二三流	er san liu	1575
+二三班	er san ban	100
+二三百	er san bai	2670
+二三线城市	er san xian cheng shi	100
+二不	er bu	9650
+二不休	er bu xiu	3525
+二不怕死	er bu pa si	163
+二不抢	er bu qiang	58
+二专	er zhuan	1750
+二专制	er zhuan zhi	100
+二世	er shi	33725
+二世祖	er shi zu	100
+二世纪	er shi ji	2460
+二世而亡	er shi er wang	100
+二两	er liang	18370
+二两拨千斤	er liang bo qian jin	100
+二两粮教	er liang liang jiao	100
+二两肉	er liang rou	100
+二两银子	er liang yin zi	100
+二个	er ge	110425
+二个人	er ge ren	3845
+二个孔	er ge kong	330
+二个字	er ge zi	5065
+二个小时	er ge xiao shi	100
+二个月	er ge yue	17005
+二丫	er ya	1975
+二中	er zhong	73000
+二中全会	er zhong quan hui	2680
+二中分校	er zhong fen xiao	100
+二中操场	er zhong cao chang	93
+二中队	er zhong dui	7400
+二中院	er zhong yuan	3905
+二串一	er chuan yi	113
+二为	er wei	11995
+二义性	er yi xing	3446
+二义情况	er yi qing kuang	1
+二之宫知子	er zhi gong zhi zi	2
+二之日栗烈	er zhi ri li lie	100
+二乎	er hu	1
+二乐章	er yue zhang	100
+二乔	er qiao	43
+二乔玉兰	er qiao yu lan	310
+二乘法	er cheng fa	76
+二乙二醇	er yi er chun	4820
+二乙基	er yi ji	3500
+二乙氨基乙醇	er yi an ji yi chun	1
+二乙烯苯	er yi xi ben	185
+二乙胺	er yi an	1040
+二乙胺基	er yi an ji	105
+二乙酯	er yi zhi	71
+二九	er jiu	6540
+二九〇〇	er jiu ling ling	100
+二九〇〇年	er jiu ling ling nian	100
+二九〇一	er jiu ling yi	100
+二九〇一年	er jiu ling yi nian	100
+二九〇七	er jiu ling qi	100
+二九〇七年	er jiu ling qi nian	100
+二九〇三	er jiu ling san	100
+二九〇三年	er jiu ling san nian	100
+二九〇九	er jiu ling jiu	100
+二九〇九年	er jiu ling jiu nian	100
+二九〇二	er jiu ling er	100
+二九〇二年	er jiu ling er nian	100
+二九〇五	er jiu ling wu	100
+二九〇五年	er jiu ling wu nian	100
+二九〇八	er jiu ling ba	100
+二九〇八年	er jiu ling ba nian	100
+二九〇六	er jiu ling liu	100
+二九〇六年	er jiu ling liu nian	100
+二九〇农场	er jiu ling nong chang	1
+二九〇四	er jiu ling si	100
+二九〇四年	er jiu ling si nian	100
+二九一〇	er jiu yi ling	100
+二九一〇年	er jiu yi ling nian	100
+二九一一	er jiu yi yi	100
+二九一一年	er jiu yi yi nian	100
+二九一七	er jiu yi qi	100
+二九一七年	er jiu yi qi nian	100
+二九一三	er jiu yi san	100
+二九一三年	er jiu yi san nian	100
+二九一九	er jiu yi jiu	100
+二九一九年	er jiu yi jiu nian	100
+二九一二	er jiu yi er	100
+二九一二年	er jiu yi er nian	100
+二九一五	er jiu yi wu	100
+二九一五年	er jiu yi wu nian	100
+二九一八	er jiu yi ba	100
+二九一八年	er jiu yi ba nian	100
+二九一六	er jiu yi liu	100
+二九一六年	er jiu yi liu nian	100
+二九一四	er jiu yi si	100
+二九一四年	er jiu yi si nian	100
+二九七〇	er jiu qi ling	100
+二九七〇年	er jiu qi ling nian	100
+二九七一	er jiu qi yi	100
+二九七一年	er jiu qi yi nian	100
+二九七七	er jiu qi qi	100
+二九七七年	er jiu qi qi nian	100
+二九七三	er jiu qi san	100
+二九七三年	er jiu qi san nian	100
+二九七九	er jiu qi jiu	100
+二九七九年	er jiu qi jiu nian	100
+二九七二	er jiu qi er	100
+二九七二年	er jiu qi er nian	100
+二九七五	er jiu qi wu	100
+二九七五年	er jiu qi wu nian	100
+二九七八	er jiu qi ba	100
+二九七八年	er jiu qi ba nian	100
+二九七六	er jiu qi liu	100
+二九七六年	er jiu qi liu nian	100
+二九七四	er jiu qi si	100
+二九七四年	er jiu qi si nian	100
+二九三〇	er jiu san ling	100
+二九三〇年	er jiu san ling nian	100
+二九三一	er jiu san yi	100
+二九三一年	er jiu san yi nian	100
+二九三七	er jiu san qi	100
+二九三七年	er jiu san qi nian	100
+二九三三	er jiu san san	100
+二九三三年	er jiu san san nian	100
+二九三九	er jiu san jiu	100
+二九三九年	er jiu san jiu nian	100
+二九三二	er jiu san er	100
+二九三二年	er jiu san er nian	100
+二九三五	er jiu san wu	100
+二九三五年	er jiu san wu nian	100
+二九三八	er jiu san ba	100
+二九三八年	er jiu san ba nian	100
+二九三六	er jiu san liu	100
+二九三六年	er jiu san liu nian	100
+二九三四	er jiu san si	100
+二九三四年	er jiu san si nian	100
+二九九〇	er jiu jiu ling	100
+二九九〇年	er jiu jiu ling nian	100
+二九九一	er jiu jiu yi	100
+二九九一年	er jiu jiu yi nian	100
+二九九七	er jiu jiu qi	100
+二九九七年	er jiu jiu qi nian	100
+二九九三	er jiu jiu san	100
+二九九三年	er jiu jiu san nian	100
+二九九九	er jiu jiu jiu	100
+二九九九年	er jiu jiu jiu nian	100
+二九九二	er jiu jiu er	100
+二九九二年	er jiu jiu er nian	100
+二九九五	er jiu jiu wu	100
+二九九五年	er jiu jiu wu nian	100
+二九九八	er jiu jiu ba	100
+二九九八年	er jiu jiu ba nian	100
+二九九六	er jiu jiu liu	100
+二九九六年	er jiu jiu liu nian	100
+二九九四	er jiu jiu si	100
+二九九四年	er jiu jiu si nian	100
+二九二〇	er jiu er ling	100
+二九二〇年	er jiu er ling nian	100
+二九二一	er jiu er yi	100
+二九二一年	er jiu er yi nian	100
+二九二七	er jiu er qi	100
+二九二七年	er jiu er qi nian	100
+二九二三	er jiu er san	100
+二九二三年	er jiu er san nian	100
+二九二九	er jiu er jiu	100
+二九二九年	er jiu er jiu nian	100
+二九二二	er jiu er er	100
+二九二二年	er jiu er er nian	100
+二九二五	er jiu er wu	100
+二九二五年	er jiu er wu nian	100
+二九二八	er jiu er ba	100
+二九二八年	er jiu er ba nian	100
+二九二六	er jiu er liu	100
+二九二六年	er jiu er liu nian	100
+二九二四	er jiu er si	100
+二九二四年	er jiu er si nian	100
+二九五〇	er jiu wu ling	100
+二九五〇年	er jiu wu ling nian	100
+二九五一	er jiu wu yi	100
+二九五一年	er jiu wu yi nian	100
+二九五七	er jiu wu qi	100
+二九五七年	er jiu wu qi nian	100
+二九五三	er jiu wu san	100
+二九五三年	er jiu wu san nian	100
+二九五九	er jiu wu jiu	100
+二九五九年	er jiu wu jiu nian	100
+二九五二	er jiu wu er	100
+二九五二年	er jiu wu er nian	100
+二九五五	er jiu wu wu	100
+二九五五年	er jiu wu wu nian	100
+二九五八	er jiu wu ba	100
+二九五八年	er jiu wu ba nian	100
+二九五六	er jiu wu liu	100
+二九五六年	er jiu wu liu nian	100
+二九五四	er jiu wu si	100
+二九五四年	er jiu wu si nian	100
+二九八〇	er jiu ba ling	100
+二九八〇年	er jiu ba ling nian	100
+二九八一	er jiu ba yi	100
+二九八一年	er jiu ba yi nian	100
+二九八七	er jiu ba qi	100
+二九八七年	er jiu ba qi nian	100
+二九八三	er jiu ba san	100
+二九八三年	er jiu ba san nian	100
+二九八九	er jiu ba jiu	100
+二九八九年	er jiu ba jiu nian	100
+二九八二	er jiu ba er	100
+二九八二年	er jiu ba er nian	100
+二九八五	er jiu ba wu	100
+二九八五年	er jiu ba wu nian	100
+二九八八	er jiu ba ba	100
+二九八八年	er jiu ba ba nian	100
+二九八六	er jiu ba liu	100
+二九八六年	er jiu ba liu nian	100
+二九八四	er jiu ba si	100
+二九八四年	er jiu ba si nian	100
+二九六〇	er jiu liu ling	100
+二九六〇年	er jiu liu ling nian	100
+二九六一	er jiu liu yi	100
+二九六一年	er jiu liu yi nian	100
+二九六七	er jiu liu qi	100
+二九六七年	er jiu liu qi nian	100
+二九六三	er jiu liu san	100
+二九六三年	er jiu liu san nian	100
+二九六九	er jiu liu jiu	100
+二九六九年	er jiu liu jiu nian	100
+二九六二	er jiu liu er	100
+二九六二年	er jiu liu er nian	100
+二九六五	er jiu liu wu	100
+二九六五年	er jiu liu wu nian	100
+二九六八	er jiu liu ba	100
+二九六八年	er jiu liu ba nian	100
+二九六六	er jiu liu liu	100
+二九六六年	er jiu liu liu nian	100
+二九六四	er jiu liu si	100
+二九六四年	er jiu liu si nian	100
+二九十八	er jiu shi ba	100
+二九四〇	er jiu si ling	100
+二九四〇年	er jiu si ling nian	100
+二九四一	er jiu si yi	100
+二九四一年	er jiu si yi nian	100
+二九四七	er jiu si qi	100
+二九四七年	er jiu si qi nian	100
+二九四三	er jiu si san	100
+二九四三年	er jiu si san nian	100
+二九四九	er jiu si jiu	100
+二九四九年	er jiu si jiu nian	100
+二九四二	er jiu si er	100
+二九四二年	er jiu si er nian	100
+二九四五	er jiu si wu	100
+二九四五年	er jiu si wu nian	100
+二九四八	er jiu si ba	100
+二九四八年	er jiu si ba nian	100
+二九四六	er jiu si liu	100
+二九四六年	er jiu si liu nian	100
+二九四四	er jiu si si	100
+二九四四年	er jiu si si nian	100
+二了吧唧	er le ba ji	11
+二二	er er	19280
+二二〇〇	er er ling ling	100
+二二〇〇年	er er ling ling nian	100
+二二〇一	er er ling yi	100
+二二〇一年	er er ling yi nian	100
+二二〇七	er er ling qi	100
+二二〇七年	er er ling qi nian	100
+二二〇三	er er ling san	100
+二二〇三年	er er ling san nian	100
+二二〇九	er er ling jiu	100
+二二〇九年	er er ling jiu nian	100
+二二〇二	er er ling er	100
+二二〇二年	er er ling er nian	100
+二二〇五	er er ling wu	100
+二二〇五年	er er ling wu nian	100
+二二〇八	er er ling ba	100
+二二〇八年	er er ling ba nian	100
+二二〇六	er er ling liu	100
+二二〇六年	er er ling liu nian	100
+二二〇四	er er ling si	100
+二二〇四年	er er ling si nian	100
+二二一〇	er er yi ling	100
+二二一〇年	er er yi ling nian	100
+二二一一	er er yi yi	100
+二二一一年	er er yi yi nian	100
+二二一七	er er yi qi	100
+二二一七年	er er yi qi nian	100
+二二一三	er er yi san	100
+二二一三年	er er yi san nian	100
+二二一九	er er yi jiu	100
+二二一九年	er er yi jiu nian	100
+二二一二	er er yi er	100
+二二一二年	er er yi er nian	100
+二二一五	er er yi wu	100
+二二一五年	er er yi wu nian	100
+二二一八	er er yi ba	100
+二二一八年	er er yi ba nian	100
+二二一六	er er yi liu	100
+二二一六年	er er yi liu nian	100
+二二一四	er er yi si	100
+二二一四年	er er yi si nian	100
+二二七〇	er er qi ling	100
+二二七〇年	er er qi ling nian	100
+二二七一	er er qi yi	100
+二二七一年	er er qi yi nian	100
+二二七七	er er qi qi	100
+二二七七年	er er qi qi nian	100
+二二七三	er er qi san	100
+二二七三年	er er qi san nian	100
+二二七九	er er qi jiu	100
+二二七九年	er er qi jiu nian	100
+二二七二	er er qi er	100
+二二七二年	er er qi er nian	100
+二二七五	er er qi wu	100
+二二七五年	er er qi wu nian	100
+二二七八	er er qi ba	100
+二二七八年	er er qi ba nian	100
+二二七六	er er qi liu	100
+二二七六年	er er qi liu nian	100
+二二七四	er er qi si	100
+二二七四年	er er qi si nian	100
+二二三〇	er er san ling	100
+二二三〇年	er er san ling nian	100
+二二三一	er er san yi	100
+二二三一年	er er san yi nian	100
+二二三七	er er san qi	100
+二二三七年	er er san qi nian	100
+二二三三	er er san san	100
+二二三三年	er er san san nian	100
+二二三九	er er san jiu	100
+二二三九年	er er san jiu nian	100
+二二三二	er er san er	100
+二二三二年	er er san er nian	100
+二二三五	er er san wu	100
+二二三五年	er er san wu nian	100
+二二三八	er er san ba	100
+二二三八年	er er san ba nian	100
+二二三六	er er san liu	100
+二二三六年	er er san liu nian	100
+二二三四	er er san si	100
+二二三四年	er er san si nian	100
+二二乎乎	er er hu hu	20
+二二九〇	er er jiu ling	100
+二二九〇年	er er jiu ling nian	100
+二二九一	er er jiu yi	100
+二二九一年	er er jiu yi nian	100
+二二九七	er er jiu qi	100
+二二九七年	er er jiu qi nian	100
+二二九三	er er jiu san	100
+二二九三年	er er jiu san nian	100
+二二九九	er er jiu jiu	100
+二二九九年	er er jiu jiu nian	100
+二二九二	er er jiu er	100
+二二九二年	er er jiu er nian	100
+二二九五	er er jiu wu	100
+二二九五年	er er jiu wu nian	100
+二二九八	er er jiu ba	100
+二二九八年	er er jiu ba nian	100
+二二九六	er er jiu liu	100
+二二九六年	er er jiu liu nian	100
+二二九四	er er jiu si	100
+二二九四年	er er jiu si nian	100
+二二二〇	er er er ling	100
+二二二〇年	er er er ling nian	100
+二二二一	er er er yi	100
+二二二一年	er er er yi nian	100
+二二二七	er er er qi	100
+二二二七年	er er er qi nian	100
+二二二三	er er er san	100
+二二二三年	er er er san nian	100
+二二二九	er er er jiu	100
+二二二九年	er er er jiu nian	100
+二二二二	er er er er	100
+二二二二年	er er er er nian	100
+二二二五	er er er wu	100
+二二二五年	er er er wu nian	100
+二二二八	er er er ba	100
+二二二八年	er er er ba nian	100
+二二二六	er er er liu	100
+二二二六年	er er er liu nian	100
+二二二四	er er er si	100
+二二二四年	er er er si nian	100
+二二五〇	er er wu ling	100
+二二五〇年	er er wu ling nian	100
+二二五一	er er wu yi	100
+二二五一年	er er wu yi nian	100
+二二五七	er er wu qi	100
+二二五七年	er er wu qi nian	100
+二二五三	er er wu san	100
+二二五三年	er er wu san nian	100
+二二五九	er er wu jiu	100
+二二五九年	er er wu jiu nian	100
+二二五二	er er wu er	100
+二二五二年	er er wu er nian	100
+二二五五	er er wu wu	100
+二二五五年	er er wu wu nian	100
+二二五八	er er wu ba	100
+二二五八年	er er wu ba nian	100
+二二五六	er er wu liu	100
+二二五六年	er er wu liu nian	100
+二二五四	er er wu si	100
+二二五四年	er er wu si nian	100
+二二八	er er ba	100
+二二八〇	er er ba ling	100
+二二八〇年	er er ba ling nian	100
+二二八一	er er ba yi	100
+二二八一年	er er ba yi nian	100
+二二八七	er er ba qi	100
+二二八七年	er er ba qi nian	100
+二二八三	er er ba san	100
+二二八三年	er er ba san nian	100
+二二八九	er er ba jiu	100
+二二八九年	er er ba jiu nian	100
+二二八事件	er er ba shi jian	100
+二二八事变	er er ba shi bian	100
+二二八二	er er ba er	100
+二二八二年	er er ba er nian	100
+二二八五	er er ba wu	100
+二二八五年	er er ba wu nian	100
+二二八八	er er ba ba	100
+二二八八年	er er ba ba nian	100
+二二八六	er er ba liu	100
+二二八六年	er er ba liu nian	100
+二二八和平公园	er er ba he ping gong yuan	100
+二二八四	er er ba si	100
+二二八四年	er er ba si nian	100
+二二六〇	er er liu ling	100
+二二六〇年	er er liu ling nian	100
+二二六一	er er liu yi	100
+二二六一年	er er liu yi nian	100
+二二六七	er er liu qi	100
+二二六七年	er er liu qi nian	100
+二二六三	er er liu san	100
+二二六三年	er er liu san nian	100
+二二六九	er er liu jiu	100
+二二六九年	er er liu jiu nian	100
+二二六二	er er liu er	100
+二二六二年	er er liu er nian	100
+二二六五	er er liu wu	100
+二二六五年	er er liu wu nian	100
+二二六八	er er liu ba	100
+二二六八年	er er liu ba nian	100
+二二六六	er er liu liu	100
+二二六六年	er er liu liu nian	100
+二二六四	er er liu si	100
+二二六四年	er er liu si nian	100
+二二四〇	er er si ling	100
+二二四〇年	er er si ling nian	100
+二二四一	er er si yi	100
+二二四一年	er er si yi nian	100
+二二四七	er er si qi	100
+二二四七年	er er si qi nian	100
+二二四三	er er si san	100
+二二四三年	er er si san nian	100
+二二四九	er er si jiu	100
+二二四九年	er er si jiu nian	100
+二二四二	er er si er	100
+二二四二年	er er si er nian	100
+二二四五	er er si wu	100
+二二四五年	er er si wu nian	100
+二二四八	er er si ba	100
+二二四八年	er er si ba nian	100
+二二四六	er er si liu	100
+二二四六年	er er si liu nian	100
+二二四四	er er si si	100
+二二四四年	er er si si nian	100
+二二得四	er er de si	150
+二二拍子	er er pai zi	100
+二五	er wu	51840
+二五〇〇	er wu ling ling	100
+二五〇〇年	er wu ling ling nian	100
+二五〇一	er wu ling yi	100
+二五〇一年	er wu ling yi nian	100
+二五〇七	er wu ling qi	100
+二五〇七年	er wu ling qi nian	100
+二五〇三	er wu ling san	100
+二五〇三年	er wu ling san nian	100
+二五〇九	er wu ling jiu	100
+二五〇九年	er wu ling jiu nian	100
+二五〇二	er wu ling er	100
+二五〇二年	er wu ling er nian	100
+二五〇五	er wu ling wu	100
+二五〇五年	er wu ling wu nian	100
+二五〇八	er wu ling ba	100
+二五〇八年	er wu ling ba nian	100
+二五〇六	er wu ling liu	100
+二五〇六年	er wu ling liu nian	100
+二五〇四	er wu ling si	100
+二五〇四年	er wu ling si nian	100
+二五一〇	er wu yi ling	100
+二五一〇年	er wu yi ling nian	100
+二五一一	er wu yi yi	100
+二五一一年	er wu yi yi nian	100
+二五一七	er wu yi qi	100
+二五一七年	er wu yi qi nian	100
+二五一三	er wu yi san	100
+二五一三年	er wu yi san nian	100
+二五一九	er wu yi jiu	100
+二五一九年	er wu yi jiu nian	100
+二五一二	er wu yi er	100
+二五一二年	er wu yi er nian	100
+二五一五	er wu yi wu	100
+二五一五年	er wu yi wu nian	100
+二五一八	er wu yi ba	100
+二五一八年	er wu yi ba nian	100
+二五一六	er wu yi liu	100
+二五一六年	er wu yi liu nian	100
+二五一十	er wu yi shi	100
+二五一四	er wu yi si	100
+二五一四年	er wu yi si nian	100
+二五七〇	er wu qi ling	100
+二五七〇年	er wu qi ling nian	100
+二五七一	er wu qi yi	100
+二五七一年	er wu qi yi nian	100
+二五七七	er wu qi qi	100
+二五七七年	er wu qi qi nian	100
+二五七三	er wu qi san	100
+二五七三年	er wu qi san nian	100
+二五七九	er wu qi jiu	100
+二五七九年	er wu qi jiu nian	100
+二五七二	er wu qi er	100
+二五七二年	er wu qi er nian	100
+二五七五	er wu qi wu	100
+二五七五年	er wu qi wu nian	100
+二五七八	er wu qi ba	100
+二五七八年	er wu qi ba nian	100
+二五七六	er wu qi liu	100
+二五七六年	er wu qi liu nian	100
+二五七四	er wu qi si	100
+二五七四年	er wu qi si nian	100
+二五三〇	er wu san ling	100
+二五三〇年	er wu san ling nian	100
+二五三一	er wu san yi	100
+二五三一年	er wu san yi nian	100
+二五三七	er wu san qi	100
+二五三七年	er wu san qi nian	100
+二五三三	er wu san san	100
+二五三三年	er wu san san nian	100
+二五三九	er wu san jiu	100
+二五三九年	er wu san jiu nian	100
+二五三二	er wu san er	100
+二五三二年	er wu san er nian	100
+二五三五	er wu san wu	100
+二五三五年	er wu san wu nian	100
+二五三八	er wu san ba	100
+二五三八年	er wu san ba nian	100
+二五三六	er wu san liu	100
+二五三六年	er wu san liu nian	100
+二五三医院	er wu san yi yuan	1
+二五三四	er wu san si	100
+二五三四年	er wu san si nian	100
+二五九〇	er wu jiu ling	100
+二五九〇年	er wu jiu ling nian	100
+二五九一	er wu jiu yi	100
+二五九一年	er wu jiu yi nian	100
+二五九七	er wu jiu qi	100
+二五九七年	er wu jiu qi nian	100
+二五九三	er wu jiu san	100
+二五九三年	er wu jiu san nian	100
+二五九九	er wu jiu jiu	100
+二五九九年	er wu jiu jiu nian	100
+二五九二	er wu jiu er	100
+二五九二年	er wu jiu er nian	100
+二五九五	er wu jiu wu	100
+二五九五年	er wu jiu wu nian	100
+二五九八	er wu jiu ba	100
+二五九八年	er wu jiu ba nian	100
+二五九六	er wu jiu liu	100
+二五九六年	er wu jiu liu nian	100
+二五九四	er wu jiu si	100
+二五九四年	er wu jiu si nian	100
+二五二〇	er wu er ling	100
+二五二〇年	er wu er ling nian	100
+二五二一	er wu er yi	100
+二五二一年	er wu er yi nian	100
+二五二七	er wu er qi	100
+二五二七年	er wu er qi nian	100
+二五二三	er wu er san	100
+二五二三年	er wu er san nian	100
+二五二九	er wu er jiu	100
+二五二九年	er wu er jiu nian	100
+二五二二	er wu er er	100
+二五二二年	er wu er er nian	100
+二五二五	er wu er wu	100
+二五二五年	er wu er wu nian	100
+二五二八	er wu er ba	100
+二五二八年	er wu er ba nian	100
+二五二六	er wu er liu	100
+二五二六年	er wu er liu nian	100
+二五二四	er wu er si	100
+二五二四年	er wu er si nian	100
+二五五〇	er wu wu ling	100
+二五五〇年	er wu wu ling nian	100
+二五五一	er wu wu yi	100
+二五五一年	er wu wu yi nian	100
+二五五七	er wu wu qi	100
+二五五七年	er wu wu qi nian	100
+二五五三	er wu wu san	100
+二五五三年	er wu wu san nian	100
+二五五九	er wu wu jiu	100
+二五五九年	er wu wu jiu nian	100
+二五五二	er wu wu er	100
+二五五二年	er wu wu er nian	100
+二五五五	er wu wu wu	100
+二五五五年	er wu wu wu nian	100
+二五五八	er wu wu ba	100
+二五五八年	er wu wu ba nian	100
+二五五六	er wu wu liu	100
+二五五六年	er wu wu liu nian	100
+二五五四	er wu wu si	100
+二五五四年	er wu wu si nian	100
+二五仔	er wu zai	100
+二五八	er wu ba	194
+二五八〇	er wu ba ling	100
+二五八〇年	er wu ba ling nian	100
+二五八一	er wu ba yi	100
+二五八一年	er wu ba yi nian	100
+二五八七	er wu ba qi	100
+二五八七年	er wu ba qi nian	100
+二五八万	er wu ba wan	100
+二五八三	er wu ba san	100
+二五八三年	er wu ba san nian	100
+二五八九	er wu ba jiu	100
+二五八九年	er wu ba jiu nian	100
+二五八二	er wu ba er	100
+二五八二年	er wu ba er nian	100
+二五八五	er wu ba wu	100
+二五八五年	er wu ba wu nian	100
+二五八八	er wu ba ba	100
+二五八八年	er wu ba ba nian	100
+二五八六	er wu ba liu	100
+二五八六年	er wu ba liu nian	100
+二五八四	er wu ba si	100
+二五八四年	er wu ba si nian	100
+二五八条	er wu ba tiao	100
+二五八筒	er wu ba tong	100
+二五八索	er wu ba suo	100
+二五八饼	er wu ba bing	100
+二五六〇	er wu liu ling	100
+二五六〇年	er wu liu ling nian	100
+二五六一	er wu liu yi	100
+二五六一年	er wu liu yi nian	100
+二五六七	er wu liu qi	100
+二五六七年	er wu liu qi nian	100
+二五六三	er wu liu san	100
+二五六三年	er wu liu san nian	100
+二五六九	er wu liu jiu	100
+二五六九年	er wu liu jiu nian	100
+二五六二	er wu liu er	100
+二五六二年	er wu liu er nian	100
+二五六五	er wu liu wu	100
+二五六五年	er wu liu wu nian	100
+二五六八	er wu liu ba	100
+二五六八年	er wu liu ba nian	100
+二五六六	er wu liu liu	100
+二五六六年	er wu liu liu nian	100
+二五六四	er wu liu si	100
+二五六四年	er wu liu si nian	100
+二五四〇	er wu si ling	100
+二五四〇年	er wu si ling nian	100
+二五四一	er wu si yi	100
+二五四一年	er wu si yi nian	100
+二五四七	er wu si qi	100
+二五四七年	er wu si qi nian	100
+二五四三	er wu si san	100
+二五四三年	er wu si san nian	100
+二五四九	er wu si jiu	100
+二五四九年	er wu si jiu nian	100
+二五四二	er wu si er	100
+二五四二年	er wu si er nian	100
+二五四五	er wu si wu	100
+二五四五年	er wu si wu nian	100
+二五四八	er wu si ba	100
+二五四八年	er wu si ba nian	100
+二五四六	er wu si liu	100
+二五四六年	er wu si liu nian	100
+二五四四	er wu si si	100
+二五四四年	er wu si si nian	100
+二五得十	er wu de shi	100
+二五眼	er wu yan	130
+二五耦	er wu ou	1
+二井	er jing	1070
+二井子	er jing zi	117
+二产	er chan	6275
+二产妇	er chan fu	100
+二亩地	er mu di	100
+二人	er ren	363905
+二人世界	er ren shi jie	8600
+二人之间的关系	er ren zhi jian de guan xi	100
+二人份	er ren fen	100
+二人关系	er ren guan xi	100
+二人台	er ren tai	100
+二人同心	er ren tong xin	690
+二人同心其利断金	er ren tong xin qi li duan jin	100
+二人同行	er ren tong hang	100
+二人同行	er ren tong xing	100
+二人斗地主	er ren dou di zhu	100
+二人游戏	er ren you xi	10
+二人的关系	er ren de guan xi	100
+二人组	er ren zu	4455
+二人行	er ren xing	100
+二人转	er ren zhuan	10070
+二人麻将	er ren ma jiang	100
+二亿	er yi	4430
+二亿五千万	er yi wu qian wan	410
+二亿人	er yi ren	100
+二亿元	er yi yuan	1945
+二仑乡	er lun xiang	100
+二仙传道	er xian chuan dao	5
+二仙居碗坨	er xian ju wan tuo	3
+二仙桥	er xian qiao	403
+二仙桥北二路	er xian qiao bei er lu	45
+二仙桥北二路中	er xian qiao bei er lu zhong	9
+二仙桥北路	er xian qiao bei lu	54
+二仙桥街道	er xian qiao jie dao	42
+二仙桥西路北	er xian qiao xi lu bei	1
+二仙汤	er xian tang	3
+二仙烧羊肉	er xian shao yang rou	4
+二代	er dai	50680
+二代妖精	er dai yao jing	100
+二代征信系统	er dai zheng xin xi tong	100
+二代星链	er dai xing lian	100
+二代火影	er dai huo ying	100
+二代病例	er dai bing li	604
+二代粉	er dai fen	100
+二件套	er jian tao	985
+二价	er jia	2360
+二价铁	er jia tie	915
+二任	er ren	665
+二份	er fen	25205
+二伏	er fu	300
+二伏天	er fu tian	128
+二伏面	er fu mian	147
+二传	er chuan	2730
+二传丁霞	er chuan ding xia	100
+二传位置	er chuan wei zhi	100
+二传刁琳宇	er chuan diao lin yu	100
+二传姚迪	er chuan yao di	100
+二传手	er chuan shou	2140
+二伯	er bo	1590
+二伯母	er bo mu	65
+二伯父	er bo fu	360
+二位	er wei	66195
+二位壮士	er wei zhuang shi	100
+二位好	er wei hao	32
+二位数	er wei shu	700
+二体雄蕊	er ti xiong rui	5
+二佛升天	er fo sheng tian	385
+二佛涅槃	er fo nie pan	100
+二作	er zuo	123
+二俱亡羊	er ju wang yang	1
+二倍	er bei	16230
+二倍体	er bei ti	1340
+二倍体细胞	er bei ti xi bao	38
+二倍半水合物	er bei ban shui he wu	100
+二倍性	er bei xing	15
+二倍的	er bei de	1000
+二倍角	er bei jiao	60
+二倍角公式	er bei jiao gong shi	80
+二候地始冻	er hou di shi dong	100
+二值化	er zhi hua	646
+二值图像	er zhi tu xiang	412
+二傻	er sha	1255
+二儿子	er er zi	5730
+二元	er yuan	37565
+二元一次方程	er yuan yi ci fang cheng	1445
+二元关系	er yuan guan xi	280
+二元化	er yuan hua	1920
+二元数	er yuan shu	5
+二元方程	er yuan fang cheng	7
+二元方程式	er yuan fang cheng shi	50
+二元线性方程	er yuan xian xing fang cheng	15
+二元经济	er yuan jing ji	5090
+二元结构	er yuan jie gou	11785
+二元论	er yuan lun	5210
+二元语法	er yuan yu fa	33
+二元运算	er yuan yun suan	295
+二元酸	er yuan suan	1010
+二元醇	er yuan chun	100
+二免三减	er mian san jian	655
+二党制	er dang zhi	100
+二八	er ba	21765
+二八〇〇	er ba ling ling	100
+二八〇〇年	er ba ling ling nian	100
+二八〇一	er ba ling yi	100
+二八〇一年	er ba ling yi nian	100
+二八〇七	er ba ling qi	100
+二八〇七年	er ba ling qi nian	100
+二八〇三	er ba ling san	100
+二八〇三年	er ba ling san nian	100
+二八〇九	er ba ling jiu	100
+二八〇九年	er ba ling jiu nian	100
+二八〇二	er ba ling er	100
+二八〇二年	er ba ling er nian	100
+二八〇五	er ba ling wu	100
+二八〇五年	er ba ling wu nian	100
+二八〇八	er ba ling ba	100
+二八〇八年	er ba ling ba nian	100
+二八〇六	er ba ling liu	100
+二八〇六年	er ba ling liu nian	100
+二八〇四	er ba ling si	100
+二八〇四年	er ba ling si nian	100
+二八一〇	er ba yi ling	100
+二八一〇年	er ba yi ling nian	100
+二八一一	er ba yi yi	100
+二八一一年	er ba yi yi nian	100
+二八一七	er ba yi qi	100
+二八一七年	er ba yi qi nian	100
+二八一三	er ba yi san	100
+二八一三年	er ba yi san nian	100
+二八一九	er ba yi jiu	100
+二八一九年	er ba yi jiu nian	100
+二八一二	er ba yi er	100
+二八一二年	er ba yi er nian	100
+二八一五	er ba yi wu	100
+二八一五年	er ba yi wu nian	100
+二八一八	er ba yi ba	100
+二八一八年	er ba yi ba nian	100
+二八一六	er ba yi liu	100
+二八一六年	er ba yi liu nian	100
+二八一十六	er ba yi shi liu	60
+二八一四	er ba yi si	100
+二八一四年	er ba yi si nian	100
+二八七〇	er ba qi ling	100
+二八七〇年	er ba qi ling nian	100
+二八七一	er ba qi yi	100
+二八七一年	er ba qi yi nian	100
+二八七七	er ba qi qi	100
+二八七七年	er ba qi qi nian	100
+二八七三	er ba qi san	100
+二八七三年	er ba qi san nian	100
+二八七九	er ba qi jiu	100
+二八七九年	er ba qi jiu nian	100
+二八七二	er ba qi er	100
+二八七二年	er ba qi er nian	100
+二八七五	er ba qi wu	100
+二八七五年	er ba qi wu nian	100
+二八七八	er ba qi ba	100
+二八七八年	er ba qi ba nian	100
+二八七六	er ba qi liu	100
+二八七六年	er ba qi liu nian	100
+二八七四	er ba qi si	100
+二八七四年	er ba qi si nian	100
+二八三〇	er ba san ling	100
+二八三〇年	er ba san ling nian	100
+二八三一	er ba san yi	100
+二八三一年	er ba san yi nian	100
+二八三七	er ba san qi	100
+二八三七年	er ba san qi nian	100
+二八三三	er ba san san	100
+二八三三年	er ba san san nian	100
+二八三九	er ba san jiu	100
+二八三九年	er ba san jiu nian	100
+二八三二	er ba san er	100
+二八三二年	er ba san er nian	100
+二八三五	er ba san wu	100
+二八三五年	er ba san wu nian	100
+二八三八	er ba san ba	100
+二八三八年	er ba san ba nian	100
+二八三六	er ba san liu	100
+二八三六年	er ba san liu nian	100
+二八三四	er ba san si	100
+二八三四年	er ba san si nian	100
+二八九〇	er ba jiu ling	100
+二八九〇年	er ba jiu ling nian	100
+二八九一	er ba jiu yi	100
+二八九一年	er ba jiu yi nian	100
+二八九七	er ba jiu qi	100
+二八九七年	er ba jiu qi nian	100
+二八九三	er ba jiu san	100
+二八九三年	er ba jiu san nian	100
+二八九九	er ba jiu jiu	100
+二八九九年	er ba jiu jiu nian	100
+二八九二	er ba jiu er	100
+二八九二年	er ba jiu er nian	100
+二八九五	er ba jiu wu	100
+二八九五年	er ba jiu wu nian	100
+二八九八	er ba jiu ba	100
+二八九八年	er ba jiu ba nian	100
+二八九六	er ba jiu liu	100
+二八九六年	er ba jiu liu nian	100
+二八九四	er ba jiu si	100
+二八九四年	er ba jiu si nian	100
+二八二〇	er ba er ling	100
+二八二〇年	er ba er ling nian	100
+二八二一	er ba er yi	100
+二八二一年	er ba er yi nian	100
+二八二七	er ba er qi	100
+二八二七年	er ba er qi nian	100
+二八二三	er ba er san	100
+二八二三年	er ba er san nian	100
+二八二九	er ba er jiu	100
+二八二九年	er ba er jiu nian	100
+二八二二	er ba er er	100
+二八二二年	er ba er er nian	100
+二八二五	er ba er wu	100
+二八二五年	er ba er wu nian	100
+二八二八	er ba er ba	100
+二八二八年	er ba er ba nian	100
+二八二六	er ba er liu	100
+二八二六年	er ba er liu nian	100
+二八二四	er ba er si	100
+二八二四年	er ba er si nian	100
+二八五〇	er ba wu ling	100
+二八五〇年	er ba wu ling nian	100
+二八五一	er ba wu yi	100
+二八五一年	er ba wu yi nian	100
+二八五七	er ba wu qi	100
+二八五七年	er ba wu qi nian	100
+二八五三	er ba wu san	100
+二八五三年	er ba wu san nian	100
+二八五九	er ba wu jiu	100
+二八五九年	er ba wu jiu nian	100
+二八五二	er ba wu er	100
+二八五二年	er ba wu er nian	100
+二八五五	er ba wu wu	100
+二八五五年	er ba wu wu nian	100
+二八五八	er ba wu ba	100
+二八五八年	er ba wu ba nian	100
+二八五六	er ba wu liu	100
+二八五六年	er ba wu liu nian	100
+二八五四	er ba wu si	100
+二八五四年	er ba wu si nian	100
+二八佳人	er ba jia ren	435
+二八佳人体似酥	er ba jia ren ti si su	100
+二八八〇	er ba ba ling	100
+二八八〇年	er ba ba ling nian	100
+二八八一	er ba ba yi	100
+二八八一年	er ba ba yi nian	100
+二八八七	er ba ba qi	100
+二八八七年	er ba ba qi nian	100
+二八八三	er ba ba san	100
+二八八三年	er ba ba san nian	100
+二八八九	er ba ba jiu	100
+二八八九年	er ba ba jiu nian	100
+二八八二	er ba ba er	100
+二八八二年	er ba ba er nian	100
+二八八五	er ba ba wu	100
+二八八五年	er ba ba wu nian	100
+二八八八	er ba ba ba	100
+二八八八年	er ba ba ba nian	100
+二八八六	er ba ba liu	100
+二八八六年	er ba ba liu nian	100
+二八八四	er ba ba si	100
+二八八四年	er ba ba si nian	100
+二八六〇	er ba liu ling	100
+二八六〇年	er ba liu ling nian	100
+二八六一	er ba liu yi	100
+二八六一年	er ba liu yi nian	100
+二八六七	er ba liu qi	100
+二八六七年	er ba liu qi nian	100
+二八六三	er ba liu san	100
+二八六三年	er ba liu san nian	100
+二八六九	er ba liu jiu	100
+二八六九年	er ba liu jiu nian	100
+二八六二	er ba liu er	100
+二八六二年	er ba liu er nian	100
+二八六五	er ba liu wu	100
+二八六五年	er ba liu wu nian	100
+二八六八	er ba liu ba	100
+二八六八年	er ba liu ba nian	100
+二八六六	er ba liu liu	100
+二八六六年	er ba liu liu nian	100
+二八六四	er ba liu si	100
+二八六四年	er ba liu si nian	100
+二八十六	er ba shi liu	25
+二八台农场	er ba tai nong chang	5
+二八四〇	er ba si ling	100
+二八四〇年	er ba si ling nian	100
+二八四一	er ba si yi	100
+二八四一年	er ba si yi nian	100
+二八四七	er ba si qi	100
+二八四七年	er ba si qi nian	100
+二八四三	er ba si san	100
+二八四三年	er ba si san nian	100
+二八四九	er ba si jiu	100
+二八四九年	er ba si jiu nian	100
+二八四二	er ba si er	100
+二八四二年	er ba si er nian	100
+二八四五	er ba si wu	100
+二八四五年	er ba si wu nian	100
+二八四八	er ba si ba	100
+二八四八年	er ba si ba nian	100
+二八四六	er ba si liu	100
+二八四六年	er ba si liu nian	100
+二八四四	er ba si si	100
+二八四四年	er ba si si nian	100
+二八大杠	er ba da gang	100
+二八女郎	er ba nv lang	1
+二八年华	er ba nian hua	275
+二八开	er ba kai	160
+二八法则	er ba fa ze	100
+二八自行车	er ba zi xing che	100
+二公主	er gong zhu	100
+二公子	er gong zi	6710
+二六	er liu	87600
+二六〇〇	er liu ling ling	100
+二六〇〇年	er liu ling ling nian	100
+二六〇一	er liu ling yi	100
+二六〇一年	er liu ling yi nian	100
+二六〇七	er liu ling qi	100
+二六〇七年	er liu ling qi nian	100
+二六〇三	er liu ling san	100
+二六〇三年	er liu ling san nian	100
+二六〇九	er liu ling jiu	100
+二六〇九年	er liu ling jiu nian	100
+二六〇二	er liu ling er	100
+二六〇二年	er liu ling er nian	100
+二六〇五	er liu ling wu	100
+二六〇五年	er liu ling wu nian	100
+二六〇八	er liu ling ba	100
+二六〇八年	er liu ling ba nian	100
+二六〇六	er liu ling liu	100
+二六〇六年	er liu ling liu nian	100
+二六〇四	er liu ling si	100
+二六〇四年	er liu ling si nian	100
+二六一〇	er liu yi ling	100
+二六一〇年	er liu yi ling nian	100
+二六一一	er liu yi yi	100
+二六一一年	er liu yi yi nian	100
+二六一七	er liu yi qi	100
+二六一七年	er liu yi qi nian	100
+二六一三	er liu yi san	100
+二六一三年	er liu yi san nian	100
+二六一九	er liu yi jiu	100
+二六一九年	er liu yi jiu nian	100
+二六一二	er liu yi er	100
+二六一二年	er liu yi er nian	100
+二六一五	er liu yi wu	100
+二六一五年	er liu yi wu nian	100
+二六一八	er liu yi ba	100
+二六一八年	er liu yi ba nian	100
+二六一六	er liu yi liu	100
+二六一六年	er liu yi liu nian	100
+二六一医院	er liu yi yi yuan	10
+二六一四	er liu yi si	100
+二六一四年	er liu yi si nian	100
+二六七〇	er liu qi ling	100
+二六七〇年	er liu qi ling nian	100
+二六七一	er liu qi yi	100
+二六七一年	er liu qi yi nian	100
+二六七七	er liu qi qi	100
+二六七七年	er liu qi qi nian	100
+二六七三	er liu qi san	100
+二六七三年	er liu qi san nian	100
+二六七九	er liu qi jiu	100
+二六七九年	er liu qi jiu nian	100
+二六七二	er liu qi er	100
+二六七二年	er liu qi er nian	100
+二六七五	er liu qi wu	100
+二六七五年	er liu qi wu nian	100
+二六七八	er liu qi ba	100
+二六七八年	er liu qi ba nian	100
+二六七六	er liu qi liu	100
+二六七六年	er liu qi liu nian	100
+二六七四	er liu qi si	100
+二六七四年	er liu qi si nian	100
+二六三	er liu san	179
+二六三〇	er liu san ling	100
+二六三〇年	er liu san ling nian	100
+二六三一	er liu san yi	100
+二六三一年	er liu san yi nian	100
+二六三七	er liu san qi	100
+二六三七年	er liu san qi nian	100
+二六三三	er liu san san	100
+二六三三年	er liu san san nian	100
+二六三九	er liu san jiu	100
+二六三九年	er liu san jiu nian	100
+二六三二	er liu san er	100
+二六三二年	er liu san er nian	100
+二六三五	er liu san wu	100
+二六三五年	er liu san wu nian	100
+二六三八	er liu san ba	100
+二六三八年	er liu san ba nian	100
+二六三六	er liu san liu	100
+二六三六年	er liu san liu nian	100
+二六三医院	er liu san yi yuan	5
+二六三四	er liu san si	100
+二六三四年	er liu san si nian	100
+二六九〇	er liu jiu ling	100
+二六九〇年	er liu jiu ling nian	100
+二六九一	er liu jiu yi	100
+二六九一年	er liu jiu yi nian	100
+二六九七	er liu jiu qi	100
+二六九七年	er liu jiu qi nian	100
+二六九三	er liu jiu san	100
+二六九三年	er liu jiu san nian	100
+二六九九	er liu jiu jiu	100
+二六九九年	er liu jiu jiu nian	100
+二六九二	er liu jiu er	100
+二六九二年	er liu jiu er nian	100
+二六九五	er liu jiu wu	100
+二六九五年	er liu jiu wu nian	100
+二六九八	er liu jiu ba	100
+二六九八年	er liu jiu ba nian	100
+二六九六	er liu jiu liu	100
+二六九六年	er liu jiu liu nian	100
+二六九四	er liu jiu si	100
+二六九四年	er liu jiu si nian	100
+二六二〇	er liu er ling	100
+二六二〇年	er liu er ling nian	100
+二六二一	er liu er yi	100
+二六二一年	er liu er yi nian	100
+二六二七	er liu er qi	100
+二六二七年	er liu er qi nian	100
+二六二三	er liu er san	100
+二六二三年	er liu er san nian	100
+二六二九	er liu er jiu	100
+二六二九年	er liu er jiu nian	100
+二六二二	er liu er er	100
+二六二二年	er liu er er nian	100
+二六二五	er liu er wu	100
+二六二五年	er liu er wu nian	100
+二六二八	er liu er ba	100
+二六二八年	er liu er ba nian	100
+二六二六	er liu er liu	100
+二六二六年	er liu er liu nian	100
+二六二四	er liu er si	100
+二六二四年	er liu er si nian	100
+二六五〇	er liu wu ling	100
+二六五〇年	er liu wu ling nian	100
+二六五一	er liu wu yi	100
+二六五一年	er liu wu yi nian	100
+二六五七	er liu wu qi	100
+二六五七年	er liu wu qi nian	100
+二六五三	er liu wu san	100
+二六五三年	er liu wu san nian	100
+二六五九	er liu wu jiu	100
+二六五九年	er liu wu jiu nian	100
+二六五二	er liu wu er	100
+二六五二年	er liu wu er nian	100
+二六五五	er liu wu wu	100
+二六五五年	er liu wu wu nian	100
+二六五八	er liu wu ba	100
+二六五八年	er liu wu ba nian	100
+二六五六	er liu wu liu	100
+二六五六年	er liu wu liu nian	100
+二六五四	er liu wu si	100
+二六五四年	er liu wu si nian	100
+二六八〇	er liu ba ling	100
+二六八〇年	er liu ba ling nian	100
+二六八一	er liu ba yi	100
+二六八一年	er liu ba yi nian	100
+二六八七	er liu ba qi	100
+二六八七年	er liu ba qi nian	100
+二六八三	er liu ba san	100
+二六八三年	er liu ba san nian	100
+二六八九	er liu ba jiu	100
+二六八九年	er liu ba jiu nian	100
+二六八二	er liu ba er	100
+二六八二年	er liu ba er nian	100
+二六八五	er liu ba wu	100
+二六八五年	er liu ba wu nian	100
+二六八八	er liu ba ba	100
+二六八八年	er liu ba ba nian	100
+二六八六	er liu ba liu	100
+二六八六年	er liu ba liu nian	100
+二六八四	er liu ba si	100
+二六八四年	er liu ba si nian	100
+二六六〇	er liu liu ling	100
+二六六〇年	er liu liu ling nian	100
+二六六一	er liu liu yi	100
+二六六一年	er liu liu yi nian	100
+二六六七	er liu liu qi	100
+二六六七年	er liu liu qi nian	100
+二六六三	er liu liu san	100
+二六六三年	er liu liu san nian	100
+二六六九	er liu liu jiu	100
+二六六九年	er liu liu jiu nian	100
+二六六二	er liu liu er	100
+二六六二年	er liu liu er nian	100
+二六六五	er liu liu wu	100
+二六六五年	er liu liu wu nian	100
+二六六八	er liu liu ba	100
+二六六八年	er liu liu ba nian	100
+二六六六	er liu liu liu	100
+二六六六年	er liu liu liu nian	100
+二六六四	er liu liu si	100
+二六六四年	er liu liu si nian	100
+二六十二	er liu shi er	100
+二六四〇	er liu si ling	100
+二六四〇年	er liu si ling nian	100
+二六四一	er liu si yi	100
+二六四一年	er liu si yi nian	100
+二六四七	er liu si qi	100
+二六四七年	er liu si qi nian	100
+二六四三	er liu si san	100
+二六四三年	er liu si san nian	100
+二六四九	er liu si jiu	100
+二六四九年	er liu si jiu nian	100
+二六四二	er liu si er	100
+二六四二年	er liu si er nian	100
+二六四五	er liu si wu	100
+二六四五年	er liu si wu nian	100
+二六四八	er liu si ba	100
+二六四八年	er liu si ba nian	100
+二六四六	er liu si liu	100
+二六四六年	er liu si liu nian	100
+二六四四	er liu si si	100
+二六四四年	er liu si si nian	100
+二六板	er liu ban	100
+二册	er ce	2
+二军	er jun	6025
+二冲程	er chong cheng	2435
+二冲程引擎	er chong cheng yin qing	100
+二净甸	er jing dian	100
+二凉亭	er liang ting	25
+二出祁山	er chu qi shan	100
+二刀流	er dao liu	100
+二分	er fen	19735
+二分三分	er fen san fen	18
+二分之一	er fen zhi yi	22710
+二分休止符	er fen xiu zhi fu	123
+二分体	er fen ti	4
+二分判断	er fen pan duan	176
+二分匹配	er fen pi pei	844
+二分图	er fen tu	5093
+二分图判定	er fen tu pan ding	72
+二分图匹配	er fen tu pi pei	1453
+二分图染色	er fen tu ran se	161
+二分场	er fen chang	80
+二分基因组	er fen ji yin zu	1
+二分思想	er fen si xiang	310
+二分插入	er fen cha ru	94
+二分插入排序	er fen cha ru pai xu	593
+二分搜索	er fen sou suo	2481
+二分无赖是扬州	er fen wu lai shi yang zhou	100
+二分明月	er fen ming yue	495
+二分查找	er fen cha zhao	13382
+二分查找法	er fen cha zhao fa	1490
+二分查找算法	er fen cha zhao suan fa	901
+二分校	er fen xiao	100
+二分求幂	er fen qiu mi	80
+二分法	er fen fa	5256
+二分法查找	er fen fa cha zhao	1329
+二分点	er fen dian	45
+二分猜答案	er fen cai da an	40
+二分田	er fen tian	355
+二分硬币	er fen ying bi	55
+二分答案	er fen da an	2589
+二分类	er fen lei	2152
+二分线	er fen xian	55
+二分裂	er fen lie	100
+二分钟	er fen zhong	2615
+二分钟后	er fen zhong hou	246
+二分音符	er fen yin fu	123
+二列	er lie	2835
+二则	er ze	18275
+二创	er chuang	2222
+二刷	er shua	9999
+二刷了	er shua le	100
+二刻拍案惊奇	er ke pai an jing qi	370
+二剌棒缘蝽	er la bang yuan chun	1
+二副	er fu	4150
+二加一	er jia yi	200
+二包	er bao	2685
+二化	er hua	53
+二化螟	er hua ming	1540
+二区	er qu	42130
+二医	er yi	299
+二医大	er yi da	620
+二医院	er yi yuan	2384
+二十	er shi	385300
+二十一	er shi yi	31055
+二十一万	er shi yi wan	545
+二十一世纪	er shi yi shi ji	60655
+二十一世纪法律热点问题研究	er shi yi shi ji fa lv re dian wen ti yan jiu	3
+二十一世纪海上丝绸之路	er shi yi shi ji hai shang si chou zhi lu	100
+二十一世纪饭店	er shi yi shi ji fan dian	93
+二十一个	er shi yi ge	1860
+二十一中	er shi yi zhong	700
+二十一分	er shi yi fen	235
+二十一分钟	er shi yi fen zhong	5
+二十一史	er shi yi shi	145
+二十一天	er shi yi tian	183
+二十一小时	er shi yi xiao shi	100
+二十一小时内	er shi yi xiao shi nei	100
+二十一层	er shi yi ceng	305
+二十一届	er shi yi jie	225
+二十一岁	er shi yi sui	3505
+二十一年	er shi yi nian	9105
+二十一日	er shi yi ri	16020
+二十一条	er shi yi tiao	3075
+二十一点	er shi yi dian	1090
+二十一点钟	er shi yi dian zhong	5
+二十一番	er shi yi fan	100
+二十一的	er shi yi de	123
+二十一秒	er shi yi miao	20
+二十一秒钟	er shi yi miao zhong	1
+二十一篇	er shi yi pian	215
+二十七	er shi qi	21550
+二十七万	er shi qi wan	355
+二十七个	er shi qi ge	990
+二十七八	er shi qi ba	100
+二十七分	er shi qi fen	215
+二十七分钟	er shi qi fen zhong	25
+二十七号	er shi qi hao	155
+二十七层	er shi qi ceng	295
+二十七届	er shi qi jie	110
+二十七岁	er shi qi sui	2390
+二十七年	er shi qi nian	7225
+二十七日	er shi qi ri	16530
+二十七杀年鸡	er shi qi sha nian ji	100
+二十七秒	er shi qi miao	30
+二十七秒钟	er shi qi miao zhong	10
+二十七篇	er shi qi pian	65
+二十万	er shi wan	16080
+二十万人	er shi wan ren	100
+二十万军重入赣	er shi wan jun zhong ru gan	3
+二十三	er shi san	28125
+二十三万	er shi san wan	455
+二十三个	er shi san ge	1385
+二十三中	er shi san zhong	275
+二十三中学	er shi san zhong xue	24
+二十三分	er shi san fen	280
+二十三分钟	er shi san fen zhong	85
+二十三小时	er shi san xiao shi	100
+二十三小时内	er shi san xiao shi nei	100
+二十三层	er shi san ceng	290
+二十三届	er shi san jie	125
+二十三岁	er shi san sui	3045
+二十三年	er shi san nian	8995
+二十三日	er shi san ri	16820
+二十三条	er shi san tiao	815
+二十三点	er shi san dian	250
+二十三点钟	er shi san dian zhong	5
+二十三番	er shi san fan	100
+二十三秒	er shi san miao	25
+二十三秒钟	er shi san miao zhong	1
+二十三篇	er shi san pian	185
+二十三糖瓜粘	er shi san tang gua zhan	100
+二十不惑	er shi bu huo	154
+二十世纪	er shi shi ji	52680
+二十世纪九十年代	er shi shi ji jiu shi nian dai	4260
+二十世纪欧洲的法律与竞争	er shi shi ji ou zhou de fa lv yu jing zheng	1
+二十个	er shi ge	19525
+二十九	er shi jiu	17415
+二十九万	er shi jiu wan	180
+二十九个	er shi jiu ge	735
+二十九分	er shi jiu fen	165
+二十九分钟	er shi jiu fen zhong	25
+二十九号	er shi jiu hao	100
+二十九号的	er shi jiu hao de	100
+二十九天	er shi jiu tian	310
+二十九层	er shi jiu ceng	170
+二十九届	er shi jiu jie	125
+二十九岁	er shi jiu sui	1800
+二十九年	er shi jiu nian	6645
+二十九日	er shi jiu ri	17120
+二十九秒	er shi jiu miao	20
+二十九秒钟	er shi jiu miao zhong	1
+二十九篇	er shi jiu pian	215
+二十九蒸馒头	er shi jiu zheng man tou	100
+二十二	er shi er	31915
+二十二万	er shi er wan	520
+二十二个	er shi er ge	1615
+二十二中	er shi er zhong	180
+二十二分	er shi er fen	175
+二十二分钟	er shi er fen zhong	35
+二十二史	er shi er shi	240
+二十二号	er shi er hao	138
+二十二天	er shi er tian	210
+二十二小时	er shi er xiao shi	100
+二十二小时内	er shi er xiao shi nei	100
+二十二层	er shi er ceng	190
+二十二届	er shi er jie	105
+二十二岁	er shi er sui	3780
+二十二年	er shi er nian	9800
+二十二日	er shi er ri	15240
+二十二星菌瓢虫	er shi er xing jun piao chong	1
+二十二条	er shi er tiao	960
+二十二点	er shi er dian	295
+二十二点钟	er shi er dian zhong	1
+二十二番	er shi er fan	100
+二十二秒	er shi er miao	15
+二十二秒钟	er shi er miao zhong	1
+二十二篇	er shi er pian	135
+二十五	er shi wu	36685
+二十五万	er shi wu wan	1285
+二十五个	er shi wu ge	2495
+二十五个小时	er shi wu ge xiao shi	100
+二十五中学	er shi wu zhong xue	37
+二十五做豆腐	er shi wu zuo dou fu	100
+二十五分	er shi wu fen	930
+二十五分钟	er shi wu fen zhong	570
+二十五史	er shi wu shi	1465
+二十五号	er shi wu hao	197
+二十五周年	er shi wu zhou nian	100
+二十五味余甘子丸	er shi wu wei yu gan zi wan	5
+二十五味儿茶丸	er shi wu wei er cha wan	4
+二十五味大汤丸	er shi wu wei da tang wan	1
+二十五味松石丸	er shi wu wei song shi wan	5
+二十五味珊瑚丸	er shi wu wei shan hu wan	1
+二十五味珍珠丸	er shi wu wei zhen zhu wan	11
+二十五味肺病丸	er shi wu wei fei bing wan	1
+二十五味阿魏胶囊	er shi wu wei a wei jiao nang	1
+二十五味鬼臼丸	er shi wu wei gui jiu wan	2
+二十五天	er shi wu tian	100
+二十五小时	er shi wu xiao shi	100
+二十五层	er shi wu ceng	290
+二十五届	er shi wu jie	245
+二十五岁	er shi wu sui	5265
+二十五年	er shi wu nian	11890
+二十五度	er shi wu du	100
+二十五弦	er shi wu xian	310
+二十五日	er shi wu ri	20320
+二十五秒	er shi wu miao	90
+二十五秒钟	er shi wu miao zhong	10
+二十五篇	er shi wu pian	180
+二十亿	er shi yi	2015
+二十亿的	er shi yi de	101
+二十余	er shi yu	13165
+二十余万	er shi yu wan	100
+二十余年如一梦	er shi yu nian ru yi meng	2
+二十倍	er shi bei	200
+二十元	er shi yuan	100
+二十八	er shi ba	2800
+二十八万	er shi ba wan	375
+二十八个	er shi ba ge	1845
+二十八分	er shi ba fen	400
+二十八分钟	er shi ba fen zhong	70
+二十八号	er shi ba hao	142
+二十八周	er shi ba zhou	100
+二十八天	er shi ba tian	725
+二十八宿	er shi ba xiu	4300
+二十八将	er shi ba jiang	185
+二十八层	er shi ba ceng	895
+二十八届	er shi ba jie	75
+二十八岁	er shi ba sui	2570
+二十八年	er shi ba nian	7970
+二十八所	er shi ba suo	16
+二十八把面发	er shi ba ba mian fa	100
+二十八日	er shi ba ri	19865
+二十八星	er shi ba xing	2
+二十八星宿	er shi ba xing xiu	280
+二十八星瓢虫	er shi ba xing piao chong	100
+二十八次	er shi ba ci	220
+二十八烷醇	er shi ba wan chun	1
+二十八秒	er shi ba miao	50
+二十八秒钟	er shi ba miao zhong	1
+二十八篇	er shi ba pian	260
+二十八脉	er shi ba mai	5
+二十六	er shi liu	20635
+二十六万	er shi liu wan	435
+二十六个	er shi liu ge	1675
+二十六分	er shi liu fen	200
+二十六分钟	er shi liu fen zhong	5
+二十六史	er shi liu shi	225
+二十六号	er shi liu hao	135
+二十六层	er shi liu ceng	135
+二十六届	er shi liu jie	205
+二十六岁	er shi liu sui	2700
+二十六年	er shi liu nian	9035
+二十六日	er shi liu ri	18525
+二十六煮煮肉	er shi liu zhu zhu rou	100
+二十六秒	er shi liu miao	30
+二十六秒钟	er shi liu miao zhong	1
+二十六篇	er shi liu pian	100
+二十六键	er shi liu jian	100
+二十冶	er shi ye	2
+二十几	er shi ji	10105
+二十几万	er shi ji wan	100
+二十几周	er shi ji zhou	64
+二十几块	er shi ji kuai	1710
+二十几块钱	er shi ji kuai qian	100
+二十几岁	er shi ji sui	2320
+二十几岁的人	er shi ji sui de ren	100
+二十几岁的人了	er shi ji sui de ren le	100
+二十几年	er shi ji nian	100
+二十几度	er shi ji du	100
+二十几张	er shi ji zhang	100
+二十几条街	er shi ji tiao jie	65
+二十分	er shi fen	7055
+二十分钟	er shi fen zhong	17890
+二十及冠	er shi ji guan	100
+二十号楼	er shi hao lou	100
+二十号线	er shi hao xian	1
+二十周年	er shi zhou nian	5095
+二十味肉豆蔻丸	er shi wei rou dou kou wan	5
+二十四	er shi si	43715
+二十四万	er shi si wan	745
+二十四个	er shi si ge	3865
+二十四个字	er shi si ge zi	100
+二十四个结	er shi si ge jie	100
+二十四中	er shi si zhong	1430
+二十四代先帝	er shi si dai xian di	100
+二十四伎乐	er shi si ji yue	100
+二十四分	er shi si fen	325
+二十四分钟	er shi si fen zhong	75
+二十四句	er shi si ju	50
+二十四只	er shi si zhi	100
+二十四史	er shi si shi	4835
+二十四号	er shi si hao	100
+二十四品	er shi si pin	225
+二十四孝	er shi si xiao	2415
+二十四孝图	er shi si xiao tu	102
+二十四小时	er shi si xiao shi	19600
+二十四小时内	er shi si xiao shi nei	100
+二十四小时核酸	er shi si xiao shi he suan	100
+二十四小时核酸检测	er shi si xiao shi he suan jian ce	100
+二十四小时核酸证明	er shi si xiao shi he suan zheng ming	100
+二十四层	er shi si ceng	205
+二十四届	er shi si jie	115
+二十四岁	er shi si sui	3160
+二十四年	er shi si nian	9600
+二十四扫房子	er shi si sao fang zi	100
+二十四日	er shi si ri	16555
+二十四时	er shi si shi	635
+二十四桥	er shi si qiao	1655
+二十四桥仍在	er shi si qiao reng zai	3
+二十四桥明月	er shi si qiao ming yue	3
+二十四桥明月夜	er shi si qiao ming yue ye	28
+二十四番	er shi si fan	100
+二十四番花信风	er shi si fan hua xin feng	65
+二十四秒	er shi si miao	30
+二十四秒钟	er shi si miao zhong	1
+二十四篇	er shi si pian	340
+二十四节	er shi si jie	935
+二十四节气	er shi si jie qi	3810
+二十四街坊	er shi si jie fang	5
+二十四诗品	er shi si shi pin	470
+二十国集团	er shi guo ji tuan	100
+二十块	er shi kuai	100
+二十埠河	er shi bu he	129
+二十多	er shi duo	24725
+二十多万	er shi duo wan	100
+二十多个	er shi duo ge	17115
+二十多个多月了	er shi duo ge duo yue le	100
+二十多号	er shi duo hao	100
+二十多岁	er shi duo sui	4025
+二十多岁的人	er shi duo sui de ren	100
+二十多岁的人了	er shi duo sui de ren le	100
+二十多年	er shi duo nian	30720
+二十多年来	er shi duo nian lai	9815
+二十多度	er shi duo du	164
+二十多张	er shi duo zhang	100
+二十多条	er shi duo tiao	100
+二十多页	er shi duo ye	100
+二十大	er shi da	100
+二十大主题	er shi da zhu ti	100
+二十大会	er shi da hui	100
+二十大几	er shi da ji	64
+二十大来了	er shi da lai le	100
+二十大板	er shi da ban	100
+二十天	er shi tian	7000
+二十天内	er shi tian nei	100
+二十头	er shi tou	222
+二十字	er shi zi	2560
+二十家子满族镇	er shi jia zi man zu zhen	1
+二十小时	er shi xiao shi	100
+二十小时内	er shi xiao shi nei	100
+二十层	er shi ceng	950
+二十届	er shi jie	335
+二十岁	er shi sui	20255
+二十岁了	er shi sui le	100
+二十岁的人	er shi sui de ren	100
+二十岁的人了	er shi sui de ren le	100
+二十年	er shi nian	98500
+二十年代	er shi nian dai	6265
+二十年前	er shi nian qian	14330
+二十年前曾去路	er shi nian qian ceng qu lu	1
+二十年后	er shi nian hou	7320
+二十年来	er shi nian lai	14225
+二十年来谙世路	er shi nian lai an shi lu	1
+二十年目睹之怪现状	er shi nian mu du zhi guai xian zhuang	100
+二十度	er shi du	100
+二十投	er shi tou	20
+二十支	er shi zhi	420
+二十日	er shi ri	30200
+二十时	er shi shi	445
+二十有八载	er shi you ba zai	1
+二十期	er shi qi	195
+二十条	er shi tiao	2325
+二十板子	er shi ban zi	100
+二十点	er shi dian	745
+二十点钟	er shi dian zhong	1
+二十片	er shi pian	100
+二十番	er shi fan	100
+二十的	er shi de	88
+二十碳四烯酸	er shi tan si xi suan	9
+二十种随烦恼	er shi zhong sui fan nao	7
+二十秒	er shi miao	1195
+二十秒钟	er shi miao zhong	260
+二十篇	er shi pian	1335
+二十类	er shi lei	95
+二十道	er shi dao	100
+二十郎当岁	er shi lang dang sui	100
+二十里	er shi li	100
+二十里堡	er shi li pu	39
+二十里堡机场	er shi li pu ji chang	1
+二十里堡站	er shi li pu zhan	1
+二十里堡街道	er shi li pu jie dao	1
+二十里店	er shi li dian	24
+二十里铺	er shi li pu	125
+二十里铺村	er shi li pu cun	47
+二十集	er shi ji	1212
+二十面体	er shi mian ti	475
+二十页	er shi ye	121
+二十高中	er shi gao zhong	23
+二千	er qian	50970
+二千一百万	er qian yi bai wan	85
+二千七百万	er qian qi bai wan	100
+二千万	er qian wan	2130
+二千三百万	er qian san bai wan	345
+二千个	er qian ge	515
+二千九百万	er qian jiu bai wan	45
+二千二百万	er qian er bai wan	155
+二千五百万	er qian wu bai wan	495
+二千人	er qian ren	2350
+二千亿	er qian yi	100
+二千倍	er qian bei	200
+二千元	er qian yuan	18235
+二千八百万	er qian ba bai wan	145
+二千六百万	er qian liu bai wan	120
+二千几百年前	er qian ji bai nian qian	3
+二千四百万	er qian si bai wan	185
+二千块	er qian kuai	100
+二千多	er qian duo	100
+二千多万	er qian duo wan	100
+二千岁	er qian sui	100
+二千年	er qian nian	100
+二千石	er qian shi	3425
+二升三	er sheng san	100
+二单元	er dan yuan	100
+二南开	er nan kai	100
+二占其一	er zhan qi yi	100
+二印	er yin	31
+二卵双生	er luan shuang sheng	20
+二卵弃干城	er luan qi gan cheng	1
+二卵生	er luan sheng	100
+二卷	er juan	12165
+二厂	er chang	978
+二厅	er ting	430
+二又四分之三	er you si fen zhi san	141
+二又四分之三子	er you si fen zhi san zi	4
+二叉堆	er cha dui	1660
+二叉平衡树	er cha ping heng shu	427
+二叉排序树	er cha pai xu shu	2744
+二叉搜索树	er cha sou suo shu	3821
+二叉树	er cha shu	28380
+二叉树各种	er cha shu ge zhong	48
+二叉树深度	er cha shu shen du	360
+二叉树的遍历	er cha shu de bian li	1482
+二叉树遍历	er cha shu bian li	883
+二叉索引树	er cha suo yin shu	57
+二叉链表	er cha lian biao	823
+二双	er shuang	1260
+二发得分率	er fa de fen lv	100
+二叔	er shu	2925
+二叔叔	er shu shu	100
+二变量	er bian liang	20
+二叠	er die	2170
+二叠系	er die xi	100
+二叠纪	er die ji	1705
+二叠纪-三叠纪灭绝事件	er die ji san die ji mie jue shi jian	100
+二叠纪盆地	er die ji pen di	100
+二口之家	er kou zhi jia	100
+二句	er ju	12785
+二句话	er ju hua	440
+二台	er tai	11915
+二叶律	er ye lv	1
+二叶松	er ye song	100
+二号	er hao	67480
+二号三号	er hao san hao	100
+二号人物	er hao ren wu	2015
+二号去	er hao qu	100
+二号大街绕城高架	er hao da jie rao cheng gao jia	1
+二号宗地	er hao zong di	100
+二号得分手	er hao de fen shou	100
+二号技师	er hao ji shi	100
+二号晚上	er hao wan shang	100
+二号机	er hao ji	495
+二号桥	er hao qiao	157
+二号桥市场	er hao qiao shi chang	9
+二号牌	er hao pai	100
+二号电池	er hao dian chi	100
+二号种子	er hao zhong zi	130
+二号站	er hao zhan	16
+二号线	er hao xian	5445
+二号船闸	er hao chuan zha	45
+二号营地	er hao ying di	100
+二号走	er hao zou	100
+二号闸	er hao zha	16
+二号首长	er hao shou zhang	100
+二司村	er si cun	2
+二合一	er he yi	14325
+二名	er ming	21290
+二名法	er ming fa	100
+二后生	er hou sheng	158
+二向听	er xiang ting	100
+二向箔	er xiang bo	100
+二员	er yuan	139
+二员工	er yuan gong	6
+二周	er zhou	2222
+二周年	er zhou nian	130
+二周目	er zhou mu	100
+二命了	er ming le	100
+二命雷神	er ming lei shen	100
+二和药	er he yao	100
+二咖啡酰奎尼酸	er ka fei xian kui ni suan	1
+二品	er pin	2222
+二哈	er ha	9999
+二哈拆家	er ha chai jia	100
+二哥	er ge	48830
+二哥大	er ge da	30
+二喜	er xi	222
+二嗪农	er qin nong	82
+二嘎里乡	er ga li xiang	1
+二噻环己烷	er sai huan ji wan	2
+二四	er si	33580
+二四〇〇	er si ling ling	100
+二四〇〇年	er si ling ling nian	100
+二四〇一	er si ling yi	100
+二四〇一年	er si ling yi nian	100
+二四〇七	er si ling qi	100
+二四〇七年	er si ling qi nian	100
+二四〇三	er si ling san	100
+二四〇三年	er si ling san nian	100
+二四〇九	er si ling jiu	100
+二四〇九年	er si ling jiu nian	100
+二四〇二	er si ling er	100
+二四〇二年	er si ling er nian	100
+二四〇五	er si ling wu	100
+二四〇五年	er si ling wu nian	100
+二四〇八	er si ling ba	100
+二四〇八年	er si ling ba nian	100
+二四〇六	er si ling liu	100
+二四〇六年	er si ling liu nian	100
+二四〇四	er si ling si	100
+二四〇四年	er si ling si nian	100
+二四一〇	er si yi ling	100
+二四一〇年	er si yi ling nian	100
+二四一一	er si yi yi	100
+二四一一年	er si yi yi nian	100
+二四一七	er si yi qi	100
+二四一七年	er si yi qi nian	100
+二四一三	er si yi san	100
+二四一三年	er si yi san nian	100
+二四一九	er si yi jiu	100
+二四一九年	er si yi jiu nian	100
+二四一二	er si yi er	100
+二四一二年	er si yi er nian	100
+二四一五	er si yi wu	100
+二四一五年	er si yi wu nian	100
+二四一八	er si yi ba	100
+二四一八年	er si yi ba nian	100
+二四一六	er si yi liu	100
+二四一六年	er si yi liu nian	100
+二四一四	er si yi si	100
+二四一四年	er si yi si nian	100
+二四七〇	er si qi ling	100
+二四七〇年	er si qi ling nian	100
+二四七一	er si qi yi	100
+二四七一年	er si qi yi nian	100
+二四七七	er si qi qi	100
+二四七七年	er si qi qi nian	100
+二四七三	er si qi san	100
+二四七三年	er si qi san nian	100
+二四七九	er si qi jiu	100
+二四七九年	er si qi jiu nian	100
+二四七二	er si qi er	100
+二四七二年	er si qi er nian	100
+二四七五	er si qi wu	100
+二四七五年	er si qi wu nian	100
+二四七八	er si qi ba	100
+二四七八年	er si qi ba nian	100
+二四七六	er si qi liu	100
+二四七六年	er si qi liu nian	100
+二四七四	er si qi si	100
+二四七四年	er si qi si nian	100
+二四三〇	er si san ling	100
+二四三〇年	er si san ling nian	100
+二四三一	er si san yi	100
+二四三一年	er si san yi nian	100
+二四三七	er si san qi	100
+二四三七年	er si san qi nian	100
+二四三三	er si san san	100
+二四三三年	er si san san nian	100
+二四三九	er si san jiu	100
+二四三九年	er si san jiu nian	100
+二四三二	er si san er	100
+二四三二年	er si san er nian	100
+二四三五	er si san wu	100
+二四三五年	er si san wu nian	100
+二四三八	er si san ba	100
+二四三八年	er si san ba nian	100
+二四三六	er si san liu	100
+二四三六年	er si san liu nian	100
+二四三四	er si san si	100
+二四三四年	er si san si nian	100
+二四九〇	er si jiu ling	100
+二四九〇年	er si jiu ling nian	100
+二四九一	er si jiu yi	100
+二四九一年	er si jiu yi nian	100
+二四九七	er si jiu qi	100
+二四九七年	er si jiu qi nian	100
+二四九三	er si jiu san	100
+二四九三年	er si jiu san nian	100
+二四九九	er si jiu jiu	100
+二四九九年	er si jiu jiu nian	100
+二四九二	er si jiu er	100
+二四九二年	er si jiu er nian	100
+二四九五	er si jiu wu	100
+二四九五年	er si jiu wu nian	100
+二四九八	er si jiu ba	100
+二四九八年	er si jiu ba nian	100
+二四九六	er si jiu liu	100
+二四九六年	er si jiu liu nian	100
+二四九四	er si jiu si	100
+二四九四年	er si jiu si nian	100
+二四二〇	er si er ling	100
+二四二〇年	er si er ling nian	100
+二四二一	er si er yi	100
+二四二一年	er si er yi nian	100
+二四二七	er si er qi	100
+二四二七年	er si er qi nian	100
+二四二三	er si er san	100
+二四二三年	er si er san nian	100
+二四二九	er si er jiu	100
+二四二九年	er si er jiu nian	100
+二四二二	er si er er	100
+二四二二年	er si er er nian	100
+二四二五	er si er wu	100
+二四二五年	er si er wu nian	100
+二四二八	er si er ba	100
+二四二八年	er si er ba nian	100
+二四二六	er si er liu	100
+二四二六年	er si er liu nian	100
+二四二四	er si er si	100
+二四二四年	er si er si nian	100
+二四五〇	er si wu ling	100
+二四五〇年	er si wu ling nian	100
+二四五一	er si wu yi	100
+二四五一年	er si wu yi nian	100
+二四五七	er si wu qi	100
+二四五七年	er si wu qi nian	100
+二四五三	er si wu san	100
+二四五三年	er si wu san nian	100
+二四五九	er si wu jiu	100
+二四五九年	er si wu jiu nian	100
+二四五二	er si wu er	100
+二四五二年	er si wu er nian	100
+二四五五	er si wu wu	100
+二四五五年	er si wu wu nian	100
+二四五八	er si wu ba	100
+二四五八年	er si wu ba nian	100
+二四五六	er si wu liu	100
+二四五六年	er si wu liu nian	100
+二四五四	er si wu si	100
+二四五四年	er si wu si nian	100
+二四八〇	er si ba ling	100
+二四八〇年	er si ba ling nian	100
+二四八一	er si ba yi	100
+二四八一年	er si ba yi nian	100
+二四八七	er si ba qi	100
+二四八七年	er si ba qi nian	100
+二四八三	er si ba san	100
+二四八三年	er si ba san nian	100
+二四八九	er si ba jiu	100
+二四八九年	er si ba jiu nian	100
+二四八二	er si ba er	100
+二四八二年	er si ba er nian	100
+二四八五	er si ba wu	100
+二四八五年	er si ba wu nian	100
+二四八八	er si ba ba	100
+二四八八年	er si ba ba nian	100
+二四八六	er si ba liu	100
+二四八六年	er si ba liu nian	100
+二四八四	er si ba si	100
+二四八四年	er si ba si nian	100
+二四六	er si liu	100
+二四六〇	er si liu ling	100
+二四六〇年	er si liu ling nian	100
+二四六一	er si liu yi	100
+二四六一年	er si liu yi nian	100
+二四六七	er si liu qi	100
+二四六七年	er si liu qi nian	100
+二四六三	er si liu san	100
+二四六三年	er si liu san nian	100
+二四六九	er si liu jiu	100
+二四六九年	er si liu jiu nian	100
+二四六二	er si liu er	100
+二四六二年	er si liu er nian	100
+二四六五	er si liu wu	100
+二四六五年	er si liu wu nian	100
+二四六八	er si liu ba	100
+二四六八十	er si liu ba shi	8
+二四六八年	er si liu ba nian	100
+二四六六	er si liu liu	100
+二四六六年	er si liu liu nian	100
+二四六四	er si liu si	100
+二四六四年	er si liu si nian	100
+二四四〇	er si si ling	100
+二四四〇年	er si si ling nian	100
+二四四一	er si si yi	100
+二四四一年	er si si yi nian	100
+二四四七	er si si qi	100
+二四四七年	er si si qi nian	100
+二四四三	er si si san	100
+二四四三年	er si si san nian	100
+二四四九	er si si jiu	100
+二四四九年	er si si jiu nian	100
+二四四二	er si si er	100
+二四四二年	er si si er nian	100
+二四四五	er si si wu	100
+二四四五年	er si si wu nian	100
+二四四八	er si si ba	100
+二四四八年	er si si ba nian	100
+二四四六	er si si liu	100
+二四四六年	er si si liu nian	100
+二四四四	er si si si	100
+二四四四年	er si si si nian	100
+二四得八	er si de ba	100
+二回	er hui	3085
+二圈指环虫	er quan zhi huan chong	1
+二圣头	er sheng tou	182
+二圣庙	er sheng miao	7
+二地主	er di zhu	40
+二坊坪乡	er fang ping xiang	8
+二块	er kuai	11065
+二块粑炒火腿	er kuai ba chao huo tui	3
+二块钱	er kuai qian	540
+二坚为灾	er jian wei zai	1
+二型	er xing	5
+二型现象	er xing xian xiang	5
+二垒	er lei	770
+二垒手	er lei shou	50
+二垒打	er lei da	40
+二垧地	er shang di	3
+二堂哥	er tang ge	100
+二堂妹	er tang mei	100
+二堂嫂	er tang sao	100
+二堂弟	er tang di	100
+二堂舍子	er tang she zi	100
+二堡	er bao	36
+二堰街道	er yan jie dao	128
+二塔	er ta	222
+二塘	er tang	270
+二塬子	er yuan zi	4
+二声	er sheng	4145
+二处	er chu	11560
+二外	er wai	1111
+二外语	er wai yu	2
+二大	er da	12615
+二大一小	er da yi xiao	75
+二大仙人	er da xian ren	100
+二大王	er da wang	100
+二大队	er da dui	4328
+二天	er tian	27150
+二天后	er tian hou	100
+二天门	er tian men	20
+二头	er tou	2435
+二头肌	er tou ji	1605
+二套	er tao	9655
+二套房利率	er tao fang li lv	100
+二套房贷利率	er tao fang dai li lv	100
+二套房贷款利率	er tao fang dai kuan li lv	100
+二女	er nv	25140
+二女一男	er nv yi nan	100
+二女二男	er nv er nan	100
+二女儿	er nv er	4150
+二奶	er nai	36585
+二奶专家	er nai zhuan jia	100
+二妃	er fei	1975
+二妃山	er fei shan	178
+二妈	er ma	1140
+二妙散	er miao san	129
+二妹	er mei	4185
+二妹夫	er mei fu	100
+二姊	er zi	2045
+二姊夫	er zi fu	100
+二姐	er jie	19420
+二姐兔丁	er jie tu ding	219
+二姑	er gu	1625
+二姑丈	er gu zhang	100
+二姑妈	er gu ma	100
+二姑母	er gu mu	100
+二姓之好	er xing zhi hao	100
+二姨	er yi	4590
+二姨妈	er yi ma	100
+二姨手机	er yi shou ji	100
+二娃	er wa	222
+二娘	er niang	12630
+二娘啊	er niang a	100
+二娘子	er niang zi	100
+二婚	er hun	1660
+二婚头	er hun tou	45
+二婶	er shen	3220
+二婶婆	er shen po	100
+二嫂	er sao	6300
+二子	er zi	12800
+二子一女	er zi yi nv	100
+二子二女	er zi er nv	100
+二子爷	er zi ye	100
+二字	er zi	101410
+二字词	er zi ci	125
+二季	er ji	4130
+二季度	er ji du	33435
+二季度业绩	er ji du ye ji	100
+二季度中	er ji du zhong	100
+二季度以来	er ji du yi lai	100
+二季度末	er ji du mo	100
+二季度财报	er ji du cai bao	100
+二孩	er hai	2222
+二孩儿	er hai er	222
+二宝	er bao	4845
+二审	er shen	305
+二审判决	er shen pan jue	3620
+二审判决书	er shen pan jue shu	503
+二审案件	er shen an jian	3650
+二审法院	er shen fa yuan	13739
+二审法院经审理认为	er shen fa yuan jing shen li ren wei	180
+二审程序	er shen cheng xu	2100
+二审裁定书	er shen cai ding shu	103
+二室	er shi	3413
+二室一厅	er shi yi ting	37775
+二室户	er shi hu	365
+二宫光	er gong guang	6666
+二宫和也	er gong he ye	8
+二宫火车站	er gong huo che zhan	7
+二寸	er cun	18410
+二对一	er dui yi	650
+二对二	er dui er	100
+二对半	er dui ban	455
+二将	er jiang	6520
+二小姐	er xiao jie	100
+二少	er shao	519
+二少爷	er shao ye	5190
+二尕子	er ga zi	100
+二尖瓣	er jian ban	4420
+二尖瓣关闭不全	er jian ban guan bi bu quan	1060
+二尖瓣成形术	er jian ban cheng xing shu	7
+二尖瓣扩张器	er jian ban kuo zhang qi	2
+二尖瓣狭窄	er jian ban xia zhai	1760
+二尖瓣球囊扩张术	er jian ban qiu nang kuo zhang shu	2
+二尖瓣置换术	er jian ban zhi huan shu	17
+二尖瓣脱垂	er jian ban tuo chui	13
+二尖瓣膜拉钩	er jian ban mo la gou	1
+二尖瓣返流	er jian ban fan liu	6
+二就是二	er jiu shi er	100
+二尺	er chi	7505
+二尺一	er chi yi	32
+二尺四寸	er chi si cun	145
+二尾猫又	er wei mao you	100
+二尾舟蛾	er wei zhou e	15
+二局	er ju	7530
+二局上半	er ju shang ban	100
+二局下半	er ju xia ban	100
+二层	er ceng	95090
+二层交换	er ceng jiao huan	160
+二居	er ju	22222
+二届	er jie	22105
+二届国代	er jie guo dai	100
+二屋里	er wu li	1
+二岁	er sui	10305
+二川溶溶	er chuan rong rong	100
+二工	er gong	73
+二工区	er gong qu	119
+二工村五队	er gong cun wu dui	1
+二工街道	er gong jie dao	14
+二巯丁二酸	er qiu ding er suan	2
+二巯丁二钠	er qiu ding er na	6
+二巯丙磺钠	er qiu bing huang na	5
+二巯丙磺钠注射液	er qiu bing huang na zhu she ye	1
+二巯丙醇	er qiu bing chun	5
+二巯基丙磺酸钠	er qiu ji bing huang suan na	100
+二巯基丙醇	er qiu ji bing chun	205
+二师	er shi	1021
+二师兄	er shi xiong	100
+二帝三王	er di san wang	100
+二幅	er fu	4235
+二干渠桥	er gan qu qiao	2
+二平	er ping	6560
+二平台村	er ping tai cun	2
+二年	er nian	275985
+二年一班	er nian yi ban	100
+二年七班	er nian qi ban	100
+二年三班	er nian san ban	100
+二年九班	er nian jiu ban	100
+二年二班	er nian er ban	100
+二年五班	er nian wu ban	100
+二年八班	er nian ba ban	100
+二年六班	er nian liu ban	100
+二年制	er nian zhi	3105
+二年十班	er nian shi ban	100
+二年四班	er nian si ban	100
+二年生	er nian sheng	5640
+二年生植物	er nian sheng zhi wu	100
+二年级	er nian ji	105730
+二年级的贼	er nian ji de zei	100
+二年计划	er nian ji hua	25
+二庙乡	er miao xiang	1
+二府	er fu	2670
+二府三司	er fu san si	100
+二府坪	er fu ping	1
+二府庄	er fu zhuang	52
+二府营村	er fu ying cun	2
+二府街	er fu jie	28
+二度	er du	15955
+二度创作	er du chuang zuo	100
+二度合作	er du he zuo	100
+二度春	er du chun	100
+二度梅	er du mei	485
+二度烧伤	er du shao shang	100
+二庭庭长	er ting ting zhang	87
+二建	er jian	950
+二建考试	er jian kao shi	154
+二开	er kai	1185
+二异丙基氟磷酸	er yi bing ji fu lin suan	75
+二异丙胺	er yi bing an	1
+二异氰酸甲苯酯	er yi qing suan jia ben zhi	2
+二式	er shi	4085
+二弟	er di	12560
+二弦	er xian	1615
+二强雄蕊	er qiang xiong rui	5
+二当家	er dang jia	6590
+二形人	er xing ren	100
+二律背反	er lv bei fan	990
+二心	er xin	4760
+二心三意	er xin san yi	100
+二心两意	er xin liang yi	5
+二心皮复雌蕊	er xin pi fu ci rui	5
+二态	er tai	5
+二态二氢	er tai er qing	1
+二态性	er tai xing	5
+二态现象	er tai xian xiang	5
+二怕	er pa	1510
+二性子	er xing zi	10
+二情同依依	er qing tong yi yi	1
+二惠竞爽	er hui jing shuang	100
+二意	er yi	1345
+二意三心	er yi san xin	100
+二愣	er leng	985
+二愣子	er leng zi	985
+二愿妾身常健	er yuan qie shen chang jian	1
+二戈寨	er ge zhai	88
+二戈寨街道	er ge zhai jie dao	1
+二战	er zhan	58610
+二战中	er zhan zhong	6055
+二战后	er zhan hou	10765
+二战时期	er zhan shi qi	3865
+二房	er fang	82655
+二房东	er fang dong	2955
+二房长女	er fang zhang nv	100
+二手	er shou	308160
+二手东	er shou dong	100
+二手中央空调	er shou zhong yang kong tiao	100
+二手乐器	er shou yue qi	100
+二手书	er shou shu	1230
+二手书店	er shou shu dian	150
+二手买卖	er shou mai mai	1000
+二手交易	er shou jiao yi	12895
+二手交易区	er shou jiao yi qu	100
+二手交易平台	er shou jiao yi ping tai	100
+二手仪器	er shou yi qi	1255
+二手保值率	er shou bao zhi lv	100
+二手信息	er shou xin xi	17780
+二手原装	er shou yuan zhuang	1015
+二手商品	er shou shang pin	3670
+二手地磅	er shou di bang	100
+二手奥拓	er shou ao tuo	100
+二手家具	er shou jia ju	3890
+二手市场	er shou shi chang	24805
+二手平地机	er shou ping di ji	100
+二手房	er shou fang	200815
+二手房买卖操作实务	er shou fang mai mai cao zuo shi wu	2
+二手房出售	er shou fang chu shou	2500
+二手房降价	er shou fang jiang jia	100
+二手搭档	er shou da dang	100
+二手新闻	er shou xin wen	100
+二手机	er shou ji	4375
+二手楼盘	er shou lou pan	250
+二手汽车	er shou qi che	8285
+二手汽车按揭贷款	er shou qi che an jie dai kuan	1
+二手烟	er shou yan	4175
+二手片	er shou pian	1
+二手玫瑰	er shou mei gui	100
+二手电脑	er shou dian nao	21585
+二手的	er shou de	100
+二手票	er shou piao	280
+二手空调	er shou kong tiao	100
+二手空调回收	er shou kong tiao hui shou	100
+二手笔记本	er shou bi ji ben	100
+二手笔记本电脑	er shou bi ji ben dian nao	2860
+二手自行车	er shou zi xing che	100
+二手设备	er shou she bei	46660
+二手货	er shou huo	7340
+二手车	er shou che	1112665
+二手车交易	er shou che jiao yi	10270
+二手车保值率	er shou che bao zhi lv	100
+二手车寄卖	er shou che ji mai	137
+二手车市	er shou che shi	2320
+二手车网	er shou che wang	4475
+二手车行	er shou che hang	100
+二手车行业	er shou che hang ye	100
+二手车鉴定评估师	er shou che jian ding ping gu shi	495
+二手轿车	er shou jiao che	17695
+二手长安	er shou chang an	100
+二手雪佛兰	er shou xue fu lan	100
+二打白骨精	er da bai gu jing	100
+二打还一打	er da huan yi da	1
+二批	er pi	24470
+二批次	er pi ci	175
+二批线	er pi xian	100
+二把	er ba	7180
+二把刀	er ba dao	505
+二把手	er ba shou	2525
+二拇指	er mu zhi	9999
+二拍	er pai	2
+二拍子	er pai zi	100
+二拨子	er bo zi	12
+二拨子新村	er bo zi xin cun	6
+二拨子新村东	er bo zi xin cun dong	2
+二指	er zhi	4575
+二指禅	er zhi chan	380
+二挡	er dang	8230
+二换一	er huan yi	135
+二掌柜	er zhang gui	980
+二排	er pai	3330
+二撇胡	er pie hu	100
+二支河牧场	er zhi he mu chang	5
+二改	er gai	1111
+二教	er jiao	73
+二数	er shu	1140
+二斤	er jin	6640
+二斤土	er jin tu	100
+二无	er wu	4975
+二日	er ri	33240
+二日份	er ri fen	100
+二日游	er ri you	16295
+二日立春人七日	er ri li chun ren qi ri	2
+二旬九食	er xun jiu shi	1
+二时	er shi	8055
+二星	er xing	37185
+二星会员	er xing hui yuan	8455
+二星级	er xing ji	20670
+二星龟金花虫	er xing gui jin hua chong	1
+二是	er shi	500523
+二是二	er shi er	520
+二是注重	er shi zhu zhong	100
+二是行业	er shi hang ye	100
+二是要	er shi yao	60950
+二是部	er shi bu	24
+二曲	er qu	1750
+二更	er geng	5535
+二月	er yue	94125
+二月一	er yue yi	114
+二月一号	er yue yi hao	152
+二月一日	er yue yi ri	157
+二月七	er yue qi	100
+二月七号	er yue qi hao	100
+二月七日	er yue qi ri	100
+二月三	er yue san	100
+二月三号	er yue san hao	100
+二月三日	er yue san ri	100
+二月丫头	er yue ya tou	2850
+二月之声	er yue zhi sheng	100
+二月九	er yue jiu	100
+二月九号	er yue jiu hao	100
+二月九日	er yue jiu ri	100
+二月了	er yue le	100
+二月二	er yue er	14935
+二月二十	er yue er shi	100
+二月二十一	er yue er shi yi	100
+二月二十一号	er yue er shi yi hao	100
+二月二十一日	er yue er shi yi ri	100
+二月二十七	er yue er shi qi	100
+二月二十七号	er yue er shi qi hao	100
+二月二十七日	er yue er shi qi ri	100
+二月二十三	er yue er shi san	100
+二月二十三号	er yue er shi san hao	100
+二月二十三日	er yue er shi san ri	100
+二月二十九	er yue er shi jiu	100
+二月二十九号	er yue er shi jiu hao	100
+二月二十九日	er yue er shi jiu ri	100
+二月二十二	er yue er shi er	100
+二月二十二号	er yue er shi er hao	100
+二月二十二日	er yue er shi er ri	100
+二月二十五	er yue er shi wu	100
+二月二十五号	er yue er shi wu hao	100
+二月二十五日	er yue er shi wu ri	100
+二月二十八	er yue er shi ba	100
+二月二十八号	er yue er shi ba hao	100
+二月二十八日	er yue er shi ba ri	100
+二月二十六	er yue er shi liu	100
+二月二十六号	er yue er shi liu hao	100
+二月二十六日	er yue er shi liu ri	100
+二月二十号	er yue er shi hao	100
+二月二十四	er yue er shi si	100
+二月二十四号	er yue er shi si hao	100
+二月二十四日	er yue er shi si ri	100
+二月二十日	er yue er shi ri	100
+二月二号	er yue er hao	100
+二月二日	er yue er ri	100
+二月二日新雨晴	er yue er ri xin yu qing	2
+二月二日江上行	er yue er ri jiang shang xing	3
+二月二龙抬头	er yue er long tai tou	100
+二月五	er yue wu	100
+二月五号	er yue wu hao	100
+二月五日	er yue wu ri	100
+二月份	er yue fen	8090
+二月会	er yue hui	100
+二月八	er yue ba	117
+二月八号	er yue ba hao	100
+二月八日	er yue ba ri	100
+二月六	er yue liu	100
+二月六号	er yue liu hao	100
+二月六日	er yue liu ri	100
+二月初七	er yue chu qi	144
+二月初二	er yue chu er	102
+二月初五	er yue chu wu	131
+二月初八	er yue chu ba	133
+二月初六	er yue chu liu	100
+二月初四	er yue chu si	185
+二月初惊见草芽	er yue chu jing jian cao ya	6
+二月十	er yue shi	100
+二月十一	er yue shi yi	100
+二月十一号	er yue shi yi hao	100
+二月十一日	er yue shi yi ri	100
+二月十七	er yue shi qi	142
+二月十七号	er yue shi qi hao	100
+二月十七日	er yue shi qi ri	100
+二月十三	er yue shi san	100
+二月十三号	er yue shi san hao	100
+二月十三日	er yue shi san ri	100
+二月十九	er yue shi jiu	100
+二月十九号	er yue shi jiu hao	100
+二月十九日	er yue shi jiu ri	100
+二月十二	er yue shi er	100
+二月十二号	er yue shi er hao	100
+二月十二日	er yue shi er ri	100
+二月十五	er yue shi wu	400
+二月十五号	er yue shi wu hao	100
+二月十五日	er yue shi wu ri	100
+二月十八	er yue shi ba	100
+二月十八号	er yue shi ba hao	100
+二月十八日	er yue shi ba ri	100
+二月十六	er yue shi liu	100
+二月十六号	er yue shi liu hao	100
+二月十六日	er yue shi liu ri	100
+二月十号	er yue shi hao	100
+二月十四	er yue shi si	141
+二月十四号	er yue shi si hao	100
+二月十四日	er yue shi si ri	100
+二月十日	er yue shi ri	100
+二月四	er yue si	100
+二月四号	er yue si hao	100
+二月四日	er yue si ri	100
+二月垂杨未挂丝	er yue chui yang wei gua si	1
+二月好	er yue hao	100
+二月山城未见花	er yue shan cheng wei jian hua	1
+二月底	er yue di	1460
+二月春风	er yue chun feng	158
+二月春风似剪刀	er yue chun feng si jian dao	39
+二月河	er yue he	48
+二月湖水清	er yue hu shui qing	1
+二月里来	er yue li lai	100
+二月革命	er yue ge ming	100
+二期	er qi	128880
+二期地块	er qi di kuai	100
+二期工程	er qi gong cheng	37920
+二期梅毒	er qi mei du	19
+二期稻作	er qi dao zuo	100
+二期缝合	er qi feng he	6
+二本	er ben	12440
+二本三本	er ben san ben	100
+二本上线率	er ben shang xian lv	100
+二本专业	er ben zhuan ye	100
+二本大学	er ben da xue	166
+二本学校	er ben xue xiao	198
+二本率	er ben lv	108
+二本院校	er ben yuan xiao	151
+二本高校	er ben gao xiao	100
+二机位	er ji wei	100
+二机厂	er ji chang	17
+二机部	er ji bu	700
+二杆子	er gan zi	52
+二杆子脾气	er gan zi pi qi	100
+二条	er tiao	18380
+二条杠	er tiao gang	139
+二条街村	er tiao jie cun	7
+二来	er lai	44340
+二来是	er lai shi	100
+二来是为	er lai shi wei	100
+二来是为了	er lai shi wei le	100
+二杯你肾不亏	er bei ni shen bu kui	100
+二杯口	er bei kou	100
+二板	er ban	1890
+二板市场	er ban shi chang	3030
+二板桥	er ban qiao	92
+二板股票	er ban gu piao	30
+二极体	er ji ti	1190
+二极管	er ji guan	36115
+二极管模块	er ji guan mo kuai	100
+二极管电极	er ji guan dian ji	1
+二林镇	er lin zhen	100
+二枚	er mei	5165
+二柱子	er zhu zi	100
+二栋	er dong	3195
+二校	er jiao	2500
+二校门	er xiao men	102
+二样	er yang	1845
+二桃三士	er tao san shi	1
+二桃杀三士	er tao sha san shi	340
+二案	er an	132
+二桥	er qiao	2882
+二桥路	er qiao lu	35
+二棉厂	er mian chang	7
+二楼	er lou	192935
+二楼住户	er lou zhu hu	100
+二楼候车	er lou hou che	100
+二楼定律	er lou ding lv	97
+二模	er mo	1825
+二模卷	er mo juan	100
+二模考试	er mo kao shi	100
+二模试卷	er mo shi juan	100
+二模试题	er mo shi ti	100
+二次	er ci	9999
+二次三番	er ci san fan	1
+二次不等式	er ci bu deng shi	1000
+二次世界大战	er ci shi jie da zhan	100
+二次会议	er ci hui yi	16925
+二次传播	er ci chuan bo	100
+二次传染	er ci chuan ran	100
+二次伤害	er ci shang hai	100
+二次使用	er ci shi yong	495
+二次侧	er ci ce	92
+二次元	er ci yuan	1165
+二次元衣服	er ci yuan yi fu	100
+二次元角色	er ci yuan jue se	100
+二次元音乐	er ci yuan yin yue	100
+二次充电	er ci chong dian	155
+二次入伍	er ci ru wu	166
+二次公式	er ci gong shi	5
+二次函数	er ci han shu	2685
+二次划线	er ci hua xian	100
+二次创业	er ci chuang ye	17610
+二次创作	er ci chuang zuo	100
+二次创作物	er ci chuang zuo wu	100
+二次剩余	er ci sheng yu	96
+二次反弹	er ci fan tan	100
+二次发酵	er ci fa jiao	610
+二次回路	er ci hui lu	1530
+二次图	er ci tu	86
+二次型	er ci xing	100
+二次多项式	er ci duo xiang shi	25
+二次大战	er ci da zhan	8645
+二次安检	er ci an jian	100
+二次幂	er ci mi	123
+二次开发	er ci kai fa	22045
+二次弹劾	er ci tan he	100
+二次感染	er ci gan ran	186
+二次成长	er ci cheng zhang	100
+二次报价	er ci bao jia	101
+二次排序	er ci pai xu	364
+二次接线	er ci jie xian	325
+二次掩模曝光	er ci yan mo bao guang	100
+二次收费	er ci shou fei	110
+二次方	er ci fang	565
+二次方根	er ci fang gen	60
+二次方程	er ci fang cheng	990
+二次方程式	er ci fang cheng shi	80
+二次曲	er ci qu	100
+二次曲线	er ci qu xian	575
+二次曲线的直径	er ci qu xian de zhi jing	1
+二次曲线轴截距	er ci qu xian zhou jie ju	1
+二次曲面	er ci qu mian	330
+二次核酸	er ci he suan	100
+二次根	er ci gen	25
+二次根式	er ci gen shi	2865
+二次污染	er ci wu ran	15865
+二次污染物	er ci wu ran wu	275
+二次泄洪	er ci xie hong	100
+二次灭绝	er ci mie jue	200
+二次爆发	er ci bao fa	100
+二次爆炸	er ci bao zha	100
+二次生长	er ci sheng zhang	100
+二次电子	er ci dian zi	100
+二次登录	er ci deng lu	100
+二次破碎	er ci po sui	100
+二次筛查	er ci shai cha	100
+二次系统	er ci xi tong	100
+二次线性插值	er ci xian xing cha zhi	15
+二次结构	er ci jie gou	100
+二次能源	er ci neng yuan	1520
+二次腾飞	er ci teng fei	9999
+二次规划	er ci gui hua	975
+二次觉醒	er ci jue xing	100
+二次试用	er ci shi yong	68
+二次调整	er ci tiao zheng	100
+二次进攻得分	er ci jin gong de fen	100
+二次采样	er ci cai yang	350
+二次阳	er ci yang	100
+二次革命	er ci ge ming	2545
+二次项系数	er ci xiang xi shu	100
+二正丙醚	er zheng bing mi	100
+二步	er bu	4955
+二步认证	er bu ren zheng	100
+二步验证	er bu yan zheng	100
+二死一伤	er si yi shang	100
+二死七伤	er si qi shang	100
+二死三伤	er si san shang	100
+二死九伤	er si jiu shang	100
+二死二伤	er si er shang	100
+二死五伤	er si wu shang	100
+二死八伤	er si ba shang	100
+二死六伤	er si liu shang	100
+二死十伤	er si shi shang	100
+二死四伤	er si si shang	100
+二段	er duan	30490
+二段制	er duan zhi	100
+二段式	er duan shi	765
+二段票	er duan piao	100
+二段线	er duan xian	172
+二段跳	er duan tiao	705
+二母宁嗽丸	er mu ning sou wan	4
+二母宁嗽片	er mu ning sou pian	3
+二母清肺丸	er mu qing fei wan	1
+二比一	er bi yi	765
+二比二	er bi er	198
+二比零	er bi ling	193
+二毛	er mao	4620
+二氟化氧	er fu hua yang	100
+二氢乳清酸	er qing ru qing suan	20
+二氢叶酸	er qing ye suan	240
+二氢叶酸还原酶	er qing ye suan huan yuan mei	33
+二氢吡啶	er qing bi ding	690
+二氢埃托啡	er qing ai tuo fei	1
+二氢尿嘧啶	er qing niao mi ding	15
+二氢尿苷	er qing niao gan	1
+二氢睾酮	er qing gao tong	6
+二氢硫辛酸	er qing liu xin suan	5
+二氢蝶啶	er qing die ding	1
+二氢香豆素	er qing xiang dou su	1
+二氧丙嗪	er yang bing qin	2
+二氧化	er yang hua	100
+二氧化氢	er yang hua qing	1111
+二氧化氮	er yang hua dan	3995
+二氧化氮浓度	er yang hua dan nong du	100
+二氧化氯	er yang hua lv	6120
+二氧化物	er yang hua wu	220
+二氧化硅	er yang hua gui	12125
+二氧化硒	er yang hua xi	125
+二氧化硫	er yang hua liu	50665
+二氧化硫中毒	er yang hua liu zhong du	6
+二氧化硫浓度	er yang hua liu nong du	100
+二氧化碲	er yang hua di	50
+二氧化碳	er yang hua tan	77530
+二氧化碳中毒	er yang hua tan zhong du	45
+二氧化碳传感器	er yang hua tan chuan gan qi	100
+二氧化碳分压	er yang hua tan fen ya	17
+二氧化碳浓度	er yang hua tan nong du	100
+二氧化碳激光器	er yang hua tan ji guang qi	26
+二氧化碳激光治疗	er yang hua tan ji guang zhi liao	4
+二氧化碳灭火系统	er yang hua tan mie huo xi tong	100
+二氧化碳的浓度	er yang hua tan de nong du	100
+二氧化碳隔离	er yang hua tan ge li	100
+二氧化碳麻醉	er yang hua tan ma zui	6
+二氧化钌	er yang hua liao	100
+二氧化钒	er yang hua fan	30
+二氧化钛	er yang hua tai	7840
+二氧化铀	er yang hua you	100
+二氧化铅	er yang hua qian	100
+二氧化铈	er yang hua shi	100
+二氧化铼	er yang hua lai	100
+二氧化锆	er yang hua gao	1235
+二氧化锇	er yang hua e	100
+二氧化锌	er yang hua xin	45
+二氧化锡	er yang hua xi	460
+二氧化锰	er yang hua meng	3830
+二氧杂芑	er yang za qi	100
+二氧芑	er yang qi	100
+二氮嗪	er dan qin	14
+二氮嗪注射液	er dan qin zhu she ye	5
+二氮芴	er dan wu	1
+二氯乙烷	er lv yi wan	1730
+二氯乙烷中毒	er lv yi wan zhong du	98
+二氯二氟甲烷	er lv er fu jia wan	2
+二氯化锰	er lv hua meng	10
+二氯异三聚氰酸钠	er lv yi san ju qing suan na	100
+二氯异氰尿酸钠	er lv yi qing niao suan na	13
+二氯甲烷	er lv jia wan	3910
+二氯胺	er lv an	100
+二氯苯	er lv ben	2990
+二氯苯氧乙酸	er lv ben yang yi suan	59
+二氯苯胺苯乙酸钠	er lv ben an ben yi suan na	100
+二水	er shui	1
+二水中分白鹭洲	er shui zhong fen bai lu zhou	20
+二水乡	er shui xiang	100
+二水厂	er shui chang	271
+二水合物	er shui he wu	100
+二水合硫酸钙	er shui he liu suan gai	100
+二水硫酸钙	er shui liu suan gai	100
+二水货	er shui huo	100
+二江寺桥	er jiang si qiao	1
+二汽	er qi	4740
+二汽公司	er qi gong si	170
+二汽莘庄场	er qi xin zhuang chang	1
+二沙东	er sha dong	8
+二沙岛	er sha dao	100
+二沙岛东	er sha dao dong	10
+二沙岛西	er sha dao xi	12
+二沙西	er sha xi	4
+二河	er he	53
+二泉井乡	er quan jing xiang	2
+二泉映月	er quan ying yue	4150
+二洞乡	er dong xiang	3
+二流	er liu	18900
+二流产品	er liu chan pin	485
+二流人才	er liu ren cai	100
+二流子	er liu zi	1390
+二流学校	er liu xue xiao	100
+二流角色	er liu jue se	100
+二测	er ce	620
+二渡	er du	63
+二港	er gang	11
+二溴乙烷	er xiu yi wan	7
+二溴氯丙烷	er xiu lv bing wan	5
+二溴海因	er xiu hai yin	196
+二满三平	er man san ping	100
+二滩	er tan	2700
+二滩水电站	er tan shui dian zhan	695
+二滴	er di	865
+二漏	er lou	5
+二炮	er pao	7080
+二点	er dian	16640
+二点几级	er dian ji ji	100
+二点委夜蛾	er dian wei ye e	3
+二点尖胸沫蝉	er dian jian xiong mo chan	1
+二点球	er dian qiu	143
+二点钟	er dian zhong	100
+二爷	er ye	20755
+二爸	er ba	895
+二爹	er die	800
+二爻	er yao	3415
+二片	er pian	3865
+二版	er ban	8215
+二牧场	er mu chang	68
+二狗	er gou	153
+二王	er wang	11570
+二王三恪	er wang san ke	100
+二王庙	er wang miao	1280
+二环	er huan	27450
+二环北路	er huan bei lu	268
+二环南路口	er huan nan lu kou	2
+二环外	er huan wai	100
+二环西路	er huan xi lu	767
+二环路	er huan lu	11050
+二环路东一段	er huan lu dong yi duan	71
+二环路东三段	er huan lu dong san duan	93
+二环路东五段	er huan lu dong wu duan	107
+二环路东四段	er huan lu dong si duan	60
+二环路九里堤路口	er huan lu jiu li di lu kou	33
+二环路北二段	er huan lu bei er duan	65
+二环路北四段中	er huan lu bei si duan zhong	4
+二环路南四段	er huan lu nan si duan	56
+二环路少陵路口	er huan lu shao ling lu kou	17
+二环路府南新区路口	er huan lu fu nan xin qu lu kou	9
+二环路科华路口	er huan lu ke hua lu kou	35
+二环路西一段南	er huan lu xi yi duan nan	7
+二班	er ban	17980
+二班制	er ban zhi	100
+二球	er qiu	27
+二甘醇	er gan chun	100
+二生三	er sheng san	100
+二用	er yong	2835
+二田制	er tian zhi	100
+二甲	er jia	16130
+二甲双胍	er jia shuang gua	253
+二甲双胍格列本脲片	er jia shuang gua ge lie ben niao pian	1
+二甲双胍缓释片	er jia shuang gua huan shi pian	11
+二甲基	er jia ji	15840
+二甲基乙酰胺	er jia ji yi xian an	3
+二甲基亚砜	er jia ji ya feng	640
+二甲基吡啶	er jia ji bi ding	275
+二甲基汞	er jia ji gong	100
+二甲基甲	er jia ji jia	95
+二甲基甲酰胺	er jia ji jia xian an	33
+二甲基聚硅氧烷	er jia ji ju gui yang wan	22
+二甲基胂酸	er jia ji shen suan	100
+二甲基色胺	er jia ji se an	100
+二甲基苄基原醇	er jia ji bian ji yuan chun	3
+二甲基苯胺	er jia ji ben an	5
+二甲弗林	er jia fu lin	12
+二甲村	er jia cun	19
+二甲次胂酸	er jia ci shen suan	100
+二甲氧三苯甲基	er jia yang san ben jia ji	1
+二甲氧苄氨嘧啶	er jia yang bian an mi ding	10
+二甲硅油	er jia gui you	4
+二甲硅油乳剂	er jia gui you ru ji	2
+二甲硅油气雾剂	er jia gui you qi wu ji	1
+二甲硅油片	er jia gui you pian	2
+二甲磺酸阿米三嗪	er jia huang suan a mi san qin	1
+二甲胂酸	er jia shen suan	100
+二甲胂酸钠	er jia shen suan na	100
+二甲胺	er jia an	1230
+二甲胺基	er jia an ji	315
+二甲苯	er jia ben	17700
+二甲苯中毒	er jia ben zhong du	1
+二甲苯基	er jia ben ji	80
+二甲醚	er jia mi	9015
+二电二充	er dian er chong	62
+二电小区	er dian xiao qu	3
+二男	er nan	1580
+二男一女	er nan yi nv	1785
+二男二女	er nan er nv	100
+二男新战死	er nan xin zhan si	1
+二画	er hua	6
+二番战	er fan zhan	193
+二番队	er fan dui	158
+二疗	er liao	25
+二白	er bai	73
+二百	er bai	70700
+二百一十	er bai yi shi	2130
+二百一十一	er bai yi shi yi	75
+二百一十七	er bai yi shi qi	110
+二百一十万	er bai yi shi wan	55
+二百一十三	er bai yi shi san	80
+二百一十九	er bai yi shi jiu	105
+二百一十二	er bai yi shi er	55
+二百一十五	er bai yi shi wu	135
+二百一十八	er bai yi shi ba	65
+二百一十六	er bai yi shi liu	130
+二百一十四	er bai yi shi si	115
+二百七	er bai qi	115
+二百七十	er bai qi shi	2060
+二百七十一	er bai qi shi yi	25
+二百七十七	er bai qi shi qi	85
+二百七十万	er bai qi shi wan	70
+二百七十三	er bai qi shi san	85
+二百七十九	er bai qi shi jiu	80
+二百七十二	er bai qi shi er	75
+二百七十五	er bai qi shi wu	95
+二百七十八	er bai qi shi ba	80
+二百七十六	er bai qi shi liu	105
+二百七十四	er bai qi shi si	75
+二百万	er bai wan	4015
+二百三	er bai san	148
+二百三十	er bai san shi	2265
+二百三十一	er bai san shi yi	45
+二百三十七	er bai san shi qi	120
+二百三十万	er bai san shi wan	165
+二百三十三	er bai san shi san	50
+二百三十九	er bai san shi jiu	90
+二百三十二	er bai san shi er	100
+二百三十五	er bai san shi wu	120
+二百三十八	er bai san shi ba	95
+二百三十八万	er bai san shi ba wan	87
+二百三十六	er bai san shi liu	55
+二百三十四	er bai san shi si	80
+二百个	er bai ge	1805
+二百九	er bai jiu	13
+二百九十	er bai jiu shi	1400
+二百九十一	er bai jiu shi yi	50
+二百九十七	er bai jiu shi qi	65
+二百九十万	er bai jiu shi wan	65
+二百九十三	er bai jiu shi san	65
+二百九十九	er bai jiu shi jiu	120
+二百九十二	er bai jiu shi er	105
+二百九十五	er bai jiu shi wu	40
+二百九十八	er bai jiu shi ba	65
+二百九十六	er bai jiu shi liu	80
+二百九十四	er bai jiu shi si	75
+二百二	er bai er	1530
+二百二十	er bai er shi	1205
+二百二十一	er bai er shi yi	70
+二百二十七	er bai er shi qi	100
+二百二十万	er bai er shi wan	145
+二百二十三	er bai er shi san	85
+二百二十九	er bai er shi jiu	70
+二百二十二	er bai er shi er	105
+二百二十五	er bai er shi wu	140
+二百二十八	er bai er shi ba	65
+二百二十六	er bai er shi liu	50
+二百二十四	er bai er shi si	100
+二百五	er bai wu	10405
+二百五十	er bai wu shi	3205
+二百五十一	er bai wu shi yi	65
+二百五十七	er bai wu shi qi	115
+二百五十万	er bai wu shi wan	360
+二百五十三	er bai wu shi san	75
+二百五十九	er bai wu shi jiu	55
+二百五十二	er bai wu shi er	115
+二百五十五	er bai wu shi wu	105
+二百五十八	er bai wu shi ba	45
+二百五十六	er bai wu shi liu	140
+二百五十四	er bai wu shi si	65
+二百亩	er bai mu	34
+二百人	er bai ren	2535
+二百倍	er bai bei	200
+二百元	er bai yuan	18825
+二百八	er bai ba	100
+二百八十	er bai ba shi	2175
+二百八十一	er bai ba shi yi	50
+二百八十七	er bai ba shi qi	75
+二百八十万	er bai ba shi wan	145
+二百八十三	er bai ba shi san	50
+二百八十九	er bai ba shi jiu	65
+二百八十二	er bai ba shi er	45
+二百八十五	er bai ba shi wu	85
+二百八十八	er bai ba shi ba	185
+二百八十六	er bai ba shi liu	85
+二百八十四	er bai ba shi si	55
+二百六十	er bai liu shi	2220
+二百六十一	er bai liu shi yi	55
+二百六十七	er bai liu shi qi	85
+二百六十万	er bai liu shi wan	65
+二百六十三	er bai liu shi san	60
+二百六十九	er bai liu shi jiu	55
+二百六十二	er bai liu shi er	125
+二百六十五	er bai liu shi wu	115
+二百六十八	er bai liu shi ba	70
+二百六十六	er bai liu shi liu	85
+二百六十四	er bai liu shi si	40
+二百几	er bai ji	177
+二百分	er bai fen	100
+二百四十	er bai si shi	3145
+二百四十一	er bai si shi yi	45
+二百四十七	er bai si shi qi	80
+二百四十万	er bai si shi wan	115
+二百四十三	er bai si shi san	125
+二百四十九	er bai si shi jiu	95
+二百四十二	er bai si shi er	145
+二百四十五	er bai si shi wu	95
+二百四十八	er bai si shi ba	50
+二百四十六	er bai si shi liu	90
+二百四十四	er bai si shi si	65
+二百块	er bai kuai	610
+二百块钱	er bai kuai qian	100
+二百多万	er bai duo wan	100
+二百多分	er bai duo fen	100
+二百多天	er bai duo tian	145
+二百多年	er bai duo nian	100
+二百天	er bai tian	100
+二百年	er bai nian	4255
+二百零一	er bai ling yi	125
+二百零七	er bai ling qi	170
+二百零三	er bai ling san	110
+二百零九	er bai ling jiu	115
+二百零二	er bai ling er	240
+二百零五	er bai ling wu	165
+二百零八	er bai ling ba	110
+二百零六	er bai ling liu	240
+二百零四	er bai ling si	335
+二的	er de	2
+二的十次方	er de shi ci fang	100
+二的方幂	er de fang mi	1
+二皇子	er huang zi	1865
+二皇帝	er huang di	5
+二皮脸	er pi lian	630
+二盖一	er gai yi	5
+二目连	er mu lian	100
+二省	er sheng	2370
+二眼井	er yan jing	3
+二码一字	er ma yi zi	100
+二码头	er ma tou	31
+二砖厂	er zhuan chang	9
+二硝基	er xiao ji	2850
+二硝基氟苯	er xiao ji fu ben	75
+二硝基甲苯	er xiao ji jia ben	22
+二硝基苯	er xiao ji ben	555
+二硝基苯酚	er xiao ji ben fen	170
+二硝托胺	er xiao tuo an	15
+二硫化物	er liu hua wu	470
+二硫化硒	er liu hua xi	3
+二硫化碳	er liu hua tan	2530
+二硫化钼	er liu hua mu	100
+二硫化铁	er liu hua tie	15
+二硫基丙	er liu ji bing	100
+二硫基丙醇	er liu ji bing chun	100
+二硫碘化钾	er liu dian hua jia	161
+二硫苏糖醇	er liu su tang chun	30
+二硫键	er liu jian	795
+二碗	er wan	1650
+二碳化钙	er tan hua gai	100
+二磊子	er lei zi	12
+二磷酸	er lin suan	1230
+二磷酸果糖	er lin suan guo tang	5
+二磷酸肌醇磷脂	er lin suan ji chun lin zhi	5
+二磷酸腺苷	er lin suan xian gan	100
+二种	er zhong	42665
+二种邪见	er zhong xie jian	13
+二科	er ke	8995
+二秒	er miao	675
+二秒钟	er miao zhong	100
+二秘	er mi	665
+二程祠	er cheng ci	1
+二空观	er kong guan	8
+二竖	er shu	205
+二竖为灾	er shu wei zai	100
+二竖为烈	er shu wei lie	1
+二竖为祟	er shu wei sui	100
+二竖作恶	er shu zuo e	1
+二站	er zhan	17129
+二站乡	er zhan xiang	1
+二章	er zhang	13900
+二童一马	er tong yi ma	1
+二端	er duan	1600
+二笔	er bi	1905
+二笔输入法	er bi shu ru fa	570
+二等	er deng	45290
+二等亲	er deng qin	100
+二等公民	er deng gong min	1525
+二等兵	er deng bing	9710
+二等分	er deng fen	425
+二等功	er deng gong	10050
+二等品	er deng pin	1080
+二等奖	er deng jiang	213765
+二等奖获得者	er deng jiang huo de zhe	100
+二等座	er deng zuo	980
+二等舱	er deng cang	1335
+二等车	er deng che	100
+二筒	er tong	11
+二简字	er jian zi	153
+二篇	er pian	4570
+二米	er mi	999
+二类	er lei	53695
+二类住宅用地	er lei zhu zhai yong di	100
+二类卡	er lei ka	72
+二类地区	er lei di qu	100
+二类居住用地	er lei ju zhu yong di	100
+二类洞	er lei dong	100
+二类相召也	er lei xiang zhao ye	1
+二粒	er li	241
+二索	er suo	11
+二级	er ji	8888
+二级代理	er ji dai li	3975
+二级代理商	er ji dai li shang	100
+二级以上	er ji yi shang	13680
+二级企业	er ji qi ye	3150
+二级公路	er ji gong lu	9500
+二级军士长	er ji jun shi zhang	100
+二级准尉	er ji zhun wei	16
+二级分行	er ji fen hang	100
+二级医院	er ji yi yuan	3742
+二级域	er ji yu	905
+二级域名	er ji yu ming	29085
+二级士官	er ji shi guan	100
+二级头	er ji tou	100
+二级字	er ji zi	100
+二级学科	er ji xue ke	14840
+二级学院	er ji xue yuan	12655
+二级安全防范设计评估师	er ji an quan fang fan she ji ping gu shi	2
+二级宝	er ji bao	1
+二级宝物	er ji bao wu	1
+二级市场	er ji shi chang	35315
+二级库	er ji ku	85
+二级建造师	er ji jian zao shi	100
+二级恶意犯规	er ji e yi fan gui	100
+二级恶犯	er ji e fan	7
+二级戒备	er ji jie bei	100
+二级战备	er ji zhan bei	172
+二级打闹	er ji da nao	100
+二级指针	er ji zhi zhen	2140
+二级标题	er ji biao ti	100
+二级甲	er ji jia	100
+二级白斗	er ji bai dou	100
+二级盔	er ji kui	100
+二级神	er ji shen	191
+二级站	er ji zhan	1125
+二级箱	er ji xiang	67
+二级索引	er ji suo yin	1444
+二级结构	er ji jie gou	1180
+二级结论	er ji jie lun	102
+二级缓存	er ji huan cun	5800
+二级网	er ji wang	410
+二级考试	er ji kao shi	187
+二级联动	er ji lian dong	200
+二级英模	er ji ying mo	100
+二级菜单	er ji cai dan	1927
+二级行政执法员	er ji xing zheng zhi fa yuan	100
+二级警长	er ji jing zhang	100
+二级调研员	er ji diao yan yuan	100
+二级谋杀罪	er ji mou sha zui	357
+二级资质	er ji zi zhi	7130
+二级院系	er ji yuan xi	100
+二级鞋	er ji xie	100
+二级页表	er ji ye biao	100
+二级预防	er ji yu fang	216
+二级风	er ji feng	100
+二级高速缓存	er ji gao su huan cun	48
+二级魔法	er ji mo fa	33
+二级魔法塔	er ji mo fa ta	1
+二级黑斗	er ji hei dou	100
+二纹长脚蜂	er wen chang jiao feng	1
+二纺	er fang	6
+二纺机	er fang ji	1055
+二纺机总厂	er fang ji zong chang	8
+二线	er xian	53370
+二线城市	er xian cheng shi	100
+二线缺角蛱蛾	er xian que jiao jia e	1
+二线队员	er xian dui yuan	270
+二组	er zu	28455
+二维	er wei	53310
+二维几何	er wei ji he	52
+二维图	er wei tu	595
+二维数组	er wei shu zu	21886
+二维树状数组	er wei shu zhuang shu zu	702
+二维核磁共振	er wei he ci gong zhen	35
+二维电泳	er wei dian yong	70
+二维的	er wei de	2205
+二维码	er wei ma	9151
+二维码扫描	er wei ma sao miao	1655
+二维码生成	er wei ma sheng cheng	683
+二维码签到	er wei ma qian dao	16
+二维碳材料	er wei tan cai liao	100
+二维空间	er wei kong jian	1235
+二维线段树	er wei xian duan shu	420
+二维背包	er wei bei bao	168
+二维表	er wei biao	1060
+二缶钟惑	er fou zhong huo	101
+二缺	er que	9999
+二缺二	er que er	100
+二罪俱罚	er zui ju fa	8
+二羟丙茶碱	er qiang bing cha jian	31
+二羟二丁基醚	er qiang er ding ji mi	1
+二羟基	er qiang ji	1735
+二羟基丙酮	er qiang ji bing tong	8
+二羟苯甲酸	er qiang ben jia suan	3
+二羧酸	er suo suan	400
+二老	er lao	16445
+二老婆	er lao po	100
+二老板	er lao ban	1035
+二者	er zhe	179225
+二者不可兼得	er zhe bu ke jian de	730
+二者不可得兼	er zhe bu ke de jian	730
+二者之一	er zhe zhi yi	100
+二者之间	er zhe zhi jian	17620
+二者之间的关系	er zhe zhi jian de guan xi	100
+二者关系	er zhe guan xi	100
+二者兼得	er zhe jian de	100
+二者必取其一	er zhe bi qu qi yi	1
+二者必居其一	er zhe bi ju qi yi	470
+二者的关系	er zhe de guan xi	100
+二者皆不毒	er zhe jie bu du	100
+二者间	er zhe jian	1770
+二而一	er er yi	495
+二联	er lian	9345
+二联体	er lian ti	60
+二联单	er lian dan	100
+二联式	er lian shi	60
+二联活菌	er lian huo jun	3
+二聚体	er ju ti	1780
+二聚化	er ju hua	105
+二股	er gu	1510
+二肽	er tai	525
+二肽酶	er tai mei	50
+二胎	er tai	3770
+二胎得女	er tai de nv	100
+二胎政策	er tai zheng ce	100
+二胎来了	er tai lai le	100
+二胚层动物	er pei ceng dong wu	3
+二胡	er hu	36860
+二胡卵子	er hu luan zi	135
+二胡曲	er hu qu	995
+二胺	er an	123
+二至三人	er zhi san ren	450
+二至丸	er zhi wan	15
+二至圈	er zhi quan	9
+二至点	er zhi dian	126
+二致	er zhi	1640
+二舅	er jiu	2005
+二舅妈	er jiu ma	100
+二舅母	er jiu mu	100
+二舅老爷	er jiu lao ye	100
+二艘	er sou	2330
+二色	er se	4415
+二色性	er se xing	720
+二色红	er se hong	1
+二色赤猎椿象	er se chi lie chun xiang	1
+二节	er jie	1180
+二节棍	er jie gun	1195
+二节课	er jie ke	100
+二芯线	er xin xian	1180
+二花脸	er hua lian	9999
+二苯乙烯	er ben yi xi	19
+二苯基	er ben ji	1735
+二苯基唑	er ben ji zuo	1
+二苯氯胂	er ben lv shen	100
+二苯甲基胺树脂	er ben jia ji an shu zhi	1
+二苯甲烷二异氰酸酯	er ben jia wan er yi qing suan zhi	1
+二苯甲酮	er ben jia tong	625
+二苯胺	er ben an	955
+二苯胺蓝	er ben an lan	1
+二苯醚	er ben mi	3025
+二茬	er cha	3999
+二茬罪	er cha zui	165
+二菜场	er cai chang	3
+二营盘	er ying pan	37
+二营长	er ying zhang	100
+二虎	er hu	7595
+二虎相斗	er hu xiang dou	100
+二虎相斗必有一伤	er hu xiang dou bi you yi shang	100
+二行	er xing	43
+二行程	er xing cheng	465
+二行程循环引擎	er xing cheng xun huan yin qing	10
+二街	er jie	7240
+二补	er bu	42
+二表	er biao	25
+二表哥	er biao ge	240
+二表妹	er biao mei	100
+二表姊	er biao zi	100
+二表姐	er biao jie	100
+二表嫂	er biao sao	100
+二表弟	er biao di	100
+二褐带三刺角蝉	er he dai san ci jiao chan	1
+二要	er yao	57750
+二见一树	er jian yi shu	100
+二觉被动	er jue bei dong	100
+二角赛瓜参	er jiao sai gua can	1
+二话	er hua	3580
+二话不说	er hua bu shuo	18110
+二话不说地	er hua bu shuo de	100
+二话没说	er hua mei shuo	10825
+二语习得	er yu xi de	100
+二读	er du	1040
+二课分	er ke fen	100
+二调	er diao	3
+二象性	er xiang xing	100
+二货	er huo	9999
+二贯钱	er guan qian	100
+二赖子	er lai zi	8
+二足	er zu	1095
+二趾树懒	er zhi shu lan	100
+二路	er lu	56760
+二路归并	er lu gui bing	913
+二路扳	er lu ban	1
+二路扳粘	er lu ban zhan	1
+二路汽车	er lu qi che	100
+二路纵队	er lu zong dui	100
+二路线	er lu xian	5
+二踢脚	er ti jiao	1420
+二转子	er zhuan zi	3
+二轮	er lun	21390
+二轮土地承包	er lun tu di cheng bao	100
+二轮影院	er lun ying yuan	35
+二轮电影	er lun dian ying	100
+二轮车	er lun che	295
+二轮马车	er lun ma che	100
+二轻大楼	er qing da lou	2
+二轻局	er qing ju	870
+二边	er bian	3680
+二过一	er guo yi	1450
+二进	er jin	12860
+二进位	er jin wei	100
+二进位制	er jin wei zhi	100
+二进制	er jin zhi	49435
+二进制优化	er jin zhi you hua	333
+二进制单元	er jin zhi dan yuan	12
+二进制大对象	er jin zhi da dui xiang	564
+二进制字符	er jin zhi zi fu	1691
+二进制数	er jin zhi shu	11370
+二进制数字	er jin zhi shu zi	2088
+二进制文件	er jin zhi wen jian	21583
+二进制日志	er jin zhi ri zhi	2434
+二进制枚举	er jin zhi mei ju	247
+二进制流	er jin zhi liu	3281
+二进制码	er jin zhi ma	100
+二进制编码	er jin zhi bian ma	100
+二进制输出	er jin zhi shu chu	100
+二进制运算	er jin zhi yun suan	357
+二进宫	er jin gong	1575
+二进数	er jin shu	40
+二进法	er jin fa	20
+二连	er lian	8385
+二连冠	er lian guan	149
+二连巨盗龙	er lian ju dao long	100
+二连星	er lian xing	14
+二连浩特	er lian hao te	2840
+二连浩特市	er lian hao te shi	1300
+二连盆地	er lian pen di	100
+二连破	er lian po	100
+二连胜	er lian sheng	160
+二连跪	er lian gui	100
+二选	er xuan	222
+二选一	er xuan yi	4740
+二选其一	er xuan qi yi	100
+二通	er tong	2
+二逼	er bi	9999
+二逼了	er bi le	100
+二逼青年	er bi qing nian	100
+二遍	er bian	2335
+二遍苦	er bian ku	155
+二道	er dao	22705
+二道区	er dao qu	2245
+二道杠	er dao gang	162
+二道桥	er dao qiao	308
+二道桥乡	er dao qiao xiang	5
+二道江	er dao jiang	420
+二道江区	er dao jiang qu	570
+二道沟	er dao gou	88
+二道河	er dao he	65
+二道河桥	er dao he qiao	23
+二道洼	er dao wa	4
+二道渠	er dao qu	7
+二道渠乡	er dao qu xiang	3
+二道湾	er dao wan	54
+二道湾村	er dao wan cun	1
+二道白河镇	er dao bai he zhen	185
+二道街	er dao jie	114
+二道贩子	er dao fan zi	1380
+二郎	er lang	17390
+二郎丸	er lang wan	100
+二郎丸五次方特别号	er lang wan wu ci fang te bie hao	100
+二郎丸四次方特别号	er lang wan si ci fang te bie hao	100
+二郎丸特别号	er lang wan te bie hao	100
+二郎丸特别特别号	er lang wan te bie te bie hao	100
+二郎丸特别特别特别号	er lang wan te bie te bie te bie hao	100
+二郎山	er lang shan	6635
+二郎庙	er lang miao	151
+二郎搜山图卷	er lang sou shan tu juan	100
+二郎真君	er lang zhen jun	100
+二郎神	er lang shen	6670
+二郎神君	er lang shen jun	100
+二郎腿	er lang tui	6035
+二部	er bu	27210
+二部制	er bu zhi	150
+二部合唱	er bu he chang	100
+二部曲	er bu qu	1450
+二部曲式	er bu qu shi	165
+二都村	er dou cun	3
+二都村	er du cun	9
+二酉乡	er you xiang	48
+二酉才高	er you cai gao	1
+二酉苗族乡	er you miao zu xiang	32
+二酸	er suan	4700
+二醇	er chun	9545
+二里	er li	1017
+二里地	er li di	100
+二里头	er li tou	100
+二里头文化	er li tou wen hua	100
+二里岗街道	er li gang jie dao	18
+二里庄	er li zhuang	1590
+二里庄北口	er li zhuang bei kou	4
+二里庄南口	er li zhuang nan kou	1
+二里桥	er li qiao	8
+二里桥社区	er li qiao she qu	1
+二里沟	er li gou	87
+二里沟东口	er li gou dong kou	4
+二里沟西口	er li gou xi kou	2
+二里河	er li he	8
+二里界乡	er li jie xiang	1
+二重	er chong	9565
+二重人格	er chong ren ge	30
+二重唱	er chong chang	2910
+二重天	er chong tian	100
+二重奏	er chong zou	2455
+二重寄生	er chong ji sheng	100
+二重性	er chong xing	2890
+二重感染	er chong gan ran	61
+二重指针	er chong zhi zhen	274
+二重根	er chong gen	20
+二重母音	er chong mu yin	100
+二重生活	er chong sheng huo	100
+二重积分	er chong ji fen	1550
+二重身	er chong shen	100
+二野	er ye	1325
+二针	er zhen	20
+二钢	er gang	52
+二钱	er qian	6520
+二钼酸铵	er mu suan an	100
+二铺	er pu	40
+二锅头	er guo tou	28401
+二锅头酒	er guo tou jiu	535
+二长老	er zhang lao	100
+二门	er men	12230
+二门不出	er men bu chu	100
+二间	er jian	399
+二间低夹	er jian di jia	1
+二间低挂	er jian di gua	1
+二间房	er jian fang	3
+二间穴	er jian xue	3
+二间高夹	er jian gao jia	2
+二间高挂	er jian gao gua	1
+二队	er dui	12135
+二队长	er dui zhang	100
+二阳	er yang	1390
+二阳了	er yang le	100
+二阳并病	er yang bing bing	3
+二阳的	er yang de	100
+二阶	er jie	7645
+二阶一	er jie yi	100
+二阶堂梦	er jie tang meng	6666
+二阶堂进	er jie tang jin	90
+二阶导数	er jie dao shu	370
+二阶常微分方程	er jie chang wei fen fang cheng	40
+二阶收敛性	er jie shou lian xing	5
+二阿姨	er a yi	100
+二附中	er fu zhong	658
+二陆草堂	er lu cao tang	35
+二陈丸	er chen wan	110
+二院	er yuan	2853
+二难	er nan	1450
+二难并	er nan bing	100
+二难推理	er nan tui li	33
+二零	er ling	2020
+二面角	er mian jiao	1530
+二页	er ye	2595
+二项	er xiang	18760
+二项分布	er xiang fen bu	937
+二项式	er xiang shi	98
+二项式定理	er xiang shi ding li	1120
+二项式系数	er xiang shi xi shu	100
+二项级数	er xiang ji shu	15
+二顾茅庐	er gu mao lu	100
+二饼	er bing	11
+二首	er shou	18770
+二首歌	er shou ge	100
+二马	er ma	2550
+二马盘槽	er ma pan cao	1
+二马路	er ma lu	890
+二驱	er qu	9999
+二驱车	er qu che	100
+二鬼子	er gui zi	1035
+二鬼拍门	er gui pai men	3
+二麻二麻	er ma er ma	13
+二黄	er huang	3080
+二龙	er long	6930
+二龙争战决雌雄	er long zheng zhan jue ci xiong	2
+二龙喉公园	er long hou gong yuan	2
+二龙山	er long shan	2490
+二龙岗	er long gang	3
+二龙戏凤	er long xi feng	1
+二龙戏珠	er long xi zhu	3905
+二龙腾飞	er long teng fei	100
+二龙路	er long lu	55
+二龙路西街	er long lu xi jie	1
+二𫫇烷	er e wan	100
+二𫫇英	er e ying	9999
+儿化	er hua	1685
+儿化音	er hua yin	450
+儿化韵	er hua yun	100
+儿口	er kou	7
+儿咂	er za	222
+儿啊	er a	2127
+儿啼不窥家	er ti bu kui jia	1
+儿大不由爷	er da bu you ye	3
+儿女	er nv	99055
+儿女之债	er nv zhi zhai	1
+儿女之命	er nv zhi ming	100
+儿女之态	er nv zhi tai	15
+儿女之情	er nv zhi qing	565
+儿女亲家	er nv qing jia	725
+儿女们	er nv men	8540
+儿女传奇	er nv chuan qi	100
+儿女债	er nv zhai	100
+儿女共沾巾	er nv gong zhan jin	6
+儿女夫妻	er nv fu qi	100
+儿女嬉笑牵人衣	er nv xi xiao qian ren yi	1
+儿女子语	er nv zi yu	100
+儿女心肠	er nv xin chang	5
+儿女忽成行	er nv hu cheng xing	7
+儿女情	er nv qing	1880
+儿女情多	er nv qing duo	100
+儿女情长	er nv qing chang	4755
+儿女成群	er nv cheng qun	310
+儿女成行	er nv cheng hang	100
+儿女成长	er nv cheng zhang	100
+儿女的成长	er nv de cheng zhang	100
+儿女私情	er nv si qing	2845
+儿女罗酒浆	er nv luo jiu jiang	1
+儿女英雄	er nv ying xiong	15
+儿女英雄传	er nv ying xiong zhuan	100
+儿女长大	er nv zhang da	100
+儿妇	er fu	550
+儿娃子	er wa zi	16
+儿媳	er xi	22890
+儿媳妇	er xi fu	12760
+儿媳妇儿	er xi fu er	9999
+儿子	er zi	500415
+儿子大了	er zi da le	100
+儿子成长	er zi cheng zhang	100
+儿子我	er zi wo	101
+儿子的	er zi de	100
+儿子的成长	er zi de cheng zhang	100
+儿子的肖像画	er zi de xiao xiang hua	7
+儿子的长相	er zi de zhang xiang	100
+儿子结婚了	er zi jie hun le	100
+儿子般	er zi ban	140
+儿子身份	er zi shen fen	20
+儿子身边	er zi shen bian	100
+儿子长	er zi chang	159
+儿子长大	er zi zhang da	100
+儿子长大后	er zi zhang da hou	100
+儿孙	er sun	14530
+儿孙满堂	er sun man tang	1805
+儿孙琐事由他去	er sun suo shi you ta qu	100
+儿孙自有儿孙福	er sun zi you er sun fu	540
+儿孙自有儿孙计	er sun zi you er sun ji	1
+儿就行	er jiu xing	100
+儿康宁糖浆	er kang ning tang jiang	3
+儿怜兽扰	er lian shou rao	1
+儿怜瘦扰	er lian shou rao	1
+儿感清口服液	er gan qing kou fu ye	4
+儿戏	er xi	13360
+儿时	er shi	44385
+儿时代	er shi dai	10
+儿时仰星光	er shi yang xing guang	100
+儿时期	er shi qi	305
+儿时的	er shi de	123
+儿时的快乐	er shi de kuai le	100
+儿时的欢乐	er shi de huan le	100
+儿歌	er ge	35635
+儿歌三百首	er ge san bai shou	100
+儿泻康贴膜	er xie kang tie mo	5
+儿玉玲奈	er yu ling nai	6666
+儿男	er nan	580
+儿皇帝	er huang di	535
+儿研所	er yan suo	100
+儿科	er ke	47625
+儿科七厘散	er ke qi li san	1
+儿科专家	er ke zhuan jia	2500
+儿科医师	er ke yi shi	640
+儿科医生	er ke yi sheng	2740
+儿科医院	er ke yi yuan	747
+儿科大夫	er ke dai fu	100
+儿科学	er ke xue	5205
+儿科护士长	er ke hu shi zhang	100
+儿科护理学	er ke hu li xue	1
+儿童	er tong	500499
+儿童不宜	er tong bu yi	4085
+儿童与老人	er tong yu lao ren	80
+儿童专用	er tong zhuan yong	100
+儿童主题乐园	er tong zhu ti le yuan	100
+儿童之家	er tong zhi jia	845
+儿童之见	er tong zhi jian	100
+儿童乐器	er tong yue qi	100
+儿童乐园	er tong le yuan	6455
+儿童乐园设备	er tong le yuan she bei	100
+儿童乘车安全	er tong cheng che an quan	471
+儿童书	er tong shu	850
+儿童们	er tong men	2620
+儿童优惠	er tong you hui	465
+儿童体重	er tong ti zhong	100
+儿童保健	er tong bao jian	7015
+儿童保健学	er tong bao jian xue	12
+儿童保护	er tong bao hu	1435
+儿童俱乐部	er tong ju le bu	100
+儿童健康成长	er tong jian kang cheng zhang	100
+儿童偷把长竿	er tong tou ba chang gan	1
+儿童入学率	er tong ru xue lv	395
+儿童公园	er tong gong yuan	3780
+儿童出行	er tong chu xing	100
+儿童剧	er tong ju	3265
+儿童办理身份证	er tong ban li shen fen zheng	100
+儿童动画片	er tong dong hua pian	100
+儿童劫	er tong jie	2
+儿童医学中心	er tong yi xue zhong xin	542
+儿童医院	er tong yi yuan	13940
+儿童医院天桥	er tong yi yuan tian qiao	5
+儿童医院西门	er tong yi yuan xi men	91
+儿童医院路口东	er tong yi yuan lu kou dong	226
+儿童医院路口西	er tong yi yuan lu kou xi	1
+儿童半价	er tong ban jia	535
+儿童参与	er tong can yu	100
+儿童发展	er tong fa zhan	8155
+儿童发展权	er tong fa zhan quan	1
+儿童口腔医学	er tong kou qiang yi xue	12
+儿童台	er tong tai	100
+儿童向	er tong xiang	100
+儿童周	er tong zhou	6786
+儿童和老人	er tong he lao ren	1630
+儿童咳液	er tong ke ye	2
+儿童哮喘	er tong xiao chuan	1330
+儿童团	er tong tuan	1415
+儿童图书	er tong tu shu	1330
+儿童图书馆	er tong tu shu guan	265
+儿童地垫	er tong di dian	100
+儿童地板	er tong di ban	100
+儿童城	er tong cheng	215
+儿童基金会	er tong ji jin hui	100
+儿童多动症	er tong duo dong zheng	2000
+儿童天地	er tong tian di	100
+儿童头盔	er tong tou kui	100
+儿童套餐	er tong tao can	100
+儿童娱乐	er tong yu le	1215
+儿童娱乐区	er tong yu le qu	100
+儿童娱乐设施	er tong yu le she shi	100
+儿童学	er tong xue	2105
+儿童安全座椅	er tong an quan zuo yi	3235
+儿童室	er tong shi	140
+儿童家长	er tong jia zhang	100
+儿童少年	er tong shao nian	7740
+儿童少年卫生学	er tong shao nian wei sheng xue	3
+儿童尽东征	er tong jin dong zheng	1
+儿童局	er tong ju	55
+儿童床	er tong chuang	1200
+儿童座椅	er tong zuo yi	1715
+儿童强不睡	er tong qiang bu shui	1
+儿童心理	er tong xin li	10555
+儿童心理学	er tong xin li xue	2390
+儿童急走追黄蝶	er tong ji zou zhui huang die	11
+儿童恶性肿瘤	er tong e xing zhong liu	100
+儿童感热清丸	er tong gan re qing wan	2
+儿童戏	er tong xi	515
+儿童成长	er tong cheng zhang	100
+儿童成长中心	er tong cheng zhang zhong xin	100
+儿童房	er tong fang	10090
+儿童房地毯	er tong fang di tan	100
+儿童手套	er tong shou tao	100
+儿童手表	er tong shou biao	100
+儿童护理	er tong hu li	218
+儿童拓展	er tong tuo zhan	100
+儿童摄影	er tong she ying	8935
+儿童教育	er tong jiao yu	10955
+儿童散学归来早	er tong san xue gui lai zao	17
+儿童文学	er tong wen xue	19530
+儿童文学家	er tong wen xue jia	335
+儿童旅行箱	er tong lv xing xiang	100
+儿童早期教育	er tong zao qi jiao yu	1690
+儿童时期	er tong shi qi	3460
+儿童智力	er tong zhi li	5135
+儿童服装	er tong fu zhuang	5830
+儿童期	er tong qi	5605
+儿童权利公约	er tong quan li gong yue	1221
+儿童权益	er tong quan yi	1385
+儿童村	er tong cun	2
+儿童模式	er tong mo shi	100
+儿童模特	er tong mo te	100
+儿童歌	er tong ge	108
+儿童歌曲	er tong ge qu	2965
+儿童死亡率	er tong si wang lv	100
+儿童水上乐园	er tong shui shang le yuan	100
+儿童活动场地	er tong huo dong chang di	100
+儿童清肺丸	er tong qing fei wan	5
+儿童清肺口服液	er tong qing fei kou fu ye	6
+儿童游乐	er tong you le	100
+儿童游乐区	er tong you le qu	100
+儿童游乐园	er tong you le yuan	100
+儿童游乐场	er tong you le chang	100
+儿童游乐场所	er tong you le chang suo	100
+儿童游乐场设备	er tong you le chang she bei	100
+儿童游乐设备	er tong you le she bei	100
+儿童游乐设施	er tong you le she shi	100
+儿童游戏	er tong you xi	100
+儿童漆	er tong qi	131
+儿童爬行垫	er tong pa xing dian	100
+儿童片	er tong pian	1335
+儿童牛仔	er tong niu zai	100
+儿童牛仔衬衫	er tong niu zai chen shan	100
+儿童牛仔裤	er tong niu zai ku	100
+儿童牛奶	er tong niu nai	100
+儿童玩乐	er tong wan le	100
+儿童玩具	er tong wan ju	8295
+儿童玩具召回管理规定	er tong wan ju zhao hui guan li gui ding	161
+儿童瑜伽	er tong yu jia	100
+儿童生长	er tong sheng zhang	100
+儿童生长发育	er tong sheng zhang fa yu	100
+儿童用品	er tong yong pin	10990
+儿童画	er tong hua	5950
+儿童的成长	er tong de cheng zhang	100
+儿童相唤踏春阳	er tong xiang huan ta chun yang	1
+儿童相见不相识	er tong xiang jian bu xiang shi	1180
+儿童票	er tong piao	4700
+儿童票价	er tong piao jia	935
+儿童福利	er tong fu li	3350
+儿童福利事业	er tong fu li shi ye	465
+儿童福利院	er tong fu li yuan	4794
+儿童笑话	er tong xiao hua	665
+儿童类	er tong lei	2620
+儿童系列	er tong xi lie	100
+儿童系马黄河曲	er tong xi ma huang he qu	1
+儿童肝炎	er tong gan yan	140
+儿童脑性瘫痪	er tong nao xing tan huan	5
+儿童自行车	er tong zi xing che	100
+儿童色情	er tong se qing	100
+儿童节	er tong jie	12205
+儿童节快乐	er tong jie kuai le	100
+儿童节目	er tong jie mu	1470
+儿童节礼物	er tong jie li wu	126
+儿童营养	er tong ying yang	3690
+儿童行李箱	er tong xing li xiang	100
+儿童诗	er tong shi	3190
+儿童语	er tong yu	5
+儿童读物	er tong du wu	4685
+儿童走卒	er tong zou zu	5
+儿童过街	er tong guo jie	3333
+儿童邪典	er tong xie dian	100
+儿童邪典片	er tong xie dian pian	100
+儿童部	er tong bu	690
+儿童重疾险	er tong zhong ji xian	100
+儿童重症	er tong zhong zheng	100
+儿童重症监护室	er tong zhong zheng jian hu shi	100
+儿童长高	er tong zhang gao	100
+儿童院	er tong yuan	790
+儿童雨衣	er tong yu yi	133
+儿童雪地靴	er tong xue di xue	100
+儿童鞋	er tong xie	240
+儿童音乐	er tong yin yue	100
+儿童音乐剧	er tong yin yue ju	100
+儿童食品	er tong shi pin	7010
+儿童餐	er tong can	100
+儿童高钙片	er tong gao gai pian	2
+儿童鼻窦炎	er tong bi dou yan	12
+儿脾醒	er pi xing	9
+儿臣	er chen	2222
+儿臣不知	er chen bu zhi	100
+儿臣冤枉啊	er chen yuan wang a	100
+儿臣参见	er chen can jian	100
+儿臣参见父皇	er chen can jian fu huang	100
+儿臣告退	er chen gao tui	100
+儿臣遵旨	er chen zun zhi	100
+儿臣附议	er chen fu yi	100
+儿臣领旨	er chen ling zhi	100
+儿茶	er cha	3485
+儿茶素	er cha su	4680
+儿茶酚	er cha fen	1290
+儿茶酚胺	er cha fen an	2690
+儿茶酚胺类激素	er cha fen an lei ji su	5
+儿茶酚胺能受体	er cha fen an neng shou ti	1
+儿茶酸	er cha suan	4
+儿行千里	er xing qian li	100
+儿行千里母担忧	er xing qian li mu dan you	675
+儿语	er yu	2460
+儿说	er shuo	21120
+儿辈	er bei	960
+儿郎	er lang	4490
+儿马	er ma	999
+儿麻	er ma	1
+儿齿	er chi	40
+尔何怀乎故宇	er he huai hu gu yu	1
+尔俸尔禄	er feng er lu	48
+尔冬升	er dong sheng	151
+尔卜尔筮	er bu er shi	100
+尔后	er hou	26545
+尔尔	er er	1455
+尔康	er kang	11225
+尔康与紫薇	er kang yu zi wei	100
+尔康和紫薇	er kang he zi wei	100
+尔康紫薇	er kang zi wei	100
+尔德节	er de jie	215
+尔所谓达者	er suo wei da zhe	1
+尔曹	er cao	780
+尔曹身与名俱灭	er cao shen yu ming ju mie	1180
+尔木葡	er mu pu	100
+尔本周	er ben zhou	100
+尔朱荣	er zhu rong	1720
+尔来	er lai	2375
+尔来四万八千岁	er lai si wan ba qian sui	10
+尔格	er ge	4340
+尔汝	er ru	395
+尔汝之交	er ru zhi jiao	100
+尔汝交	er ru jiao	1
+尔湾分校	er wan fen xiao	100
+尔焉能浼我哉	er yan neng mei wo zai	1
+尔独何辜限河梁	er du he gu xian he liang	3
+尔的狗头	er de gou tou	100
+尔等	er deng	13255
+尔等何人	er deng he ren	102
+尔等受死	er deng shou si	100
+尔等敢应战否	er deng gan ying zhan fou	100
+尔等看好了	er deng kan hao le	100
+尔虞我诈	er yu wo zha	8460
+尔诈我虞	er zha wo yu	100
+尔赛乡	er sai xiang	2
+尔雅	er ya	9160
+尔雅温文	er ya wen wen	3
+洱海	er hai	22165
+洱海弓鱼	er hai gong yu	17
+洱海海菜	er hai hai cai	5
+洱源县	er yuan xian	119
+珥金拖紫	er jin tuo zi	1
+而一旦	er yi dan	24650
+而七首不动	er qi shou bu dong	1
+而万物与我为一	er wan wu yu wo wei yi	14
+而上	er shang	9999
+而上去	er shang qu	100
+而上来	er shang lai	100
+而下	er xia	86135
+而下去	er xia qu	100
+而下来	er xia lai	100
+而下降	er xia jiang	4065
+而不	er bu	500350
+而不仅仅	er bu jin jin	8555
+而不会	er bu hui	33610
+而不伤	er bu shang	100
+而不伤身体	er bu shang shen ti	100
+而不像	er bu xiang	6440
+而不只	er bu zhi	2345
+而不可	er bu ke	100
+而不失	er bu shi	2
+而不失豪芒	er bu shi hao mang	1
+而不应	er bu ying	11745
+而不应该	er bu ying gai	6220
+而不影响	er bu ying xiang	4425
+而不必	er bu bi	24990
+而不愿	er bu yuan	100
+而不敢怀庆赏爵禄	er bu gan huai qing shang jue lu	1
+而不是	er bu shi	500339
+而不是我	er bu shi wo	2505
+而不是给文明以岁月	er bu shi gei wen ming yi sui yue	100
+而不是给生命以时光	er bu shi gei sheng ming yi shi guang	100
+而不用	er bu yong	100
+而不知其所以然	er bu zhi qi suo yi ran	7
+而不管	er bu guan	152
+而不能	er bu neng	106445
+而不能至者	er bu neng zhi zhe	1
+而不自知也	er bu zi zhi ye	1
+而不自适其适者也	er bu zi shi qi shi zhe ye	1
+而不要	er bu yao	100
+而不见其形	er bu jian qi xing	1
+而不见舆薪	er bu jian yu xin	4
+而不需	er bu xu	14835
+而不需要	er bu xu yao	11430
+而与	er yu	55460
+而与之	er yu zhi	6435
+而与此	er yu ci	11040
+而与此同时	er yu ci tong shi	100
+而且	er qie	502223
+而且不	er qie bu	100
+而且不是	er qie bu shi	267
+而且不能	er qie bu neng	100
+而且也	er qie ye	100
+而且也可	er qie ye ke	100
+而且也可以	er qie ye ke yi	100
+而且也没	er qie ye mei	100
+而且也没有	er qie ye mei you	100
+而且也没有想	er qie ye mei you xiang	100
+而且也没有想过	er qie ye mei you xiang guo	100
+而且会	er qie hui	32355
+而且又	er qie you	100
+而且在	er qie zai	150380
+而且家	er qie jia	565
+而且是	er qie shi	160460
+而且更加	er qie geng jia	4420
+而且最终会	er qie zui zhong hui	100
+而且有	er qie you	67620
+而且界	er qie jie	35
+而且能	er qie neng	30805
+而且要	er qie yao	100
+而且还	er qie hai	100
+而且还不	er qie hai bu	100
+而且还不是	er qie hai bu shi	100
+而且还会	er qie hai hui	20185
+而且还是	er qie hai shi	31275
+而且还要	er qie hai yao	31245
+而且这个	er qie zhe ge	105
+而且都	er qie dou	14485
+而世之奇伟	er shi zhi qi wei	1
+而中道崩殂	er zhong dao beng cu	6
+而为	er wei	81980
+而为之	er wei zhi	100
+而为了	er wei le	14300
+而为人所知	er wei ren suo zhi	100
+而乐	er le	6330
+而乐亦无穷也	er le yi wu qiong ye	2
+而乱臣贼子惧	er luan chen zei zi ju	5
+而事业	er shi ye	84
+而事实上	er shi shi shang	100
+而于	er yu	9330
+而亡	er wang	19390
+而亦何常师之有	er yi he chang shi zhi you	1
+而产生	er chan sheng	132525
+而人之所罕至焉	er ren zhi suo han zhi yan	8
+而人居其一焉	er ren ju qi yi yan	2
+而人死亦次之	er ren si yi ci zhi	1
+而仅仅	er jin jin	11415
+而今	er jin	91815
+而今天	er jin tian	100
+而今安在哉	er jin an zai zai	14
+而今我谓昆仑	er jin wo wei kun lun	9
+而今才道当时错	er jin cai dao dang shi cuo	1
+而今物是人非	er jin wu shi ren fei	2
+而今而后	er jin er hou	570
+而今识尽愁滋味	er jin shi jin chou zi wei	6
+而今迈步从头越	er jin mai bu cong tou yue	677
+而从	er cong	77550
+而他	er ta	182475
+而他却	er ta que	7450
+而代价是低头	er dai jia shi di tou	100
+而令	er ling	3333
+而以	er yi	64525
+而众星共之	er zhong xing gong zhi	37
+而会	er hui	10565
+而伟大	er wei da	100
+而伯乐不常有	er bo le bu chang you	67
+而伴随	er ban sui	845
+而位居我上	er wei ju wo shang	2
+而你	er ni	104035
+而你却	er ni que	9565
+而你将加冕为王	er ni jiang jia mian wei wang	100
+而使	er shi	127690
+而使其自己也	er shi qi zi ji ye	1
+而做	er zuo	83280
+而做出	er zuo chu	1111
+而做又是另外一回事	er zuo you shi ling wai yi hui shi	100
+而像是	er xiang shi	985
+而光	er guang	4885
+而克制	er ke zhi	100
+而入	er ru	29735
+而六马仰秣	er liu ma yang mo	1
+而其	er qi	135180
+而其他	er qi ta	65
+而其见愈奇	er qi jian yu qi	2
+而再	er zai	7995
+而写	er xie	15435
+而况	er kuang	999
+而况乎无不用者乎	er kuang hu wu bu yong zhe hu	1
+而况于明哲乎	er kuang yu ming zhe hu	3
+而况全德之人乎	er kuang quan de zhi ren hu	1
+而况利害之端乎	er kuang li hai zhi duan hu	1
+而减少	er jian shao	12940
+而出	er chu	127045
+而出名	er chu ming	5045
+而出现	er chu xian	42100
+而分别	er fen bie	100
+而创	er chuang	3
+而创造	er chuang zao	1111
+而别	er bie	9865
+而到	er dao	36685
+而努力	er nu li	76940
+而卧	er wo	4520
+而去	er qu	202465
+而去年	er qu nian	10870
+而又	er you	353210
+而又何羡乎	er you he xian hu	1
+而反目	er fan mu	100
+而发	er fa	93950
+而发狂	er fa kuang	355
+而受	er shou	57425
+而变	er bian	55820
+而变化	er bian hua	31520
+而另一	er ling yi	32590
+而另一个	er ling yi ge	11575
+而另一种	er ling yi zhong	3910
+而另有	er ling you	100
+而只	er zhi	89665
+而可大受也	er ke da shou ye	1
+而可小知也	er ke xiao zhi ye	1
+而合	er he	7390
+而同期	er tong qi	8555
+而后	er hou	171340
+而后人侮之	er hou ren wu zhi	100
+而后人哀之	er hou ren ai zhi	34
+而后人毁之	er hou ren hui zhi	4
+而后人重之	er hou ren zhong zhi	100
+而后又	er hou you	5180
+而后可以有为	er hou ke yi you wei	7
+而后知天下之巨丽	er hou zhi tian xia zhi ju li	1
+而后者	er hou zhe	27350
+而向	er xiang	20075
+而君为贵戚	er jun wei gui qi	1
+而君幸于赵王	er jun xing yu zhao wang	1
+而君畏匿之	er jun wei ni zhi	1
+而吾与子之所共适	er wu yu zi zhi suo gong shi	15
+而告终	er gao zhong	100
+而哭	er ku	5770
+而哭泣	er ku qi	3750
+而唯一	er wei yi	100
+而唯一的	er wei yi de	100
+而唯蜩翼之知	er wei tiao yi zhi zhi	1
+而回	er hui	3245
+而国内	er guo nei	100
+而在	er zai	500313
+而在于	er zai yu	39155
+而在此	er zai ci	10435
+而在萧墙之内也	er zai xiao qiang zhi nei ye	15
+而在这	er zai zhe	13570
+而坐	er zuo	21885
+而复	er fu	16745
+而外	er wai	28325
+而多方于聪明之用也	er duo fang yu cong ming zhi yong ye	1
+而天下大治	er tian xia da zhi	2
+而天下始分矣	er tian xia shi fen yi	1
+而天下始疑矣	er tian xia shi yi yi	1
+而天下归之	er tian xia gui zhi	5
+而天下治矣	er tian xia zhi yi	1
+而太山为小	er tai shan wei xiao	1
+而失业	er shi ye	116
+而奋斗	er fen dou	45680
+而她	er ta	78075
+而她却	er ta que	4190
+而如今	er ru jin	19410
+而嫉妒	er ji du	51
+而子桑户死	er zi sang hu si	1
+而它	er ta	42645
+而定	er ding	1462
+而实际上	er shi ji shang	100
+而对	er dui	159225
+而对于	er dui yu	118450
+而将	er jiang	55700
+而就	er jiu	17415
+而就在	er jiu zai	12865
+而尽	er jin	6325
+而居	er ju	626
+而已	er yi	500312
+而已反其真	er yi fan qi zhen	1
+而已啦	er yi la	185
+而已嘛	er yi ma	2000
+而并非	er bing fei	13560
+而应	er ying	68170
+而废	er fei	2500
+而延	er yan	3630
+而异	er yi	27565
+而引起	er yin qi	91080
+而归	er gui	29670
+而归有德之人	er gui you de zhi ren	100
+而当	er dang	99620
+而形成	er xing cheng	3093
+而彼且奚适也	er bi qie xi shi ye	1
+而得	er de	3333
+而得名	er de ming	47205
+而得意	er de yi	1555
+而御六气之辩	er yu liu qi zhi bian	100
+而必	er bi	7795
+而忌妒	er ji du	410
+而忘	er wang	11635
+而忧	er you	3820
+而忽略	er hu lve	26575
+而忽视	er hu shi	34615
+而恰恰	er qia qia	7385
+而患不均	er huan bu jun	100
+而感到	er gan dao	100
+而憔悴	er qiao cui	835
+而成	er cheng	497365
+而成的	er cheng de	100
+而我	er wo	281800
+而我们	er wo men	102810
+而我却	er wo que	20055
+而我却只能	er wo que zhi neng	100
+而我只能	er wo zhi neng	100
+而我犹为人猗	er wo you wei ren yi	1
+而我独迷见	er wo du mi jian	1
+而我独顽且鄙	er wo du wan qie bi	1
+而我还在	er wo hai zai	100
+而或	er huo	1560
+而或长烟一空	er huo chang yan yi kong	2
+而战	er zhan	23255
+而战斗	er zhan dou	3290
+而所谓	er suo wei	11355
+而把	er ba	54020
+而据	er ju	1245
+而提供	er ti gong	10290
+而收	er shou	5150
+而改变	er gai bian	100
+而斗争	er dou zheng	7575
+而新	er xin	31480
+而无	er wu	134445
+而无车马喧	er wu che ma xuan	48
+而无需	er wu xu	16535
+而时常	er shi chang	100
+而明显	er ming xian	100
+而是	er shi	500769
+而是一个	er shi yi ge	843
+而是一种	er shi yi zhong	32860
+而是为了	er shi wei le	21935
+而是也	er shi ye	222
+而是他	er shi ta	10265
+而是因为	er shi yin wei	37740
+而是在	er shi zai	100
+而是她	er shi ta	3645
+而是开端	er shi kai duan	100
+而是彻彻底底	er shi che che di di	100
+而是怕	er shi pa	100
+而是把	er shi ba	15920
+而是指	er shi zhi	9999
+而是有	er shi you	11590
+而是由	er shi you	18725
+而是要	er shi yao	49990
+而是说	er shi shuo	10330
+而是顺其自然	er shi shun qi zi ran	100
+而显得	er xian de	100
+而智勇多困于所溺	er zhi yong duo kun yu suo ni	20
+而更	er geng	62450
+而最让	er zui rang	2430
+而有	er you	188395
+而有力	er you li	8575
+而有斯疾也	er you si ji ye	1
+而未	er wei	73365
+而未尝往也	er wei chang wang ye	1
+而束君归赵矣	er shu jun gui zhao yi	1
+而来	er lai	329240
+而来的	er lai de	100
+而果其贤乎	er guo qi xian hu	1
+而歌	er ge	11111
+而止	er zhi	17340
+而此刻	er ci ke	6125
+而此时	er ci shi	41140
+而此次	er ci ci	13225
+而死	er si	71875
+而死于安乐也	er si yu an le ye	9
+而死亡	er si wang	17120
+而民不被其泽	er min bu bei qi ze	2
+而没	er mei	9999
+而没有	er mei you	100
+而沿	er yan	805
+而泣	er qi	4065
+而活	er huo	11
+而海畔有逐臭之夫	er hai pan you zhu chou zhi fu	1
+而渐渐地	er jian jian de	100
+而游乎四海之外	er you hu si hai zhi wai	1
+而演	er yan	3305
+而激动	er ji dong	3400
+而现在	er xian zai	108315
+而生	er sheng	90080
+而生产	er sheng chan	9140
+而生存	er sheng cun	5055
+而生气	er sheng qi	2435
+而用	er yong	45520
+而用之	er yong zhi	100
+而由	er you	47005
+而由人乎哉	er you ren hu zai	4
+而痛苦	er tong ku	7565
+而目前	er mu qian	100
+而目前看来	er mu qian kan lai	100
+而相如廷叱之	er xiang ru ting chi zhi	1
+而睡	er shui	4280
+而知	er zhi	18250
+而知也无涯	er zhi ye wu ya	28
+而神明自得	er shen ming zi de	3
+而神秘	er shen mi	100
+而祸不息	er huo bu xi	100
+而离散不相见	er li san bu xiang jian	3
+而立	er li	39930
+而立之年	er li zhi nian	7280
+而立法	er li fa	735
+而笑	er xiao	11255
+而等你	er deng ni	9999
+而等到	er deng dao	100
+而终	er zhong	13730
+而绝秦赵之欢	er jue qin zhao zhi huan	1
+而编之以发	er bian zhi yi fa	1
+而羞愧	er xiu kui	100
+而耻恶衣恶食者	er chi e yi e shi zhe	7
+而胜于蓝	er sheng yu lan	100
+而能	er neng	31040
+而能与世推移	er neng yu shi tui yi	9
+而自己手上	er zi ji shou shang	100
+而自豪	er zi hao	12515
+而至	er zhi	56430
+而至于	er zhi yu	100
+而至于率兽食人	er zhi yu shuai shou shi ren	100
+而致	er zhi	25885
+而苦恼	er ku nao	12155
+而莫之夭阏者	er mo zhi yao e zhe	100
+而莫知无用之用也	er mo zhi wu yong zhi yong ye	3
+而获	er huo	5555
+而获利	er huo li	1395
+而落	er luo	111
+而著名	er zhu ming	5865
+而著称	er zhu cheng	22270
+而蒙世俗之尘埃乎	er meng shi su zhi chen ai hu	4
+而蔺相如徒以口舌为劳	er lin xiang ru tu yi kou she wei lao	1
+而蟾蜍衔之	er chan chu xian zhi	1
+而行	er xing	72215
+而行之	er xing zhi	4555
+而行事	er xing shi	100
+而被	er bei	151490
+而要	er yao	78870
+而要靠	er yao kao	995
+而解	er jie	4845
+而言	er yan	500460
+而计算机	er ji suan ji	2410
+而让	er rang	44455
+而论	er lun	25825
+而设	er she	36880
+而说	er shuo	17175
+而谁	er shei	3020
+而谁	er shui	3020
+而谈	er tan	3925
+而费德勒	er fei de le	65
+而走	er zou	24415
+而起	er qi	69840
+而起来	er qi lai	135
+而跟	er gen	4345
+而转移	er zhuan yi	2880
+而轰动	er hong dong	665
+而迁徙之徒也	er qian xi zhi tu ye	2
+而过	er guo	87655
+而近	er jin	18010
+而返	er fan	485
+而这	er zhe	270265
+而这一切	er zhe yi qie	16575
+而这一次	er zhe yi ci	5335
+而这些	er zhe xie	117370
+而这对	er zhe dui	100
+而这时	er zhe shi	100
+而这样	er zhe yang	100
+而这次	er zhe ci	18575
+而这种力量	er zhe zhong li liang	100
+而这里	er zhe li	100
+而进	er jin	63215
+而退	er tui	13680
+而逃	er tao	16585
+而逃走	er tao zou	270
+而选	er xuan	2222
+而通之于台桑	er tong zhi yu tai sang	1
+而遭	er zao	20390
+而那个	er na ge	100
+而那些	er na xie	5278
+而闻名	er wen ming	34625
+而降	er jiang	8330
+而降低	er jiang di	12745
+而随着	er sui zhe	29350
+而集于栗林	er ji yu li lin	1
+而霖雨十日	er lin yu shi ri	1
+而非	er fei	194550
+而非道德之正也	er fei dao de zhi zheng ye	1
+而飞	er fei	7305
+而饮	er yin	5555
+而马之死者已过半矣	er ma zhi si zhe yi guo ban yi	1
+而高兴	er gao xing	986
+耳上	er shang	11
+耳下	er xia	11
+耳下腺	er xia xian	100
+耳下腺炎	er xia xian yan	100
+耳不听恶声	er bu ting e sheng	1
+耳不忍闻	er bu ren wen	20
+耳不旁听	er bu pang ting	100
+耳不离腮	er bu li sai	1
+耳中	er zhong	20575
+耳中明月珠	er zhong ming yue zhu	100
+耳中的	er zhong de	630
+耳习目染	er xi mu ran	1
+耳侧	er ce	3620
+耳光	er guang	29715
+耳再造术	er zai zao shu	8
+耳刀旁	er dao pang	1111
+耳刮子	er gua zi	1510
+耳剽	er piao	5
+耳力	er li	1125
+耳勺	er shao	9999
+耳号	er hao	88
+耳后	er hou	10315
+耳后生风	er hou sheng feng	5
+耳后疽	er hou ju	1
+耳后风生	er hou feng sheng	4
+耳听	er ting	9115
+耳听为虚	er ting wei xu	1375
+耳听八方	er ting ba fang	2735
+耳听心受	er ting xin shou	1
+耳听是虚	er ting shi xu	55
+耳和髎	er he liao	2
+耳咽管	er yan guan	880
+耳坠	er zhui	6675
+耳坠子	er zhui zi	250
+耳垂	er chui	12210
+耳垂缺损	er chui que sun	1
+耳垢	er gou	1530
+耳塞	er sai	31915
+耳塞式	er sai shi	1560
+耳塞着	er sai zhe	100
+耳夜鹰科	er ye ying ke	1
+耳大神经	er da shen jing	2
+耳套	er tao	965
+耳子	er zi	9
+耳孔	er kong	2275
+耳尖	er jian	2415
+耳屎	er shi	41330
+耳屏	er ping	52
+耳巴子	er ba zi	7
+耳带状疱疹	er dai zhuang pao zhen	1
+耳廓	er kuo	7085
+耳廓假性囊肿	er kuo jia xing nang zhong	5
+耳廓再造术	er kuo zai zao shu	3
+耳廓狐	er kuo hu	100
+耳廓缺损	er kuo que sun	3
+耳廓软骨膜炎	er kuo ruan gu mo yan	7
+耳得之而为声	er de zhi er wei sheng	22
+耳念珠菌	er nian zhu jun	141
+耳性	er xing	190
+耳房	er fang	2330
+耳报神	er bao shen	9999
+耳挂	er gua	2945
+耳挖	er wa	115
+耳挖勺	er wa shao	85
+耳挖勺儿	er wa shao er	9999
+耳挖子	er wa zi	45
+耳挖棉签	er wa mian qian	100
+耳捂子	er wu zi	129
+耳提面命	er ti mian ming	2225
+耳提面训	er ti mian xun	100
+耳提面诲	er ti mian hui	1
+耳旁	er pang	9990
+耳旁风	er pang feng	1145
+耳朵	er duo	223880
+耳朵内	er duo nei	540
+耳朵垂	er duo chui	100
+耳朵弹头螺	er duo dan tou luo	1
+耳朵痛	er duo tong	175
+耳朵眼	er duo yan	4011
+耳朵眼儿	er duo yan er	80
+耳朵眼炸糕	er duo yan zha gao	915
+耳朵眼胡同	er duo yan hu tong	4
+耳朵起茧	er duo qi jian	36
+耳朵软	er duo ruan	115
+耳朵里	er duo li	21040
+耳朵里响	er duo li xiang	100
+耳朵长	er duo chang	100
+耳机	er ji	264325
+耳机厂	er ji chang	50
+耳机展	er ji zhan	65
+耳机座	er ji zuo	66
+耳机戴上	er ji dai shang	100
+耳机板	er ji ban	65
+耳机模式	er ji mo shi	100
+耳机没声音	er ji mei sheng yin	100
+耳机线	er ji xian	100
+耳机降噪	er ji jiang zao	100
+耳材村海口鱼	er cai cun hai kou yu	1
+耳染目濡	er ran mu ru	100
+耳根	er gen	15765
+耳根子	er gen zi	100
+耳根清净	er gen qing jing	475
+耳沉	er chen	10
+耳洞	er dong	5275
+耳流脓	er liu nong	15
+耳消耳息	er xiao er xi	100
+耳源性	er yuan xing	100
+耳源性脑脓肿	er yuan xing nao nong zhong	1
+耳满鼻满	er man bi man	100
+耳濡目击	er ru mu ji	1
+耳濡目及	er ru mu ji	1
+耳濡目染	er ru mu ran	10265
+耳炎	er yan	560
+耳烛	er zhu	1020
+耳热	er re	705
+耳热心跳	er re xin tiao	455
+耳热眼花	er re yan hua	100
+耳热眼跳	er re yan tiao	3
+耳热酒酣	er re jiu han	100
+耳熏目染	er xun mu ran	100
+耳熟	er shou	66666
+耳熟	er shu	9645
+耳状幼虫海参纲	er zhuang you chong hai shen gang	1
+耳环	er huan	48675
+耳环孔	er huan kong	100
+耳生	er sheng	395
+耳用探针	er yong tan zhen	1
+耳用膝状镊	er yong xi zhuang nie	1
+耳畔	er pan	16100
+耳畔传来	er pan chuan lai	100
+耳疗	er liao	9999
+耳疾	er ji	640
+耳病	er bing	2295
+耳痛	er tong	2060
+耳目	er mu	19455
+耳目一新	er mu yi xin	40245
+耳目一新的感觉	er mu yi xin de gan jue	100
+耳目之娱	er mu zhi yu	38
+耳目之欲	er mu zhi yu	100
+耳目众多	er mu zhong duo	465
+耳目喉舌	er mu hou she	345
+耳目失聪	er mu shi cong	65
+耳目导心	er mu dao xin	1
+耳目心腹	er mu xin fu	2
+耳目昭彰	er mu zhao zhang	100
+耳目濡染	er mu ru ran	1
+耳目聪明	er mu cong ming	100
+耳目股肱	er mu gu gong	100
+耳目闭塞	er mu bi se	7
+耳目非是	er mu fei shi	1
+耳石	er shi	1000
+耳硬化症	er ying hua zheng	12
+耳福	er fu	725
+耳科	er ke	1235
+耳科医生	er ke yi sheng	100
+耳科学	er ke xue	280
+耳穴	er xue	3695
+耳穴探测治疗机	er xue tan ce zhi liao ji	1
+耳红面赤	er hong mian chi	100
+耳结核	er jie he	1
+耳罩	er zhao	2085
+耳聋	er long	22675
+耳聋了	er long le	100
+耳聋左慈丸	er long zuo ci wan	4
+耳聋病	er long bing	4
+耳聋的	er long de	2740
+耳聋眼瞎	er long yan xia	177
+耳聋眼花	er long yan hua	275
+耳聋眼黑	er long yan hei	1
+耳聋胶囊	er long jiao nang	1
+耳聋通窍丸	er long tong qiao wan	11
+耳聪	er cong	555
+耳聪目明	er cong mu ming	2260
+耳背	er bei	2715
+耳膜	er mo	11145
+耳膜穿孔	er mo chuan kong	170
+耳药水	er yao shui	3
+耳著明月珰	er zhuo ming yue dang	100
+耳蜗	er wo	3525
+耳蜗钉	er wo ding	100
+耳视目听	er shi mu ting	100
+耳视目食	er shi mu shi	1
+耳语	er yu	14060
+耳语海岸	er yu hai an	9
+耳语的人	er yu de ren	35
+耳语般	er yu ban	420
+耳语花园	er yu hua yuan	1
+耳语道	er yu dao	100
+耳轮	er lun	2565
+耳软	er ruan	415
+耳软心活	er ruan xin huo	9999
+耳轴	er zhou	295
+耳边	er bian	116940
+耳边之风	er bian zhi feng	1
+耳边传来	er bian chuan lai	100
+耳边低语	er bian di yu	100
+耳边风	er bian feng	2330
+耳返	er fan	1111
+耳道	er dao	11800
+耳部	er bu	5885
+耳部带状疱疹	er bu dai zhuang pao zhen	1
+耳郭	er guo	111
+耳里	er li	6805
+耳里如闻饥冻声	er li ru wen ji dong sheng	31
+耳针	er zhen	9
+耳针疗法	er zhen liao fa	28
+耳钉	er ding	7970
+耳镜	er jing	440
+耳门	er men	16
+耳闻	er wen	17705
+耳闻不如目睹	er wen bu ru mu du	165
+耳闻不如目见	er wen bu ru mu jian	1
+耳闻不如眼见	er wen bu ru yan jian	100
+耳闻不如面见	er wen bu ru mian jian	1
+耳闻为虚	er wen wei xu	100
+耳闻则诵	er wen ze song	1
+耳闻是虚	er wen shi xu	113
+耳闻目击	er wen mu ji	100
+耳闻目染	er wen mu ran	425
+耳闻目睹	er wen mu du	4275
+耳闻目见	er wen mu jian	100
+耳闻目览	er wen mu lan	1
+耳闻眼睹	er wen yan du	1
+耳闻眼见	er wen yan jian	4
+耳际	er ji	8330
+耳音	er yin	9999
+耳顺	er shun	1880
+耳顺之年	er shun zhi nian	153
+耳颞神经	er nie shen jing	1
+耳风	er feng	9999
+耳食	er shi	235
+耳食不化	er shi bu hua	1
+耳食之徒	er shi zhi tu	100
+耳食之见	er shi zhi jian	100
+耳食之言	er shi zhi yan	100
+耳食之论	er shi zhi lun	100
+耳食之谈	er shi zhi tan	100
+耳食目论	er shi mu lun	100
+耳食者流	er shi zhe liu	1
+耳饰	er shi	8655
+耳鬓	er bin	625
+耳鬓厮磨	er bin si mo	2145
+耳鬓相磨	er bin xiang mo	1
+耳鸣	er ming	28175
+耳鸣现象	er ming xian xiang	100
+耳鸣目眩	er ming mu xuan	15
+耳鸣耳聋	er ming er long	218
+耳麦	er mai	21435
+耳鼓	er gu	2725
+耳鼻	er bi	8888
+耳鼻咽喉	er bi yan hou	825
+耳鼻咽喉头颈外科	er bi yan hou tou jing wai ke	393
+耳鼻咽喉头颈外科学	er bi yan hou tou jing wai ke xue	9
+耳鼻喉	er bi hou	5940
+耳鼻喉医生	er bi hou yi sheng	85
+耳鼻喉科	er bi hou ke	11585
+耳鼻科	er bi ke	100
+贰臣	er chen	405
+贰臣贼子	er chen zei zi	100
+迩安远怀	er an yuan huai	1
+迩安远至	er an yuan zhi	1
+迩来	er lai	1305
+迩来三月食无盐	er lai san yue shi wu yan	1
+迩臣	er chen	30
+迩言	er yan	380
+铒元素	er yuan su	100
+饵丝	er si	1165
+饵以重利	er yi zhong li	1
+饵名钓禄	er ming diao lu	1
+饵块	er kuai	2589
+饵子	er zi	1
+饵敌	er di	55
+饵料	er liao	7460
+饵料比重	er liao bi zhong	100
+饵线	er xian	170
+饵雷	er lei	20
+饵食	er shi	295
+鲕状岩	er zhuang yan	100
+鲕状构造	er zhuang gou zao	100
+鲕状灰岩	er zhuang hui yan	100
+鲕状燧石	er zhuang sui shi	100
+鲕状石	er zhuang shi	100
+鲕石	er shi	5
+鲕粒	er li	5
+鲕粒灰岩	er li hui yan	100
+鸸鹋	er miao	970

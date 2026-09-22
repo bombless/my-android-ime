@@ -2,12 +2,17 @@ package com.example.myandroidime
 
 import android.content.Context
 import android.inputmethodservice.InputMethodService
+import android.util.Log
 import android.view.View
+import com.example.ime.core.PinyinImeEngine
+import com.example.ime.core.RimeDictionary
+import java.io.File
 import androidx.lifecycle.Lifecycle
 import androidx.lifecycle.LifecycleRegistry
 import androidx.lifecycle.setViewTreeLifecycleOwner
 import androidx.compose.ui.platform.ComposeView
 import androidx.compose.ui.platform.ViewCompositionStrategy
+import androidx.compose.runtime.mutableStateOf
 import android.widget.FrameLayout
 import androidx.savedstate.SavedStateRegistry
 import androidx.savedstate.SavedStateRegistryController
@@ -21,6 +26,12 @@ import androidx.savedstate.setViewTreeSavedStateRegistryOwner
  * framework crashes while attaching the view and immediately hides the IME.
  */
 class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
+    private companion object { const val TAG = "MyAndroidIME" }
+
+    private lateinit var imeEngine: PinyinImeEngine
+    // Compose must observe composing changes; a plain StringBuilder does not
+    // trigger recomposition, which previously left the candidate strip empty.
+    private val composing = mutableStateOf("")
     private lateinit var lifecycleRegistry: LifecycleRegistry
     private lateinit var savedStateRegistryController: SavedStateRegistryController
 
@@ -31,15 +42,34 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         get() = savedStateRegistryController.savedStateRegistry
 
     override fun onCreate() {
+        Log.d(TAG, "onCreate START")
         super.onCreate()
+        try { imeEngine = PinyinImeEngine(loadDictionary()) }
+        catch (e: Exception) { Log.e(TAG, "dictionary loading FAILED", e); throw e }
         lifecycleRegistry = LifecycleRegistry(this)
         savedStateRegistryController = SavedStateRegistryController.create(this)
         savedStateRegistryController.performAttach()
         savedStateRegistryController.performRestore(null)
         lifecycleRegistry.handleLifecycleEvent(Lifecycle.Event.ON_CREATE)
+        Log.d(TAG, "onCreate END")
     }
 
+    override fun onStartInput(attribute: android.view.inputmethod.EditorInfo?, restarting: Boolean) {
+        Log.d(TAG, "onStartInput restarting=$restarting")
+        super.onStartInput(attribute, restarting)
+        composing.value = ""
+    }
+
+    override fun onStartInputView(info: android.view.inputmethod.EditorInfo?, restarting: Boolean) {
+        Log.d(TAG, "onStartInputView restarting=$restarting")
+        super.onStartInputView(info, restarting)
+    }
+
+    override fun onFinishInput() { composing.value = ""; Log.d(TAG, "onFinishInput"); super.onFinishInput() }
+    override fun onFinishInputView(finishingInput: Boolean) { Log.d(TAG, "onFinishInputView finishingInput=$finishingInput"); super.onFinishInputView(finishingInput) }
+
     override fun onCreateInputView(): View {
+        Log.d(TAG, "onCreateInputView START")
         lifecycleRegistry.handleLifecycleEvent(Lifecycle.Event.ON_START)
         return ImeRootView(this, this).apply {
             addView(ComposeView(context).apply {
@@ -48,8 +78,12 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                     FrameLayout.LayoutParams.WRAP_CONTENT,
                 )
                 setViewCompositionStrategy(ViewCompositionStrategy.DisposeOnDetachedFromWindow)
-                setContent { KeyboardScreen(::handleKey) }
+                setContent {
+                    val candidateTexts = imeEngine.candidates(composing.value).map { it.text }
+                    KeyboardScreen(composing.value, candidateTexts, ::handleKey, ::commitCandidate)
+                }
             })
+            Log.d(TAG, "onCreateInputView END")
         }
     }
 
@@ -82,12 +116,54 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     }
 
     private fun handleKey(key: String) {
-        val c = currentInputConnection ?: return
+        Log.d(TAG, "handleKey key=$key composingBefore=$composing")
+        val c = currentInputConnection
+        if (c == null) { Log.w(TAG, "handleKey no currentInputConnection key=$key"); return }
         when (key) {
-            "⌫" -> c.deleteSurroundingText(1, 0)
-            "↵" -> c.commitText("\n", 1)
-            "空格" -> c.commitText(" ", 1)
-            else -> c.commitText(key, 1)
+            "⌫" -> if (composing.value.isNotEmpty()) { composing.value = composing.value.dropLast(1); Log.d(TAG, "composingAfter=${composing.value}"); Log.d(TAG, "setComposingText text=${composing.value}"); c.setComposingText(composing.value, 1) } else { Log.d(TAG, "deleteSurroundingText"); c.deleteSurroundingText(1, 0) }
+            "↵" -> if (composing.value.isNotEmpty()) { val result = logCandidates(composing.value); val candidate = result.firstOrNull(); if (candidate != null) { Log.d(TAG, "enter commit candidate=${candidate.text}"); commitCandidate(candidate.text) } else { Log.d(TAG, "enter commit raw composing=${composing.value}"); Log.d(TAG, "commitText text=${composing.value}"); c.commitText(composing.value, 1); composing.value = ""; Log.d(TAG, "composingAfter=${composing.value}") } } else { Log.d(TAG, "enter commit newline"); Log.d(TAG, "commitText text=\\n"); c.commitText("\n", 1) }
+            "空格" -> { Log.d(TAG, "commitText text= "); c.commitText(" ", 1) }
+            else -> { composing.value += key.lowercase(); Log.d(TAG, "composingAfter=${composing.value}"); Log.d(TAG, "setComposingText text=${composing.value}"); c.setComposingText(composing.value, 1); logCandidates(composing.value) }
         }
+    }
+
+    private fun commitCandidate(text: String) {
+        Log.d(TAG, "commitCandidate text=$text composingBefore=${composing.value}")
+        val c = currentInputConnection
+        if (c == null) { Log.w(TAG, "commitCandidate no currentInputConnection text=$text"); return }
+        Log.d(TAG, "commitText text=$text")
+        c.commitText(text, 1)
+        composing.value = ""
+        Log.d(TAG, "commitCandidate SUCCESS text=$text")
+        Log.d(TAG, "composingAfter=${composing.value}")
+    }
+
+    private fun logCandidates(pinyin: String): List<com.example.ime.core.Candidate> {
+        Log.d(TAG, "candidate query pinyin=$pinyin")
+        val result = imeEngine.candidates(pinyin)
+        Log.d(TAG, "candidate result count=${result.size}")
+        Log.d(TAG, "candidate result top=${result.take(10).map { it.text }}")
+        return result
+    }
+
+    private fun loadDictionary(): RimeDictionary {
+        Log.d(TAG, "dictionary loading START mode=lazy-shards")
+        val source = object : RimeDictionary.ShardSource {
+            override fun list(initial: Char): List<String> {
+                val dir = "dict-shards/$initial"
+                val files = assets.list(dir)?.filter { it.endsWith(".dict.yaml") }?.sorted().orEmpty()
+                Log.d(TAG, "dictionary shard list initial=" + initial + " count=" + files.size)
+                return files.map { "$dir/$it" }
+            }
+
+            override fun open(path: String): java.io.InputStream {
+                Log.d(TAG, "dictionary shard parse START file=" + path)
+                return assets.open(path)
+            }
+        }
+        val dictionary = RimeDictionary.fromShards(source)
+        Log.d(TAG, "dictionary loaded successfully: mode=lazy-shards")
+        Log.d(TAG, "dictionary loading END")
+        return dictionary
     }
 }

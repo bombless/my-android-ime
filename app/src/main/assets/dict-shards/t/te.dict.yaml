@@ -1,0 +1,1749 @@
+---
+name: merged.te
+version: "1.0"
+sort: by_weight
+...
+䲢头鲉	teng tou you	1
+忑忑忐忐	te te tan tan	2
+忒不好走	tei bu hao zou	3333
+忒丑	tei chou	3333
+忒丑了	tei chou le	3333
+忒丑了吧	tei chou le ba	3333
+忒伊亚	te yi ya	100
+忒便宜	tei pian yi	5555
+忒便宜了	tei pian yi le	5555
+忒修斯	te xiu si	1000
+忒修斯之船	te xiu si zhi chuan	1000
+忒儿	tei er	5555
+忒冷	tei leng	3333
+忒冷了	tei leng le	3333
+忒冷了吧	tei leng le ba	3333
+忒冷啊	tei leng a	3333
+忒厚	tei hou	3333
+忒厚了	tei hou le	3333
+忒厚了吧	tei hou le ba	3333
+忒坏	tei huai	3333
+忒坏了	tei huai le	3333
+忒坏了吧	tei huai le ba	3333
+忒多	tei duo	3333
+忒多了	tei duo le	3333
+忒多了吧	tei duo le ba	3333
+忒大	tei da	3333
+忒大了	tei da le	3333
+忒大了吧	tei da le ba	3333
+忒好	tei hao	3333
+忒好了	tei hao le	3333
+忒好了吧	tei hao le ba	3333
+忒宽	tei kuan	3333
+忒宽了	tei kuan le	3333
+忒宽了吧	tei kuan le ba	3333
+忒小	tei xiao	3333
+忒小了	tei xiao le	3333
+忒小了吧	tei xiao le ba	3333
+忒少	tei shao	3333
+忒少了	tei shao le	3333
+忒少了吧	tei shao le ba	3333
+忒弥斯	te mi si	1000
+忒弱	tei ruo	3333
+忒弱了	tei ruo le	3333
+忒弱了吧	tei ruo le ba	3333
+忒强	tei qiang	3333
+忒强了	tei qiang le	3333
+忒强了吧	tei qiang le ba	3333
+忒快	tei kuai	5555
+忒慢	tei man	5555
+忒懒	tei lan	3333
+忒懒了	tei lan le	3333
+忒懒了吧	tei lan le ba	3333
+忒新	tei xin	3333
+忒新了	tei xin le	3333
+忒新了吧	tei xin le ba	3333
+忒旧	tei jiu	3333
+忒旧了	tei jiu le	3333
+忒旧了吧	tei jiu le ba	3333
+忒浅	tei qian	3333
+忒浅了	tei qian le	3333
+忒浅了吧	tei qian le ba	3333
+忒深	tei shen	3333
+忒深了	tei shen le	3333
+忒深了吧	tei shen le ba	3333
+忒滑	tei hua	111
+忒热	tei re	3333
+忒热了	tei re le	3333
+忒热了吧	tei re le ba	3333
+忒甜	tei tian	3333
+忒甜了	tei tian le	3333
+忒甜了吧	tei tian le ba	3333
+忒白	tei bai	3333
+忒白了	tei bai le	3333
+忒白了吧	tei bai le ba	3333
+忒短	tei duan	3333
+忒短了	tei duan le	3333
+忒短了吧	tei duan le ba	3333
+忒矮	tei ai	3333
+忒矮了	tei ai le	3333
+忒矮了吧	tei ai le ba	3333
+忒硬	tei ying	3333
+忒硬了	tei ying le	3333
+忒硬了吧	tei ying le ba	3333
+忒窄	tei zhai	3333
+忒窄了	tei zhai le	3333
+忒窄了吧	tei zhai le ba	3333
+忒红	tei hong	3333
+忒红了	tei hong le	3333
+忒红了吧	tei hong le ba	3333
+忒绿	tei lv	3333
+忒绿了	tei lv le	3333
+忒绿了吧	tei lv le ba	3333
+忒美	tei mei	3333
+忒美了	tei mei le	3333
+忒美了吧	tei mei le ba	3333
+忒脏	tei zang	3333
+忒脏了	tei zang le	3333
+忒脏了吧	tei zang le ba	3333
+忒苦	tei ku	3333
+忒苦了	tei ku le	3333
+忒苦了吧	tei ku le ba	3333
+忒蓝	tei lan	3333
+忒蓝了	tei lan le	3333
+忒蓝了吧	tei lan le ba	3333
+忒薄	tei bo	3333
+忒薄了	tei bo le	3333
+忒薄了吧	tei bo le ba	3333
+忒贱	tei jian	3333
+忒贱了	tei jian le	3333
+忒贱了吧	tei jian le ba	3333
+忒贵	tei gui	5555
+忒贵了	tei gui le	3333
+忒贵了吧	tei gui le ba	3333
+忒软	tei ruan	3333
+忒软了	tei ruan le	3333
+忒软了吧	tei ruan le ba	3333
+忒轻	tei qing	3333
+忒轻了	tei qing le	3333
+忒轻了吧	tei qing le ba	3333
+忒近	tei jin	3333
+忒近了	tei jin le	3333
+忒近了吧	tei jin le ba	3333
+忒远	tei yuan	3333
+忒远了	tei yuan le	3333
+忒远了吧	tei yuan le ba	3333
+忒重	tei zhong	3333
+忒重了	tei zhong le	3333
+忒重了吧	tei zhong le ba	3333
+忒长	tei chang	3333
+忒长了	tei chang le	3333
+忒长了吧	tei chang le ba	3333
+忒高	tei gao	3333
+忒高了	tei gao le	3333
+忒高了吧	tei gao le ba	3333
+忒黄	tei huang	3333
+忒黄了	tei huang le	3333
+忒黄了吧	tei huang le ba	3333
+忒黑	tei hei	3333
+忒黑了	tei hei le	3333
+忒黑了吧	tei hei le ba	3333
+滕久寿	teng jiu shou	10
+滕亚杰	teng ya jie	75
+滕代远	teng dai yuan	140
+滕卫平	teng wei ping	7
+滕县	teng xian	4
+滕哈格	teng ha ge	160
+滕哈赫	teng ha he	163
+滕姓	teng xing	55
+滕子京谪守巴陵郡	teng zi jing zhe shou ba ling jun	8
+滕家镇	teng jia zhen	100
+滕州	teng zhou	11775
+滕州一中	teng zhou yi zhong	199
+滕州市	teng zhou shi	6445
+滕庄子	teng zhuang zi	139
+滕弘	teng hong	1
+滕文公	teng wen gong	61
+滕斯贝格	teng si bei ge	100
+滕王阁	teng wang ge	5195
+滕王阁序	teng wang ge xu	1640
+滕王高阁临江渚	teng wang gao ge lin jiang zhu	2
+滕瑞雨	teng rui yu	100
+滕矢初	teng shi chu	30
+滕胤	teng yin	5
+滕芳兰	teng fang lan	100
+滕薛争长	teng xue zheng zhang	1
+熥一下	teng yi xia	123
+熥一熥	teng yi teng	123
+熥了熥	teng le teng	123
+熥包子	teng bao zi	123
+熥馒头	teng man tou	123
+特一	te yi	4870
+特一粉	te yi fen	2065
+特一级	te yi ji	100
+特一营	te yi ying	130
+特一路	te yi lu	70
+特丁基对苯二酚	te ding ji dui ben er fen	104
+特不	te bu	9999
+特不一样	te bu yi yang	100
+特不靠谱	te bu kao pu	100
+特与	te yu	4455
+特丑	te chou	123
+特严重	te yan zhong	100
+特丧	te sang	4
+特丰鸟	te feng niao	5
+特为	te wei	11630
+特丽洁	te li jie	161
+特丽珑	te li long	213
+特丽纶	te li lun	245
+特么	te me	99999
+特么的	te me de	9999
+特乐	te le	1111
+特书大书	te shu da shu	2
+特事特办	te shi te ban	7390
+特事特办嘛	te shi te ban ma	100
+特于	te yu	1775
+特产	te chan	104940
+特产地	te chan di	100
+特产城	te chan cheng	128
+特产店	te chan dian	100
+特产税	te chan shui	2165
+特亮	te liang	350
+特仑苏	te lun su	100
+特仑苏牛奶	te lun su niu nai	100
+特令	te ling	770
+特以	te yi	3960
+特价	te jia	317430
+特价出售	te jia chu shou	6910
+特价品	te jia pin	3765
+特价商品	te jia shang pin	17315
+特价房	te jia fang	2275
+特价提供	te jia ti gong	400
+特价机票	te jia ji piao	136075
+特价申请	te jia shen qing	1
+特价票	te jia piao	3815
+特价网	te jia wang	241
+特价菜	te jia cai	2615
+特价鞋	te jia xie	65
+特任	te ren	435
+特任官	te ren guan	100
+特伏丹	te fu dan	2
+特优	te you	8855
+特优奖	te you jiang	100
+特优生	te you sheng	100
+特伟	te wei	34
+特伦	te lun	3215
+特伦斯	te lun si	1005
+特伦特	te lun te	760
+特伦特姆芋螺	te lun te mu yu luo	1
+特低	te di	2550
+特体	te ti	730
+特作	te zuo	8305
+特佳	te jia	6590
+特使	te shi	14445
+特使团	te shi tuan	100
+特例	te li	24905
+特例入境	te li ru jing	68
+特例独行	te li du xing	100
+特供	te gong	9345
+特便宜	te pian yi	100
+特保案	te bao an	539
+特值钱	te zhi qian	100
+特傻	te sha	330
+特傻逼	te sha bi	100
+特像	te xiang	815
+特克斯	te ke si	2530
+特克斯县	te ke si xian	840
+特克斯和凯科斯	te ke si he kai ke si	2
+特克斯和凯科斯群岛	te ke si he kai ke si qun dao	81
+特克斯河	te ke si he	100
+特克斯镇	te ke si zhen	21
+特免	te mian	620
+特兰克斯	te lan ke si	100
+特兰斯瓦尼亚酒馆	te lan si wa ni ya jiu guan	1
+特典	te dian	111
+特典活动	te dian huo dong	100
+特兹乡	te zi xiang	1
+特内里弗	te nei li fu	1
+特内里费	te nei li fei	100
+特写	te xie	36360
+特写镜头	te xie jing tou	3870
+特冷	te leng	510
+特准	te zhun	3315
+特出	te chu	4010
+特刊	te kan	16055
+特利加压素	te li jia ya su	4
+特利迦	te li jia	165
+特别	te bie	501036
+特别不容易	te bie bu rong yi	100
+特别不智能	te bie bu zhi neng	100
+特别专	te bie zhuan	100
+特别严重	te bie yan zhong	18725
+特别严重情节	te bie yan zhong qing jie	100
+特别主演	te bie zhu yan	100
+特别乐观	te bie le guan	100
+特别了不起	te bie liao bu qi	100
+特别了解	te bie liao jie	1145
+特别任务连	te bie ren wu lian	100
+特别会员	te bie hui yuan	1055
+特别会聊天	te bie hui liao tian	100
+特别会议	te bie hui yi	4310
+特别低	te bie di	1545
+特别低调	te bie di diao	100
+特别作战小组	te bie zuo zhan xiao zu	100
+特别便宜	te bie pian yi	100
+特别值得	te bie zhi de	100
+特别值得一提	te bie zhi de yi ti	100
+特别值得买	te bie zhi de mai	100
+特别值得关注	te bie zhi de guan zhu	100
+特别值钱	te bie zhi qian	100
+特别傻逼	te bie sha bi	100
+特别像	te bie xiang	5555
+特别公积	te bie gong ji	100
+特别公积金	te bie gong ji jin	100
+特别关注	te bie guan zhu	24440
+特别关系	te bie guan xi	100
+特别军事行动	te bie jun shi xing dong	100
+特别冷	te bie leng	1995
+特别凉快	te bie liang kuai	100
+特别出演	te bie chu yan	183
+特别刑法	te bie xing fa	100
+特别划算	te bie hua suan	120
+特别刺激啊	te bie ci ji a	100
+特别功勋	te bie gong xun	100
+特别功勋奖	te bie gong xun jiang	100
+特别助理	te bie zhu li	100
+特别卖力	te bie mai li	100
+特别卡	te bie ka	100
+特别卷	te bie juan	100
+特别厉害	te bie li hai	100
+特别发行	te bie fa xing	100
+特别号	te bie hao	1
+特别吃亏	te bie chi kui	100
+特别合作	te bie he zuo	100
+特别吝啬	te bie lin se	100
+特别呼吁	te bie hu yu	100
+特别咸	te bie xian	3333
+特别响	te bie xiang	2222
+特别喜欢	te bie xi huan	32525
+特别喜欢干	te bie xi huan gan	100
+特别喜爱	te bie xi ai	3010
+特别回放	te bie hui fang	1
+特别困难	te bie kun nan	150
+特别圆	te bie yuan	100
+特别在	te bie zai	3
+特别在行	te bie zai hang	100
+特别地	te bie de	100
+特别地优雅	te bie de you ya	100
+特别地低	te bie de di	100
+特别地像	te bie de xiang	100
+特别地关心	te bie de guan xin	100
+特别地冷	te bie de leng	100
+特别地努力	te bie de nu li	100
+特别地吸引人	te bie de xi yin ren	100
+特别地唯美	te bie de wei mei	100
+特别地喜欢	te bie de xi huan	100
+特别地大气	te bie de da qi	100
+特别地好	te bie de hao	100
+特别地好吃	te bie de hao chi	100
+特别地好看	te bie de hao kan	100
+特别地容易	te bie de rong yi	100
+特别地小	te bie de xiao	100
+特别地帅	te bie de shuai	100
+特别地帅气	te bie de shuai qi	100
+特别地干净	te bie de gan jing	100
+特别地开心	te bie de kai xin	100
+特别地强	te bie de qiang	100
+特别地性感	te bie de xing gan	100
+特别地想	te bie de xiang	100
+特别地想念	te bie de xiang nian	100
+特别地搞笑	te bie de gao xiao	100
+特别地方便	te bie de fang bian	100
+特别地活泼	te bie de huo po	100
+特别地清新	te bie de qing xin	100
+特别地清爽	te bie de qing shuang	100
+特别地清纯	te bie de qing chun	100
+特别地温暖	te bie de wen nuan	100
+特别地温柔	te bie de wen rou	100
+特别地温馨	te bie de wen xin	100
+特别地漂亮	te bie de piao liang	100
+特别地火	te bie di huo	100
+特别地热	te bie di re	100
+特别地热闹	te bie de re nao	100
+特别地爽	te bie de shuang	100
+特别地甜	te bie de tian	100
+特别地甜美	te bie de tian mei	100
+特别地甜蜜	te bie de tian mi	100
+特别地真实	te bie de zhen shi	100
+特别地简单	te bie de jian dan	100
+特别地精致	te bie de jing zhi	100
+特别地美	te bie de mei	100
+特别地美丽	te bie de mei li	100
+特别地美味	te bie de mei wei	100
+特别地聪明	te bie de cong ming	100
+特别地舒服	te bie de shu fu	100
+特别地舒适	te bie de shu shi	100
+特别地迷人	te bie de mi ren	100
+特别地适合	te bie de shi he	100
+特别地重	te bie de zhong	100
+特别地难	te bie de nan	100
+特别地霸气	te bie de ba qi	100
+特别地香	te bie de xiang	100
+特别地麻烦	te bie de ma fan	100
+特别多	te bie duo	30290
+特别多人	te bie duo ren	100
+特别大	te bie da	100
+特别大的	te bie da de	100
+特别奇葩	te bie qi pa	100
+特别奖	te bie jiang	16415
+特别好	te bie hao	9999
+特别委托	te bie wei tuo	1170
+特别季	te bie ji	118
+特别学	te bie xue	5
+特别安排	te bie an pai	4380
+特别客串	te bie ke chuan	180
+特别害怕	te bie hai pa	100
+特别对不起	te bie dui bu qi	100
+特别差劲	te bie cha jin	100
+特别希望	te bie xi wang	3885
+特别带劲	te bie dai jin	100
+特别座	te bie zuo	100
+特别强劲	te bie qiang jing	100
+特别强调	te bie qiang diao	45960
+特别当心	te bie dang xin	270
+特别待遇	te bie dai yu	100
+特别忐忑	te bie tan te	100
+特别快乐	te bie kuai le	100
+特别快车	te bie kuai che	630
+特别恶劣	te bie e lie	100
+特别恶心	te bie e xin	100
+特别想	te bie xiang	9999
+特别想感谢	te bie xiang gan xie	100
+特别愉悦	te bie yu yue	100
+特别感人	te bie gan ren	100
+特别感动	te bie gan dong	100
+特别感觉	te bie gan jue	100
+特别感谢	te bie gan xie	11885
+特别扣除额	te bie kou chu e	100
+特别折扣	te bie zhe kou	495
+特别护士	te bie hu shi	100
+特别护理	te bie hu li	100
+特别报道	te bie bao dao	7360
+特别指明	te bie zhi ming	1460
+特别挤	te bie ji	106
+特别授权	te bie shou quan	14920
+特别授权立法	te bie shou quan li fa	12
+特别接地气	te bie jie di qi	100
+特别推荐	te bie tui jian	49535
+特别措施	te bie cuo shi	3
+特别提款权	te bie ti kuan quan	2395
+特别提示	te bie ti shi	62945
+特别提醒	te bie ti xing	125
+特别提防	te bie di fang	100
+特别擅长	te bie shan chang	100
+特别敏感	te bie min gan	100
+特别敏锐	te bie min rui	525
+特别无语	te bie wu yu	100
+特别明显	te bie ming xian	128
+特别是	te bie shi	500735
+特别是在	te bie shi zai	103610
+特别是外地	te bie shi wai di	100
+特别智能	te bie zhi neng	100
+特别智障	te bie zhi zhang	100
+特别有	te bie you	20635
+特别有感觉	te bie you gan jue	100
+特别有感触	te bie you gan chu	100
+特别有益	te bie you yi	100
+特别有食欲	te bie you shi yu	100
+特别服务	te bie fu wu	4100
+特别期待	te bie qi dai	100
+特别权	te bie quan	1523
+特别权力关系	te bie quan li guan xi	428
+特别权威	te bie quan wei	100
+特别条款	te bie tiao kuan	4255
+特别来宾	te bie lai bin	1340
+特别松弛	te bie song chi	100
+特别检察厅副厅长	te bie jian cha ting fu ting zhang	21
+特别棒	te bie bang	100
+特别正	te bie zheng	100
+特别没意思	te bie mei yi si	100
+特别法	te bie fa	15222
+特别法庭	te bie fa ting	2355
+特别法庭副庭长	te bie fa ting fu ting zhang	38
+特别法庭庭长	te bie fa ting ting zhang	134
+特别注意	te bie zhu yi	71495
+特别注重	te bie zhu zhong	100
+特别注重细节	te bie zhu zhong xi jie	100
+特别流行	te bie liu xing	100
+特别清楚	te bie qing chu	1985
+特别清楚啊	te bie qing chu a	100
+特别溜	te bie liu	100
+特别滑	te bie hua	100
+特别激烈	te bie ji lie	100
+特别烫	te bie tang	100
+特别热闹	te bie re nao	161
+特别爱	te bie ai	100
+特别爱看书	te bie ai kan shu	100
+特别版	te bie ban	84340
+特别特别	te bie te bie	100
+特别特别好	te bie te bie hao	100
+特别特别适合	te bie te bie shi he	100
+特别理解	te bie li jie	100
+特别留置权	te bie liu zhi quan	6
+特别的	te bie de	3333
+特别的一天	te bie de yi tian	100
+特别的一年	te bie de yi nian	100
+特别的他	te bie de ta	200
+特别的关系	te bie de guan xi	100
+特别的地方	te bie de di fang	100
+特别的她	te bie de ta	20
+特别的感觉	te bie de gan jue	100
+特别的日子	te bie de ri zi	184
+特别的晚餐	te bie de wan can	100
+特别省	te bie sheng	100
+特别看重	te bie kan zhong	100
+特别真	te bie zhen	100
+特别着急	te bie zhao ji	100
+特别确定	te bie que ding	100
+特别程序	te bie cheng xu	3755
+特别税	te bie shui	625
+特别简单	te bie jian dan	100
+特别篇	te bie pian	3515
+特别精神	te bie jing shen	107
+特别系列	te bie xi lie	100
+特别紧凑	te bie jin cou	100
+特别紧张	te bie jin zhang	194
+特别累犯	te bie lei fan	133
+特别组	te bie zu	100
+特别给力	te bie gei li	100
+特别聊得来	te bie liao de lai	100
+特别股	te bie gu	100
+特别胀	te bie zhang	100
+特别脆	te bie cui	103
+特别脏	te bie zang	161
+特别膈应	te bie ge ying	100
+特别致	te bie zhi	100
+特别舍不得	te bie she bu de	100
+特别节目	te bie jie mu	11360
+特别荣誉	te bie rong yu	100
+特别行动	te bie xing dong	114
+特别行动处	te bie xing dong chu	100
+特别行动小组	te bie xing dong xiao zu	100
+特别行动组	te bie xing dong zu	100
+特别行动队	te bie xing dong dui	100
+特别行政区	te bie xing zheng qu	23520
+特别行政区政府	te bie xing zheng qu zheng fu	100
+特别行政区法	te bie xing zheng qu fa	15
+特别要	te bie yao	58930
+特别要求	te bie yao qiu	10520
+特别规定	te bie gui ding	49171
+特别角	te bie jiao	1
+特别讲究	te bie jiang jiu	3090
+特别许可	te bie xu ke	100
+特别诉讼时效	te bie su song shi xiao	167
+特别诉讼程序	te bie su song cheng xu	31
+特别调查	te bie diao cha	945
+特别调查委员会	te bie diao cha wei yuan hui	100
+特别调查组	te bie diao cha zu	100
+特别调皮	te bie tiao pi	100
+特别费	te bie fei	100
+特别费案	te bie fei an	100
+特别赞助播出	te bie zan zhu bo chu	100
+特别跩	te bie zhuai	101
+特别追踪	te bie zhui zong	100
+特别适用	te bie shi yong	1975
+特别通行证	te bie tong xing zheng	1060
+特别邀请	te bie yao qing	183
+特别那啥	te bie na sha	100
+特别那啥了	te bie na sha le	100
+特别酷	te bie ku	3333
+特别重	te bie zhong	19955
+特别重大	te bie zhong da	100
+特别重大事故	te bie zhong da shi gu	100
+特别重大事故调查程序暂行规定	te bie zhong da shi gu diao cha cheng xu zan xing gui ding	166
+特别重大火灾	te bie zhong da huo zai	100
+特别重感情	te bie zhong gan qing	3333
+特别重要	te bie zhong yao	12560
+特别重视	te bie zhong shi	100
+特别长	te bie chang	3450
+特别门诊	te bie men zhen	100
+特别闲	te bie xian	5555
+特别闷	te bie men	100
+特别附加险	te bie fu jia xian	110
+特别隆重	te bie long zhong	100
+特别难得	te bie nan de	100
+特别饿	te bie e	100
+特别馋	te bie chan	100
+特别香	te bie xiang	11
+特别高	te bie gao	9370
+特别高兴	te bie gao xing	5855
+特别高兴吧	te bie gao xing ba	100
+特别高兴啊	te bie gao xing a	100
+特别高级啊	te bie gao ji a	100
+特别鸣谢	te bie ming xie	4645
+特别𪨊	te bie song	100
+特制	te zhi	111670
+特制住	te zhi zhu	100
+特制品	te zhi pin	100
+特制定	te zhi ding	100
+特制止	te zhi zhi	100
+特制订	te zhi ding	5805
+特力屋	te li wu	100
+特加饭	te jia fan	3550
+特务	te wu	37705
+特务机关	te wu ji guan	1890
+特务机构	te wu ji gou	705
+特务组织	te wu zu zhi	1200
+特务连	te wu lian	100
+特务间谍	te wu jian die	60
+特劳雷	te lao lei	130
+特势利	te shi li	100
+特勒	te le	2
+特勒骠	te le biao	4
+特勤	te qin	9265
+特勤精英	te qin jing ying	100
+特化	te hua	3730
+特化了	te hua le	100
+特化师	te hua shi	100
+特区	te qu	91388
+特区办公室	te qu ban gong shi	10
+特区建设	te qu jian she	1210
+特区报	te qu bao	2790
+特区报社	te qu bao she	294
+特区政府	te qu zheng fu	18415
+特区经济	te qu jing ji	2
+特区行政长官	te qu xing zheng zhang guan	100
+特卖	te mai	13335
+特卖会	te mai hui	1835
+特卖品	te mai pin	100
+特卖场	te mai chang	2115
+特卖模式	te mai mo shi	100
+特卖节	te mai jie	100
+特卫	te wei	860
+特卫强	te wei qiang	100
+特厚	te hou	1630
+特发性	te fa xing	5190
+特发性震颤	te fa xing zhen chan	31
+特变	te bian	1230
+特变电工	te bian dian gong	5055
+特口甲谷乡	te kou jia gu xiang	1
+特古西加尔巴	te gu xi jia er ba	85
+特号	te hao	1305
+特合土乡	te he tu xiang	2
+特向	te xiang	12070
+特吓人	te xia ren	131
+特吕弗	te lv fu	900
+特吕福	te lv fu	100
+特吵	te chao	77
+特告	te gao	460
+特告知	te gao zhi	105
+特命	te ming	2190
+特命全权大使	te ming quan quan da shi	1990
+特咸	te xian	3333
+特喵的	te miao de	100
+特困	te kun	52905
+特困乡	te kun xiang	100
+特困企业	te kun qi ye	1690
+特困县	te kun xian	100
+特困地区	te kun di qu	100
+特困学生	te kun xue sheng	3825
+特困户	te kun hu	16420
+特困生	te kun sheng	10970
+特困行业	te kun hang ye	35
+特在	te zai	5555
+特在此	te zai ci	5555
+特地	te di	84800
+特地到	te di dao	2025
+特地去	te di qu	2040
+特地回	te di hui	105
+特地安排	te di an pai	100
+特地惊狂眼	te di jing kuang yan	1
+特地来	te di lai	3020
+特地耐力板	te di nai li ban	100
+特地赶来	te di gan lai	100
+特垃圾	te la ji	100
+特型	te xing	3645
+特型演员	te xing yan yuan	100
+特城泥盲虫	te cheng ni mang chong	1
+特备	te bei	2065
+特多	te duo	8075
+特大	te da	89500
+特大事故	te da shi gu	12335
+特大交通事故	te da jiao tong shi gu	4100
+特大刑事案件	te da xing shi an jian	2399
+特大号	te da hao	2330
+特大号的	te da hao de	1515
+特大喜讯	te da xi xun	189
+特大地震	te da di zhen	100
+特大型	te da xing	22935
+特大城市	te da cheng shi	6180
+特大奖	te da jiang	100
+特大新闻	te da xin wen	980
+特大暴雨	te da bao yu	3255
+特大杯	te da bei	100
+特大案件	te da an jian	1105
+特大火灾	te da huo zai	3410
+特大赢	te da ying	100
+特大跨省	te da kua sheng	100
+特天奴	te tian nu	1
+特奖	te jiang	1220
+特奥会	te ao hui	3935
+特好	te hao	11140
+特委	te wei	6740
+特委会	te wei hui	100
+特子社复	te zi she fu	4
+特定	te ding	500305
+特定义务	te ding yi wu	591
+特定之债	te ding zhi zhai	54
+特定人物	te ding ren wu	660
+特定保险合同	te ding bao xian he tong	2
+特定关系	te ding guan xi	100
+特定关系人	te ding guan xi ren	100
+特定区域	te ding qu yu	4915
+特定含义	te ding han yi	100
+特定地区	te ding di qu	100
+特定地域	te ding di yu	100
+特定地点	te ding di dian	100
+特定场合	te ding chang he	1650
+特定多数	te ding duo shu	665
+特定常规武器公约	te ding chang gui wu qi gong yue	162
+特定性	te ding xing	2420
+特定方式	te ding fang shi	915
+特定时段交易操纵	te ding shi duan jiao yi cao zong	29
+特定机电产品进口管理实施细则	te ding ji dian chan pin jin kou guan li shi shi xi ze	3
+特定条件	te ding tiao jian	3980
+特定模式	te ding mo shi	100
+特定物	te ding wu	2801
+特定物之债	te ding wu zhi zhai	21
+特定电磁波治疗机	te ding dian ci bo zhi liao ji	1
+特定的	te ding de	100
+特定的地方	te ding de di fang	100
+特定的地点	te ding de di dian	100
+特定税收协定	te ding shui shou xie ding	5
+特定系统	te ding xi tong	100
+特定网页	te ding wang ye	100
+特定联系	te ding lian xi	100
+特定蛋白分析仪	te ding dan bai fen xi yi	8
+特定行业	te ding hang ye	100
+特定行政行为	te ding xing zheng xing wei	16
+特定角度	te ding jiao du	100
+特定角色	te ding jue se	100
+特定重疾	te ding zhong ji	100
+特定需求	te ding xu qiu	127
+特定频率	te ding pin lv	100
+特宽	te kuan	925
+特富龙	te fu long	2930
+特对	te dui	5460
+特将	te jiang	7905
+特小	te xiao	2495
+特少	te shao	1590
+特尔施特根	te er shi te gen	194
+特尔纹胸𬶐	te er wen xiong zhao	1
+特展	te zhan	1111
+特岛信天翁	te dao xin tian weng	1
+特岛毛鲶	te dao mao nian	1
+特岛浣熊	te dao huan xiong	1
+特岛蓝腰鹦哥	te dao lan yao ying ge	1
+特岛阔嘴鹟	te dao kuo zui weng	1
+特岛骨顶	te dao gu ding	1
+特岛鸲鹟	te dao qu weng	1
+特工	te gong	38210
+特工人员	te gong ren yuan	1795
+特工狂花	te gong kuang hua	100
+特工皇妃楚乔传	te gong huang fei chu qiao zhuan	100
+特工组	te gong zu	39
+特工绍特	te gong shao te	100
+特工队	te gong dui	4280
+特工魅影	te gong mei ying	142
+特差	te cha	1455
+特布他林	te bu ta lin	32
+特布洛乡	te bu luo xiang	5
+特帅	te shuai	350
+特应性	te ying xing	24
+特应性皮炎	te ying xing pi yan	51
+特开	te kai	5900
+特开心	te kai xin	100
+特异	te yi	30015
+特异功能	te yi gong neng	12230
+特异区	te yi qu	177
+特异大权蟹	te yi da quan xie	1
+特异度	te yi du	100
+特异性	te yi xing	33350
+特异性免疫	te yi xing mian yi	62
+特异性免疫应答	te yi xing mian yi ying da	173
+特异性寄生虫	te yi xing ji sheng chong	1
+特异性抗原	te yi xing kang yuan	14
+特异的空间	te yi de kong jian	100
+特异空间	te yi kong jian	100
+特异质	te yi zhi	225
+特异质反应	te yi zhi fan ying	1
+特异选择	te yi xuan ze	100
+特异阳台云	te yi yang tai yun	1
+特弗伦犬	te fu lun quan	21
+特强	te qiang	8755
+特征	te zheng	500446
+特征交互	te zheng jiao hu	10
+特征值	te zheng zhi	5320
+特征函数	te zheng han shu	338
+特征分	te zheng fen	192
+特征分析	te zheng fen xi	418
+特征匹配	te zheng pi pei	888
+特征参数	te zheng can shu	1420
+特征句式	te zheng ju shi	1
+特征向量	te zheng xiang liang	7327
+特征多项式	te zheng duo xiang shi	100
+特征工程	te zheng gong cheng	558
+特征性	te zheng xing	4830
+特征抽取	te zheng chou qu	781
+特征描述	te zheng miao shu	1575
+特征提取	te zheng ti qu	5482
+特征数	te zheng shu	185
+特征文件	te zheng wen jian	300
+特征方程	te zheng fang cheng	257
+特征是	te zheng shi	69
+特征检测	te zheng jian ce	974
+特征模型	te zheng mo xing	108
+特征比	te zheng bi	180
+特征点	te zheng dian	2983
+特征点检测	te zheng dian jian ce	561
+特征生成	te zheng sheng cheng	93
+特征码	te zheng ma	7185
+特征空间	te zheng kong jian	2464
+特征编码	te zheng bian ma	65
+特征联合	te zheng lian he	100
+特征识别	te zheng shi bie	314
+特征选择	te zheng xuan ze	2451
+特征项	te zheng xiang	283
+特德	te de	3050
+特德斯科	te de si ke	101
+特德格拉夫	te de ge la fu	187
+特忙	te mang	495
+特快	te kuai	46925
+特快专递	te kuai zhuan di	68285
+特快列车	te kuai lie che	5090
+特快号	te kuai hao	100
+特快的	te kuai de	475
+特快车	te kuai che	515
+特急	te ji	5250
+特急件	te ji jian	290
+特性	te xing	500342
+特性参数	te xing can shu	100
+特性可	te xing ke	242
+特性基团	te xing ji tuan	100
+特性曲线	te xing qu xian	3490
+特性阻抗	te xing zu kang	1965
+特恩	te en	2615
+特恩权	te en quan	39
+特恶心	te e xin	100
+特惠	te hui	47260
+特惠一口价	te hui yi kou jia	100
+特惠价	te hui jia	16315
+特惠关税	te hui guan shui	100
+特惠制度	te hui zhi du	100
+特惠国	te hui guo	100
+特惠版	te hui ban	490
+特惠装	te hui zhuang	680
+特惠金	te hui jin	100
+特意	te yi	129635
+特意不用	te yi bu yong	100
+特意前来	te yi qian lai	100
+特意前来讨要	te yi qian lai tao yao	100
+特意强调	te yi qiang diao	100
+特意让	te yi rang	100
+特慢	te man	690
+特战	te zhan	3333
+特战英豪	te zhan ying hao	100
+特战荣耀	te zhan rong yao	137
+特战行动	te zhan xing dong	117
+特战部队	te zhan bu dui	225
+特批	te pi	7245
+特技	te ji	31755
+特技团	te ji tuan	100
+特技师	te ji shi	615
+特技摄影	te ji she ying	310
+特技摩托	te ji mo tuo	100
+特技效果	te ji xiao guo	3385
+特技演员	te ji yan yuan	100
+特技监督	te ji jian du	100
+特技表演	te ji biao yan	3200
+特技跳伞	te ji tiao san	100
+特技镜头	te ji jing tou	725
+特技飞行	te ji fei xing	1510
+特技飞行表演	te ji fei xing biao yan	100
+特技飞行表演队	te ji fei xing biao yan dui	100
+特护	te hu	3450
+特护区	te hu qu	100
+特报	te bao	825
+特拉	te la	1
+特拉华	te la hua	1515
+特拉华州	te la hua zhou	1605
+特拉华河	te la hua he	100
+特拉唑嗪	te la zuo qin	11
+特拉奥雷	te la ao lei	109
+特拉布宗	te la bu zong	180
+特拉普	te la pu	100
+特拉梅尔	te la mei er	60
+特拉法加广场	te la fa jia guang chang	100
+特拉法尔加	te la fa er jia	100
+特拉法尔加·罗	te la fa er jia luo	111
+特拉法尔加广场	te la fa er jia guang chang	100
+特拉福德	te la fu de	100
+特拉纳	te la na	62
+特拉维夫	te la wei fu	7915
+特拉维夫-雅法	te la wei fu ya fa	100
+特拉雷	te la lei	170
+特招	te zhao	6000
+特招线	te zhao xian	187
+特指	te zhi	17385
+特指仿长臂蟹	te zhi fang chang bi xie	1
+特控线	te kong xian	100
+特推出	te tui chu	10665
+特提斯海	te ti si hai	100
+特搜部	te sou bu	100
+特摄	te she	111
+特摄剧	te she ju	100
+特支费	te zhi fei	100
+特攻	te gong	111
+特攻队	te gong dui	2785
+特效	te xiao	173630
+特效不错	te xiao bu cuo	169
+特效君	te xiao jun	100
+特效妆	te xiao zhuang	132
+特效字	te xiao zi	530
+特效枪	te xiao qiang	138
+特效武器	te xiao wu qi	198
+特效相机	te xiao xiang ji	100
+特效药	te xiao yao	8525
+特效铃声	te xiao ling sheng	2560
+特敏福	te min fu	100
+特教	te jiao	9615
+特教学校	te jiao xue xiao	976
+特教组	te jiao zu	20
+特斯	te si	18630
+特斯拉	te si la	1205
+特斯拉刹车事件	te si la sha che shi jian	100
+特斯拉降价	te si la jiang jia	100
+特斯河	te si he	160
+特斯科科	te si ke ke	100
+特斯科科湖	te si ke ke hu	100
+特无聊	te wu liao	100
+特早	te zao	8000
+特旱	te han	9
+特明体	te ming ti	100
+特明显	te ming xian	100
+特易购	te yi gou	100
+特普	te pu	2550
+特暴龙未定种	te bao long wei ding zhong	1
+特有	te you	234265
+特有属性	te you shu xing	555
+特有感觉	te you gan jue	100
+特有的	te you de	100
+特有种	te you zhong	1430
+特服号	te fu hao	10325
+特朗德尔	te lang de er	100
+特朗普	te lang pu	100
+特朗普弹劾案	te lang pu tan he an	100
+特朗普支持率	te lang pu zhi chi lv	100
+特朗普签署行政令	te lang pu qian shu xing zheng ling	100
+特朗普诉美国玛泽会计师事务所案	te lang pu su mei guo ma ze kuai ji shi shi wu suo an	1
+特朗普长子	te lang pu zhang zi	100
+特期待	te qi dai	100
+特木尔	te mu er	163
+特权	te quan	135674
+特权分子	te quan fen zi	100
+特权命令	te quan ming ling	43
+特权商店	te quan shang dian	135
+特权地位	te quan di wei	100
+特权思想	te quan si xiang	1750
+特权指令	te quan zhi ling	627
+特权级	te quan ji	1194
+特权者	te quan zhe	168
+特权车	te quan che	1515
+特权阶层	te quan jie ceng	2280
+特权阶级	te quan jie ji	900
+特来	te lai	12735
+特来提亲	te lai ti qin	100
+特来求见	te lai qiu jian	100
+特来祝贺	te lai zhu he	100
+特松加	te song jia	100
+特林加岱拉	te lin jia dai la	1
+特林布	te lin bu	100
+特林康	te lin kang	100
+特查拉	te cha la	158
+特案	te an	710
+特案减免	te an jian mian	56
+特案处理	te an chu li	100
+特案组	te an zu	104
+特棒	te bang	1935
+特欠	te qian	3489
+特此	te ci	51470
+特此函复	te ci han fu	170
+特此声明	te ci sheng ming	17880
+特此汇报	te ci hui bao	69
+特此证明	te ci zheng ming	1220
+特此说明	te ci shuo ming	3200
+特此请假	te ci qing jia	406
+特此通知	te ci tong zhi	20940
+特步	te bu	1
+特步音乐不断	te bu yin yue bu duan	1
+特殊	te shu	500649
+特殊主体	te shu zhu ti	1930
+特殊争夺	te shu zheng duo	8
+特殊交易	te shu jiao yi	128
+特殊人才	te shu ren cai	141
+特殊人群	te shu ren qun	6240
+特殊件	te shu jian	48
+特殊价格	te shu jia ge	370
+特殊任务	te shu ren wu	3525
+特殊作用	te shu zuo yong	5865
+特殊使命	te shu shi ming	1715
+特殊侵权	te shu qin quan	93
+特殊关系	te shu guan xi	6445
+特殊函数	te shu han shu	100
+特殊分子	te shu fen zi	100
+特殊利益	te shu li yi	6930
+特殊利益集团	te shu li yi ji tuan	4300
+特殊制度	te shu zhi du	100
+特殊功能	te shu gong neng	21085
+特殊化	te shu hua	4300
+特殊品种	te shu pin zhong	970
+特殊回文数	te shu hui wen shu	41
+特殊地位	te shu di wei	100
+特殊地区	te shu di qu	100
+特殊地图	te shu di tu	100
+特殊地形	te shu di xing	100
+特殊地方	te shu di fang	100
+特殊地段	te shu di duan	100
+特殊地点	te shu di dian	100
+特殊地理位置	te shu di li wei zhi	100
+特殊地理环境	te shu di li huan jing	100
+特殊地貌	te shu di mao	100
+特殊地质	te shu di zhi	100
+特殊场	te shu chang	100
+特殊天气	te shu tian qi	122
+特殊字符	te shu zi fu	21712
+特殊学校	te shu xue xiao	2975
+特殊工种	te shu gong zhong	5830
+特殊帆涂料	te shu fan tu liao	5
+特殊形式	te shu xing shi	2420
+特殊待遇	te shu dai yu	4490
+特殊性	te shu xing	84830
+特殊性向	te shu xing xiang	100
+特殊性能	te shu xing neng	100
+特殊恢复	te shu hui fu	17
+特殊情况	te shu qing kuang	109105
+特殊意义	te shu yi yi	182
+特殊感觉	te shu gan jue	100
+特殊战备	te shu zhan bei	100
+特殊战备状态	te shu zhan bei zhuang tai	100
+特殊才能	te shu cai neng	100
+特殊护理	te shu hu li	100
+特殊政策	te shu zheng ce	5370
+特殊效果	te shu xiao guo	12675
+特殊教育	te shu jiao yu	38080
+特殊教育学校	te shu jiao yu xue xiao	100
+特殊数据	te shu shu ju	1217
+特殊日子	te shu ri zi	120
+特殊时期	te shu shi qi	100
+特殊时间	te shu shi jian	194
+特殊服务	te shu fu wu	7755
+特殊条款	te shu tiao kuan	1300
+特殊来历	te shu lai li	100
+特殊染料	te shu ran liao	13
+特殊标志权	te shu biao zhi quan	42
+特殊标志管理条例	te shu biao zhi guan li tiao li	147
+特殊检查	te shu jian cha	329
+特殊模式	te shu mo shi	100
+特殊气味	te shu qi wei	1830
+特殊津贴	te shu jin tie	18590
+特殊照顾	te shu zhao gu	3870
+特殊环境	te shu huan jing	6025
+特殊生理	te shu sheng li	128
+特殊用地	te shu yong di	100
+特殊用途	te shu yong tu	11340
+特殊癖好	te shu pi hao	154
+特殊的	te shu de	100
+特殊的一位	te shu de yi wei	100
+特殊的一天	te shu de yi tian	100
+特殊的一年	te shu de yi nian	100
+特殊的人	te shu de ren	3500
+特殊的关系	te shu de guan xi	100
+特殊的地位	te shu de di wei	100
+特殊的地形	te shu de di xing	100
+特殊的地方	te shu de di fang	100
+特殊的地点	te shu de di dian	100
+特殊的地理	te shu de di li	100
+特殊的地理位置	te shu de di li wei zhi	100
+特殊的地理环境	te shu de di li huan jing	100
+特殊的情况	te shu de qing kuang	100
+特殊的感觉	te shu de gan jue	100
+特殊的日子	te shu de ri zi	156
+特殊的日子里	te shu de ri zi li	100
+特殊的来历	te shu de lai li	100
+特殊的行业	te shu de hang ye	100
+特殊的角色	te shu de jue se	100
+特殊目的信托	te shu mu di xin tuo	75
+特殊目的公司	te shu mu di gong si	100
+特殊目的收购公司	te shu mu di shou gou gong si	100
+特殊目的载体	te shu mu di zai ti	100
+特殊符号	te shu fu hao	7170
+特殊算法	te shu suan fa	361
+特殊类型	te shu lei xing	194
+特殊系	te shu xi	14
+特殊系统	te shu xi tong	100
+特殊结局	te shu jie ju	100
+特殊群体	te shu qun ti	146
+特殊联系	te shu lian xi	100
+特殊能力	te shu neng li	139
+特殊节日	te shu jie ri	115
+特殊行业	te shu hang ye	100
+特殊行动	te shu xing dong	165
+特殊要求	te shu yao qiu	47700
+特殊角	te shu jiao	135
+特殊角度	te shu jiao du	100
+特殊角色	te shu jue se	100
+特殊访问权限	te shu fang wen quan xian	15
+特殊贡献奖	te shu gong xian jiang	100
+特殊身份	te shu shen fen	5645
+特殊车	te shu che	100
+特殊迁移	te shu qian yi	2
+特殊钢	te shu gang	6490
+特殊键	te shu jian	290
+特殊需求	te shu xu qiu	130
+特殊需要	te shu xu yao	19760
+特殊音	te shu yin	5
+特殊音效	te shu yin xiao	980
+特殊页面	te shu ye mian	100
+特殊风险保险	te shu feng xian bao xian	44
+特比萘芬	te bi nai fen	4
+特氟龙	te fu long	1870
+特没谱	te mei pu	188
+特波疣猪	te bo you zhu	4
+特洛	te luo	7440
+特洛伊	te luo yi	15785
+特洛伊木马	te luo yi mu ma	10290
+特洛耶	te luo ye	100
+特洛萨	te luo sa	45
+特派	te pai	10005
+特派员	te pai yuan	17010
+特派周报	te pai zhou bao	100
+特派记者	te pai ji zhe	6640
+特流行	te liu xing	100
+特浅	te qian	167
+特浓	te nong	1635
+特深	te shen	775
+特混舰队	te hun jian dui	1935
+特温特	te wen te	141
+特潮	te chao	7
+特激烈	te ji lie	100
+特火	te huo	395
+特灵	te ling	5670
+特灵中央空调	te ling zhong yang kong tiao	100
+特灵眼药	te ling yan yao	12
+特灵空调	te ling kong tiao	100
+特点	te dian	501007
+特点与	te dian yu	22335
+特点是	te dian shi	206130
+特点是什么	te dian shi shen me	100
+特烦恼	te fan nao	104
+特烫	te tang	3333
+特爱	te ai	3745
+特爱听	te ai ting	100
+特爽	te shuang	940
+特特么	te te me	100
+特狈路龙	te bei lu long	1
+特瑞	te rui	3565
+特瑞德	te rui de	510
+特瓦族	te wa zu	100
+特瓦林	te wa lin	186
+特用	te yong	2650
+特申请	te shen qing	12
+特百惠	te bai hui	2305
+特省	te sheng	540
+特短	te duan	123
+特码	te ma	15240
+特硬	te ying	945
+特福	te fu	2790
+特种	te zhong	163920
+特种作业	te zhong zuo ye	18060
+特种作业人员安全技术培训考核管理规定	te zhong zuo ye ren yuan an quan ji shu pei xun kao he guan li gui ding	17
+特种作战	te zhong zuo zhan	4510
+特种作战模式	te zhong zuo zhan mo shi	100
+特种兵	te zhong bing	12020
+特种兵在都市	te zhong bing zai du shi	100
+特种兵式旅游	te zhong bing shi lv you	100
+特种兵系列	te zhong bing xi lie	100
+特种养殖	te zhong yang zhi	3885
+特种养殖场	te zhong yang zhi chang	33
+特种动物毛	te zhong dong wu mao	13
+特种劳动防护用品	te zhong lao dong fang hu yong pin	516
+特种变压器	te zhong bian ya qi	1000
+特种合金	te zhong he jin	935
+特种工艺	te zhong gong yi	2055
+特种弹	te zhong dan	179
+特种意外伤害保险合同	te zhong yi wai shang hai bao xian he tong	4
+特种服务	te zhong fu wu	460
+特种橡胶	te zhong xiang jiao	1715
+特种空勤团	te zhong kong qin tuan	100
+特种纸	te zhong zhi	4070
+特种经济昆虫	te zhong jing ji kun chong	1
+特种考试	te zhong kao shi	100
+特种蔬菜	te zhong shu cai	9999
+特种行业	te zhong hang ye	8835
+特种行业许可证	te zhong hang ye xu ke zheng	100
+特种警察	te zhong jing cha	100
+特种警犬	te zhong jing quan	25
+特种设备	te zhong she bei	55750
+特种设备安全监察	te zhong she bei an quan jian cha	3208
+特种设备安全监察条例	te zhong she bei an quan jian cha tiao li	1080
+特种车	te zhong che	4585
+特种车辆	te zhong che liang	5695
+特种邮票	te zhong you piao	3000
+特种部队	te zhong bu dui	28410
+特种钢	te zhong gang	1385
+特科	te ke	5300
+特称	te cheng	1915
+特稿	te gao	8610
+特稿部	te gao bu	280
+特穆金	te mu jin	100
+特立中央胎座	te li zhong yang tai zuo	5
+特立尼达	te li ni da	2260
+特立尼达和多巴哥	te li ni da he duo ba ge	4490
+特立尼达和多巴哥共和国	te li ni da he duo ba ge gong he guo	9999
+特立独行	te li du xing	16400
+特立独行的人	te li du xing de ren	100
+特等	te deng	16190
+特等功	te deng gong	100
+特等奖	te deng jiang	28155
+特等病房	te deng bing fang	100
+特等舱	te deng cang	100
+特米米	te mi mi	189
+特粗	te cu	535
+特糟	te zao	4444
+特红	te hong	655
+特约	te yue	102960
+特约医生	te yue yi sheng	100
+特约医院	te yue yi yuan	230
+特约合作	te yue he zuo	100
+特约商店	te yue shang dian	325
+特约服务	te yue fu wu	3535
+特约条款	te yue tiao kuan	1295
+特约稿	te yue gao	490
+特约经销	te yue jing xiao	1605
+特约维修	te yue wei xiu	6070
+特约编辑	te yue bian ji	1890
+特约记者	te yue ji zhe	12600
+特约评论	te yue ping lun	1330
+特约评论员	te yue ping lun yuan	2715
+特约诊所	te yue zhen suo	100
+特级	te ji	51135
+特级上将	te ji shang jiang	100
+特级品	te ji pin	100
+特级大师	te ji da shi	2415
+特级山贼	te ji shan zei	5
+特级护理	te ji hu li	128
+特级教师	te ji jiao shi	31215
+特级板烧鸡腿堡	te ji ban shao ji tui bao	70
+特级校长	te ji xiao zhang	100
+特级橄榄油	te ji gan lan you	189
+特级浓滑奶茶	te ji nong hua nai cha	100
+特级的	te ji de	515
+特级红辣椒	te ji hong la jiao	24
+特级金标生抽	te ji jin biao sheng chou	55
+特级金标生抽王	te ji jin biao sheng chou wang	55
+特级飞行员	te ji fei xing yuan	100
+特纯	te chun	123
+特纳	te na	11235
+特纳兹铅笔鱼	te na zi qian bi yu	1
+特细	te xi	1090
+特维	te wei	4550
+特维斯	te wei si	100
+特罗凯	te luo kai	162
+特罗多斯	te luo duo si	100
+特美	te mei	1300
+特美思	te mei si	15
+特老	te lao	455
+特考	te kao	745
+特耐放	te nai fang	4
+特聘	te pin	36370
+特聘教授	te pin jiao shou	16650
+特肥	te fei	1030
+特能	te neng	1675
+特自私	te zi si	100
+特自豪	te zi hao	100
+特臭	te chou	234
+特舒服	te shu fu	100
+特色	te se	500647
+特色产业	te se chan ye	32960
+特色产业基地	te se chan ye ji di	100
+特色产品	te se chan pin	13235
+特色传统	te se chuan tong	100
+特色传统小吃	te se chuan tong xiao chi	100
+特色住宿	te se zhu su	100
+特色作业	te se zuo ye	161
+特色兴校	te se xing xiao	100
+特色内容	te se nei rong	100
+特色农业	te se nong ye	16140
+特色农家乐	te se nong jia le	100
+特色功能	te se gong neng	13795
+特色名校	te se ming xiao	100
+特色商品	te se shang pin	3930
+特色基地	te se ji di	100
+特色学校	te se xue xiao	100
+特色宣传	te se xuan chuan	100
+特色小吃	te se xiao chi	9200
+特色店	te se dian	2070
+特色性	te se xing	1345
+特色旅游	te se lv you	10560
+特色服务	te se fu wu	22610
+特色村落	te se cun luo	100
+特色校	te se xiao	100
+特色模式	te se mo shi	100
+特色民宿	te se min su	100
+特色炒饭	te se chao fan	107
+特色牌	te se pai	100
+特色的	te se de	100
+特色社会主义	te se she hui zhu yi	100
+特色系列	te se xi lie	100
+特色系统	te se xi tong	100
+特色经济	te se jing ji	12450
+特色美食	te se mei shi	4870
+特色菜	te se cai	18790
+特色菜系	te se cai xi	100
+特色行业	te se hang ye	100
+特色酒	te se jiu	100
+特色酒吧	te se jiu ba	100
+特色酒店	te se jiu dian	100
+特色重点学科	te se zhong dian xue ke	100
+特色重点学科项目	te se zhong dian xue ke xiang mu	100
+特色音乐	te se yin yue	100
+特色项目	te se xiang mu	5330
+特艺彩色	te yi cai se	100
+特药	te yao	2980
+特药险	te yao xian	139
+特莉丝	te li si	146
+特莉丝·梅莉葛德	te li si mei li ge de	111
+特莱维	te lai wei	535
+特菜	te cai	1330
+特萨努	te sa nu	1
+特蒙德	te meng de	100
+特蕾丝约海于格	te lei si yue hai yu ge	100
+特蕾娅	te lei ya	100
+特蕾泽	te lei ze	100
+特蕾莎	te lei sha	1025
+特蕾西亚	te lei xi ya	147
+特蕾西娅	te lei xi ya	130
+特薄	te bao	1398
+特藏	te cang	123
+特藏室	te cang shi	83
+特藏部	te cang bu	83
+特蠢	te chun	234
+特行	te hang	111
+特补乡	te bu xiang	1
+特见卓论	te jian zhuo lun	100
+特解	te jie	790
+特警	te jing	24420
+特警支队	te jing zhi dui	2737
+特警桥	te jing qiao	22
+特警队	te jing dui	2740
+特训	te xun	10385
+特训学校	te xun xue xiao	100
+特训班	te xun ban	4255
+特训营	te xun ying	3650
+特许	te xu	87775
+特许会计师	te xu kuai ji shi	100
+特许公认会计师	te xu gong ren kuai ji shi	1
+特许公认会计师公会	te xu gong ren kuai ji shi gong hui	1
+特许加盟	te xu jia meng	18580
+特许半导体	te xu ban dao ti	100
+特许协议	te xu xie yi	995
+特许商品	te xu shang pin	113
+特许商店	te xu shang dian	100
+特许学校	te xu xue xiao	100
+特许店	te xu dian	155
+特许权	te xu quan	19635
+特许权使用费所得	te xu quan shi yong fei suo de	2115
+特许权税	te xu quan shui	1
+特许权获得者	te xu quan huo de zhe	30
+特许状	te xu zhuang	670
+特许生产	te xu sheng chan	510
+特许经营	te xu jing ying	72165
+特许经营权	te xu jing ying quan	9945
+特许经营模式	te xu jing ying mo shi	100
+特许经营管理办法	te xu jing ying guan li ban fa	1023
+特许者	te xu zhe	4240
+特许证	te xu zheng	725
+特许连锁	te xu lian suo	6715
+特许银行	te xu yin hang	150
+特设	te she	2664
+特评	te ping	1060
+特诺	te nuo	2225
+特诺奇蒂特兰	te nuo qi di te lan	100
+特调	te tiao	5555
+特调处	te tiao chu	100
+特调鸡尾酒	te tiao ji wei jiu	100
+特质	te zhi	107015
+特贵	te gui	460
+特赐	te ci	1405
+特赦	te she	3785
+特赦令	te she ling	670
+特赦朴槿惠	te she piao jin hui	100
+特起	te qi	355
+特超音速	te chao yin su	5
+特跩	te zhuai	101
+特软	te ruan	1105
+特轻	te qing	320
+特载	te zai	275
+特辑	te ji	14590
+特辣	te la	9999
+特过瘾	te guo yin	100
+特近	te jin	350
+特迪	te di	800
+特选	te xuan	5385
+特造	te zao	210
+特遣	te qian	1675
+特遣舰队	te qian jian dui	100
+特遣部队	te qian bu dui	735
+特遣队	te qian dui	2050
+特邀	te yao	59470
+特邀主持	te yao zhu chi	165
+特邀代表	te yao dai biao	2570
+特邀嘉宾	te yao jia bin	9825
+特邀调解	te yao tiao jie	100
+特邀调解员	te yao tiao jie yuan	100
+特邀调解组织	te yao tiao jie zu zhi	100
+特邀顾问	te yao gu wen	1380
+特酷	te ku	830
+特里	te li	2
+特里劳妮	te li lao ni	123
+特里尔	te li er	1365
+特里斯坦	te li si tan	100
+特里斯坦-达库尼亚	te li si tan da ku ni ya	3333
+特里斯坦-达库尼亚群岛	te li si tan da ku ni ya qun dao	3333
+特里普	te li pu	4395
+特里皮尔	te li pi er	100
+特里谢	te li xie	2460
+特重	te zhong	2960
+特重度烧伤	te zhong du shao shang	100
+特钢	te gang	12245
+特钢社区	te gang she qu	8
+特长	te chang	209445
+特长优势	te chang you shi	100
+特长发展	te chang fa zhan	100
+特长发挥	te chang fa hui	100
+特长培养	te chang pei yang	100
+特长培训	te chang pei xun	100
+特长展示	te chang zhan shi	100
+特长招生	te chang zhao sheng	100
+特长指蛛	te chang zhi zhu	1
+特长爱好	te chang ai hao	100
+特长班	te chang ban	3520
+特长生	te chang sheng	25330
+特长生招生	te chang sheng zhao sheng	100
+特长隧道	te chang sui dao	100
+特闲	te xian	5555
+特防	te fang	111
+特险	te xian	111
+特难	te nan	780
+特集	te ji	1705
+特雷弗	te lei fu	168
+特雷瑟	te lei se	100
+特雷西	te lei xi	100
+特雷西斯	te lei xi si	195
+特需	te xu	9585
+特需品	te xu pin	35
+特非那丁片	te fei na ding pian	1
+特非那定	te fei na ding	9
+特非那定片	te fei na ding pian	1
+特靠谱	te kao pu	115
+特餐	te can	635
+特首	te shou	4965
+特香	te xiang	940
+特高	te gao	7395
+特高兴	te gao xing	1115
+特高压	te gao ya	14500
+特高级啊	te gao ji a	100
+特鲁克鹟	te lu ke weng	1
+特鲁埃尔	te lu ai er	100
+特鲁多	te lu duo	848
+特鲁姆普	te lu mu pu	104
+特鲁希略	te lu xi lve	34
+特鲁瓦	te lu wa	1820
+特鲁瓦条约	te lu wa tiao yue	16
+特鲁索	te lu suo	100
+特鲁索娃	te lu suo wa	100
+特鲜	te xian	2222
+特黑	te hei	2420
+疼不	teng bu	1320
+疼不疼	teng bu teng	1805
+疼了	teng le	17710
+疼人	teng ren	1410
+疼他	teng ta	2222
+疼你	teng ni	1111
+疼吗	teng ma	9999
+疼啊	teng a	2
+疼嘛	teng ma	111
+疼她	teng ta	1111
+疼它	teng ta	1
+疼完	teng wan	1111
+疼得	teng de	17340
+疼得不行	teng de bu xing	100
+疼得像	teng de xiang	85
+疼得厉害	teng de li hai	100
+疼得死去活来	teng de si qu huo lai	100
+疼得要命	teng de yao ming	100
+疼得要死	teng de yao si	100
+疼怜	teng lian	115
+疼惜	teng xi	8205
+疼我	teng wo	1111
+疼死	teng si	9999
+疼死了	teng si le	9999
+疼死你爹	teng si ni die	100
+疼死你爹了	teng si ni die le	100
+疼死啦	teng si la	9999
+疼死爹了	teng si die le	100
+疼爱	teng ai	39910
+疼爱你	teng ai ni	100
+疼疼	teng teng	975
+疼痛	teng tong	331315
+疼痛不堪	teng tong bu kan	445
+疼痛严重	teng tong yan zhong	100
+疼痛加重	teng tong jia zhong	100
+疼痛帝国	teng tong di guo	100
+疼痛感	teng tong gan	7955
+疼痛感觉	teng tong gan jue	100
+疼痛文学	teng tong wen xue	108
+疼痛的地方	teng tong de di fang	100
+疼痛的感觉	teng tong de gan jue	100
+疼痛的程度	teng tong de cheng du	100
+疼痛程度	teng tong cheng du	100
+疼痛门诊	teng tong men zhen	43
+疼痛难忍	teng tong nan ren	6680
+疼的	teng de	22375
+疼着呢	teng zhe ne	190
+縢屠郑酤	teng tu zheng gu	1
+腾不出	teng bu chu	735
+腾不出手	teng bu chu shou	610
+腾不出来	teng bu chu lai	125
+腾不出空	teng bu chu kong	90
+腾个	teng ge	1111
+腾个地	teng ge di	100
+腾个地儿	teng ge di er	100
+腾个地方	teng ge di fang	100
+腾中重工	teng zhong zhong gong	22
+腾了个地方	teng le ge di fang	100
+腾云	teng yun	4170
+腾云跨风	teng yun kua feng	100
+腾云驾雾	teng yun jia wu	5670
+腾位	teng wei	71
+腾克镇	teng ke zhen	1
+腾冲	teng chong	20245
+腾冲县	teng chong xian	3480
+腾冲大救驾	teng chong da jiu jia	26
+腾出	teng chu	29825
+腾出地方	teng chu di fang	570
+腾出手	teng chu shou	100
+腾出手来	teng chu shou lai	100
+腾出来	teng chu lai	1715
+腾升	teng sheng	9999
+腾哥	teng ge	2
+腾地	teng de	5520
+腾地儿	teng de er	100
+腾地方	teng di fang	100
+腾声飞实	teng sheng fei shi	1
+腾干净	teng gan jing	100
+腾房	teng fang	1220
+腾挪	teng nuo	6915
+腾捷飞升	teng jie fei sheng	100
+腾晟嘉	teng cheng jia	341
+腾普	teng pu	35
+腾杨天下	teng yang tian xia	152
+腾格尔	teng ge er	2785
+腾格里	teng ge li	3375
+腾格里山	teng ge li shan	100
+腾格里沙漠	teng ge li sha mo	1605
+腾格里湖	teng ge li hu	100
+腾涌	teng yong	225
+腾焰飞芒	teng yan fei mang	1
+腾瑞雨	teng rui yu	100
+腾的一下	teng de yi xia	705
+腾空	teng kong	21760
+腾空而去	teng kong er qu	100
+腾空而起	teng kong er qi	9835
+腾空而过	teng kong er guo	100
+腾考场	teng kao chang	100
+腾腾	teng teng	8725
+腾腾兀兀	teng teng wu wu	1
+腾腾杀气	teng teng sha qi	36
+腾蛟起凤	teng jiao qi feng	100
+腾讯	teng xun	187330
+腾讯乐捐	teng xun le juan	100
+腾讯云	teng xun yun	100
+腾讯云轻量服务器	teng xun yun qing liang fu wu qi	100
+腾讯互动娱乐	teng xun hu dong yu le	100
+腾讯企鹅	teng xun qi e	100
+腾讯信用	teng xun xin yong	100
+腾讯健康	teng xun jian kang	188
+腾讯充值	teng xun chong zhi	131
+腾讯公司	teng xun gong si	30645
+腾讯出品	teng xun chu pin	100
+腾讯医典	teng xun yi dian	181
+腾讯千帆	teng xun qian fan	100
+腾讯博客	teng xun bo ke	455
+腾讯和阿里	teng xun he a li	100
+腾讯地图	teng xun di tu	257
+腾讯大王卡	teng xun da wang ka	100
+腾讯天游	teng xun tian you	100
+腾讯娱乐	teng xun yu le	100
+腾讯娱乐讯	teng xun yu le xun	100
+腾讯安全中心	teng xun an quan zhong xin	114
+腾讯安全管家	teng xun an quan guan jia	100
+腾讯开放平台	teng xun kai fang ping tai	312
+腾讯微博	teng xun wei bo	1878
+腾讯成长守护	teng xun cheng zhang shou hu	100
+腾讯手游	teng xun shou you	189
+腾讯拍拍	teng xun pai pai	1287
+腾讯控股有限公司	teng xun kong gu you xian gong si	100
+腾讯斗地主	teng xun dou di zhu	100
+腾讯新闻	teng xun xin wen	100
+腾讯智慧出行	teng xun zhi hui chu xing	100
+腾讯智慧校园	teng xun zhi hui xiao yuan	100
+腾讯欢乐麻将	teng xun huan le ma jiang	100
+腾讯汽车频道	teng xun qi che pin dao	9
+腾讯浏览器	teng xun liu lan qi	255
+腾讯漫画	teng xun man hua	100
+腾讯王卡	teng xun wang ka	100
+腾讯电子签	teng xun dian zi qian	100
+腾讯电竞	teng xun dian jing	100
+腾讯社区	teng xun she qu	630
+腾讯笔试	teng xun bi shi	159
+腾讯笔试题	teng xun bi shi ti	75
+腾讯系	teng xun xi	100
+腾讯网	teng xun wang	7065
+腾讯视频	teng xun shi pin	100
+腾讯论坛	teng xun lun tan	196
+腾讯轻量云	teng xun qing liang yun	100
+腾讯轻量服务器	teng xun qing liang fu wu qi	100
+腾讯通	teng xun tong	100
+腾讯邮箱	teng xun you xiang	100
+腾讯门户	teng xun men hu	100
+腾讯音乐	teng xun yin yue	100
+腾讯音乐人	teng xun yin yue ren	100
+腾讯音乐娱乐	teng xun yin yue yu le	100
+腾讯音乐娱乐集团	teng xun yin yue yu le ji tuan	100
+腾贵	teng gui	270
+腾起	teng qi	7905
+腾越	teng yue	3935
+腾跃	teng yue	4090
+腾踏飞黄	teng ta fei huang	100
+腾身	teng shen	4010
+腾达	teng da	14010
+腾达路	teng da lu	5
+腾达雅苑	teng da ya yuan	4
+腾达飞黄	teng da fei huang	100
+腾迁	teng qian	250
+腾退	teng tui	1
+腾退土地	teng tui tu di	100
+腾邦国际	teng bang guo ji	2
+腾闪	teng shan	65
+腾飞	teng fei	62585
+腾飞园	teng fei yuan	32
+腾飞村	teng fei cun	12
+腾飞路	teng fei lu	107
+腾龙	teng long	15505
+腾龙娱乐	teng long yu le	100
+藤井一夜	teng jing yi ye	6666
+藤井司	teng jing si	100
+藤井树	teng jing shu	36
+藤井爱纱	teng jing ai sha	6666
+藤井莉娜	teng jing li na	2
+藤井郁弥	teng jing yu mi	100
+藤井隆	teng jing long	100
+藤井风	teng jing feng	154
+藤制	teng zhi	2920
+藤制品	teng zhi pin	1220
+藤制自然法杖	teng zhi zi ran fa zhang	1
+藤加油站	teng jia you zhan	1
+藤北彩香	teng bei cai xiang	2
+藤原	teng yuan	10395
+藤原拓海	teng yuan tuo hai	100
+藤原纪香	teng yuan ji xiang	3325
+藤原豆腐	teng yuan dou fu	100
+藤原龙也	teng yuan long ye	3
+藤县	teng xian	356
+藤四郎	teng si lang	100
+藤域戒指	teng yu jie zhi	1
+藤域手镯	teng yu shou zhuo	1
+藤域项链	teng yu xiang lian	1
+藤堂高虎	teng tang gao hu	2
+藤壶	teng hu	2048
+藤子	teng zi	3150
+藤子不二雄	teng zi bu er xiong	101
+藤家具	teng jia ju	1940
+藤小学	teng xiao xue	3
+藤岛昭	teng dao zhao	191
+藤岛景子	teng dao jing zi	192
+藤川优里	teng chuan you li	33
+藤州市	teng zhou shi	1
+藤床纸帐朝眠起	teng chuang zhi zhang zhao mian qi	3
+藤木直人	teng mu zhi ren	1
+藤本	teng ben	3615
+藤本弘	teng ben hong	100
+藤本月季	teng ben yue ji	415
+藤本树	teng ben shu	176
+藤本植物	teng ben zhi wu	2390
+藤本美贵	teng ben mei gui	205
+藤本豆	teng ben dou	68
+藤村	teng cun	2740
+藤条	teng tiao	6330
+藤林圣子	teng lin sheng zi	100
+藤林秀麿	teng lin xiu mo	2
+藤架	teng jia	1111
+藤根	teng gen	111
+藤桥	teng qiao	145
+藤桥乡	teng qiao xiang	1
+藤森	teng sen	1190
+藤森里穗	teng sen li sui	6666
+藤椅	teng yi	6140
+藤椒牛肉	teng jiao niu rou	134
+藤榻	teng ta	2
+藤泽周平	teng ze zhou ping	3
+藤泽守	teng ze shou	100
+藤泽秀行	teng ze xiu xing	16
+藤浦惠	teng pu hui	6666
+藤牌	teng pai	111
+藤环奈	teng huan nai	6666
+藤球	teng qiu	111
+藤田咲	teng tian xiao	1
+藤田惠美	teng tian hui mei	3
+藤田真	teng tian zhen	1
+藤田茜	teng tian qian	2
+藤甲	teng jia	5555
+藤竹京	teng zhu jing	100
+藤箱	teng xiang	111
+藤编	teng bian	3635
+藤缠树	teng chan shu	715
+藤萝	teng luo	5050
+藤萝紫	teng luo zi	100
+藤萝紫的	teng luo zi de	100
+藤蔓	teng wan	13110
+藤蔓植物	teng wan zhi wu	730
+藤蔓类	teng wan lei	100
+藤蔓缠绕	teng wan chan rao	100
+藤藤菜	teng teng cai	44
+藤藤蛇	teng teng she	100
+藤虎	teng hu	111
+藤谷太辅	teng gu tai fu	2
+藤野严九郎	teng ye yan jiu lang	6
+藤野先生	teng ye xian sheng	2245
+藤黄	teng huang	19
+藤黄健骨丸	teng huang jian gu wan	2
+螣蛇	teng she	2845
+誊写	teng xie	2735
+誊写机	teng xie ji	45
+誊写版	teng xie ban	100
+誊写钢版	teng xie gang ban	100
+誊出来	teng chu lai	100
+誊印社	teng yin she	10
+誊录	teng lu	1310
+誊录所	teng lu suo	100
+誊抄	teng chao	625
+誊本	teng ben	370
+誊正	teng zheng	85
+誊清	teng qing	930
+铽元素	te yuan su	100
