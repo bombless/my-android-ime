@@ -302,7 +302,7 @@ fun KeyboardScreen(
                                 onLongPressStart = { pos ->
                                     letterWheelCenter = Offset(
                                         keyboardWidthPx / 2f,
-                                        pos.y - keyboardWindowPos.y
+                                        (pos.y - keyboardWindowPos.y - with(density) { 48.dp.toPx() }).coerceAtLeast(with(density) { 146.dp.toPx() })
                                     )
                                     selectedLetterIndex = letters.indexOf(letter.toString()).coerceAtLeast(0)
                                     showLetters = true
@@ -330,7 +330,7 @@ fun KeyboardScreen(
                             onLongPressStart = { pos ->
                                 letterWheelCenter = Offset(
                                     keyboardWidthPx / 2f,
-                                    pos.y - keyboardWindowPos.y
+                                    (pos.y - keyboardWindowPos.y - with(density) { 48.dp.toPx() }).coerceAtLeast(with(density) { 146.dp.toPx() })
                                 )
                                 selectedLetterIndex = letters.indexOf(letter.toString()).coerceAtLeast(0)
                                 showLetters = true
