@@ -51,6 +51,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     override fun onCreate() {
         Log.d(TAG, "onCreate START")
         super.onCreate()
+        ImeTelemetry.start()
         deepSeekAi = DeepSeekImeAi(applicationContext)
         baiduSuggest = BaiduImeSuggest()
         inputHistoryStore = InputHistoryStore(applicationContext)
@@ -95,10 +96,22 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                     val pinyin = composing.value
                     KeyboardScreen(
                         composing = pinyin,
-                        rimeCandidates = imeEngine.localCandidates(pinyin).map { it.text },
-                        baiduCandidates = baiduSuggest.candidates(pinyin),
-                        deepSeekCandidates = imeEngine.remoteCandidates(pinyin).map { it.text },
-                        historyCandidates = inputHistoryStore.candidates(pinyin),
+                        rimeCandidates = run {
+                            val t = System.nanoTime(); val value = imeEngine.localCandidates(pinyin).map { it.text }
+                            ImeTelemetry.record("rime_candidates", System.nanoTime() - t, value.size); value
+                        },
+                        baiduCandidates = run {
+                            val t = System.nanoTime(); val value = baiduSuggest.candidates(pinyin)
+                            ImeTelemetry.record("baidu_cache", System.nanoTime() - t, value.size); value
+                        },
+                        deepSeekCandidates = run {
+                            val t = System.nanoTime(); val value = imeEngine.remoteCandidates(pinyin).map { it.text }
+                            ImeTelemetry.record("deepseek_cache", System.nanoTime() - t, value.size); value
+                        },
+                        historyCandidates = run {
+                            val t = System.nanoTime(); val value = inputHistoryStore.candidates(pinyin)
+                            ImeTelemetry.record("history_lookup", System.nanoTime() - t, value.size); value
+                        },
                         onKey = ::handleKey,
                         onCandidate = ::commitCandidate
                     )
@@ -109,6 +122,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     }
 
     override fun onDestroy() {
+        ImeTelemetry.stop()
         if (::lifecycleRegistry.isInitialized) {
             lifecycleRegistry.handleLifecycleEvent(Lifecycle.Event.ON_DESTROY)
         }
@@ -137,6 +151,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     }
 
     private fun handleKey(key: String) {
+        val handleStart = System.nanoTime()
         Log.d(TAG, "handleKey key=$key composingBefore=$composing")
         val c = currentInputConnection
         if (c == null) { Log.w(TAG, "handleKey no currentInputConnection key=$key"); return }
@@ -168,14 +183,19 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 Log.d(TAG, "composingAfter=${composing.value}")
                 Log.d(TAG, "setComposingText text=${composing.value}")
                 c.setComposingText(composing.value, 1)
-                logCandidates(composing.value)
-                deepSeekAi.requestIfNeeded(composing.value) { aiRevision.intValue++ }
-                baiduSuggest.requestIfNeeded(composing.value) { baiduRevision.intValue++ }
+                val query = composing.value
+                val candidateStart = System.nanoTime()
+                val candidates = logCandidates(query)
+                ImeTelemetry.record("candidate_query", System.nanoTime() - candidateStart, candidates.size)
+                deepSeekAi.requestIfNeeded(query) { aiRevision.intValue++ }
+                baiduSuggest.requestIfNeeded(query) { baiduRevision.intValue++ }
             }
         }
+        ImeTelemetry.record("handle_key", System.nanoTime() - handleStart, key.length)
     }
 
     private fun commitCandidate(text: String) {
+        val commitStart = System.nanoTime()
         Log.d(TAG, "commitCandidate text=$text composingBefore=${composing.value}")
         val c = currentInputConnection
         if (c == null) { Log.w(TAG, "commitCandidate no currentInputConnection text=$text"); return }
@@ -185,6 +205,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         Log.d(TAG, "commitText text=$text")
         c.commitText(text, 1)
         composing.value = ""
+        ImeTelemetry.record("commit_candidate", System.nanoTime() - commitStart, text.length)
         Log.d(TAG, "commitCandidate SUCCESS text=$text")
         Log.d(TAG, "composingAfter=${composing.value}")
     }

@@ -49,6 +49,7 @@ class DeepSeekImeAi(context: Context) {
         val key = pinyin.trim().lowercase(Locale.ROOT)
         if (key.length < 2 || apiKey().isBlank() || !inFlight.add(key)) return
         executor.execute {
+            val requestStart = System.nanoTime()
             try {
                 fetch(key)?.takeIf { it.isNotEmpty() }?.let { result ->
                     patches[key] = result
@@ -56,7 +57,9 @@ class DeepSeekImeAi(context: Context) {
                     Log.d(TAG, "AI patch saved pinyin=$key count=${result.size} top=${result.take(9).map { it.text }}")
                     Handler(Looper.getMainLooper()).post(onUpdated)
                 }
+                ImeTelemetry.record("deepseek_request", System.nanoTime() - requestStart, key.length, "ok")
             } catch (e: Exception) {
+                ImeTelemetry.record("deepseek_request", System.nanoTime() - requestStart, key.length, "error")
                 Log.w(TAG, "AI patch request failed pinyin=$key", e)
             } finally { inFlight.remove(key) }
         }

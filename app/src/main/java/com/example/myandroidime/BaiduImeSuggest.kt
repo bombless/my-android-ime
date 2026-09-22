@@ -24,13 +24,16 @@ class BaiduImeSuggest {
         val key = pinyin.trim().lowercase(Locale.ROOT)
         if (key.length < 2 || !inFlight.add(key)) return
         executor.execute {
+            val requestStart = System.nanoTime()
             try {
                 fetch(key)?.let { result ->
                     cache[key] = result
                     android.os.Handler(android.os.Looper.getMainLooper()).post(onUpdated)
+                    ImeTelemetry.record("baidu_request", System.nanoTime() - requestStart, result.size)
                     Log.d(TAG, "Baidu suggestions updated pinyin=$key count=${result.size} top=${result.take(5)}")
                 }
             } catch (e: Exception) {
+                ImeTelemetry.record("baidu_request", System.nanoTime() - requestStart, key.length, "ok")
                 Log.w(TAG, "Baidu suggestion request failed pinyin=$" + "key", e)
             } finally { inFlight.remove(key) }
         }

@@ -16,6 +16,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import kotlinx.coroutines.coroutineScope
 import kotlinx.coroutines.delay
+import kotlinx.coroutines.isActive
 import kotlinx.coroutines.launch
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -355,20 +356,22 @@ private fun RowScope.SpaceKey(
                 .weight(weight)
                 .height(52.dp)
                 .pointerInput(label) {
-                    coroutineScope { // 外层是普通协程作用域，launch/delay 都能用
-                        while (true) {
-                            // 只在受限作用域内做指针相关的挂起调用
-                            awaitPointerEventScope {
-                                val down = awaitFirstDown(requireUnconsumed = false)
-                                down.consume() // 提前消费掉，防止 Button 内置 clickable 抢事件
-                            }
+                    while (true) {
+                        awaitPointerEventScope {
+                            val down = awaitFirstDown(requireUnconsumed = false)
+                            down.consume()
+                            onClick(label)
 
-                            onClick(label) // 按下立即删一次
+                            var repeatCount = 0
+                            var nextRepeatAt = 350L
+                            var elapsed = 0L
+                            while (true) {
+                                val event = awaitPointerEvent()
+                                val up = event.changes.firstOrNull { !it.pressed }
+                                if (up != null) break
 
-                            val repeatJob = launch {
-                                delay(350)
-                                var repeatCount = 0
-                                while (true) {
+                                elapsed += 16L
+                                if (elapsed >= nextRepeatAt) {
                                     onClick(label)
                                     repeatCount++
                                     val interval = when {
@@ -376,14 +379,9 @@ private fun RowScope.SpaceKey(
                                         repeatCount < 14 -> 80L
                                         else -> 50L
                                     }
-                                    delay(interval)
+                                    nextRepeatAt += interval
                                 }
                             }
-
-                            awaitPointerEventScope {
-                                waitForUpOrCancellation() // 等待抬起或手势被取消
-                            }
-                            repeatJob.cancel()
                         }
                     }
                 },

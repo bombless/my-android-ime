@@ -27,3 +27,36 @@ This project now downloads Rime Ice dictionaries under `.vendor/rime-ice/cn_dict
 The shared lookup engine lives in :ime-core, while :repl provides a PC-side REPL using the same engine and dictionary data. Run `gradle :repl:run` and enter Pinyin such as `wo`; the REPL prints ranked candidates. Enter `:q` to exit.
 
 The REPL input is Pinyin rather than already-composed Chinese text; the Android IME can reuse the same engine for candidate generation later.
+
+## Performance telemetry
+
+The IME includes a lightweight, local-only HTTP telemetry service for diagnosing input latency. It listens on `127.0.0.1:8765` only and keeps the most recent 2000 events in memory. Telemetry intentionally does **not** record the user's typed text; it records event names, durations, result counts/sizes, timestamps, and success/error status.
+
+### What is measured
+
+- `handle_key`: total key handling time
+- `candidate_query`: candidate query time
+- `rime_candidates`: Rime/local candidate generation time
+- `baidu_cache`: Baidu candidate cache lookup time
+- `deepseek_cache`: DeepSeek candidate cache lookup time
+- `history_lookup`: history-input lookup time
+- `baidu_request`: Baidu request latency
+- `deepseek_request`: DeepSeek request latency
+- `commit_candidate`: candidate commit time
+
+The JSON endpoint also reports `count`, `avgMs`, `p50Ms`, `p95Ms`, and `maxMs` for each event type.
+
+### Access from a development PC
+
+Forward the IME's localhost port through ADB:
+
+```bash
+adb forward tcp:8765 tcp:8765
+```
+
+Then open:
+
+- `http://127.0.0.1:8765/telemetry` — JSON summary and recent events
+- `http://127.0.0.1:8765/telemetry.csv` — CSV download for offline analysis
+
+The telemetry server starts with the input-method service and stops when the service is destroyed. It is intended for development/performance diagnosis, not as a production network API.
