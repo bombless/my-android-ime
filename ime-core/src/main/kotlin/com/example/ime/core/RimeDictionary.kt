@@ -5,61 +5,111 @@ import java.io.InputStream
 import java.nio.file.Files
 import java.nio.file.Path
 import java.util.Locale
+import java.util.concurrent.atomic.AtomicBoolean
 
 class RimeDictionary private constructor(
     private val byPinyin: MutableMap<String, MutableList<Candidate>>,
     private val shardSource: ShardSource? = null,
 ) {
     private val byCompactPinyin = HashMap<String, MutableList<Candidate>>()
+    private val compactKeys = ArrayList<String>()
     private val loadedInitials = HashSet<Char>()
+    private val preloadStarted = AtomicBoolean(false)
+    @Volatile private var preloadComplete = shardSource == null
 
     init {
         rebuildCompactIndex()
     }
 
+    /**
+     * Builds the compact lookup index once after bulk loading instead of rebuilding
+     * it for every shard. This keeps dictionary I/O and index construction off the
+     * input/key path.
+     */
     private fun rebuildCompactIndex() {
         byCompactPinyin.clear()
         byPinyin.forEach { (pinyin, candidates) ->
             byCompactPinyin.getOrPut(pinyin.replace(" ", "")) { mutableListOf() }.addAll(candidates)
         }
+        compactKeys.clear()
+        compactKeys.addAll(byCompactPinyin.keys.sorted())
     }
 
     fun candidates(input: String, limit: Int = 9): List<Candidate> {
         val key = input.trim().lowercase(Locale.ROOT)
         if (key.isEmpty()) return emptyList()
-        ensureLoaded(key.first())
+        if (!preloadComplete) return emptyList()
         return (byPinyin[key] ?: byCompactPinyin[key.replace(" ", "")]).orEmpty().take(limit)
     }
 
     fun candidatesForPrefix(input: String, limit: Int = 9): List<Candidate> {
         val key = input.trim().lowercase(Locale.ROOT)
-        if (key.isEmpty()) return emptyList()
-        ensureLoaded(key.first())
+        if (key.isEmpty() || !preloadComplete) return emptyList()
         if (!key.contains(' ')) {
-            return byCompactPinyin.asSequence()
-                .filter { it.key.startsWith(key) }
-                .flatMap { it.value.asSequence() }
+            val compactKey = key.replace(" ", "")
+            val start = lowerBound(compactKeys, compactKey)
+            val end = lowerBound(compactKeys, compactKey + '\uffff')
+            return compactKeys.subList(start, end)
+                .asSequence()
+                .flatMap { byCompactPinyin[it].orEmpty().asSequence() }
                 .sortedByDescending { it.weight }
                 .take(limit)
                 .toList()
         }
-        return byPinyin.asSequence()
-            .filter { it.key.startsWith(key) }
-            .flatMap { it.value.asSequence() }
+        return byPinyin.keys
+            .asSequence()
+            .filter { it.startsWith(key) }
+            .flatMap { byPinyin[it].orEmpty().asSequence() }
             .sortedByDescending { it.weight }
             .take(limit)
             .toList()
     }
 
-    private fun ensureLoaded(initial: Char) {
-        val source = shardSource ?: return
+    private fun lowerBound(values: List<String>, target: String): Int {
+        var low = 0
+        var high = values.size
+        while (low < high) {
+            val mid = (low + high) ushr 1
+            if (values[mid] < target) low = mid + 1 else high = mid
+        }
+        return low
+    }
+
+    /**
+     * Loads every shard once on a background thread. The old implementation did
+     * this lazily from candidates(), which made the first key for each initial block
+     * on the IME input path for hundreds of milliseconds.
+     */
+    fun preloadAllAsync(onComplete: (() -> Unit)? = null) {
+        if (shardSource == null || preloadComplete || !preloadStarted.compareAndSet(false, true)) {
+            if (preloadComplete) onComplete?.invoke()
+            return
+        }
+        Thread({
+            try {
+                preloadAll()
+            } finally {
+                onComplete?.invoke()
+            }
+        }, "rime-dictionary-preload").apply {
+            isDaemon = true
+            start()
+        }
+    }
+
+    private fun preloadAll() {
         synchronized(this) {
-            if (!loadedInitials.add(initial)) return
-            source.list(initial).forEach { path ->
-                source.open(path).bufferedReader(Charsets.UTF_8).use { readInto(it, byPinyin) }
+            if (preloadComplete) return
+            val source = shardSource ?: return
+            ('a'..'z').forEach { initial ->
+                if (!loadedInitials.add(initial)) return@forEach
+                source.list(initial).forEach { path ->
+                    source.open(path).bufferedReader(Charsets.UTF_8).use { readInto(it, byPinyin) }
+                }
             }
             normalize(byPinyin)
             rebuildCompactIndex()
+            preloadComplete = true
         }
     }
 
@@ -116,12 +166,8 @@ class RimeDictionary private constructor(
 
         private fun normalize(entries: MutableMap<String, MutableList<Candidate>>) {
             entries.replaceAll { _, list ->
-                // Rime dictionaries commonly contain an unweighted declaration
-                // followed by a weighted duplicate (for example:
-                // "你\tni" and "你\tni\t1422192"). distinctBy() before
-                // sorting keeps the first, zero-weight declaration and throws
-                // away the real frequency. Sort first, then de-duplicate so
-                // the highest-weight occurrence wins.
+                // Keep the highest-weight duplicate, matching the previous
+                // normalize semantics exactly.
                 list.sortedByDescending { it.weight }
                     .distinctBy { it.text }
                     .toMutableList()

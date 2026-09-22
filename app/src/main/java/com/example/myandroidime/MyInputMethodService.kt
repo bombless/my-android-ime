@@ -41,6 +41,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     private val deepSeekCandidates = mutableStateOf<List<String>>(emptyList())
     private val baiduRevision = mutableIntStateOf(0)
     private val historyRevision = mutableIntStateOf(0)
+    private val rimeRevision = mutableIntStateOf(0)
     private lateinit var lifecycleRegistry: LifecycleRegistry
     private lateinit var savedStateRegistryController: SavedStateRegistryController
 
@@ -57,7 +58,13 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         baiduSuggest = BaiduImeSuggest()
         inputHistoryStore = InputHistoryStore(applicationContext)
         userDictionaryRepository = UserDictionaryRepository(applicationContext)
-        try { imeEngine = PinyinImeEngine(loadDictionary()) { pinyin -> deepSeekAi.candidates(pinyin) } }
+        try {
+            imeEngine = PinyinImeEngine(
+                loadDictionary(),
+                { pinyin -> deepSeekAi.candidates(pinyin) },
+                { name, duration, size -> ImeTelemetry.record(name, duration, size) }
+            )
+        }
         catch (e: Exception) { Log.e(TAG, "dictionary loading FAILED", e); throw e }
         lifecycleRegistry = LifecycleRegistry(this)
         savedStateRegistryController = SavedStateRegistryController.create(this)
@@ -96,6 +103,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 setContent {
                     baiduRevision.intValue
                     historyRevision.intValue
+                    rimeRevision.intValue
                     val pinyin = composing.value
                     KeyboardScreen(
                         composing = pinyin,
@@ -165,10 +173,6 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         if (c == null) { Log.w(TAG, "handleKey no currentInputConnection key=$key"); return }
         when (key) {
             "⌫" -> {
-                // If the editor currently has a selection (for example after
-                // Select All), Backspace should delete that whole selection.
-                // commitText("") replaces the selected range with nothing and
-                // lets the target editor update its selection correctly.
                 val selected = c.getSelectedText(0)?.toString().orEmpty()
                 if (selected.isNotEmpty()) {
                     Log.d(TAG, "delete selection length=${selected.length}")
@@ -186,8 +190,6 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
             "↵" -> if (composing.value.isNotEmpty()) {
                 val text = composing.value
                 if (text.all { it in 'A'..'Z' || it in 'a'..'z' }) {
-                    // Latin letters should be committed literally on Enter rather
-                    // than being converted through the candidate list.
                     Log.d(TAG, "enter commit raw latin composing=$text")
                     c.commitText(text, 1)
                     composing.value = ""
@@ -212,11 +214,6 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 c.commitText("\n", 1)
             }
             "空格" -> {
-                // Space is a terminal commit action.  Do not leave the pinyin
-                // composing buffer alive after committing the space, otherwise
-                // a following backspace edits the stale pinyin (e.g. "why" ->
-                // "wh") instead of deleting the committed space from the
-                // editor.  This is the same lifecycle as Enter/punctuation.
                 if (composing.value.isNotEmpty()) {
                     val text = composing.value
                     val result = logCandidates(text)
@@ -236,9 +233,6 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 continuationContext.value = c.getTextBeforeCursor(256, 0)?.toString().orEmpty()
             }
             "，", "。", "、", "；", "：", "？", "！", "《", "》", "（", "）" -> {
-                // Punctuation-wheel selections are terminal actions: commit the
-                // current composing text (using its first candidate when one
-                // exists) and then commit the selected punctuation immediately.
                 if (composing.value.isNotEmpty()) {
                     val result = logCandidates(composing.value)
                     val candidate = result.firstOrNull()
@@ -253,25 +247,15 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 }
                 Log.d(TAG, "punctuation commitText text=$key")
                 c.commitText(key, 1)
-                // The punctuation is part of the committed prefix. Refresh the
-                // continuation context only after committing it, otherwise the
-                // request started by commitCandidate() sees the prefix without
-                // the newly typed punctuation.
                 val punctuationContext = c.getTextBeforeCursor(256, 0)?.toString().orEmpty()
                 continuationContext.value = punctuationContext
                 Log.d(TAG, "punctuation continuation prefix=${punctuationContext.takeLast(80)}")
                 if (punctuationContext.isNotEmpty()) {
-                    // Punctuation is also a completion trigger: after committing
-                    // it, ask DeepSeek for the next continuation using the full
-                    // committed prefix (including the punctuation). This mirrors
-                    // the candidate-selection path and avoids leaving DeepSeek
-                    // stale after punctuation-wheel input.
                     requestDeepSeekContinuation(c)
                     baiduSuggest.requestIfNeeded(punctuationContext, "") { baiduRevision.intValue++ }
                 }
             }
             in "0123456789" -> {
-                // Digits selected from the Enter long-press wheel are terminal input.
                 Log.d(TAG, "number wheel commitText text=$key")
                 c.commitText(key, 1)
                 continuationContext.value = c.getTextBeforeCursor(256, 0)?.toString().orEmpty()
@@ -288,9 +272,6 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 val candidateStart = System.nanoTime()
                 val candidates = logCandidates(query)
                 ImeTelemetry.record("candidate_query", System.nanoTime() - candidateStart, candidates.size)
-                // DeepSeek is the only optional candidate source. Its enabled
-                // setting controls both requests and display; Rime and Baidu
-                // below are always active regardless of this setting.
                 if (deepSeekAi.isEnabled()) deepSeekAi.requestIfNeeded(context, query) { result ->
                     val updated = result.map { it.text }
                     if (continuationContext.value == context && composing.value == query) {
@@ -300,8 +281,6 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                         Log.d(TAG, "DeepSeek UI result stale context='${context.takeLast(40)}' pinyin=$query currentContext='${continuationContext.value.takeLast(40)}' currentPinyin=${composing.value}")
                     }
                 }
-                // Baidu is an independent candidate source; do not gate it on
-                // whether the local Rime dictionary returned candidates.
                 baiduSuggest.requestIfNeeded(context, query) { baiduRevision.intValue++ }
             }
         }
@@ -320,9 +299,6 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     private fun commitCandidate(text: String) {
         val commitStart = System.nanoTime()
         Log.d(TAG, "commitCandidate text=$text composingBefore=${composing.value}")
-        // The old Baidu/DeepSeek rows belong to the previous composing/context state.
-        // Clear them immediately when any candidate is selected (Rime, history, Baidu,
-        // or DeepSeek), then request/display only suggestions for the newly committed text.
         deepSeekCandidates.value = emptyList()
         baiduRevision.intValue++
         Log.d(TAG, "stale Baidu/DeepSeek candidates cleared after selection")
@@ -344,17 +320,14 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
 
     private fun commitEmoji(emoji: String) {
         val commitStart = System.nanoTime()
-        Log.d(TAG, "commitEmoji emoji=" + emoji + " composingBefore=" + composing.value)
+        Log.d(TAG, "commitEmoji emoji=$emoji composingBefore=${composing.value}")
         deepSeekCandidates.value = emptyList()
         baiduRevision.intValue++
         val c = currentInputConnection
         if (c == null) {
-            Log.w(TAG, "commitEmoji no currentInputConnection emoji=" + emoji)
+            Log.w(TAG, "commitEmoji no currentInputConnection emoji=$emoji")
             return
         }
-
-        // Emoji selection is terminal: clear the composing buffer first, then
-        // commit only the selected emoji to the target editor.
         if (composing.value.isNotEmpty()) {
             c.setComposingText("", 1)
             composing.value = ""
@@ -362,13 +335,17 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         c.commitText(emoji, 1)
         continuationContext.value = c.getTextBeforeCursor(256, 0)?.toString().orEmpty()
         ImeTelemetry.record("commit_emoji", System.nanoTime() - commitStart, emoji.length)
-        Log.d(TAG, "commitEmoji SUCCESS emoji=" + emoji + " composingAfter=" + composing.value)
+        Log.d(TAG, "commitEmoji SUCCESS emoji=$emoji composingAfter=${composing.value}")
     }
 
     private fun logCandidates(pinyin: String): List<com.example.ime.core.Candidate> {
         Log.d(TAG, "candidate query pinyin=$pinyin")
+        val rimeStart = System.nanoTime()
         val rime = imeEngine.candidates(pinyin)
+        ImeTelemetry.record("candidate_rime_total", System.nanoTime() - rimeStart, rime.size)
+        val userStart = System.nanoTime()
         val user = userDictionaryRepository.candidates(pinyin, 8)
+        ImeTelemetry.record("candidate_user_dictionary", System.nanoTime() - userStart, user.size)
         val result = (user + rime).distinctBy { it.text }.take(9)
         Log.d(TAG, "candidate result count=${result.size} userDictionary=${user.size} rime=${rime.size}")
         Log.d(TAG, "candidate result top=${result.take(10).map { it.text }}")
@@ -379,8 +356,6 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         val context = c.getTextBeforeCursor(256, 0)?.toString().orEmpty().trim()
         if (context.isEmpty()) return
         continuationContext.value = context
-        // DeepSeek is optional: when disabled, stop both its network request
-        // and its candidate display. This guard must not affect Rime or Baidu.
         if (!deepSeekAi.isEnabled()) return
         Log.d(TAG, "continuation DeepSeek request context=" + context.takeLast(80))
         deepSeekAi.requestIfNeeded(context, "") { result ->
@@ -397,14 +372,12 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         val context = c.getTextBeforeCursor(256, 0)?.toString().orEmpty().trim()
         if (context.isEmpty()) return
         continuationContext.value = context
-        // Baidu is an independent continuation source; request it even when
-        // the local dictionary also has candidates so every source is visible.
         Log.d(TAG, "continuation request Baidu context=" + context.takeLast(80))
         baiduSuggest.requestIfNeeded(context, "") { baiduRevision.intValue++ }
     }
 
     private fun loadDictionary(): RimeDictionary {
-        Log.d(TAG, "dictionary loading START mode=lazy-shards")
+        Log.d(TAG, "dictionary loading START mode=background-preload")
         val source = object : RimeDictionary.ShardSource {
             override fun list(initial: Char): List<String> {
                 val dir = "dict-shards/$initial"
@@ -419,8 +392,11 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
             }
         }
         val dictionary = RimeDictionary.fromShards(source)
-        Log.d(TAG, "dictionary loaded successfully: mode=lazy-shards")
-        Log.d(TAG, "dictionary loading END")
+        dictionary.preloadAllAsync {
+            Log.d(TAG, "dictionary preload COMPLETE")
+            rimeRevision.intValue++
+        }
+        Log.d(TAG, "dictionary loading END mode=background-preload")
         return dictionary
     }
 }
