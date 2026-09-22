@@ -253,6 +253,12 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                     baiduSuggest.requestIfNeeded(punctuationContext, "") { baiduRevision.intValue++ }
                 }
             }
+            in "0123456789" -> {
+                // Digits selected from the Enter long-press wheel are terminal input.
+                Log.d(TAG, "number wheel commitText text=$key")
+                c.commitText(key, 1)
+                continuationContext.value = c.getTextBeforeCursor(256, 0)?.toString().orEmpty()
+            }
             else -> {
                 composing.value += key.lowercase()
                 Log.d(TAG, "composingAfter=${composing.value}")

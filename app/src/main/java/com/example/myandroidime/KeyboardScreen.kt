@@ -162,6 +162,9 @@ fun KeyboardScreen(
     var showPunctuation by remember { mutableStateOf(false) }
     var selectedIndex by remember { mutableStateOf(0) }
     val punctuation = remember { listOf("，", "。", "、", "；", "：", "？", "！", "《", "》", "（", "）") }
+    var showNumbers by remember { mutableStateOf(false) }
+    var selectedNumberIndex by remember { mutableStateOf(0) }
+    val numbers = remember { listOf("0", "1", "2", "3", "4", "5", "6", "7", "8", "9") }
 
     var keyboardWindowPos by remember { mutableStateOf(Offset.Zero) }
     var keyboardHeightPx by remember { mutableStateOf(0f) }
@@ -201,6 +204,17 @@ fun KeyboardScreen(
         val step = 360.0 / punctuation.size
         val index = (((angle + step / 2) % 360) / step).toInt().coerceIn(0, punctuation.lastIndex)
         selectedIndex = index
+    }
+
+    fun updateNumberSelection(windowTouchPos: Offset) {
+        val localX = windowTouchPos.x - keyboardWindowPos.x
+        val localY = windowTouchPos.y - keyboardWindowPos.y
+        val dx = localX - centerLocalX
+        val dy = localY - centerLocalY
+        var angle = Math.toDegrees(atan2(dy.toDouble(), dx.toDouble()))
+        if (angle < 0) angle += 360.0
+        val step = 360.0 / numbers.size
+        selectedNumberIndex = (((angle + step / 2) % 360) / step).toInt().coerceIn(0, numbers.lastIndex)
     }
 
     MaterialTheme {
@@ -275,7 +289,18 @@ fun KeyboardScreen(
                             }
                         }
                     )
-                    Key("↵", onKey, 1.5f)
+                    EnterKey(
+                        onEnter = onKey,
+                        weight = 1.5f,
+                        onLongPressStart = { pos -> showNumbers = true; updateNumberSelection(pos) },
+                        onDrag = ::updateNumberSelection,
+                        onRelease = {
+                            if (showNumbers) {
+                                onKey(numbers[selectedNumberIndex])
+                                showNumbers = false
+                            }
+                        }
+                    )
                 }
             }
 
@@ -319,6 +344,37 @@ fun KeyboardScreen(
                                     } else {
                                         MaterialTheme.colorScheme.onSurface
                                     }
+                                )
+                            }
+                        }
+                    }
+                }
+            }
+            if (showNumbers) {
+                Box(
+                    modifier = Modifier
+                        .matchParentSize()
+                        .background(Color.Black.copy(alpha = 0.25f))
+                ) {
+                    numbers.forEachIndexed { index, number ->
+                        val step = 360.0 / numbers.size
+                        val angleRad = Math.toRadians(index * step)
+                        val itemCenterX = centerLocalX + circleRadiusPx * cos(angleRad).toFloat()
+                        val itemCenterY = centerLocalY + circleRadiusPx * sin(angleRad).toFloat()
+                        val offsetX = with(density) { (itemCenterX - itemSizePx / 2f).toDp() }
+                        val offsetY = with(density) { (itemCenterY - itemSizePx / 2f).toDp() }
+                        val selected = index == selectedNumberIndex
+                        Surface(
+                            modifier = Modifier.offset(x = offsetX, y = offsetY).size(itemSizeDp),
+                            shape = MaterialTheme.shapes.extraLarge,
+                            color = if (selected) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.surface,
+                            tonalElevation = if (selected) 8.dp else 2.dp
+                        ) {
+                            Box(contentAlignment = Alignment.Center) {
+                                Text(
+                                    text = number,
+                                    style = MaterialTheme.typography.titleMedium,
+                                    color = if (selected) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onSurface
                                 )
                             }
                         }
@@ -376,6 +432,49 @@ private fun RowScope.SpaceKey(
             Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
                 Text("空格", maxLines = 1)
             }
+        }
+    }
+}
+
+@Composable
+private fun RowScope.EnterKey(
+    onEnter: (String) -> Unit,
+    weight: Float,
+    onLongPressStart: (Offset) -> Unit,
+    onDrag: (Offset) -> Unit,
+    onRelease: () -> Unit
+) {
+    var keyWindowPos by remember { mutableStateOf(Offset.Zero) }
+    Box(
+        modifier = Modifier
+            .weight(weight)
+            .height(52.dp)
+            .onGloballyPositioned { coordinates -> keyWindowPos = coordinates.positionInWindow() }
+    ) {
+        Button(
+            onClick = {},
+            modifier = Modifier
+                .fillMaxSize()
+                .pointerInput(Unit) {
+                    awaitEachGesture {
+                        val down = awaitFirstDown(requireUnconsumed = false)
+                        down.consume()
+                        val longPress = awaitLongPressOrCancellation(down.id)
+                        if (longPress == null) {
+                            onEnter("↵")
+                        } else {
+                            onLongPressStart(keyWindowPos + down.position)
+                            drag(down.id) { change ->
+                                onDrag(keyWindowPos + change.position)
+                                change.consume()
+                            }
+                            onRelease()
+                        }
+                    }
+                },
+            contentPadding = PaddingValues(0.dp)
+        ) {
+            Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) { Text("↵", maxLines = 1) }
         }
     }
 }
