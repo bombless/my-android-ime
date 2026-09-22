@@ -168,6 +168,7 @@ fun KeyboardScreen(
 
     var keyboardWindowPos by remember { mutableStateOf(Offset.Zero) }
     var keyboardHeightPx by remember { mutableStateOf(0f) }
+    var keyboardWidthPx by remember { mutableStateOf(0f) }
 
     val density = LocalDensity.current
 
@@ -175,6 +176,7 @@ fun KeyboardScreen(
     val insets = WindowInsets.safeDrawing.asPaddingValues()
     val bottomInsetPx = with(density) { insets.calculateBottomPadding().toPx() }
     val leftInsetPx = with(density) { insets.calculateStartPadding(androidx.compose.ui.unit.LayoutDirection.Ltr).toPx() }
+    val rightInsetPx = with(density) { insets.calculateEndPadding(androidx.compose.ui.unit.LayoutDirection.Ltr).toPx() }
 
     // 标点项与圆盘几何参数
     val itemSizeDp = 44.dp
@@ -187,7 +189,9 @@ fun KeyboardScreen(
     val innerMarginXPx = with(density) { 6.dp.toPx() }
     val innermarginYPx = with(density) { 4.dp.toPx() }
 
+    // 标点轮盘固定在左下角，数字轮盘固定在右下角
     val centerLocalX = leftInsetPx + innerMarginXPx + circleRadiusPx + itemSizePx / 2f
+    val centerLocalXRight = keyboardWidthPx - rightInsetPx - innerMarginXPx - circleRadiusPx - itemSizePx / 2f
     val centerLocalY = keyboardHeightPx - (bottomInsetPx + innermarginYPx + circleRadiusPx + itemSizePx / 2f)
 
     // 滑动手势方向映射选中的符号
@@ -209,7 +213,7 @@ fun KeyboardScreen(
     fun updateNumberSelection(windowTouchPos: Offset) {
         val localX = windowTouchPos.x - keyboardWindowPos.x
         val localY = windowTouchPos.y - keyboardWindowPos.y
-        val dx = localX - centerLocalX
+        val dx = localX - centerLocalXRight
         val dy = localY - centerLocalY
         var angle = Math.toDegrees(atan2(dy.toDouble(), dx.toDouble()))
         if (angle < 0) angle += 360.0
@@ -225,6 +229,7 @@ fun KeyboardScreen(
                 .onGloballyPositioned { coordinates ->
                     keyboardWindowPos = coordinates.positionInWindow()
                     keyboardHeightPx = coordinates.size.height.toFloat()
+                    keyboardWidthPx = coordinates.size.width.toFloat()
                 }
         ) {
             // 基础键盘主体
@@ -359,7 +364,7 @@ fun KeyboardScreen(
                     numbers.forEachIndexed { index, number ->
                         val step = 360.0 / numbers.size
                         val angleRad = Math.toRadians(index * step)
-                        val itemCenterX = centerLocalX + circleRadiusPx * cos(angleRad).toFloat()
+                        val itemCenterX = centerLocalXRight + circleRadiusPx * cos(angleRad).toFloat()
                         val itemCenterY = centerLocalY + circleRadiusPx * sin(angleRad).toFloat()
                         val offsetX = with(density) { (itemCenterX - itemSizePx / 2f).toDp() }
                         val offsetY = with(density) { (itemCenterY - itemSizePx / 2f).toDp() }
