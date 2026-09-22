@@ -377,38 +377,43 @@ private fun RowScope.SpaceKey(
 
 @Composable private fun RowScope.Key(label: String, onClick: (String) -> Unit, weight: Float = 1f) {
     if (label == "⌫") {
+        var backspacePressed by remember { mutableStateOf(false) }
+
+        LaunchedEffect(backspacePressed) {
+            if (!backspacePressed) return@LaunchedEffect
+
+            onClick(label)
+            delay(350L)
+
+            var repeatCount = 0
+            while (backspacePressed) {
+                onClick(label)
+                repeatCount++
+                val interval = when {
+                    repeatCount < 6 -> 120L
+                    repeatCount < 14 -> 80L
+                    else -> 50L
+                }
+                delay(interval)
+            }
+        }
+
         Button(
-            onClick = {}, // 点击逻辑完全交给下面的手势处理
+            onClick = {},
             modifier = Modifier
                 .weight(weight)
                 .height(52.dp)
                 .pointerInput(label) {
-                    detectTapGestures(
-                        onPress = {
-                            onClick(label)
-                            coroutineScope {
-                                val repeatJob = launch {
-                                    delay(350L)
-                                    var repeatCount = 0
-                                    while (isActive) {
-                                        onClick(label)
-                                        repeatCount++
-                                        val interval = when {
-                                            repeatCount < 6 -> 120L
-                                            repeatCount < 14 -> 80L
-                                            else -> 50L
-                                        }
-                                        delay(interval)
-                                    }
-                                }
-                                try {
-                                    tryAwaitRelease()
-                                } finally {
-                                    repeatJob.cancel()
-                                }
-                            }
+                    awaitEachGesture {
+                        val down = awaitFirstDown(requireUnconsumed = false)
+                        down.consume()
+                        backspacePressed = true
+                        try {
+                            waitForUpOrCancellation()
+                        } finally {
+                            backspacePressed = false
                         }
-                    )
+                    }
                 },
             contentPadding = PaddingValues(0.dp)
         ) {
