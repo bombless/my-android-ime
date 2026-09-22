@@ -31,10 +31,12 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
 
     private lateinit var imeEngine: PinyinImeEngine
     private lateinit var deepSeekAi: DeepSeekImeAi
+    private lateinit var baiduSuggest: BaiduImeSuggest
     // Compose must observe composing changes; a plain StringBuilder does not
     // trigger recomposition, which previously left the candidate strip empty.
     private val composing = mutableStateOf("")
     private val aiRevision = mutableIntStateOf(0)
+    private val baiduRevision = mutableIntStateOf(0)
     private lateinit var lifecycleRegistry: LifecycleRegistry
     private lateinit var savedStateRegistryController: SavedStateRegistryController
 
@@ -48,6 +50,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         Log.d(TAG, "onCreate START")
         super.onCreate()
         deepSeekAi = DeepSeekImeAi(applicationContext)
+        baiduSuggest = BaiduImeSuggest()
         try { imeEngine = PinyinImeEngine(loadDictionary()) { pinyin -> deepSeekAi.candidates(pinyin) } }
         catch (e: Exception) { Log.e(TAG, "dictionary loading FAILED", e); throw e }
         lifecycleRegistry = LifecycleRegistry(this)
@@ -84,8 +87,16 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 setViewCompositionStrategy(ViewCompositionStrategy.DisposeOnDetachedFromWindow)
                 setContent {
                     aiRevision.intValue
-                    val candidateTexts = imeEngine.candidates(composing.value).map { it.text }
-                    KeyboardScreen(composing.value, candidateTexts, ::handleKey, ::commitCandidate)
+                    baiduRevision.intValue
+                    val pinyin = composing.value
+                    KeyboardScreen(
+                        composing = pinyin,
+                        rimeCandidates = imeEngine.localCandidates(pinyin).map { it.text },
+                        baiduCandidates = baiduSuggest.candidates(pinyin),
+                        deepSeekCandidates = imeEngine.remoteCandidates(pinyin).map { it.text },
+                        onKey = ::handleKey,
+                        onCandidate = ::commitCandidate
+                    )
                 }
             })
             Log.d(TAG, "onCreateInputView END")
@@ -135,6 +146,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 c.setComposingText(composing.value, 1)
                 logCandidates(composing.value)
                 deepSeekAi.requestIfNeeded(composing.value) { aiRevision.intValue++ }
+                baiduSuggest.requestIfNeeded(composing.value) { baiduRevision.intValue++ }
             }
         }
     }
