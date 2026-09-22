@@ -259,6 +259,9 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 val candidateStart = System.nanoTime()
                 val candidates = logCandidates(query)
                 ImeTelemetry.record("candidate_query", System.nanoTime() - candidateStart, candidates.size)
+                // DeepSeek is the only optional candidate source. Its enabled
+                // setting controls both requests and display; Rime and Baidu
+                // below are always active regardless of this setting.
                 if (deepSeekAi.isEnabled()) deepSeekAi.requestIfNeeded(context, query) { result ->
                     val updated = result.map { it.text }
                     if (continuationContext.value == context && composing.value == query) {
@@ -321,6 +324,8 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         val context = c.getTextBeforeCursor(256, 0)?.toString().orEmpty().trim()
         if (context.isEmpty()) return
         continuationContext.value = context
+        // DeepSeek is optional: when disabled, stop both its network request
+        // and its candidate display. This guard must not affect Rime or Baidu.
         if (!deepSeekAi.isEnabled()) return
         Log.d(TAG, "continuation DeepSeek request context=" + context.takeLast(80))
         deepSeekAi.requestIfNeeded(context, "") { result ->
