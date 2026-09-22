@@ -24,6 +24,8 @@ import android.widget.TextView
 class MainActivity : Activity() {
     private lateinit var statusView: TextView
     private lateinit var inputMethodManager: InputMethodManager
+    private lateinit var deepSeekApiKeyView: EditText
+    private lateinit var deepSeekAi: DeepSeekImeAi
 
     private val serviceId: String
         get() = ComponentName(this, MyInputMethodService::class.java)
@@ -32,6 +34,7 @@ class MainActivity : Activity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         inputMethodManager = getSystemService(InputMethodManager::class.java)
+        deepSeekAi = DeepSeekImeAi(applicationContext)
         setContentView(createContentView())
     }
 
@@ -70,6 +73,25 @@ class MainActivity : Activity() {
             addView(Button(context).apply {
                 text = getString(R.string.choose_input_method)
                 setOnClickListener { inputMethodManager.showInputMethodPicker() }
+            }, matchParentWrapContent())
+
+            addView(TextView(context).apply {
+                text = getString(R.string.deepseek_title)
+                textSize = 16f
+                setPadding(0, spacing, 0, spacing / 2)
+            }, matchParentWrapContent())
+
+            addView(EditText(context).also { deepSeekApiKeyView = it }.apply {
+                hint = getString(R.string.deepseek_api_key_hint)
+                inputType = android.text.InputType.TYPE_CLASS_TEXT or
+                    android.text.InputType.TYPE_TEXT_VARIATION_PASSWORD
+                setSingleLine(true)
+                setText(deepSeekAi.apiKey())
+            }, matchParentWrapContent())
+
+            addView(Button(context).apply {
+                text = getString(R.string.deepseek_save)
+                setOnClickListener { deepSeekAi.saveApiKey(deepSeekApiKeyView.text.toString()) }
             }, matchParentWrapContent())
 
             addView(TextView(context).apply {

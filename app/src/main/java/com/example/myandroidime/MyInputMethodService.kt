@@ -13,6 +13,7 @@ import androidx.lifecycle.setViewTreeLifecycleOwner
 import androidx.compose.ui.platform.ComposeView
 import androidx.compose.ui.platform.ViewCompositionStrategy
 import androidx.compose.runtime.mutableStateOf
+import androidx.compose.runtime.mutableIntStateOf
 import android.widget.FrameLayout
 import androidx.savedstate.SavedStateRegistry
 import androidx.savedstate.SavedStateRegistryController
@@ -29,9 +30,11 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     private companion object { const val TAG = "MyAndroidIME" }
 
     private lateinit var imeEngine: PinyinImeEngine
+    private lateinit var deepSeekAi: DeepSeekImeAi
     // Compose must observe composing changes; a plain StringBuilder does not
     // trigger recomposition, which previously left the candidate strip empty.
     private val composing = mutableStateOf("")
+    private val aiRevision = mutableIntStateOf(0)
     private lateinit var lifecycleRegistry: LifecycleRegistry
     private lateinit var savedStateRegistryController: SavedStateRegistryController
 
@@ -44,7 +47,8 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     override fun onCreate() {
         Log.d(TAG, "onCreate START")
         super.onCreate()
-        try { imeEngine = PinyinImeEngine(loadDictionary()) }
+        deepSeekAi = DeepSeekImeAi(applicationContext)
+        try { imeEngine = PinyinImeEngine(loadDictionary()) { pinyin -> deepSeekAi.candidates(pinyin) } }
         catch (e: Exception) { Log.e(TAG, "dictionary loading FAILED", e); throw e }
         lifecycleRegistry = LifecycleRegistry(this)
         savedStateRegistryController = SavedStateRegistryController.create(this)
@@ -79,6 +83,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 )
                 setViewCompositionStrategy(ViewCompositionStrategy.DisposeOnDetachedFromWindow)
                 setContent {
+                    aiRevision.intValue
                     val candidateTexts = imeEngine.candidates(composing.value).map { it.text }
                     KeyboardScreen(composing.value, candidateTexts, ::handleKey, ::commitCandidate)
                 }
@@ -123,7 +128,14 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
             "⌫" -> if (composing.value.isNotEmpty()) { composing.value = composing.value.dropLast(1); Log.d(TAG, "composingAfter=${composing.value}"); Log.d(TAG, "setComposingText text=${composing.value}"); c.setComposingText(composing.value, 1) } else { Log.d(TAG, "deleteSurroundingText"); c.deleteSurroundingText(1, 0) }
             "↵" -> if (composing.value.isNotEmpty()) { val result = logCandidates(composing.value); val candidate = result.firstOrNull(); if (candidate != null) { Log.d(TAG, "enter commit candidate=${candidate.text}"); commitCandidate(candidate.text) } else { Log.d(TAG, "enter commit raw composing=${composing.value}"); Log.d(TAG, "commitText text=${composing.value}"); c.commitText(composing.value, 1); composing.value = ""; Log.d(TAG, "composingAfter=${composing.value}") } } else { Log.d(TAG, "enter commit newline"); Log.d(TAG, "commitText text=\\n"); c.commitText("\n", 1) }
             "空格" -> { Log.d(TAG, "commitText text= "); c.commitText(" ", 1) }
-            else -> { composing.value += key.lowercase(); Log.d(TAG, "composingAfter=${composing.value}"); Log.d(TAG, "setComposingText text=${composing.value}"); c.setComposingText(composing.value, 1); logCandidates(composing.value) }
+            else -> {
+                composing.value += key.lowercase()
+                Log.d(TAG, "composingAfter=${composing.value}")
+                Log.d(TAG, "setComposingText text=${composing.value}")
+                c.setComposingText(composing.value, 1)
+                logCandidates(composing.value)
+                deepSeekAi.requestIfNeeded(composing.value) { aiRevision.intValue++ }
+            }
         }
     }
 

@@ -8,4 +8,7 @@
     <string name="ime_status_selected">状态：已启用，且当前就是本输入法</string>
     <string name="ime_status_enabled">状态：已启用，但当前使用的是其他输入法</string>
     <string name="ime_status_disabled">状态：尚未启用，请打开输入法设置</string>
+    <string name="deepseek_title">DeepSeek AI 词库补全</string>
+    <string name="deepseek_api_key_hint">DeepSeek API Key（仅保存在本机）</string>
+    <string name="deepseek_save">保存 API Key</string>
 </resources>
