@@ -33,6 +33,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     private lateinit var deepSeekAi: DeepSeekImeAi
     private lateinit var baiduSuggest: BaiduImeSuggest
     private lateinit var inputHistoryStore: InputHistoryStore
+    private lateinit var userDictionaryRepository: UserDictionaryRepository
     // Compose must observe composing changes; a plain StringBuilder does not
     // trigger recomposition, which previously left the candidate strip empty.
     private val composing = mutableStateOf("")
@@ -56,6 +57,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         deepSeekAi = DeepSeekImeAi(applicationContext)
         baiduSuggest = BaiduImeSuggest()
         inputHistoryStore = InputHistoryStore(applicationContext)
+        userDictionaryRepository = UserDictionaryRepository(applicationContext)
         try { imeEngine = PinyinImeEngine(loadDictionary()) { pinyin -> deepSeekAi.candidates(pinyin) } }
         catch (e: Exception) { Log.e(TAG, "dictionary loading FAILED", e); throw e }
         lifecycleRegistry = LifecycleRegistry(this)
@@ -101,6 +103,10 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                         rimeCandidates = run {
                             val t = System.nanoTime(); val value = imeEngine.localCandidates(pinyin).map { it.text }
                             ImeTelemetry.record("rime_candidates", System.nanoTime() - t, value.size); value
+                        },
+                        userDictionaryCandidates = run {
+                            val t = System.nanoTime(); val value = userDictionaryRepository.candidates(pinyin).map { it.text }
+                            ImeTelemetry.record("user_dictionary_candidates", System.nanoTime() - t, value.size); value
                         },
                         baiduCandidates = run {
                             val t = System.nanoTime(); val value = baiduSuggest.candidates(continuationContext.value, pinyin)
@@ -300,6 +306,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         val c = currentInputConnection
         if (c == null) { Log.w(TAG, "commitCandidate no currentInputConnection text=$text"); return }
         inputHistoryStore.recordSelection(composing.value, text)
+        userDictionaryRepository.incrementFrequency(composing.value, text)
         historyRevision.intValue++
         Log.d(TAG, "history selection recorded text=$text")
         Log.d(TAG, "commitText text=$text")
@@ -314,8 +321,10 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
 
     private fun logCandidates(pinyin: String): List<com.example.ime.core.Candidate> {
         Log.d(TAG, "candidate query pinyin=$pinyin")
-        val result = imeEngine.candidates(pinyin)
-        Log.d(TAG, "candidate result count=${result.size}")
+        val rime = imeEngine.candidates(pinyin)
+        val user = userDictionaryRepository.candidates(pinyin, 8)
+        val result = (user + rime).distinctBy { it.text }.take(9)
+        Log.d(TAG, "candidate result count=${result.size} userDictionary=${user.size} rime=${rime.size}")
         Log.d(TAG, "candidate result top=${result.take(10).map { it.text }}")
         return result
     }

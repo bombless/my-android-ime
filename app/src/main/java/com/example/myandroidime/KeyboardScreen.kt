@@ -151,6 +151,7 @@ private fun AutoResizeText(
 fun KeyboardScreen(
     composing: String,
     rimeCandidates: List<String>,
+    userDictionaryCandidates: List<String>,
     baiduCandidates: List<String>,
     deepSeekCandidates: List<String>,
     showDeepSeek: Boolean,
@@ -221,6 +222,7 @@ fun KeyboardScreen(
                 verticalArrangement = Arrangement.spacedBy(4.dp)
             ) {
                 CandidateSourceRow("小狼毫", rimeCandidates, onCandidate)
+                CandidateSourceRow("用户词库", userDictionaryCandidates, onCandidate)
                 CandidateSourceRow("百度", baiduCandidates, onCandidate)
                 if (showDeepSeek) {
                     CandidateSourceRow("DeepSeek", deepSeekCandidates, onCandidate)
