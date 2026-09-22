@@ -37,8 +37,9 @@ class BaiduImeSuggest {
         executor.execute {
             val requestStart = System.nanoTime()
             try {
-                val searchPrefix = normalizedContext.takeLast(80)
-                val query = if (searchPrefix.isNotEmpty()) searchPrefix else normalizedPinyin
+                // Active pinyin is the Baidu query; committed context is only for continuation mode.
+                val searchPrefix = if (normalizedPinyin.isEmpty()) normalizedContext.takeLast(80) else ""
+                val query = if (normalizedPinyin.isNotEmpty()) normalizedPinyin else searchPrefix
                 Log.d(TAG, "Baidu request START query='${query.takeLast(80)}' queryLength=${query.length} contextMode=${searchPrefix.isNotEmpty()}")
                 val raw = fetch(query)
                 if (raw == null) {
