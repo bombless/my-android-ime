@@ -157,6 +157,7 @@ fun KeyboardScreen(
     showDeepSeek: Boolean,
     historyCandidates: List<HistoryCandidate>,
     onKey: (String) -> Unit,
+    onEmoji: (String) -> Unit,
     onCandidate: (String) -> Unit
 ) {
     var showPunctuation by remember { mutableStateOf(false) }
@@ -169,7 +170,14 @@ fun KeyboardScreen(
     var showLetters by remember { mutableStateOf(false) }
     var selectedLetterIndex by remember { mutableStateOf(0) }
     var letterWheelCenter by remember { mutableStateOf(Offset.Zero) }
-    val letters = remember { ('A'..'Z').map { it.toString() } }
+    // 长按字母键弹出的双环轮盘改为 26 个常用 emoji；保持 10 + 16 的双环布局。
+    val letters = remember {
+        listOf(
+            "😀", "😂", "😍", "😘", "😊", "😎", "🤔", "😢", "😭", "😡",
+            "👍", "👎", "👏", "🙏", "❤️", "💔", "🔥", "🎉", "✨", "💯",
+            "🤣", "🥰", "😱", "🤗", "🙄", "😴"
+        )
+    }
 
     var keyboardWindowPos by remember { mutableStateOf(Offset.Zero) }
     var keyboardHeightPx by remember { mutableStateOf(0f) }
@@ -311,7 +319,7 @@ fun KeyboardScreen(
                                 onDrag = ::updateLetterSelection,
                                 onRelease = {
                                     if (showLetters) {
-                                        onKey(letters[selectedLetterIndex])
+                                        onEmoji(letters[selectedLetterIndex])
                                         showLetters = false
                                     }
                                 }
@@ -339,7 +347,7 @@ fun KeyboardScreen(
                             onDrag = ::updateLetterSelection,
                             onRelease = {
                                 if (showLetters) {
-                                    onKey(letters[selectedLetterIndex])
+                                    onEmoji(letters[selectedLetterIndex])
                                     showLetters = false
                                 }
                             }

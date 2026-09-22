@@ -122,6 +122,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                             ImeTelemetry.record("history_lookup", System.nanoTime() - t, value.size); value
                         },
                         onKey = ::handleKey,
+                        onEmoji = ::commitEmoji,
                         onCandidate = ::commitCandidate
                     )
                 }
@@ -341,6 +342,29 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         ImeTelemetry.record("commit_candidate", System.nanoTime() - commitStart, text.length)
         Log.d(TAG, "commitCandidate SUCCESS text=$text")
         Log.d(TAG, "composingAfter=${composing.value}")
+    }
+
+    private fun commitEmoji(emoji: String) {
+        val commitStart = System.nanoTime()
+        Log.d(TAG, "commitEmoji emoji=" + emoji + " composingBefore=" + composing.value)
+        deepSeekCandidates.value = emptyList()
+        baiduRevision.intValue++
+        val c = currentInputConnection
+        if (c == null) {
+            Log.w(TAG, "commitEmoji no currentInputConnection emoji=" + emoji)
+            return
+        }
+
+        // Emoji selection is terminal: clear the composing buffer first, then
+        // commit only the selected emoji to the target editor.
+        if (composing.value.isNotEmpty()) {
+            c.setComposingText("", 1)
+            composing.value = ""
+        }
+        c.commitText(emoji, 1)
+        continuationContext.value = c.getTextBeforeCursor(256, 0)?.toString().orEmpty()
+        ImeTelemetry.record("commit_emoji", System.nanoTime() - commitStart, emoji.length)
+        Log.d(TAG, "commitEmoji SUCCESS emoji=" + emoji + " composingAfter=" + composing.value)
     }
 
     private fun logCandidates(pinyin: String): List<com.example.ime.core.Candidate> {
