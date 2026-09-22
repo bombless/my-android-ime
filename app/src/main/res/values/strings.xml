@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Android IME</string>
+    <string name="open_input_method_settings">打开输入法设置</string>
+    <string name="choose_input_method">切换当前输入法</string>
+    <string name="ime_test_title">测试输入框</string>
+    <string name="ime_test_hint">点击这里输入文字，检查键盘是否出现</string>
+    <string name="ime_setup_help">先在系统设置中启用本输入法，再点击“切换当前输入法”选择它。之后在任意可输入文字的文本框中点击，键盘就会弹出。</string>
+    <string name="ime_status_selected">状态：已启用，且当前就是本输入法</string>
+    <string name="ime_status_enabled">状态：已启用，但当前使用的是其他输入法</string>
+    <string name="ime_status_disabled">状态：尚未启用，请打开输入法设置</string>
+</resources>
