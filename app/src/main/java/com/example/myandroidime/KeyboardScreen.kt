@@ -22,7 +22,9 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.unit.TextUnit
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.unit.sp
 import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.foundation.gestures.waitForUpOrCancellation
 
@@ -54,7 +56,12 @@ import androidx.compose.foundation.background
 
     ) {
 
-        Text(label, modifier = Modifier.width(58.dp), maxLines = 1)
+        AutoResizeText(
+            text = label,
+            modifier = Modifier.width(58.dp),
+            maxFontSize = 14.sp,
+            minFontSize = 9.sp
+        )
 
         if (candidates.isEmpty()) {
 
@@ -94,16 +101,12 @@ import androidx.compose.foundation.background
 
                     ) {
 
-                        Text(
-
-                            text,
-
-                            maxLines = 1,
-
-                            softWrap = false,
-
+                        AutoResizeText(
+                            text = text,
+                            modifier = Modifier.fillMaxWidth(),
+                            maxFontSize = 14.sp,
+                            minFontSize = 9.sp,
                             textAlign = TextAlign.Center
-
                         )
 
                     }
@@ -119,6 +122,30 @@ import androidx.compose.foundation.background
 }
 
 
+@Composable
+private fun AutoResizeText(
+    text: String,
+    modifier: Modifier = Modifier,
+    maxFontSize: TextUnit = 14.sp,
+    minFontSize: TextUnit = 9.sp,
+    textAlign: TextAlign = TextAlign.Start
+) {
+    var fontSize by remember(text, maxFontSize, minFontSize) { mutableStateOf(maxFontSize) }
+
+    Text(
+        text = text,
+        modifier = modifier,
+        maxLines = 1,
+        softWrap = false,
+        textAlign = textAlign,
+        fontSize = fontSize,
+        onTextLayout = { result ->
+            if (result.didOverflowWidth && fontSize > minFontSize) {
+                fontSize = (fontSize.value - 1f).coerceAtLeast(minFontSize.value).sp
+            }
+        }
+    )
+}
 
 @Composable
 fun KeyboardScreen(
@@ -349,57 +376,36 @@ private fun RowScope.SpaceKey(
 }
 
 @Composable private fun RowScope.Key(label: String, onClick: (String) -> Unit, weight: Float = 1f) {
-    if (label == "⌫") {
-        Button(
-            onClick = {}, // 点击逻辑完全交给下面的手势处理
-            modifier = Modifier
+    Button(
+        onClick = { onClick(label) },
+        modifier = Modifier
+            .weight(weight)
+            .height(52.dp)
+            .takeIf { label != "⌫" }
+            ?: Modifier
                 .weight(weight)
                 .height(52.dp)
                 .pointerInput(label) {
-                    while (true) {
-                        awaitPointerEventScope {
-                            val down = awaitFirstDown(requireUnconsumed = false)
-                            down.consume()
-                            onClick(label)
-
-                            var repeatCount = 0
-                            var nextRepeatAt = 350L
-                            var elapsed = 0L
-                            while (true) {
-                                val event = awaitPointerEvent()
-                                val up = event.changes.firstOrNull { !it.pressed }
-                                if (up != null) break
-
-                                elapsed += 16L
-                                if (elapsed >= nextRepeatAt) {
-                                    onClick(label)
-                                    repeatCount++
-                                    val interval = when {
-                                        repeatCount < 6 -> 120L
-                                        repeatCount < 14 -> 80L
-                                        else -> 50L
+                    detectTapGestures(
+                        onPress = {
+                            coroutineScope {
+                                val repeatJob = launch {
+                                    delay(400)
+                                    while (true) {
+                                        onClick(label)
+                                        delay(60)
                                     }
-                                    nextRepeatAt += interval
                                 }
+                                tryAwaitRelease()
+                                repeatJob.cancel()
                             }
                         }
-                    }
+                    )
                 },
-            contentPadding = PaddingValues(0.dp)
-        ) {
-            Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-                Text(label, maxLines = 1)
-            }
-        }
-    } else {
-        Button(
-            onClick = { onClick(label) },
-            modifier = Modifier.weight(weight).height(52.dp),
-            contentPadding = PaddingValues(0.dp)
-        ) {
-            Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-                Text(label, maxLines = 1)
-            }
+        contentPadding = PaddingValues(0.dp)
+    ) {
+        Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+            Text(label, maxLines = 1)
         }
     }
 }
