@@ -107,9 +107,10 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                             ImeTelemetry.record("baidu_cache", System.nanoTime() - t, value.size); value
                         },
                         deepSeekCandidates = run {
-                            val t = System.nanoTime(); val value = deepSeekCandidates.value
+                            val t = System.nanoTime(); val value = if (deepSeekAi.isEnabled()) deepSeekCandidates.value else emptyList()
                             ImeTelemetry.record("deepseek_cache", System.nanoTime() - t, value.size); value
                         },
+                        showDeepSeek = deepSeekAi.isEnabled(),
                         historyCandidates = run {
                             val t = System.nanoTime(); val value = inputHistoryStore.candidates(pinyin)
                             ImeTelemetry.record("history_lookup", System.nanoTime() - t, value.size); value
@@ -258,7 +259,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 val candidateStart = System.nanoTime()
                 val candidates = logCandidates(query)
                 ImeTelemetry.record("candidate_query", System.nanoTime() - candidateStart, candidates.size)
-                deepSeekAi.requestIfNeeded(context, query) { result ->
+                if (deepSeekAi.isEnabled()) deepSeekAi.requestIfNeeded(context, query) { result ->
                     val updated = result.map { it.text }
                     if (continuationContext.value == context && composing.value == query) {
                         deepSeekCandidates.value = updated
@@ -320,6 +321,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         val context = c.getTextBeforeCursor(256, 0)?.toString().orEmpty().trim()
         if (context.isEmpty()) return
         continuationContext.value = context
+        if (!deepSeekAi.isEnabled()) return
         Log.d(TAG, "continuation DeepSeek request context=" + context.takeLast(80))
         deepSeekAi.requestIfNeeded(context, "") { result ->
             if (continuationContext.value == context && composing.value.isEmpty()) {

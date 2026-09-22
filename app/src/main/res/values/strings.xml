@@ -11,6 +11,9 @@
     <string name="deepseek_title">DeepSeek AI 词库补全</string>
     <string name="deepseek_api_key_hint">DeepSeek API Key（仅保存在本机）</string>
     <string name="deepseek_save">保存 API Key</string>
+    <string name="deepseek_save_done">API Key 和接口地址已保存</string>
+    <string name="deepseek_endpoint_hint">DeepSeek 接口地址</string>
+    <string name="deepseek_model_hint">DeepSeek 模型</string>
     <string name="deepseek_clear_cache">清空 DeepSeek 补全缓存</string>
     <string name="deepseek_clear_cache_done">DeepSeek 补全缓存已清空</string>
 </resources>

@@ -9,8 +9,11 @@ import android.view.Gravity
 import android.view.ViewGroup
 import android.view.inputmethod.InputMethodManager
 import android.widget.Button
+import android.widget.CheckBox
 import android.widget.EditText
 import android.widget.LinearLayout
+import android.widget.Spinner
+import android.widget.ArrayAdapter
 import android.widget.TextView
 import android.widget.Toast
 
@@ -26,6 +29,8 @@ class MainActivity : Activity() {
     private lateinit var statusView: TextView
     private lateinit var inputMethodManager: InputMethodManager
     private lateinit var deepSeekApiKeyView: EditText
+    private lateinit var deepSeekEndpointView: EditText
+    private lateinit var deepSeekModelView: Spinner
     private lateinit var deepSeekAi: DeepSeekImeAi
 
     private val serviceId: String
@@ -76,10 +81,47 @@ class MainActivity : Activity() {
                 setOnClickListener { inputMethodManager.showInputMethodPicker() }
             }, matchParentWrapContent())
 
+            addView(LinearLayout(context).apply {
+                orientation = LinearLayout.HORIZONTAL
+                gravity = Gravity.CENTER_VERTICAL
+                addView(CheckBox(context).apply {
+                    isChecked = deepSeekAi.isEnabled()
+                    setOnCheckedChangeListener { _, checked -> deepSeekAi.saveEnabled(checked) }
+                }, LinearLayout.LayoutParams(
+                    ViewGroup.LayoutParams.WRAP_CONTENT,
+                    ViewGroup.LayoutParams.WRAP_CONTENT,
+                ))
+                addView(TextView(context).apply {
+                    text = getString(R.string.deepseek_title)
+                    textSize = 16f
+                    setPadding(0, spacing, 0, spacing / 2)
+                }, LinearLayout.LayoutParams(
+                    0,
+                    ViewGroup.LayoutParams.WRAP_CONTENT,
+                    1f,
+                ))
+            }, matchParentWrapContent())
+
+            addView(EditText(context).also { deepSeekEndpointView = it }.apply {
+                hint = getString(R.string.deepseek_endpoint_hint)
+                inputType = android.text.InputType.TYPE_CLASS_TEXT or
+                    android.text.InputType.TYPE_TEXT_VARIATION_URI
+                setSingleLine(true)
+                setText(deepSeekAi.endpoint())
+            }, matchParentWrapContent())
+
             addView(TextView(context).apply {
-                text = getString(R.string.deepseek_title)
-                textSize = 16f
-                setPadding(0, spacing, 0, spacing / 2)
+                text = getString(R.string.deepseek_model_hint)
+                setPadding(0, spacing / 2, 0, spacing / 4)
+            }, matchParentWrapContent())
+
+            addView(Spinner(context).also { deepSeekModelView = it }.apply {
+                adapter = ArrayAdapter(
+                    this@MainActivity,
+                    android.R.layout.simple_spinner_item,
+                    listOf("DeepSeek-V4.1-Flash", "deepseek-flash"),
+                ).also { it.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item) }
+                setSelection(if (deepSeekAi.model() == "deepseek-flash") 1 else 0)
             }, matchParentWrapContent())
 
             addView(EditText(context).also { deepSeekApiKeyView = it }.apply {
@@ -92,7 +134,17 @@ class MainActivity : Activity() {
 
             addView(Button(context).apply {
                 text = getString(R.string.deepseek_save)
-                setOnClickListener { deepSeekAi.saveApiKey(deepSeekApiKeyView.text.toString()) }
+                setOnClickListener {
+                    deepSeekAi.saveApiKey(deepSeekApiKeyView.text.toString())
+                    deepSeekAi.saveEndpoint(deepSeekEndpointView.text.toString())
+                    deepSeekAi.saveModel(deepSeekModelView.selectedItem.toString())
+                    deepSeekEndpointView.setText(deepSeekAi.endpoint())
+                    Toast.makeText(
+                        this@MainActivity,
+                        getString(R.string.deepseek_save_done),
+                        Toast.LENGTH_SHORT,
+                    ).show()
+                }
             }, matchParentWrapContent())
 
             addView(Button(context).apply {

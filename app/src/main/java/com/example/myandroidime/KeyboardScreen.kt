@@ -153,6 +153,7 @@ fun KeyboardScreen(
     rimeCandidates: List<String>,
     baiduCandidates: List<String>,
     deepSeekCandidates: List<String>,
+    showDeepSeek: Boolean,
     historyCandidates: List<HistoryCandidate>,
     onKey: (String) -> Unit,
     onCandidate: (String) -> Unit
@@ -221,7 +222,9 @@ fun KeyboardScreen(
             ) {
                 CandidateSourceRow("小狼毫", rimeCandidates, onCandidate)
                 CandidateSourceRow("百度", baiduCandidates, onCandidate)
-                CandidateSourceRow("DeepSeek", deepSeekCandidates, onCandidate)
+                if (showDeepSeek) {
+                    CandidateSourceRow("DeepSeek", deepSeekCandidates, onCandidate)
+                }
                 CandidateSourceRow(
                     "历史输入",
                     historyCandidates.map { "${it.text} (${it.count})" },

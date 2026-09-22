@@ -20,9 +20,12 @@ class DeepSeekImeAi(context: Context) {
         private const val TAG = "MyAndroidIME"
         private const val PREFS = "deepseek_ime"
         private const val API_KEY = "api_key"
+        private const val ENDPOINT_KEY = "endpoint"
         private const val PATCH_FILE = "deepseek-ime-patches.json"
-        private const val MODEL = "deepseek-flash"
-        private const val ENDPOINT = "https://api.deepseek.com/beta/chat/completions"
+        private const val MODEL_KEY = "model"
+        private const val ENABLED_KEY = "enabled"
+        private const val DEFAULT_MODEL = "DeepSeek-V4.1-Flash"
+        private const val DEFAULT_ENDPOINT = "https://api.deepseek.com/chat/completions"
         private val FEW_SHOT = listOf(
             "w->我,为,五,玩,哇,王,问",
             "q->请,去,其,前,却,钱,七",
@@ -43,6 +46,24 @@ class DeepSeekImeAi(context: Context) {
 
     fun apiKey(): String = prefs.getString(API_KEY, "").orEmpty()
     fun saveApiKey(value: String) { prefs.edit().putString(API_KEY, value.trim()).apply() }
+    fun isEnabled(): Boolean = prefs.getBoolean(ENABLED_KEY, true)
+    fun saveEnabled(value: Boolean) { prefs.edit().putBoolean(ENABLED_KEY, value).apply() }
+    fun model(): String = prefs.getString(MODEL_KEY, DEFAULT_MODEL).orEmpty().ifBlank { DEFAULT_MODEL }
+    fun saveModel(value: String) {
+        val selected = if (value == "deepseek-flash") "deepseek-flash" else DEFAULT_MODEL
+        prefs.edit().putString(MODEL_KEY, selected).apply()
+    }
+    fun endpoint(): String = prefs.getString(ENDPOINT_KEY, DEFAULT_ENDPOINT).orEmpty()
+    fun saveEndpoint(value: String) {
+        val normalized = value.trim().trimEnd('/')
+        val endpoint = when {
+            normalized.isBlank() -> DEFAULT_ENDPOINT
+            normalized.endsWith("/v1") -> "$normalized/chat/completions"
+            normalized.endsWith("/chat/completions") -> normalized
+            else -> normalized
+        }
+        prefs.edit().putString(ENDPOINT_KEY, endpoint).apply()
+    }
     fun clearAllPatches() {
         patches.clear()
         if (patchFile.exists()) patchFile.delete()
@@ -53,39 +74,25 @@ class DeepSeekImeAi(context: Context) {
     fun candidates(context: String, pinyin: String): List<Candidate> = patches[cacheKey(context, pinyin)].orEmpty()
 
     /**
-     * Pinyin-mode requests are cacheable. Completion requests (empty pinyin)
-     * are deliberately never read from or written to the persistent cache.
+     * All DeepSeek suggestions use the standard Chat Completions API.
+     * Pinyin conversion and context continuation are both represented as
+     * structured tool calls; no pinyin-specific patch/cache is used.
      */
     fun requestIfNeeded(context: String, pinyin: String, onUpdated: (List<Candidate>) -> Unit = {}) {
         val normalizedContext = context.trim()
         val normalizedPinyin = pinyin.trim().lowercase(Locale.ROOT)
         val key = cacheKey(normalizedContext, normalizedPinyin)
-        val cacheable = normalizedPinyin.isNotEmpty()
-        val cached = if (cacheable) patches[key].orEmpty() else emptyList()
-        val cacheHit = cacheable && cached.isNotEmpty()
-        Log.d(TAG, "DeepSeek requestIfNeeded context='${normalizedContext.takeLast(80)}' pinyin='$normalizedPinyin' mode=${if (cacheable) "pinyin_cacheable" else "completion_no_cache"} cacheHit=$cacheHit cachedCount=${cached.size} cachedValues=${cached.take(12).map { it.text }}")
+        Log.d(TAG, "DeepSeek requestIfNeeded context='${normalizedContext.takeLast(80)}' pinyin='$normalizedPinyin' mode=${if (normalizedPinyin.isEmpty()) "continuation" else "pinyin"}")
         if (apiKey().isBlank()) { Log.w(TAG, "DeepSeek SKIP reason=api_key_missing"); return }
-        if (cacheHit) {
-            Log.d(TAG, "DeepSeek SKIP reason=cache_hit cachedCount=${cached.size} cachedValues=${cached.take(12).map { it.text }}")
-            Handler(Looper.getMainLooper()).post { onUpdated(cached) }
-            return
-        }
         if (!inFlight.add(key)) { Log.d(TAG, "DeepSeek SKIP reason=already_in_flight"); return }
-        Log.d(TAG, "DeepSeek REQUEST queued context='${normalizedContext.takeLast(80)}' pinyin='$normalizedPinyin' cacheWrite=$cacheable")
+        Log.d(TAG, "DeepSeek REQUEST queued context='${normalizedContext.takeLast(80)}' pinyin='$normalizedPinyin'")
         executor.execute {
             val requestStart = System.nanoTime()
             try {
-                Log.d(TAG, "DeepSeek FETCH start endpoint=$ENDPOINT model=$MODEL")
+                Log.d(TAG, "DeepSeek FETCH start endpoint=${endpoint()} model=${model()}")
                 val fetched = fetch(normalizedContext, normalizedPinyin)
                 Log.d(TAG, "DeepSeek FETCH returned count=${fetched?.size ?: -1} values=${fetched?.take(12)?.map { it.text }}")
                 fetched?.takeIf { it.isNotEmpty() }?.let { result ->
-                    if (cacheable) {
-                        patches[key] = result
-                        savePatches()
-                        Log.d(TAG, "DeepSeek PATCH saved context='${normalizedContext.takeLast(40)}' pinyin=$normalizedPinyin count=${result.size} top=${result.take(9).map { it.text }}")
-                    } else {
-                        Log.d(TAG, "DeepSeek COMPLETION result not cached context='${normalizedContext.takeLast(40)}' count=${result.size} top=${result.take(9).map { it.text }}")
-                    }
                     Handler(Looper.getMainLooper()).post { onUpdated(result) }
                 } ?: Log.w(TAG, "DeepSeek FETCH produced no candidates pinyin=$normalizedPinyin")
                 ImeTelemetry.record("deepseek_request", System.nanoTime() - requestStart, normalizedPinyin.length, "ok")
@@ -97,13 +104,19 @@ class DeepSeekImeAi(context: Context) {
     }
 
     private fun fetch(context: String, pinyin: String): List<Candidate>? {
+        val mode = if (pinyin.isBlank()) "continuation" else "pinyin"
         val prompt = buildString {
-            append("你是中文输入法的连续补全器。")
-            append("根据已有中文上下文和当前输入，给出最可能的中文续写候选。")
-            append("候选必须是用户已有上下文之后新增的词或短语，绝对不要重复上下文。")
-            append("直接调用 suggest_candidates 工具返回候选，不要输出自然语言。\n")
+            append("你是中文输入法候选生成器。")
+            if (mode == "pinyin") {
+                append("当前是拼音输入模式：根据拼音和已有中文上下文，给出最可能对应的中文词或短语。")
+                append("候选应完整对应当前拼音，不要把拼音本身返回给用户。")
+            } else {
+                append("当前是连续补全模式：给出已有中文上下文之后最可能出现的中文续写词或短语。")
+                append("候选必须是上下文之后新增的内容，绝对不要重复上下文。")
+            }
+            append("必须直接调用 suggest_candidates 工具返回候选，不要输出自然语言。\n")
             append("已有上下文：").append(context.takeLast(120)).append("\n")
-            append("当前输入：").append(pinyin.ifBlank { "无新的拼音，直接预测上下文后的续写" }).append("\n")
+            append("当前拼音：").append(pinyin.ifBlank { "无新的拼音" }).append("\n")
         }
         val messages = JSONArray()
             .put(JSONObject().put("role", "system").put("content", "你是中文输入法候选生成器。必须调用 suggest_candidates 工具。"))
@@ -112,7 +125,7 @@ class DeepSeekImeAi(context: Context) {
             .put("type", "function")
             .put("function", JSONObject()
                 .put("name", "suggest_candidates")
-                .put("description", "返回中文输入法的续写候选。只返回上下文之后新增的中文词或短语。")
+                .put("description", "返回中文输入法候选。拼音模式返回匹配当前拼音的中文词或短语；连续补全模式只返回上下文之后新增的中文续写。")
                 .put("strict", true)
                 .put("parameters", JSONObject()
                     .put("type", "object")
@@ -123,14 +136,14 @@ class DeepSeekImeAi(context: Context) {
                             .put("items", JSONObject().put("type", "string"))))
                     .put("required", JSONArray().put("candidates"))
                     .put("additionalProperties", false)))
-        val body = JSONObject().put("model", MODEL).put("messages", messages)
+        val body = JSONObject().put("model", model()).put("messages", messages)
             .put("tools", JSONArray().put(tool))
             .put("tool_choice", JSONObject().put("type", "function").put("function", JSONObject().put("name", "suggest_candidates")))
             .put("max_tokens", 256).put("temperature", 0.2)
             .put("thinking", JSONObject().put("type", "disabled")).toString()
         logLarge("DeepSeek HTTP REQUEST BODY", body)
 
-        val connection = (URL(ENDPOINT).openConnection() as HttpURLConnection).apply {
+        val connection = (URL(endpoint()).openConnection() as HttpURLConnection).apply {
             requestMethod = "POST"; connectTimeout = 4000; readTimeout = 8000; doOutput = true
             setRequestProperty("Authorization", "Bearer ${apiKey()}")
             setRequestProperty("Content-Type", "application/json")
@@ -194,7 +207,7 @@ class DeepSeekImeAi(context: Context) {
             for (i in 0 until array.length()) {
                 val value = array.optString(i).trim()
                 if (value.isNotEmpty() && value.length <= 8) {
-                    val suffix = value.removePrefix(context).trim()
+                    val suffix = if (pinyin.isNotBlank()) value else value.removePrefix(context).trim()
                     val accepted = suffix.isNotEmpty() && suffix.all { ch ->
                         ch.code in 0x3400..0x9FFF || ch.code in 0xF900..0xFAFF
                     }
