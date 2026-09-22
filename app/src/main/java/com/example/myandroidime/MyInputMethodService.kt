@@ -159,8 +159,58 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         if (c == null) { Log.w(TAG, "handleKey no currentInputConnection key=$key"); return }
         when (key) {
             "⌫" -> if (composing.value.isNotEmpty()) { composing.value = composing.value.dropLast(1); Log.d(TAG, "composingAfter=${composing.value}"); Log.d(TAG, "setComposingText text=${composing.value}"); c.setComposingText(composing.value, 1) } else { Log.d(TAG, "deleteSurroundingTextInCodePoints"); c.deleteSurroundingTextInCodePoints(1, 0) }
-            "↵" -> if (composing.value.isNotEmpty()) { val result = logCandidates(composing.value); val candidate = result.firstOrNull(); if (candidate != null) { Log.d(TAG, "enter commit candidate=${candidate.text}"); commitCandidate(candidate.text) } else { Log.d(TAG, "enter commit raw composing=${composing.value}"); Log.d(TAG, "commitText text=${composing.value}"); c.commitText(composing.value, 1); composing.value = ""; Log.d(TAG, "composingAfter=${composing.value}") } } else { Log.d(TAG, "enter commit newline"); Log.d(TAG, "commitText text=\\n"); c.commitText("\n", 1) }
-            "空格" -> { Log.d(TAG, "commitText text= "); c.commitText(" ", 1) }
+            "↵" -> if (composing.value.isNotEmpty()) {
+                val text = composing.value
+                if (text.all { it in 'A'..'Z' || it in 'a'..'z' }) {
+                    // Latin letters should be committed literally on Enter rather
+                    // than being converted through the candidate list.
+                    Log.d(TAG, "enter commit raw latin composing=$text")
+                    c.commitText(text, 1)
+                    composing.value = ""
+                    Log.d(TAG, "composingAfter=${composing.value}")
+                } else {
+                    val result = logCandidates(text)
+                    val candidate = result.firstOrNull()
+                    if (candidate != null) {
+                        Log.d(TAG, "enter commit candidate=${candidate.text}")
+                        commitCandidate(candidate.text)
+                    } else {
+                        Log.d(TAG, "enter commit raw composing=$text")
+                        Log.d(TAG, "commitText text=$text")
+                        c.commitText(text, 1)
+                        composing.value = ""
+                        Log.d(TAG, "composingAfter=${composing.value}")
+                    }
+                }
+            } else {
+                Log.d(TAG, "enter commit newline")
+                Log.d(TAG, "commitText text=\\n")
+                c.commitText("\n", 1)
+            }
+            "空格" -> {
+                // Space is a terminal commit action.  Do not leave the pinyin
+                // composing buffer alive after committing the space, otherwise
+                // a following backspace edits the stale pinyin (e.g. "why" ->
+                // "wh") instead of deleting the committed space from the
+                // editor.  This is the same lifecycle as Enter/punctuation.
+                if (composing.value.isNotEmpty()) {
+                    val text = composing.value
+                    val result = logCandidates(text)
+                    val candidate = result.firstOrNull()
+                    if (candidate != null) {
+                        Log.d(TAG, "space commit candidate=${candidate.text}")
+                        commitCandidate(candidate.text)
+                    } else {
+                        Log.d(TAG, "space commit raw composing=$text")
+                        c.commitText(text, 1)
+                        composing.value = ""
+                        Log.d(TAG, "composingAfter=${composing.value}")
+                    }
+                }
+                Log.d(TAG, "commitText text= ")
+                c.commitText(" ", 1)
+                continuationContext.value = c.getTextBeforeCursor(256, 0)?.toString().orEmpty()
+            }
             "，", "。", "、", "；", "：", "？", "！", "《", "》", "（", "）" -> {
                 // Punctuation-wheel selections are terminal actions: commit the
                 // current composing text (using its first candidate when one

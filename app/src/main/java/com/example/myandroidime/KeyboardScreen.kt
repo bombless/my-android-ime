@@ -376,36 +376,55 @@ private fun RowScope.SpaceKey(
 }
 
 @Composable private fun RowScope.Key(label: String, onClick: (String) -> Unit, weight: Float = 1f) {
-    Button(
-        onClick = { onClick(label) },
-        modifier = Modifier
-            .weight(weight)
-            .height(52.dp)
-            .takeIf { label != "⌫" }
-            ?: Modifier
+    if (label == "⌫") {
+        Button(
+            onClick = {}, // 点击逻辑完全交给下面的手势处理
+            modifier = Modifier
                 .weight(weight)
                 .height(52.dp)
                 .pointerInput(label) {
                     detectTapGestures(
                         onPress = {
+                            onClick(label)
                             coroutineScope {
                                 val repeatJob = launch {
-                                    delay(400)
-                                    while (true) {
+                                    delay(350L)
+                                    var repeatCount = 0
+                                    while (isActive) {
                                         onClick(label)
-                                        delay(60)
+                                        repeatCount++
+                                        val interval = when {
+                                            repeatCount < 6 -> 120L
+                                            repeatCount < 14 -> 80L
+                                            else -> 50L
+                                        }
+                                        delay(interval)
                                     }
                                 }
-                                tryAwaitRelease()
-                                repeatJob.cancel()
+                                try {
+                                    tryAwaitRelease()
+                                } finally {
+                                    repeatJob.cancel()
+                                }
                             }
                         }
                     )
                 },
-        contentPadding = PaddingValues(0.dp)
-    ) {
-        Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-            Text(label, maxLines = 1)
+            contentPadding = PaddingValues(0.dp)
+        ) {
+            Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                Text(label, maxLines = 1)
+            }
+        }
+    } else {
+        Button(
+            onClick = { onClick(label) },
+            modifier = Modifier.weight(weight).height(52.dp),
+            contentPadding = PaddingValues(0.dp)
+        ) {
+            Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                Text(label, maxLines = 1)
+            }
         }
     }
 }
