@@ -53,7 +53,6 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     override fun onCreate() {
         Log.d(TAG, "onCreate START")
         super.onCreate()
-        ImeTelemetry.start()
         deepSeekAi = DeepSeekImeAi(applicationContext)
         baiduSuggest = BaiduImeSuggest()
         inputHistoryStore = InputHistoryStore(applicationContext)
@@ -132,7 +131,6 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     }
 
     override fun onDestroy() {
-        ImeTelemetry.stop()
         if (::lifecycleRegistry.isInitialized) {
             lifecycleRegistry.handleLifecycleEvent(Lifecycle.Event.ON_DESTROY)
         }
