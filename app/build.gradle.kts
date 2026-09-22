@@ -6,10 +6,20 @@ plugins {
 android {
     namespace = "com.example.myandroidime"
     compileSdk = 35
-    compileOptions { sourceCompatibility = JavaVersion.VERSION_24; targetCompatibility = JavaVersion.VERSION_24 }
+    compileOptions { sourceCompatibility = JavaVersion.VERSION_24; targetCompatibility = JavaVersion.VERSION_17 }
     defaultConfig { applicationId = "com.example.myandroidime"; minSdk = 26; targetSdk = 35; versionCode = 1; versionName = "0.1.0" }
+    
+    compileOptions {
+        sourceCompatibility = JavaVersion.VERSION_17
+        targetCompatibility = JavaVersion.VERSION_17
+    }
+
+    kotlinOptions {
+        jvmTarget = "17"
+    }
 }
 dependencies {
+    implementation(project(":ime-core"))
     implementation(platform("androidx.compose:compose-bom:2025.08.01"))
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.foundation:foundation")
