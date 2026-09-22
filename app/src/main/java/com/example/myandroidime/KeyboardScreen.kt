@@ -22,6 +22,15 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
+import androidx.compose.ui.platform.LocalDensity
+import androidx.compose.foundation.gestures.waitForUpOrCancellation
+
+import androidx.compose.ui.layout.onGloballyPositioned
+import androidx.compose.ui.layout.positionInRoot
+import androidx.compose.ui.geometry.Offset
+import kotlin.math.cos
+import kotlin.math.sin
+import kotlin.math.atan2
 
 @Composable fun KeyboardScreen(composing: String, rimeCandidates: List<String>, baiduCandidates: List<String>, deepSeekCandidates: List<String>, onKey: (String) -> Unit, onCandidate: (String) -> Unit) {
     LaunchedEffect(composing, rimeCandidates, baiduCandidates, deepSeekCandidates) { android.util.Log.d("MyAndroidIME", "KeyboardScreen composing=$composing rime=${rimeCandidates.take(5)} baidu=${baiduCandidates.take(5)} deepseek=${deepSeekCandidates.take(5)}") }
@@ -106,36 +115,72 @@ import androidx.compose.ui.unit.dp
         }
     }
 }
-
-@Composable private fun RowScope.SpaceKey(
+@Composable
+private fun RowScope.SpaceKey(
     onSpace: (String) -> Unit,
     onCommitText: (String) -> Unit,
     weight: Float = 1f
 ) {
     var showPunctuation by remember { mutableStateOf(false) }
-    var selectedIndex by remember { mutableStateOf(1) }
-    val punctuation = listOf("，", "。", "、", "；", "：", "？", "！", "《", "》", "（", "）")
-    val arcRadius = 178f
-    val arcCenterX = 24f
-    val arcCenterY = 210f
+    var selectedIndex by remember { mutableStateOf(0) }
+    val punctuation = remember { listOf("，", "。", "、", "；", "：", "？", "！", "《", "》", "（", "）") }
+    val density = LocalDensity.current
 
-    fun selectByPosition(x: Float, y: Float) {
-        val dx = x - arcCenterX
-        val dy = y - arcCenterY
-        val distance = kotlin.math.sqrt(dx * dx + dy * dy)
-        if (distance < 80f) return
+    // 空格键在自身的局部尺寸（像素）
+    var keyWidthPx by remember { mutableStateOf(0f) }
+    var keyHeightPx by remember { mutableStateOf(0f) }
 
-        // Upper-right quarter arc: -90° .. 0° in screen coordinates.
-        val angle = Math.toDegrees(kotlin.math.atan2(dy, dx).toDouble()).toFloat()
-        val normalized = ((angle + 90f).coerceIn(0f, 90f)) / 90f
-        selectedIndex = (normalized * (punctuation.lastIndex)).toInt()
-            .coerceIn(0, punctuation.lastIndex)
+    // 气泡项尺寸（dp -> px）
+    val itemSizeDp = 44.dp
+    val itemSizePx = with(density) { itemSizeDp.toPx() }
+
+    // 动态计算圆弧半径：基于空格键宽度的比例，且设定上下限
+    // 这样在手机、折叠屏、横屏上都能自适应大小
+    val arcRadiusPx = remember(keyWidthPx) {
+        if (keyWidthPx > 0) {
+            (keyWidthPx * 1.1f).coerceIn(180.dp.value * density.density, 320.dp.value * density.density)
+        } else {
+            220.dp.value * density.density
+        }
+    }
+
+    // 圆心坐标（以空格键自身坐标系为基准：X为按键水平中点，Y为按键顶部）
+    val arcCenterLocalX = keyWidthPx / 2f
+    val arcCenterLocalY = 0f
+
+    // 选中的角度/距离测算（在空格键本地坐标系内直接计算）
+    fun selectByPosition(pointerX: Float, pointerY: Float) {
+        val dx = pointerX - arcCenterLocalX
+        val dy = pointerY - arcCenterLocalY
+
+        // 手指离圆心太近时不误触，也可以直接测算最近的标点项
+        var nearestIndex = selectedIndex
+        var nearestDistance = Float.MAX_VALUE
+
+        punctuation.indices.forEach { index ->
+            val t = index.toFloat() / (punctuation.size - 1)
+            // 角度从 -170° 到 -10°（预留两端边距，避免贴平）
+            val angleRad = Math.toRadians(-170.0 + 160.0 * t)
+            val targetX = arcCenterLocalX + arcRadiusPx * cos(angleRad).toFloat()
+            val targetY = arcCenterLocalY + arcRadiusPx * sin(angleRad).toFloat()
+
+            val dist = (pointerX - targetX) * (pointerX - targetX) + (pointerY - targetY) * (pointerY - targetY)
+            if (dist < nearestDistance) {
+                nearestDistance = dist
+                nearestIndex = index
+            }
+        }
+        selectedIndex = nearestIndex
     }
 
     Box(
         modifier = Modifier
             .weight(weight)
             .height(52.dp)
+            .onGloballyPositioned { coordinates ->
+                keyWidthPx = coordinates.size.width.toFloat()
+                keyHeightPx = coordinates.size.height.toFloat()
+            }
     ) {
         Button(
             onClick = {},
@@ -151,7 +196,7 @@ import androidx.compose.ui.unit.dp
                             onSpace("空格")
                         } else {
                             showPunctuation = true
-                            selectedIndex = 1
+                            selectedIndex = punctuation.size / 2 // 长按默认高亮正中间
 
                             drag(down.id) { change ->
                                 selectByPosition(change.position.x, change.position.y)
@@ -170,49 +215,47 @@ import androidx.compose.ui.unit.dp
             }
         }
 
+        // 浮层挂在空格键内部，使用绝对像素偏移渲染，不受限于外层写死的 690dp 宽度
         if (showPunctuation) {
             Box(
                 modifier = Modifier
-                    .align(Alignment.BottomStart)
-                    .offset(x = (-8).dp, y = (-42).dp)
-                    .size(250.dp)
+                    .fillMaxSize()
             ) {
-                Box(Modifier.fillMaxSize()) {
-                    // A large quarter-circle fan gives each punctuation mark much
-                    // more physical room for the thumb to target.
-                    punctuation.forEachIndexed { index, symbol ->
-                        val t = index.toFloat() / punctuation.lastIndex
-                        val angle = Math.toRadians((-90.0 + 90.0 * t))
-                        val x = arcCenterX + arcRadius * kotlin.math.cos(angle).toFloat()
-                        val y = arcCenterY + arcRadius * kotlin.math.sin(angle).toFloat()
-                        val selected = index == selectedIndex
+                punctuation.forEachIndexed { index, symbol ->
+                    val t = index.toFloat() / (punctuation.size - 1)
+                    val angleRad = Math.toRadians(-170.0 + 160.0 * t)
+                    // 计算每个标点中心相对于空格键左上角的像素坐标
+                    val centerX = arcCenterLocalX + arcRadiusPx * cos(angleRad).toFloat()
+                    val centerY = arcCenterLocalY + arcRadiusPx * sin(angleRad).toFloat()
 
-                        Surface(
-                            modifier = Modifier
-                                .offset(
-                                    x = (x - 24f - 25f).dp,
-                                    y = (y - 210f - 25f).dp
-                                )
-                                .size(50.dp),
-                            shape = MaterialTheme.shapes.large,
-                            color = if (selected) {
-                                MaterialTheme.colorScheme.primaryContainer
-                            } else {
-                                MaterialTheme.colorScheme.surface
-                            },
-                            tonalElevation = if (selected) 6.dp else 1.dp
-                        ) {
-                            Box(contentAlignment = Alignment.Center) {
-                                Text(
-                                    symbol,
-                                    style = MaterialTheme.typography.titleLarge,
-                                    color = if (selected) {
-                                        MaterialTheme.colorScheme.onPrimaryContainer
-                                    } else {
-                                        MaterialTheme.colorScheme.onSurface
-                                    }
-                                )
-                            }
+                    // 转为左上角像素并换算成 Dp
+                    val offsetX = with(density) { (centerX - itemSizePx / 2f).toDp() }
+                    val offsetY = with(density) { (centerY - itemSizePx / 2f).toDp() }
+
+                    val selected = index == selectedIndex
+
+                    Surface(
+                        modifier = Modifier
+                            .offset(x = offsetX, y = offsetY)
+                            .size(itemSizeDp),
+                        shape = MaterialTheme.shapes.medium,
+                        color = if (selected) {
+                            MaterialTheme.colorScheme.primaryContainer
+                        } else {
+                            MaterialTheme.colorScheme.surfaceVariant
+                        },
+                        tonalElevation = if (selected) 8.dp else 2.dp
+                    ) {
+                        Box(contentAlignment = Alignment.Center) {
+                            Text(
+                                text = symbol,
+                                style = MaterialTheme.typography.titleMedium,
+                                color = if (selected) {
+                                    MaterialTheme.colorScheme.onPrimaryContainer
+                                } else {
+                                    MaterialTheme.colorScheme.onSurfaceVariant
+                                }
+                            )
                         }
                     }
                 }
@@ -220,39 +263,62 @@ import androidx.compose.ui.unit.dp
         }
     }
 }
-@Composable private fun RowScope.Key(label:String,onClick:(String)->Unit,weight:Float=1f) {
-    Button(
-        onClick = { onClick(label) },
-        modifier = Modifier
-            .weight(weight)
-            .height(52.dp)
-            .takeIf { label != "⌫" }
-            ?: Modifier
+
+@Composable private fun RowScope.Key(label: String, onClick: (String) -> Unit, weight: Float = 1f) {
+    if (label == "⌫") {
+        Button(
+            onClick = {}, // 点击逻辑完全交给下面的手势处理
+            modifier = Modifier
                 .weight(weight)
                 .height(52.dp)
                 .pointerInput(label) {
-                    detectTapGestures(
-                        onPress = {
-                            coroutineScope {
-                                val repeatJob = launch {
-                                    delay(400)
-                                    while (true) {
-                                        onClick(label)
-                                        delay(60)
-                                    }
-                                }
-                                tryAwaitRelease()
-                                repeatJob.cancel()
+                    coroutineScope { // 外层是普通协程作用域，launch/delay 都能用
+                        while (true) {
+                            // 只在受限作用域内做指针相关的挂起调用
+                            awaitPointerEventScope {
+                                val down = awaitFirstDown(requireUnconsumed = false)
+                                down.consume() // 提前消费掉，防止 Button 内置 clickable 抢事件
                             }
+
+                            onClick(label) // 按下立即删一次
+
+                            val repeatJob = launch {
+                                delay(350)
+                                var repeatCount = 0
+                                while (true) {
+                                    onClick(label)
+                                    repeatCount++
+                                    val interval = when {
+                                        repeatCount < 6 -> 120L
+                                        repeatCount < 14 -> 80L
+                                        else -> 50L
+                                    }
+                                    delay(interval)
+                                }
+                            }
+
+                            awaitPointerEventScope {
+                                waitForUpOrCancellation() // 等待抬起或手势被取消
+                            }
+                            repeatJob.cancel()
                         }
-                    )
+                    }
                 },
-        contentPadding = PaddingValues(0.dp)
-    ) {
-        Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
-            Text(label, maxLines = 1)
+            contentPadding = PaddingValues(0.dp)
+        ) {
+            Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                Text(label, maxLines = 1)
+            }
+        }
+    } else {
+        Button(
+            onClick = { onClick(label) },
+            modifier = Modifier.weight(weight).height(52.dp),
+            contentPadding = PaddingValues(0.dp)
+        ) {
+            Box(Modifier.fillMaxSize(), contentAlignment = Alignment.Center) {
+                Text(label, maxLines = 1)
+            }
         }
     }
 }
-
-
