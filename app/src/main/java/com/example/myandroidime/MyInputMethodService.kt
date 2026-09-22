@@ -187,6 +187,12 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 continuationContext.value = punctuationContext
                 Log.d(TAG, "punctuation continuation prefix=${punctuationContext.takeLast(80)}")
                 if (punctuationContext.isNotEmpty()) {
+                    // Punctuation is also a completion trigger: after committing
+                    // it, ask DeepSeek for the next continuation using the full
+                    // committed prefix (including the punctuation). This mirrors
+                    // the candidate-selection path and avoids leaving DeepSeek
+                    // stale after punctuation-wheel input.
+                    requestDeepSeekContinuation(c)
                     baiduSuggest.requestIfNeeded(punctuationContext, "") { baiduRevision.intValue++ }
                 }
             }
