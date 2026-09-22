@@ -23,4 +23,18 @@ class RimeDictionaryTest {
         assertEquals(listOf("我", "我们"), candidates.map { it.text })
         assertEquals(30, candidates.first().weight)
     }
+
+    @Test
+    fun matchesContiguousPinyinAgainstSpacedRimeSyllables() {
+        val yaml = listOf(
+            "---",
+            "name: test",
+            "...",
+            "你好\tni hao\t100",
+        ).joinToString("\n")
+
+        val dictionary = RimeDictionary.fromStreams(listOf(yaml.byteInputStream()))
+
+        assertEquals("你好", dictionary.candidates("nihao").first().text)
+    }
 }

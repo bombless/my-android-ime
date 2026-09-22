@@ -10,19 +10,39 @@ class RimeDictionary private constructor(
     private val byPinyin: MutableMap<String, MutableList<Candidate>>,
     private val shardSource: ShardSource? = null,
 ) {
+    private val byCompactPinyin = HashMap<String, MutableList<Candidate>>()
     private val loadedInitials = HashSet<Char>()
+
+    init {
+        rebuildCompactIndex()
+    }
+
+    private fun rebuildCompactIndex() {
+        byCompactPinyin.clear()
+        byPinyin.forEach { (pinyin, candidates) ->
+            byCompactPinyin.getOrPut(pinyin.replace(" ", "")) { mutableListOf() }.addAll(candidates)
+        }
+    }
 
     fun candidates(input: String, limit: Int = 9): List<Candidate> {
         val key = input.trim().lowercase(Locale.ROOT)
         if (key.isEmpty()) return emptyList()
         ensureLoaded(key.first())
-        return byPinyin[key].orEmpty().take(limit)
+        return (byPinyin[key] ?: byCompactPinyin[key.replace(" ", "")]).orEmpty().take(limit)
     }
 
     fun candidatesForPrefix(input: String, limit: Int = 9): List<Candidate> {
         val key = input.trim().lowercase(Locale.ROOT)
         if (key.isEmpty()) return emptyList()
         ensureLoaded(key.first())
+        if (!key.contains(' ')) {
+            return byCompactPinyin.asSequence()
+                .filter { it.key.startsWith(key) }
+                .flatMap { it.value.asSequence() }
+                .sortedByDescending { it.weight }
+                .take(limit)
+                .toList()
+        }
         return byPinyin.asSequence()
             .filter { it.key.startsWith(key) }
             .flatMap { it.value.asSequence() }
@@ -39,6 +59,7 @@ class RimeDictionary private constructor(
                 source.open(path).bufferedReader(Charsets.UTF_8).use { readInto(it, byPinyin) }
             }
             normalize(byPinyin)
+            rebuildCompactIndex()
         }
     }
 
