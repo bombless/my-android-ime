@@ -139,6 +139,25 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
             "⌫" -> if (composing.value.isNotEmpty()) { composing.value = composing.value.dropLast(1); Log.d(TAG, "composingAfter=${composing.value}"); Log.d(TAG, "setComposingText text=${composing.value}"); c.setComposingText(composing.value, 1) } else { Log.d(TAG, "deleteSurroundingText"); c.deleteSurroundingText(1, 0) }
             "↵" -> if (composing.value.isNotEmpty()) { val result = logCandidates(composing.value); val candidate = result.firstOrNull(); if (candidate != null) { Log.d(TAG, "enter commit candidate=${candidate.text}"); commitCandidate(candidate.text) } else { Log.d(TAG, "enter commit raw composing=${composing.value}"); Log.d(TAG, "commitText text=${composing.value}"); c.commitText(composing.value, 1); composing.value = ""; Log.d(TAG, "composingAfter=${composing.value}") } } else { Log.d(TAG, "enter commit newline"); Log.d(TAG, "commitText text=\\n"); c.commitText("\n", 1) }
             "空格" -> { Log.d(TAG, "commitText text= "); c.commitText(" ", 1) }
+            "，", "。", "、", "；", "：", "？", "！", "《", "》", "（", "）" -> {
+                // Punctuation-wheel selections are terminal actions: commit the
+                // current composing text (using its first candidate when one
+                // exists) and then commit the selected punctuation immediately.
+                if (composing.value.isNotEmpty()) {
+                    val result = logCandidates(composing.value)
+                    val candidate = result.firstOrNull()
+                    if (candidate != null) {
+                        Log.d(TAG, "punctuation commit candidate=${candidate.text}")
+                        commitCandidate(candidate.text)
+                    } else {
+                        Log.d(TAG, "punctuation commit raw composing=${composing.value}")
+                        c.commitText(composing.value, 1)
+                        composing.value = ""
+                    }
+                }
+                Log.d(TAG, "punctuation commitText text=$key")
+                c.commitText(key, 1)
+            }
             else -> {
                 composing.value += key.lowercase()
                 Log.d(TAG, "composingAfter=${composing.value}")
