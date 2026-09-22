@@ -36,7 +36,8 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     // Compose must observe composing changes; a plain StringBuilder does not
     // trigger recomposition, which previously left the candidate strip empty.
     private val composing = mutableStateOf("")
-    private val aiRevision = mutableIntStateOf(0)
+    private val continuationContext = mutableStateOf("")
+    private val deepSeekCandidates = mutableStateOf<List<String>>(emptyList())
     private val baiduRevision = mutableIntStateOf(0)
     private val historyRevision = mutableIntStateOf(0)
     private lateinit var lifecycleRegistry: LifecycleRegistry
@@ -69,6 +70,8 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         Log.d(TAG, "onStartInput restarting=$restarting")
         super.onStartInput(attribute, restarting)
         composing.value = ""
+        continuationContext.value = ""
+        deepSeekCandidates.value = emptyList()
     }
 
     override fun onStartInputView(info: android.view.inputmethod.EditorInfo?, restarting: Boolean) {
@@ -90,7 +93,6 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 )
                 setViewCompositionStrategy(ViewCompositionStrategy.DisposeOnDetachedFromWindow)
                 setContent {
-                    aiRevision.intValue
                     baiduRevision.intValue
                     historyRevision.intValue
                     val pinyin = composing.value
@@ -101,11 +103,11 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                             ImeTelemetry.record("rime_candidates", System.nanoTime() - t, value.size); value
                         },
                         baiduCandidates = run {
-                            val t = System.nanoTime(); val value = baiduSuggest.candidates(pinyin)
+                            val t = System.nanoTime(); val value = baiduSuggest.candidates(continuationContext.value, pinyin)
                             ImeTelemetry.record("baidu_cache", System.nanoTime() - t, value.size); value
                         },
                         deepSeekCandidates = run {
-                            val t = System.nanoTime(); val value = imeEngine.remoteCandidates(pinyin).map { it.text }
+                            val t = System.nanoTime(); val value = deepSeekCandidates.value
                             ImeTelemetry.record("deepseek_cache", System.nanoTime() - t, value.size); value
                         },
                         historyCandidates = run {
@@ -177,6 +179,16 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 }
                 Log.d(TAG, "punctuation commitText text=$key")
                 c.commitText(key, 1)
+                // The punctuation is part of the committed prefix. Refresh the
+                // continuation context only after committing it, otherwise the
+                // request started by commitCandidate() sees the prefix without
+                // the newly typed punctuation.
+                val punctuationContext = c.getTextBeforeCursor(256, 0)?.toString().orEmpty()
+                continuationContext.value = punctuationContext
+                Log.d(TAG, "punctuation continuation prefix=${punctuationContext.takeLast(80)}")
+                if (punctuationContext.isNotEmpty()) {
+                    baiduSuggest.requestIfNeeded(punctuationContext, "") { baiduRevision.intValue++ }
+                }
             }
             else -> {
                 composing.value += key.lowercase()
@@ -184,19 +196,47 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 Log.d(TAG, "setComposingText text=${composing.value}")
                 c.setComposingText(composing.value, 1)
                 val query = composing.value
+                val context = committedContext(c, query)
+                continuationContext.value = context
+                Log.d(TAG, "continuation context=${context.takeLast(80)}")
                 val candidateStart = System.nanoTime()
                 val candidates = logCandidates(query)
                 ImeTelemetry.record("candidate_query", System.nanoTime() - candidateStart, candidates.size)
-                deepSeekAi.requestIfNeeded(query) { aiRevision.intValue++ }
-                baiduSuggest.requestIfNeeded(query) { baiduRevision.intValue++ }
+                deepSeekAi.requestIfNeeded(context, query) { result ->
+                    val updated = result.map { it.text }
+                    if (continuationContext.value == context && composing.value == query) {
+                        deepSeekCandidates.value = updated
+                        Log.d(TAG, "DeepSeek UI candidates updated context='${context.takeLast(40)}' pinyin=$query count=${updated.size} top=${updated.take(8)}")
+                    } else {
+                        Log.d(TAG, "DeepSeek UI result stale context='${context.takeLast(40)}' pinyin=$query currentContext='${continuationContext.value.takeLast(40)}' currentPinyin=${composing.value}")
+                    }
+                }
+                if (candidates.isEmpty()) {
+                    baiduSuggest.requestIfNeeded(context, query) { baiduRevision.intValue++ }
+                }
             }
         }
         ImeTelemetry.record("handle_key", System.nanoTime() - handleStart, key.length)
     }
 
+    private fun committedContext(c: android.view.inputmethod.InputConnection, composingText: String): String {
+        val before = c.getTextBeforeCursor(256, 0)?.toString().orEmpty()
+        return if (composingText.isNotEmpty() && before.endsWith(composingText)) {
+            before.dropLast(composingText.length).trim()
+        } else {
+            before.trim()
+        }
+    }
+
     private fun commitCandidate(text: String) {
         val commitStart = System.nanoTime()
         Log.d(TAG, "commitCandidate text=$text composingBefore=${composing.value}")
+        // The old Baidu/DeepSeek rows belong to the previous composing/context state.
+        // Clear them immediately when any candidate is selected (Rime, history, Baidu,
+        // or DeepSeek), then request/display only suggestions for the newly committed text.
+        deepSeekCandidates.value = emptyList()
+        baiduRevision.intValue++
+        Log.d(TAG, "stale Baidu/DeepSeek candidates cleared after selection")
         val c = currentInputConnection
         if (c == null) { Log.w(TAG, "commitCandidate no currentInputConnection text=$text"); return }
         inputHistoryStore.recordSelection(composing.value, text)
@@ -205,6 +245,8 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         Log.d(TAG, "commitText text=$text")
         c.commitText(text, 1)
         composing.value = ""
+        requestDeepSeekContinuation(c)
+        requestBaiduContinuation(c)
         ImeTelemetry.record("commit_candidate", System.nanoTime() - commitStart, text.length)
         Log.d(TAG, "commitCandidate SUCCESS text=$text")
         Log.d(TAG, "composingAfter=${composing.value}")
@@ -216,6 +258,34 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         Log.d(TAG, "candidate result count=${result.size}")
         Log.d(TAG, "candidate result top=${result.take(10).map { it.text }}")
         return result
+    }
+
+    private fun requestDeepSeekContinuation(c: android.view.inputmethod.InputConnection) {
+        val context = c.getTextBeforeCursor(256, 0)?.toString().orEmpty().trim()
+        if (context.isEmpty()) return
+        continuationContext.value = context
+        Log.d(TAG, "continuation DeepSeek request context=" + context.takeLast(80))
+        deepSeekAi.requestIfNeeded(context, "") { result ->
+            if (continuationContext.value == context && composing.value.isEmpty()) {
+                deepSeekCandidates.value = result.map { it.text }
+                Log.d(TAG, "DeepSeek completion UI candidates updated context='${context.takeLast(40)}' count=${result.size} top=${result.take(8).map { it.text }}")
+            } else {
+                Log.d(TAG, "DeepSeek completion result stale context='${context.takeLast(40)}' currentContext='${continuationContext.value.takeLast(40)}' currentPinyin=${composing.value}")
+            }
+        }
+    }
+
+    private fun requestBaiduContinuation(c: android.view.inputmethod.InputConnection) {
+        val context = c.getTextBeforeCursor(256, 0)?.toString().orEmpty().trim()
+        if (context.isEmpty()) return
+        continuationContext.value = context
+        val local = imeEngine.localCandidates(context)
+        if (local.isNotEmpty()) {
+            Log.d(TAG, "continuation local dictionary hit; skip Baidu context=" + context.takeLast(80))
+            return
+        }
+        Log.d(TAG, "continuation local dictionary miss; request Baidu context=" + context.takeLast(80))
+        baiduSuggest.requestIfNeeded(context, "") { baiduRevision.intValue++ }
     }
 
     private fun loadDictionary(): RimeDictionary {

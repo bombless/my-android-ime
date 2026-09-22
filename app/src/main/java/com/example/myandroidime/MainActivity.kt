@@ -12,6 +12,7 @@ import android.widget.Button
 import android.widget.EditText
 import android.widget.LinearLayout
 import android.widget.TextView
+import android.widget.Toast
 
 /**
  * A small setup screen for the IME service.
@@ -92,6 +93,18 @@ class MainActivity : Activity() {
             addView(Button(context).apply {
                 text = getString(R.string.deepseek_save)
                 setOnClickListener { deepSeekAi.saveApiKey(deepSeekApiKeyView.text.toString()) }
+            }, matchParentWrapContent())
+
+            addView(Button(context).apply {
+                text = getString(R.string.deepseek_clear_cache)
+                setOnClickListener {
+                    deepSeekAi.clearAllPatches()
+                    Toast.makeText(
+                        this@MainActivity,
+                        getString(R.string.deepseek_clear_cache_done),
+                        Toast.LENGTH_SHORT,
+                    ).show()
+                }
             }, matchParentWrapContent())
 
             addView(TextView(context).apply {
