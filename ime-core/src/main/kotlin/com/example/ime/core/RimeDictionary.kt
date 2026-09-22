@@ -95,7 +95,15 @@ class RimeDictionary private constructor(
 
         private fun normalize(entries: MutableMap<String, MutableList<Candidate>>) {
             entries.replaceAll { _, list ->
-                list.distinctBy { it.text }.sortedByDescending { it.weight }.toMutableList()
+                // Rime dictionaries commonly contain an unweighted declaration
+                // followed by a weighted duplicate (for example:
+                // "你\tni" and "你\tni\t1422192"). distinctBy() before
+                // sorting keeps the first, zero-weight declaration and throws
+                // away the real frequency. Sort first, then de-duplicate so
+                // the highest-weight occurrence wins.
+                list.sortedByDescending { it.weight }
+                    .distinctBy { it.text }
+                    .toMutableList()
             }
         }
     }

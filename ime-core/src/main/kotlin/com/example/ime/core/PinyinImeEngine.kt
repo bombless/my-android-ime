@@ -16,6 +16,9 @@ class PinyinImeEngine(
         val local = localCandidates(pinyin, limit * 2)
         val ai = remoteCandidates(pinyin, limit * 2)
         if (ai.isEmpty()) return local.take(limit)
-        return (ai + local).distinctBy { it.text }.take(limit)
+        // Keep the local dictionary as the canonical ordering so Android behaves
+        // like the desktop REPL. AI suggestions are an optional extension, not
+        // a replacement for the deterministic local candidates.
+        return (local + ai).distinctBy { it.text }.take(limit)
     }
 }
