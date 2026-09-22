@@ -268,9 +268,9 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                         Log.d(TAG, "DeepSeek UI result stale context='${context.takeLast(40)}' pinyin=$query currentContext='${continuationContext.value.takeLast(40)}' currentPinyin=${composing.value}")
                     }
                 }
-                if (candidates.isEmpty()) {
-                    baiduSuggest.requestIfNeeded(context, query) { baiduRevision.intValue++ }
-                }
+                // Baidu is an independent candidate source; do not gate it on
+                // whether the local Rime dictionary returned candidates.
+                baiduSuggest.requestIfNeeded(context, query) { baiduRevision.intValue++ }
             }
         }
         ImeTelemetry.record("handle_key", System.nanoTime() - handleStart, key.length)
@@ -337,12 +337,9 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         val context = c.getTextBeforeCursor(256, 0)?.toString().orEmpty().trim()
         if (context.isEmpty()) return
         continuationContext.value = context
-        val local = imeEngine.localCandidates(context)
-        if (local.isNotEmpty()) {
-            Log.d(TAG, "continuation local dictionary hit; skip Baidu context=" + context.takeLast(80))
-            return
-        }
-        Log.d(TAG, "continuation local dictionary miss; request Baidu context=" + context.takeLast(80))
+        // Baidu is an independent continuation source; request it even when
+        // the local dictionary also has candidates so every source is visible.
+        Log.d(TAG, "continuation request Baidu context=" + context.takeLast(80))
         baiduSuggest.requestIfNeeded(context, "") { baiduRevision.intValue++ }
     }
 

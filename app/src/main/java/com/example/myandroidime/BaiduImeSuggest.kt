@@ -25,24 +25,40 @@ class BaiduImeSuggest {
         val normalizedContext = context.trim()
         val normalizedPinyin = pinyin.trim().lowercase(Locale.ROOT)
         val key = cacheKey(normalizedContext, normalizedPinyin)
-        if ((normalizedPinyin.length < 2 && normalizedContext.isEmpty()) || !inFlight.add(key)) return
+        if (normalizedPinyin.length < 2 && normalizedContext.isEmpty()) {
+            Log.d(TAG, "Baidu request SKIP reason=empty_context_and_short_pinyin pinyin='$normalizedPinyin'")
+            return
+        }
+        if (!inFlight.add(key)) {
+            Log.d(TAG, "Baidu request SKIP reason=in_flight context='${normalizedContext.takeLast(40)}' pinyin='$normalizedPinyin'")
+            return
+        }
+        Log.d(TAG, "Baidu request QUEUED context='${normalizedContext.takeLast(80)}' pinyin='$normalizedPinyin' keyHash=${key.hashCode()}")
         executor.execute {
             val requestStart = System.nanoTime()
             try {
                 val searchPrefix = normalizedContext.takeLast(80)
-                fetch(if (searchPrefix.isNotEmpty()) searchPrefix else normalizedPinyin)?.let { raw ->
-                    val result = if (searchPrefix.isNotEmpty()) {
-                        raw.mapNotNull { suggestion -> stripPrefixIgnoringPunctuation(suggestion, searchPrefix).takeIf { it.isNotBlank() } }.distinct().take(8)
-                    } else raw
-                    cache[key] = result
-                    android.os.Handler(android.os.Looper.getMainLooper()).post(onUpdated)
-                    ImeTelemetry.record("baidu_request", System.nanoTime() - requestStart, result.size)
-                    Log.d(TAG, "Baidu suggestions updated context=${normalizedContext.takeLast(40)} pinyin=$normalizedPinyin count=${result.size} top=${result.take(5)}")
+                val query = if (searchPrefix.isNotEmpty()) searchPrefix else normalizedPinyin
+                Log.d(TAG, "Baidu request START query='${query.takeLast(80)}' queryLength=${query.length} contextMode=${searchPrefix.isNotEmpty()}")
+                val raw = fetch(query)
+                if (raw == null) {
+                    ImeTelemetry.record("baidu_request", System.nanoTime() - requestStart, 0, "empty_response")
+                    Log.w(TAG, "Baidu request EMPTY response context='${normalizedContext.takeLast(40)}' pinyin=$normalizedPinyin")
+                    return@execute
                 }
+                Log.d(TAG, "Baidu request RAW count=${raw.size} rawTop=${raw.take(5)}")
+                val result = if (searchPrefix.isNotEmpty()) {
+                    raw.mapNotNull { suggestion -> stripPrefixIgnoringPunctuation(suggestion, searchPrefix).takeIf { it.isNotBlank() } }.distinct().take(8)
+                } else raw
+                cache[key] = result
+                Log.d(TAG, "Baidu request PARSED resultCount=${result.size} resultTop=${result.take(8)} context='${normalizedContext.takeLast(40)}' pinyin=$normalizedPinyin")
+                android.os.Handler(android.os.Looper.getMainLooper()).post(onUpdated)
+                ImeTelemetry.record("baidu_request", System.nanoTime() - requestStart, result.size)
+                Log.d(TAG, "Baidu suggestions updated context=${normalizedContext.takeLast(40)} pinyin=$normalizedPinyin count=${result.size} top=${result.take(5)}")
             } catch (e: Exception) {
                 ImeTelemetry.record("baidu_request", System.nanoTime() - requestStart, normalizedPinyin.length, "error")
-                Log.w(TAG, "Baidu suggestion request failed context=${normalizedContext.takeLast(40)} pinyin=$normalizedPinyin", e)
-            } finally { inFlight.remove(key) }
+                Log.e(TAG, "Baidu suggestion request FAILED context=${normalizedContext.takeLast(40)} pinyin=$normalizedPinyin", e)
+            } finally { inFlight.remove(key); Log.d(TAG, "Baidu request FINISH context='${normalizedContext.takeLast(40)}' pinyin=$normalizedPinyin") }
         }
     }
 
@@ -113,8 +129,14 @@ class BaiduImeSuggest {
         }
         return try {
             val status = connection.responseCode
-            if (status !in 200..299) return null
+            val contentType = connection.getHeaderField("Content-Type").orEmpty()
+            Log.d(TAG, "Baidu HTTP status=$status contentType='$contentType' urlQueryLength=${pinyin.length}")
+            if (status !in 200..299) {
+                Log.w(TAG, "Baidu HTTP non-2xx status=$status error='${connection.errorStream?.bufferedReader(Charsets.UTF_8)?.use { it.readText().take(300) }.orEmpty()}'")
+                return null
+            }
             val raw = connection.inputStream.bufferedReader(Charsets.UTF_8).use { it.readText() }
+            Log.d(TAG, "Baidu HTTP body length=${raw.length} prefix='${raw.take(160)}'")
             parse(raw)
         } finally { connection.disconnect() }
     }
