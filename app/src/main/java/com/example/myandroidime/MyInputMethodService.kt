@@ -136,7 +136,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         val c = currentInputConnection
         if (c == null) { Log.w(TAG, "handleKey no currentInputConnection key=$key"); return }
         when (key) {
-            "⌫" -> if (composing.value.isNotEmpty()) { composing.value = composing.value.dropLast(1); Log.d(TAG, "composingAfter=${composing.value}"); Log.d(TAG, "setComposingText text=${composing.value}"); c.setComposingText(composing.value, 1) } else { Log.d(TAG, "deleteSurroundingText"); c.deleteSurroundingText(1, 0) }
+            "⌫" -> if (composing.value.isNotEmpty()) { composing.value = composing.value.dropLast(1); Log.d(TAG, "composingAfter=${composing.value}"); Log.d(TAG, "setComposingText text=${composing.value}"); c.setComposingText(composing.value, 1) } else { Log.d(TAG, "deleteSurroundingTextInCodePoints"); c.deleteSurroundingTextInCodePoints(1, 0) }
             "↵" -> if (composing.value.isNotEmpty()) { val result = logCandidates(composing.value); val candidate = result.firstOrNull(); if (candidate != null) { Log.d(TAG, "enter commit candidate=${candidate.text}"); commitCandidate(candidate.text) } else { Log.d(TAG, "enter commit raw composing=${composing.value}"); Log.d(TAG, "commitText text=${composing.value}"); c.commitText(composing.value, 1); composing.value = ""; Log.d(TAG, "composingAfter=${composing.value}") } } else { Log.d(TAG, "enter commit newline"); Log.d(TAG, "commitText text=\\n"); c.commitText("\n", 1) }
             "空格" -> { Log.d(TAG, "commitText text= "); c.commitText(" ", 1) }
             "，", "。", "、", "；", "：", "？", "！", "《", "》", "（", "）" -> {
