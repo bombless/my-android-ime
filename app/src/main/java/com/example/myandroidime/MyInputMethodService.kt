@@ -165,7 +165,25 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         val c = currentInputConnection
         if (c == null) { Log.w(TAG, "handleKey no currentInputConnection key=$key"); return }
         when (key) {
-            "⌫" -> if (composing.value.isNotEmpty()) { composing.value = composing.value.dropLast(1); Log.d(TAG, "composingAfter=${composing.value}"); Log.d(TAG, "setComposingText text=${composing.value}"); c.setComposingText(composing.value, 1) } else { Log.d(TAG, "deleteSurroundingTextInCodePoints"); c.deleteSurroundingTextInCodePoints(1, 0) }
+            "⌫" -> {
+                // If the editor currently has a selection (for example after
+                // Select All), Backspace should delete that whole selection.
+                // commitText("") replaces the selected range with nothing and
+                // lets the target editor update its selection correctly.
+                val selected = c.getSelectedText(0)?.toString().orEmpty()
+                if (selected.isNotEmpty()) {
+                    Log.d(TAG, "delete selection length=${selected.length}")
+                    c.commitText("", 1)
+                } else if (composing.value.isNotEmpty()) {
+                    composing.value = composing.value.dropLast(1)
+                    Log.d(TAG, "composingAfter=${composing.value}")
+                    Log.d(TAG, "setComposingText text=${composing.value}")
+                    c.setComposingText(composing.value, 1)
+                } else {
+                    Log.d(TAG, "deleteSurroundingTextInCodePoints")
+                    c.deleteSurroundingTextInCodePoints(1, 0)
+                }
+            }
             "↵" -> if (composing.value.isNotEmpty()) {
                 val text = composing.value
                 if (text.all { it in 'A'..'Z' || it in 'a'..'z' }) {
