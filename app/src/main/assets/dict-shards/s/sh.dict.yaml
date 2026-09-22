@@ -3,7 +3,245 @@ name: merged.sh
 version: "1.0"
 sort: by_weight
 ...
+㑗	shen
+㒔	shu
+㒤	she
+㒾	shi
+㔑	shui
+㔤	shen
+㔺	shi
+㕜	shi
+㕞	shua
+㕠	shuang
+㖟	shou
+㖷	shi
+㗂	sheng
+㚒	shan
+㚞	shen
+㚫	sha
+㚲	shan
+㛙	shen
+㛸	shu
+㛼	sha
+㜐	shu
+㜤	shen
+㝊	shou
+㝽	shui
+㞼	sheng
+㟬	shu
+㡏	shu
+㢵	she
+㣌	shan
+㣣	shan
+㣽	shu
+㥅	shou
+㥧	shun
+㥨	shui
+㥲	shen
+㦼	shuang
+㨛	shan
+㨻	shan
+㩄	shai
+㪎	shan
+㪢	shao
+㪨	shan
+㪿	she
+㫅	shi
+㫑	shi
+㫹	shu
+㬠	shai
+㬭	shan
+㭙	she
+㮐	sheng
+㮶	shi
+㮶	shuo
+㯗	shun
+㯮	shu
+㰂	shen
+㰑	shan
+㰒	she
+㰮	shen
+㰱	sha
+㱁	shi
+㱚	shan
+㲈	shao
+㲚	sha
+㳆	shu
+㳏	shi
+㴇	she
+㴸	shan
+㵂	shu
+㵃	she
+㵊	shen
+㵓	shi
+㵕	shen
+㵤	sha
+㶒	shan
+㶒	shen
+㶖	shu
+㶴	shi
+㷂	shu
+㷹	shao
+㸛	shao
+㸛	shuo
+㸷	shi
+㸺	sha
+㹌	sheng
+㹝	shi
+㹬	shi
+㹷	shi
+㹽	shan
+㺑	shan
+㻿	shu
+㼳	sheng
+㼽	shuang
+㽰	shu
+㽷	shui
+㾁	shu
+㾆	shan
+㾕	shen
+㾪	sheng
+䀅	she
+䀉	sha
+䀢	shun
+䀥	shuo
+䀵	shun
+䀹	she
+䁋	she
+䁞	sheng
+䁯	she
+䁺	shi
+䁻	shuo
+䂖	shi
+䂠	she
+䂠	shi
+䃞	shu
+䄕	she
+䄕	shen
+䄠	shan
+䄷	shi
+䆄	shan
+䆝	shu
+䆦	shen
+䇸	sheng
+䈉	sha
+䈕	shi
+䈰	shao
+䈾	shao
+䈾	shuo
+䉀	shu
+䉶	shuang
+䊓	shi
+䋲	sheng
+䌃	shuo
+䌰	she
+䌳	shi
+䎉	shu
+䎴	sheng
+䏡	shi
+䏡	shi	1
+䏴	shao
+䏴	she
+䑕	shu
+䑛	shi
+䑞	shun
+䒚	shao
+䒨	shi
+䔠	shao
+䔪	shuang
+䕣	she
+䖨	shi
+䗐	shi
+䗞	shan
+䗮	shuang
+䘤	shu
+䘰	shan
+䙱	shu
+䙼	shao
+䙾	shi
+䚇	sheng
+䚓	shen
+䚲	shan
+䛈	shi
+䛵	shou
+䛸	shan
+䜆	she
+䜓	she
+䜴	shi
+䜵	shi
+䜹	shu
+䜻	shi
+䝂	shu
+䝄	shuang
+䝊	sha
+䝪	shu
+䞉	sheng
+䞌	she
+䞐	shun
+䞖	shu
+䟗	shi
+䠟	she
+䠱	shu
+䠶	she
+䠼	shu
+䠾	shan
+䡪	shan
+䡯	shuang
+䢞	shu
+䢤	shu
+䢦	shuai
+䤁	she
+䤭	shi
+䤮	she
+䤱	shi
+䥇	shan
+䦂	shan
+䦅	shan
+䦠	shi
+䦹	shi
+䧠	shuan
+䧵	shen
+䩃	shi
+䩱	shu
+䩳	shu
+䪿	sheng
+䫖	shen
+䫪	shuang
+䬊	sha
+䬕	shang
+䬰	shao
+䬷	she
+䬽	shui
+䭄	shi
+䭨	shui
+䭭	shou
+䭭	shu
+䮜	sha
+䯂	shen
+䯫	sha
+䰄	shi
+䰠	shen
+䰥	she
+䱆	sheng
+䱇	shan
+䱉	shan
+䲧	shui
+䲽	shi
+䴄	shun
+䴓	shi
+䴓	shi	5
 䴓短腺吸虫	shi duan xian xi chong	1
+䴮	shan
+䴰	shu
+䵘	sha
+䵘	shai
+䵥	she
+䶎	sha
+䶡	shi
+䶵	shi
+丄	shang
+上	shang
+上	shang	11918291
 上一	shang yi	67810
 上一上	shang yi shang	894
 上一个	shang yi ge	77350
@@ -2908,6 +3146,8 @@ sort: by_weight
 上龙潭	shang long tan	4
 上龙西里	shang long xi li	118
 上龛乡	shang kan xiang	49
+世	shi
+世	shi	1305454
 世上	shi shang	131170
 世上之事	shi shang zhi shi	100
 世上只有	shi shang zhi you	100
@@ -3618,6 +3858,12 @@ sort: by_weight
 世风日下	shi feng ri xia	4095
 世风衰替	shi feng shuai ti	1111
 世首美	shi shou mei	100
+丗	shi
+乗	sheng
+乘	sheng
+乘	sheng	300
+书	shu
+书	shu	1083351
 书上	shu shang	90830
 书上的	shu shang de	456
 书不尽	shu bu jin	100
@@ -4002,6 +4248,12 @@ sort: by_weight
 书香铁路	shu xiang tie lu	122
 书香门户	shu xiang men hu	1
 书香门第	shu xiang men di	5670
+乨	shi
+乭	shi
+乷	sha
+亊	shi
+事	shi
+事	shi	4729336
 事不三思终有后悔	shi bu san si zhong you hou hui	100
 事不两立	shi bu liang li	1
 事不为不成	shi bu wei bu cheng	75
@@ -4531,6 +4783,10 @@ sort: by_weight
 事项表	shi xiang biao	74
 事预则立	shi yu ze li	26
 事齐事楚	shi qi shi chu	2
+什	shen
+什	shen	482836
+什	shi
+什	shi	1000
 什一之利	shi yi zhi li	100
 什一奉献	shi yi feng xian	100
 什一税	shi yi shui	100
@@ -5984,6 +6240,8 @@ sort: by_weight
 什锦麻花	shi jin ma hua	13
 什香菜	shi xiang cai	13
 什鲁斯伯里	shi lu si bo li	100
+仕	shi
+仕	shi	28553
 仕东利	shi dong li	1
 仕公岭	shi gong ling	5
 仕女	shi nv	9075
@@ -6009,6 +6267,8 @@ sort: by_weight
 仕途得意	shi tu de yi	100
 仕途经济	shi tu jing ji	485
 仕途风流	shi tu feng liu	358
+伤	shang
+伤	shang	968363
 伤一敌	shang yi di	100
 伤一敌可连其百	shang yi di ke lian qi bai	100
 伤不了	shang bu liao	2165
@@ -6325,6 +6585,8 @@ sort: by_weight
 伤食	shang shi	211
 伤食吐秀	shang shi tu xiu	229
 伤鳞入梦	shang lin ru meng	1
+伸	shen
+伸	shen	378380
 伸一伸	shen yi shen	123
 伸上去	shen shang qu	100
 伸上来	shen shang lai	100
@@ -6474,7 +6736,12 @@ sort: by_weight
 伸长率	shen chang lv	6585
 伸长脖子	shen chang bo zi	3120
 伸长量	shen chang liang	100
+似	shi
+似	shi	21000
 似的	shi de	322505
+佋	shao
+佘	she
+佘	she	7584
 佘太君	she tai jun	100
 佘太翠	she tai cui	125
 佘家	she jia	50
@@ -6491,6 +6758,9 @@ sort: by_weight
 佘诗曼	she shi man	4855
 佘贵清	she gui qing	12
 佘颖欣	she ying xin	100
+佦	shi
+使	shi
+使	shi	1415240
 使一些	shi yi xie	18130
 使一点手段	shi yi dian shou duan	100
 使上市	shi shang shi	186
@@ -7079,6 +7349,10 @@ sort: by_weight
 使魔法	shi mo fa	100
 使鹿部落	shi lu bu luo	100
 使麻痹	shi ma bi	100
+侁	shen
+侁	shen	18
+侍	shi
+侍	shi	136559
 侍中	shi zhong	4
 侍从	shi cong	17645
 侍从官	shi cong guan	100
@@ -7122,12 +7396,26 @@ sort: by_weight
 侍酒温度	shi jiu wen du	100
 侍魂晓	shi hun xiao	100
 侍魂胧月传说	shi hun long yue chuan shuo	100
+侸	shu
+侺	shen
+俞	shu
+俞	shu	0
+信	shen
+倏	shu
+倏	shu	28537
 倏地	shu de	16850
 倏地飞	shu de fei	5
 倏忽	shu hu	6600
 倏忽之间	shu hu zhi jian	575
 倏来忽往	shu lai hu wang	100
 倏然	shu ran	11180
+倐	shu
+倽	sha
+偗	sheng
+傓	shan
+傷	shang
+傻	sha
+傻	sha	248211
 傻不	sha bu	3333
 傻不傻	sha bu sha	525
 傻不傻啊	sha bu sha a	100
@@ -7307,6 +7595,15 @@ sort: by_weight
 傻逼玩意儿	sha bi wan yi er	2
 傻里傻气	sha li sha qi	1260
 傻鸟	sha niao	5555
+僐	shan
+儃	shan
+儍	sha
+儵	shu
+兘	shi
+兟	shen
+兪	shu
+兽	shou
+兽	shou	315293
 兽中之王	shou zhong zhi wang	880
 兽中刀枪多怒吼	shou zhong dao qiang duo nu hou	1
 兽之巨人	shou zhi ju ren	100
@@ -7384,6 +7681,9 @@ sort: by_weight
 兽骨	shou gu	2830
 兽骨戒指	shou gu jie zhi	1
 兽骨项链	shou gu xiang lian	58
+冟	shi
+删	shan
+删	shan	1112335
 删一下	shan yi xia	85
 删一删	shan yi shan	951
 删一半	shan yi ban	100
@@ -7486,6 +7786,9 @@ sort: by_weight
 删除重复	shan chu chong fu	100
 删除键	shan chu jian	1880
 删除项目	shan chu xiang mu	1652
+刪	shan
+刷	shua
+刷	shua	82427
 刷一个	shua yi ge	340
 刷一刷	shua yi shua	100
 刷上	shua shang	8710
@@ -7673,6 +7976,8 @@ sort: by_weight
 刷鞋	shua xie	490
 刷题	shua ti	9999
 刷题本	shua ti ben	100
+刹	sha
+刹	sha	109543
 刹一刹	sha yi sha	456
 刹不住	sha bu zhu	955
 刹不住了	sha bu zhu le	95
@@ -7707,9 +8012,14 @@ sort: by_weight
 刹车钳	sha che qian	248
 刹闸	sha zha	5105
 刹马镇	sha ma zhen	118
+剎	sha
+剡	shan
+剡	shan	235
 剡中若问连州事	shan zhong ruo wen lian zhou shi	1
 剡溪	shan xi	2
 剡溪蕴秀异	shan xi yun xiu yi	2
+剩	sheng
+剩	sheng	214523
 剩一口	sheng yi kou	1000
 剩下	sheng xia	96980
 剩下了	sheng xia le	333
@@ -7773,6 +8083,12 @@ sort: by_weight
 剩饭剩菜	sheng fan sheng cai	1790
 剩饭残羹	sheng fan can geng	100
 剩馥残膏	sheng fu can gao	100
+剰	sheng
+剼	shan
+劭	shao
+劭	shao	9369
+势	shi
+势	shi	756507
 势不两全	shi bu liang quan	1
 势不两存	shi bu liang cun	100
 势不两立	shi bu liang li	4545
@@ -7857,16 +8173,24 @@ sort: by_weight
 势降	shi jiang	80
 势高常惧风	shi gao chang ju feng	1
 势高益危	shi gao yi wei	100
+勝	sheng
+勢	shi
+勺	shao
+勺	shao	21195
 勺儿	shao er	1680
 勺子	shao zi	16115
 勺柄	shao bing	5
 勺水一脔	shao shui yi luan	1
 勺状软骨	shao zhuang ruan gu	100
+匙	shi
+匙	shi	48847
 匙吻苏禄油鲶	shi wen su lu you nian	1
 匙吻鲟	shi wen xun	1
 匙形古柏线虫	shi xing gu bai xian chong	1
 匙扣卡	shi kou ka	27
 匙状甲	shi zhuang jia	1
+十	shi
+十	shi	2567177
 十一	shi yi	47370
 十一万	shi yi wan	1450
 十一万余	shi yi wan yu	100
@@ -10250,6 +10574,8 @@ sort: by_weight
 十魔九难	shi mo jiu nan	1
 十鼠争穴	shi shu zheng xue	1
 十鼠同穴	shi shu tong xue	100
+升	sheng
+升	sheng	307512
 升一下	sheng yi xia	1180
 升一下级	sheng yi xia ji	205830
 升一本	sheng yi ben	180
@@ -10581,6 +10907,9 @@ sort: by_weight
 升龙	sheng long	1200
 升龙击	sheng long ji	44
 升龙道	sheng long dao	100
+卋	shi
+单	shan
+单	shan	1
 单丹娜	shan dan na	100
 单依纯	shan yi chun	100
 单保增	shan bao zeng	68
@@ -10607,10 +10936,20 @@ sort: by_weight
 单雄信	shan xiong xin	19
 单霁翔	shan ji xiang	163
 单鹏飞	shan peng fei	190
+卛	shuai
+卲	shao
+厍	she
+厍	she	54
 厍公山	she gong shan	125
 厍姓	she xing	30
+厔	shi
+厙	she
+厦	sha
+厦	sha	35375
 厦村	sha cun	23
 厦禾路	sha he lu	69
+参	shen
+参	shen	10000
 参七心疏胶囊	shen qi xin shu jiao nang	10
 参七脑康胶囊	shen qi nao kang jiao nang	2
 参仙升脉口服液	shen xian sheng mai kou fu ye	1
@@ -10698,6 +11037,11 @@ sort: by_weight
 参麦注射液	shen mai zhu she ye	67
 参麦雪梨瘦肉汤	shen mai xue li shou rou tang	1
 参龙宁心胶囊	shen long ning xin jiao nang	1
+參	shen
+叄	shen
+叅	shen
+双	shuang
+双	shuang	1011629
 双一村	shuang yi cun	3
 双一流建设高校	shuang yi liu jian she gao xiao	100
 双一流院校	shuang yi liu yuan xiao	100
@@ -12325,6 +12669,9 @@ sort: by_weight
 双龙银针	shuang long yin zhen	7
 双龙镇	shuang long zhen	100
 双龙骨卷管螺	shuang long gu juan guan luo	1
+収	shou
+叔	shu
+叔	shu	306516
 叔丁基锂	shu ding ji li	100
 叔丁醇	shu ding chun	905
 叔丈人	shu zhang ren	100
@@ -12366,6 +12713,8 @@ sort: by_weight
 叔祖	shu zu	2635
 叔祖母	shu zu mu	80
 叔觉得	shu jue de	100
+受	shou
+受	shou	1388441
 受万人景仰	shou wan ren jing yang	100
 受上赏	shou shang shang	100
 受下赏	shou xia shang	100
@@ -12993,6 +13342,8 @@ sort: by_weight
 受骗了	shou pian le	3945
 受骗人	shou pian ren	640
 受骗者	shou pian zhe	2930
+召	shao
+召	shao	1
 召公	shao gong	2
 召公奭	shao gong shi	2
 召父杜母	shao fu du mu	1
@@ -13001,6 +13352,8 @@ sort: by_weight
 召陵之盟	shao ling zhi meng	1130
 召陵区	shao ling qu	1130
 召陵镇	shao ling zhen	1130
+史	shi
+史	shi	409099
 史上	shi shang	167125
 史上最	shi shang zui	100
 史上最严重	shi shang zui yan zhong	100
@@ -13256,6 +13609,8 @@ sort: by_weight
 史黛芬妮	shi dai fen ni	100
 史黛菲	shi dai fei	2
 史黛西	shi dai xi	100
+吮	shun
+吮	shun	8032
 吮一吮	shun yi shun	123
 吮乳	shun ru	790
 吮了吮	shun le shun	123
@@ -13274,17 +13629,29 @@ sort: by_weight
 吮疽舐痔	shun ju shi zhi	100
 吮痈舐痔	shun yong shi zhi	9999
 吮痈舔痔	shun yong tian zhi	1
+吲	shen
+呏	sheng
+呞	shi
+呩	shi
+呻	shen
+呻	shen	35841
 呻吟	shen yin	61790
 呻吟声	shen yin sheng	12560
 呻吟着	shen yin zhe	5610
 呻吟者	shen yin zhe	130
 呻吟起来	shen yin qi lai	100
 呻呻吟吟	shen shen yin yin	30
+咰	shu
+咶	shi
+哂	shen
+哂	shen	2972
 哂正	shen zheng	1
 哂然	shen ran	470
 哂然一笑	shen ran yi xiao	560
 哂笑	shen xiao	1330
 哂纳	shen na	65
+哨	shao
+哨	shao	49486
 哨位	shao wei	1755
 哨兵	shao bing	18285
 哨兵岭	shao bing ling	3
@@ -13310,6 +13677,9 @@ sort: by_weight
 哨音声	shao yin sheng	100
 哨马	shao ma	745
 哨马营村	shao ma ying cun	4
+唦	sha
+售	shou
+售	shou	85067
 售不出	shou bu chu	45
 售不出去	shou bu chu qu	80
 售书	shou shu	7370
@@ -13394,6 +13764,8 @@ sort: by_weight
 售饭	shou fan	1300
 售饭机	shou fan ji	2210
 售饭系统	shou fan xi tong	810
+唰	shua
+唰	shua	16179
 唰唰	shua shua	4680
 唰唰唰	shua shua shua	100
 唰唰地下	shua shua de xia	100
@@ -13402,7 +13774,11 @@ sort: by_weight
 唰啦一下	shua la yi xia	100
 唰啦一声	shua la yi sheng	100
 唰的一下	shua de yi xia	1111
+唼	sha
+唼	sha	70
 唼喋	sha zha	2
+商	shang
+商	shang	514550
 商一刀	shang yi dao	100
 商专	shang zhuan	1465
 商丘	shang qiu	40815
@@ -14274,6 +14650,9 @@ sort: by_weight
 商飙徐起	shang biao xu qi	100
 商高定理	shang gao ding li	100
 商鸿逵	shang hong kui	2
+啑	sha
+啥	sha
+啥	sha	976190
 啥不知道	sha bu zhi dao	100
 啥专业	sha zhuan ye	100
 啥东西	sha dong xi	2175
@@ -14458,6 +14837,9 @@ sort: by_weight
 啥鸡巴卵用	sha ji ba luan yong	100
 啥鸡巴玩意	sha ji ba wan yi	100
 啥鸡巴玩意儿	sha ji ba wan yi er	100
+啫	shi
+善	shan
+善	shan	305341
 善万物之得时	shan wan wu zhi de shi	3
 善不由外来兮	shan bu you wai lai xi	6
 善与人交	shan yu ren jiao	360
@@ -14695,6 +15077,12 @@ sort: by_weight
 善食而瘦	shan shi er shou	1
 善饮好客	shan yin hao ke	100
 善骑者堕	shan qi zhe duo	100
+喢	sha
+單	shan
+嗄	sha
+嗄	sha	1019
+嗜	shi
+嗜	shi	21476
 嗜中性粒细胞	shi zhong xing li xi bao	5
 嗜书如渴	shi shu ru ke	100
 嗜人按蚊	shi ren an wen	6
@@ -14739,6 +15127,13 @@ sort: by_weight
 嗜饮咖啡	shi yin ka fei	100
 嗜鰕截颌鲤	shi xia jie he li	1
 嗜鱼蛇	shi yu she	2
+嘇	shan
+嘘	shi
+嘘	shi	1
+嘼	shou
+噓	shi
+噬	shi
+噬	shi	43821
 噬不见齿	shi bu jian chi	1
 噬亡村	shi wang cun	100
 噬人鲨	shi ren sha	175
@@ -14763,6 +15158,8 @@ sort: by_weight
 噬魂逆天	shi hun ni tian	100
 噬魂鬼	shi hun gui	321
 噬鱼蛇	shi yu she	20
+圣	sheng
+圣	sheng	413460
 圣上	sheng shang	10375
 圣上口谕	sheng shang kou yu	100
 圣上恩德	sheng shang en de	100
@@ -15275,9 +15672,34 @@ sort: by_weight
 圣鹮	sheng huan	3
 圣麒麟	sheng qi lin	100
 圣龙魔袍	sheng long mo pao	6
+圸	shan
+垧	shang
+垧	shang	122
+垨	shou
+埏	shan
+埏	shan	29
+埘	shi
+埘	shi	146
+埫	shang
+埶	shi
+堔	shen
+塒	shi
+塽	shuang
+塾	shu
+塾	shu	3783
 塾师	shu shi	188
+墅	shu
+墅	shu	39604
+墒	shang
+墒	shang	413
 墒情	shang qing	6475
 墒沟	shang gou	1
+墠	shan
+墡	shan
+墡	shan	269
+墭	sheng
+士	shi
+士	shi	1175727
 士不可以不弘毅	shi bu ke yi bu hong yi	77
 士不敢弯弓而报怨	shi bu gan wan gong er bao yuan	1
 士丹利	shi dan li	100
@@ -15351,6 +15773,8 @@ sort: by_weight
 士郎正宗	shi lang zheng zong	100
 士饱马腾	shi bao ma teng	100
 士马饱腾	shi ma bao teng	100
+声	sheng
+声	sheng	3671271
 声东	sheng dong	5
 声东击西	sheng dong ji xi	5755
 声东击西之计	sheng dong ji xi zhi ji	230
@@ -15676,6 +16100,10 @@ sort: by_weight
 声频	sheng pin	4850
 声驰千里	sheng chi qian li	1
 声高一代	sheng gao yi dai	1
+壽	shou
+夀	shou
+失	shi
+失	shi	1182384
 失不失业	shi bu shi ye	100
 失不失望	shi bu shi wang	100
 失业	shi ye	164255
@@ -16294,6 +16722,9 @@ sort: by_weight
 失魂荡魄	shi hun dang po	1
 失魂落魄	shi hun luo po	9915
 失黏	shi nian	530
+奓	she
+奢	she
+奢	she	32985
 奢丽	she li	375
 奢侈	she chi	59285
 奢侈俱乐部	she chi ju le bu	100
@@ -16327,6 +16758,13 @@ sort: by_weight
 奢靡享乐	she mi xiang le	100
 奢靡无度	she mi wu du	100
 奢靡浪费	she mi lang fei	80
+奭	shi
+奭	shi	186
+妁	shuo
+妁	shuo	677
+妽	shen
+始	shi
+始	shi	1239671
 始业式	shi ye shi	100
 始中国羽龙属	shi zhong guo yu long shu	1
 始丰街道	shi feng jie dao	106
@@ -16433,9 +16871,25 @@ sort: by_weight
 始边	shi bian	385
 始迁祖	shi qian zu	1115
 始鼷鹿类群	shi xi lu lei qun	1
+姍	shan
+姗	shan
+姗	shan	32428
 姗姗	shan shan	2241
 姗姗来迟	shan shan lai chi	8765
 姗拉娜	shan la na	3325
+姝	shu
+姝	shu	15426
+姺	shen
+姼	shi
+娋	shao
+娍	sheng
+娠	shen
+娠	shen	1417
+娷	shui
+婌	shu
+婌	shu	6
+婶	shen
+婶	shen	34226
 婶不可忍	shen bu ke ren	100
 婶儿	shen er	3333
 婶儿不可忍	shen er bu ke ren	100
@@ -16444,10 +16898,21 @@ sort: by_weight
 婶婶	shen shen	12000
 婶子	shen zi	2560
 婶母	shen mu	960
+媞	shi	1080
+嫀	shen
+嬕	shi
+嬗	shan
+嬗	shan	764
 嬗变	shan bian	8205
+嬸	shen
+孀	shuang
+孀	shuang	1881
 孀妇	shuang fu	555
 孀妻弱子	shuang qi ruo zi	100
 孀居	shuang ju	675
+孇	shuang
+孰	shu
+孰	shu	9098
 孰不可忍	shu bu ke ren	152
 孰不可忍也	shu bu ke ren ye	7
 孰云察余之善恶	shu yun cha yu zhi shan e	1
@@ -16472,6 +16937,8 @@ sort: by_weight
 孰轻孰重	shu qing shu zhong	2980
 孰重孰轻	shu zhong shu qing	100
 孰高孰低	shu gao shu di	189
+守	shou
+守	shou	470593
 守一	shou yi	6160
 守一守	shou yi shou	171
 守不住	shou bu zhu	3220
@@ -16760,6 +17227,8 @@ sort: by_weight
 守鹤之盾	shou he zhi dun	100
 守鹤之矛	shou he zhi mao	100
 守麦员	shou mai yuan	67
+实	shi
+实	shi	2616492
 实不为过	shi bu wei guo	785
 实不实在	shi bu shi zai	2
 实不实惠	shi bu shi hui	111
@@ -18119,6 +18588,9 @@ sort: by_weight
 实验题	shi yan ti	3110
 实验高级中学	shi yan gao ji zhong xue	715
 实验鼠	shi yan shu	4190
+実	shi
+审	shen
+审	shen	110344
 审一下	shen yi xia	3301
 审一审	shen yi shen	123
 审不了	shen bu liao	35
@@ -18518,6 +18990,8 @@ sort: by_weight
 审音表	shen yin biao	100
 审题	shen ti	21510
 审验	shen yan	29020
+室	shi
+室	shi	614287
 室上性心动过速	shi shang xing xin dong guo su	1325
 室不崇坛	shi bu chong tan	1
 室中更无人	shi zhong geng wu ren	3
@@ -18664,6 +19138,14 @@ sort: by_weight
 室韦	shi wei	4
 室韦俄罗斯族民族乡	shi wei e luo si zu min zu xiang	1
 室颤	shi chan	77
+宩	shi
+宲	shi
+宷	shen
+寔	shi
+實	shi
+審	shen
+寿	shou
+寿	shou	73701
 寿不压职	shou bu ya zhi	100
 寿与天齐	shou yu tian qi	1035
 寿丰乡	shou feng xiang	100
@@ -18793,6 +19275,8 @@ sort: by_weight
 寿陵失步	shou ling shi bu	100
 寿面	shou mian	9
 寿龄	shou ling	425
+射	she
+射	she	386983
 射一下	she yi xia	215
 射一箭	she yi jian	100
 射上去	she shang qu	95
@@ -19055,6 +19539,9 @@ sort: by_weight
 射飞	she fei	560
 射高	she gao	1670
 射鱼指天	she yu zhi tian	1
+尌	shu
+少	shao
+少	shao	1940099
 少一个	shao yi ge	100
 少一个人	shao yi ge ren	76
 少一个都不行	shao yi ge dou bu xing	100
@@ -19661,6 +20148,10 @@ sort: by_weight
 少鸡巴提	shao ji ba ti	100
 少鸡巴说	shao ji ba shuo	100
 少龙	shao long	18575
+尗	shu
+尙	shang
+尚	shang
+尚	shang	311735
 尚不	shang bu	6030
 尚不可知	shang bu ke zhi	100
 尚不得而知	shang bu de er zhi	100
@@ -19822,6 +20313,8 @@ sort: by_weight
 尚需	shang xu	25460
 尚须	shang xu	5635
 尚食局	shang shi ju	187
+尸	shi
+尸	shi	233817
 尸位素餐	shi wei su can	1130
 尸体	shi ti	23520
 尸体剖检	shi ti pou jian	100
@@ -19885,6 +20378,9 @@ sort: by_weight
 尸魂界	shi hun jie	100
 尸鸠之仁	shi jiu zhi ren	100
 尸鸠之平	shi jiu zhi ping	100
+屍	shi
+屎	shi
+屎	shi	1359880
 屎㞎㞎	shi ba ba	100
 屎一样	shi yi yang	1111
 屎上雕花	shi shang diao hua	100
@@ -19912,6 +20408,8 @@ sort: by_weight
 屎里有毒	shi li you du	100
 屎里淘金	shi li tao jin	100
 屎难吃	shi nan chi	100
+属	shu
+属	shu	394530
 属七和弦	shu qi he xian	57
 属下	shu xia	56945
 属下们	shu xia men	100
@@ -20061,6 +20559,9 @@ sort: by_weight
 属鼠的	shu shu de	100
 属龙	shu long	1040
 属龙的	shu long de	100
+屬	shu
+山	shan
+山	shan	1526952
 山一大	shan yi da	103
 山一村	shan yi cun	25
 山一般的	shan yi ban de	180
@@ -21592,11 +22093,26 @@ sort: by_weight
 山龙眼目	shan long yan mu	100
 山龙眼科	shan long yan ke	100
 山龙眼萤斑蛾	shan long yan ying ban e	1
+屾	shen
+屾	shen	1
+峕	shi
+峙	shi
+峙	shi	1
+峷	shen
+崻	shi
+崼	shi
+嵊	sheng
+嵊	sheng	242
 嵊州	sheng zhou	12415
 嵊州市	sheng zhou shi	8775
 嵊泗	sheng si	3
 嵊泗列岛	sheng si lie dao	570
 嵊泗县	sheng si xian	2265
+嵵	shi
+嶦	shan
+嶦	shan	4
+市	shi
+市	shi	712352
 市一中	shi yi zhong	6250
 市一医	shi yi yi	89
 市一医院	shi yi yi yuan	1417
@@ -22443,6 +22959,8 @@ sort: by_weight
 市餐饮住宿协会	shi can yin zhu su xie hui	100
 市高新技术产业开发区	shi gao xin ji shu chan ye kai fa qu	9
 市高新技术开发区	shi gao xin ji shu kai fa qu	11
+帅	shuai
+帅	shuai	207990
 帅不	shuai bu	6666
 帅不帅	shuai bu shuai	1260
 帅不帅气	shuai bu shuai qi	100
@@ -22527,6 +23045,8 @@ sort: by_weight
 帅脸	shuai lian	1111
 帅逼	shuai bi	222
 帅雷雷	shuai lei lei	100
+师	shi
+师	shi	1581750
 师不必贤于弟子	shi bu bi xian yu di zi	19
 师专	shi zhuan	195
 师专生	shi zhuan sheng	100
@@ -22707,7 +23227,16 @@ sort: by_weight
 师风	shi feng	1970
 师首长	shi shou zhang	100
 师魂	shi hun	1
+帥	shuai
+帨	shui
+帨	shui	25
 帨缡	shui li	3
+師	shi
+帹	sha
+幓	shan
+幓	shen
+庶	shu
+庶	shu	15986
 庶乎	shu hu	670
 庶人	shu ren	8920
 庶以善自名	shu yi shan zi ming	1
@@ -22740,6 +23269,10 @@ sort: by_weight
 庶羞清酌	shu xiu qing zhuo	1
 庶老	shu lao	2
 庶长子	shu zhang zi	100
+庻	shu
+廈	sha
+式	shi
+式	shi	600521
 式代码	shi dai ma	13
 式子	shi zi	7555
 式守同学	shi shou tong xue	100
@@ -22755,6 +23288,8 @@ sort: by_weight
 式神	shi shen	444
 式表示	shi biao shi	238
 式重复	shi chong fu	5
+弑	shi
+弑	shi	4591
 弑君	shi jun	2495
 弑君大罪	shi jun da zui	100
 弑君贼	shi jun zei	100
@@ -22764,7 +23299,21 @@ sort: by_weight
 弑父	shi fu	2165
 弑神	shi shen	555
 弑神者之弓	shi shen zhe zhi gong	1
+弒	shi
+弞	shen
+弰	shao
+弽	she
+彡	shan
 彡部	shan bu	1
+徥	shi
+忕	shi
+忬	shu
+忯	shi
+怷	shu
+怸	shu
+恀	shi
+恃	shi
+恃	shi	11258
 恃其便以敖予	shi qi bian yi ao yu	2
 恃功岸忽	shi gong an hu	1
 恃功矜能	shi gong jin neng	100
@@ -22784,6 +23333,8 @@ sort: by_weight
 恃才自专	shi cai zi zhuan	100
 恃才自傲	shi cai zi ao	160
 恃财傲物	shi cai ao wu	3
+恕	shu
+恕	shu	30848
 恕不	shu bu	41285
 恕不一一	shu bu yi yi	445
 恕不从命	shu bu cong ming	13
@@ -22809,6 +23360,14 @@ sort: by_weight
 恕难	shu nan	520
 恕难从命	shu nan cong ming	300
 恕难苟同	shu nan gou tong	15
+恦	shang
+悆	shu
+惿	shi
+愓	shang
+愬	shuo
+愼	shen
+慎	shen
+慎	shen	64154
 慎之	shen zhi	585
 慎之又慎	shen zhi you shen	8510
 慎于	shen yu	1345
@@ -22877,8 +23436,17 @@ sort: by_weight
 慎防意外	shen fang yi wai	70
 慎防杜渐	shen fang du jian	1
 慎馀肉庄	shen yu rou zhuang	1
+慑	she
+慑	she	20266
 慑于	she yu	3333
 慑服	she fu	1825
+慡	shuang
+慯	shang
+慴	she
+憴	sheng
+懾	she
+戍	shu
+戍	shu	5272
 戍卒	shu zu	1470
 戍卫	shu wei	749
 戍守	shu shou	2055
@@ -22887,6 +23455,10 @@ sort: by_weight
 戍边	shu bian	616
 戍边人	shu bian ren	100
 戍鼓断人行	shu gu duan ren xing	1
+戺	shi
+扄	shang
+扇	shan
+扇	shan	86396
 扇一扇	shan yi shan	291
 扇上生花	shan shang sheng hua	100
 扇了	shan le	1111
@@ -22947,6 +23519,8 @@ sort: by_weight
 扇骨	shan gu	11
 扇骨子	shan gu zi	5
 扇骨里	shan gu li	9
+手	shou
+手	shou	5076179
 手一卷	shou yi juan	100
 手一扬	shou yi yang	3905
 手一松	shou yi song	100
@@ -24001,6 +24575,11 @@ sort: by_weight
 手黄	shou huang	111
 手黑	shou hei	835
 手鼓	shou gu	2850
+扌	shou
+扟	shen
+抌	shen
+抒	shu
+抒	shu	9105
 抒写	shu xie	12195
 抒发	shu fa	42320
 抒发感情	shu fa gan qing	1600
@@ -24019,6 +24598,8 @@ sort: by_weight
 抒情诗	shu qing shi	5235
 抒情诗体	shu qing shi ti	35
 抒情音乐	shu qing yin yue	100
+折	she
+折	she	10000
 折了	she le	1540
 折了腰	she le yao	100
 折本	she ben	985
@@ -24026,6 +24607,8 @@ sort: by_weight
 折秤	she cheng	2
 折耗	she hao	545
 折钱	she qian	375
+拭	shi
+拭	shi	24060
 拭净	shi jing	1190
 拭剑园	shi jian yuan	1
 拭去	shi qu	9465
@@ -24044,6 +24627,8 @@ sort: by_weight
 拭舌膏唇	shi she gao chun	100
 拭除	shi chu	405
 拭面容言	shi mian rong yan	100
+拴	shuan
+拴	shuan	9790
 拴上	shuan shang	1535
 拴上去	shuan shang qu	100
 拴不住	shuan bu zhu	425
@@ -24060,6 +24645,10 @@ sort: by_weight
 拴马	shuan ma	875
 拴马村	shuan ma cun	4
 拴马桩	shuan ma zhuang	540
+拾	she
+拾	she	1
+拾	shi
+拾	shi	136402
 拾不得	shi bu de	90
 拾不着	shi bu zhao	5
 拾不起来	shi bu qi lai	80
@@ -24119,6 +24708,15 @@ sort: by_weight
 拾音器	shi yin qi	6105
 拾音头	shi yin tou	115
 拾音社	shi yin she	100
+挕	she
+挩	shui
+挱	sha
+挲	sha
+挲	sha	1
+挻	shan
+捈	shu
+捎	shao
+捎	shao	7956
 捎一捎	shao yi shao	321
 捎个信儿	shao ge xin er	85
 捎信	shao xin	1525
@@ -24136,6 +24734,11 @@ sort: by_weight
 捎话	shao hua	780
 捎过去	shao guo qu	64
 捎过来	shao guo lai	90
+捒	shu
+捝	shui
+捨	she
+授	shou
+授	shou	134240
 授业	shou ye	6885
 授业解惑	shou ye jie huo	1014
 授之父母	shou zhi fu mu	5
@@ -24246,10 +24849,24 @@ sort: by_weight
 授阶仪式	shou jie yi shi	100
 授阶典礼	shou jie dian li	100
 授首	shou shou	1030
+掓	shu
+掞	shan
+掸	shan
+掸	shan	1
 掸邦	shan bang	5
 掸邦北部	shan bang bei bu	100
 掸邦高原	shan bang gao yuan	100
+掺	shan
+揓	shi
+揲	she
+搠	shuo
+搠	shuo	760
 搠笔巡街	shuo bi xun jie	100
+搧	shan
+搷	shen
+摂	she
+摄	she
+摄	she	80547
 摄乐村	she le cun	21
 摄于	she yu	8955
 摄人	she ren	9010
@@ -24393,8 +25010,14 @@ sort: by_weight
 摄魂棒	she hun bang	100
 摄魂追魄	she hun zhui po	1
 摄魄勾魂	she po gou hun	10
+摅	shu
+摅	shu	52
 摅忠报国	shu zhong bao guo	100
 摅肝沥胆	shu gan li dan	1
+摋	sha
+摋	shai
+摔	shuai
+摔	shuai	109217
 摔下	shuai xia	10790
 摔下去	shuai xia qu	3015
 摔下来	shuai xia lai	7500
@@ -24472,6 +25095,10 @@ sort: by_weight
 摔车了	shuai che le	100
 摔门	shuai men	4444
 摔饼	shuai bing	6
+摻	shan
+撣	shan
+擅	shan
+擅	shan	40475
 擅于	shan yu	13131
 擅作主张	shan zuo zhu zhang	740
 擅作威福	shan zuo wei fu	100
@@ -24562,6 +25189,11 @@ sort: by_weight
 擅长领域	shan chang ling yu	100
 擅长风格	shan chang feng ge	100
 擅闯	shan chuang	1940
+攄	shu
+攝	she
+攦	shai
+收	shou
+收	shou	807363
 收一下	shou yi xia	905
 收一个	shou yi ge	3773
 收一收	shou yi shou	456
@@ -25654,6 +26286,12 @@ sort: by_weight
 收音机	shou yin ji	93745
 收魂使者	shou hun shi zhe	1
 收齐	shou qi	7870
+敊	shou
+敒	shen
+数	shu
+数	shu	994719
+数	shuo
+数	shuo	1
 数一	shu yi	4675
 数一下	shu yi xia	1185
 数一数	shu yi shu	4490
@@ -26849,6 +27487,12 @@ sort: by_weight
 数黄道黑	shu huang dao hei	100
 数黑论白	shu hei lun bai	100
 数黑论黄	shu hei lun huang	100
+數	shu
+數	shuo
+敾	shan
+斘	sheng
+施	shi
+施	shi	301591
 施一公	shi yi gong	156
 施万	shi wan	41
 施万细胞	shi wan xi bao	100
@@ -27141,6 +27785,9 @@ sort: by_weight
 施鑫文月	shi xin wen yue	100
 施魏因施泰格	shi wei yin shi tai ge	151
 施魔法	shi mo fa	865
+旓	shao
+时	shi
+时	shi	8207119
 时下	shi xia	7595
 时下最流行	shi xia zui liu xing	100
 时下流行	shi xia liu xing	8930
@@ -28216,6 +28863,12 @@ sort: by_weight
 时髦的	shi mao de	25370
 时鲜	shi xian	3300
 时鸣春涧中	shi ming chun jian zhong	4
+旹	shi
+昇	sheng
+昇	sheng	577
+昚	shen
+是	shi
+是	shi	31422712
 是一	shi yi	2853
 是一个	shi yi ge	500920
 是一个人	shi yi ge ren	61
@@ -29347,11 +30000,17 @@ sort: by_weight
 是黑	shi hei	34340
 是龙你得盘着	shi long ni dei pan zhe	100
 是龙得盘着	shi long dei pan zhe	100
+昰	shi
+時	shi
+晌	shang
+晌	shang	51129
 晌午	shang wu	4500
 晌午觉	shang wu jiao	9999
 晌午饭	shang wu fan	9999
 晌觉	shang jiao	1
 晌饭	shang fan	1
+晒	shai
+晒	shai	3043700
 晒一晒	shai yi shai	870
 晒不出	shai bu chu	50
 晒不到	shai bu dao	62
@@ -29439,7 +30098,15 @@ sort: by_weight
 晒黑族	shai hei zu	100
 晒黑的肌肤	shai hei de ji fu	100
 晒黑网	shai hei wang	100
+晟	sheng
+晟	sheng	15923
 晟华苑	sheng hua yuan	116
+晠	sheng
+晱	shan
+晱	shan	4
+暏	shu
+暑	shu
+暑	shu	24941
 暑伏	shu fu	99
 暑修班	shu xiu ban	100
 暑假	shu jia	105675
@@ -29490,6 +30157,10 @@ sort: by_weight
 暑运	shu yun	1111
 暑退寒袭	shu tui han xi	1
 暑雨祁寒	shu yu qi han	100
+曋	shen
+曑	shen
+曙	shu
+曙	shu	9845
 曙光	shu guang	88320
 曙光乍现	shu guang zha xian	100
 曙光信息产业北京有限公司	shu guang xin xi chan ye bei jing you xian gong si	87
@@ -29520,6 +30191,11 @@ sort: by_weight
 曙暮辉弧	shu mu hui hu	75
 曙色	shu se	1800
 曙虎天牛	shu hu tian niu	1
+曬	shai
+書	shu
+曻	sheng
+朔	shuo
+朔	shuo	18750
 朔北藏族乡	shuo bei zang zu xiang	4
 朔县	shuo xian	720
 朔城区	shuo cheng qu	995
@@ -29543,6 +30219,9 @@ sort: by_weight
 朔风	shuo feng	4155
 朔风凛冽	shuo feng lin lie	100
 朔风怒号	shuo feng nu hao	75
+朮	shu
+术	shu
+术	shu	579874
 术业	shu ye	3355
 术业有专攻	shu ye you zhuan gong	763
 术前	shu qian	38270
@@ -29562,6 +30241,9 @@ sort: by_weight
 术语翻译	shu yu fan yi	68
 术语表	shu yu biao	1435
 术语词典	shu yu ci dian	200
+朱	shu
+杀	sha
+杀	sha	109588
 杀一儆百	sha yi jing bai	1962
 杀一利百	sha yi li bai	1
 杀一杀	sha yi sha	3030
@@ -29973,6 +30655,10 @@ sort: by_weight
 杀鸡骇猴	sha ji hai hou	50
 杀鼠剂	sha shu ji	2990
 杀鼠药	sha shu yao	130
+杉	sha
+杉	sha	1
+杉	shan
+杉	shan	21508
 杉内雅男	shan nei ya nan	10
 杉原杏璃	shan yuan xing li	2
 杉山彬	shan shan bin	100
@@ -30001,10 +30687,14 @@ sort: by_weight
 杉籽伽	shan zi jia	100
 杉繁郎奴夜蛾	shan fan lang nu ye e	1
 杉达大学	shan da da xue	6
+杓	shao
+杓	shao	1
 杓兰	shao lan	3
 杓状软骨	shao zhuang ruan gu	3
 杓蛤	shao ge	2
 杓鹬	shao yu	3
+束	shu
+束	shu	277980
 束上起下	shu shang qi xia	1
 束之	shu zhi	1
 束之高屋	shu zhi gao wu	1
@@ -30098,6 +30788,10 @@ sort: by_weight
 束骨	shu gu	1
 束鹿	shu lu	13
 束鹿县	shu lu xian	3
+杸	shu
+枡	sheng
+枢	shu
+枢	shu	13115
 枢密	shu mi	444
 枢密使	shu mi shi	3525
 枢密院	shu mi yuan	6920
@@ -30113,6 +30807,14 @@ sort: by_weight
 枢纽港	shu niu gang	3895
 枢纽站	shu niu zhan	3860
 枢要	shu yao	62
+枾	shi
+柖	shao
+柖	shao	1
+柛	shen
+柵	shan
+柹	shi
+柿	shi
+柿	shi	8210
 柿原彻也	shi yuan che ye	2
 柿叶茶	shi ye cha	392
 柿子	shi zi	34085
@@ -30143,6 +30845,9 @@ sort: by_weight
 柿霜软糖	shi shuang ruan tang	14
 柿面糊塌	shi mian hu ta	81
 柿饼	shi bing	9999
+栅	shan
+栅	shan	1
+栅	shi
 栅极	shan ji	452
 栅极电压	shan ji dian ya	1
 栅极驱动	shan ji qu dong	1
@@ -30150,6 +30855,8 @@ sort: by_weight
 栅格	shan ge	9190
 栅格数据	shan ge shu ju	108
 栅格系统	shan ge xi tong	98
+树	shu
+树	shu	474612
 树上	shu shang	74040
 树上倍增	shu shang bei zeng	132
 树上吊着	shu shang diao zhe	100
@@ -30432,6 +31139,8 @@ sort: by_weight
 树鼩目	shu qu mu	100
 树龄	shu ling	12005
 树龄最长	shu ling zui chang	100
+栓	shuan
+栓	shuan	10429
 栓剂	shuan ji	6305
 栓剂模具	shuan ji mu ju	100
 栓塞	shuan se	20485
@@ -30443,6 +31152,11 @@ sort: by_weight
 栓皮	shuan pi	1
 栓皮栎	shuan pi li	575
 栓马庄	shuan ma zhuang	1
+栻	shi
+栻	shi	27
+桬	sha
+梢	shao
+梢	shao	19244
 梢上	shao shang	1370
 梢头	shao tou	1685
 梢子	shao zi	615
@@ -30451,6 +31165,8 @@ sort: by_weight
 梢迁狗	shao qian gou	1
 梢门	shao men	410
 梢马	shao ma	95
+梳	shu
+梳	shu	39377
 梳一个	shu yi ge	100
 梳一个油头	shu yi ge you tou	100
 梳个油头	shu ge you tou	100
@@ -30508,23 +31224,67 @@ sort: by_weight
 梳过来	shu guo lai	100
 梳飞跃寄蝇	shu fei yue ji ying	1
 梳齿	shu chi	2180
+棯	shen
+棽	shen
+棽	shen	300
 棽棽	shen shen	2
+椉	sheng
+椫	shan
+椹	shen
+椹	shen	459
 椹果	shen guo	8
 椹果胶球虫	shen guo jiao qiu chong	1
+楯	shun
+楯	shun	136
 楯柱	shun zhu	2
 楯栏	shun lan	2
 楯槛	shun jian	4
 楯轩	shun xuan	2
+楴	shi
+榁	shi
+榊	shen
+榝	sha
+榯	shi
+榺	sheng
+槊	shuo
+槊	shuo	1763
+槫	shuan
+樉	shang
+樉	shuang
+樞	shu
+樧	sha
+樹	shu
+樿	shan
+橓	shun
+橳	sheng
+橾	shu
+檆	shan
+檡	shi
+檨	she
+欆	shuang
+欇	she
+欶	shuo
+歃	sha
+歃	sha	749
 歃血	sha xie	1835
 歃血	sha xue	1835
+歙	she
+歙	she	679
 歙县	she xian	2
 歙县二中	she xian er zhong	100
 歙县公安局	she xian gong an ju	100
 歙县豆腐脑髓	she xian dou fu nao sui	3
 歙漆阿胶	she qi e jiao	1
 歙砚	she yan	2575
+歚	shan
+歰	sha
+殅	sheng
+殇	shang
+殇	shang	4925
 殇之木乃伊	shang zhi mu nai yi	100
 殇之木乃伊阿木木	shang zhi mu nai yi a mu mu	100
+殊	shu
+殊	shu	112194
 殊不知	shu bu zhi	45210
 殊为	shu wei	3360
 殊为难得	shu wei nan de	100
@@ -30573,6 +31333,19 @@ sort: by_weight
 殊途同归	shu tu tong gui	7735
 殊途同致	shu tu tong zhi	1
 殊遇	shu yu	395
+殖	shi
+殖	shi	1
+殤	shang
+殳	shu
+殳	shu	432
+殸	sheng
+殺	sha
+毮	sha
+毹	shu
+毹	shu	80
+毺	shu
+氏	shi
+氏	shi	165389
 氏丸子	shi wan zi	3
 氏家族	shi jia zu	100
 氏族	shi zu	27205
@@ -30583,6 +31356,9 @@ sort: by_weight
 氏族谱	shi zu pu	2615
 氏族部落	shi zu bu luo	100
 氏谱	shi pu	5
+氠	shen
+水	shui
+水	shui	1817943
 水一下	shui yi xia	64
 水一冲	shui yi chong	100
 水一水	shui yi shui	223
@@ -32649,6 +33425,10 @@ sort: by_weight
 水龙骨科	shui long gu ke	100
 水龙鳞盔甲	shui long lin kui jia	1
 水龟	shui gui	3698
+氵	shui
+氺	shui
+汕	shan
+汕	shan	2204
 汕北大道	shan bei da dao	112
 汕大	shan da	1995
 汕头	shan tou	1475
@@ -32665,7 +33445,11 @@ sort: by_weight
 汕尾水产品批发市场	shan wei shui chan pin pi fa shi chang	3
 汕尾港	shan wei gang	28
 汕尾职业技术学院	shan wei zhi ye ji shu xue yuan	24
+汤	shang
+汤	shang	1
 汤汤	shang shang	1
+沈	shen
+沈	shen	218519
 沈一涵	shen yi han	153
 沈一鸣	shen yi ming	115
 沈万千	shen wan qian	179
@@ -32975,6 +33759,8 @@ sort: by_weight
 沈鸿	shen hong	60
 沈鸿烈	shen hong lie	55
 沈鹏	shen peng	2825
+沙	sha
+沙	sha	42765
 沙·克洛克达尔	sha ke luo ke da er	111
 沙一汀	sha yi ting	105
 沙丁乡	sha ding xiang	18
@@ -33658,15 +34444,28 @@ sort: by_weight
 沙龙蝎尾蕉	sha long xie wei jiao	1
 沙龙街	sha long jie	2
 沙龙路	sha long lu	45
+沭	shu
+沭	shu	665
 沭河	shu he	139
 沭河古道	shu he gu dao	100
 沭阳县	shu yang xian	10995
+泏	she
+泩	sheng
+泷	shuang
+泷	shuang	1
 泷冈	shuang gang	2
 泷水	shuang shui	2
 泷水县	shuang shui xian	1
+泽	shi
+洬	shuo
+浉	shi
+浉	shi	1
 浉城百丽	shi cheng bai li	4
 浉河中学	shi he zhong xue	168
 浉河区	shi he qu	1
+涁	shen
+涉	she
+涉	she	80705
 涉世	she shi	3930
 涉世不深	she shi bu shen	2800
 涉世之道	she shi zhi dao	100
@@ -33851,6 +34650,11 @@ sort: by_weight
 涉黑涉恶腐败问题	she hei she e fu bai wen ti	100
 涉黑涉恶违法犯罪	she hei she e wei fa fan zui	100
 涉黑涉恶问题	she hei she e wen ti	100
+涗	shui
+涚	shui
+涭	shou
+涮	shuan
+涮	shuan	6454
 涮一涮	shuan yi shuan	100
 涮个	shuan ge	222
 涮个火锅	shuan ge huo guo	100
@@ -33867,6 +34671,9 @@ sort: by_weight
 涮肉	shuan rou	3165
 涮锅	shuan guo	2415
 涮锅子	shuan guo zi	250
+涻	she
+淑	shu
+淑	shu	54159
 淑丽	shu li	1515
 淑人君子	shu ren jun zi	365
 淑女	shu nv	59810
@@ -33896,6 +34703,9 @@ sort: by_weight
 淑质英才	shu zhi ying cai	1
 淑质贞亮	shu zhi zhen liang	1
 淑静	shu jing	770
+淰	shen
+深	shen
+深	shen	5460800
 深一度	shen yi du	100
 深一模	shen yi mo	197
 深一步	shen yi bu	1110
@@ -35147,6 +35957,12 @@ sort: by_weight
 深黑紫	shen hei zi	1
 深黑色	shen hei se	2775
 深龋	shen qu	7
+渉	she
+渑	sheng
+渑	sheng	0
+渖	shen
+渗	shen
+渗	shen	35558
 渗入	shen ru	38495
 渗入到	shen ru dao	3385
 渗入地下	shen ru di xia	100
@@ -35219,6 +36035,14 @@ sort: by_weight
 渗透速度	shen tou su du	100
 渗透颠覆	shen tou dian fu	30
 渗量	shen liang	365
+渻	sheng
+湜	shi
+湜	shi	180
+湤	shi
+湦	sheng
+湯	shang
+湿	shi
+湿	shi	1106830
 湿一些	shi yi xie	1960
 湿一点	shi yi dian	1960
 湿不了	shi bu liao	40
@@ -35435,8 +36259,18 @@ sort: by_weight
 湿鞋	shi xie	4444
 湿鞋了	shi xie le	123
 湿风	shi feng	330
+溡	shi
+溮	shi
+溼	shi
+滠	she
+滠	she	74
 滠澌沭漕	she si shu cao	1
 滠澌漕沭	she si cao shu	100
+滲	shen
+滳	shang
+漡	shang
+漱	shu
+漱	shu	15713
 漱口	shu kou	20380
 漱口剂	shu kou ji	185
 漱口杯	shu kou bei	100
@@ -35450,8 +36284,16 @@ sort: by_weight
 漱石枕流	shu shi zhen liu	100
 漱芳	shu fang	385
 漱芳斋	shu fang zhai	490
+漴	shuang	1
+漺	shuang
+潄	shu
+潬	shan
+潲	shao
+潲	shao	214
 潲桶	shao tong	20
 潲水	shao shui	2265
+潸	shan
+潸	shan	3155
 潸潸	shan shan	10
 潸焉出涕	shan yan chu ti	3
 潸然	shan ran	2665
@@ -35461,9 +36303,33 @@ sort: by_weight
 潸然流涕	shan ran liu ti	100
 潸然涕下	shan ran ti xia	100
 潸然落泪	shan ran luo lei	100
+潻	shu
+澍	shu
+澍	shu	1364
+澘	shan
+澠	sheng
+澤	shi
+澨	shi
+濈	sha
+濕	shi
+濖	shu
+瀋	shen
+瀧	shuang
+瀭	shu
+灀	shuang
+灄	she
+灗	shan
+炶	shan
+炻	shi
+炻	shi	266
 炻器	shi qi	1
+烁	shuo
+烁	shuo	56718
 烁亮	shuo liang	120
 烁烁	shuo shuo	190
+烒	shi
+烧	shao
+烧	shao	235818
 烧一下	shao yi xia	96
 烧一天	shao yi tian	100
 烧一烧	shao yi shao	123
@@ -35755,6 +36621,13 @@ sort: by_weight
 烧鹅髀	shao e bi	100
 烧麦	shao mai	6069
 烧黑	shao hei	970
+烻	shan	1
+焂	shu
+焺	sheng
+焼	shao
+煔	shan
+煞	sha
+煞	sha	70229
 煞住	sha zhu	1385
 煞天下铠	sha tian xia kai	1
 煞天噬髓	sha tian shi sui	1
@@ -35779,6 +36652,9 @@ sort: by_weight
 煞费经营	sha fei jing ying	1
 煞费苦心	sha fei ku xin	10335
 煞风景	sha feng jing	3595
+煶	shi
+煽	shan
+煽	shan	12159
 煽动	shan dong	104605
 煽动力	shan dong li	1310
 煽动性	shan dong xing	2635
@@ -35800,6 +36676,11 @@ sort: by_weight
 煽颠	shan dian	1111
 煽风	shan feng	430
 煽风点火	shan feng dian huo	3565
+熌	shan
+熟	shou
+熟	shou	379833
+熟	shu
+熟	shu	379833
 熟丝	shou si	100
 熟丝	shu si	100
 熟习	shu xi	3375
@@ -35953,13 +36834,21 @@ sort: by_weight
 熟食	shu shi	20385
 熟饭	shou fan	650
 熟饭	shu fan	1650
+熵	shang
+熵	shang	481
 熵减	shang jian	111
 熵减小	shang jian xiao	100
 熵变	shang bian	369
 熵增	shang zeng	5555
 熵增加	shang zeng jia	150
 熵编码	shang bian ma	749
+燊	shen
+燊	shen	733
 燊海井	shen hai jing	100
+燒	shao
+爍	shuo
+爽	shuang
+爽	shuang	126265
 爽一下	shuang yi xia	12
 爽一爽	shuang yi shuang	123
 爽不	shuang bu	3333
@@ -36063,6 +36952,8 @@ sort: by_weight
 爽飞	shuang fei	1111
 爽飞了	shuang fei le	100
 爽食赢天下	shuang shi ying tian xia	1250
+牲	sheng
+牲	sheng	68954
 牲口	sheng kou	16570
 牲口棚	sheng kou peng	295
 牲畜	sheng chu	55375
@@ -36070,6 +36961,11 @@ sort: by_weight
 牲畜粪	sheng chu fen	100
 牲畜饲养	sheng chu si yang	825
 牲畜饲料	sheng chu si liao	400
+狌	sheng
+狦	shan
+狧	shi
+狩	shou
+狩	shou	9422
 狩岳巡方	shou yue xun fang	1
 狩猎	shou lie	52040
 狩猎凤蝶	shou lie feng die	100
@@ -36083,6 +36979,8 @@ sort: by_weight
 狩猎游戏	shou lie you xi	157
 狩猎者	shou lie zhe	2555
 狩猎行动	shou lie xing dong	100
+狮	shi
+狮	shi	57466
 狮东村	shi dong cun	3
 狮口银芽	shi kou yin ya	8
 狮吼	shi hou	2345
@@ -36177,8 +37075,18 @@ sort: by_weight
 狮鹫派	shi jiu pai	100
 狮鼻直杜父鱼	shi bi zhi du fu yu	1
 狮龙共舞	shi long gong wu	3
+狶	shi
+猀	sha
+猞	she
+猞	she	775
 猞猁	she li	2240
 猞猁属	she li shu	100
+獅	shi
+獡	shuo
+獣	shou
+獸	shou
+率	shuai
+率	shuai	13054
 率以为常	shuai yi wei chang	100
 率众	shuai zhong	11055
 率先	shuai xian	285050
@@ -36286,6 +37194,13 @@ sort: by_weight
 率领部	shuai ling bu	33
 率领部队	shuai ling bu dui	100
 率马以骥	shuai ma yi ji	100
+玿	shao
+玿	shao	1
+珄	sheng
+珅	shen
+珅	shen	5345
+珊	shan
+珊	shan	62734
 珊儿	shan er	111
 珊卓布拉克	shan zhuo bu la ke	100
 珊尔丽雪	shan er li xue	7
@@ -36337,6 +37252,13 @@ sort: by_weight
 珊蒂斯羽月	shan di si yu yue	100
 珊蝴虫	shan hu chong	23
 珊迪	shan di	2
+琞	sheng
+琡	shu
+瑡	shi
+瑹	shu
+璹	shu
+甚	shen
+甚	shen	576087
 甚为	shen wei	33485
 甚为不妥	shen wei bu tuo	339
 甚为不解	shen wei bu jie	100
@@ -36434,6 +37356,8 @@ sort: by_weight
 甚难	shen nan	3300
 甚高	shen gao	13175
 甚高频	shen gao pin	1310
+生	sheng
+生	sheng	4966773
 生一个	sheng yi ge	1125
 生一个娃娃	sheng yi ge wa wa	100
 生一次的	sheng yi ci de	1065
@@ -38587,7 +39511,14 @@ sort: by_weight
 生龙	sheng long	193
 生龙活现	sheng long huo xian	6
 生龙活虎	sheng long huo hu	7130
+甡	shen
+甡	shen	110
+甥	sheng
+甥	sheng	7427
 甥女	sheng nv	1110
+甧	shen
+甩	shuai
+甩	shuai	100637
 甩一甩	shuai yi shuai	565
 甩下	shuai xia	4670
 甩下去	shuai xia qu	100
@@ -38655,6 +39586,8 @@ sort: by_weight
 甩锅	shuai guo	9999
 甩鞭	shuai bian	111
 甩饼	shuai bing	537
+申	shen
+申	shen	78049
 申一帆	shen yi fan	100
 申一申	shen yi shen	102
 申万一级行业	shen wan yi ji hang ye	100
@@ -38936,8 +39869,19 @@ sort: by_weight
 申领地	shen ling di	100
 申饬	shen chi	385
 申鹏	shen peng	98
+甸	sheng
+畤	shi
+畬	she
+畬	she	0
+畭	she
+畲	she
+畲	she	890
 畲族	she zu	15860
 畲话	she hua	3
+疋	shu
+疎	shu
+疏	shu
+疏	shu	60274
 疏不见亲	shu bu jian qin	100
 疏不间亲	shu bu jian qin	100
 疏于	shu yu	18030
@@ -39068,14 +40012,25 @@ sort: by_weight
 疏风泄热	shu feng xie re	1
 疏食水饮	shu shi shui yin	8
 疏食饮水	shu shi yin shui	100
+疝	shan
+疝	shan	215
 疝修补术	shan xiu bu shu	31
 疝内容物	shan nei rong wu	28
 疝囊	shan nang	28
 疝气	shan qi	598
 疝立消	shan li xiao	26
+痁	shan
+痑	shi
+痧	sha
+痧	sha	379
 痧子	sha zi	35
+痩	shou
+瘆	shen
+瘆	shen	478
 瘆人	shen ren	255
 瘆得慌	shen de huang	60
+瘦	shou
+瘦	shou	127216
 瘦一圈	shou yi quan	111
 瘦一点	shou yi dian	100
 瘦下去	shou xia qu	1635
@@ -39213,6 +40168,10 @@ sort: by_weight
 瘦鱼	shou yu	3
 瘦鸟	shou niao	3
 瘦鸡	shou ji	3
+瘮	shen
+癙	shu
+盛	sheng
+盛	sheng	202048
 盛不能奋身出命	sheng bu neng fen shen chu ming	100
 盛不衰	sheng bu shuai	100
 盛世	sheng shi	72885
@@ -39589,6 +40548,8 @@ sort: by_weight
 盛食厉兵	sheng shi li bing	5
 盛馔	sheng zhuan	38
 盛龙路	sheng long lu	7
+省	sheng
+省	sheng	235937
 省一份	sheng yi fen	12500
 省一半	sheng yi ban	1180
 省一口	sheng yi kou	1095
@@ -40972,7 +41933,21 @@ sort: by_weight
 省高速集团	sheng gao su ji tuan	100
 省高院	sheng gao yuan	5450
 省麻烦	sheng ma fan	100
+眂	shi
+眎	shi
+眒	shen
+眘	shen
+眚	sheng
+眚	sheng	119
+眡	shi
+眴	shun
+睄	shao
+睄	shao	16
+睒	shan
 睒电窗	shan dian chuang	100
+睗	shi
+睡	shui
+睡	shui	616243
 睡一下	shui yi xia	77
 睡一会	shui yi hui	100
 睡一会儿	shui yi hui er	100
@@ -41395,6 +42370,12 @@ sort: by_weight
 睡醒觉	shui xing jiao	62
 睡魔	shui mo	99
 睡鹤仙	shui he xian	1
+瞚	shun
+瞤	shun
+瞫	shen
+瞫	shen	12
+瞬	shun
+瞬	shun	230645
 瞬光斩黯黮	shun guang zhan an dan	100
 瞬刻	shun ke	415
 瞬即	shun ji	3225
@@ -41458,6 +42439,9 @@ sort: by_weight
 瞬间转移	shun jian zhuan yi	100
 瞬间长大	shun jian zhang da	100
 瞬间降温	shun jian jiang wen	100
+矟	shuo
+矢	shi
+矢	shi	25495
 矢下如雨	shi xia ru yu	15
 矢不虚发	shi bu xu fa	100
 矢井田瞳	shi jing tian tong	33
@@ -41517,7 +42501,12 @@ sort: by_weight
 矢量模型	shi liang mo xing	35
 矢量积	shi liang ji	141
 矢量蒙版	shi liang meng ban	29
+矤	shen
+矧	shen
+矧	shen	82
 矧兹有苗	shen zi you miao	100
+石	shi
+石	shi	885579
 石万嗔	shi wan chen	123
 石上三年	shi shang san nian	100
 石上静香	shi shang jing xiang	100
@@ -42673,6 +43662,8 @@ sort: by_weight
 石龙过江	shi long guo jiang	4
 石龟	shi gui	107
 石龟村	shi gui cun	1
+砂	sha
+砂	sha	17805
 砂与海之歌	sha yu hai zhi ge	129
 砂之盾	sha zhi dun	100
 砂之铠	sha zhi kai	100
@@ -42782,6 +43773,8 @@ sort: by_weight
 砂隐	sha yin	1
 砂隐忍者村	sha yin ren zhe cun	100
 砂隐村	sha yin cun	100
+砷	shen
+砷	shen	404
 砷中毒	shen zhong du	1835
 砷元素	shen yuan su	100
 砷化氢	shen hua qing	600
@@ -42799,6 +43792,9 @@ sort: by_weight
 砷锑矿	shen ti kuang	123
 砷黄铁矿	shen huang tie kuang	10
 砷𬭩离子	shen weng li zi	100
+硕	shi
+硕	shuo
+硕	shuo	38779
 硕人其颀	shuo ren qi qi	6
 硕儒	shuo ru	2
 硕儒村	shuo ru cun	4
@@ -42841,6 +43837,15 @@ sort: by_weight
 硕美科	shuo mei ke	100
 硕集镇	shuo ji zhen	41
 硕鼠硕鼠	shuo shu shuo shu	221
+硰	sha
+碩	shi
+碩	shuo
+磰	shan
+磼	she
+礵	shuang
+礵	shuang	6
+示	shi
+示	shi	492951
 示不同意	shi bu tong yi	6
 示亡号	shi wang hao	100
 示人	shi ren	16045
@@ -42945,6 +43950,9 @@ sort: by_weight
 示踪剂	shi zong ji	485
 示踪原子	shi zong yuan zi	100
 示踪物	shi zong wu	100
+礻	shi
+社	she
+社	she	76704
 社下	she xia	13
 社二	she er	11
 社交	she jiao	93665
@@ -43671,6 +44679,10 @@ sort: by_weight
 社队企业	she dui qi ye	865
 社饭	she fan	843
 社鼠城狐	she shu cheng hu	100
+祏	shi
+祏	shi	38
+神	shen
+神	shen	5509843
 神一样	shen yi yang	100
 神不主体	shen bu zhu ti	1
 神不守舍	shen bu shou she	51
@@ -44831,14 +45843,27 @@ sort: by_weight
 神龙马壮	shen long ma zhuang	1
 神龛	shen kan	6455
 神龟	shen gui	4870
+祱	shui
+祳	shen
+禅	shan
+禅	shan	2000
 禅位	shan wei	1111
 禅让	shan rang	3620
 禅让制	shan rang zhi	100
 禅让帝位	shan rang di wei	100
+禓	shang
+禪	shan
+秫	shu
+秫	shu	500
 秫秫	shu shu	1
 秫秸	shu jie	865
 秫米	shu mi	375
 秫茎	shu jing	375
+秲	shi
+稅	shui
+稌	shu
+稍	shao
+稍	shao	214761
 稍一	shao yi	12230
 稍一不慎	shao yi bu shen	108
 稍不	shao bu	6840
@@ -44962,6 +45987,8 @@ sort: by_weight
 稍长些	shao chang xie	100
 稍高	shao gao	14340
 稍高于	shao gao yu	2060
+税	shui
+税	shui	61205
 税上加税	shui shang jia shui	100
 税交得多	shui jiao de duo	100
 税交得少	shui jiao de shao	100
@@ -45143,6 +46170,12 @@ sort: by_weight
 税项	shui xiang	12730
 税额	shui e	70755
 税额计算	shui e ji suan	870
+穇	shan
+穼	shen
+竍	shi
+竔	sheng
+竖	shu
+竖	shu	54125
 竖中指	shu zhong zhi	3333
 竖了起来	shu le qi lai	100
 竖井	shu jing	6890
@@ -45202,6 +46235,10 @@ sort: by_weight
 竖起脊梁	shu qi ji liang	100
 竖起自然	shu qi zi ran	100
 竖鸡蛋	shu ji dan	100
+竪	shu
+笘	shan
+笙	sheng
+笙	sheng	18633
 笙歌	sheng ge	9460
 笙歌不辍	sheng ge bu chuo	100
 笙歌归院落	sheng ge gui yuan luo	3
@@ -45210,6 +46247,9 @@ sort: by_weight
 笙磬同音	sheng qing tong yin	100
 笙管乐	sheng guan yue	75
 笙箫	sheng xiao	111
+笶	shi
+筛	shai
+筛	shai	788300
 筛一筛	shai yi shai	123
 筛一遍	shai yi bian	100
 筛下	shai xia	1070
@@ -45270,10 +46310,55 @@ sort: by_weight
 筛锣擂鼓	shai luo lei gu	2
 筛除	shai chu	845
 筛骨	shai gu	11
+筮	shi
+筮	shi	492
 筮短龟长	shi duan gui chang	1
 筮问	shi wen	2
+筲	shao
+筲	shao	276
 筲箕	shao ji	1715
 筲箕涂	shao ji tu	7
+箑	sha
+箷	shi
+箾	shuo
+篩	shai
+簁	shai
+簛	shai
+簭	shi
+籂	shi
+籔	shu
+籭	shai
+籶	shen
+籸	shen
+粆	sha
+糁	shen
+糁	shen	308
+糂	shen
+糝	shen
+糣	shen
+糬	shu
+紓	shu
+紗	sha
+紳	shen
+紹	shao
+絁	shi
+絉	shu
+絟	shuan
+綀	shu
+綤	shao
+綬	shou
+緔	shang
+緰	shu
+縄	sheng
+縔	shuang
+縗	shuai
+縿	shan
+繉	sheng
+繕	shan
+繩	sheng
+繺	sha
+纱	sha
+纱	sha	63048
 纱丽	sha li	5555
 纱丽服	sha li fu	5555
 纱丽迷情	sha li mi qing	100
@@ -45320,9 +46405,13 @@ sort: by_weight
 纱裙	sha qun	3270
 纱锭	sha ding	2790
 纱门	sha men	2600
+纾	shu
+纾	shu	1708
 纾困	shu kun	1111
 纾缓	shu huan	2310
 纾解	shu jie	3230
+绅	shen
+绅	shen	21513
 绅士	shen shi	55400
 绅士们	shen shi men	125
 绅士协定	shen shi xie ding	9999
@@ -45336,6 +46425,8 @@ sort: by_weight
 绅士风度	shen shi feng du	7835
 绅士鸦	shen shi ya	100
 绅湖公馆	shen hu gong guan	152
+绍	shao
+绍	shao	183310
 绍丝印	shao si yin	100
 绍丰和	shao feng he	1
 绍义	shao yi	410
@@ -45392,7 +46483,11 @@ sort: by_weight
 绍莫吉州	shao mo ji zhou	100
 绍酒	shao jiu	11680
 绍铮	shao zheng	75
+绱	shang
+绱	shang	147
 绱鞋	shang xie	160
+绳	sheng
+绳	sheng	70768
 绳一戒百	sheng yi jie bai	1
 绳不挠曲	sheng bu nao qu	100
 绳之以党纪国法	sheng zhi yi dang ji guo fa	100
@@ -45433,18 +46528,27 @@ sort: by_weight
 绳锯木断	sheng ju mu duan	445
 绳长	sheng chang	555
 绳降	sheng jiang	32
+绶	shou
+绶	shou	1764
 绶带	shou dai	4395
 绶带卷尾	shou dai juan wei	1
 绶带长尾风鸟	shou dai chang wei feng niao	1
 绶带鸟	shou dai niao	100
 绶溪公园	shou xi gong yuan	100
 绶草	shou cao	3
+缞	shuai
+缮	shan
+缮	shan	2715
 缮写	shan xie	1250
 缮写员	shan xie yuan	25
 缮发	shan fa	111
 缮校	shan jiao	90
 缮甲厉兵	shan jia li bing	100
 缮甲治兵	shan jia zhi bing	100
+罙	shen
+罧	shen
+署	shu
+署	shu	46050
 署假名	shu jia ming	20
 署前街	shu qian jie	7
 署名	shu ming	60060
@@ -45454,6 +46558,13 @@ sort: by_weight
 署名的	shu ming de	7140
 署理	shu li	1
 署长	shu zhang	3310
+羴	shan
+羶	shan
+翜	sha
+翣	sha
+耆	shi
+耍	shua
+耍	shua	70234
 耍不动	shua bu dong	25
 耍两面派	shua liang mian pai	12
 耍个性	shua ge xing	100
@@ -45551,6 +46662,10 @@ sort: by_weight
 耍阴谋	shua yin mou	565
 耍雪	shua xue	111
 耍骨头	shua gu tou	100
+聖	sheng
+聲	sheng
+肾	shen
+肾	shen	10212
 肾上腺	shen shang xian	17895
 肾上腺囊肿	shen shang xian nang zhong	1
 肾上腺增生	shen shang xian zeng sheng	4
@@ -45726,7 +46841,11 @@ sort: by_weight
 肾静脉	shen jing mai	22
 肾髓质	shen sui zhi	5
 肾髓质囊性病	shen sui zhi nang xing bing	4
+胂	shen
+胂	shen	59
 胂酸	shen suan	7
+胜	sheng
+胜	sheng	411127
 胜一局	sheng yi ju	755
 胜一把	sheng yi ba	100
 胜不了	sheng bu liao	730
@@ -45928,10 +47047,21 @@ sort: by_weight
 胜阳港	sheng yang gang	16
 胜面	sheng mian	2222
 胜革呈红	sheng ge cheng hong	1
+脠	shan
+脤	shen
+脽	shui
+腎	shen
+腧	shu
+腧	shu	106
 腧募配穴	shu mu pei xue	5
 腧府	shu fu	1
 腧府穴	shu fu xue	1
 腧穴	shu xue	3
+腨	shuan
+腨	shuan	2
+膄	shou
+膳	shan
+膳	shan	9913
 膳堂	shan tang	1111
 膳夫善治荐华堂	shan fu shan zhi jian hua tang	1
 膳宿	shan su	1675
@@ -45950,10 +47080,14 @@ sort: by_weight
 膳食费	shan shi fei	685
 膳食费用	shan shi fei yong	100
 膳食部	shan shi bu	155
+膻	shan
+膻	shan	1908
 膻味	shan wei	3040
 膻味重	shan wei zhong	4
 膻气	shan qi	9
 膻秽	shan hui	4
+舌	she
+舌	she	115405
 舌一卷	she yi juan	100
 舌上	she shang	1815
 舌上射精	she shang she jing	100
@@ -46046,6 +47180,8 @@ sort: by_weight
 舌鳎	she ta	36
 舌鳎鱼	she ta yu	3
 舌齿黏酸	she chi nian suan	100
+舍	she
+舍	she	276743
 舍下	she xia	2660
 舍下他	she xia ta	100
 舍下你	she xia ni	100
@@ -46249,6 +47385,9 @@ sort: by_weight
 舍邪归正	she xie gui zheng	8
 舍间	she jian	320
 舍鱼而取熊掌者也	she yu er qu xiong zhang zhe ye	13
+舎	she
+舐	shi
+舐	shi	1734
 舐毫吮墨	shi hao shun mo	100
 舐犊	shi du	1180
 舐犊之爱	shi du zhi ai	100
@@ -46259,6 +47398,8 @@ sort: by_weight
 舐痔吮痈	shi zhi shun yong	100
 舐皮论骨	shi pi lun gu	100
 舐糠及米	shi kang ji mi	100
+舒	shu
+舒	shu	255489
 舒不舒服	shu bu shu fu	100
 舒不舒服呀	shu bu shu fu ya	100
 舒不舒服啊	shu bu shu fu a	100
@@ -46443,6 +47584,9 @@ sort: by_weight
 舒雅颂	shu ya song	100
 舒马克	shu ma ke	100
 舒马赫	shu ma he	29075
+舓	shi
+舜	shun
+舜	shun	7460
 舜不告而娶	shun bu gao er qu	3
 舜之为臣也	shun zhi wei chen ye	1
 舜亦以命禹	shun yi yi ming yu	2
@@ -46459,13 +47603,24 @@ sort: by_weight
 舜王	shun wang	20
 舜禹之有天下也	shun yu zhi you tian xia ye	1
 舜耕	shun geng	719
+舢	shan
+舢	shan	1209
 舢板	shan ban	2490
 舢板运动	shan ban yun dong	100
+艄	shao
+艄	shao	1018
 艄公	shao gong	2960
 艄公号子鱼	shao gong hao zi yu	2
+艏	shou
+艏	shou	514
 艏楼	shou lou	100
+艭	shuang
+色	shai
+色	shai	1193
 色子	shai zi	9320
 色酒	shai jiu	750
+芍	shao
+芍	shao	2961
 芍药	shao yao	17165
 芍药居	shao yao ju	2705
 芍药居东	shao yao ju dong	1
@@ -46476,17 +47631,27 @@ sort: by_weight
 芍药科	shao yao ke	100
 芍药花	shao yao hua	100
 芍药苷	shao yao gan	3
+芟	shan
+芟	shan	162
 芟夷	shan yi	2
 芟夷大难	shan yi da nan	1
 芟秋	shan qiu	1
 芟繁就简	shan fan jiu jian	1
 芟除	shan chu	165
+苕	shao
+苕	shao	1135
 苕酥糖	shao su tang	3
+苫	shan
+苫	shan	821
 苫布	shan bu	850
 苫席	shan xi	3
 苫盖	shan gai	830
 苫眼铺眉	shan yan pu mei	100
 苫背	shan bei	1
+苼	sheng
+荗	shu
+莎	sha
+莎	sha	107897
 莎乐美	sha le mei	37
 莎克特	sha ke te	1
 莎士比亚	sha shi bi ya	30880
@@ -46521,6 +47686,8 @@ sort: by_weight
 莎车	sha che	1
 莎车农场	sha che nong chang	11
 莎车县	sha che xian	1410
+莘	shen
+莘	shen	6743
 莘县	shen xian	2
 莘塍豆腐干	shen cheng dou fu gan	3
 莘姓	shen xing	1
@@ -46528,6 +47695,9 @@ sort: by_weight
 莘莘	shen shen	2585
 莘莘学子	shen shen xue zi	13310
 莘莘学子们	shen shen xue zi men	1111
+莦	shao
+莳	shi
+莳	shi	778
 莳花弄草	shi hua nong cao	100
 莳花种草	shi hua zhong cao	100
 莳萝	shi luo	960
@@ -46535,14 +47705,37 @@ sort: by_weight
 莳萝籽	shi luo zi	100
 莳萝芦笋三文鱼面	shi luo lu sun san wen yu mian	2
 莳萝草	shi luo cao	36
+菨	sha
+菽	shu
+菽	shu	355
 菽庄花园	shu zhuang hua yuan	40
 菽水之欢	shu shui zhi huan	100
 菽水成欢	shu shui cheng huan	5
 菽水承欢	shu shui cheng huan	100
 菽粟	shu su	335
 菽麦不辨	shu mai bu bian	3
+萐	sha
+萷	shao
+葚	shen
+葚	shen	431
+葠	shen
+葹	shi
+蒁	shu
+蒒	shi
+蒔	shi
+蒣	shu
+蒴	shuo
+蒴	shuo	39
 蒴果	shuo guo	2485
+蓍	shi
+蓍	shi	385
 蓍草	shi cao	1
+蓡	shen
+蔎	she
+蔏	shang
+蔘	shen
+蔬	shu
+蔬	shu	12038
 蔬果	shu guo	17005
 蔬果市场	shu guo shi chang	71
 蔬果搭配	shu guo da pei	113
@@ -46586,6 +47779,14 @@ sort: by_weight
 蔬菜饼干	shu cai bing gan	492
 蔬菜鸡肉饼	shu cai ji rou bing	1
 蔬食布衣	shu shi bu yi	100
+蔱	sha
+蕂	sheng
+蕣	shun
+蕱	shao
+薓	shen
+薥	shu
+薯	shu
+薯	shu	10341
 薯小虎	shu xiao hu	100
 薯条	shu tiao	17145
 薯条侠	shu tiao xia	100
@@ -46603,6 +47804,10 @@ sort: by_weight
 薯蓣目	shu yu mu	100
 薯蓣科	shu yu ke	100
 薯饼	shu bing	2
+藷	shu
+虪	shu
+虱	shi
+虱	shi	3191
 虱处裈中	shi chu kun zhong	100
 虱多不痒	shi duo bu yang	42
 虱子	shi zi	9760
@@ -46611,6 +47816,9 @@ sort: by_weight
 虱目鱼	shi mu yu	610
 虱胫虮肝	shi jing ji gan	1
 虱蝇	shi ying	2
+虵	she
+蚀	shi
+蚀	shi	20185
 蚀刻	shi ke	11050
 蚀刻师	shi ke shi	100
 蚀刻机	shi ke ji	945
@@ -46622,6 +47830,8 @@ sort: by_weight
 蚀耗	shi hao	35
 蚀骨情深	shi gu qing shen	100
 蚀魂销骨	shi hun xiao gu	1
+蛇	she
+蛇	she	160445
 蛇人	she ren	111
 蛇人部落	she ren bu luo	100
 蛇伤	she shang	468
@@ -46785,7 +47995,12 @@ sort: by_weight
 蛇麻	she ma	735
 蛇麻草	she ma cao	650
 蛇鼠一窝	she shu yi wo	100
+蛥	she
+蛸	shao
+蛸	shao	37
 蛸与海女	shao yu hai nv	100
+蜀	shu
+蜀	shu	33368
 蜀中	shu zhong	9635
 蜀中无大将	shu zhong wu da jiang	365
 蜀乡人家	shu xiang ren jia	6
@@ -46860,18 +48075,38 @@ sort: by_weight
 蜀驼花天牛	shu tuo hua tian niu	1
 蜀麻吴盐自古通	shu ma wu yan zi gu tong	1
 蜀黍	shu shu	2
+蜃	shen
+蜃	shen	4184
 蜃彩流	shen cai liu	100
 蜃散云收破楼阁	shen san yun shou po lou ge	5
 蜃景	shen jing	560
 蜃楼	shen lou	2785
 蜃楼山市	shen lou shan shi	1
 蜃楼海市	shen lou hai shi	100
+蜄	shen
+蝕	shi
+蝨	shi
+螪	shang
+螫	shi
+螫	shi	370
 螫针	shi zhen	3
+蟀	shuai
+蟀	shuai	4666
+蟮	shan
+蟮	shan	385
+蟺	shan
+蠂	she
+蠴	shu
+術	shu
+衫	shan
+衫	shan	77529
 衫林溪	shan lin xi	100
 衫衣	shan yi	11
 衫袖	shan xiu	1145
 衫裙	shan qun	1111
 衫裤	shan ku	1685
+衰	shuai
+衰	shuai	46360
 衰世	shuai shi	840
 衰之以属	shuai zhi yi shu	100
 衰乱	shuai luan	355
@@ -46940,7 +48175,26 @@ sort: by_weight
 衰颜欲付紫金丹	shuai yan yu fu zi jin dan	1
 衰飒	shuai sa	345
 衰鬼	shuai gui	7
+袑	shao
+裋	shu
 裋褐	shu he	1
+裑	shen
+裞	shui
+裟	sha
+裟	sha	3853
+裳	shang
+裳	shang	39939
+褷	shi
+襡	shu
+襩	shu
+襫	shi
+襫	shi	1
+襹	shi
+視	shi
+覢	shan
+覾	shen
+视	shi
+视	shi	787375
 视下如伤	shi xia ru shang	1
 视丘	shi qiu	710
 视丹如绿	shi dan ru lv	1
@@ -47636,8 +48890,21 @@ sort: by_weight
 视黄酸	shi huang suan	160
 视黄醇	shi huang chun	1925
 视黄醛	shi huang quan	250
+觞	shang
+觞	shang	1255
 觞咏	shang yong	265
 觞酒豆肉	shang jiu dou rou	1
+觢	shi
+觴	shang
+訕	shan
+訠	shen
+設	she
+訷	shen
+試	shi
+詩	shi
+詵	shen
+誓	shi
+誓	shi	85826
 誓不	shi bu	9055
 誓不两立	shi bu liang li	1
 誓不为人	shi bu wei ren	100
@@ -47678,6 +48945,26 @@ sort: by_weight
 誓言	shi yan	72750
 誓言永恒	shi yan yong heng	4485
 誓词	shi ci	8320
+誜	shua
+說	shui
+說	shuo
+説	shui
+説	shuo
+誰	shei
+誰	shui
+諗	shen
+諟	shi
+諡	shi
+諰	shai
+謆	shan
+謚	shi
+謪	shang
+識	shi
+譝	sheng
+譱	shan
+讅	shen
+讪	shan
+讪	shan	21892
 讪上	shan shang	4
 讪上卖直	shan shang mai zhi	100
 讪上沽直	shan shang gu zhi	100
@@ -47690,6 +48977,8 @@ sort: by_weight
 讪讪	shan shan	63
 讪讪地	shan shan de	100
 讪谤	shan bang	3
+设	she
+设	she	369436
 设一下	she yi xia	1180
 设下	she xia	16065
 设个	she ge	1111
@@ -48178,6 +49467,8 @@ sort: by_weight
 设限于	she xian yu	100
 设陷井	she xian jing	100
 设障	she zhang	1111
+识	shi
+识	shi	826907
 识二五而不知十	shi er wu er bu zhi shi	1
 识人	shi ren	47740
 识人之慧	shi ren zhi hui	100
@@ -48287,6 +49578,8 @@ sort: by_weight
 识途老马	shi tu lao ma	610
 识量	shi liang	235
 识面台官	shi mian tai guan	100
+试	shi
+试	shi	489076
 试一下	shi yi xia	26115
 试一下吗	shi yi xia ma	100
 试一下呢	shi yi xia ne	100
@@ -48783,6 +50076,8 @@ sort: by_weight
 试验频率	shi yan pin lv	100
 试验飞行	shi yan fei xing	100
 试麦	shi mai	75
+诗	shi
+诗	shi	277494
 诗一首	shi yi shou	3415
 诗三百	shi san bai	1235
 诗与梦	shi yu meng	100
@@ -48951,6 +50246,12 @@ sort: by_weight
 诗鬼	shi gui	5
 诗魂酒魄	shi hun jiu po	100
 诗魔酒病	shi mo jiu bing	100
+诜	shen
+诜	shen	171
+说	shui
+说	shui	1
+说	shuo
+说	shuo	12000460
 说一	shuo yi	44180
 说一下	shuo yi xia	36420
 说一下吗	shuo yi xia ma	200
@@ -49921,6 +51222,10 @@ sort: by_weight
 说鸡巴啥呢	shuo ji ba sha ne	100
 说黄道黑	shuo huang dao hei	100
 说黑道白	shuo hei dao bai	5
+谁	shei
+谁	shei	1064240
+谁	shui
+谁	shui	1064240
 谁上	shei shang	3065
 谁上	shui shang	3065
 谁不	shei bu	55690
@@ -50447,20 +51752,43 @@ sort: by_weight
 谁顶得住	shui ding de zhu	100
 谁顶得住啊	shei ding de zhu a	100
 谁顶得住啊	shui ding de zhu a	100
+谂	shen
+谂	shen	100
 谂悉	shen xi	5
 谂知	shen zhi	5
+谉	shen
+谌	shen
+谌	shen	1820
 谌利军	shen li jun	120
 谌家矶	shen jia ji	100
 谌贻琴	shen yi qin	119
+谥	shi
+谥	shi	2561
 谥号	shi hao	4505
 谥曰	shi yue	291
+豎	shu
+豕	shi
+豕	shi	812
 豕交兽畜	shi jiao shou chu	45
 豕亥鱼鲁	shi hai yu lu	1
 豕分蛇断	shi fen she duan	1
 豕突狼奔	shi tu lang ben	100
 豕窜狼逋	shi cuan lang bu	1
 豕食丐衣	shi shi gai yi	1
+貰	shi
+貹	sheng
+賒	she
+賖	she
+賞	shang
+賸	sheng
+贍	shan
+贖	shu
+贘	shang
+贳	shi
+贳	shi	24
 贳器店	shi qi dian	50
+赊	she
+赊	she	2108
 赊买	she mai	65
 赊借	she jie	85
 赊卖	she mai	70
@@ -50474,6 +51802,8 @@ sort: by_weight
 赊购	she gou	1615
 赊贷	she dai	220
 赊销	she xiao	12555
+赎	shu
+赎	shu	15491
 赎不了	shu bu liao	40
 赎买	shu mai	2450
 赎了身	shu le shen	100
@@ -50500,6 +51830,8 @@ sort: by_weight
 赎车	shu che	1111
 赎金	shu jin	7440
 赎魂	shu hun	1
+赏	shang
+赏	shang	170954
 赏一劝众	shang yi quan zhong	1
 赏一劝百	shang yi quan bai	5
 赏一赏	shang yi shang	123
@@ -50608,6 +51940,8 @@ sort: by_weight
 赏高罚下	shang gao fa xia	1
 赏鱼	shang yu	100
 赏鸟	shang niao	5
+赡	shan
+赡	shan	1869
 赡养	shan yang	19985
 赡养上帝	shan yang shang di	100
 赡养义务	shan yang yi wu	4965
@@ -50617,6 +51951,8 @@ sort: by_weight
 赡养老人	shan yang lao ren	3035
 赡养费	shan yang fei	6945
 赡部洲	shan bu zhou	1295
+赦	she
+赦	she	16333
 赦不妄下	she bu wang xia	1
 赦书一日行万里	she shu yi ri xing wan li	1
 赦令	she ling	470
@@ -50626,6 +51962,13 @@ sort: by_weight
 赦罪师	she zui shi	175
 赦罪责功	she zui ze gong	1
 赦过宥罪	she guo you zui	100
+赸	shan
+跚	shan
+跚	shan	6556
+跾	shu
+踈	shu
+身	shen
+身	shen	581990
 身上	shen shang	500587
 身上发泄	shen shang fa xie	100
 身上发泄了	shen shang fa xie le	100
@@ -51180,6 +52523,16 @@ sort: by_weight
 身高长	shen gao chang	100
 身高长相	shen gao zhang xiang	100
 身高马大	shen gao ma da	100
+軕	shan
+軗	shu
+軾	shi
+輋	she
+輎	shao
+輸	shu
+轼	shi
+轼	shi	3719
+输	shu
+输	shu	180207
 输一次	shu yi ci	9800
 输下去	shu xia qu	100
 输不了	shu bu liao	180
@@ -51649,12 +53002,16 @@ sort: by_weight
 输钱	shu qian	4240
 输错	shu cuo	111
 输面	shu mian	34
+辻	shi
+辻	shi	1
 辻井穗乃果	shi jing sui nai guo	6666
 辻亲八	shi qin ba	1
 辻利茶铺	shi li cha pu	1
 辻政信	shi zheng xin	2
 辻本杏	shi ben xing	1
 辻谷耕史	shi gu geng shi	1
+述	shu
+述	shu	164756
 述廉	shu lian	11
 述廉报告	shu lian bao gao	325
 述异记	shu yi ji	525
@@ -51671,6 +53028,8 @@ sort: by_weight
 述语	shu yu	32
 述说	shu shuo	27470
 述责述廉	shu ze shu lian	194
+适	shi
+适	shi	295023
 适不适合	shi bu shi he	222
 适不适合吗	shi bu shi he ma	100
 适不适合吧	shi bu shi he ba	100
@@ -51987,6 +53346,8 @@ sort: by_weight
 适龄儿童	shi ling er tong	30795
 适龄儿童入学率	shi ling er tong ru xue lv	100
 适龄青年	shi ling qing nian	2795
+逝	shi
+逝	shi	68598
 逝世	shi shi	56855
 逝世了	shi shi le	111
 逝世后	shi shi hou	806
@@ -52005,6 +53366,13 @@ sort: by_weight
 逝者安息	shi zhe an xi	100
 逝者已矣	shi zhe yi yi	335
 逝者已逝	shi zhe yi shi	100
+遈	shi
+適	shi
+遾	shi
+邖	shan
+邥	shen
+邵	shao
+邵	shao	34414
 邵一萍	shao yi ping	7
 邵东	shao dong	47
 邵东县	shao dong xian	235
@@ -52067,9 +53435,24 @@ sort: by_weight
 邵雨轩	shao yu xuan	193
 邵震中	shao zhen zhong	9
 邵飘萍	shao piao ping	65
+邿	shi
+邿	shi	2
+鄃	shu
+鄃	shu	6
+鄯	shan
+鄯	shan	683
 鄯善县	shan shan xian	1905
 鄯善龙	shan shan long	7
+酾	shai
+酾	shai	0
+酾	shi
+酾	shi	70
 酾酒临江	shi jiu lin jiang	100
+醳	shi
+釃	shi
+釈	shi
+释	shi
+释	shi	294626
 释不出	shi bu chu	30
 释义	shi yi	57730
 释典	shi dian	350
@@ -52142,26 +53525,75 @@ sort: by_weight
 释迦牟尼佛	shi jia mou ni fo	118
 释迦白钟螺	shi jia bai zhong luo	1
 释道	shi dao	2580
+釋	shi
+釤	shan
+釶	shi
+鈰	shi
+鉂	shi
+鉃	shi
+鉇	shi
+鉎	sheng
+鉐	shi
+鉥	shu
+鉮	shen
+鉽	shi
+銏	shan
+銏	shuo
+銴	shi
+鋠	shen
+鋿	shang
+錰	shu
+鍟	sheng
+鍦	shi
+鎙	shuo
+鎩	sha
+鏉	shou
+鏛	shang
+鏣	shu
+鏯	shuang
+鐥	shan
+鑜	shang
+鑠	shuo
+钐	shan
+钐	shan	24
 钐元素	shan yuan su	100
 钐刀	shan dao	1
 钐镰	shan lian	1
 钐镰客	shan lian ke	100
+铄	shuo
+铄	shuo	1850
 铄古切今	shuo gu qie jin	1
 铄懿渊积	shuo yi yuan ji	1
 铄玉流金	shuo yu liu jin	2
 铄石流金	shuo shi liu jin	100
 铄金毁骨	shuo jin hui gu	1
 铄金点玉	shuo jin dian yu	1
+铈	shi
+铈	shi	9
 铈元素	shi yuan su	100
+铩	sha
+铩	sha	1309
 铩羽	sha yu	760
 铩羽暴鳞	sha yu bao lin	1
 铩羽涸鳞	sha yu he lin	1
 铩羽而回	sha yu er hui	10
 铩羽而归	sha yu er gui	3085
 铩羽而逃	sha yu er tao	1
+閂	shuan
+閃	shan
+閄	shan
+閊	shan
+閖	shui
+閯	sha
+閷	sha
+闍	she
+闩	shuan
+闩	shuan	2512
 闩上	shuan shang	885
 闩门	shuan men	120
 闩门闭户	shuan men bi hu	1
+闪	shan
+闪	shan	551016
 闪不了	shan bu liao	20
 闪个不停	shan ge bu ting	64
 闪了	shan le	12750
@@ -52378,7 +53810,14 @@ sort: by_weight
 闪露	shan lu	435
 闪音	shan yin	5
 闪龙	shan long	17515
+阇	she
+阇	she	412
 阇梨	she li	2
+阩	sheng
+陎	shu
+陎	shu	1
+陕	shan
+陕	shan	18975
 陕一刀	shan yi dao	100
 陕京三线	shan jing san xian	87
 陕北	shan bei	41800
@@ -52549,11 +53988,23 @@ sort: by_weight
 陕财院	shan cai yuan	100
 陕重汽	shan zhong qi	100
 陕飞集团	shan fei ji tuan	100
+陝	shan
+陞	sheng
+陞	sheng	42
+陹	sheng
+隃	shu
+隃	shu	1
+雙	shuang
+霎	sha
+霎	sha	21405
 霎哈嘉瑜伽	sha ha jia yu jia	100
 霎时	sha shi	10360
 霎时之间	sha shi zhi jian	1580
 霎时间	sha shi jian	7220
 霎眼	sha yan	945
+霔	shu
+霜	shuang
+霜	shuang	89624
 霜严衣带断	shuang yan yi dai duan	1
 霜之哀伤	shuang zhi ai shang	100
 霜儿	shuang er	11
@@ -52620,6 +54071,12 @@ sort: by_weight
 霜鬃巨魔要塞	shuang zong ju mo yao sai	1
 霜鬟雪鬓	shuang huan xue bin	100
 霜鸟	shuang niao	35
+鞘	shao
+鞘	shao	1
+鞝	shang
+韘	she
+韶	shao
+韶	shao	13303
 韶乐	shao yue	8
 韶九胡同	shao jiu hu tong	3
 韶光	shao guang	2880
@@ -52655,6 +54112,11 @@ sort: by_weight
 韶钢松山	shao gang song shan	100
 韶音	shao yin	5
 韶颜稚齿	shao yan zhi chi	4
+順	shun
+頣	shen
+顫	shan
+顺	shun
+顺	shun	454929
 顺一下	shun yi xia	65
 顺一遍	shun yi bian	201
 顺一顺	shun yi shun	769
@@ -53093,6 +54555,8 @@ sort: by_weight
 顺风顺水喽	shun feng shun shui lou	100
 顺风驶船	shun feng shi chuan	1
 顺驰	shun chi	27805
+食	shi
+食	shi	353226
 食不下咽	shi bu xia yan	885
 食不二味	shi bu er wei	100
 食不充口	shi bu chong kou	100
@@ -53533,6 +54997,14 @@ sort: by_weight
 食骨在喉	shi gu zai hou	1
 食髓知味	shi sui zhi wei	360
 食鸦切	shi ya qie	100
+飠	shi
+飾	shi
+餙	shi
+餝	shi
+饍	shan
+饣	shi
+饰	shi
+饰	shi	119944
 饰以	shi yi	7625
 饰以丝带的心	shi yi si dai de xin	3333
 饰以斑点	shi yi ban dian	5
@@ -53598,6 +55070,8 @@ sort: by_weight
 饰颈皱鹟	shi jing zhou weng	1
 饰额短须寄蝇	shi e duan xu ji ying	1
 饰龟灯蛾	shi gui deng e	1
+首	shou
+首	shou	588887
 首下尻高	shou xia kao gao	1
 首丘之念	shou qiu zhi nian	100
 首丘之思	shou qiu zhi si	100
@@ -54113,6 +55587,15 @@ sort: by_weight
 首鼠两端	shou shu liang duan	570
 首鼠之士	shou shu zhi shi	100
 首鼠模棱	shou shu mo leng	1
+馶	shi
+駛	shi
+駪	shen
+騇	she
+騸	shan
+騻	shuang
+驦	shuang
+驶	shi
+驶	shi	80574
 驶上	shi shang	23111
 驶入	shi ru	24720
 驶入发	shi ru fa	100
@@ -54129,6 +55612,8 @@ sort: by_weight
 驶过	shi guo	14360
 驶近	shi jin	2920
 驶进	shi jin	8530
+骟	shan
+骟	shan	416
 骟牛	shan niu	3
 骟猪	shan zhu	212
 骟猪刀	shan zhu dao	123
@@ -54136,8 +55621,38 @@ sort: by_weight
 骟羊	shan yang	123
 骟马	shan ma	123
 骟鸡	shan ji	3
+骦	shuang
+骦	shuang	45
+髾	shao
+髿	sha
+鬊	shun
+鬺	shang
+魦	sha
+魫	shen
+鮖	shi
+鮛	shu
+鮹	shao
+鯅	shan
+鯊	sha
+鯋	sha
+鯓	shen
+鯴	shi
+鯵	shen
+鰘	shi
+鰣	shi
+鰤	shi
+鰰	shen
+鰺	shen
+鱓	shan
+鱔	shan
+鱪	shu
+鱰	shu
+鲥	shi
+鲥	shi	243
 鲥鱼	shi yu	369
 鲥鱼多刺	shi yu duo ci	100
+鲨	sha
+鲨	sha	9416
 鲨肝醇	sha gan chun	5
 鲨肝醇片	sha gan chun pian	1
 鲨鱼	sha yu	43440
@@ -54152,7 +55667,13 @@ sort: by_weight
 鲨鱼裤	sha yu ku	117
 鲨鱼馆	sha yu guan	100
 鲨齿龙	sha chi long	150
+鲹	shen
+鲹	shen	2
 鲹鱼	shen yu	5
+鲺	shi
+鲺	shi	4
+鳝	shan
+鳝	shan	1316
 鳝丝	shan si	2330
 鳝溪	shan xi	2
 鳝溪农场	shan xi nong chang	2
@@ -54162,7 +55683,23 @@ sort: by_weight
 鳝鱼煮馍	shan yu zhu mo	1
 鳝鱼辣汤	shan yu la tang	3
 鳝鱼面	shan yu mian	100
+鳣	shan
+鳲	shi
+鳾	shi
+鵢	shen
+鵨	shu
+鵿	sheng
+鶐	shu
+鶳	shi
+鷞	shuang
+鸘	shuang
+鸤	shi
+鸤	shi	2
 鸤鸠	shi jiu	105
+鹴	shuang
+鹴	shuang	54
+麝	she
+麝	she	2895
 麝子油醇	she zi you chun	10
 麝月	she yue	3115
 麝牛	she niu	111
@@ -54194,6 +55731,8 @@ sort: by_weight
 麝香镇痛膏	she xiang zhen tong gao	2
 麝香风湿胶囊	she xiang feng shi jiao nang	5
 麝香鹿	she xiang lu	100
+黍	shu
+黍	shu	1106
 黍地无人耕	shu di wu ren geng	1
 黍子	shu zi	2
 黍离之悲	shu li zhi bei	100
@@ -54203,6 +55742,9 @@ sort: by_weight
 黍秀宫庭	shu xiu gong ting	1
 黍稷惟馨	shu ji wei xin	1
 黍谷生春	shu gu sheng chun	100
+黮	shen
+鼠	shu
+鼠	shu	82778
 鼠偷狗盗	shu tou gou dao	1
 鼠偷狗窃	shu tou gou qie	100
 鼠兔	shu tu	32
@@ -54328,5 +55870,607 @@ sort: by_weight
 鼠𬶮目	shu xi mu	3
 鼠𬶮科	shu xi ke	3
 鼠𮬣科	shu xian ke	3
+鼡	shu
+鼪	sheng
+鼫	shi
+鼫	shi	3
+鼭	shi
+龵	shou
+鿃	shan
+𠀍	shi
+𠁗	shi
+𠂧	shen
+𠃫	shen
+𠄒	sha
+𠇳	shi
+𠇷	sheng
+𠈅	shou
+𠊪	shu
+𠋞	she
+𠌭	shuai
+𠍽	sha
+𠐊	shu
+𠓤	shi
+𠓸	sheng
+𠓽	sheng
+𠗾	shuang
+𠗿	shen
+𠘆	shen
+𠘧	shu
+𠘪	shi
+𠙎	shu
+𠚹	shan
+𠚺	sha
+𠛚	shua
+𠞩	shuai
+𠡥	shi
+𠣫	shao
+𠥿	shi
+𠦜	shu
+𠧙	shao
+𠩔	shi
+𠪣	she
+𠫹	shan
+𠫺	shi
+𠯰	shi
+𠰚	shi
+𠰴	shi
+𠱔	shou
+𠱡	shai
+𠲌	shu
+𠲾	shuo
+𠲿	shuo
+𠴢	sheng
+𠴯	she
+𠷃	shao
+𠷃	shou
+𠷇	shi
+𠷎	shou
+𠻜	shui
+𠻝	shen
+𠼬	shang
+𠾏	she
+𠾢	shu
+𠿞	shan
+𡀗	shi
+𡂓	shi
+𡂡	shu
+𡄢	she
+𡅵	shi
+𡉸	shi
+𡊍	shu
+𡑀	shu
+𡑽	shuang
+𡒒	shu
+𡔪	shu
+𡖬	shen
+𡚼	shi
+𡞞	sheng
+𡟕	shi
+𡟨	shan
+𡠋	shi
+𡡏	shao
+𡣈	shu
+𡣪	shi
+𡤽	shu
+𡦛	shu
+𡧔	shu
+𡧕	shou
+𡨽	sheng
+𡫵	shi
+𡬳	shou
+𡭐	shuan
+𡭮	shou
+𡯑	shui
+𡰯	shi
+𡱁	shi
+𡱆	shu
+𡱊	shui
+𡶈	shi
+𡷈	shi
+𡺔	shi
+𡺧	sha
+𡼬	shen
+𢀕	shi
+𢁓	shi
+𢂑	shi
+𢃰	shi
+𢄌	shai
+𢅑	sha
+𢇗	sha
+𢇤	shui
+𢈇	shen
+𢈯	shen
+𢉃	she
+𢊖	shen
+𢊲	shen
+𢋂	shu
+𢏅	shui
+𢏎	shen
+𢏦	shen
+𢏯	shi
+𢒉	shan
+𢔣	sha
+𢕅	shuai
+𢕑	shuai
+𢕻	shan
+𢗭	she
+𢘊	shen
+𢝬	shi
+𢞣	shu
+𢟯	shi
+𢠫	shu
+𢦑	sheng
+𢦽	shao
+𢧇	shu
+𢧏	shi
+𢨝	shi
+𢩖	sha
+𢩠	shuan
+𢩢	shan
+𢫔	shan
+𢮛	shuan
+𢶅	she
+𢶌	sha
+𢸙	shen
+𢺿	shi
+𢻘	shi
+𢻫	shi
+𢼉	shi
+𢼊	shi
+𢼵	sha
+𢼼	shao
+𢾐	shao
+𢿈	shan
+𣀝	shuo
+𣀻	shu
+𣁒	shi
+𣃵	shen
+𣆘	shi
+𣆴	shan
+𣇗	shen
+𣉛	shu
+𣉜	sha
+𣏗	shu
+𣏚	shi
+𣒻	shou
+𣓉	sha
+𣓒	shan
+𣔗	shen
+𣔫	shuan
+𣖉	shan
+𣘘	shen
+𣘚	shuai
+𣘲	shen
+𣚌	shi
+𣛶	sha
+𣝇	shuo
+𣝒	she
+𣠞	she
+𣠸	shuan
+𣡽	sha
+𣢡	sheng
+𣣭	she
+𣣮	sha
+𣣺	sha
+𣤘	shi
+𣤯	shu
+𣧚	shi
+𣧺	shan
+𣩧	shan
+𣪶	shan
+𣬐	shi
+𣬛	shan
+𣬺	sheng
+𣰿	shu
+𣲀	shan
+𣲓	sha
+𣲡	sha
+𣶤	sha
+𣷥	shuo
+𣸚	she
+𣸛	shuo
+𣻑	sha
+𣻑	shai
+𣻘	shuo
+𣻚	shu
+𣼧	shuai
+𣿇	shen
+𤀤	shan
+𤀤	shuai
+𤄶	shuo
+𤅲	shuan
+𤆙	shui
+𤆰	shi
+𤉎	shao
+𤉏	shi
+𤊼	shan
+𤍁	sha
+𤍓	shu
+𤎘	shang
+𤏗	shen
+𤑣	sha
+𤑦	shi
+𤔙	shua
+𤔚	shang
+𤕊	shen
+𤕟	shu
+𤖻	shi
+𤗪	shu
+𤘷	shu
+𤙘	shou
+𤙱	she
+𤚔	shou
+𤚣	sheng
+𤜣	she
+𤜣	shi
+𤞉	shu
+𤟃	sha
+𤠠	shuai
+𤠭	she
+𤡯	shuo
+𤢖	shan
+𤢴	shuo
+𤢼	shi
+𤮜	shan
+𤯄	shi
+𤯜	shi
+𤯡	sheng
+𤱐	shu
+𤱜	shou
+𤱠	shao
+𤴙	shu
+𤵼	shang
+𤶴	shen
+𤸤	shi
+𤸬	shuai
+𤹌	shi
+𤺀	shuai
+𤺔	she
+𤺪	shan
+𤻃	shu
+𥁹	she
+𥄘	shan
+𥅔	shi
+𥅞	shi
+𥅪	shou
+𥅷	shou
+𥆣	shen
+𥆧	shun
+𥇲	shi
+𥈊	sha
+𥈚	shan
+𥊀	shan
+𥌘	shui
+𥌚	shu
+𥌞	shuo
+𥍉	she
+𥍝	shu
+𥍸	shi
+𥏖	shen
+𥏫	shang
+𥐘	shi
+𥑏	shi
+𥔡	she
+𥔱	shan
+𥘥	sheng
+𥘦	she
+𥙬	shao
+𥙰	shou
+𥛨	shi
+𥜰	shi
+𥝀	she
+𥞃	shu
+𥟎	sheng
+𥡠	shuang
+𥣋	shu
+𥥍	shen
+𥥥	shi
+𥥿	shen
+𥨝	shou
+𥫴	shi
+𥫸	shui
+𥫽	shi
+𥬐	shen
+𥯦	sha
+𥰢	shan
+𥰰	she
+𥰰	shi
+𥱶	shuang
+𥲚	shuang
+𥳓	shao
+𥳕	shu
+𥳱	shen
+𥵦	shao
+𥸣	shan
+𥸬	shen
+𥼶	shi
+𥾹	shou
+𥿅	shi
+𥿇	shu
+𥿞	she
+𥿮	shi
+𦀛	sha
+𦁆	shuan
+𦁗	she
+𦂗	shuo
+𦃗	shuo
+𦄍	shuang
+𦄏	shao
+𦆌	shuang
+𦈷	shu
+𦋞	shuo
+𦌀	shen
+𦌿	shi
+𦍄	shu
+𦍸	shan
+𦎞	shan
+𦏂	shan
+𦐣	shu
+𦐹	shen
+𦒈	shi
+𦒶	shu
+𦓴	shao
+𦔂	shi
+𦔄	sheng
+𦔥	shi
+𦔯	sha
+𦔰	sha
+𦕉	sha
+𦕡	sheng
+𦕽	shen
+𦖞	sheng
+𦘹	shan
+𦙙	shui
+𦚨	shi
+𦛙	sheng
+𦜊	shen
+𦜜	shen
+𦝏	shuan
+𦠦	shu
+𦡱	shao
+𦣢	shui
+𦣻	shou
+𦤂	shu
+𦩱	sheng
+𦩿	sha
+𦭉	sha
+𦯐	shao
+𦯬	she
+𦰯	shi
+𦱵	sha
+𦳊	shi
+𦳗	sheng
+𦳫	shan
+𦴍	she
+𦶋	shan
+𦶕	shu
+𦸂	shen
+𦸯	shen
+𦺗	shu
+𦺪	shu
+𦺭	shan
+𦺲	shuan
+𦺷	shen
+𦼢	she
+𦾚	sha
+𦿃	shao
+𦿇	shi
+𧀣	shui
+𧀯	shen
+𧀵	shan
+𧁿	shu
+𧄐	shuang
+𧄔	shu
+𧄹	shi
+𧇝	shu
+𧈙	shou
+𧉮	she
+𧊖	shi
+𧊠	shu
+𧋊	sha
+𧋊	shuo
+𧋒	shi
+𧌅	shou
+𧌖	she
+𧍀	shi
+𧍓	shuai
+𧍖	sheng
+𧎥	shan
+𧏫	sha
+𧑓	shu
+𧒑	shu
+𧕟	shuang
+𧕯	shi
+𧕺	shuang
+𧗱	shu
+𧗿	shuai
+𧚨	sha
+𧚯	shou
+𧛄	shan
+𧛡	shan
+𧜁	sha
+𧜁	shai
+𧜂	shi
+𧜃	shou
+𧜠	shuai
+𧝊	shi
+𧞀	shu
+𧞫	shu
+𧞲	shi
+𧠜	shi
+𧠡	shi
+𧠣	shu
+𧡮	shang
+𧡶	sheng
+𧢹	shen
+𧣪	shao
+𧤙	shou
+𧥖	shi
+𧧅	shi
+𧧵	shan
+𧨾	shan
+𧩹	shi
+𧪝	sheng
+𧫝	sha
+𧭽	shan
+𧮿	she
+𧯼	shou
+𧲌	sha
+𧲾	shan
+𧳅	shi
+𧳛	sha
+𧳹	shao
+𧴅	shuang
+𧴭	shan
+𧵃	shou
+𧵋	shi
+𧵬	shen
+𧵳	she
+𧶜	shang
+𧷶	shan
+𧻵	sha
+𧻸	shi
+𧼯	shu
+𧿘	sheng
+𨁀	shu
+𨁆	shan
+𨁠	sheng
+𨄔	shuan
+𨄮	shuai
+𨅒	shu
+𨇯	shuang
+𨈘	shao
+𨊘	shen
+𨊢	shao
+𨏉	shuan
+𨏪	shan
+𨐍	shen
+𨐔	shen
+𨐕	shen
+𨒍	shi
+𨒧	shi
+𨓚	shui
+𨔦	shu
+𨕻	sheng
+𨖷	sha
+𨘉	sha
+𨙩	shi
+𨙹	shao
+𨚱	sheng
+𨛍	shao
+𨛭	she
+𨛭	shu
+𨛶	shou
+𨜜	sheng
+𨝐	shen
+𨝜	shun
+𨝩	shan
+𨝫	she
+𨝵	shan
+𨞪	shou
+𨞲	shen
+𨟂	shi
+𨢦	shai
+𨢩	shang
+𨣍	she
+𨨺	shuo
+𨪍	sha
+𨱡	shi
+𨱭	shao
+𨲆	shao
+𨲉	sheng
+𨲓	sheng
+𨴐	shen
+𨴯	shi
+𨵥	sheng
+𨶝	shu
+𨶼	shang
+𨷙	shu
+𨸝	shi
+𨹈	shan
+𨹊	shan
+𨺠	shun
+𨽄	shi
+𨽉	shu
+𨿠	shui
+𩁺	shan
+𩂃	shai
+𩂝	shai
+𩂨	she
+𩂴	she
+𩅨	shen
+𩅪	shuang
+𩆤	shan
+𩆫	shan
+𩆿	shuang
+𩈥	shua
+𩉆	shua
+𩉼	shen
+𩊮	sha
+𩋡	shi
+𩌰	shan
+𩍋	sheng
+𩒂	shi
+𩗎	shi
+𩘱	shuai
+𩙝	she
+𩙢	shi
+𩛅	shu
+𩛌	shi
+𩛏	shi
+𩞃	shang
+𩞧	shang
+𩟋	shan
+𩟥	shui
+𩟧	shuo
+𩠦	shou
+𩠶	shou
+𩢻	shu
+𩤤	shua
+𩥐	shi
+𩦌	shuang
+𩦐	shan
+𩩗	she
+𩩞	shui
+𩪍	shu
+𩬏	shao
+𩬭	shi
+𩭐	shi
+𩮐	she
+𩮫	sha
+𩰢	shi
+𩳅	shu
+𩴇	shai
+𩴍	shou
+𩵮	sha
+𩶇	shen
+𩷌	shu
+𩺵	shen
+𩽧	shuang
+𪀔	shi
+𪄅	sha
+𪄲	shang
+𪅰	shu
+𪅻	sheng
+𪈀	shou
+𪊢	shi
+𪌮	sha
+𪌶	shu
+𪍶	shan
+𪎒	shuo
+𪐧	shu
+𪑃	shan
+𪓻	shi
+𪓿	shi
+𪗧	shi
+𪨶	she	1
 𪨶赑贝贝贝	she bi bei bei bei	1
+𫚕	shi	6
 𫚕鱼	shi yu	3
+𫮃	shan	1
+𬤊	shi	1
+𬬸	shu	1
+𬬹	shen	1
+𬳽	shen	1
+𮭪	shuang

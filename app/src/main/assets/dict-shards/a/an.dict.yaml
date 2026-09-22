@@ -3,6 +3,35 @@ name: merged.an
 version: "1.0"
 sort: by_weight
 ...
+㜝	an
+㟁	an
+㦹	ang
+㭿	ang
+㱘	an
+㸩	an
+㼜	ang
+㽢	an
+䀚	ang
+䁆	an
+䅁	an
+䅖	an
+䍩	ang
+䎏	an
+䎨	an
+䒢	ang
+䜙	an
+䨄	an
+䩕	ang
+䬓	an
+䬓	ang
+䭹	ang
+䭺	ang
+䮗	an
+䯥	an
+仰	ang
+侒	an
+俺	an
+俺	an	64855
 俺不中	an bu zhong	100
 俺不中嘞	an bu zhong lei	100
 俺不累	an bu lei	100
@@ -47,11 +76,30 @@ sort: by_weight
 俺还	an hai	3333
 俺错	an cuo	1111
 俺错了	an cuo le	1111
+偣	an
+儑	an
+卬	ang
+卬	ang	265
+厂	an
+厂	an	1
+厈	an
+咹	an
+唵	an
+唵	an	377
 唵嘛呢叭咪吽	an ma ni ba mi hong	1000
 唵嘛呢叭咪哞	an ma ne ba mi mou	100
 唵嘛呢嘛呢叭咪吽	an ma ni ma ni ba mi hong	1000
+啽	an
+垵	an
+垵	an	5
 垵口乡	an kou xiang	5
+埯	an
+埯	an	52
 埯子	an zi	25
+堓	an
+媕	an
+安	an
+安	an	980103
 安七炫	an qi xuan	5130
 安七炫吴建豪	an qi xuan wu jian hao	100
 安万特	an wan te	100
@@ -2097,6 +2145,11 @@ sort: by_weight
 安魂弥撒曲	an hun mi sa qu	1
 安魂曲	an hun qu	3080
 安龙县	an long xian	122
+屵	an
+屽	an
+岇	ang
+岸	an
+岸	an	129872
 岸上	an shang	3172
 岸上乡	an shang xiang	13
 岸上村	an shang cun	11
@@ -2141,6 +2194,11 @@ sort: by_weight
 岸质	an zhi	5
 岸边	an bian	58770
 岸风翻夕浪	an feng fan xi lang	1
+峖	an
+广	an
+广	an	1
+庵	an
+庵	an	13087
 庵上村	an shang cun	4
 庵主	an zhu	2170
 庵内	an nei	45
@@ -2154,6 +2212,8 @@ sort: by_weight
 庵罗树园	an luo shu yuan	100
 庵里	an li	2755
 庵野秀明	an ye xiu ming	9
+按	an
+按	an	3826950
 按一下	an yi xia	24360
 按一个键	an yi ge jian	100
 按一些	an yi xie	146
@@ -2732,7 +2792,11 @@ sort: by_weight
 按预先	an yu xian	1235
 按预期	an yu qi	100
 按默认	an mo ren	2880
+揞	an
+揞	an	1
 揞住	an zhu	2
+昂	ang
+昂	ang	80972
 昂丹司琼	ang dan si qiong	7
 昂仁	ang ren	1
 昂仁县	ang ren xian	390
@@ -2798,6 +2862,10 @@ sort: by_weight
 昂首挺胸	ang shou ting xiong	5975
 昂首望天	ang shou wang tian	22
 昂首阔步	ang shou kuo bu	4040
+昻	ang
+晻	an
+暗	an
+暗	an	891081
 暗一些	an yi xie	123
 暗下	an xia	4330
 暗下决心	an xia jue xin	5290
@@ -3309,6 +3377,9 @@ sort: by_weight
 暗黑钥匙	an hei yao shi	1
 暗龙	an long	111
 暗龙盾	an long dun	1
+枊	ang
+案	an
+案	an	361285
 案中案	an zhong an	755
 案事件	an shi jian	76
 案件	an jian	100412
@@ -3396,6 +3467,8 @@ sort: by_weight
 案结事了	an jie shi liao	100
 案萤干死	an ying gan si	1
 案首	an shou	330
+桉	an
+桉	an	1066
 桉叶油	an ye you	738
 桉叶糖	an ye tang	17
 桉叶素	an ye su	69
@@ -3403,6 +3476,8 @@ sort: by_weight
 桉树	an shu	717
 桉油	an you	525
 桉油精	an you jing	10
+氨	an
+氨	an	2112
 氨丁三醇	an ding san chun	21
 氨丁苷菌素	an ding gan jun su	1
 氨中毒	an zhong du	47
@@ -3521,6 +3596,13 @@ sort: by_weight
 氨鲁米特	an lu mi te	20
 氨麻美敏口服溶液	an ma mei min kou fu rong ye	3
 氨麻美敏片	an ma mei min pian	3
+洝	an
+犴	an
+犴	an	802
+玵	an
+痷	an
+盎	ang
+盎	ang	8678
 盎司	ang si	44840
 盎撒	ang sa	111
 盎撒人	ang sa ren	123
@@ -3530,6 +3612,12 @@ sort: by_weight
 盎然	ang ran	16140
 盎盂相击	ang yu xiang ji	100
 盎盂相敲	ang yu xiang qiao	100
+盦	an
+盦	an	23
+盫	an
+罯	an
+肮	ang
+肮	ang	14717
 肮肮脏脏	ang ang zang zang	100
 肮脏	ang zang	25155
 肮脏交易	ang zang jiao yi	525
@@ -3541,6 +3629,8 @@ sort: by_weight
 肮脏的地方	ang zang de di fang	100
 肮脏透顶	ang zang tou ding	65
 肮脏鬼	ang zang gui	100
+胺	an
+胺	an	1174
 胺凝胶	an ning jiao	5
 胺化	an hua	690
 胺合成酶	an he cheng mei	20
@@ -3551,16 +3641,40 @@ sort: by_weight
 胺转运蛋白	an zhuan yun dan bai	30
 胺醇	an chun	111
 胺霉素	an mei su	15
+腤	an
+荌	an
+菴	an
+萻	an
+葊	an
+蓭	an
+裺	an
+誝	an
+諳	an
+谙	an
+谙	an	6174
 谙晓	an xiao	40
 谙熟	an shu	374
 谙练	an lian	240
 谙达	an da	999
+豻	an
+貋	an
+醠	ang
+銨	an
+錌	an
+铵	an
+铵	an	129
 铵基	an ji	1
 铵态氮	an tai dan	965
 铵根	an gen	22
 铵根离子	an gen li zi	32
 铵盐	an yan	4155
 铵离子	an li zi	32
+闇	an
+隌	an
+雸	an
+鞌	an
+鞍	an
+鞍	an	11579
 鞍一工	an yi gong	65
 鞍上	an shang	1555
 鞍上池	an shang chi	1
@@ -3616,11 +3730,22 @@ sort: by_weight
 鞍马劳神	an ma lao shen	2
 鞍马劳顿	an ma lao dun	440
 鞍马四边开	an ma si bian kai	1
+韽	an
+馣	an
+骯	ang
+鮟	an
+鴳	an
+鵪	an
+鶕	an
+鹌	an
+鹌	an	1153
 鹌鹑	an chun	12310
 鹌鹑串	an chun chuan	1
 鹌鹑枸杞粥	an chun gou qi zhou	2
 鹌鹑蛋	an chun dan	11479
 鹌鹑蛋罐头	an chun dan guan tou	105
+黯	an
+黯	an	42786
 黯影阔剑	an ying kuo jian	100
 黯晦消沉	an hui xiao chen	1
 黯淡	an dan	29425
@@ -3650,9 +3775,65 @@ sort: by_weight
 黯黮章	an dan zhang	1
 黯黯江云瓜步雨	an an jiang yun gua bu yu	1
 黯黯生天际	an an sheng tian ji	1
+𠉬	an
+𠪚	an
+𠰑	an
+𠵫	ang
+𠹃	ang
+𠽪	an
+𠿑	an
+𡎑	an
+𡕉	ang
+𡪁	an
+𡪙	an
+𡯏	an
+𡵙	ang
+𡹼	an
+𡽜	an
+𢓋	ang
+𢰍	an
+𣆛	an
+𣉗	ang
+𣖮	ang
+𣚖	an
+𣣚	an
+𣵱	an
+𣽥	an
+𤃷	an
+𤜁	an
+𤞿	an
+𤟉	an
+𤭒	ang
+𥏮	an
+𥦍	an
+𥳬	an
+𦫫	ang
+𦺽	an
+𧖮	an
+𧩸	an
+𧫥	an
+𧫧	an
+𧮍	an
+𨋕	ang
+𨲊	an
+𩅝	an
+𩈴	an
+𩉰	ang
+𩑝	ang
+𩓤	an
+𩔘	ang
+𩜟	ang
+𩭢	an
+𩹎	an
+𩽾	an
+𩽾	an	37
 𩽾𩾌	an kang	369
 𩽾𩾌亚目	an kang ya mu	1
 𩽾𩾌属	an kang shu	100
 𩽾𩾌目	an kang mu	12
 𩽾𩾌科	an kang ke	2
 𩽾𩾌鱼	an kang yu	100
+𪁟	an
+𪒠	an
+𪘒	an
+𫛩	an

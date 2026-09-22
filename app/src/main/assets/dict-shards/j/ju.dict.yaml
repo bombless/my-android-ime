@@ -3,7 +3,131 @@ name: merged.ju
 version: "1.0"
 sort: by_weight
 ...
+㑺	jun
+㒞	jun
+㓴	jun
+㓸	jue
+㔃	jue
+㔢	jue
+㔳	jue
+㕙	jun
+㕢	ju
+㘌	ju
+㘲	ju
+㚬	jun
+㜘	ju
+㝦	jun
+㞐	ju
+㞫	ju
+㟲	jue
+㠪	ju
+㡹	ju
+㢠	jun
+㢧	juan
+㢾	juan
+㤜	jue
+㤯	jun
+㥌	ju
+㨿	ju
+㩀	ju
+㩱	jue
+㩴	ju
+㪯	ju
+㪺	ju
+㪻	juan
+㬬	ju
+㭈	jue
+㭰	jue
+㭾	jue
+㮂	ju
+㯞	juan
+㰐	jue
+㳥	ju
+㴫	jun
+㵐	jue
+㵐	jue	1
 㵐水	jue shui	2
+㷷	juan
+㷾	jue
+㸕	jue
+㹟	jue
+㹼	ju
+㻒	jun
+㻕	jue
+㻡	jue
+㽙	jun
+㽤	ju
+䀗	jue
+䀠	ju
+䁷	jue
+䃊	ju
+䄅	juan
+䄔	ju
+䅌	juan
+䅓	ju
+䆕	jue
+䆢	jue
+䆽	ju
+䇶	jue
+䇹	jun
+䈑	jue
+䈮	ju
+䋉	jue
+䋰	ju
+䌸	juan
+䍊	jue
+䍳	jue
+䎤	ju
+䏐	jue
+䏣	jue
+䏱	ju
+䐃	jun	1
+䐘	jue
+䐪	juan
+䕑	jun
+䕮	ju
+䖭	juan
+䖼	jue
+䗇	ju
+䘿	jue
+䙠	jue
+䚈	juan
+䛯	ju
+䜭	jun
+䜯	ju
+䝌	jue
+䝌	jun
+䝍	jun
+䞵	jue
+䞷	jue
+䟾	jue
+䠇	jue
+䡈	jue
+䡓	juan
+䡞	ju
+䢸	ju
+䢹	ju
+䣤	jue
+䣰	ju
+䣺	juan
+䤎	ju
+䦆	jue
+䦼	jue
+䪕	ju
+䰬	ju
+䱟	ju
+䱡	ju
+䳔	ju
+䳪	juan
+䴗	ju
+䴗	ju	1
+䵕	ju
+䶙	ju
+䶥	ju
+且	ju
+且	ju	1
+举	ju
+举	ju	693503
 举一个	ju yi ge	21035
 举一个例	ju yi ge li	100
 举一个例子	ju yi ge li zi	100
@@ -429,6 +553,12 @@ sort: by_weight
 举鼎	ju ding	2335
 举鼎拔山	ju ding ba shan	100
 举鼎绝膑	ju ding jue bin	100
+乬	ju
+亅	jue
+伡	ju
+侷	ju
+俊	jun
+俊	jun	244925
 俊丽	jun li	1010
 俊乂在官	jun yi zai guan	4
 俊人	jun ren	2
@@ -465,6 +595,9 @@ sort: by_weight
 俊雅	jun ya	2540
 俊雅风流	jun ya feng liu	100
 俊髦	jun mao	25
+俥	ju
+俱	ju
+俱	ju	92404
 俱乐乡	ju le xiang	4
 俱乐部	ju le bu	500363
 俱乐部中	ju le bu zhong	100
@@ -542,6 +675,8 @@ sort: by_weight
 俱焚	ju fen	5555
 俱舍师	ju she shi	100
 俱舍论	ju she lun	100
+倔	jue
+倔	jue	18984
 倔劲	jue jin	785
 倔劲儿	jue jin er	100
 倔头	jue tou	85
@@ -564,6 +699,8 @@ sort: by_weight
 倔起来	jue qi lai	111
 倔驴	jue lv	1111
 倔驴似的	jue lv shi de	100
+倦	juan
+倦	juan	46376
 倦乏	juan fa	515
 倦了	juan le	738
 倦勤	juan qin	845
@@ -584,8 +721,17 @@ sort: by_weight
 倦鸟知归	juan niao zhi gui	100
 倦鸟知返	juan niao zhi fan	100
 倦鸟知还	juan niao zhi huan	100
+倨	ju
+倨	ju	2628
 倨傲	ju ao	3595
 倨傲不恭	ju ao bu gong	100
+倶	ju
+傕	jue
+傕	jue	2207
+僪	ju
+儁	jun
+具	ju
+具	ju	433976
 具一只眼	ju yi zhi yan	5
 具亲和力	ju qin he li	117
 具以沛公言报项王	ju yi pei gong yan bao xiang wang	1
@@ -802,6 +948,8 @@ sort: by_weight
 具足戒	ju zu jie	1740
 具领	ju ling	2
 具齿褐斑南星	ju chi he ban nan xing	1
+军	jun
+军	jun	257500
 军上尉	jun shang wei	5
 军不厌诈	jun bu yan zha	1
 军中	jun zhong	38215
@@ -1384,6 +1532,8 @@ sort: by_weight
 军鸽	jun ge	745
 军鼓	jun gu	1455
 军龄	jun ling	5055
+决	jue
+决	jue	856467
 决一死战	jue yi si zhan	5485
 决一胜负	jue yi sheng fu	745
 决一雌雄	jue yi ci xiong	875
@@ -1607,6 +1757,10 @@ sort: by_weight
 决雌雄	jue ci xiong	525
 决非偶然	jue fei ou ran	100
 决高下	jue gao xia	101
+凥	ju
+刔	jue
+剧	ju
+剧	ju	220880
 剧中	ju zhong	61740
 剧中主角	ju zhong zhu jue	575
 剧中人	ju zhong ren	2105
@@ -1709,6 +1863,17 @@ sort: by_weight
 剧集版	ju ji ban	100
 剧韵新篇至	ju yun xin pian zhi	3
 剧风行动	ju feng xing dong	219
+劂	jue
+劂	jue	56
+劇	ju
+劵	juan
+勌	juan
+勬	juan
+勮	ju
+匊	ju
+匷	jue
+卷	juan
+卷	juan	419864
 卷一	juan yi	24045
 卷一卷	juan yi juan	123
 卷七	juan qi	6825
@@ -1913,6 +2078,8 @@ sort: by_weight
 卷饼	juan bing	755
 卷首	juan shou	7870
 卷首语	juan shou yu	3555
+厥	jue
+厥	jue	23082
 厥冷	jue leng	50
 厥功甚伟	jue gong shen wei	100
 厥心痛	jue xin tong	3
@@ -1925,6 +2092,9 @@ sort: by_weight
 厥阴	jue yin	2
 厥阴病	jue yin bing	1
 厥阴腧	jue yin shu	2
+叕	jue
+句	ju
+句	ju	254300
 句中	ju zhong	36560
 句句	ju ju	17425
 句句实话	ju ju shi hua	100
@@ -1975,6 +2145,8 @@ sort: by_weight
 句读之不知	ju dou zhi bu zhi	2
 句首	ju shou	5105
 句骊河	ju li he	100
+君	jun
+君	jun	285417
 君上	jun shang	2390
 君不悔	jun bu hui	90
 君不行兮夷犹	jun bu xing xi yi you	1
@@ -2262,6 +2434,11 @@ sort: by_weight
 君问归期未有期	jun wen gui qi wei you qi	1180
 君骑白马傍垂杨	jun qi bai ma bang chui yang	100
 君麻吕	jun ma lv	100
+吷	jue
+呁	jun
+呟	juan
+咀	ju
+咀	ju	8667
 咀华含英	ju hua han ying	100
 咀嚼	ju jue	51840
 咀嚼习惯	ju jue xi guan	100
@@ -2292,6 +2469,10 @@ sort: by_weight
 咀徵含商	ju zhi han shang	100
 咀特牌	ju te pai	1
 咀香园	ju xiang yuan	390
+啹	ju
+噊	jue
+噘	jue
+噘	jue	6333
 噘了噘嘴	jue le jue zui	100
 噘嘴	jue zui	1300
 噘嘴儿	jue zui er	100
@@ -2305,6 +2486,10 @@ sort: by_weight
 噘着小嘴	jue zhe xiao zui	100
 噘起小嘴	jue qi xiao zui	100
 噘起的小嘴	jue qi de xiao zui	100
+噱	jue
+噱	jue	5
+嚼	jue
+嚼	jue	27876
 嚼劲	jue jin	111
 嚼嚼	jue jue	800
 嚼头	jue tou	369
@@ -2319,6 +2504,8 @@ sort: by_weight
 嚼牙	jue ya	2
 嚼碎	jue sui	2840
 嚼蜡	jue la	785
+圈	juan
+圈	juan	6000
 圈养	juan yang	12000
 圈养起来	juan yang qi lai	100
 圈牛	juan niu	140
@@ -2329,6 +2516,9 @@ sort: by_weight
 圈肥	juan fei	2
 圈舍	juan she	5240
 圈里	juan li	23325
+圏	juan
+均	jun
+均	jun	316506
 均一	jun yi	11815
 均一价	jun yi jia	100
 均一度	jun yi du	100
@@ -2498,6 +2688,21 @@ sort: by_weight
 均需要	jun xu yao	5490
 均非	jun fei	5540
 均须	jun xu	30035
+埆	jue
+埈	jun
+埍	juan
+埧	ju
+埾	ju
+壆	jue
+壉	ju
+奆	juan
+奍	juan
+妜	jue
+姖	ju
+姢	juan
+姰	jun
+娟	juan
+娟	juan	73343
 娟好静秀	juan hao jing xiu	1
 娟娟	juan juan	13975
 娟娟到湖上	juan juan dao hu shang	1
@@ -2505,7 +2710,19 @@ sort: by_weight
 娟子	juan zi	7575
 娟珊牛	juan shan niu	23
 娟秀	juan xiu	4475
+娵	ju
+娵	ju	9
 娵訾	ju zi	2
+婅	ju
+婘	juan
+婮	ju
+孒	jue
+孓	jue
+孓	jue	380
+寠	ju
+寯	jun
+局	ju
+局	ju	461034
 局中	ju zhong	14700
 局中人	ju zhong ren	805
 局促	ju cu	13275
@@ -2671,6 +2888,8 @@ sort: by_weight
 局骗拐带	ju pian guai dai	1
 局高蹐厚	ju gao ji hou	1
 局麻药	ju ma yao	100
+居	ju
+居	ju	527014
 居上	ju shang	4630
 居下	ju xia	7
 居下讪上	ju xia shan shang	100
@@ -2980,8 +3199,19 @@ sort: by_weight
 居高临下的态度	ju gao lin xia de tai du	100
 居高声自远	ju gao sheng zi yuan	355
 居鲁士	ju lu shi	20
+屦	ju
+屦	ju	98
 屦及剑及	ju ji jian ji	100
 屦贱踊贵	ju jian yong gui	100
+屨	ju
+屩	jue
+屫	jue
+岠	ju
+岠	ju	6
+岨	ju
+岨	ju	1
+峻	jun
+峻	jun	35003
 峻坂盐车	jun ban yan che	100
 峻坂走丸	jun ban zou wan	100
 峻宇雕墙	jun yu diao qiang	100
@@ -2996,11 +3226,23 @@ sort: by_weight
 峻直	jun zhi	45
 峻笔	jun bi	45
 峻节高风	jun jie gao feng	100
+崌	ju
+崌	ju	7
+崛	jue
+崛	jue	10826
 崛围山	jue wei shan	130
 崛地而起	jue di er qi	51
 崛立	jue li	85
 崛起	jue qi	207690
 崛起吧	jue qi ba	100
+崫	jue
+嶡	jue
+嶥	jue
+嶲	juan
+巂	juan
+巈	ju
+巨	ju
+巨	ju	753729
 巨万	ju wan	999
 巨丑	ju chou	3333
 巨丝吻巨棘角𩽾𩾌	ju si wen ju ji jiao an kang	1
@@ -3405,6 +3647,22 @@ sort: by_weight
 巨龙管业	ju long guan ye	3
 巨龙降临	ju long jiang lin	100
 巨龟	ju gui	1740
+巪	ju
+巻	juan
+帣	juan
+弆	ju
+弆	ju	2
+弡	jue
+弮	juan
+彏	jue
+忂	ju
+怇	ju
+怐	ju
+怚	ju
+悁	juan
+惓	juan
+惧	ju
+惧	ju	165581
 惧内	ju nei	1865
 惧怕	ju pa	44195
 惧怕心理	ju pa xin li	795
@@ -3412,6 +3670,17 @@ sort: by_weight
 惧色	ju se	2375
 惧草虫之袭予	ju cao chong zhi xi yu	100
 惧高症	ju gao zheng	102
+愳	ju
+慻	juan
+憠	jue
+憰	jue
+懅	ju
+懏	jun
+懼	ju
+戄	jue
+抅	ju
+抉	jue
+抉	jue	7091
 抉剔	jue ti	105
 抉剔爬梳	jue ti pa shu	100
 抉奥阐幽	jue ao chan you	1
@@ -3424,6 +3693,8 @@ sort: by_weight
 抉目吴门	jue mu wu men	1
 抉目悬门	jue mu xuan men	1
 抉目胥门	jue mu xu men	1
+拒	ju
+拒	ju	150199
 拒不	ju bu	78660
 拒不交税	ju bu jiao shui	20
 拒不偿还	ju bu chang huan	100
@@ -3576,6 +3847,8 @@ sort: by_weight
 拒霜思	ju shuang si	100
 拒马	ju ma	1630
 拒马河	ju ma he	1860
+拘	ju
+拘	ju	35775
 拘了	ju le	444
 拘了你	ju le ni	100
 拘于	ju yu	4085
@@ -3639,7 +3912,15 @@ sort: by_weight
 拘迂	ju yu	30
 拘限	ju xian	43
 拘魂女使	ju hun nv shi	1
+拠	ju
+挗	jue
+挙	ju
+挶	ju
+捃	jun
+捃	jun	40
 捃摭	jun zhi	105
+捐	juan
+捐	juan	26418
 捐一元	juan yi yuan	135
 捐书	juan shu	4635
 捐了	juan le	9999
@@ -3726,6 +4007,9 @@ sort: by_weight
 捐钱	juan qian	7835
 捐钱箱	juan qian xiang	100
 捐骨髓	juan gu sui	113
+捔	jue
+据	ju
+据	ju	405279
 据一位	ju yi wei	9300
 据不完全统计	ju bu wan quan tong ji	41105
 据业内	ju ye nei	20965
@@ -3857,6 +4141,9 @@ sort: by_weight
 据韩国	ju han guo	3470
 据预测	ju yu ce	10250
 据香港	ju xiang gang	11400
+捲	juan
+掘	jue
+掘	jue	26017
 掘了	jue le	2195
 掘井	jue jing	1435
 掘井九仞而不及泉	jue jing jiu ren er bu ji quan	3
@@ -3888,11 +4175,16 @@ sort: by_weight
 掘进队	jue jin dui	340
 掘金	jue jin	24250
 掘鼠罗雀	jue shu luo que	100
+掬	ju
+掬	ju	6329
 掬水	ju shui	2040
 掬水月在手	ju shui yue zai shou	4
 掬诚	ju cheng	65
 掬起	ju qi	1435
 掬饮	ju yin	80
+揟	ju
+撅	jue
+撅	jue	12167
 撅一撅	jue yi jue	123
 撅个屁股	jue ge pi gu	100
 撅了撅	jue le jue	795
@@ -3911,9 +4203,16 @@ sort: by_weight
 撅起尾巴	jue qi wei ba	100
 撅起屁股	jue qi pi gu	230
 撅起来	jue qi lai	3333
+撧	jue
 撧耳挠腮	jue er nao sai	100
 撧耳揉腮	jue er rou sai	100
 撧耳顿足	jue er dun zu	100
+據	ju
+擧	ju
+攈	jun
+攟	jun
+攫	jue
+攫	jue	3728
 攫为己有	jue wei ji you	100
 攫取	jue qu	14735
 攫取暴利	jue qu bao li	100
@@ -3921,7 +4220,15 @@ sort: by_weight
 攫夺	jue duo	235
 攫戾执猛	jue li zhi meng	1
 攫金不见人	jue jin bu jian ren	1
+斍	jue
+昛	ju
+晙	jun
+晙	jun	6
+朘	juan
+朘	juan	1
 朘削	juan xue	2
+枸	ju
+枸	ju	1
 枸橼	ju yuan	5
 枸橼酸	ju yuan suan	4225
 枸橼酸哌嗪	ju yuan suan pai qin	1
@@ -3949,7 +4256,13 @@ sort: by_weight
 枸溶性钾	ju rong xing jia	100
 枸溶性钾肥	ju rong xing jia fei	100
 枸溶率	ju rong lv	100
+柜	ju
+柜	ju	1
 柜柳	ju liu	2
+桊	juan
+桊	juan	40
+桔	ju
+桔	ju	7128
 桔儿胡同	ju er hu tong	1
 桔园小区	ju yuan xiao qu	1
 桔城路	ju cheng lu	15
@@ -3965,9 +4278,26 @@ sort: by_weight
 桔红糕	ju hong gao	13
 桔色成人	ju se cheng ren	100
 桔色成人用品	ju se cheng ren yong pin	100
+桷	jue
+桷	jue	204
+桾	jun
+梋	juan
+梮	ju
+棞	jun
+棬	juan
+椇	ju
+椈	ju
+椐	ju
+椐	ju	234
+椦	juan
+榉	ju
+榉	ju	581
 榉木	ju mu	6015
 榉树	ju shu	186
 榉白背粉天牛	ju bai bei fen tian niu	1
+榘	ju
+橘	ju
+橘	ju	14755
 橘丽丝	ju li si	100
 橘井	ju jing	365
 橘井泉香	ju jing quan xiang	1310
@@ -4064,8 +4394,25 @@ sort: by_weight
 橘黄色大菱形	ju huang se da ling xing	3333
 橘黄色小菱形	ju huang se xiao ling xing	3333
 橘黄色菱形	ju huang se ling xing	3333
+橛	jue
+橛	jue	550
 橛子	jue zi	465
 橛守成规	jue shou cheng gui	1
+橜	jue
+檋	ju
+櫭	jue
+櫸	ju
+欅	ju
+欮	jue
+歫	ju
+殌	jue
+毩	ju
+毱	ju
+氒	jue
+汮	jun
+決	jue
+沮	ju
+沮	ju	31095
 沮丧	ju sang	72525
 沮丧的	ju sang de	13865
 沮授	ju shou	12
@@ -4074,11 +4421,20 @@ sort: by_weight
 沮渠牧犍	ju qu mu jian	2
 沮渠蒙逊	ju qu meng xun	2
 沮遏	ju e	1
+泃	ju
+泃	ju	2
 泃河	ju he	1180
 泃阳	ju yang	27
 泃阳镇	ju yang zhen	9
+泦	ju
+泬	jue
+洰	ju
+浚	jun
+浚	jun	3635
 浚泥船	jun ni chuan	100
 浚边	jun bian	8
+涓	juan
+涓	juan	6331
 涓埃	juan ai	190
 涓埃之力	juan ai zhi li	100
 涓埃之功	juan ai zhi gong	100
@@ -4099,14 +4455,44 @@ sort: by_weight
 涓滴微利	juan di wei li	1
 涓滴成河	juan di cheng he	1
 涓滴成溪	juan di cheng xi	100
+涺	ju
+淃	juan
+淗	ju
+渠	ju
+湨	ju
+潏	jue	1
 潏河	jue he	111
+澽	ju
+澽	ju	11
+濬	jun
+灍	jue
+炬	ju
+炬	ju	6448
 炬光乡	ju guang xiang	3
+烥	ju
+焆	juan
+焆	juan	2
+焌	jun
+焌	jun	130
+焗	ju
+焗	ju	263
 焗一焗	ju yi ju	103
 焗头	ju tou	116
 焗油	ju you	6130
 焗饭	ju fan	728
 焗龙虾	ju long xia	100
+焣	ju
+焳	jue
+熦	jue
+燇	jun
+燋	jue
+爑	jue
+爝	jue
+爝	jue	103
 爝火不息	jue huo bu xi	100
+爴	jue
+爵	jue
+爵	jue	99014
 爵位	jue wei	17385
 爵号	jue hao	510
 爵士	jue shi	84300
@@ -4133,6 +4519,12 @@ sort: by_weight
 爵禄	jue lu	2695
 爵迹	jue ji	1
 爵银龙	jue yin long	100
+犋	ju
+犋	ju	22
+犑	ju
+狊	ju
+狙	ju
+狙	ju	17116
 狙击	ju ji	26455
 狙击之王	ju ji zhi wang	184
 狙击兵	ju ji bing	1225
@@ -4148,6 +4540,8 @@ sort: by_weight
 狙射树枭	ju she shu xiao	124
 狙杀	ju sha	3333
 狙魔女杰	ju mo nv jie	100
+狷	juan
+狷	juan	372
 狷介	juan jie	380
 狷介之士	juan jie zhi shi	100
 狷介寡合	juan jie gua he	100
@@ -4155,9 +4549,40 @@ sort: by_weight
 狷急	juan ji	40
 狷狂	juan kuang	101
 狷者有所不为也	juan zhe you suo bu wei ye	6
+獗	jue
+獗	jue	3017
+獧	juan
+玃	jue
+玃	jue	9
 玃猱	jue nao	1
+玦	jue
+玦	jue	462
+玨	jue
+珇	ju
+珏	jue
+珏	jue	11522
+珺	jun
+珺	jun	861
+琚	ju
+琚	ju	1045
+瑴	jue
+璚	jue
+瓹	juan
+畯	jun
+畯	jun	25
+疦	jue
+疽	ju
+疽	ju	992
+瘚	jue
+皲	jun
+皲	jun	220
 皲手茧足	jun shou jian zu	1
 皲裂	jun lie	8223
+皸	jun
+皹	jun
+眗	ju
+眷	juan
+眷	juan	22751
 眷侣	juan lv	2525
 眷属	juan shu	23455
 眷念	juan nian	3125
@@ -4175,8 +4600,17 @@ sort: by_weight
 眷眷之情	juan juan zhi qing	100
 眷红偎翠	juan hong wei cui	1
 眷顾	juan gu	17950
+睊	juan
+睠	juan
+瞿	ju
+矍	jue
+矍	jue	1634
 矍眼蝶	jue yan die	100
 矍铄	jue shuo	940
+矞	jue
+矡	jue
+矩	ju
+矩	ju	56720
 矩周规值	ju zhou gui zhi	1
 矩子科技	ju zi ke ji	165
 矩尺	ju chi	120
@@ -4231,7 +4665,20 @@ sort: by_weight
 矩阵链乘	ju zhen lian cheng	239
 矩阵链乘法	ju zhen lian cheng fa	91
 矩阵键盘	ju zhen jian pan	219
+砄	jue
+砄	jue	3
+砠	ju
+砠	ju	4
+碅	jun
+秬	ju
+秬	ju	9
+穱	jue
+窭	ju
+窭	ju	83
 窭人子	ju ren zi	1
+窶	ju
+竣	jun
+竣	jun	4635
 竣工	jun gong	189155
 竣工典礼	jun gong dian li	1245
 竣工决算	jun gong jue suan	9350
@@ -4241,9 +4688,27 @@ sort: by_weight
 竣工期	jun gong qi	295
 竣工率	jun gong lv	500
 竣工验收	jun gong yan shou	76335
+筠	jun
+筠	jun	1
 筠连	jun lian	2
 筠连县	jun lian xian	2
+筥	ju
+筥	ju	194
+箘	jun
+箟	jun
+簴	ju
+粔	ju
 粔籹	ju nv	1
+粷	ju
+絕	jue
+絭	juan
+絶	jue
+絹	juan
+縳	juan
+繘	ju
+繘	jue
+绝	jue
+绝	jue	943340
 绝一门	jue yi men	100
 绝不	jue bu	11800
 绝不为过	jue bu wei guo	495
@@ -4752,6 +5217,8 @@ sort: by_weight
 绝魂恋	jue hun lian	1
 绝龙诗	jue long shi	100
 绝𪩘	jue yan	3
+绢	juan
+绢	juan	16444
 绢丝	juan si	4330
 绢丝纺	juan si fang	100
 绢子	juan zi	1960
@@ -4765,9 +5232,16 @@ sort: by_weight
 绢花	juan hua	5245
 绢茸火绒草	juan rong huo rong cao	100
 绢蝶	juan die	1
+罝	ju
+罥	juan
+罥	juan	1
 罥挂	juan gua	2
 罥烟眉	juan yan mei	2
 罥索	juan suo	7
+羂	juan
+耟	ju
+聚	ju
+聚	ju	222383
 聚一下	ju yi xia	7
 聚一哈	ju yi ha	100
 聚一次	ju yi ci	618
@@ -5097,8 +5571,27 @@ sort: by_weight
 聚龙	ju long	413
 聚龙山	ju long shan	103
 聚龙湾	ju long wan	94
+聥	ju
+脚	jue
+脚	jue	0
+脧	juan
+腃	juan
+腒	ju
+腒	ju	4
+腳	jue
+臄	jue
+臇	juan
+舉	ju
+艍	ju
+芵	jue
+苣	ju
+苣	ju	620
+苴	ju
+苴	ju	345
 苴茅裂土	ju mao lie tu	100
 苴麻	ju ma	20
+莒	ju
+莒	ju	817
 莒先生	ju xian sheng	100
 莒光乡	ju guang xiang	1
 莒光号	ju guang hao	135
@@ -5110,7 +5603,11 @@ sort: by_weight
 莒国古城	ju guo gu cheng	160
 莒女士	ju nv shi	100
 莒小姐	ju xiao jie	100
+莙	jun
+莙	jun	15
 莙荙菜	jun da cai	9999
+菊	ju
+菊	ju	43031
 菊三七	ju san qi	100
 菊三七属	ju san qi shu	100
 菊丸英二	ju wan ying er	68
@@ -5222,6 +5719,8 @@ sort: by_weight
 菊香	ju xiang	4
 菊黄	ju huang	1
 菊黄东方鲀	ju huang dong fang tun	11
+菌	jun
+菌	jun	16008
 菌丝	jun si	11895
 菌丝体	jun si ti	4965
 菌丝生长	jun si sheng zhang	100
@@ -5269,8 +5768,19 @@ sort: by_weight
 菌落计数	jun luo ji shu	100
 菌落计数器	jun luo ji shu qi	60
 菌边村	jun bian cun	2
+菤	juan
+葰	jun
+葰	jun	41
+蒟	ju
+蒟	ju	39
 蒟蒻	ju ruo	51
 蒟酱	ju jiang	2
+蒩	ju
+蓻	ju
+蔨	juan
+蕝	jue
+蕨	jue
+蕨	jue	1796
 蕨叶	jue ye	678
 蕨墙村	jue qiang cun	8
 蕨根粉煮鳝鱼	jue gen fen zhu shan yu	1
@@ -5279,13 +5789,39 @@ sort: by_weight
 蕨芽珍嫩压春蔬	jue ya zhen nen ya chun shu	1
 蕨菜	jue cai	7285
 蕨鹩刺莺	jue liao ci ying	1
+蘜	ju
+虡	ju
+虳	jue
+蚐	jun
+蚗	jue
+蚷	ju
+蜛	ju
+蜠	jun
+螶	ju
+蟨	jue
+蟩	jue
+蠲	juan
+蠲	juan	408
 蠲免	juan mian	655
 蠲敝崇善	juan bi chong shan	1
 蠲痹汤	juan bi tang	2
 蠲除	juan chu	545
 蠲除苛政	juan chu ke zheng	100
+袀	jun
+袓	ju
+袦	jue
+裐	juan
+裾	ju
+裾	ju	1369
 裾长曳地	ju chang ye di	100
 裾马襟牛	ju ma jin niu	1
+襷	ju
+覐	jue
+覚	jue
+覠	jun
+覺	jue
+觉	jue
+觉	jue	2372600
 觉不出	jue bu chu	113
 觉不出是	jue bu chu shi	105
 觉不出来	jue bu chu lai	145
@@ -5634,6 +6170,8 @@ sort: by_weight
 觉醒能力	jue xing neng li	100
 觉醒血脉	jue xing xie mai	100
 觉醒血脉	jue xing xue mai	100
+角	jue
+角	jue	24000
 角儿	jue er	3050
 角儿们	jue er men	100
 角力	jue li	8475
@@ -5817,16 +6355,46 @@ sort: by_weight
 角逐	jue zhu	60400
 角逐奥斯卡	jue zhu ao si ka	100
 角逐者	jue zhu zhe	100
+觖	jue
+觖	jue	126
 觖望	jue wang	135
+觮	jue
+觼	jue
+訣	jue
+詎	ju
+誳	jue
+諊	ju
+譎	jue
+讂	juan
+讵	ju
+讵	ju	447
+诀	jue
+诀	jue	56532
 诀别	jue bie	5800
 诀别书	jue bie shu	147
 诀别诗	jue bie shi	30
 诀窍	jue qiao	35020
 诀要	jue yao	999
+谲	jue
+谲	jue	3025
 谲怪之谈	jue guai zhi tan	1
 谲而不正	jue er bu zheng	5
 谲诈	jue zha	185
 谲诈多端	jue zha duo duan	1
+豦	ju
+貗	ju
+貜	jue
+賐	jun
+赽	jue
+趄	ju
+趄	ju	1
+趉	jue
+趜	ju
+趹	jue
+跔	ju
+跙	ju
+距	ju
+距	ju	193245
 距上海	ju shang hai	4705
 距人千里	ju ren qian li	3
 距今	ju jin	35875
@@ -5867,24 +6435,50 @@ sort: by_weight
 距香港	ju xiang gang	1090
 距骨	ju gu	109
 距骨骨折	ju gu gu zhe	13
+跼	ju
+踘	ju
+踞	ju
+踞	ju	6612
 踞坐	ju zuo	315
 踞炉炭上	ju lu tan shang	1
 踞虎盘龙	ju hu pan long	1
+踽	ju
+踽	ju	1379
 踽踽	ju ju	880
 踽踽凉凉	ju ju liang liang	100
 踽踽前行	ju ju qian xing	100
 踽踽独行	ju ju du xing	1190
 踽踽而行	ju ju er xing	400
+蹫	ju
+蹶	jue
+蹶	jue	3000
 蹶子	jue zi	275
 蹶角受化	jue jiao shou hua	1
+蹷	jue
+蹻	jue
+躆	ju
+躩	jue
+躹	ju
+車	ju
+車	ju	651
+軍	jun
+輂	ju
+车	ju
+车	ju	60000
 车马冷着	ju ma leng zhao	1
 车马炮	ju ma pao	625
+逫	jue
+遽	ju
+遽	ju	3222
 遽下结论	ju xia jie lun	100
 遽增	ju zeng	235
 遽容	ju rong	4
 遽然	ju ran	1730
 遽然变色	ju ran bian se	100
 遽然而至	ju ran er zhi	100
+邭	ju
+郡	jun
+郡	jun	57742
 郡主	jun zhu	22245
 郡主万福	jun zhu wan fu	100
 郡亭枕上看潮头	jun ting zhen shang kan chao tou	18
@@ -5904,14 +6498,42 @@ sort: by_weight
 郡治安官	jun zhi an guan	100
 郡治江州	jun zhi jiang zhou	2
 郡王	jun wang	14255
+郹	ju
+鄄	juan
+鄄	juan	299
 鄄城	juan cheng	2140
 鄄城一中	juan cheng yi zhong	176
 鄄城县	juan cheng xian	1230
+醵	ju
+醵	ju	51
+鈌	jue
+鈞	jun
+鉅	ju
+銁	jun
+銞	jun
+鋆	jun
+鋆	jun	1
+鋑	juan
+鋗	juan
+鋦	ju
+鋸	ju
+錈	juan
+鍕	jun
+鎸	juan
+鐍	jue
+鐝	jue
+鐫	juan
+鐻	ju
+钁	jue
+钜	ju
+钜	ju	1496
 钜人长德	ju ren zhang de	2
 钜儒宿学	ju ru su xue	1
 钜学鸿生	ju xue hong sheng	1
 钜桥镇	ju qiao zhen	172
 钜盛华	ju sheng hua	100
+钧	jun
+钧	jun	32200
 钧儒	jun ru	130
 钧剑	jun jian	135
 钧天之乐	jun tian zhi yue	100
@@ -5923,10 +6545,16 @@ sort: by_weight
 钧正平	jun zheng ping	136
 钧瓷	jun ci	4020
 钧鉴	jun jian	220
+锔	ju
+锔	ju	218
 锔元素	ju yuan su	100
 锔子	ju zi	1
 锔瓷	ju ci	4
 锔碗	ju wan	2
+锩	juan
+锩	juan	145
+锯	ju
+锯	ju	8953
 锯下去	ju xia qu	100
 锯下来	ju xia lai	100
 锯了	ju le	690
@@ -5990,6 +6618,8 @@ sort: by_weight
 锯齿缘	ju chi yuan	5
 锯齿虎	ju chi hu	100
 锯齿鳞钩虾	ju chi lin gou xia	1
+镌	juan
+镌	juan	2064
 镌凿	juan zao	75
 镌刻	juan ke	14155
 镌刻着	juan ke zhe	4745
@@ -5999,13 +6629,30 @@ sort: by_weight
 镌脾琢肾	juan pi zhuo shen	1
 镌镂	juan lou	70
 镌骨铭心	juan gu ming xin	100
+镢	jue
+镢	jue	463
 镢头	jue tou	905
+閰	ju
+闂	juan
+陖	jun
+陱	ju
+隽	juan
+隽	juan	5109
+隽	jun
+隽	jun	1
 隽才	juan cai	70
 隽水镇	juan shui zhen	190
 隽永	juan yong	13975
 隽语	juan yu	9999
+雋	juan
+雋	jun
+雎	ju
+雎	ju	2014
 雎晓雯	ju xiao wen	100
 雎鸠	ju jiu	999
+鞙	juan
+鞠	ju
+鞠	ju	23015
 鞠为茂草	ju wei mao cao	100
 鞠了一躬	ju le yi gong	5520
 鞠了个躬	ju le ge gong	1310
@@ -6033,15 +6680,33 @@ sort: by_weight
 鞠躬礼	ju gong li	1545
 鞠躬行礼	ju gong xing li	100
 鞠躬道歉	ju gong dao qian	145
+鞫	ju
+鞫	ju	301
 鞫为茂草	ju wei mao cao	1
 鞫审	ju shen	4
 鞫讯	ju xun	4
 鞫问	ju wen	4
+頵	jun
+颶	ju
+飓	ju
+飓	ju	9487
 飓风	ju feng	52665
 飓风强度	ju feng qiang du	100
 飓风行动	ju feng xing dong	100
 飓风长戟	ju feng chang ji	100
 飓风音速	ju feng yin su	100
+飬	juan
+餋	juan
+餕	jun
+馂	jun
+駃	jue
+駏	ju
+駒	ju
+駶	ju
+駿	jun
+驧	ju
+驹	ju
+驹	ju	11020
 驹光过隙	ju guang guo xi	100
 驹刀小兵	ju dao xiao bing	100
 驹子	ju zi	999
@@ -6051,6 +6716,8 @@ sort: by_weight
 驹窗电逝	ju chuang dian shi	1
 驹章胡同	ju zhang hu tong	3
 驹齿未落	ju chi wei luo	100
+骏	jun
+骏	jun	22698
 骏业宏发	jun ye hong fa	100
 骏命不易	jun ming bu yi	5
 骏城	jun cheng	14
@@ -6065,19 +6732,331 @@ sort: by_weight
 骏马雕鞍	jun ma diao an	100
 骏马骄行踏落花	jun ma jiao xing ta luo hua	2
 骏骨牵盐	jun gu qian yan	1
+髉	jue
+鮈	ju
+鮔	ju
+鮶	jun
+鲪	jun
+鲪	jun	1
+鳜	jue
+鴂	jue
+鴃	jue
+鴡	ju
+鵔	jun
 鵔鸃冠	jun yi guan	1
+鵕	jun
+鵘	jun
+鵙	ju
 鵙伞鸟	ju san niao	1
 鵙雀鹟	ju que weng	1
 鵙鹛带形吸虫	ju mei dai xing xi chong	1
+鵴	ju
+鶋	ju
+鶪	ju
+鷢	jue
+鹃	juan
+鹃	juan	14136
 鹃形目	juan xing mu	100
 鹃鸠	juan jiu	1
 鹃𫁡	juan li	1
+麇	jun
+麇	jun	284
+麏	jun
+麕	jun
+鼰	ju
+鼳	ju
+齟	ju
+龃	ju
+龃	ju	624
 龃龉	ju yu	2750
 龃龉不入	ju yu bu ru	1
 龃龉不合	ju yu bu he	100
 龃龉难入	ju yu nan ru	1
+龜	jun
+龟	jun
+龟	jun	1
 龟裂	jun lie	6478
 龟裂纹	jun lie wen	2
+𠀔	jue
+𠀹	jun
+𠄌	jue
+𠄑	jue
+𠉧	ju
+𠊬	jue
+𠋬	ju
+𠎮	jue
+𠔉	juan
+𠙆	ju
+𠚵	ju
+𠜹	ju
+𠜾	jue
+𠟰	ju
+𠡶	juan
+𠢚	juan
+𠢤	jue
+𠣕	jun
+𠤄	ju
+𠨊	jue
+𠨢	jun
+𠨭	ju
+𠩉	ju
+𠫃	jue
+𠮑	ju
+𠰾	ju
+𠶸	jue
+𡈅	jue
+𡉎	ju
+𡒍	ju
+𡕖	ju
+𡘰	juan
+𡚠	jue
+𡡀	juan
+𡢒	ju
+𡥶	ju
+𡨅	ju
+𡨢	ju
+𡫂	juan
+𡫬	ju
+𡱑	juan
+𡱾	ju
+𡲗	jue
+𡳘	ju
+𡳾	jue
+𡶋	ju
+𡸘	ju
+𡸨	ju
+𡾜	jue
+𡿾	ju
+𢁪	jue
+𢃩	juan
+𢉦	jun
+𢋄	juan
+𢍏	juan
+𢎠	juan
+𢎥	juan
+𢎹	jue
+𢏷	jue
+𢔱	jue
+𢖦	jue
+𢚆	ju
+𢝓	juan
+𢤫	ju
+𢨏	jue
+𢩁	ju
+𢩯	jue
+𢯅	jue
+𢯺	ju
+𢱺	jue
+𢴭	jue
+𢻸	jun
+𣅡	jue
+𣌬	ju
+𣍇	ju
+𣎛	ju
+𣐊	ju
+𣓌	ju
+𣖣	ju
+𣖬	jue
+𣙢	juan
+𣚓	juan
+𣜨	juan
+𣨢	jue
+𣬋	juan
+𣬎	jue
+𣬏	juan
+𣶝	ju
+𣻐	ju
+𤎱	juan
+𤓯	ju
+𤔋	ju
+𤖵	ju
+𤛦	jue
+𤜔	ju
+𤞴	jue
+𤟎	jue
+𤢓	ju
+𤮪	jun
+𤲨	juan
+𤷢	ju
+𤹋	jue
+𤺻	juan
+𤼗	jue
+𤼳	ju
+𥁠	juan
+𥂃	ju
+𥄴	jue
+𥄷	ju
+𥅬	juan
+𥆌	jue
+𥆞	juan
+𥇘	jun
+𥇛	ju
+𥈋	ju
+𥈾	jue
+𥉁	ju
+𥏘	jue
+𥕑	ju
+𥕲	jue
+𥘮	ju
+𥚂	jun
+𥛯	jue
+𥜮	jun
+𥡣	jun
+𥢧	ju
+𥤘	jue
+𥪊	jue
+𥪏	ju
+𥬙	ju
+𥮗	ju
+𥯔	ju
+𥱽	juan
+𥲜	ju
+𥴧	ju
+𥴪	ju
+𥷚	ju
+𥾮	jue
+𦀣	ju
+𦁆	juan
+𦁐	jue
+𦅽	ju
+𦇘	jun
+𦇙	ju
+𦊌	juan
+𦊐	ju
+𦌺	jun
+𦏅	jue
+𦓐	jue
+𦗻	ju
+𦙮	ju
+𦛓	ju
+𦛲	jue
+𦜛	ju
+𦞇	ju
+𦟳	ju
+𦠒	jue
+𦢿	juan
+𦥑	ju
+𦦽	juan
+𦪘	jue
+𦬾	juan
+𦮻	juan
+𦱅	ju
+𦳽	juan
+𦴌	jun
+𦵼	jun
+𦺖	ju
+𦼈	ju
+𦼱	juan
+𧂜	ju
+𧄛	ju
+𧍕	jue
+𧎖	juan
+𧕲	juan
+𧗫	jue
+𧝃	jue
+𧝲	ju
+𧣒	ju
+𧣸	jue
+𧣻	ju
+𧤑	ju
+𧤼	jue
+𧥎	jue
+𧥺	jun
+𧭦	juan
+𧮫	jue
+𧮬	jue
+𧯖	jun
+𧯦	juan
+𧱝	jue
+𧱝	jun
+𧲋	ju
+𧵞	ju
+𧷾	ju
+𧸧	ju
+𧺐	jue
+𧺤	ju
+𧺹	ju
+𧻗	ju
+𧼨	jue
+𧽔	jun
+𧽸	jue
+𧽻	ju
+𧾣	ju
+𧾵	jue
+𧿺	jue
+𧿻	ju
+𨁺	ju
+𨆈	juan
+𨊿	jue
+𨋔	ju
+𨋧	ju
+𨌘	jun
+𨌫	juan
+𨍯	ju
+𨏹	jue
+𨗝	ju
+𨛐	jun
+𨛮	ju
+𨝮	ju
+𨟠	jue
+𨤑	juan
+𨧙	ju
+𨨠	ju
+𨩸	juan
+𨬐	jue
+𨰜	jue
+𨲄	jun
+𨶊	jun
+𨸰	ju
+𨹵	juan
+𨼎	jue
+𨼱	jue
+𩉸	ju
+𩊺	jue
+𩋜	ju
+𩌡	jue
+𩍔	ju
+𩍸	ju
+𩎳	juan
+𩏗	juan
+𩏹	juan
+𩏺	jue
+𩓻	jue
+𩔱	juan
+𩘒	juan
+𩛺	ju
+𩜃	ju
+𩜇	juan
+𩟥	juan
+𩧏	jue
+𩧒	ju
+𩧡	jue
+𩪗	jue
+𩫴	ju
+𩬜	ju
+𩭊	ju
+𩰤	ju
+𩰨	jue
+𩳵	ju
+𩴘	ju
+𩷐	ju
+𩿝	ju
+𪀏	ju
+𪀣	ju
+𪁠	jue
+𪁥	ju
+𪂓	ju
+𪈴	jue
+𪍁	jun
+𪕞	jun
+𪖜	jue
+𪗖	ju
+𪚅	jue
+𫔎	jue	1
+𫘝	jue	1
 𫘝𫘨	jue ti	1
+𫛞	jue
+𬶋	ju	3
 𬶋亚科	ju ya ke	6
 𬶋杜父鱼	ju du fu yu	2
+𱉔	jue

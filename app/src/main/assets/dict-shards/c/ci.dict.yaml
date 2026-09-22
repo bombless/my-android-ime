@@ -3,6 +3,34 @@ name: merged.ci
 version: "1.0"
 sort: by_weight
 ...
+㓨	ci
+㘂	ci
+㘹	ci
+㞖	ci
+㠿	ci
+㡹	ci
+㢀	ci
+㤵	ci
+㩞	ci
+㹂	ci
+䂣	ci
+䆅	ci
+䈘	ci
+䓧	ci
+䖪	ci
+䗹	ci
+䛐	ci
+䦻	ci
+䧳	ci
+䨏	ci
+䭣	ci
+䯸	ci
+䰍	ci
+䲿	ci
+䳄	ci
+䳐	ci
+伺	ci
+伺	ci	27405
 伺候	ci hou	37015
 伺候丈夫	ci hou zhang fu	100
 伺候不了	ci hou bu liao	100
@@ -23,6 +51,14 @@ sort: by_weight
 伺候老公	ci hou lao gong	100
 伺候过	ci hou guo	100
 伺者因此觉知	ci zhe yin ci jue zhi	1
+佌	ci
+佽	ci
+佽	ci	11
+偨	ci
+兹	ci
+兹	ci	1
+刺	ci
+刺	ci	394555
 刺上	ci shang	2075
 刺上化下	ci shang hua xia	1
 刺上去	ci shang qu	100
@@ -305,6 +341,10 @@ sort: by_weight
 刺龙牙	ci long ya	33
 刺龙王	ci long wang	100
 刺𫚉	ci hong	3
+刾	ci
+呰	ci
+呲	ci
+呲	ci	6309
 呲儿	ci er	3
 呲呲	ci ci	6565
 呲呲呲	ci ci ci	6565
@@ -312,8 +352,16 @@ sort: by_weight
 呲杆	ci gan	2222
 呲杆了	ci gan le	2222
 呲杆儿	ci gan er	2222
+啙	ci
+垐	ci
+嬨	ci
+差	ci
+差	ci	1
 差互	ci hu	160
 差肩接迹	ci jian jie ji	100
+庛	ci
+慈	ci
+慈	ci	93047
 慈不主兵	ci bu zhu bing	100
 慈世平	ci shi ping	100
 慈乌反哺	ci wu fan bu	100
@@ -421,6 +469,11 @@ sort: by_weight
 慈萱	ci xuan	35
 慈音街道	ci yin jie dao	1
 慈颜	ci yan	790
+朿	ci
+柌	ci
+栨	ci
+次	ci
+次	ci	2307457
 次一个	ci yi ge	100
 次一等	ci yi deng	810
 次世代	ci shi dai	6785
@@ -604,6 +657,8 @@ sort: by_weight
 次髎	ci liao	2
 次髎穴	ci liao xue	2
 次黄嘌呤	ci huang piao ling	485
+此	ci
+此	ci	2725965
 此一时	ci yi shi	1380
 此一时彼一时	ci yi shi bi yi shi	204
 此中	ci zhong	23600
@@ -1057,6 +1112,14 @@ sort: by_weight
 此风不可长	ci feng bu ke zhang	96
 此马之真性也	ci ma zhi zhen xing ye	1
 此马非凡马	ci ma fei fan ma	2
+泚	ci
+泚	ci	435
+濨	ci
+玼	ci
+玼	ci	16
+珁	ci
+瓷	ci
+瓷	ci	24855
 瓷业	ci ye	5265
 瓷仙鹤	ci xian he	100
 瓷像	ci xiang	6035
@@ -1105,9 +1168,15 @@ sort: by_weight
 瓷都算命网	ci du suan ming wang	100
 瓷釉	ci you	1999
 瓷雕	ci diao	2030
+甆	ci
+疵	ci
+疵	ci	4857
 疵品	ci pin	110
 疵点	ci dian	3930
 疵瑕	ci xia	2
+皉	ci
+磁	ci
+磁	ci	28220
 磁介质	ci jie zhi	1850
 磁传感器	ci chuan gan qi	100
 磁体	ci ti	7220
@@ -1310,6 +1379,9 @@ sort: by_weight
 磁链	ci lian	7095
 磁阻	ci zu	3305
 磁鼓	ci gu	1510
+礠	ci
+祠	ci
+祠	ci	10484
 祠堂	ci tang	29305
 祠堂上	ci tang shang	19
 祠堂下	ci tang xia	5
@@ -1318,11 +1390,21 @@ sort: by_weight
 祠墓	ci mu	650
 祠庙	ci miao	2640
 祠部牒	ci bu die	100
+粢	ci
 粢饭	ci fan	1
 粢饭团	ci fan tuan	1
 粢饭糕	ci fan gao	1
+糍	ci
+糍	ci	401
 糍粑	ci ba	7207
+絘	ci
+縒	ci
+茈	ci
+茈	ci	92
 茈碧乡	ci bi xiang	2
+茦	ci
+茨	ci
+茨	ci	23761
 茨万吉拉伊	ci wan ji la yi	100
 茨冈人	ci gang ren	135
 茨坪	ci ping	2385
@@ -1336,7 +1418,16 @@ sort: by_weight
 茨菇塘	ci gu tang	133
 茨营子乡	ci ying zi xiang	1
 茨达乡	ci da xiang	2
+莿	ci
+莿	ci	1
 莿桐乡	ci tong xiang	100
+薋	ci
+蛓	ci
+螆	ci
+蠀	ci
+詞	ci
+词	ci
+词	ci	196564
 词不悉心	ci bu xi xin	1
 词不离句	ci bu li ju	208
 词不达意	ci bu da yi	3830
@@ -1490,6 +1581,9 @@ sort: by_weight
 词频效应	ci pin xiao ying	100
 词频统计	ci pin tong ji	1027
 词频调整	ci pin tiao zheng	325
+賜	ci
+赐	ci
+赐	ci	81549
 赐也闻一以知二	ci ye wen yi yi zhi er	1
 赐了	ci le	1145
 赐予	ci yu	30885
@@ -1521,7 +1615,13 @@ sort: by_weight
 赐金放还	ci jin fang huan	100
 赐钱二百万	ci qian er bai wan	1
 赐闲湖	ci xian hu	7
+趀	ci
+跐	ci
+跐	ci	53
 跐溜	ci liu	123
+辝	ci
+辞	ci
+辞	ci	130150
 辞不	ci bu	222
 辞不了	ci bu liao	25
 辞不意逮	ci bu yi dai	1
@@ -1624,6 +1724,10 @@ sort: by_weight
 辞退制	ci tui zhi	100
 辞鄙义拙	ci bi yi zhuo	1
 辞金蹈海	ci jin dao hai	1
+辤	ci
+辭	ci
+雌	ci
+雌	ci	10979
 雌三醇	ci san chun	14
 雌二醇	ci er chun	2995
 雌二醇贴片	ci er chun tie pian	1
@@ -1722,3 +1826,66 @@ sort: by_weight
 雌黄黑白	ci huang hei bai	1
 雌鼠	ci shu	5
 雌龟	ci gui	5
+飺	ci
+餈	ci
+骴	ci
+髊	ci
+鮆	ci
+鴜	ci
+鶿	ci
+鷀	ci
+鹚	ci
+鹚	ci	268
+齹	ci
+𠤫	ci
+𠦐	ci
+𠩆	ci
+𠯂	ci
+𡃸	ci
+𡥎	ci
+𡰾	ci
+𢅜	ci
+𢓗	ci
+𢫴	ci
+𢶴	ci
+𣐑	ci
+𣙼	ci
+𣜁	ci
+𣢕	ci
+𤴼	ci
+𥰭	ci
+𥴺	ci
+𥿆	ci
+𥿴	ci
+𦍧	ci
+𦐨	ci
+𦐾	ci
+𦑺	ci
+𦒁	ci
+𦖝	ci
+𦼡	ci
+𧊒	ci
+𧌐	ci
+𧑖	ci
+𧙈	ci
+𧠎	ci
+𧠥	ci
+𧧒	ci
+𧺼	ci
+𨋰	ci
+𨐕	ci
+𨒤	ci
+𨒮	ci
+𨠐	ci
+𨲁	ci
+𨾅	ci
+𩆂	ci
+𩉋	ci
+𩝐	ci
+𩢑	ci
+𩨨	ci
+𩾔	ci
+𪉪	ci
+𪑟	ci
+𪘲	ci
+𫚖	ci	1

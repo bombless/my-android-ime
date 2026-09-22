@@ -3,6 +3,41 @@ name: merged.ro
 version: "1.0"
 sort: by_weight
 ...
+㖻	rou
+㘇	rong
+㝐	rong
+㣑	rong
+㭜	rong
+㮟	rou
+㲓	rong
+㲝	rong
+㲨	rong
+㺎	rong
+㼸	rong
+㽥	rou
+䄧	rong
+䄾	rou
+䇀	rong
+䇯	rong
+䈶	rong
+䋴	rong
+䋴	rou
+䐓	rou
+䘬	rong
+䠜	rong
+䡆	rong
+䡥	rong
+䢇	rong
+䢇	rou
+䤊	rong
+䥆	rou
+䧷	rou
+䩸	rong
+䰆	rou
+傇	rong
+傛	rong
+冗	rong
+冗	rong	3678
 冗不见治	rong bu jian zhi	1
 冗余	rong yu	43060
 冗余度	rong yu du	100
@@ -20,7 +55,17 @@ sort: by_weight
 冗长	rong chang	19700
 冗长乏味	rong chang fa wei	140
 冗长度	rong chang du	100
+厹	rou
+坈	rong
+媃	rou
+媶	rong
+嫆	rong
+嬫	rong
+宂	rong
+宍	rou
 宍户里帆	rou hu li fan	6666
+容	rong
+容	rong	1038318
 容下	rong xia	4135
 容不下	rong bu xia	8950
 容不下他	rong bu xia ta	100
@@ -254,6 +299,13 @@ sort: by_weight
 容颜失色	rong yan shi se	100
 容颜如旧	rong yan ru jiu	100
 容颜如玉	rong yan ru yu	177
+峵	rong
+嵘	rong
+嵘	rong	3539
+嵤	rong
+嶸	rong
+戎	rong
+戎	rong	14391
 戎事倥偬	rong shi kong zong	100
 戎机	rong ji	405
 戎甲	rong jia	20
@@ -271,6 +323,8 @@ sort: by_weight
 戎马关山北	rong ma guan shan bei	1
 戎马生涯	rong ma sheng ya	1225
 戎马生郊	rong ma sheng jiao	100
+揉	rou
+揉	rou	67835
 揉一揉	rou yi rou	1470
 揉不得沙子	rou bu de sha zi	100
 揉了	rou le	1111
@@ -322,6 +376,11 @@ sort: by_weight
 揉面	rou mian	1111
 揉面团	rou mian tuan	123
 揉面粉	rou mian fen	123
+搈	rong
+搑	rong
+曧	rong
+柔	rou
+柔	rou	84782
 柔中	rou zhong	111
 柔中带刚	rou zhong dai gang	100
 柔中有刚	rou zhong you gang	930
@@ -476,6 +535,10 @@ sort: by_weight
 柔风空调	rou feng kong tiao	100
 柔鱼	rou yu	120
 柔麻	rou ma	15
+栄	rong
+楺	rou
+榕	rong
+榕	rong	11223
 榕东街道	rong dong jie dao	1
 榕八星天牛	rong ba xing tian niu	1
 榕华大道	rong hua da dao	6
@@ -507,6 +570,14 @@ sort: by_weight
 榕湖饭店	rong hu fan dian	9
 榕管蓟马	rong guan ji ma	5
 榕脊胸天牛	rong ji xiong tian niu	1
+榮	rong
+榵	rong
+槦	rong
+毧	rong
+氄	rong
+渘	rou
+溶	rong
+溶	rong	17932
 溶于	rong yu	37085
 溶体	rong ti	320
 溶入	rong ru	22130
@@ -583,6 +654,11 @@ sort: by_weight
 溶酶体	rong mei ti	2120
 溶酶体贮积症	rong mei ti zhu ji zheng	5
 溶食兽	rong shi shou	100
+瀜	rong
+烿	rong
+煣	rou
+熔	rong
+熔	rong	9661
 熔丝	rong si	4545
 熔于一炉	rong yu yi lu	640
 熔今铸古	rong jin zhu gu	9
@@ -649,8 +725,25 @@ sort: by_weight
 熔锍	rong liu	5
 熔锍吹炼	rong liu chui lian	100
 熔锡	rong xi	375
+爃	rong
+狨	rong
+狨	rong	158
+瑈	rou
+瑢	rong
+瑢	rong	116
+瓇	rou
+禸	rou
+穁	rong
+穃	rong
+粈	rou
+糅	rou
+糅	rou	1397
 糅合	rou he	10905
 糅杂	rou za	315
+絨	rong
+縙	rong
+绒	rong
+绒	rong	21218
 绒促性素	rong cu xing su	4
 绒叶肖竹芋	rong ye xiao zhu yu	1
 绒头绳	rong tou sheng	100
@@ -692,6 +785,9 @@ sort: by_weight
 绒辖乡	rong xia xiang	98
 绒面	rong mian	6730
 绒鸡待哺	rong ji dai bu	6
+羢	rong
+肉	rou
+肉	rou	377486
 肉丁	rou ding	5415
 肉丁蔬菜焖饭	rou ding shu cai men fan	1
 肉丁辣酱	rou ding la jiang	20
@@ -1030,6 +1126,12 @@ sort: by_weight
 肉麻当有趣	rou ma dang you qu	380
 肉麻的	rou ma de	5
 肉黄菊	rou huang ju	1
+肜	rong
+脜	rou
+腬	rou
+茙	rong
+茸	rong
+茸	rong	10963
 茸参补肾胶囊	rong shen bu shen jiao nang	1
 茸地益肾胶囊	rong di yi shen jiao nang	1
 茸城论坛	rong cheng lun tan	45
@@ -1042,6 +1144,8 @@ sort: by_weight
 茸芪益肾口服液	rong qi yi shen kou fu ye	1
 茸茸	rong rong	2220
 茸茸羊	rong rong yang	100
+荣	rong
+荣	rong	190645
 荣一郎	rong yi lang	100
 荣一鸣	rong yi ming	100
 荣业大街	rong ye da jie	15
@@ -1250,6 +1354,9 @@ sort: by_weight
 荣隆	rong long	55
 荣顺	rong shun	640
 荣高棠	rong gao tang	685
+葇	rou
+蓉	rong
+蓉	rong	74083
 蓉中村	rong zhong cun	39
 蓉儿	rong er	10170
 蓉园路	rong yuan lu	12
@@ -1262,10 +1369,15 @@ sort: by_weight
 蓉花山	rong hua shan	119
 蓉芳	rong fang	755
 蓉蓉	rong rong	815
+蝚	rou
+蝾	rong
+蝾	rong	225
 蝾螈	rong yuan	2495
 蝾螺	rong luo	1
 蝾螺属	rong luo shu	100
 蝾螺科	rong luo ke	100
+融	rong
+融	rong	133868
 融为	rong wei	4450
 融为一体	rong wei yi ti	60315
 融为了	rong wei le	100
@@ -1416,10 +1528,24 @@ sort: by_weight
 融雪	rong xue	3320
 融雪剂	rong xue ji	1240
 融雪天气	rong xue tian qi	100
+螎	rong
+蠑	rong
+褣	rong
+譳	rou
+蹂	rou
+蹂	rou	7440
 蹂躏	rou lin	23245
+軵	rong
+輮	rou
+鍒	rou
+鎔	rong
+镕	rong
+镕	rong	535
 镕范	rong fan	2
 镕铁少女	rong tie shao nv	100
 镕铁少女芮尔	rong tie shao nv rui er	100
+鞣	rou
+鞣	rou	445
 鞣制	rou zhi	32
 鞣剂	rou ji	705
 鞣料	rou liao	2
@@ -1436,5 +1562,72 @@ sort: by_weight
 鞣酸软膏	rou suan ruan gao	9
 鞣酸酶	rou suan mei	10
 鞣革	rou ge	860
+韖	rou
+駥	rong
+騥	rou
+鰇	rou
+鶔	rou
+𠌚	rong
+𠞕	rong
+𠠐	rou
+𠰽	rong
+𠹍	rong
+𡊫	rong
+𡊸	rong
+𡖢	rong
+𡗑	rou
+𡦼	rong
+𡫦	rong
+𡭋	rong
+𢐿	rong
+𢔟	rou
+𢘅	rou
+𢦿	rong
+𢫨	rong
+𣮪	rong
+𣯍	rong
+𣯏	rong
+𣯐	rong
+𣲽	rong
+𤘺	rong
+𤘻	rong
+𥎂	rong
+𥎜	rong
+𥑳	rong
+𥠊	rou
+𥨳	rong
+𥬪	rong
+𥼬	rong
+𦍭	rou
+𦔋	rong
+𦗋	rong
+𦗨	rong
+𦶇	rong
+𧉡	rong
+𧎣	rong
+𨉴	rong
+𨉷	rong
+𨋠	rong
+𨌣	rong
+𨍅	rong
+𨍷	rong
+𨒆	rong
+𨛶	rou
+𨦡	rong
+𨲟	rong
+𩍉	rong
+𩎂	rong
+𩒷	rong
+𩚗	rong
+𩮠	rong
+𩼅	rong
+𪃾	rong
+𪑶	rou
+𪕁	rong
+𪕎	rong
+𪗴	rong
+𫐓	rou	1
 𫐓以为轮	rou yi wei lun	100
 𫐓使之然也	rou shi zhi ran ye	100
+𰽽	rong
+𱊗	rou

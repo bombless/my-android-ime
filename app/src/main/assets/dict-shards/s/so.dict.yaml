@@ -3,9 +3,43 @@ name: merged.so
 version: "1.0"
 sort: by_weight
 ...
+㕬	song
+㖩	sou
+㞞	song
+㟬	sou
+㣝	song
+㧐	song
+㧐	song	1
+㨦	song
+㩳	song
+㮸	song
+㵻	sou
+䈹	sou
+䉤	sou
+䉥	song
+䏂	sou
+䐹	sou
+䛦	song
+䜬	song
+䢠	song
+䬒	sou
+䮟	sou
+䱸	sou
+倯	song
+傁	sou
+傱	song
+凁	sou
+凇	song
+凇	song	252
 凇沪路	song hu lu	1
 凇虹路	song hong lu	3
+叜	sou
+叟	sou
+叟	sou	9797
 叟猴	sou hou	21
+吅	song
+嗖	sou
+嗖	sou	19887
 嗖嗖	sou sou	7740
 嗖嗖嗖	sou sou sou	100
 嗖嗖地	sou sou de	100
@@ -15,9 +49,17 @@ sort: by_weight
 嗖的	sou de	9999
 嗖的一下	sou de yi xia	100
 嗖的一声	sou de yi sheng	1160
+嗽	sou
+嗽	sou	28817
 嗽嗽声	sou sou sheng	1
 嗽金鸟	sou jin niao	5
+嗾	sou
+嗾	sou	129
 嗾使	sou shi	205
+娀	song
+娀	song	13
+宋	song
+宋	song	255294
 宋一平	song yi ping	24
 宋三川	song san chuan	100
 宋三彩	song san cai	100
@@ -349,9 +391,13 @@ sort: by_weight
 宋高宗	song gao zong	3200
 宋高宗赵构	song gao zong zhao gou	100
 宋鱼水	song yu shui	707
+崧	song
+崧	song	1363
 崧厦街道	song xia jie dao	2
 崧厦镇	song xia zhen	2
 崧生岳降	song sheng yue jiang	1
+嵩	song
+嵩	song	16210
 嵩县	song xian	311
 嵩山	song shan	27585
 嵩山村	song shan cun	15
@@ -369,10 +415,19 @@ sort: by_weight
 嵩阳汉柏图	song yang han bai tu	100
 嵩阳苑	song yang yuan	1
 嵩高苍翠北邙红	song gao cang cui bei mang hong	1
+嵷	song
+庺	song
+廀	sou
+廋	sou
+廋	sou	27
 廋文	sou wen	2
 廋词隐语	sou ci yin yu	89
 廋语	sou yu	2
 廋辞	sou ci	2
+忪	song
+忪	song	4465
+怂	song
+怂	song	21653
 怂了	song le	5555
 怂人	song ren	1180
 怂什么	song shen me	2
@@ -383,8 +438,20 @@ sort: by_weight
 怂恿者	song yong zhe	85
 怂的	song de	4444
 怂逼	song bi	1111
+悚	song
+悚	song	15579
 悚惧	song ju	455
 悚然	song ran	4430
+愡	song
+愯	song
+慫	song
+憽	song
+捒	song
+捒	sou
+捜	sou
+揔	song
+搜	sou
+搜	sou	93119
 搜一下	sou yi xia	100
 搜一搜	sou yi sou	1705
 搜一篇	sou yi pian	100
@@ -626,6 +693,15 @@ sort: by_weight
 搜魂索魄	sou hun suo po	100
 搜魂钩	sou hun gou	1
 搜魔人	sou mo ren	100
+摉	sou
+摗	song
+摗	sou
+撨	sou
+擞	sou
+擞	sou	6388
+擻	sou
+松	song
+松	song	452901
 松一下	song yi xia	100
 松一些	song yi xie	100
 松一口气	song yi kou qi	4950
@@ -1134,8 +1210,20 @@ sort: by_weight
 松鼠猴	song shu hou	100
 松鼠部落	song shu bu luo	142
 松鼠鳜鱼	song shu gui yu	447
+枀	song
+枩	song
+柗	song
+梥	song
+棇	song
+棷	sou
+楤	song
 楤木	song mu	8
 楤木属	song mu shu	100
+檧	song
+櫢	sou
+欶	sou
+淞	song
+淞	song	2959
 淞兴路	song xing lu	9
 淞南十村	song nan shi cun	8
 淞南新村	song nan xin cun	11
@@ -1148,8 +1236,22 @@ sort: by_weight
 淞滨支路	song bin zhi lu	7
 淞滨路	song bin lu	44
 淞虹路	song hong lu	1180
+溲	sou
+溲	sou	230
 溲疏弧翅卷蛾	sou shu hu chi juan e	1
+漎	song
+濍	song
+獀	sou
+瘶	sou
+瞍	sou
+瞍	sou	21
+硹	song
+竦	song
+竦	song	698
 竦然起敬	song ran qi jing	1
+籔	sou
+耸	song
+耸	song	74009
 耸了	song le	1020
 耸了耸	song le song	3070
 耸了耸肩	song le song jian	5935
@@ -1174,20 +1276,39 @@ sort: by_weight
 耸膊成山	song bo cheng shan	1
 耸起	song qi	3695
 耸身	song shen	390
+聳	song
+艘	sou
+艘	sou	83282
 艘次	sou ci	2200
+菘	song
+菘	song	145
 菘菜	song cai	1
 菘蓝	song lan	1
+蒐	sou
+蒐	sou	20
+蓃	sou
+薮	sou
+薮	sou	509
 薮中荆曲	sou zhong jing qu	1
 薮犬	sou quan	1
 薮犬亚科	sou quan ya ke	1
 薮猫	sou mao	120
+藪	sou
 蜙蝑	song xu	1
+螋	sou
+螋	sou	6
+訟	song
+誦	song
+讼	song
+讼	song	11726
 讼事	song shi	600
 讼卦	song gua	3
 讼师	song shi	3600
 讼案	song an	880
 讼棍	song gun	11
 讼词	song ci	575
+诵	song
+诵	song	21654
 诵佛	song fo	1160
 诵地藏经	song di zang jing	100
 诵念	song nian	3650
@@ -1196,6 +1317,8 @@ sort: by_weight
 诵经台	song jing tai	55
 诵读	song du	34050
 诵读诗篇	song du shi pian	100
+送	song
+送	song	668592
 送一	song yi	1111
 送一下	song yi xia	535
 送一个	song yi ge	335
@@ -1669,7 +1792,17 @@ sort: by_weight
 送饺子	song jiao zi	165
 送验	song yan	2222
 送鲜花	song xian hua	197
+鄋	sou
+醙	sou
+鎪	sou
+鎹	song
+鏉	sou
+锼	sou
+锼	sou	56
 锼弓子	sou gong zi	9999
+頌	song
+颂	song
+颂	song	21103
 颂乐人偶	song yue ren ou	1
 颂古非今	song gu fei jin	100
 颂叹	song tan	25
@@ -1692,9 +1825,17 @@ sort: by_weight
 颂赞	song zan	9999
 颂运水庭	song yun shui ting	133
 颂陶	song tao	305
+颼	sou
+颾	sou
+飕	sou
+飕	sou	8930
 飕飕	sou sou	4870
 飕飕作响	sou sou zuo xiang	75
 飕飗	sou liu	1
+餸	song
+餿	sou
+馊	sou
+馊	sou	3198
 馊主意	sou zhu yi	3265
 馊了	sou le	6550
 馊味	sou wei	575
@@ -1705,6 +1846,71 @@ sort: by_weight
 馊菜	sou cai	2
 馊饭	sou fan	165
 馊馊的	sou sou de	100
+駷	song
+騪	sou
+鬆	song
+𠋢	sou
+𠌞	sou
+𠌟	sou
+𠘂	sou
+𠝬	sou
+𠪇	sou
+𠳼	song
+𡇝	song
+𡠼	sou
+𡣂	sou
+𡷽	song
+𡾼	song
+𢓣	song
+𢔋	song
+𢔩	song
+𢖗	song
+𢤄	song
+𢱤	song
+𢴼	sou
+𣔱	sou
+𣚜	song
+𣮬	sou
+𣯜	sou
+𣽫	song
+𤕇	sou
+𤾥	song
+𥈟	sou
+𥖻	sou
+𥯪	sou
+𥰞	sou
+𥳺	song
+𦢩	sou
+𦬘	song
+𦯕	song
+𦷴	song
+𦺌	sou
+𧊕	song
+𧌻	song
+𧔅	sou
+𧩮	sou
+𧳶	sou
+𧼭	sou
+𧽏	sou
+𨠤	song
+𨡻	sou
+𨤇	sou
+𨱛	song
+𨱿	song
+𨴏	song
+𨺦	sou
+𩃍	song
+𩃭	song
+𩗣	sou
+𩘠	sou
+𩩺	song
+𩮀	song
+𩮃	sou
+𩮶	sou
+𩮸	sou
+𪀚	song
+𪨊	song
+𪨊	song	21652
 𪨊一点	song yi dian	100
 𪨊了	song le	2
 𪨊人	song ren	2

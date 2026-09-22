@@ -3,7 +3,45 @@ name: merged.ka
 version: "1.0"
 sort: by_weight
 ...
+㗆	kai
+㙳	kan
+㚊	kai
+㝩	kang
+㡁	kai
+㮟	ka
+㰠	kang
+㱂	kang
+㱾	kai
+㳀	kai
+㵎	kan
+㸆	kao
+㸆	kao	28
 㸆大虾	kao da xia	321
+㸝	kan
+㼥	kao
+䀍	kan
+䁗	kai
+䎋	kao
+䐧	kao
+䐩	kai
+䒓	kai
+䖔	kan
+䘓	kan
+䘓	kao
+䘔	ka
+䡉	kang
+䡷	kai
+䫦	kai
+䫲	kan
+䬻	kan
+䯌	kao
+䯪	kao
+䲘	kang
+䳚	kan
+䶫	kan
+丂	kao
+亢	kang
+亢	kang	20459
 亢厉为能	kang li wei neng	1
 亢奋	kang fen	20615
 亢奋状态	kang fen zhuang tai	1490
@@ -24,15 +62,21 @@ sort: by_weight
 亢龙之悔	kang long zhi hui	100
 亢龙有悔	kang long you hui	33
 亢龙锏	kang long jian	100
+伉	kang
+伉	kang	1579
 伉俪	kang li	5315
 伉俪之情	kang li zhi qing	3
 伉俪情深	kang li qing shen	355
 伉俪情笃	kang li qing du	100
 伉俪荣谐	kang li rong xie	1
+佧	ka
+佧	ka	1
 佧佤	ka wa	1111
 佧佤山	ka wa shan	1
 佧佤山区	ka wa shan qu	1
 佧佤族	ka wa zu	100
+侃	kan
+侃	kan	36358
 侃一侃	kan yi kan	432
 侃侃	kan kan	12145
 侃侃价	kan kan jia	12
@@ -43,6 +87,10 @@ sort: by_weight
 侃侃谔谔	kan kan e e	1
 侃大山	kan da shan	2715
 侃爷	kan ye	860
+偘	kan
+冚	kan
+凯	kai
+凯	kai	175931
 凯中精密	kai zhong jing mi	116
 凯丰路	kai feng lu	31
 凯丽金	kai li jin	100
@@ -238,7 +286,11 @@ sort: by_weight
 凯雷斯特拉兹	kai lei si te la zi	100
 凯风寒泉	kai feng han quan	100
 凯鹏	kai peng	465
+凱	kai
+凵	kan
 凵部	kan bu	1
+刊	kan
+刊	kan	44631
 刊例	kan li	8160
 刊出	kan chu	20175
 刊出来	kan chu lai	100
@@ -266,7 +318,13 @@ sort: by_weight
 刊谬补缺	kan miu bu que	6
 刊载	kan zai	9028
 刊首语	kan shou yu	505
+剀	kai
+剀	kai	403
 剀切	kai qie	495
+剴	kai
+勓	kai
+勘	kan
+勘	kan	10761
 勘丈法	kan zhang fa	87
 勘不破	kan bu po	100
 勘九郎	kan jiu lang	100
@@ -312,6 +370,9 @@ sort: by_weight
 勘误表	kan wu biao	1050
 勘验	kan yan	14615
 勘验笔录	kan yan bi lu	3385
+匟	kang
+卡	ka
+卡	ka	402256
 卡丁车	ka ding che	36885
 卡丁车俱乐部	ka ding che ju le bu	100
 卡上	ka shang	66980
@@ -1021,6 +1082,8 @@ sort: by_weight
 卡麦隆	ka mai long	1
 卡默珠母丽鱼	ka mo zhu mu li yu	1
 卡龙乡	ka long xiang	1
+咔	ka
+咔	ka	14414
 咔叽	ka ji	1111
 咔吧	ka ba	1060
 咔咔	ka ka	16995
@@ -1041,6 +1104,8 @@ sort: by_weight
 咔嚓一声	ka cha yi sheng	100
 咔滋脆	ka zi cui	100
 咔的一声	ka de yi sheng	100
+咖	ka
+咖	ka	75455
 咖乐美	ka le mei	100
 咖乐美咖啡机	ka le mei ka fei ji	100
 咖位	ka wei	12
@@ -1103,6 +1168,8 @@ sort: by_weight
 咖色	ka se	1111
 咖色的	ka se de	100
 咖色系	ka se xi	100
+咯	ka
+咯	ka	1111
 咯出	ka chu	111
 咯出来	ka chu lai	111
 咯痰	ka tan	3333
@@ -1110,6 +1177,8 @@ sort: by_weight
 咯血	ka xue	9385
 咯血病	ka xie bing	100
 咯血病	ka xue bing	100
+喀	ka
+喀	ka	24238
 喀什	ka shi	29945
 喀什东路街道	ka shi dong lu jie dao	11
 喀什中院	ka shi zhong yuan	87
@@ -1189,6 +1258,10 @@ sort: by_weight
 喀麦隆野鲮	ka mai long ye ling	1
 喀麦隆队	ka mai long dui	550
 喀麦隆鹎	ka mai long bei	1
+嘅	kai
+囥	kang
+坎	kan
+坎	kan	34469
 坎为水	kan wei shui	100
 坎井之蛙	kan jing zhi wa	100
 坎儿	kan er	3460
@@ -1251,6 +1324,12 @@ sort: by_weight
 坎达	kan da	111
 坎达符号	kan da fu hao	3333
 坎通纳	kan tong na	129
+垰	ka
+垲	kai
+垲	kai	45
+埳	kan
+堪	kan
+堪	kan	118698
 堪为	kan wei	4290
 堪为表率	kan wei biao shuai	100
 堪以告慰	kan yi gao wei	3
@@ -1291,11 +1370,29 @@ sort: by_weight
 堪萨斯城酋长	kan sa si cheng qiu zhang	100
 堪萨斯州	kan sa si zhou	2060
 堪达罕	kan da han	9999
+塏	kai
+墈	kan
+墈	kan	5
+奒	kai
+嫝	kang
+尻	kao
+尻	kao	399
 尻子	kao zi	85
 尻舆神马	kao yu shen ma	100
 尻轮神马	kao lun shen ma	100
 尻门子	kao men zi	100
+岂	kai
+崁	kan
+崁	kan	275
 崁顶乡	kan ding xiang	100
+嵁	kan
+嵁	kan	11
+嵌	kan
+嵦	kai
+嵪	kao
+嵻	kang
+康	kang
+康	kang	217905
 康乃馨	kang nai xin	24010
 康乃馨纽扣	kang nai xin niu kou	1
 康乐	kang le	373
@@ -1581,6 +1678,8 @@ sort: by_weight
 康馨苑	kang xin yuan	13
 康马县	kang ma xian	490
 康马河弱棘鯻	kang ma he ruo ji la	1
+开	kai
+开	kai	4346834
 开一下	kai yi xia	100
 开一下试试	kai yi xia shi shi	100
 开一个	kai yi ge	28060
@@ -3905,9 +4004,20 @@ sort: by_weight
 开齐合撮	kai qi he cuo	100
 开龙脊	kai long ji	100
 开𬌗畸形	kai he ji xing	100
+忼	kang
+忾	kai
+忾	kai	1914
+恺	kai
+恺	kai	7748
 恺切	kai qie	30
 恺悌君子	kai ti jun zi	100
 恺斯诺	kai si nuo	1
+惂	kan
+愒	kai
+愷	kai
+愾	kai
+慨	kai
+慨	kai	69723
 慨乎言之	kai hu yan zhi	5
 慨允	kai yun	105
 慨叹	kai tan	15890
@@ -3919,6 +4029,8 @@ sort: by_weight
 慨然相助	kai ran xiang zhu	100
 慨然知已秋	kai ran zhi yi qiu	5
 慨然领诺	kai ran ling nuo	3
+慷	kang
+慷	kang	16623
 慷人之慨	kang ren zhi kai	5
 慷他人之慨	kang ta ren zhi kai	100
 慷慨	kang kai	102035
@@ -3941,9 +4053,13 @@ sort: by_weight
 慷慨输将	kang kai shu jiang	100
 慷慨陈言	kang kai chen yan	100
 慷慨陈词	kang kai chen ci	3005
+戡	kan
+戡	kan	1331
 戡乱	kan luan	545
 戡乱时期	kan luan shi qi	100
 戡平	kan ping	96
+扛	kang
+扛	kang	25430
 扛一下	kang yi xia	100
 扛一扛	kang yi kang	188
 扛上	kang shang	9940
@@ -4028,6 +4144,9 @@ sort: by_weight
 扛长工	kang chang gong	65
 扛长活	kang chang huo	9999
 扛鼎	kang ding	1111
+扻	kan
+抗	kang
+抗	kang	272796
 抗上	kang shang	2
 抗上去	kang shang qu	100
 抗不了	kang bu liao	125
@@ -4492,6 +4611,8 @@ sort: by_weight
 抗魔法斗篷	kang mo fa dou peng	1
 抗魔法链甲	kang mo fa lian jia	1
 抗魔精灵短剑	kang mo jing ling duan jian	1
+拷	kao
+拷	kao	8224
 拷一下	kao yi xia	77
 拷什么	kao shen me	1
 拷克机	kao ke ji	100
@@ -4519,6 +4640,8 @@ sort: by_weight
 拷过去	kao guo qu	64
 拷过来	kao guo lai	1435
 拷问	kao wen	13220
+揩	kai
+揩	kai	5243
 揩一揩	kai yi kai	123
 揩了揩	kai le kai	893
 揩去	kai qu	760
@@ -4529,9 +4652,16 @@ sort: by_weight
 揩汗	kai han	180
 揩油	kai you	2540
 擖哧	ka chi	11
+攷	kao
+暟	kai
+栞	kan
+栲	kao
+栲	kao	164
 栲栳	kao lao	1
 栲栳镇	kao lao zhen	5
 栲胶	kao jiao	645
+楷	kai
+楷	kai	9165
 楷书	kai shu	25090
 楷书体	kai shu ti	100
 楷体	kai ti	14665
@@ -4539,6 +4669,22 @@ sort: by_weight
 楷字	kai zi	111
 楷林中心	kai lin zhong xin	150
 楷模	kai mo	37230
+槛	kan
+槛	kan	8970
+槺	kang
+檻	kan
+欬	kai
+欯	kai
+欿	kan
+歁	kan
+洘	kao
+洘	kao	1
+漮	kang
+濭	kai
+炌	kai
+炌	kai	1
+炕	kang
+炕	kang	18018
 炕一炕	kang yi kang	88
 炕上	kang shang	2260
 炕几	kang ji	2
@@ -4555,6 +4701,9 @@ sort: by_weight
 炕火烧	kang huo shao	100
 炕炕馍	kang kang mo	40
 炕面砖	kang mian zhuan	100
+烗	kai
+烤	kao
+烤	kao	51737
 烤一下	kao yi xia	223
 烤一烤	kao yi kao	123
 烤不出	kao bu chu	25
@@ -4704,12 +4853,17 @@ sort: by_weight
 烤鹿脯	kao lu pu	35
 烤麸	kao fu	1
 烤麸烧魔芋	kao fu shao mo yu	1
+犒	kao
+犒	kao	3262
 犒劳	kao lao	6005
 犒劳一下自己	kao lao yi xia zi ji	100
 犒劳下	kao lao xia	100
 犒劳自己	kao lao zi ji	100
 犒赏	kao shang	3410
 犒赏法	kao shang fa	100
+犺	kang
+看	kan
+看	kan	8030267
 看一	kan yi	111
 看一下	kan yi xia	82730
 看一下下	kan yi xia xia	100
@@ -6565,9 +6719,15 @@ sort: by_weight
 看齐	kan qi	18945
 看龙舟	kan long zhou	188
 看龙舟两两	kan long zhou liang liang	3
+瞰	kan
+瞰	kan	4717
 瞰亡往拜	kan wang wang bai	1
 瞰海轩	kan hai xuan	159
 瞰瑕伺隙	kan xia si xi	1
+矙	kan
+砊	kang
+砍	kan
+砍	kan	105218
 砍一下	kan yi xia	1111
 砍一刀	kan yi dao	100
 砍一刀啊	kan yi dao a	100
@@ -6662,6 +6822,13 @@ sort: by_weight
 砍进来	kan jin lai	100
 砍铁如泥	kan tie ru ni	1
 砍骨头	kan gu tou	100
+磡	kan
+磡	kan	29
+穅	kang
+竷	kan
+粇	kang
+糠	kang
+糠	kang	3185
 糠了	kang le	2
 糠包	kang bao	165
 糠心	kang xin	123
@@ -6679,6 +6846,8 @@ sort: by_weight
 糠酸莫米松乳膏	kang suan mo mi song ru gao	2
 糠醛	kang quan	99
 糠醛树脂	kang quan shu zhi	25
+考	kao
+考	kao	59906
 考一下	kao yi xia	3399
 考一个	kao yi ge	289
 考一考	kao yi kao	790
@@ -7305,8 +7474,36 @@ sort: by_weight
 考验着	kao yan zhe	5125
 考验考验	kao yan kao yan	100
 考高分	kao gao fen	134
+胩	ka
+胩	ka	33
+莰	kan
+莰	kan	126
+蒈	kai
+蒈	kai	1
+薧	kao
+衎	kan
+衎	kan	34
+裃	ka
+豈	kai
+躿	kang
+輆	kai
+輡	kan
+轗	kan
+邟	kang
+鈧	kang
+鉲	ka
+銬	kao
+鍇	kai
+鎎	kai
+鎧	kai
+鏮	kang
+鐦	kai
+钪	kang
+钪	kang	120
 钪元素	kang yuan su	100
 钪钛钒铬锰	kang tai fan ge meng	100
+铐	kao
+铐	kao	10235
 铐一铐	kao yi kao	106
 铐上	kao shang	755
 铐住	kao zhu	995
@@ -7315,6 +7512,8 @@ sort: by_weight
 铐牢	kao lao	25
 铐起来	kao qi lai	100
 铐钮	kao niu	15
+铠	kai
+铠	kai	25757
 铠之巨人	kai zhi ju ren	100
 铠仗	kai zhang	185
 铠甲	kai jia	25545
@@ -7326,11 +7525,27 @@ sort: by_weight
 铠衣	kai yi	30
 铠装	kai zhuang	5125
 铠装电缆	kai zhuang dian lan	455
+锎	kai
+锎	kai	28
 锎元素	kai yuan su	100
+锴	kai
+锴	kai	3179
+開	kai
+閌	kang
+闓	kai
+闞	kan
+闶	kang
+闶	kang	116
 闶阆	kang lang	999
+闿	kai
+闿	kai	729
+阚	kan
+阚	kan	5558
 阚姓	kan xing	2
 阚立文	kan li wen	100
 阚维雍	kan wei yong	12
+靠	kao
+靠	kao	486494
 靠一个	kao yi ge	333
 靠一靠	kao yi kao	690
 靠上	kao shang	8275
@@ -7566,7 +7781,104 @@ sort: by_weight
 靠靠	kao kao	2225
 靠靠靠靠	kao kao kao kao	100
 靠齐	kao qi	680
+顑	kan
+颽	kai
+髛	kao
+鬫	kan
+鮳	kao
+鯌	kao
+鱇	kang
+鲓	kao
+龕	kan
+龛	kan
+龛	kan	2662
 龛岩	kan yan	60
 龛影	kan ying	405
+𠝲	kan
+𠢲	kai
+𠪚	kan
+𠻞	kang
+𠾨	kang
+𡁁	kai
+𡐓	kang
+𡐓	kang	1
+𡙓	kai
+𡚜	kan
+𡭳	kao
+𡳂	kai
+𡵻	kang
+𡶪	kan
+𡸞	kan
+𡺗	kan
+𡻚	kang
+𢋝	kai
+𢔡	kai
+𢙮	kan
+𢢚	kai
+𢦟	kan
+𢴦	kang
+𢾆	kai
+𣊟	kan
+𣐊	kao
+𣔛	kang
+𣣒	kan
+𣧏	kao
+𣨻	kao
+𣩅	kao
+𣽌	kan
+𤉫	kai
+𤐩	kai
+𤡲	kai
+𤬪	kan
+𤮊	kang
+𤸱	kai
+𤻜	kai
+𥃣	kai
+𥉽	kang
+𥍓	kan
+𥎆	kai
+𥏪	kai
+𥑫	kan
+𥒳	kang
+𥓒	kan
+𥕎	kang
+𥤱	kan
+𥦔	kan
+𥬯	kao
+𥹬	kao
+𥹺	kang
+𥻄	kai
+𦂄	kai
+𦈲	kai
+𦞖	kan
+𧇦	kan
+𧋓	kao
+𧡵	kan
+𧯰	kan
+𧱄	kan
+𨀫	kang
+𨂟	kang
+𨃤	kao
+𨄗	kang
+𨍜	kan
+𨎍	kang
+𨒞	kan
+𨘴	kao
+𨝎	kang
+𨴆	kai
+𨻷	kang
+𩋧	kai
+𩐬	kan
+𩑟	kan
+𩒃	kan
+𩓟	kan
+𩜱	kan
+𩝝	kao
+𩩾	kao
+𩫀	kai
+𩾌	kang
+𩾌	kang	37
 𩾌鿶白鱼	kang lang bai yu	2
 𩾌鿶鱼	kang lang yu	3
+𪉯	kan
+𪎵	kang

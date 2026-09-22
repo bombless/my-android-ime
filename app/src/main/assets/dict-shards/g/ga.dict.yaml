@@ -3,11 +3,51 @@ name: merged.ga
 version: "1.0"
 sort: by_weight
 ...
+㕢	gai
+㚏	gao
+㚖	gao
+㟠	gang
+㟵	gang
+㧉	gai
+㧏	gang
+㭎	gang
+㭎	gang	1
+㮣	gai
+㱾	gai
+㶥	gan
+㺂	gan
+㽏	gan
+㽏	gan	1
+㽘	gang
+㾸	gao
+䀭	gai
+䃭	gan
+䆁	gao
+䇞	gan
+䏗	gai
+䔈	gan
+䗣	gao
+䚗	gang
+䤗	gan
+䨢	gao
+䪱	gai
+䯎	gan
+䲺	gan
+䴚	gang
+䵟	gan
+丐	gai
+丐	gai	45707
 丐帮	gai bang	41250
 丐帮帮主	gai bang bang zhu	100
 丐帮长老	gai bang zhang lao	100
 丐版	gai ban	8000
 丐盒子	gai he zi	100
+乢	gai
+乾	gan
+亁	gan
+仠	gan
+伽	ga
+伽	ga	18295
 伽马	ga ma	10738
 伽马刀	ga ma dao	485
 伽马刀治疗	ga ma dao zhi liao	19
@@ -19,6 +59,11 @@ sort: by_weight
 伽马未来	ga ma wei lai	178
 伽马校正	ga ma jiao zheng	204
 伽马辐射	ga ma fu she	100
+佄	gan
+侅	gai
+倝	gan
+冈	gang
+冈	gang	28197
 冈上肌	gang shang ji	6
 冈下肌	gang xia ji	1
 冈仁波齐	gang ren bo qi	100
@@ -66,6 +111,12 @@ sort: by_weight
 冈谷钢机	gang gu gang ji	108
 冈陵	gang ling	3
 冈陵起伏	gang ling qi fu	15
+冮	gang
+冮	gang	6
+凎	gan
+凲	gan
+刚	gang
+刚	gang	1561764
 刚一	gang yi	1185
 刚一开始	gang yi kai shi	199
 刚一转身	gang yi zhuan shen	100
@@ -592,6 +643,13 @@ sort: by_weight
 刚领证	gang ling zheng	100
 刚高考完	gang gao kao wan	122
 刚黑	gang hei	1111
+剛	gang
+勂	gao
+匃	gai
+匄	gai
+吿	gao
+告	gao
+告	gao	1054831
 告一个段落	gao yi ge duan luo	1180
 告一段落	gao yi duan luo	25575
 告上	gao shang	14175
@@ -782,6 +840,10 @@ sort: by_weight
 告退了	gao tui le	100
 告送	gao song	1
 告饶	gao rao	1220
+呷	ga
+咁	gan
+咖	ga
+咖	ga	2000
 咖喱	ga li	44292
 咖喱叶	ga li ye	100
 咖喱味	ga li wei	100
@@ -820,6 +882,8 @@ sort: by_weight
 咖喱鸡翅	ga li ji chi	12
 咖喱鸡肉	ga li ji rou	100
 咖喱鸡肉饭	ga li ji rou fan	100
+嘎	ga
+嘎	ga	33414
 嘎七马八	ga qi ma ba	100
 嘎东镇	ga dong zhen	5
 嘎了	ga le	111
@@ -861,6 +925,9 @@ sort: by_weight
 嘎达梅林	ga da mei lin	56
 嘎达苏种畜场	ga da su zhong chu chang	3
 嘎鱼	ga yu	1180
+嘠	ga
+噶	ga
+噶	ga	5511
 噶举派	ga ju pai	3775
 噶了	ga le	1111
 噶伦	ga lun	890
@@ -877,16 +944,34 @@ sort: by_weight
 噶玛兰	ga ma lan	100
 噶玛兰族	ga ma lan zu	100
 噶腰子	ga yao zi	100
+坩	gan
+坩	gan	300
 坩埚	gan guo	8655
+垓	gai
+垓	gai	723
 垓下	gai xia	2465
 垓心	gai xin	1
+堈	gang
+堽	gang
+堽	gang	2
 堽城镇	gang cheng zhen	11
+夰	gao
+夹	ga
+夹	ga	0
+夾	ga
+姟	gai
+尕	ga
+尕	ga	1817
 尕多乡	ga duo xiang	3
 尕巴松多	ga ba song duo	5
 尕朵乡	ga duo xiang	6
 尕海乡	ga hai xiang	6
 尕面片	ga mian pian	177
+尜	ga
+尜	ga	195
 尜尜	ga ga	2
+尬	ga
+尬	ga	88603
 尬了	ga le	3333
 尬吹	ga chui	9999
 尬得不行	ga de bu xing	100
@@ -894,6 +979,9 @@ sort: by_weight
 尬聊	ga liao	1111
 尬舞	ga wu	1111
 尬黑	ga hei	7
+尲	gan
+尴	gan
+尴	gan	88570
 尴不尴尬吗	gan bu gan ga ma	100
 尴不尴尬吧	gan bu gan ga ba	100
 尴不尴尬呀	gan bu gan ga ya	100
@@ -924,6 +1012,10 @@ sort: by_weight
 尴尬的笑容	gan ga de xiao rong	100
 尴尬程度	gan ga cheng du	65
 尴尴尬尬	gan gan ga ga	290
+尶	gan
+尷	gan
+岗	gang
+岗	gang	52253
 岗上	gang shang	400
 岗东乡	gang dong xiang	17
 岗亭	gang ting	6090
@@ -995,6 +1087,12 @@ sort: by_weight
 岗贝村	gang bei cun	7
 岗龄	gang ling	999
 岗龙乡	gang long xiang	3
+岡	gang
+峐	gai
+峼	gao
+崗	gang
+干	gan
+干	gan	1197831
 干一下	gan yi xia	74
 干一个月	gan yi ge yue	100
 干一些	gan yi xie	100
@@ -1999,6 +2097,11 @@ sort: by_weight
 干鸡巴啥呢	gan ji ba sha ne	100
 干鸡巴啥啊	gan ji ba sha a	100
 干鸡毛呢	gan ji mao ne	100
+幹	gan
+忋	gai
+忓	gan
+感	gan
+感	gan	2529138
 感不感兴趣	gan bu gan xing qu	100
 感不感动	gan bu gan dong	9999
 感不感动吗	gan bu gan dong ma	100
@@ -2894,10 +2997,15 @@ sort: by_weight
 感郎千金意	gan lang qian jin yi	1
 感铭心切	gan ming xin qie	1
 感音性聋	gan yin xing long	5
+戅	gang
+戆	gang
+戆	gang	1
 戆卵	gang luan	7
 戆大	gang da	2
 戆头	gang tou	2
 戆头戆脑	gang tou gang nao	10
+戇	gang
+戛	ga	1
 戛纳	ga na	16610
 戛纳国际创意节	ga na guo ji chuang yi jie	100
 戛纳国际电影节	ga na guo ji dian ying jie	1180
@@ -2911,10 +3019,17 @@ sort: by_weight
 戛纳红毯	ga na hong tan	100
 戛纳走红毯	ga na zou hong tan	100
 戛纳金棕榈	ga na jin zong lv	100
+戤	gai
+戤	gai	13
+扛	gang
+扛	gang	1
 扛鼎	gang ding	2
 扛鼎之作	gang ding zhi zuo	100
 扛鼎抃牛	gang ding bian niu	1
 扛鼎拔山	gang ding ba shan	100
+掆	gang
+搞	gao
+搞	gao	297225
 搞一下	gao yi xia	230
 搞一个	gao yi ge	1180
 搞一些	gao yi xie	1180
@@ -3251,6 +3366,10 @@ sort: by_weight
 搞鸡毛	gao ji mao	100
 搞鸡毛啊	gao ji mao a	100
 搞黄色	gao huang se	100
+摃	gang
+摡	gai
+擀	gan
+擀	gan	1549
 擀一擀	gan yi gan	246
 擀圆	gan yuan	350
 擀成	gan cheng	1080
@@ -3260,6 +3379,8 @@ sort: by_weight
 擀面	gan mian	3510
 擀面杖	gan mian zhang	2915
 擀饺子皮	gan jiao zi pi	325
+改	gai
+改	gai	495567
 改一下	gai yi xia	8175
 改一下地址	gai yi xia di zhi	100
 改一个	gai yi ge	100
@@ -3872,6 +3993,9 @@ sort: by_weight
 改革重组	gai ge chong zu	100
 改革问题	gai ge wen ti	5955
 改题了	gai ti le	100
+攼	gan
+敢	gan
+敢	gan	782369
 敢上	gan shang	4675
 敢上去	gan shang qu	350
 敢上来	gan shang lai	385
@@ -4066,12 +4190,22 @@ sort: by_weight
 敢闯敢干	gan chuang gan gan	178
 敢闯敢试	gan chuang gan shi	189
 敢骂	gan ma	2710
+旮	ga
+旮	ga	3168
 旮旮旯旯	ga ga la la	20
 旮旯	ga la	5445
 旮旯儿	ga la er	180
+旰	gan
+旰	gan	213
 旰昃之劳	gan ze zhi lao	1
 旰食之劳	gan shi zhi lao	100
 旰食宵衣	gan shi xiao yi	100
+晐	gai
+晐	gai	1
+暠	gao
+朒	ga
+杆	gan
+杆	gan	61570
 杆上	gan shang	8645
 杆件	gan jian	2990
 杆儿	gan er	1430
@@ -4091,6 +4225,9 @@ sort: by_weight
 杆菌素	gan jun su	100
 杆菌肽	gan jun tai	720
 杆菌肽锌	gan jun tai xin	9
+杚	gai
+杠	gang
+杠	gang	11743
 杠上了	gang shang le	100
 杠上开花	gang shang kai hua	100
 杠上点炮	gang shang dian pao	100
@@ -4119,7 +4256,11 @@ sort: by_weight
 杠精吧	gang jing ba	100
 杠精吧你	gang jing ba ni	100
 杠铃	gang ling	7520
+杲	gao
+杲	gao	1425
 杲杲	gao gao	350
+柑	gan
+柑	gan	1661
 柑仔园	gan zai yuan	5
 柑仔店	gan zai dian	100
 柑园	gan yuan	28
@@ -4151,6 +4292,10 @@ sort: by_weight
 柑橘黄龙病	gan ju huang long bing	100
 柑橙	gan cheng	665
 柑皮	gan pi	280
+桿	gan
+棡	gang
+概	gai
+概	gai	227790
 概不	gai bu	2556
 概不由己	gai bu you ji	2
 概不考虑	gai bu kao lv	100
@@ -4289,6 +4434,10 @@ sort: by_weight
 概述	gai shu	224190
 概述如下	gai shu ru xia	68
 概预算	gai yu suan	17780
+榦	gan
+槀	gao
+槁	gao
+槁	gao	1758
 槁形灰心	gao xing hui xin	1
 槁暴	gao pu	1
 槁木	gao mu	900
@@ -4299,6 +4448,14 @@ sort: by_weight
 槁项黄馘	gao xiang huang xu	100
 槁项黧馘	gao xiang li guo	1
 槁骨腐肉	gao gu fu rou	1
+槓	gang
+槔	gao
+槔	gao	74
+槩	gai
+槪	gai
+槹	gao
+橄	gan
+橄	gan	6085
 橄榄	gan lan	41120
 橄榄喉鹦哥	gan lan hou ying ge	1
 橄榄属	gan lan shu	100
@@ -4333,12 +4490,23 @@ sort: by_weight
 橄榄背森林知更鸟	gan lan bei sen lin zhi geng niao	1
 橄榄背鹑鸠	gan lan bei chun jiu	1
 橄榄色	gan lan se	1175
+橰	gao
+檊	gan
+檺	gao
+櫜	gao
 櫜弓卧鼓	gao gong wo gu	100
+汵	gan
+泔	gan
+泔	gan	563
 泔惠渠	gan hui qu	9
 泔水	gan shui	4850
 泔溪	gan xi	7
 泔脚	gan jiao	1
+淦	gan
+淦	gan	585
 淦阳街道	gan yang jie dao	6
+港	gang
+港	gang	132167
 港东	gang dong	113
 港东公路	gang dong gong lu	4
 港中旅	gang zhong lv	4250
@@ -4523,7 +4691,28 @@ sort: by_weight
 港龙地产	gang long di chan	100
 港龙航空	gang long hang kong	100
 港龙航空公司	gang long hang kong gong si	73
+溉	gai
+溉	gai	2289
+漑	gai
+漧	gan
+澉	gan
+澉	gan	42
 澉浦	gan pu	665
+澸	gan
+灨	gan
+焵	gang
+焹	gang
+牨	gang
+犅	gang
+犺	gang
+獋	gao
+玍	ga
+玕	gan
+玕	gan	930
+玵	gan
+瓂	gai
+甘	gan
+甘	gan	153739
 甘世佳	gan shi jia	119
 甘丙肽	gan bing tai	5
 甘东社区	gan dong she qu	4
@@ -4951,10 +5140,16 @@ sort: by_weight
 甘鲜	gan xian	4
 甘麦大枣汤	gan mai da zao tang	29
 甘麦红枣汤	gan mai hong zao tang	5
+畡	gai
+疘	gang
+疳	gan
+疳	gan	85
 疳疮	gan chuang	195
 疳病	gan bing	1
 疳积	gan ji	1845
 疳积上目	gan ji shang mu	1
+皋	gao
+皋	gao	6131
 皋亭坝	gao ting ba	16
 皋兰县	gao lan xian	1085
 皋兰路街道	gao lan lu jie dao	45
@@ -4963,6 +5158,10 @@ sort: by_weight
 皋营村	gao ying cun	1
 皋落镇	gao luo zhen	3
 皋陶	gao yao	2
+皐	gao
+皯	gan
+盖	gai
+盖	gai	229688
 盖-吕萨克	gai lv sa ke	100
 盖-吕萨克定律	gai lv sa ke ding lv	100
 盖·里奇	gai li qi	6666
@@ -5163,6 +5362,10 @@ sort: by_weight
 盖顶	gai ding	3575
 盖饭	gai fan	940
 盖髓材料	gai sui cai liao	1
+盰	gan
+睪	gao
+睾	gao
+睾	gao	2807
 睾丸	gao wan	74445
 睾丸下降不全	gao wan xia jiang bu quan	7
 睾丸切除术	gao wan qie chu shu	5
@@ -5189,12 +5392,29 @@ sort: by_weight
 睾丸鞘膜积液	gao wan qiao mo ji ye	23
 睾甾酮	gao zai tong	100
 睾酮	gao tong	8510
+矸	gan
+矸	gan	447
 矸子	gan zi	65
 矸石	gan shi	4330
+矼	gang
+矼	gang	4
+硙	gai
+碙	gang
+祮	gao
+祰	gao
+祴	gai
+禞	gao
+秆	gan
+秆	gan	1730
 秆儿	gan er	205
 秆子	gan zi	865
 秆箨	gan tuo	5
 秆蝇	gan ying	5
+稁	gao
+稈	gan
+稾	gao
+稿	gao
+稿	gao	59162
 稿件	gao jian	229375
 稿子	gao zi	30920
 稿本	gao ben	3985
@@ -5205,6 +5425,8 @@ sort: by_weight
 稿费	gao fei	33865
 稿酬	gao chou	25660
 稿酬所得	gao chou suo de	100
+竿	gan
+竿	gan	15347
 竿头	gan tou	685
 竿头一步	gan tou yi bu	1
 竿头日上	gan tou ri shang	1
@@ -5212,8 +5434,21 @@ sort: by_weight
 竿头直上	gan tou zhi shang	4
 竿子	gan zi	4600
 竿木逢场	gan mu feng chang	1
+笴	gan
+筶	gao
+筶	gao	4
+筸	gan
+筻	gang
+筻	gang	9
 筻口	gang kou	1
+篙	gao
+篙	gao	1804
 篙子	gao zi	315
+篢	gan
+簳	gan
+粓	gan
+糕	gao
+糕	gao	60411
 糕团	gao tuan	945
 糕干	gao gan	1
 糕模虫属	gao mo chong shu	1
@@ -5226,6 +5461,13 @@ sort: by_weight
 糕饼	gao bing	9506
 糕饼店	gao bing dian	100
 糕饼类	gao bing lei	100
+紺	gan
+絠	gai
+絯	gai
+綱	gang
+縞	gao
+纲	gang
+纲	gang	25530
 纲举目张	gang ju mu zhang	2220
 纲举网疏	gang ju wang shu	1
 纲常	gang chang	3165
@@ -5248,15 +5490,21 @@ sort: by_weight
 纲领	gang ling	37910
 纲领性	gang ling xing	3280
 纲领性文件	gang ling xing wen jian	9785
+绀	gan
+绀	gan	276
 绀村	gan cun	6
 绀田村	gan tian cun	100
 绀紫	gan zi	11
 绀野光	gan ye guang	6666
 绀青	gan qing	140
+缟	gao
+缟	gao	726
 缟椰子猫	gao ye zi mao	1
 缟玛瑙	gao ma nao	100
 缟素	gao su	1260
 缟纻之交	gao zhu zhi jiao	100
+缸	gang
+缸	gang	26248
 缸中	gang zhong	789
 缸中之脑	gang zhong zhi nao	100
 缸中大脑	gang zhong da nao	100
@@ -5277,9 +5525,14 @@ sort: by_weight
 缸管	gang guan	65
 缸里	gang li	10350
 缸鼓	gang gu	130
+罁	gang
+罡	gang
+罡	gang	18553
 罡斩	gang zhan	10
 罡气	gang qi	335
 罡风	gang feng	355
+羔	gao
+羔	gao	8622
 羔子	gao zi	920
 羔皮	gao pi	770
 羔羊	gao yang	29915
@@ -5291,6 +5544,9 @@ sort: by_weight
 羔羊肉串	gao yang rou chuan	3
 羔袖狐裘	gao xiu hu qiu	100
 羔裘	gao qiu	500
+羙	gao
+肛	gang
+肛	gang	2191
 肛乳头炎	gang ru tou yan	2
 肛乳头肥大	gang ru tou fei da	14
 肛交	gang jiao	1190
@@ -5335,6 +5591,8 @@ sort: by_weight
 肛门闭锁	gang men bi suo	74
 肛隐窝炎	gang yin wo yan	1
 肛鳞	gang lin	3
+肝	gan
+肝	gan	31440
 肝一肝	gan yi gan	144
 肝上	gan shang	9300
 肝不动	gan bu dong	100
@@ -5528,8 +5786,11 @@ sort: by_weight
 肝风内动	gan feng nei dong	16
 肝髓流野	gan sui liu ye	1
 肝龙胶囊	gan long jiao nang	1
+胳	ga	1
 胳肢窝	ga zhi wo	1180
 胳肢窝儿	ga zhi wo er	1180
+膏	gao
+膏	gao	20747
 膏丸	gao wan	50
 膏以明自销	gao yi ming zi xiao	100
 膏剂	gao ji	4700
@@ -5584,12 +5845,32 @@ sort: by_weight
 膏车秣马	gao che mo ma	100
 膏霜	gao shuang	2725
 膏面染须聊自欺	gao mian ran xu liao zi qi	1
+臯	gao
+芉	gan
+芥	gai
+苷	gan
+苷	gan	238
 苷元	gan yuan	4
 苷脂	gan zhi	55
 苷酸	gan suan	2075
+荄	gai
+荄	gai	2
+菒	gao
+葢	gai
+蓋	gai
+藁	gao
+藁	gao	142
 藁城县	gao cheng xian	190
 藁城市	gao cheng shi	2920
 藁本	gao ben	635
+藳	gao
+虷	gan	4
+衦	gan
+詌	gan
+該	gai
+誥	gao
+该	gai
+该	gai	1351318
 该上	gai shang	6575
 该下	gai xia	3235
 该不会	gai bu hui	16315
@@ -6117,11 +6398,22 @@ sort: by_weight
 该饿死了	gai e si le	100
 该馆	gai guan	12225
 该骂	gai ma	1365
+诰	gao
+诰	gao	1786
 诰命	gao ming	1895
 诰命夫人	gao ming fu ren	355
 诰封	gao feng	770
+豥	gai
+賅	gai
+賌	gai
+贑	gan
+贛	gan
+赅	gai
+赅	gai	969
 赅博	gai bo	1
 赅备	gai bei	60
+赣	gan
+赣	gan	5305
 赣东大道	gan dong da dao	10
 赣东学院	gan dong xue yuan	100
 赣九江	gan jiu jiang	4845
@@ -6156,6 +6448,8 @@ sort: by_weight
 赣语	gan yu	2
 赣鄱大地	gan po da di	100
 赣锋锂业	gan feng li ye	11
+赶	gan
+赶	gan	585731
 赶一下	gan yi xia	86
 赶一赶	gan yi gan	789
 赶上	gan shang	72290
@@ -6418,6 +6712,10 @@ sort: by_weight
 赶驴	gan lv	880
 赶鸭子	gan ya zi	680
 赶鸭子上架	gan ya zi shang jia	1890
+趕	gan
+軋	ga
+轧	ga
+轧	ga	100
 轧头寸	ga tou cun	100
 轧姘头	ga pin tou	100
 轧差	ga cha	1111
@@ -6425,12 +6723,30 @@ sort: by_weight
 轧空	ga kong	5555
 轧空头	ga kong tou	5555
 轧账	ga zhang	47
+迀	gan
+郂	gai
+郜	gao
+郜	gao	389
 郜姓	gao xing	1
 郜庄村	gao zhuang cun	5
 郜晓晨	gao xiao chen	100
+酐	gan
+酐	gan	60
+釓	ga
+釭	gang
+鈣	gai
+鋯	gao
+鋼	gang
+錷	ga
+鎠	gang
+鎬	gao
+钆	ga
+钆	ga	20
 钆元素	ga yuan su	100
 钆双胺	ga shuang an	5
 钆喷酸葡胺	ga pen suan pu an	5
+钙	gai
+钙	gai	3218
 钙代谢紊乱	gai dai xie wen luan	1
 钙元素	gai yuan su	100
 钙剂	gai ji	4655
@@ -6489,6 +6805,8 @@ sort: by_weight
 钙黏着蛋白	gai nian zhuo dan bai	12
 钙黏素	gai nian su	100
 钙黏蛋白	gai nian dan bai	8
+钢	gang
+钢	gang	114590
 钢丝	gang si	39860
 钢丝刷	gang si shua	1105
 钢丝剪	gang si jian	10
@@ -6781,6 +7099,8 @@ sort: by_weight
 钢鬃野猪人	gang zong ye zhu ren	1
 钢鳞皮甲胄	gang lin pi jia zhou	1
 钢鹅	gang e	13
+锆	gao
+锆	gao	674
 锆元素	gao yuan su	100
 锆包壳	gao bao ke	100
 锆合金	gao he jin	100
@@ -6788,7 +7108,17 @@ sort: by_weight
 锆石导弹	gao shi dao dan	100
 锆矿	gao kuang	5
 锆英砂	gao ying sha	885
+镐	gao
+镐	gao	5696
 镐头	gao tou	1355
+陔	gai
+陔	gai	183
+隑	gai
+韟	gao
+餻	gao
+骭	gan
+高	gao
+高	gao	2565932
 高一	gao yi	124405
 高一一班	gao yi yi ban	100
 高一七班	gao yi qi ban	191
@@ -10395,4 +10725,126 @@ sort: by_weight
 高龄	gao ling	42850
 高龄产妇	gao ling chan fu	2325
 高龄化	gao ling hua	1125
+髙	gao
+魀	ga
 魀猿	ga yuan	1
+魐	gan
+鱤	gan
+鳡	gan
+鳡	gan	3
+鳱	gan
+鷎	gao
+鷱	gao
+鼛	gao
+鿍	gang	1
+𠇵	gan
+𠌰	gai
+𠖫	gan
+𠥴	gan
+𠰛	gao
+𠵹	gang
+𠿑	gan
+𡇬	gang
+𡉅	ga
+𡋟	gao
+𡒖	gai
+𡜲	gao
+𡧣	gai
+𡯋	gan
+𡯰	ga
+𡯽	ga
+𡶑	gan
+𡷥	gao
+𡼗	gao
+𡼛	ga
+𢁗	gan
+𢅤	gai
+𢍎	gao
+𢍓	gai
+𢞟	gao
+𢧀	gan
+𢭈	gang
+𢰌	gang
+𢻉	gai
+𣁖	gan
+𣆙	gan
+𣓌	gao
+𣗲	gan
+𣗵	gang
+𣘠	gan
+𣝏	gao
+𣦐	gang
+𣦖	gan
+𣬫	ga
+𣰦	gan
+𣵷	gan
+𣵼	gan
+𣹟	gan
+𣽎	gao
+𤌹	gan
+𤭙	gan
+𤮽	gan
+𤯌	gan
+𤱟	gao
+𥓖	gao
+𥕵	gan
+𥘏	gan
+𥢐	gao
+𥢑	gao
+𥰟	gan
+𥸡	gan
+𥾍	gan
+𦋳	gang
+𦍱	gao
+𦏦	gao
+𦕺	gao
+𦤎	gao
+𦪧	gan
+𦫻	gai
+𦱌	gang
+𦺆	gao
+𦼮	gan
+𦾮	gan
+𧆐	gan
+𧊏	gai
+𧚡	gao
+𧜉	gao
+𧠼	gao
+𧢌	gao
+𧯺	gai
+𧹳	gan
+𧾲	gan
+𨝌	gan
+𨝲	gao
+𨞨	gai
+𨟼	gang
+𨣝	gan
+𨮂	gai
+𨱕	gai
+𨱣	gai
+𨳼	gan
+𨸛	gai
+𩉐	gan
+𩋺	gao
+𩏤	gao
+𩓢	gao
+𩔇	gao
+𩕍	gao
+𩕭	gai
+𩖦	gan
+𩚵	gan
+𩝝	gao
+𩢨	gan
+𩫓	gao
+𩬚	gan
+𩴁	gan
+𩴵	gan
+𩹸	gan
+𪉦	gan
+𪉿	gan
+𪊄	gan
+𪊇	gan
+𪔆	gan
+𪔘	gao
+𪚬	gan
+𬮿	gai	1

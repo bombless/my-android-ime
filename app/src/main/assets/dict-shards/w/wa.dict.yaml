@@ -3,6 +3,58 @@ name: merged.wa
 version: "1.0"
 sort: by_weight
 ...
+㑌	wang
+㒝	wa
+㓁	wang
+㔞	wang
+㖞	wai
+㝃	wan
+㝴	wan
+㧚	wa
+㨤	wai
+㰪	wa
+㲿	wang
+㳹	wang
+㴏	wang
+㸘	wan
+㼘	wa
+㼝	wan
+㽜	wan
+㽹	wan
+㿸	wan
+䂺	wan
+䅋	wan
+䈮	wan
+䋄	wang
+䋞	wang
+䍪	wa
+䎳	wa
+䏦	wan
+䑱	wan
+䒽	wang
+䖤	wan
+䖯	wa
+䗕	wan
+䘼	wan
+䚴	wa
+䛃	wang
+䛷	wan
+䝹	wan
+䠚	wa
+䠿	wai
+䤑	wang
+䥑	wan
+䩊	wan
+䯈	wan
+䯉	wa
+䯛	wan
+䰣	wang
+䳃	wan
+䵥	wan
+䵷	wa
+䶐	wai
+万	wan
+万	wan	1201402
 万一	wan yi	148685
 万一会	wan yi hui	2
 万一哪天	wan yi na tian	100
@@ -1299,6 +1351,8 @@ sort: by_weight
 万齐融	wan qi rong	100
 万龙	wan long	239
 万龙商场	wan long shang chang	20
+丸	wan
+丸	wan	40281
 丸剂	wan ji	7355
 丸子	wan zi	23750
 丸子冬菜汤	wan zi dong cai tang	1
@@ -1313,6 +1367,8 @@ sort: by_weight
 丸药	wan yao	3035
 丸药盒	wan yao he	100
 丸霸无双	wan ba wu shuang	136
+亡	wang
+亡	wang	286000
 亡不了	wang bu liao	25
 亡不待夕	wang bu dai xi	1
 亡不旋跬	wang bu xuan kui	1
@@ -1408,12 +1464,23 @@ sort: by_weight
 亡魂冤鬼	wang hun yuan gui	100
 亡魂失魄	wang hun shi po	100
 亡魂岛	wang hun dao	1
+亾	wang
+仼	wang
+佤	wa
+佤	wa	679
 佤咖啡	wa ka fei	100
 佤族	wa zu	9805
 佤族人	wa zu ren	100
 佤族鼠食	wa zu shu shi	2
 佤邦	wa bang	2330
+倇	wan
+兦	wang
+凹	wa
+凹	wa	1
+刓	wan
 刓方为圆	wan fang wei yuan	100
+剜	wan
+剜	wan	2941
 剜下	wan xia	560
 剜出来	wan chu lai	100
 剜口割舌	wan kou ge she	100
@@ -1426,9 +1493,20 @@ sort: by_weight
 剜肉成疮	wan rou cheng chuang	100
 剜肉生疮	wan rou sheng chuang	100
 剜肉补疮	wan rou bu chuang	26
+劸	wa
+卍	wan
+卍	wan	18100
 卍字	wan zi	2222
 卍字旗	wan zi qi	1
 卍解	wan jie	999
+卐	wan
+呙	wa
+呙	wai
+咓	wa
+咼	wa
+咼	wai
+哇	wa
+哇	wa	961080
 哇凉	wa liang	1
 哇凉哇凉	wa liang wa liang	1111
 哇呀	wa ya	1220
@@ -1465,6 +1543,20 @@ sort: by_weight
 哇赛乡	wa sai xiang	1
 哇酷哇酷	wa ku wa ku	100
 哇靠	wa kao	1111
+唍	wan
+唲	wa
+啘	wa
+喎	wai
+嗗	wa
+嗢	wa
+坬	wa
+坬	wa	8
+埦	wan
+塆	wan
+塆	wan	12
+壪	wan
+外	wai
+外	wai	2234449
 外三层	wai san ceng	175
 外上髁	wai shang ke	1
 外不进	wai bu jin	116
@@ -2843,6 +2935,10 @@ sort: by_weight
 外黄	wai huang	45
 外鼻	wai bi	160
 外龙	wai long	10
+夗	wan
+夘	wan
+妄	wang
+妄	wang	56997
 妄下雌黄	wang xia ci huang	100
 妄为	wang wei	4020
 妄人	wang ren	765
@@ -2892,6 +2988,10 @@ sort: by_weight
 妄说	wang shuo	1195
 妄谈	wang tan	1550
 妄谈祸福	wang tan huo fu	100
+妧	wan
+妧	wan	1
+娃	wa
+娃	wa	107391
 娃儿	wa er	10930
 娃哈哈	wa ha ha	92268
 娃娃	wa wa	152500
@@ -2913,6 +3013,10 @@ sort: by_weight
 娃娃鞋	wa wa xie	360
 娃娃鱼	wa wa yu	5105
 娃子	wa zi	8340
+娲	wa
+娲	wa	10470
+婉	wan
+婉	wan	80016
 婉仪	wan yi	4
 婉儿	wan er	11525
 婉儿别闹	wan er bie nao	100
@@ -2948,6 +3052,12 @@ sort: by_weight
 婉转的	wan zhuan de	6460
 婉辞	wan ci	999
 婉顺	wan shun	110
+婠	wa
+婠	wan
+婠	wan	4956
+媧	wa
+完	wan
+完	wan	1623350
 完不了	wan bu liao	100
 完不完美	wan bu wan mei	100
 完不完美呀	wan bu wan mei ya	100
@@ -3603,6 +3713,8 @@ sort: by_weight
 完颜阿骨打	wan yan a gu da	18
 完颜雍	wan yan yong	4
 完骨	wan gu	2
+宛	wan
+宛	wan	58603
 宛丘先生长如丘	wan qiu xian sheng chang ru qiu	1
 宛丘学舍小如舟	wan qiu xue she xiao ru zhou	1
 宛似	wan si	2240
@@ -3632,15 +3744,29 @@ sort: by_weight
 宛转蛾眉能几时	wan zhuan e mei neng ji shi	1
 宛转蛾眉马前死	wan zhuan e mei ma qian si	3
 宛陵	wan ling	8
+尢	wang	171
+尣	wang
+尩	wang
+尪	wang
+尪	wang	25
 尪痹	wang bi	2
 尪痹复康颗粒	wang bi fu kang ke li	4
 尪瘵	wang zhai	2
+尫	wang
+屲	wa
+岏	wan
+崴	wai
+崴	wai	4790
 崴了	wai le	9450
 崴了脚	wai le jiao	4550
 崴子	wai zi	515
 崴泥	wai ni	40
 崴脚	wai jiao	1130
 崴脚了	wai jiao le	100
+帓	wa
+帵	wan
+弯	wan
+弯	wan	130605
 弯一弯	wan yi wan	1180
 弯上去	wan shang qu	100
 弯上来	wan shang lai	100
@@ -3760,6 +3886,10 @@ sort: by_weight
 弯钩	wan gou	1111
 弯钩指环虫	wan gou zhi huan chong	1
 弯齿伪黄斑蜂	wan chi wei huang ban feng	1
+彎	wan
+彺	wang
+往	wang
+往	wang	1143435
 往一边一拽	wang yi bian yi zhuai	100
 往上	wang shang	73720
 往上一蹿	wang shang yi cuan	100
@@ -4113,6 +4243,11 @@ sort: by_weight
 往里面冲	wang li mian chong	100
 往里面走	wang li mian zou	100
 往高处	wang gao chu	2660
+徃	wang
+徍	wa
+徍	wang
+忘	wang
+忘	wang	433906
 忘不了	wang bu liao	47780
 忘不了了	wang bu liao le	100
 忘不了你	wang bu liao ni	2580
@@ -4369,15 +4504,26 @@ sort: by_weight
 忘适之适也	wang shi zhi shi ye	1
 忘餐废寝	wang can fei qin	100
 忘餐废食	wang can fei shi	1
+忨	wan
+忹	wang
+惋	wan
+惋	wan	13737
 惋伤	wan shang	40
 惋叹	wan tan	425
 惋惜	wan xi	34815
 惋惜地	wan xi de	100
 惋惜的	wan xi de	4500
+惌	wan
+惘	wang
+惘	wang	15566
 惘然	wang ran	5810
 惘然如失	wang ran ru shi	100
 惘然若失	wang ran ruo shi	320
 惘若有失	wang ruo you shi	100
+抂	wang
+抏	wan
+挖	wa
+挖	wa	75265
 挖上去	wa shang qu	100
 挖上来	wa shang lai	100
 挖下	wa xia	2345
@@ -4564,6 +4710,8 @@ sort: by_weight
 挖除	wa chu	1190
 挖隧道	wa sui dao	395
 挖鼻子	wa bi zi	100
+挽	wan
+挽	wan	69193
 挽上	wan shang	1111
 挽不住	wan bu zhu	230
 挽了个剑花	wan le ge jian hua	90
@@ -4614,6 +4762,13 @@ sort: by_weight
 挽诗	wan shi	595
 挽起	wan qi	9585
 挽马	wan ma	256
+捖	wan
+捥	wan
+掔	wan
+搲	wa
+攨	wa
+旺	wang
+旺	wang	51739
 旺业甸镇	wang ye dian zhen	1
 旺丹乡	wang dan xiang	2
 旺仔	wang zai	99
@@ -4690,6 +4845,8 @@ sort: by_weight
 旺销	wang xiao	8025
 旺龙	wang long	20
 旺龙岗	wang long gang	2
+晚	wan
+晚	wan	904532
 晚一些	wan yi xie	3555
 晚一会	wan yi hui	455
 晚一会儿	wan yi hui er	100
@@ -4967,6 +5124,13 @@ sort: by_weight
 晚香玉	wan xiang yu	9999
 晚高峰	wan gao feng	100
 晚高峰路上	wan gao feng lu shang	100
+晥	wan
+晩	wan
+晼	wan
+暀	wang
+朚	wang
+望	wang
+望	wang	1623939
 望一望	wang yi wang	1550
 望不到	wang bu dao	3635
 望不到头	wang bu dao tou	760
@@ -5299,6 +5463,11 @@ sort: by_weight
 望麓园街道	wang lu yuan jie dao	141
 望麓自卑	wang lu zi bei	1
 望龙园	wang long yuan	16
+朢	wang
+杤	wan
+杬	wan
+枉	wang
+枉	wang	35783
 枉为	wang wei	2060
 枉为人	wang wei ren	100
 枉为人师	wang wei ren shi	100
@@ -5348,6 +5517,13 @@ sort: by_weight
 枉道事人	wang dao shi ren	100
 枉顾	wang gu	1
 枉驾	wang jia	345
+梚	wan
+棢	wang
+椀	wan
+椀	wan	11
+槾	wan
+歪	wai
+歪	wai	78305
 歪一个	wai yi ge	100
 歪七扭八	wai qi niu ba	665
 歪七竖八	wai qi shu ba	100
@@ -5437,7 +5613,11 @@ sort: by_weight
 歪门邪道	wai men xie dao	3000
 歪风	wai feng	6530
 歪风邪气	wai feng xie qi	3535
+毌	wan
+汍	wan
 汍澜	wan lan	1
+汪	wang
+汪	wang	95118
 汪一龙	wang yi long	1
 汪丁丁	wang ding ding	7
 汪东兴	wang dong xing	236
@@ -5579,6 +5759,8 @@ sort: by_weight
 汪鸣銮	wang ming luan	3
 汪鸿志	wang hong zhi	1
 汪龙	wang long	18
+洼	wa
+洼	wa	10233
 洼下	wa xia	80
 洼冢洋介	wa zhong yang jie	1
 洼地	wa di	14160
@@ -5589,6 +5771,9 @@ sort: by_weight
 洼里南口	wa li nan kou	16
 洼里小学	wa li xiao xue	24
 洼陷	wa xian	195
+涴	wan
+湾	wan
+湾	wan	107989
 湾丘彝族乡	wan qiu yi zu xiang	1
 湾仔	wan zai	1
 湾仔区	wan zai qu	215
@@ -5623,6 +5808,15 @@ sort: by_weight
 湾里村	wan li cun	12
 湾长制	wan zhang zhi	100
 湾鳄	wan e	19
+溛	wa
+漥	wa
+潫	wan
+澫	wan
+瀇	wang
+瀤	wai
+灣	wan
+烷	wan
+烷	wan	741
 烷化剂	wan hua ji	6
 烷基	wan ji	12600
 烷基八氮	wan ji ba dan	100
@@ -5630,6 +5824,8 @@ sort: by_weight
 烷基苯	wan ji ben	2790
 烷基苯磺酸钠	wan ji ben huang suan na	100
 烷烃	wan ting	3990
+王	wang
+王	wang	1891711
 王一亭	wang yi ting	50
 王一冰	wang yi bing	100
 王一博	wang yi bo	100
@@ -7199,6 +7395,8 @@ sort: by_weight
 王齐铭	wang qi ming	1
 王龄	wang ling	8
 王龙口村	wang long kou cun	1
+玩	wan
+玩	wan	658958
 玩一下	wan yi xia	1180
 玩一个	wan yi ge	9200
 玩一个试试	wan yi ge shi shi	100
@@ -7909,7 +8107,12 @@ sort: by_weight
 玩鸡巴蛋	wan ji ba dan	100
 玩麻将	wan ma jiang	100
 玩龙灯	wan long deng	100
+琓	wan
+琬	wan
+琬	wan	6185
 琬圭	wan gui	2
+瓦	wa
+瓦	wa	108370
 瓦上霜	wa shang shuang	950
 瓦丝琪	wa si qi	154
 瓦井	wa jing	4
@@ -8163,9 +8366,17 @@ sort: by_weight
 瓦面	wa mian	1595
 瓦顿小姐红疣猴	wa dun xiao jie hong you hou	1
 瓦鸡陶犬	wa ji tao quan	1
+瓸	wa
+瓾	wa
+畖	wa
+畖	wa	1
+畹	wan
+畹	wan	1123
 畹町	wan ding	3800
 畹町市	wan ding shi	1
 畹町镇	wan ding zhen	3
+皖	wan
+皖	wan	4854
 皖东	wan dong	2345
 皖军	wan jun	220
 皖北	wan bei	673
@@ -8191,6 +8402,13 @@ sort: by_weight
 皖西新村	wan xi xin cun	153
 皖西黄大茶	wan xi huang da cha	22
 皖赣铁路	wan gan tie lu	550
+盌	wan
+盳	wang
+睕	wan
+瞣	wan
+砙	wa
+碗	wan
+碗	wan	116150
 碗㞘	wan du	2
 碗㞘底	wan du di	2
 碗中	wan zhong	16270
@@ -8229,6 +8447,22 @@ sort: by_weight
 碗面	wan mian	1111
 碗饭	wan fan	10650
 碗鸡汤	wan ji tang	100
+穵	wa
+窊	wa
+窊	wa	29
+窐	wa
+窪	wa
+竵	wai
+笂	wan
+箢	wan
+紈	wan
+絻	wan
+綄	wan
+綩	wan
+綰	wan
+網	wang
+纨	wan
+纨	wan	6138
 纨扇	wan shan	910
 纨扇之捐	wan shan zhi juan	1
 纨素	wan su	530
@@ -8239,6 +8473,8 @@ sort: by_weight
 纨绔膏粱	wan ku gao liang	2
 纨绮之年	wan qi zhi nian	100
 纨质蕙心	wan zhi hui xin	100
+绾	wan
+绾	wan	4521
 绾个结	wan ge jie	9
 绾发	wan fa	326
 绾发髻	wan fa ji	126
@@ -8253,6 +8489,8 @@ sort: by_weight
 绾青丝	wan qing si	100
 绾髻	wan ji	629
 绾黄纡紫	wan huang yu zi	1
+网	wang
+网	wang	303788
 网上	wang shang	501000
 网上下载	wang shang xia zai	100
 网上世博	wang shang shi bo	326
@@ -9541,6 +9779,10 @@ sort: by_weight
 网鼎杯	wang ding bei	100
 网龄	wang ling	7035
 网龙公司	wang long gong si	53
+罒	wang
+罓	wang
+罔	wang
+罔	wang	3613
 罔上欺君	wang shang qi jun	100
 罔上虐下	wang shang nve xia	100
 罔在世上	wang zai shi shang	100
@@ -9554,7 +9796,15 @@ sort: by_weight
 罔顾	wang gu	9999
 罔顾事实	wang gu shi shi	100
 罔顾人道	wang gu ren dao	100
+罖	wang
+翫	wan
+聉	wa
+脕	wan
+脘	wan
+脘	wan	202
 脘腹胀满	wan fu zhang man	68
+腕	wan
+腕	wan	60083
 腕上	wan shang	8320
 腕伤	wan shang	774
 腕儿	wan er	1585
@@ -9582,15 +9832,36 @@ sort: by_weight
 腕饰	wan shi	475
 腕骨	wan gu	525
 腕龙	wan long	111
+腽	wa
+腽	wa	22
 腽肭	wa na	150
 腽肭兽	wa na shou	100
 腽肭脐	wa na qi	100
+膃	wa
+芄	wan
+芄	wan	110
 芄兰	wan lan	1
+莞	wan
+莞	wan	8969
 莞尔	wan er	7375
 莞尔一笑	wan er yi xiao	4505
 莞尔而笑	wan er er xiao	100
 莞贵人	wan gui ren	100
+莣	wang
+莬	wan
+菀	wan
+菀	wan	2107
+菵	wang
+萖	wan
+萬	wan
+蔓	wan
+蔓	wan	1
 蔓儿	wan er	2
+薍	wan
+蚖	wan
+蚟	wang
+蛙	wa
+蛙	wa	16283
 蛙人	wa ren	2650
 蛙人操	wa ren cao	100
 蛙人队	wa ren dui	100
@@ -9625,12 +9896,19 @@ sort: by_weight
 蛙鸣蝉噪	wa ming chan zao	100
 蛙鸣鼓吹	wa ming gu chui	1
 蛙鼓虫吟	wa gu chong yin	100
+蛧	wang
+蜿	wan
+蜿	wan	8376
 蜿蜒	wan yan	43725
 蜿蜒前行	wan yan qian xing	100
 蜿蜒前进	wan yan qian jin	125
 蜿蜒曲折	wan yan qu zhe	6220
 蜿蜒着	wan yan zhe	705
 蜿蜒起伏	wan yan qi fu	100
+蝄	wang
+蟃	wan
+袜	wa
+袜	wa	18039
 袜业	wa ye	6760
 袜口	wa kou	505
 袜套	wa tao	1205
@@ -9644,6 +9922,10 @@ sort: by_weight
 袜类	wa lei	1335
 袜线短才	wa xian duan cai	1
 袜跟	wa gen	100
+襪	wa
+誷	wang
+豌	wan
+豌	wan	1436
 豌豆	wan dou	32745
 豌豆修尾蚜	wan dou xiu wei ya	1
 豌豆字幕组	wan dou zi mu zu	100
@@ -9673,9 +9955,33 @@ sort: by_weight
 豌豆鸡粥	wan dou ji zhou	1
 豌豆黄	wan dou huang	2446
 豌豆黄儿	wan dou huang er	360
+貦	wan
+贃	wan
+贎	wan
+踠	wan
+輐	wan
+輓	wan
+輞	wang
+辋	wang
+辋	wang	73
 辋川村	wang chuan cun	1
 辋川镇	wang chuan zhen	28
 辋川闲居赠裴秀才迪	wang chuan xian ju zeng pei xiu cai di	1
+迋	wang
+迬	wang
+邷	wa
+鋄	wan
+鋔	wan
+鋺	wan
+錽	wan
+鎫	wan
+韈	wa
+韎	wa
+韤	wa
+頑	wan
+顡	wai
+顽	wan
+顽	wan	45970
 顽健	wan jian	1
 顽军	wan jun	745
 顽冥不化	wan ming bu hua	21
@@ -9736,7 +10042,154 @@ sort: by_weight
 顽童历险记	wan tong li xian ji	100
 顽童大人	wan tong da ren	100
 顽钝	wan dun	320
+魍	wang
+魍	wang	1420
 魍魅	wang mei	1
 魍魉	wang liang	2975
 魍魉鬼怪	wang liang gui guai	100
 魍魉魑魅	wang liang chi mei	100
+鮭	wa
+鼃	wa
+𠒢	wan
+𠕿	wang
+𠝪	wan
+𠠪	wan
+𠣉	wan
+𠨃	wai
+𠰻	wai
+𠲎	wa
+𠴺	wa
+𠹁	wa
+𡁌	wa
+𡆅	wan
+𡇿	wan
+𡔞	wang
+𡚟	wa
+𡝝	wang
+𡤶	wan
+𡧗	wa
+𡩄	wan
+𡯁	wang
+𡷢	wang
+𡸥	wan
+𢀗	wan
+𢁶	wang
+𢈈	wa
+𢓃	wan
+𢓆	wan
+𢓯	wang
+𢛙	wan
+𢛛	wang
+𢨔	wan
+𢯫	wan
+𢯲	wan
+𢱉	wai
+𢺯	wan
+𢼟	wang
+𣆛	wan
+𣐎	wa
+𣡩	wan
+𣢉	wa
+𣢚	wa
+𣢫	wang
+𣥃	wan
+𣥊	wang
+𣶈	wang
+𣷪	wang
+𤗍	wan
+𤞇	wa
+𤟷	wai
+𤤫	wai
+𤥙	wan
+𤧩	wan
+𤬦	wa
+𤬿	wa
+𤮰	wa
+𤷀	wang
+𤷹	wai
+𤻆	wan
+𤿗	wa
+𥆚	wang
+𥆜	wang
+𥆶	wan
+𥝄	wan
+𥝍	wang
+𥟶	wan
+𥤸	wan
+𥤺	wa
+𥥟	wa
+𥲠	wang
+𥾼	wang
+𥿉	wa
+𥿎	wan
+𦂔	wan
+𦓋	wang
+𦖉	wang
+𦘍	wa
+𦘍	wai
+𦘵	wa
+𦙵	wan
+𦚩	wa
+𦜐	wan
+𦞭	wa
+𦣦	wang
+𦣩	wang
+𦣾	wan
+𦤙	wa
+𦫪	wa
+𦬣	wang
+𦯌	wang
+𦲯	wan
+𦽞	wan
+𧈿	wang
+𧎕	wang
+𧚇	wan
+𧠆	wan
+𧧄	wang
+𧧊	wa
+𧧜	wang
+𧫢	wang
+𧯡	wan
+𧲦	wan
+𧿙	wan
+𨀄	wa
+𨈊	wan
+𨈕	wai
+𨉝	wan
+𨌔	wan
+𨕿	wang
+𨞼	wan
+𨥧	wan
+𨩯	wan
+𨩵	wan
+𨩶	wa
+𨩻	wan
+𨳠	wang
+𨵞	wai
+𩅦	wan
+𩈬	wan
+𩊁	wan
+𩋘	wa
+𩎟	wa
+𩔀	wai
+𩕕	wai
+𩖩	wang
+𩢄	wan
+𩣵	wan
+𩨚	wa
+𩨾	wa
+𩩤	wa
+𩰬	wai
+𩵭	wang
+𩾞	wan
+𩿺	wa
+𪁘	wang
+𪂦	wan
+𪂧	wan
+𪉭	wai
+𪋅	wan
+𪎛	wan
+𪐬	wan
+𪑉	wan
+𪑷	wai
+𬇕	wan	3

@@ -3,6 +3,112 @@ name: merged.gu
 version: "1.0"
 sort: by_weight
 ...
+㒴	gu
+㒷	gua
+㔳	gui
+㔳	gun
+㕵	guo
+㖪	guo
+㗻	guo
+㙥	gun
+㙺	gui
+㚉	gu
+㚍	guo
+㞅	guo
+㤮	guang
+㧔	guai
+㧪	gui
+㧽	gu
+㨰	gun
+㨳	gui
+㩻	gui
+㪈	gui
+㫎	gun
+㫛	guang
+㮡	guan
+㯏	gu
+㯻	gun
+㱦	gui
+㲹	gui
+㳀	guo
+㴦	guan
+㶁	guo
+㷇	guai
+㸵	gui
+㼋	gu
+㽇	guai
+㽽	gu
+㾶	gu
+䀇	gu
+䀜	gu
+䀦	gu
+䀰	gu
+䁛	gui
+䂯	guai
+䂯	guan
+䂸	guo
+䃂	gun
+䃽	gui
+䅽	gu
+䆐	guo
+䇈	gui
+䈑	gua
+䊺	gu
+䊽	guai
+䌆	gui
+䌯	guan
+䍍	gu
+䍍	guang
+䍛	gu
+䍯	gui
+䍷	gui
+䎚	guan
+䎾	gun
+䏓	guan
+䐨	gu
+䐴	gui
+䐸	guo
+䒷	gua
+䓛	gu
+䓢	gu
+䗆	guan
+䗰	guan
+䘾	guan
+䙆	gui
+䙛	guan
+䙛	gun
+䙨	guo
+䙮	guan
+䜇	gun
+䜼	gu
+䝺	guan
+䝿	gui
+䞈	gui
+䞨	gui
+䠩	gui
+䡩	gu
+䣀	gui
+䤋	guo
+䤥	gui
+䦎	guan
+䩪	guan
+䪀	guan
+䬎	guo
+䮩	gu
+䯏	gua
+䯣	gui
+䰎	gui
+䲅	gui
+䲘	guan
+䳏	gui
+䴹	guo
+䵪	gun
+䵻	gu
+䶜	gu
+丨	gun
+丱	guan
+乖	guai
+乖	guai	139563
 乖不乖	guai bu guai	785
 乖乖	guai guai	74515
 乖乖仔	guai guai zai	100
@@ -66,6 +172,9 @@ sort: by_weight
 乖谬	guai miu	465
 乖蹇	guai jian	75
 乖违	guai wei	495
+亀	gui
+估	gu
+估	gu	154328
 估一下	gu yi xia	63
 估一个	gu yi ge	76
 估不出来	gu bu chu lai	100
@@ -153,8 +262,18 @@ sort: by_weight
 估量	gu liang	9210
 估错	gu cuo	165
 估错了	gu cuo le	165
+佹	gui
 佹得佹失	gui de gui shi	100
+俇	guang
+倌	guan
+倌	guan	4168
 倌人	guan ren	2
+傀	gui
+傦	gu
+僙	guang
+僱	gu
+光	guang
+光	guang	2185701
 光一个	guang yi ge	229
 光与夜	guang yu ye	106
 光与夜之恋	guang yu ye zhi lian	167
@@ -1162,6 +1281,8 @@ sort: by_weight
 光鲜的一面	guang xian de yi mian	100
 光黄素	guang huang su	25
 光龙盾	guang long dun	1
+关	guan
+关	guan	1675433
 关一关	guan yi guan	123
 关一帆	guan yi fan	100
 关一次	guan yi ci	1015
@@ -2238,6 +2359,9 @@ sort: by_weight
 关颖珊	guan ying shan	100
 关饷	guan xiang	999
 关麦	guan mai	123
+冎	gua
+冠	guan
+冠	guan	79415
 冠上	guan shang	22
 冠上加冠	guan shang jia guan	8
 冠上履下	guan shang lv xia	1
@@ -2419,6 +2543,10 @@ sort: by_weight
 冠饰	guan shi	11
 冠鱼狗	guan yu gou	1
 冠鹤	guan he	464
+凅	gu
+划	guo
+刮	gua
+刮	gua	52316
 刮一刮	gua yi gua	123
 刮一次	gua yi ci	750
 刮下	gua xia	2290
@@ -2558,14 +2686,33 @@ sort: by_weight
 刮鱼鳞	gua yu lin	173
 刮鼻子	gua bi zi	235
 刮龙卷风	gua long juan feng	100
+刽	gui
+刽	gui	3494
 刽子手	gui zi shou	11940
+刿	gui
+刿	gui	381
 刿心刳肺	gui xin ku fei	1
 刿心刳腹	gui xin ku fu	1
 刿心怵目	gui xin chu mu	100
 刿目怵心	gui mu chu xin	100
+剐	gua
+剐	gua	5067
 剐蹭	gua ceng	9999
+剮	gua
+劀	gua
+劊	gui
+劌	gui
+匦	gui
+匦	gui	123
 匦函	gui han	2
 匦函朝出开明光	gui han zhao chu kai ming guang	1
+匭	gui
+匮	gui
+匮	gui	1
+匱	gui
+卝	guan
+卦	gua
+卦	gua	30403
 卦书	gua shu	200
 卦名	gua ming	137
 卦意	gua yi	140
@@ -2573,6 +2720,10 @@ sort: by_weight
 卦象	gua xiang	8485
 卦辞	gua ci	2625
 卦限	gua xian	155
+厬	gui
+叏	guai
+古	gu
+古	gu	621960
 古一法师	gu yi fa shi	117
 古丁村庄	gu ding cun zhuang	1
 古丈	gu zhang	1420
@@ -3559,7 +3710,15 @@ sort: by_weight
 古龙水	gu long shui	100
 古龙群侠传	gu long qun xia zhuan	100
 古龙那伽	gu long na jia	100
+叧	gua
 告朔饩羊	gu shuo xi yang	100
+呙	gua
+呙	guo
+呙	guo	142
+呱	gu
+呱	gu	1
+呱	gua
+呱	gua	12127
 呱呱	gu gu	9
 呱呱	gua gua	9999
 呱呱叫	gua gua jiao	2230
@@ -3581,6 +3740,8 @@ sort: by_weight
 呱嗒子	gua da zi	2
 呱嗒板儿	gua da ban er	100
 呱头蛙	gua tou wa	100
+咕	gu
+咕	gu	80611
 咕叽	gu ji	7350
 咕叽咕叽	gu ji gu ji	9999
 咕叽咕叽地响	gu ji gu ji de xiang	100
@@ -3622,12 +3783,31 @@ sort: by_weight
 咕容	gu rong	1
 咕溜溜	gu liu liu	100
 咕隆	gu long	740
+咣	guang
+咣	guang	9351
 咣咣	guang guang	2360
 咣咣当当	guang guang dang dang	90
 咣当	guang dang	9999
 咣当一声	guang dang yi sheng	100
 咣当咣当地响	guang dang guang dang de xiang	100
 咣当地响	guang dang de xiang	100
+咼	gua
+咼	guo
+唂	gu
+唃	gu
+啒	gu
+啩	gua
+啯	guo
+喐	guo
+嗗	gu
+嘏	gu
+嘏	gu	208
+嘓	guo
+囗	guo
+囯	guo
+囶	guo
+固	gu
+固	gu	157594
 固一世之雄也	gu yi shi zhi xiong ye	5
 固不可少	gu bu ke shao	156
 固不可彻	gu bu ke che	100
@@ -3910,6 +4090,9 @@ sort: by_weight
 固顶字	gu ding zi	65
 固顶话题	gu ding hua ti	10721
 固额	gu e	1
+囻	guo
+国	guo
+国	guo	3063867
 国一上	guo yi shang	100
 国一下	guo yi xia	100
 国一制	guo yi zhi	100
@@ -6670,6 +6853,10 @@ sort: by_weight
 国骂	guo ma	1830
 国魂	guo hun	1990
 国鸟	guo niao	2335
+圀	guo
+國	guo
+圭	gui
+圭	gui	8052
 圭亚那	gui ya na	3990
 圭亚那冠伞鸟	gui ya na guan san niao	1
 圭亚那副康吉鳗	gui ya na fu kang ji man	1
@@ -6691,11 +6878,28 @@ sort: by_weight
 圭表	gui biao	455
 圭角	gui jiao	355
 圭角岸然	gui jiao an ran	1
+坬	gua
+垙	guang
+垙	guang	1
+垝	gui
+埚	guo
+埚	guo	372
+堌	gu
+堌	gu	14
 堌阳镇	gu yang zhen	21
+堝	guo
+墎	guo
+夃	gu
+夬	guai
+夬	guai	59
 夬卦	guai gua	3
+妫	gui
+妫	gui	2566
 妫川广场	gui chuan guang chang	20
 妫水	gui shui	4
 妫水河	gui shui he	2300
+姑	gu
+姑	gu	374941
 姑丈	gu zhang	1655
 姑且	gu qie	23620
 姑且一试	gu qie yi shi	545
@@ -6772,7 +6976,16 @@ sort: by_weight
 姑表	gu biao	835
 姑表亲	gu biao qin	100
 姑表兄弟	gu biao xiong di	120
+姯	guang
+姽	gui
+姽	gui	284
 姽婳	gui hua	2
+媯	gui
+嫢	gui
+嫴	gu
+嬀	gui
+孤	gu
+孤	gu	241832
 孤云	gu yun	4015
 孤云独去闲	gu yun du qu xian	1180
 孤云野鹤	gu yun ye he	1270
@@ -7074,6 +7287,10 @@ sort: by_weight
 孤鸿影	gu hong ying	74
 孤鹜	gu wu	111
 孤鹰	gu ying	2125
+宄	gui
+宄	gui	195
+官	guan
+官	guan	760400
 官三民四	guan san min si	100
 官不修衙	guan bu xiu ya	100
 官不易方	guan bu yi fang	1
@@ -7407,6 +7624,8 @@ sort: by_weight
 官黎坪	guan li ping	152
 官黎坪街道	guan li ping jie dao	19
 官龙村	guan long cun	20
+寡	gua
+寡	gua	49558
 寡不敌众	gua bu di zhong	4800
 寡不胜众	gua bu sheng zhong	100
 寡二少双	gua er shao shuang	100
@@ -7482,8 +7701,25 @@ sort: by_weight
 寡鳞飞鱼	gua lin fei yu	1
 寡鳞𫚪	gua lin yu	1
 寡鹄孤鸾	gua hu gu luan	10
+尳	gu
+崓	gu
+崞	guo
+崞	guo	119
 崞阳麻叶	guo yang ma ye	3
+崮	gu
+崮	gu	471
 崮山路	gu shan lu	31
+嶡	gui
+嶲	gui
+巂	gui
+巬	gu
+巭	gu
+帰	gui
+帼	guo
+帼	guo	2484
+幗	guo
+广	guang
+广	guang	374959
 广一中	guang yi zhong	100
 广东	guang dong	500656
 广东一模	guang dong yi mo	100
@@ -8851,8 +9087,19 @@ sort: by_weight
 广饶区	guang rao qu	5
 广饶县	guang rao xian	3240
 广饼	guang bing	11
+広	guang
+庋	gui
+庋	gui	221
 庋之高阁	gui zhi gao ge	100
 庋置高阁	gui zhi gao ge	111
+庪	gui
+廆	gui
+廆	gui	0
+廣	guang
+彉	guo
+彍	guo
+归	gui
+归	gui	270263
 归一	gui yi	9595
 归一化	gui yi hua	9568
 归中	gui zhong	5905
@@ -9144,6 +9391,9 @@ sort: by_weight
 归马放牛	gui ma fang niu	100
 归鸿声断残云碧	gui hong sheng duan can yun bi	1
 归齐	gui qi	1
+怘	gu
+怪	guai
+怪	guai	1036985
 怪不	guai bu	8005
 怪不了	guai bu liao	710
 怪不好意思	guai bu hao yi si	100
@@ -9327,6 +9577,14 @@ sort: by_weight
 怪颚龙	guai e long	100
 怪鱼	guai yu	124
 怪鸟	guai niao	649
+恑	gui
+恠	guai
+悹	guan
+悺	guan
+惃	gun
+惈	guo
+惯	guan
+惯	guan	216834
 惯了	guan le	2847
 惯于	guan yu	7435
 惯于怀疑	guan yu huai yi	15
@@ -9375,6 +9633,14 @@ sort: by_weight
 惯纵	guan zong	999
 惯贼	guan zei	65
 惯量	guan liang	1220
+愲	gu
+慖	guo
+慣	guan
+懖	guo
+扢	gu
+抇	gu
+拐	guai
+拐	guai	69575
 拐上	guai shang	1910
 拐上去	guai shang qu	100
 拐上来	guai shang lai	100
@@ -9439,6 +9705,9 @@ sort: by_weight
 拐进去	guai jin qu	100
 拐进来	guai jin lai	100
 拐骗	guai pian	5055
+括	gua
+挂	gua
+挂	gua	273923
 挂一下	gua yi xia	72
 挂一挂	gua yi gua	315
 挂一挡	gua yi dang	100
@@ -9767,18 +10036,35 @@ sort: by_weight
 挂饰	gua shi	8050
 挂马	gua ma	2410
 挂齿	gua chi	500
+挄	guang
+掛	gua
+掴	guai	1944
+掴	guo
+掴	guo	1944
 掴一巴掌	guai yi ba zhang	123
 掴一巴掌	guo yi ba zhang	123
 掴了	guai le	100
 掴了	guo le	1000
 掴打	guai da	210
 掴打	guo da	210
+掼	guan
+掼	guan	1475
 掼牌	guan pai	14
 掼牌比赛	guan pai bi sai	100
 掼甲执锐	guan jia zhi rui	1
 掼甲操戈	guan jia cao ge	1
 掼纱帽	guan sha mao	15
 掼蛋	guan dan	169
+摑	guai
+摑	guo
+摜	guan
+摫	gui
+撌	gui
+撗	guang
+攰	gui
+攱	gui
+故	gu
+故	gu	560446
 故万物一也	gu wan wu yi ye	1
 故上兵伐谋	gu shang bing fa mou	100
 故不可得而亲	gu bu ke de er qin	2
@@ -10159,6 +10445,15 @@ sort: by_weight
 故障隔离	gu zhang ge li	163
 故非有志者不能至也	gu fei you zhi zhe bu neng zhi ye	3
 故饭牛而牛肥	gu fan niu er niu fei	1
+敋	guo
+斡	guan
+昋	gui
+晷	gui
+晷	gui	917
+朹	gui
+杚	gu
+果	guo
+果	guo	2105431
 果不其然	guo bu qi ran	8260
 果不出	guo bu chu	1490
 果不然	guo bu ran	9999
@@ -10443,6 +10738,9 @@ sort: by_weight
 果馅饼	guo xian bing	100
 果香	guo xiang	11310
 果黑	guo hei	1111
+枴	guai
+柜	gui
+柜	gui	91808
 柜上	gui shang	7365
 柜中	gui zhong	6150
 柜中美人	gui zhong mei ren	100
@@ -10475,7 +10773,13 @@ sort: by_weight
 柜门	gui men	10655
 柜面	gui mian	6015
 柜面儿	gui mian er	100
+柧	gu
+柺	guai
+栝	gua
+栝	gua	99
 栝楼	gua lou	965
+桂	gui
+桂	gui	57604
 桂七芒	gui qi mang	100
 桂东	gui dong	5
 桂东县	gui dong xian	8
@@ -10725,15 +11029,24 @@ sort: by_weight
 桂魄初生秋露微	gui po chu sheng qiu lu wei	3
 桂龙咳喘宁	gui long ke chuan ning	4
 桂龙咳喘宁片	gui long ke chuan ning pian	2
+桄	guang
+桄	guang	85
 桄子	guang zi	1
 桄榔	guang lang	540
 桄榔属	guang lang shu	100
 桄榔树	guang lang shu	100
+桧	gui
+桧	gui	3676
 桧仓	gui cang	1180
 桧仓郡	gui cang jun	1985
 桧木	gui mu	1355
 桧柏	gui bai	1845
 桧风	gui feng	64
+桰	gua
+梏	gu
+梏	gu	1443
+棍	gun
+棍	gun	70829
 棍儿	gun er	1570
 棍儿茶	gun er cha	100
 棍子	gun zi	22990
@@ -10747,6 +11060,9 @@ sort: by_weight
 棍法	gun fa	2935
 棍球	gun qiu	185
 棍舞	gun wu	220
+棝	gu
+棺	guan
+棺	guan	31464
 棺姬嘉依卡	guan ji jia yi ka	100
 棺山古墓	guan shan gu mu	100
 棺木	guan mu	13245
@@ -10762,15 +11078,50 @@ sort: by_weight
 棺柩	guan jiu	845
 棺椁	guan guo	6635
 棺盖	guan gai	323
+椁	guo
+椁	guo	1368
+椝	gui
+椢	gui
+楇	guo
+榖	gu
+榖	gu	50
 榖树	gu shu	369
 榖树皮	gu shu pi	100
+榾	gu
 榾柮	gu duo	1
+槣	gui
+槨	guo
+槶	gui
+槻	gui
+槼	gui
+樌	guan
+樻	gui
+橭	gu
+檜	gui
+櫃	gui
+櫎	gu
+櫎	guo
+櫰	gui
+櫷	gui
+欟	guan
+歄	gua
+歸	gui
+毂	gu
+毂	gu	516
 毂击肩摩	gu ji jian mo	100
+毌	guan
+毌	guan	46
+氿	gui
+氿	gui	1
+汩	gu
+汩	gu	9441
 汩余若将不及兮	gu yu ruo jiang bu ji xi	1
 汩汩	gu gu	1138
 汩汩流淌	gu gu liu tang	100
 汩汩滔滔	gu gu tao tao	12
 汩没	gu mo	2
+沽	gu
+沽	gu	4913
 沽一壶猜三度四	gu yi hu cai san duo si	1180
 沽上江南	gu shang jiang nan	195
 沽出	gu chu	128
@@ -10794,16 +11145,32 @@ sort: by_weight
 沽酒与何人	gu jiu yu he ren	1
 沽酒市脯不食	gu jiu shi fu bu shi	5
 沽酒当垆	gu jiu dang lu	1
+泒	gu
+泴	guan
+洸	guang
+洸	guang	25
 洸河新苑	guang he xin yuan	117
 洸洋自恣	guang yang zi zi	1
 洸洸	guang guang	60
+涡	guo
+涡	guo	1
 涡河	guo he	2
 涡阳	guo yang	2
 涡阳县	guo yang xian	2995
 涡阳路	guo yang lu	27
+涫	guan
+涫	guan	811
+淈	gu
 淈其泥扬其波	gu qi ni yang qi bo	1
 淈其泥而扬其波	gu qi ni er yang qi bo	1
 淈泥扬波	gu ni yang bo	100
+淉	guan
+淉	guo
+渦	guo
+湀	gui
+溎	gui
+滚	gun
+滚	gun	203922
 滚一圈	gun yi quan	100
 滚一滚	gun yi gun	100
 滚一边	gun yi bian	100
@@ -11000,6 +11367,16 @@ sort: by_weight
 滚鸡蛋	gun ji dan	121
 滚齿	gun chi	1050
 滚齿机	gun chi ji	2795
+滾	gun
+漍	guo
+潅	guan
+潢	guang
+濄	guo
+濲	gu
+瀔	gu
+瀔	gu	1
+灌	guan
+灌	guan	66346
 灌一灌	guan yi guan	780
 灌上	guan shang	1560
 灌下	guan xia	4155
@@ -11127,11 +11504,39 @@ sort: by_weight
 灌顶	guan ding	13045
 灌顶醍醐	guan ding ti hu	100
 灌饼	guan bing	8888
+灮	guang
+炅	gui
+炅	gui	1
+炔	gui
+炗	guang
+炚	guang
+炛	guang
+烡	guang
+煱	gua
+爟	guan
+爟	guan	3
+牯	gu
+牯	gu	1571
 牯岭等彩蝇	gu ling deng cai ying	1
 牯牛	gu niu	2140
 牯牛降	gu niu jiang	3035
 牯藏节	gu zang jie	100
+牿	gu
+牿	gu	29
+犷	guang
+犷	guang	4249
 犷悍	guang han	215
+猓	guo
+猤	gui
+獷	guang
+珖	guang
+珖	guang	8
+珪	gui
+珪	gui	2546
+琯	guan
+琯	guan	51
+瑰	gui
+瑰	gui	58092
 瑰丽	gui li	26445
 瑰丽七夕鱼	gui li qi xi yu	1
 瑰奇	gui qi	730
@@ -11141,6 +11546,13 @@ sort: by_weight
 瑰意奇行	gui yi qi xing	1
 瑰意琦行	gui yi qi xing	55
 瑰玮	gui wei	240
+璝	gui
+璭	guan
+瓌	gui
+瓘	guan
+瓘	guan	415
+瓜	gua
+瓜	gua	106525
 瓜乡桥	gua xiang qiao	8
 瓜亚基尔	gua ya ji er	335
 瓜什则乡	gua shi ze xiang	2
@@ -11279,12 +11691,21 @@ sort: by_weight
 瓜霜退热灵胶囊	gua shuang tui re ling jiao nang	5
 瓜香	gua xiang	1180
 瓜香蒲溪正小暑	gua xiang pu xi zheng xiao shu	1180
+痯	guan
+痼	gu
+痼	gu	690
 痼习	gu xi	55
 痼弊	gu bi	1
 痼疾	gu ji	8065
 痼疾烟霞	gu ji yan xia	1
 痼病	gu bing	25
 痼癖	gu pi	1
+瘑	guo
+瘝	guan
+癏	guan
+癐	gui
+癸	gui
+癸	gui	3405
 癸丑	gui chou	10300
 癸亥	gui hai	11335
 癸卯	gui mao	104
@@ -11301,11 +11722,17 @@ sort: by_weight
 癸酸甘油酯	gui suan gan you zhi	10
 癸醇	gui chun	235
 癸醛	gui quan	45
+皈	gui
+皈	gui	2501
 皈依	gui yi	42205
 皈依三宝	gui yi san bao	3725
 皈依佛法	gui yi fo fa	295
 皈依佛门	gui yi fo men	174
 皈依者	gui yi zhe	100
+皷	gu
+皼	gu
+盥	guan
+盥	guan	1987
 盥洗	guan xi	3
 盥洗台	guan xi tai	355
 盥洗室	guan xi shi	4340
@@ -11313,11 +11740,27 @@ sort: by_weight
 盥洗盆	guan xi pen	380
 盥洗间	guan xi jian	845
 盥漱	guan shu	2
+盬	gu
+眭	gui
+睔	gun
+瞆	gui
+瞡	gui
+瞶	gui
+瞽	gu
+瞽	gu	401
 瞽旷之耳	gu kuang zhi er	8
 瞽瞍	gu sou	2
 瞽瞍不移	gu sou bu yi	123
 瞽言刍议	gu yan chu yi	100
 瞽言妄举	gu yan wang ju	1
+矌	guo
+矔	guan
+矜	guan
+矜	guan	0
+矝	guan
+硄	guang
+硅	gui
+硅	gui	2811
 硅产能	gui chan neng	87
 硅元素	gui yuan su	100
 硅凝胶	gui ning jiao	39
@@ -11390,10 +11833,33 @@ sort: by_weight
 硅铝酸钠	gui lv suan na	21
 硅锰合金	gui meng he jin	795
 硅镁	gui mei	2285
+硊	gui
+硍	gun
+磆	gu
+磙	gun
+磙	gun	223
 磙压	gun ya	4
 磙地	gun di	4
 磙子	gun zi	180
+礶	guan
+祪	gui
+祻	gu
+祼	guan
+祼	guan	294
+禬	gui
+稒	gu
+穀	gu
+窐	gui
+窤	guan
+笟	gu
+筀	gui
+筀	gui	1
 筀竹	gui zhu	2
+筦	guan
+筦	guan	18
+箉	guai
+箍	gu
+箍	gu	8001
 箍儿	gu er	895
 箍口药	gu kou yao	1
 箍子	gu zi	85
@@ -11405,6 +11871,9 @@ sort: by_weight
 箍紧	gu jin	785
 箍节儿	gu jie er	10
 箍起来	gu qi lai	1180
+箛	gu
+管	guan
+管	guan	979206
 管一管	guan yi guan	2625
 管上	guan shang	11
 管不上	guan bu shang	87
@@ -12005,13 +12474,35 @@ sort: by_weight
 管鲍分金	guan bao fen jin	100
 管鼻蝠	guan bi fu	100
 管齿目	guan chi mu	100
+篐	gu
+簂	gui
+簂	guo
+簋	gui
+簋	gui	271
 簋街	gui jie	2
+粿	guo
+粿	guo	40
 粿条	guo tiao	32
 粿汁	guo zhi	183
+糓	gu
+絓	gua
+綶	guo
+綸	guan
+緄	gun
+緷	gun
+緺	gua
+縎	gu
+纶	guan
+纶	guan	1
 纶巾	guan jin	1110
 纶巾羽扇	guan jin yu shan	100
+绲	gun
+绲	gun	128
 绲边	gun bian	3985
 绲边儿	gun bian er	41
+罆	guan
+罐	guan
+罐	guan	32951
 罐中	guan zhong	4415
 罐体	guan ti	8795
 罐儿肉	guan er rou	22
@@ -12056,11 +12547,25 @@ sort: by_weight
 罐装可乐	guan zhuang ke le	100
 罐装食品	guan zhuang shi pin	770
 罐车	guan che	7520
+罛	gu
+罟	gu
+罟	gu	102
+罣	gua
+罫	gua
+罫	guai
+羖	gu
+羖	gu	252
+聒	gua
+聒	guo
+聒	guo	2542
 聒噪	guo zao	4415
 聒噪鸟	guo zao niao	100
 聒碎乡心梦不成	guo sui xiang xin meng bu cheng	3
 聒耳	guo er	285
 聒聒叫	guo guo jiao	100
+聝	guo
+股	gu
+股	gu	461541
 股三角	gu san jiao	1
 股东	gu dong	500331
 股东代位诉讼	gu dong dai wei su song	100
@@ -12351,19 +12856,39 @@ sort: by_weight
 股骨颈骨折	gu gu jing gu zhe	358
 股骨骨折	gu gu gu zhe	450
 股骨髁上骨折	gu gu ke shang gu zhe	1
+胍	gua
+胍	gua	70
+胱	guang
+胱	guang	1405
 胱抑素	guang yi su	354
 胱氨酸	guang an suan	3010
 胱氨酸尿症	guang an suan niao zheng	1
 胱氨酸片	guang an suan pian	1
 胱氨酸贮积症	guang an suan zhu ji zheng	3
 胱硫醚	guang liu mi	65
+胿	gui
+脵	gu
+腂	guo
+腘	guo
+腘	guo	50
 腘动脉	guo dong mai	15
 腘旁腱肌	guo pang jian ji	100
 腘窝	guo wo	84
 腘窝囊肿	guo wo nang zhong	100
 腘绳肌	guo sheng ji	100
 腘静脉	guo jing mai	8
+膕	guo
+臌	gu
+臌	gu	2082
 臌胀	gu zhang	1
+臦	guang
+臩	guang
+舘	guan
+苽	gu
+茥	gui
+茪	guang
+莞	guan
+莞	guan	1
 莞佛高速	guan fo gao su	100
 莞城	guan cheng	10
 莞城区	guan cheng qu	1
@@ -12374,21 +12899,42 @@ sort: by_weight
 莞惠城际	guan hui cheng ji	100
 莞深高速	guan shen gao su	100
 莞番高速	guan fan gao su	100
+菇	gu
+菇	gu	11316
 菇凉	gu liang	2
 菇滋菇滋	gu zi gu zi	100
 菇类	gu lei	878
+菓	guo
 菓珍	guo zhen	2
+菰	gu
+菰	gu	325
 菰城村	gu cheng cun	3
 菰白媚秋菜	gu bai mei qiu cai	1
 菰米新炊滑上匙	gu mi xin chui hua shang shi	1
 菰蒲冒清浅	gu pu mao qing qian	1
+蒄	guan
+蒄	guan	8
+蓇	gu
+蓇	gu	8
 蓇葖	gu tu	1
 蓇葖果	gu tu guo	9999
 蓇袋卷叶蛛	gu dai juan ye zhu	1
+蓕	gui
+蓘	gun
+蔉	gun
+蔮	guo
+薣	gu
+蘬	gui
+虢	guo
+虢	guo	885
 虢国	guo guo	5
 虢国夫人	guo guo fu ren	1425
 虢州岑二十七长史参三十韵	guo zhou cen er shi qi zhang shi can san shi yun	1
+蛄	gu
+蛄	gu	255
 蛄蛹	gu yong	3333
+蛊	gu
+蛊	gu	18584
 蛊卦	gu gua	3
 蛊惑	gu huo	13655
 蛊惑人心	gu huo ren xin	2605
@@ -12397,13 +12943,24 @@ sort: by_weight
 蛊虫	gu chong	1111
 蛊虿之谗	gu chai zhi chan	1111
 蛊身圣童	gu shen sheng tong	100
+蛫	gui
+蜾	guo
+蜾	guo	39
 蜾蠃	guo luo	132
 蜾蠃蜚	guo luo fei	3
 蜾蠃负之	guo luo fu zhi	100
+蝈	guo
+蝈	guo	4761
 蝈蝈	guo guo	8395
 蝈蝈儿	guo guo er	345
 蝈蝈笼	guo guo long	100
 蝈螽属	guo zhong shu	100
+螝	gui
+蟈	guo
+蟡	gui
+蠱	gu
+衮	gun
+衮	gun	12074
 衮冕	gun mian	2
 衮实无阙	gun shi wu que	1
 衮服	gun fu	255
@@ -12414,6 +12971,12 @@ sort: by_weight
 衮衮群公	gun gun qun gong	1
 衮衮诸公	gun gun zhu gong	57
 衮雪牌	gun xue pai	1
+袞	gun
+袿	gua
+袿	gui
+裷	gun
+裹	guo
+裹	guo	70440
 裹上	guo shang	6060
 裹上去	guo shang qu	100
 裹上来	guo shang lai	100
@@ -12461,8 +13024,18 @@ sort: by_weight
 裹足不前	guo zu bu qian	4955
 裹进	guo jin	690
 裹饭而往食之	guo fan er wang shi zhi	1
+褁	guo
+褂	gua
+褂	gua	9095
 褂儿	gua er	215
 褂子	gua zi	2510
+襘	gui
+覌	guan
+規	gui
+観	guan
+觀	guan
+观	guan
+观	guan	588781
 观世音	guan shi yin	12090
 观世音传奇	guan shi yin chuan qi	100
 观世音大士	guan shi yin da shi	100
@@ -12887,6 +13460,8 @@ sort: by_weight
 观鸟	guan niao	11230
 观鸟者	guan niao zhe	195
 观鸟胜地	guan niao sheng di	100
+规	gui
+规	gui	341239
 规不规范	gui bu gui fan	100
 规例	gui li	5590
 规划	gui hua	500930
@@ -13353,8 +13928,22 @@ sort: by_weight
 规避执行	gui bi zhi xing	100
 规避汇率风险	gui bi hui lv feng xian	100
 规避法律	gui bi fa lv	3030
+觚	gu
+觚	gu	238
+觤	gui
+詁	gu
+詭	gui
+詿	gua
+諣	gua
+謴	gun
+诂	gu
+诂	gu	463
 诂经精舍	gu jing jing she	220
+诖	gua
+诖	gua	128
 诖误	gua wu	999
+诡	gui
+诡	gui	72548
 诡丽宏杰	gui li hong jie	100
 诡事录	gui shi lu	100
 诡变多端	gui bian duo duan	1
@@ -13411,6 +14000,8 @@ sort: by_weight
 诡野西部	gui ye xi bu	100
 诡门之异能觉醒	gui men zhi yi neng jue xing	100
 诡雅异俗	gui ya yi su	1
+谷	gu
+谷	gu	211522
 谷不可胜食也	gu bu ke sheng shi ye	8
 谷与鱼鳖不可胜食	gu yu yu bie bu ke sheng shi	2
 谷丙凤	gu bing feng	187
@@ -13575,6 +14166,11 @@ sort: by_weight
 谷鳞斑叶甲	gu lin ban ye jia	1
 谷鸽鸟看	gu ge niao kan	1
 谷黏虫	gu nian chong	2
+貫	guan
+貴	gui
+賈	gu
+贯	guan
+贯	guan	76864
 贯世之才	guan shi zhi cai	100
 贯世文才	guan shi wen cai	100
 贯串	guan chuan	4555
@@ -13660,6 +14256,8 @@ sort: by_weight
 贯鱼之次	guan yu zhi ci	100
 贯鱼承宠	guan yu cheng chong	1
 贯黄感冒颗粒	guan huang gan mao ke li	1
+贵	gui
+贵	gui	399328
 贵一些	gui yi xie	4850
 贵一点	gui yi dian	1180
 贵不	gui bu	2
@@ -14096,9 +14694,15 @@ sort: by_weight
 贵阳银行	gui yang yin hang	100
 贵阴贱璧	gui yin jian bi	100
 贵霜王朝	gui shuang wang chao	100
+贾	gu
+贾	gu	3000
 贾人	gu ren	1660
 贾祸	gu huo	2
 贾竖	gu shu	4
+趏	gua
+趹	gui
+跪	gui
+跪	gui	121795
 跪下	gui xia	31825
 跪下去	gui xia qu	1675
 跪下来	gui xia lai	5205
@@ -14166,6 +14770,19 @@ sort: by_weight
 跪趴	gui pa	3333
 跪趴在	gui pa zai	3333
 跪领	gui ling	40
+踻	gua
+躀	guan
+軌	gui
+軓	gui
+軱	gu
+軲	gu
+輄	guang
+輠	guo
+輥	gun
+輨	guan
+轂	gu
+轨	gui
+轨	gui	41123
 轨交线	gui jiao xian	87
 轨度	gui du	999
 轨枕	gui zhen	2145
@@ -14212,12 +14829,18 @@ sort: by_weight
 轨道飞行	gui dao fei xing	100
 轨道飞行器	gui dao fei xing qi	100
 轨道高度	gui dao gao du	100
+轱	gu
+轱	gu	1556
 轱辘	gu lu	3430
 轱辘犊子	gu lu du zi	100
+辊	gun
+辊	gun	148
 辊子	gun zi	1705
 辊轴	gun zhou	790
 辊轴取皮刀	gun zhou qu pi dao	1
 辊齿轮	gun chi lun	100
+辜	gu
+辜	gu	48645
 辜严倬云	gu yan zhuo yun	157
 辜恩背义	gu en bei yi	100
 辜恩负义	gu en fu yi	100
@@ -14231,6 +14854,8 @@ sort: by_weight
 辜负他	gu fu ta	685
 辜负希望	gu fu xi wang	10
 辜鸿铭	gu hong ming	4955
+过	guo
+过	guo	7307184
 过一下	guo yi xia	1
 过一会	guo yi hui	6845
 过一会儿	guo yi hui er	8625
@@ -15774,6 +16399,8 @@ sort: by_weight
 过鹿坪	guo lu ping	3
 过鹿坪镇	guo lu ping zhen	2
 过黑	guo hei	3333
+逛	guang
+逛	guang	68458
 逛一下	guang yi xia	100
 逛一圈	guang yi quan	100
 逛一逛	guang yi guang	3650
@@ -15848,6 +16475,14 @@ sort: by_weight
 逛逛	guang guang	38845
 逛逛吧	guang guang ba	6520
 逛马路	guang ma lu	535
+逧	gu
+過	guo
+遦	guan
+邽	gui
+邽	gui	102
+郌	gui
+郭	guo
+郭	guo	142211
 郭一泽	guo yi ze	100
 郭万钧	guo wan jun	124
 郭东园巷	guo dong yuan xiang	40
@@ -16115,6 +16750,24 @@ sort: by_weight
 郭飞歌	guo fei ge	100
 郭鹤鸣	guo he ming	100
 郭麒麟	guo qi lin	100
+酤	gu
+酤	gu	39
+鈛	guo
+鈲	gu
+鈷	gu
+銛	gua
+銧	guang
+銽	gua
+錧	guan
+錮	gu
+鍋	guo
+鏆	guan
+鐀	gui
+鐹	guo
+鑎	gui
+鑵	guan
+钴	gu
+钴	gu	536
 钴元素	gu yuan su	100
 钴矿	gu kuang	5678
 钴粉	gu fen	1630
@@ -16126,6 +16779,9 @@ sort: by_weight
 钴𬭁潭	gu mu tan	100
 钴𬭁潭西小丘记	gu mu tan xi xiao qiu ji	100
 钴𬭁潭记	gu mu tan ji	100
+铦	gua
+锅	guo
+锅	guo	76325
 锅一样	guo yi yang	83
 锅中	guo zhong	35095
 锅仔片	guo zai pian	100
@@ -16233,11 +16889,20 @@ sort: by_weight
 锅驼机	guo tuo ji	55
 锅魁	guo kui	35
 锅魁夹卤肉	guo kui jia lu rou	10
+锢	gu
+锢	gu	6805
 锢囚	gu qiu	90
 锢聪塞明	gu cong se ming	1
 锢蔽	gu bi	195
 锢露	gu lou	2
 锢露锅	gu lou guo	100
+閞	guan
+関	guan
+閨	gui
+闗	guan
+關	guan
+闺	gui
+闺	gui	25255
 闺中	gui zhong	9190
 闺中只独看	gui zhong zhi du kan	18
 闺中密友	gui zhong mi you	100
@@ -16258,6 +16923,9 @@ sort: by_weight
 闺阁	gui ge	3230
 闺阁须眉	gui ge xu mei	100
 闺阃	gui kun	155
+陒	gui
+雇	gu
+雇	gu	39820
 雇一个	gu yi ge	100
 雇一个人	gu yi ge ren	1150
 雇个	gu ge	1010
@@ -16308,6 +16976,12 @@ sort: by_weight
 雇请	gu qing	4580
 雇车	gu che	1500
 雇铲车	gu chan che	68
+雚	guan
+雟	gui
+鞼	gui
+顧	gu
+顾	gu
+顾	gu	523266
 顾一野	gu yi ye	139
 顾三不顾四	gu san bu gu si	100
 顾不上	gu bu shang	30205
@@ -16524,9 +17198,18 @@ sort: by_weight
 顾颜面	gu yan mian	100
 顾魏医生	gu wei yi sheng	100
 顾鼎臣	gu ding chen	1
+颪	gua
+颳	gua
+餜	guo
+館	guan
+餶	gu
+馃	guo
+馃	guo	26
 馃子	guo zi	1111
 馃箅	guo bi	5
 馃箅儿	guo bi er	123
+馆	guan
+馆	guan	235908
 馆中	guan zhong	12415
 馆主	guan zhu	5495
 馆内	guan nei	38855
@@ -16560,7 +17243,15 @@ sort: by_weight
 馆陶县	guan tao xian	1530
 馆陶长公主	guan tao zhang gong zhu	100
 馆驿街	guan yi jie	73
+馉	gu
+馉	gu	36
 馉饳	gu duo	1
+馘	guo
+馘	guo	46
+騧	gua
+騩	gui
+骨	gu
+骨	gu	310699
 骨不愈合	gu bu yu he	3
 骨不连	gu bu lian	770
 骨传导	gu chuan dao	100
@@ -16879,6 +17570,11 @@ sort: by_weight
 骨黄涯	gu huang ya	1
 骨龄	gu ling	1785
 骨龙	gu long	111
+鬶	gui
+鬶	gui	2
+鬹	gui
+鬼	gui
+鬼	gui	604413
 鬼一法眼	gui yi fa yan	100
 鬼上身	gui shang shen	1255
 鬼不像鬼	gui bu xiang gui	448
@@ -17202,7 +17898,19 @@ sort: by_weight
 鬼黠	gui xia	35
 鬼龙斩月刀	gui long zhan yue dao	100
 鬼龙红郎	gui long hong lang	131
+鮌	gun
+鮕	gu
+鮭	gui
+鯀	gun
+鯝	gu
+鰥	guan
+鱖	gui
+鱞	guan
+鱥	gui
 鱥属	gui shu	2
+鱹	guan
+鲑	gui
+鲑	gui	586
 鲑冠凤头鹦鹉	gui guan feng tou ying wu	9
 鲑形目	gui xing mu	100
 鲑形长嘴𫚭	gui xing chang zui lie	1
@@ -17213,7 +17921,13 @@ sort: by_weight
 鲑鱼降钙素	gui yu jiang gai su	4
 鲑鱼降钙素注射液	gui yu jiang gai su zhu she ye	1
 鲑鳟鱼养殖技术	gui zun yu yang zhi ji shu	2
+鲧	gun
+鲧	gun	701
 鲧殛禹兴	gun ji yu xing	1
+鲴	gu
+鲴	gu	3
+鳏	guan
+鳏	guan	694
 鳏夫	guan fu	1535
 鳏寡	guan gua	1040
 鳏寡孤独	guan gua gu du	1575
@@ -17224,16 +17938,38 @@ sort: by_weight
 鳏居	guan ju	635
 鳏鱼	guan yu	1
 鳏鱼渴凤	guan yu ke feng	1
+鳜	gui
+鳜	gui	287
 鳜鱼	gui yu	8030
 鳜鱼排骨	gui yu pai gu	1
+鳤	guan
+鳤	guan	3
 鳤鱼	guan yu	1
+鳺	gui
+鴣	gu
+鴰	gua
+鶻	gu
+鸛	guan
+鸪	gu
+鸪	gu	1492
+鸹	gua
+鸹	gua	544
+鹄	gu
+鹄	gu	1
 鹄的	gu di	2
+鹘	gu
+鹘	gu	2636
 鹘鸼	gu zhou	2
+鹳	guan
+鹳	guan	661
 鹳山	guan shan	370
 鹳雀楼	guan que lou	1180
 鹳鸟	guan niao	1885
 鹳鹤	guan he	100
 鹳鹤追飞静	guan he zhui fei jing	1
+黆	guang
+鼓	gu
+鼓	gu	208688
 鼓下坐蛮奴	gu xia zuo man nu	1
 鼓不起	gu bu qi	720
 鼓不起来	gu bu qi lai	90
@@ -17473,6 +18209,10 @@ sort: by_weight
 鼓鼓劲儿	gu gu jin er	100
 鼓鼓囊囊	gu gu nang nang	2065
 鼓鼓的	gu gu de	8320
+鼔	gu
+龜	gui
+龟	gui
+龟	gui	54063
 龟万甲	gui wan jia	2
 龟井兹矩	gui jing zi ju	1
 龟井绘里	gui jing hui li	1
@@ -17571,4 +18311,295 @@ sort: by_weight
 龟龙鳞凤	gui long lin feng	1
 龟龙麟凤	gui long lin feng	100
 龟龟	gui gui	1
+𠁥	guai
+𠃌	gun
+𠆣	gua
+𠈥	gua
+𠊰	gua
+𠋜	guo
+𠏤	guang
+𠐽	gui
+𠑹	gu
+𠙼	gua
+𠛒	gua
+𠛕	guai
+𠜴	guo
+𠜵	gua
+𠜾	gui
+𠞬	gun
+𠟗	gua
+𠦬	guai
+𠩥	guo
+𠪑	gui
+𠬆	guan
+𠮠	gua
+𠯑	gua
+𠱓	gui
+𠴨	guan
+𠵯	gua
+𠷞	gu
+𠻧	gu
+𠽿	gu
+𠿤	guo
+𠿥	gui
+𡃩	gui
+𡅭	guan
+𡆸	guo
+𡇄	guo
+𡇸	guai
+𡈧	gun
+𡌪	guai
+𡌲	gui
+𡓣	guo
+𡖪	guai
+𡗤	gui
+𡗷	gu
+𡘝	gun
+𡜁	gua
+𡠒	guan
+𡧩	guai
+𡧭	gui
+𡬂	gui
+𡭷	guan
+𡷓	gu
+𡷺	gui
+𡹙	gui
+𡻨	gun
+𡽂	gu
+𢃦	guo
+𢃩	gun
+𢃯	gui
+𢄊	gui
+𢅗	guo
+𢇇	guan
+𢉂	guan
+𢐚	guo
+𢓯	guang
+𢝳	gu
+𢝸	guo
+𢠿	gui
+𢡇	gu
+𢧰	guo
+𢪏	gu
+𢶒	guai
+𢸗	guo
+𢹖	guo
+𢺄	guan
+𢻂	gui
+𢻗	gui
+𢼛	guo
+𣀐	gu
+𣁯	guo
+𣂄	guo
+𣄜	gui
+𣅻	gua
+𣖫	gu
+𣢪	gui
+𣥥	guan
+𣦦	gui
+𣦩	gu
+𣦭	gu
+𣧎	gui
+𣨍	gu
+𣨺	gu
+𣩔	guan
+𣪕	gui
+𣪸	gu
+𣫀	gu
+𣬂	guan
+𣮎	gun
+𣱫	gu
+𣲖	gu
+𣲾	guai
+𣷾	gui
+𣽅	guo
+𣽰	guo
+𤂁	guo
+𤅱	gu
+𤆜	gua
+𤖖	guang
+𤘧	gui
+𤚱	gu
+𤜂	gui
+𤡱	gui
+𤫵	guo
+𤬁	guo
+𤮋	guo
+𤮳	guan
+𤱺	gui
+𤱾	gui
+𤲉	gui
+𤳭	guang
+𤴀	guang
+𤻿	gui
+𤼐	guan
+𤼮	gui
+𤿡	gui
+𥀱	guang
+𥁁	guo
+𥂣	guo
+𥂰	gu
+𥄍	guo
+𥄼	gua
+𥆘	guo
+𥇜	guo
+𥇳	gui
+𥈒	guan
+𥈓	gua
+𥈸	gui
+𥉀	guan
+𥊫	guan
+𥍁	gui
+𥍅	guan
+𥍨	gui
+𥎅	guan
+𥎛	gui
+𥐬	gu
+𥑋	guai
+𥑰	guai
+𥕖	guo
+𥜄	guan
+𥜏	gui
+𥜭	guo
+𥝒	gua
+𥠳	gu
+𥥠	gui
+𥦣	gui
+𥮝	gu
+𥵠	gu
+𥷬	guan
+𥿍	gu
+𥿑	guan
+𦄰	guo
+𦈲	gu
+𦊬	gu
+𦋆	gu
+𦎰	gu
+𦓯	gui
+𦓼	gun
+𦗒	guo
 𦗒狐	guo hu	5
+𦘌	guo
+𦙶	gu
+𦙶	gu	1
+𦛢	guo
+𦛤	guan
+𦠺	gun
+𦢎	guang
+𦤇	gui
+𦫎	gun
+𦫳	guai
+𦬗	guo
+𦮃	guai
+𦳛	gui
+𦸈	guo
+𦺊	guan
+𦺠	gu
+𦾫	gu
+𧆻	gu
+𧇡	gu
+𧊄	gui
+𧊅	guai
+𧒖	guo
+𧖻	guo
+𧟣	gu
+𧡫	gui
+𧢦	gui
+𧣡	gu
+𧤐	gua
+𧤯	guo
+𧥵	guo
+𧬕	gu
+𧬪	gun
+𧭕	guo
+𧭣	guo
+𧰒	guo
+𧱾	guai
+𧳸	gu
+𧴚	guai
+𧵎	gu
+𧷱	gui
+𧸫	gun
+𧻜	gui
+𧻺	guang
+𧽸	gui
+𧾛	guo
+𧿼	gua
+𨇙	gui
+𨉹	guo
+𨋡	gui
+𨍲	gun
+𨎩	guang
+𨐈	guang	1
+𨝑	guan
+𨠋	gu
+𨤡	guang
+𨪷	gu
+𨬕	gu
+𨭗	guo
+𨲿	gui
+𨳡	guan
+𨴊	guan
+𨵃	gua
+𨵄	guan
+𨵐	gu
+𨶰	guang
+𨷀	guan
+𨸯	gu
+𨽏	guo
+𨾚	gui
+𨾴	gui
+𩀠	gu
+𩉕	guo
+𩉝	gui
+𩊛	gui
+𩋗	guo
+𩌃	gui
+𩍨	gui
+𩏐	gui
+𩏡	gui
+𩑈	guang
+𩑬	gui
+𩒙	gui
+𩒚	guang
+𩓠	gui
+𩔆	gui
+𩖒	guan
+𩙏	gu
+𩟂	guo
+𩢍	gua
+𩧉	guang
+𩨬	gun
+𩩌	gun
+𩪁	gui
+𩪐	guo
+𩫏	guo
+𩰬	guo
+𩰭	guo
+𩱻	gui
+𩲡	gui
+𩲱	gu
+𩳝	gui
+𩳧	gui
+𩴡	gu
+𩶦	guai
+𩻎	gua
+𩻧	guo
+𪀗	gui
+𪂠	guo
+𪄮	gu
+𪄯	gui
+𪆳	gui
+𪆹	guo
+𪇗	gu
+𪇜	gua
+𪇵	guang
+𪈃	guo
+𪈥	gui
+𪈸	guan
+𪊧	gui
+𪋊	guo
+𪏤	gui
+𪕓	guang
+𪕷	gu
+𬇹	guo	1

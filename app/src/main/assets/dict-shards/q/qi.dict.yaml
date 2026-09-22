@@ -3,7 +3,225 @@ name: merged.qi
 version: "1.0"
 sort: by_weight
 ...
+㐀	qiu
+㐤	qiu
+㐸	qian
+㑋	qiong
+㒅	qi
+㒌	qiong
+㓎	qin
+㓗	qi
+㓞	qi
+㓞	qia
+㓣	qia
+㓤	qia
+㓶	qie
+㔀	qing
+㔑	qi
+㕋	qin
+㕤	qiu
+㖢	qi
+㗊	qi
+㗫	qie
+㘍	qi
+㘦	qin
+㙨	qi
+㙻	qie
+㚁	qiao
+㚗	qie
+㚱	qiu
+㚽	qiao
+㛍	qie
+㛏	qiu
+㛗	qie
+㛙	qie
+㛙	qin
+㛨	qiang
+㜞	qian
+㝄	qi
+㝯	qiao
+㝲	qin
+㝿	qian
+㞓	qi
+㞗	qiu
+㞚	qi
+㞬	qin
+㞿	qi
+㟈	qiu
+㟓	qi
+㟚	qi
+㟢	qi
+㟻	qian
+㠍	qi
+㠎	qi
+㠱	qi
+㡊	qia
+㡊	qian
+㡑	qiao
+㡨	qian
+㢗	qiao
+㢙	qin
+㢣	qing
+㣬	qi
+㤈	qin
+㤉	qia
+㤍	qiao
+㤨	qiong
+㤲	qie
+㤹	qiu
+㥓	qi
+㥞	qian
+㥢	qiu
+㥦	qie
+㦢	qi
+㦮	qian
+㦴	qia
+㧄	qian
+㧄	qiu
+㧎	qia
+㧨	qiu
+㧭	qiong
+㨜	qian
+㨽	qiao
+㩃	qian
+㩒	qin
+㩖	qiang
+㩩	qi
+㩩	qing
+㩮	qian
+㩰	qiao
+㩻	qi
+㩽	qi
+㪁	qin
+㪠	qian
+㪣	qiao
+㫅	qi
+㫓	qi
+㫸	qie
+㭝	qiu
+㮑	qi
+㮗	qin
+㮪	qiong
+㯠	qian
+㯦	qi
+㯳	qing
+㰟	qi
+㰤	qie
+㰰	qie
+㰼	qie
+㱦	qi
+㱶	qiao
+㱽	qin
+㲹	qiu
+㳋	qiu
+㴥	qiao
+㵄	qia
+㵌	qiong
+㵾	qing
+㷀	qiong
+㷕	qiu
+㷫	qing
+㸫	qian
+㹂	qian
+㹄	qi
+㹤	qie
+㺫	qiu
+㼇	qiong
+㼒	qiu
+㼤	qi
+㼤	qie
+㼮	qi
+㾀	qie
+㾛	qin
+㾜	qie
+㾨	qi
+䀈	qi
+䀉	qiao
+䀙	qi
+䁈	qi
+䁉	qi
+䁍	qia
+䁮	qian
+䂒	qia
+䂭	qiao
+䃛	qian
+䃝	qiao
+䄎	qi
+䄢	qi
+䄫	qi
+䅃	qiong
+䅐	qian
+䅚	qiang
+䅤	qi
+䅲	qi
+䅾	qian
+䅾	qin
+䆂	qian
+䆳	qiong
+䆻	qiao
+䇂	qian
+䇌	qiao
+䇒	qin
+䈜	qin
+䈤	qian
+䈴	qian
+䉝	qi
+䉻	qi
+䊄	qiong
+䊆	qiu
+䊴	qian
+䊵	qiu
+䋜	qing
+䋮	qian
+䋯	qi
+䋯	qing
+䌌	qi
+䌌	qie
+䌠	qing
+䍉	qian
+䎗	qiao
+䎢	qi
+䎿	qiu
+䏅	qi
+䏌	qi
+䏠	qi
+䏿	qi
+䐡	qi
+䐤	qi
+䑴	qi
+䑶	qian
+䒗	qi
+䒻	qi
+䓅	qi
+䓖	qiong
+䓖	qiong	1
+䓫	qi
+䓫	qi	1
 䓫莱主山	qi lai zhu shan	100
+䔇	qi
+䔔	qian
+䔔	qiu
+䔛	qing
+䔷	qin
+䔾	qi
+䕤	qi
+䕭	qian
+䖌	qin
+䖍	qian
+䗁	qi
+䗩	qi
+䙄	qi
+䙺	qian
+䚉	qi
+䚍	qi
+䛛	qi
+䛪	qiong
+䛴	qi
+䜑	qia
+䜪	qiu
+䝼	qing
+䞍	qing
+䞍	qing	1
 䞍受	qing shou	2
 䞍好	qing hao	111
 䞍好儿	qing hao er	111
@@ -13,6 +231,88 @@ sort: by_weight
 䞍好吧	qing hao ba	111
 䞍好吧您	qing hao ba nin	111
 䞍等	qing deng	1
+䞚	qi
+䞣	qie
+䞭	qiu
+䞿	qian
+䟄	qi
+䟙	qie
+䟚	qi
+䟬	qiu
+䟵	qiu
+䟷	qi
+䠍	qia
+䠗	qiu
+䠞	qi
+䠴	qin
+䠻	qiong
+䡋	qi
+䡔	qi
+䢀	qi
+䢈	qin
+䢪	qian
+䣇	qiu
+䣛	qi
+䤘	qian
+䤛	qiu
+䤿	qie
+䥅	qian
+䥅	qin
+䥆	qin
+䦦	qin
+䦧	qie
+䦲	qian
+䧆	qiong
+䧘	qi
+䧵	qi
+䨐	qia
+䨝	qing
+䨿	qian
+䩌	qiao
+䩓	qi
+䪈	qian
+䫏	qi
+䫔	qi
+䫔	qie
+䫞	qiao
+䫡	qian
+䬊	qie
+䬣	qi
+䭑	qian
+䭠	qian
+䭤	qian
+䭫	qi
+䭬	qi
+䭶	qi
+䭼	qi
+䯊	qia
+䯡	qian
+䯥	qi
+䯧	qing
+䰇	qi
+䰍	qi
+䰴	qi
+䰼	qin
+䱁	qiao
+䱈	qi
+䱸	qiu
+䲔	qing
+䲡	qiu
+䲬	qi
+䲾	qiao
+䳢	qi
+䵁	qiang
+䵖	qian
+䵞	qing
+䶒	qi
+䶓	qi
+䶖	qin
+䶗	qia
+䶝	qia
+䶞	qi
+丂	qiao
+七	qi
+七	qi	638221
 七〇〇〇	qi ling ling ling	100
 七〇〇〇年	qi ling ling ling nian	100
 七〇〇一	qi ling ling yi	100
@@ -3281,6 +3581,9 @@ sort: by_weight
 七鳃鳗	qi sai man	133
 七龄思即壮	qi ling si ji zhuang	1
 七龙珠	qi long zhu	9030
+丌	qi
+且	qie
+且	qie	1092816
 且不	qie bu	84925
 且不准	qie bu zhun	12005
 且不提	qie bu ti	100
@@ -3383,6 +3686,8 @@ sort: by_weight
 且须饮美酒	qie xu yin mei jiu	14
 且食蛤蜊	qie shi ge li	1
 且饮美酒登高楼	qie yin mei jiu deng gao lou	3
+丘	qiu
+丘	qiu	63759
 丘不与易也	qiu bu yu yi ye	2
 丘丘人	qiu qiu ren	122
 丘丘合唱团	qiu qiu he chang tuan	100
@@ -3433,6 +3738,9 @@ sort: by_weight
 丘陵山地	qiu ling shan di	100
 丘集	qiu ji	1
 丘鹬	qiu yu	3
+丠	qiu
+乔	qiao
+乔	qiao	124865
 乔·杰克逊	qiao jie ke xun	100
 乔·艾尔	qiao ai er	100
 乔一成	qiao yi cheng	121
@@ -3611,6 +3919,8 @@ sort: by_weight
 乔音乡	qiao yin xiang	7
 乔鲁诺乔巴纳	qiao lu nuo qiao ba na	197
 乔龙画虎	qiao long hua hu	6
+乞	qi
+乞	qi	51739
 乞丐	qi gai	79850
 乞丐之徒	qi gai zhi tu	1
 乞丐变王子	qi gai bian wang zi	12
@@ -3655,6 +3965,9 @@ sort: by_weight
 乞鞫	qi ju	1
 乞食	qi shi	5775
 乞骸骨	qi hai gu	555
+乹	qian
+乾	qian
+乾	qian	67122
 乾为天	qian wei tian	100
 乾元重宝	qian yuan zhong bao	100
 乾兆花海	qian zhao hua hai	100
@@ -3731,12 +4044,22 @@ sort: by_weight
 乾隆盛世	qian long sheng shi	100
 乾隆行宫	qian long xing gong	100
 乾龙乡	qian long xiang	1
+亁	qian
+亓	qi
+亓	qi	1309
 亓官	qi guan	1
+亝	qi
+亟	qi
+亟	qi	100
 亟来接洽	qi lai jie qia	2
 亟来磋商	qi lai cuo shang	2
 亟来讯问	qi lai xun wen	2
 亟来请求	qi lai qing qiu	2
 亟经洽商	qi jing qia shang	2
+亲	qin
+亲	qin	1388321
+亲	qing
+亲	qing	1388
 亲一下	qin yi xia	3333
 亲一个	qin yi ge	2585
 亲一亲	qin yi qin	580
@@ -4214,6 +4537,8 @@ sort: by_weight
 亲骨肉	qin gu rou	1290
 亲鱼	qin yu	6655
 亲鸟	qin niao	246
+仇	qiu
+仇	qiu	8000
 仇东升	qiu dong sheng	155
 仇云波	qiu yun bo	100
 仇保兴	qiu bao xing	100
@@ -4226,6 +4551,11 @@ sort: by_weight
 仇小姐	qiu xiao jie	100
 仇琼英	qiu qiong ying	100
 仇英	qiu ying	1
+仟	qian
+仟	qian	1354
+仱	qian
+企	qi
+企	qi	222834
 企业	qi ye	506151
 企业一般制度	qi ye yi ban zhi du	1
 企业专利工作办法	qi ye zhuan li gong zuo ban fa	9
@@ -4689,7 +5019,12 @@ sort: by_weight
 企鹅妈妈	qi e ma ma	100
 企鹅牌	qi e pai	100
 企鹅肉	qi e rou	100
+伎	qi
+伣	qian
+伣	qian	1
 伣天之妹	qian tian zhi mei	100
+伽	qie
+伽	qie	1098
 伽南香	qie nan xiang	1180
 伽蓝	qie lan	9020
 伽蓝寺	qie lan si	100
@@ -4698,8 +5033,12 @@ sort: by_weight
 伽蓝菜属	qie lan cai shu	100
 伽蓝菩萨	qie lan pu sa	100
 伽陀	qie tuo	6
+佥	qian
+佥	qian	1821
 佥事	qian shi	6
 佥都御史	qian du yu shi	435
+侨	qiao
+侨	qiao	9375
 侨中	qiao zhong	129
 侨乡	qiao xiang	16530
 侨光商专	qiao guang shang zhuan	100
@@ -4745,6 +5084,8 @@ sort: by_weight
 侨领	qiao ling	3400
 侨香村	qiao xiang cun	110
 侨鸿国际	qiao hong guo ji	21
+侵	qin
+侵	qin	103019
 侵入	qin ru	82230
 侵入体	qin ru ti	475
 侵入岩	qin ru yan	100
@@ -4890,7 +5231,11 @@ sort: by_weight
 侵袭力	qin xi li	24
 侵袭性疾病	qin xi xing ji bing	43
 侵越	qin yue	845
+俅	qiu
+俅	qiu	2801
 俅俅	qiu qiu	1
+俏	qiao
+俏	qiao	50651
 俏丽	qiao li	17690
 俏丽短发	qiao li duan fa	110
 俏乐儿	qiao le er	3
@@ -4920,6 +5265,13 @@ sort: by_weight
 俏货	qiao huo	380
 俏销	qiao xiao	2180
 俏闺女	qiao gui nv	15
+俔	qian
+俟	qi
+俟	qi	1
+倛	qi
+倩	qian
+倩	qian	112856
+倩	qing	1
 倩人执笔	qing ren zhi bi	2
 倩人捉刀	qing ren zhuo dao	2
 倩何人唤取	qian he ren huan qu	3
@@ -4930,6 +5282,8 @@ sort: by_weight
 倩影	qian ying	13275
 倩月红	qian yue hong	1
 倩碧	qian bi	211
+倾	qing
+倾	qing	141937
 倾下	qing xia	1165
 倾下去	qing xia qu	100
 倾下来	qing xia lai	100
@@ -5095,6 +5449,21 @@ sort: by_weight
 倾销税	qing xiao shui	100
 倾陷	qing xian	260
 倾颓	qing tui	1310
+偂	qian
+偢	qiao
+傔	qian
+傶	qi
+傾	qing
+僉	qian
+僑	qiao
+僛	qi
+僺	qiao
+儙	qian
+儝	qiong
+儬	qing
+兓	qin
+其	qi
+其	qi	2417047
 其一	qi yi	28310
 其一是	qi yi shi	20330
 其三	qi san	62050
@@ -5781,6 +6150,9 @@ sort: by_weight
 其验如响	qi yan ru xiang	1
 其高者因而越之	qi gao zhe yin er yue zhi	3
 其黄而陨	qi huang er yun	100
+冾	qia
+凄	qi
+凄	qi	75047
 凄入肝脾	qi ru gan pi	1
 凄冷	qi leng	3190
 凄凄	qi qi	6315
@@ -5834,6 +6206,10 @@ sort: by_weight
 凄风寒雨	qi feng han yu	1
 凄风楚雨	qi feng chu yu	100
 凄风苦雨	qi feng ku yu	1860
+凊	qing
+凵	qian
+切	qie
+切	qie	900592
 切·格瓦拉	qie ge wa la	111
 切一下	qie yi xia	69
 切一刀	qie yi dao	1000
@@ -6251,6 +6627,9 @@ sort: by_weight
 切齿痛恨	qie chi tong hen	835
 切齿腐心	qie chi fu xin	100
 切齿诺福克三鳍鳚	qie chi nuo fu ke san qi wei	1
+刋	qian
+前	qian
+前	qian	3967855
 前一	qian yi	102840
 前一万名	qian yi wan ming	100
 前一个	qian yi ge	29595
@@ -7570,10 +7949,18 @@ sort: by_weight
 前齿缘宝螺	qian chi yuan bao luo	1
 前齿肖蛸	qian chi xiao shao	1
 前齿银汉鱼科	qian chi yin han yu ke	1
+剘	qi
+剠	qing
+劁	qiao
+劁	qiao	178
 劁猪	qiao zhu	123
 劁猪匠	qiao zhu jiang	123
 劁羊	qiao yang	123
+勍	qing
+勍	qing	13
 勍香镇	qing xiang zhen	5
+勤	qin
+勤	qin	89958
 勤不	qin bu	111
 勤不勤	qin bu qin	111
 勤不言苦	qin bu yan ku	75
@@ -7704,6 +8091,11 @@ sort: by_weight
 勤远里	qin yuan li	5
 勤通风	qin tong feng	136
 勤问	qin wen	1585
+勪	qiao
+匧	qie
+匼	qia
+千	qian
+千	qian	794964
 千万	qian wan	257545
 千万不	qian wan bu	222
 千万不可	qian wan bu ke	17955
@@ -8659,6 +9051,8 @@ sort: by_weight
 千黛百合	qian dai bai he	26
 千龄万代	qian ling wan dai	1
 千龙村	qian long cun	1
+卡	qia
+卡	qia	5555
 卡住	qia zhu	16135
 卡住了	qia zhu le	6140
 卡住脖子	qia zhu bo zi	100
@@ -8682,6 +9076,9 @@ sort: by_weight
 卡脖子	qia bo zi	3333
 卡脖子技术	qia bo zi ji shu	100
 卡脖子问题	qia bo zi wen ti	100
+卭	qiong
+卿	qing
+卿	qing	66819
 卿为朝朝暮暮	qing wei zhao zhao mu mu	100
 卿卿	qing qing	5075
 卿卿我心	qing qing wo xin	187
@@ -8693,6 +9090,15 @@ sort: by_weight
 卿本佳人	qing ben jia ren	1085
 卿等务必	qing deng wu bi	100
 卿等务必用心辅佐仲谋	qing deng wu bi yong xin fu zuo zhong mou	100
+厒	qie
+厱	qian
+厹	qiu
+叴	qiu
+吢	qin
+吣	qin
+吣	qin	121
+启	qi
+启	qi	143593
 启东县	qi dong xian	220
 启东市	qi dong shi	10225
 启事	qi shi	19865
@@ -8882,6 +9288,10 @@ sort: by_weight
 启闭	qi bi	8285
 启闭机	qi bi ji	2330
 启齿	qi chi	3495
+呇	qi
+呚	qi
+呛	qiang
+呛	qiang	20665
 呛一下	qiang yi xia	3
 呛了	qiang le	2520
 呛了一下	qiang le yi xia	3
@@ -8903,13 +9313,45 @@ sort: by_weight
 呛着呢	qiang zhe ne	10
 呛起来	qiang qi lai	65
 呛鼻	qiang bi	1315
+呮	qi
+咠	qi
+咭	qia
+唊	qian
+唒	qiu
+唘	qi
+唚	qin
+唭	qi
+唴	qiang
+啌	qiang
+啐	qi
+啓	qi
+啔	qi
+啟	qi
+啨	qing
+喬	qiao
+喰	qi
+喿	qiao
+嗆	qiang
+嗛	qian
+嗛	qie
+嗪	qin
+嗪	qin	81
+嗴	qiang
+嘁	qi
+嘁	qi	2705
 嘁嘁喳喳	qi qi cha cha	999
 嘁嘁嘁	qi qi qi	100
+嘺	qiao
+噐	qi
+噙	qin
+噙	qin	4495
 噙住	qin zhu	280
 噙泪	qin lei	1111
 噙着	qin zhe	5585
 噙着泪	qin zhe lei	100
 噙齿戴发	qin chi dai fa	100
+器	qi
+器	qi	489638
 器世间	qi shi jian	1030
 器乐	qi yue	33240
 器乐作品	qi yue zuo pin	100
@@ -8965,6 +9407,9 @@ sort: by_weight
 器重	qi zhong	14930
 器量	qi liang	3333
 器鼠难投	qi shu nan tou	1
+噭	qiao
+囚	qiu
+囚	qiu	29642
 囚人	qiu ren	650
 囚室	qiu shi	3230
 囚居	qiu ju	175
@@ -8986,13 +9431,37 @@ sort: by_weight
 囚首垢面	qiu shou gou mian	100
 囚首跣足	qiu shou xian zu	100
 囚鸟	qiu niao	975
+圊	qing
+圊	qing	49
 圊肥	qing fei	1
+圱	qian
+圲	qian
+圲	qian	1
+圶	qia
+圻	qi
+圻	qi	725
+坅	qin
+坵	qiu
+埐	qin
+埥	qing
+埼	qi
+埼	qi	47
 埼玉	qi yu	4444
 埼玉县	qi yu xian	100
 埼玉市	qi yu shi	100
+堑	qian
+堑	qian	3544
 堑壕	qian hao	2150
 堑壕战	qian hao zhan	100
 堑山堙谷	qian shan yin gu	16
+塸	qiu
+塹	qian
+墄	qi
+墏	qiang
+墘	qian
+墘	qian	1
+墙	qiang
+墙	qiang	301301
 墙上	qiang shang	164045
 墙上固定炮	qiang shang gu ding pao	100
 墙上多高树	qiang shang duo gao shu	1
@@ -9099,6 +9568,13 @@ sort: by_weight
 墙骨龙	qiang gu long	1
 墙高	qiang gao	3080
 墙高基下	qiang gao ji xia	1
+墝	qiao
+墧	qiao
+墻	qiang
+墽	qiao
+壍	qian
+壳	qiao
+壳	qiao	3000
 壳斗	qiao dou	1
 壳斗科	qiao dou ke	100
 壳牌	qiao pai	2011
@@ -9110,6 +9586,10 @@ sort: by_weight
 壳牌润滑油	qiao pai run hua you	100
 壳牌石油	qiao pai shi you	100
 壳菜	qiao cai	1
+夝	qing
+夡	qi
+奇	qi
+奇	qi	982596
 奇不奇怪吧	qi bu qi guai ba	100
 奇不奇怪呀	qi bu qi guai ya	100
 奇不奇怪啊	qi bu qi guai a	100
@@ -9542,6 +10022,9 @@ sort: by_weight
 奇鹤堂	qi he tang	123
 奇黑	qi hei	85
 奇黑无比	qi hei wu bi	45
+契	qi
+契	qi	57408
+契	qie
 契丹	qi dan	30400
 契丹城	qi dan cheng	100
 契兄弟	qi xiong di	2
@@ -9594,6 +10077,9 @@ sort: by_weight
 契若金兰	qi ruo jin lan	100
 契诃夫	qi he fu	3920
 契阔	qi kuo	2065
+奷	qian
+妻	qi
+妻	qi	243636
 妻不如妾	qi bu ru qie	750
 妻儿	qi er	15355
 妻儿性命	qi er xing ming	100
@@ -9632,6 +10118,8 @@ sort: by_weight
 妻荣夫贵	qi rong fu gui	1
 妻贤夫祸少	qi xian fu huo shao	100
 妻跑族	qi pao zu	100
+妾	qie
+妾	qie	33441
 妾不堪驱使	qie bu kan qu shi	1
 妾不如偷	qie bu ru tou	100
 妾住在横塘	qie zhu zai heng tang	7
@@ -9647,6 +10135,28 @@ sort: by_weight
 妾生君未生	qie sheng jun wei sheng	12
 妾身	qie shen	7325
 妾身未分明	qie shen wei fen ming	5
+娸	qi
+婍	qi
+婍	qi	1
+婜	qian
+媇	qin
+媊	qian
+媝	qiu
+嫀	qin
+嫱	qiang
+嫱	qiang	1037
+嫶	qiao
+嬙	qiang
+嬛	qiong
+嬱	qian
+孅	qian
+孯	qian
+宆	qiong
+寈	qing
+寑	qin
+寖	qin
+寝	qin
+寝	qin	70179
 寝不安席	qin bu an xi	365
 寝不安枕	qin bu an zhen	100
 寝不成寐	qin bu cheng mei	100
@@ -9686,10 +10196,16 @@ sort: by_weight
 寝馈其中	qin kui qi zhong	1
 寝馈其间	qin kui qi jian	100
 寝馈难安	qin kui nan an	1
+寢	qin
+寴	qin
 将子无怒	qiang zi wu nu	100
 将进酒	qiang jin jiu	3005
+屺	qi
+屺	qi	108
 屺亭镇	qi ting zhen	1
 屺瞻	qi zhan	40
+岂	qi
+岂	qi	129475
 岂不	qi bu	7337
 岂不乐哉	qi bu le zai	38
 岂不会	qi bu hui	100
@@ -9792,6 +10308,10 @@ sort: by_weight
 岂能长少年	qi neng chang shao nian	7
 岂轻于天下邪	qi qing yu tian xia ye	2
 岂非	qi fei	21885
+岍	qian
+岍	qian	8
+岐	qi
+岐	qi	5207
 岐伯	qi bo	687
 岐伯山	qi bo shan	138
 岐头山	qi tou shan	1
@@ -9814,6 +10334,13 @@ sort: by_weight
 岐阳村	qi yang cun	6
 岐黄	qi huang	1
 岐黄之术	qi huang zhi shu	375
+岒	qian
+岓	qi
+峠	qia
+峤	qiao
+峤	qiao	508
+峭	qiao
+峭	qiao	13505
 峭壁	qiao bi	26505
 峭壁之泉	qiao bi zhi quan	1
 峭壁湖	qiao bi hu	1
@@ -9824,6 +10351,8 @@ sort: by_weight
 峭直	qiao zhi	185
 峭立	qiao li	995
 峭论鲠议	qiao lun geng yi	1
+崎	qi
+崎	qi	11863
 崎坑村	qi keng cun	1
 崎岖	qi qu	28215
 崎岖不平	qi qu bu ping	3780
@@ -9839,6 +10368,9 @@ sort: by_weight
 崎惠梨香	qi hui li xiang	6666
 崎枝氏毛圆蛛	qi zhi shi mao yuan zhu	1
 崎车垫跗螋	qi che dian fu sou	1
+崷	qiu
+嵌	qian
+嵌	qian	19221
 嵌于	qian yu	1805
 嵌体	qian ti	4
 嵌体修复	qian ti xiu fu	10
@@ -9909,9 +10441,21 @@ sort: by_weight
 嵌顿包茎	qian dun bao jing	3
 嵌顿痔	qian dun zhi	15
 嵌齿象	qian chi xiang	15
+嵚	qin
+嵚	qin	8
 嵚崎历落	qin qi li luo	100
 嵚崎磊落	qin qi lei luo	100
 嵚崟	qin yin	1
+嵜	qi
+嵪	qiao
+嵰	qian
+嵰	qin
+嶈	qiang
+嶔	qin
+嶜	qin
+嶠	qiao
+巧	qiao
+巧	qiao	241945
 巧上加巧	qiao shang jia qiao	4
 巧不	qiao bu	5555
 巧不可接	qiao bu ke jie	5
@@ -10075,6 +10619,8 @@ sort: by_weight
 巧遇	qiao yu	15775
 巧酥	qiao su	115
 巧问妙答	qiao wen miao da	20
+巯	qiu
+巯	qiu	38
 巯嘌呤	qiu piao ling	24
 巯嘌呤片	qiu piao ling pian	1
 巯基	qiu ji	18
@@ -10084,7 +10630,16 @@ sort: by_weight
 巯基乙醛	qiu ji yi quan	100
 巯基嘌呤	qiu ji piao ling	155
 巯基蛋白酶	qiu ji dan bai mei	1
+巰	qiu
+帢	qia
+帩	qiao
+帹	qie
+帺	qi
+幓	qiao
+幧	qiao
 幧头	qiao tou	1
+庆	qing
+庆	qing	189750
 庆七一	qing qi yi	660
 庆三八	qing san ba	166
 庆中秋	qing zhong qiu	510
@@ -10225,6 +10780,15 @@ sort: by_weight
 庆隆苑	qing long yuan	7
 庆龄	qing ling	1075
 庆龙	qing long	37
+庈	qin
+庼	qing
+庼	qing	15
+廎	qing
+廑	qin
+廑	qin	0
+廧	qiang
+弃	qi
+弃	qi	247281
 弃不了	qi bu liao	65
 弃世	qi shi	1500
 弃业抛家	qi ye pao jia	100
@@ -10383,6 +10947,9 @@ sort: by_weight
 弃邪从正	qi xie cong zheng	100
 弃邪归正	qi xie gui zheng	130
 弃风率	qi feng lv	100
+強	qiang
+强	qiang
+强	qiang	1361353
 强一倍	qiang yi bei	100
 强一倍多	qiang yi bei duo	100
 强一致性	qiang yi zhi xing	1821
@@ -11589,6 +12156,13 @@ sort: by_weight
 强龙不压地头蛇	qiang long bu ya di tou she	380
 强龙压不过地头蛇	qiang long ya bu guo di tou she	100
 强龙益肾胶囊	qiang long yi shen jiao nang	2
+彊	qiang
+忔	qi
+忯	qi
+忴	qian
+忴	qin
+怯	qie
+怯	qie	42612
 怯口	qie kou	75
 怯地刺莺	qie di ci ying	1
 怯场	qie chang	5860
@@ -11615,6 +12189,10 @@ sort: by_weight
 怯防勇战	qie fang yong zhan	1
 怯阵	qie zhen	330
 怯雨羞云情意	qie yu xiu yun qing yi	100
+恓	qi
+恘	qiu
+恰	qia
+恰	qia	3333
 恰与	qia yu	2400
 恰中要害	qia zhong yao hai	1
 恰似	qia si	21965
@@ -11687,6 +12265,9 @@ sort: by_weight
 恰雷姆	qia lei mu	100
 恰题	qia ti	2330
 恰饭	qia fan	1111
+恷	qiu
+悄	qiao
+悄	qiao	233784
 悄咪咪	qiao mi mi	100
 悄咪咪地	qiao mi mi de	100
 悄声	qiao sheng	10685
@@ -11738,9 +12319,16 @@ sort: by_weight
 悄然降临	qiao ran jiang lin	100
 悄语	qiao yu	235
 悄默声	qiao mo sheng	118
+悏	qie
+悓	qian
+悭	qian
+悭	qian	408
 悭吝	qian lin	1825
 悭吝苦克	qian lin ku ke	100
 悭贪	qian tan	1950
+悽	qi
+情	qing
+情	qing	387900
 情不可却	qing bu ke que	100
 情不愿	qing bu yuan	100
 情不由衷	qing bu you zhong	100
@@ -12359,35 +12947,70 @@ sort: by_weight
 情面难却	qing mian nan que	100
 情韵	qing yun	4165
 情魔	qing mo	895
+惬	qie
+惬	qie	12404
 惬当	qie dang	1
 惬心	qie xin	165
 惬心贵当	qie xin gui dang	100
 惬怀	qie huai	35
 惬意	qie yi	72345
+惸	qiong
+愀	qiao
+愀	qiao	289
 愀然	qiao ran	680
 愀然不乐	qiao ran bu le	100
 愀然变色	qiao ran bian se	100
 愀然无乐	qiao ran wu le	1
+愆	qian
+愆	qian	437
 愆尤	qian you	310
 愆德隳好	qian de hui hao	1
 愆戾山积	qian li shan ji	1
 愆期	qian qi	520
+愒	qi
+愘	qia
+愜	qie
+愭	qi
+愭	qi	2
+慊	qian
+慊	qian	178
+慊	qie
+慊	qie	178
 慊慊思归恋故乡	qian qian si gui lian gu xiang	1
+慬	qin
+慬	qin	12
+慳	qian
+慶	qing
+慼	qi
+慽	qi
+憇	qi
+憌	qiong
+憔	qiao
+憔	qiao	18746
 憔悴	qiao cui	44905
 憔悴不堪	qiao cui bu kan	1690
 憔悴地	qiao cui de	370
 憔悴支离为忆君	qiao cui zhi li wei yi jun	2
 憔悴的	qiao cui de	10735
 憔神悴力	qiao shen cui li	1
+憩	qi
+憩	qi	3905
 憩园	qi yuan	1
 憩室	qi shi	999
 憩室炎	qi shi yan	1
 憩息	qi xi	2715
 憩息处	qi xi chu	100
+懃	qin
+懄	qin
+懠	qi
+戕	qiang
+戕	qiang	2303
 戕害	qiang hai	2915
 戕害不辜	qiang hai bu gu	100
 戕贼	qiang zei	265
 戕身伐命	qiang shen fa ming	2
+戗	qiang
+戗	qiang	2092
 戗住	qiang zhu	123
 戗堤	qiang di	110
 戗脊	qiang ji	170
@@ -12396,6 +13019,8 @@ sort: by_weight
 戗面大饼	qiang mian da bing	123
 戗面馒头	qiang mian man tou	123
 戗风	qiang feng	10
+戚	qi
+戚	qi	57840
 戚凯罗	qi kai luo	100
 戚友	qi you	3
 戚墅堰	qi shu yan	2725
@@ -12424,10 +13049,20 @@ sort: by_weight
 戚迹	qi ji	9
 戚长征	qi chang zheng	100
 戚风蛋糕	qi feng dan gao	652
+戧	qiang
+扏	qiu
+扦	qian
+扦	qian	438
 扦子	qian zi	170
 扦扦活	qian qian huo	1
 扦插	qian cha	18660
 扦插成活率	qian cha cheng huo lv	100
+扱	qi
+扲	qian
+扲	qin
+抋	qin
+抢	qiang
+抢	qiang	218937
 抢一张	qiang yi zhang	100
 抢七	qiang qi	7
 抢上	qiang shang	7120
@@ -12760,7 +13395,14 @@ sort: by_weight
 抢风航行	qiang feng hang xing	100
 抢食	qiang shi	4364
 抢饭碗	qiang fan wan	1155
+抲	qia
+拑	qian
+拤	qia
+拤	qia	2
 拤着腰	qia zhe yao	3
+拪	qian
+挈	qie
+挈	qie	768
 挈妇将雏	qie fu jiang chu	37
 挈妇携雏	qie fu xie chu	100
 挈妻携子	qie qi xie zi	1
@@ -12773,6 +13415,13 @@ sort: by_weight
 挈眷	qie juan	1
 挈领	qie ling	185
 挈领提纲	qie ling ti gang	100
+挳	qian
+捦	qin
+捿	qi
+掅	qian
+掅	qing
+掐	qia
+掐	qia	2222
 掐丝	qia si	1600
 掐了	qia le	9999
 掐了个	qia le ge	9999
@@ -12821,15 +13470,38 @@ sort: by_weight
 掐表	qia biao	5555
 掐诀	qia jue	370
 掐诀念咒	qia jue nian zhou	100
+掑	qi
+掔	qian
+掮	qian
+掮	qian	625
 掮客	qian ke	275
+揢	qia
+揭	qi
+揵	qian
+揿	qin
+揿	qin	737
 揿下	qin xia	6
 揿纽	qin niu	5
 揿钉	qin ding	5
+搇	qin
+搝	qiu
+搴	qian
+搴	qian	224
 搴旗取将	qian qi qu jiang	1
 搴旗斩将	qian qi zhan jiang	100
 搴旗斩馘	qian qi zhan guo	1
 搴旗虏将	qian qi lu jiang	1
 搴芙蓉兮木末	qian fu rong xi mu mo	1
+搶	qiang
+摖	qi
+摤	qiang
+摪	qiang
+摮	qiao
+摼	qian
+撁	qian
+撍	qian
+撬	qiao
+撬	qiao	6740
 撬一下	qiao yi xia	342
 撬一撬	qiao yi qiao	456
 撬上去	qiao shang qu	100
@@ -12856,6 +13528,10 @@ sort: by_weight
 撬起来	qiao qi lai	100
 撬锁	qiao suo	1440
 撬门	qiao men	2080
+撳	qin
+撽	qiao
+擎	qing
+擎	qing	20931
 擎凤梨	qing feng li	1
 擎天	qing tian	1134
 擎天一柱	qing tian yi zhu	515
@@ -12870,6 +13546,9 @@ sort: by_weight
 擎着	qing zhe	2435
 擎苍牵黄	qing cang qian huang	1
 擎跽曲拳	qing ji qu quan	4
+擏	qing
+擒	qin
+擒	qin	39189
 擒下	qin xia	1250
 擒了	qin le	5555
 擒了他	qin le ta	100
@@ -12902,6 +13581,14 @@ sort: by_weight
 擒贼擒首	qin zei qin shou	100
 擒龙捉虎	qin long zhuo hu	1
 擒龙缚虎	qin long fu hu	1
+擖	qia
+攐	qian
+攑	qian
+攓	qian
+攲	qi
+敧	qi
+敲	qiao
+敲	qiao	148518
 敲一下	qiao yi xia	1987
 敲一敲	qiao yi qiao	960
 敲三家	qiao san jia	10
@@ -13038,6 +13725,13 @@ sort: by_weight
 敲黑板划重点	qiao hei ban hua zhong dian	100
 敲鼓	qiao gu	2060
 敲鼓声	qiao gu sheng	50
+斉	qi
+斊	qi
+斨	qiang
+斳	qin
+旂	qi
+旗	qi
+旗	qi	137444
 旗下	qi xia	169345
 旗下的	qi xia de	80875
 旗下系列	qi xia xi lie	100
@@ -13107,6 +13801,9 @@ sort: by_weight
 旗鼓	qi gu	1740
 旗鼓相当	qi gu xiang dang	6880
 旗鼓相望	qi gu xiang wang	10
+昑	qin
+晴	qing
+晴	qing	147525
 晴丽	qing li	45
 晴了	qing le	1800
 晴云秋月	qing yun qiu yue	100
@@ -13162,6 +13859,13 @@ sort: by_weight
 晴雨表	qing yu biao	12025
 晴雨计	qing yu ji	80
 晴雯	qing wen	2
+晵	qi
+暒	qing
+暣	qi
+朁	qian
+朅	qie
+期	qi
+期	qi	647443
 期不期待呀	qi bu qi dai ya	100
 期不期待啊	qi bu qi dai a	100
 期不期望	qi bu qi wang	100
@@ -13342,6 +14046,11 @@ sort: by_weight
 期限长短	qi xian chang duan	100
 期颐	qi yi	2
 期颐之寿	qi yi zhi shou	100
+朹	qiu
+杄	qian
+杄	qian	20
+杞	qi
+杞	qi	5807
 杞不足征也	qi bu zu zheng ye	1
 杞人	qi ren	745
 杞人之忧	qi ren zhi you	92
@@ -13365,6 +14074,9 @@ sort: by_weight
 杞菊地黄丸	qi ju di huang wan	56
 杞菊地黄口服液	qi ju di huang kou fu ye	2
 杞麓鲤	qi lu li	2
+枝	qi
+枪	qiang
+枪	qiang	424121
 枪下	qiang xia	3200
 枪与玫瑰	qiang yu mei gui	100
 枪之恶魔	qiang zhi e mo	181
@@ -13494,7 +14206,13 @@ sort: by_weight
 枪驳领	qiang bo ling	105
 枪骑兵	qiang qi bing	1400
 枪魂冰子	qiang hun bing zi	100
+柒	qi
+柒	qi	1055
 柒公馆	qi gong guan	100
+栔	qi
+栔	qie
+栖	qi
+栖	qi	20169
 栖冰衔胆	qi bing xian dan	100
 栖凤	qi feng	199
 栖凤楼	qi feng lou	7
@@ -13540,6 +14258,9 @@ sort: by_weight
 栖霞街	qi xia jie	29
 栖霞路	qi xia lu	100
 栖高枝而仰首兮	qi gao zhi er yang shou xi	100
+桏	qiong
+桤	qi
+桤	qi	64
 桤木	qi mu	1
 桤木亚马孙鹦哥	qi mu ya ma sun ying ge	1
 桤木纹霸鹟	qi mu wen ba weng	1
@@ -13548,6 +14269,8 @@ sort: by_weight
 桤木鹦哥	qi mu ying ge	1
 桤林碍日吟风叶	qi lin ai ri yin feng ye	1
 桤泉乡	qi quan xiang	3
+桥	qiao
+桥	qiao	133377
 桥上	qiao shang	40385
 桥下	qiao xia	25985
 桥下面	qiao xia mian	395
@@ -13684,8 +14407,18 @@ sort: by_weight
 桥驿	qiao yi	67
 桥高	qiao gao	1380
 桥龙乡	qiao long xiang	1
+桼	qi
+梂	qiu
+梣	qin	3
+梩	qi
+梫	qin
 梫星尺蛾	qin xing chi e	1
 梫木	qin mu	1
+棄	qi
+棈	qian
+棊	qi
+棋	qi
+棋	qi	94079
 棋下得不好	qi xia de bu hao	100
 棋具	qi ju	9999
 棋力	qi li	4225
@@ -13762,17 +14495,40 @@ sort: by_weight
 棋高一着	qi gao yi zhao	680
 棋鬼王	qi gui wang	130
 棋魂	qi hun	23760
+棨	qi
+棨	qi	35
 棨戟遥临	qi ji yao lin	3
 棨戢遥临	qi ji yao lin	4
+棲	qi
+棾	qing
+椄	qie
+椌	qiang
+椠	qian
+椠	qian	32
 椠本	qian ben	110
+楸	qiu
+楸	qiu	580
 楸木	qiu mu	36
 楸树	qiu shu	638
+榩	qian
+榿	qi
+槍	qiang
+槏	qian
+槗	qiao
+槧	qian
+槭	qi
+槭	qi	160
 槭树	qi shu	1410
 槭糖浆	qi tang jiang	100
+樈	qing
+樯	qiang
+樯	qiang	631
 樯倾楫摧	qiang qing ji cui	100
 樯橹	qiang lu	950
 樯橹灰飞烟灭	qiang lu hui fei yan mie	1180
 樯燕语留人	qiang yan yu liu ren	2
+樵	qiao
+樵	qiao	8689
 樵夫	qiao fu	12630
 樵夫渔夫	qiao fu yu fu	100
 樵客初传汉姓名	qiao ke chu chuan han xing ming	1
@@ -13784,6 +14540,27 @@ sort: by_weight
 樵苏不爨	qiao su bu cuan	100
 樵苏后爨	qiao su hou cuan	3
 樵苏失爨	qiao su shi cuan	1
+橇	qiao
+橇	qiao	1666
+橋	qiao
+橚	qiu
+橩	qiong
+橬	qian
+橾	qiao
+檎	qin
+檎	qin	67
+檠	qing
+檠	qing	159
+檣	qiang
+檱	qi
+檶	qian
+檾	qing
+櫀	qi
+櫏	qian
+櫦	qing
+櫵	qiao
+欠	qian
+欠	qian	85134
 欠下	qian xia	14190
 欠了	qian le	18205
 欠了一屁股债	qian le yi pi gu zhai	100
@@ -13889,10 +14666,16 @@ sort: by_weight
 欠钱门	qian qian men	3
 欠银行	qian yin hang	100
 欠银行钱	qian yin hang qian	100
+欦	qian
+欫	qi
+欹	qi
+欹	qi	370
 欹岸侧岛秋毫末	qi an ce dao qiu hao mo	1
 欹斜	qi xie	2
 欹枕江南烟雨	qi zhen jiang nan yan yu	1
 欹枕风轩客梦长	qi zhen feng xuan ke meng chang	1
+欺	qi
+欺	qi	133789
 欺三瞒四	qi san man si	100
 欺上压下	qi shang ya xia	15
 欺上瞒下	qi shang man xia	3470
@@ -14001,6 +14784,10 @@ sort: by_weight
 欺骗着	qi pian zhe	515
 欺骗者	qi pian zhe	440
 欺骗行为	qi pian xing wei	10280
+欽	qin
+欿	qian
+歉	qian
+歉	qian	100666
 歉仄	qian ze	365
 歉声道	qian sheng dao	100
 歉岁	qian sui	20
@@ -14009,6 +14796,8 @@ sort: by_weight
 歉收	qian shou	2555
 歉然	qian ran	3460
 歉疚	qian jiu	8755
+歧	qi
+歧	qi	26398
 歧义	qi yi	16165
 歧义消解	qi yi xiao jie	48
 歧出	qi chu	345
@@ -14036,6 +14825,17 @@ sort: by_weight
 歧路旅人	qi lu lv ren	100
 歧路灯	qi lu deng	100
 歧途	qi tu	7655
+歬	qian
+殎	qia
+殏	qiu
+殑	qing
+殸	qing
+殻	qiao
+殼	qiao
+毃	qiao
+毬	qiu
+气	qi
+气	qi	3227369
 气一冲	qi yi chong	100
 气不公	qi bu gong	30
 气不平	qi bu ping	90
@@ -14804,6 +15604,9 @@ sort: by_weight
 气鸣乐器	qi ming yue qi	100
 气鼓	qi gu	845
 气鼓鼓	qi gu gu	3860
+気	qi
+氢	qing
+氢	qing	2589
 氢-钾泵	qing jia beng	2
 氢元素	qing yuan su	100
 氢动力燃料电池车	qing dong li ran liao dian chi che	103
@@ -14901,6 +15704,10 @@ sort: by_weight
 氢能重卡	qing neng zhong ka	100
 氢过氧化物	qing guo yang hua wu	150
 氢锂钠钾铷铯钫	qing li na jia ru se fang	100
+氣	qi
+氫	qing
+氰	qing
+氰	qing	605
 氰化	qing hua	2980
 氰化亚铜	qing hua ya tong	100
 氰化氢	qing hua qing	800
@@ -14919,6 +15726,8 @@ sort: by_weight
 氰酸	qing suan	3625
 氰酸盐	qing suan yan	880
 氰钴胺素	qing gu an su	16
+求	qiu
+求	qiu	749849
 求一个心安	qiu yi ge xin an	100
 求一双	qiu yi shuang	100
 求一求	qiu yi qiu	123
@@ -15310,6 +16119,14 @@ sort: by_weight
 求饶	qiu rao	13035
 求马于唐肆	qiu ma yu tang si	5
 求马唐肆	qiu ma tang si	5
+汓	qiu
+汔	qi
+汔	qi	257
+汘	qian
+汧	qian
+汧	qian	87
+汽	qi
+汽	qi	102025
 汽保	qi bao	666
 汽修	qi xiu	18930
 汽修业	qi xiu ye	100
@@ -15741,6 +16558,8 @@ sort: by_weight
 汽锅鸡	qi guo ji	214
 汽锤	qi chui	99
 汽阀	qi fa	890
+沁	qin
+沁	qin	26604
 沁人心肺	qin ren xin fei	725
 沁人心脾	qin ren xin pi	10180
 沁人心腑	qin ren xin fu	100
@@ -15767,15 +16586,21 @@ sort: by_weight
 沁阳县	qin yang xian	19
 沁阳市	qin yang shi	399
 沁雅花园	qin ya hua yuan	13
+沏	qi
+沏	qi	4304
 沏一壶茶	qi yi hu cha	320
 沏了茶	qi le cha	100
 沏壶茶	qi hu cha	650
 沏杯茶	qi bei cha	100
 沏茶	qi cha	5590
+泅	qiu
+泅	qiu	1283
 泅水	qiu shui	1040
 泅水而过	qiu shui er guo	100
 泅泳	qiu yong	230
 泅渡	qiu du	1760
+泣	qi
+泣	qi	77103
 泣下如雨	qi xia ru yu	100
 泣下数行	qi xia shu hang	100
 泣下沾襟	qi xia zhan jin	100
@@ -15801,6 +16626,11 @@ sort: by_weight
 泣诉	qi su	1105
 泣鬼神	qi gui shen	4875
 泣麟悲凤	qi lin bei feng	100
+洓	qi
+洓	qi	1
+洯	qie
+洽	qia
+洽	qia	1111
 洽办	qia ban	255
 洽博多闻	qia bo duo wen	1
 洽商	qia shang	11087
@@ -15820,6 +16650,8 @@ sort: by_weight
 洽闻博见	qia wen bo jian	100
 洽闻强记	qia wen qiang ji	100
 洽闻殚见	qia wen dan jian	100
+浅	qian
+浅	qian	106957
 浅一些	qian yi xie	64
 浅上藤乃	qian shang teng nai	100
 浅两点斜线网蛾	qian liang dian xie xian wang e	1
@@ -16042,6 +16874,10 @@ sort: by_weight
 浅黑野鲮	qian hei ye ling	1
 浅齿黄灰蝶	qian chi huang hui die	1
 浅龋	qian qu	6
+浗	qiu
+淁	qie
+淇	qi
+淇	qi	16379
 淇则有岸	qi ze you an	100
 淇县	qi xian	2
 淇水汤汤	qi shui shang shang	100
@@ -16051,6 +16887,11 @@ sort: by_weight
 淇滨区九州路	qi bin qu jiu zhou lu	10
 淇澳	qi ao	109
 淇澳岛	qi ao dao	102
+淒	qi
+淸	qing
+淺	qian
+清	qing
+清	qing	1568814
 清一下	qing yi xia	88
 清一清	qing yi qing	223
 清一色	qing yi se	25960
@@ -17568,10 +18409,25 @@ sort: by_weight
 清高	qing gao	25440
 清高宗	qing gao zong	74
 清高宗弘历	qing gao zong hong li	100
+渞	qiu
+渹	qing
+湆	qi
+湇	qi
+湫	qiu
+湫	qiu	943
+湬	qiu
+湭	qiu
+溬	qiang
+溱	qin
+溱	qin	301
 溱湖	qin hu	3
 溱湖风景区	qin hu feng jing qu	36
 溱潼古镇	qin tong gu zhen	5
 溱潼镇	qin tong zhen	5
+滊	qi
+漀	qing
+漆	qi
+漆	qi	67629
 漆上	qi shang	1520
 漆上去	qi shang qu	100
 漆出	qi chu	160
@@ -17627,6 +18483,11 @@ sort: by_weight
 漆黑的	qi hei de	25905
 漆黑的子弹	qi hei de zi dan	100
 漆黑鹿角锹形虫	qi hei lu jiao qiao xing chong	1
+漒	qiang
+潐	qiao
+潛	qian
+潜	qian
+潜	qian	151581
 潜上去	qian shang qu	100
 潜上来	qian shang lai	100
 潜下	qian xia	1860
@@ -17871,7 +18732,17 @@ sort: by_weight
 潜龙曼海宁花园	qian long man hai ning hua yuan	1
 潜龙轰天	qian long hong tian	17
 潜龙须待一声雷	qian long xu dai yi sheng lei	3
+澿	qin
+濝	qi
+濪	qing
+濳	qian
+瀙	qin
+灊	qian
+炁	qi
+炁	qi	18920
 炁体源流	qi ti yuan liu	100
+炝	qiang
+炝	qiang	259
 炝冬笋	qiang dong sun	12
 炝土豆丝	qiang tu dou si	71
 炝炒包菜	qiang chao bao cai	2
@@ -17890,6 +18761,23 @@ sort: by_weight
 炝黄瓜	qiang huang gua	89
 炝黄瓜条	qiang huang gua tiao	7
 炝黄瓜衣	qiang huang gua yi	1
+炶	qian
+焏	qi
+焪	qiong
+焭	qiong
+煍	qiao
+煔	qian
+煢	qiong
+煪	qiu
+熍	qiong
+熗	qiang
+燆	qiao
+燋	qiao
+牄	qiang
+牆	qiang
+牫	qiu
+牵	qian
+牵	qian	132558
 牵一下	qian yi xia	100
 牵一发	qian yi fa	100
 牵一发而动全身	qian yi fa er dong quan shen	4825
@@ -18083,11 +18971,32 @@ sort: by_weight
 牵马到河易	qian ma dao he yi	100
 牵鬼上剑	qian gui shang jian	1
 牵黄臂苍	qian huang bi cang	100
+牽	qian
+犍	qian
+犍	qian	1
 犍为	qian wei	2
 犍为县	qian wei xian	2
 犍为郡	qian wei jun	2
+犞	qiao
+犰	qiu
+犰	qiu	551
 犰狳	qiu yu	835
 犰狳科	qiu yu ke	100
+猉	qi
+猐	qiang
+猰	qie
+獇	qiang
+玂	qi
+玌	qiu
+玘	qi
+玘	qi	79
+玪	qian
+玱	qiang
+玱	qiang	58
+珡	qin
+琁	qiong
+球	qiu
+球	qiu	673782
 球不落地	qiu bu luo di	102
 球传给我	qiu chuan gei wo	100
 球体	qiu ti	21850
@@ -18287,7 +19196,11 @@ sort: by_weight
 球馆	qiu guan	5555
 球麻痹	qiu ma bi	4
 球龄	qiu ling	2580
+琦	qi
+琦	qi	26016
 琦琦	qi qi	545
+琪	qi
+琪	qi	83147
 琪娅拉	qi ya la	144
 琪林苏井	qi lin su jing	3
 琪琪	qi qi	2707
@@ -18295,6 +19208,8 @@ sort: by_weight
 琪花玉树	qi hua yu shu	2
 琪花瑶草	qi hua yao cao	100
 琪雅思	qi ya si	1
+琴	qin
+琴	qin	161113
 琴·葛雷	qin ge lei	100
 琴乃	qin nai	3
 琴书	qin shu	3260
@@ -18374,6 +19289,9 @@ sort: by_weight
 琴音	qin yin	9360
 琴韵	qin yun	3445
 琴颈	qin jing	3835
+琹	qin
+琼	qiong
+琼	qiong	49778
 琼中	qiong zhong	367
 琼中县	qiong zhong xian	129
 琼中黎族苗族自治县	qiong zhong li zu miao zu zi zhi xian	455
@@ -18452,10 +19370,38 @@ sort: by_weight
 琼酱和乐蟹	qiong jiang he le xie	3
 琼阿梅尼	qiong a mei ni	100
 琼麻	qiong ma	240
+瑲	qiang
+璂	qi
+璆	qiu
+璆	qiu	40
 璆锵鸣兮琳琅	qiu qiang ming xi lin lang	2
+璚	qiong
+瓊	qiong
+瓗	qiong
+甈	qi
+甠	qing
+畁	qi
+畦	qi
+畦	qi	861
 畦灌	qi guan	420
 畦田	qi tian	1999
 畦蔬绕舍秋	qi shu rao she qiu	1
+疆	qiang
+疌	qie
+疧	qi
+瘽	qin
+癄	qiao
+癿	qie
+皘	qian
+皳	qiu
+盀	qi
+盚	qiu
+盵	qi
+睄	qiao
+睘	qiong
+瞏	qiong
+瞧	qiao
+瞧	qiao	180832
 瞧一下	qiao yi xia	476
 瞧一眼	qiao yi yan	1150
 瞧一瞧	qiao yi qiao	3075
@@ -18522,6 +19468,14 @@ sort: by_weight
 瞧起来	qiao qi lai	111
 瞧过	qiao guo	1530
 瞧这	qiao zhe	5975
+矜	qin
+矜	qin	0
+矝	qin
+矵	qi
+矼	qiang
+砌	qi
+砌	qi	11088
+砌	qie
 砌下落梅如雪乱	qi xia luo mei ru xue luan	1
 砌体	qi ti	10995
 砌体结构	qi ti jie gou	4275
@@ -18542,20 +19496,51 @@ sort: by_weight
 砌红堆绿	qi hong dui lv	1
 砌词捏控	qi ci nie kong	100
 砌高	qi gao	77
+硈	qia
+硗	qiao
+硗	qiao	154
 硗确	qiao que	1
 硗确不毛	qiao que bu mao	100
 硗碛乡	qiao qi xiang	69
 硗薄	qiao bo	2
+硘	qing
+硚	qiao
+硚	qiao	17
 硚口区	qiao kou qu	100
 硚口区法院	qiao kou qu fa yuan	170
 硚口镇	qiao kou zhen	1
+碁	qi
 碁山乡	qi shan xiang	1
 碁山镇	qi shan zhen	4
+碃	qing
+碃	qing	32
+碕	qi
+碛	qi
+碛	qi	311
 碛口	qi kou	2245
 碛楞乡	qi leng xiang	1
+碶	qi
+碶	qi	2
+碻	qiao
+磍	qia
+磏	qian
+磏	qian	1
+磜	qi
+磜	qi	5
+磝	qiao
+磧	qi
+磩	qi
+磬	qing
+磬	qing	1448
 磬声	qing sheng	2
 磬石	qing shi	9
 磬苑校区	qing yuan xiao qu	100
+磽	qiao
+礄	qiao
+礉	qiao
+礘	qi
+祁	qi
+祁	qi	25566
 祁东县	qi dong xian	1305
 祁剧	qi ju	206
 祁县	qi xian	2
@@ -18605,8 +19590,12 @@ sort: by_weight
 祁阳	qi yang	5925
 祁阳县	qi yang xian	3095
 祁顺	qi shun	18
+祇	qi
+祇	qi	1477
 祇园	qi yuan	2
 祇园精舍	qi yuan jing she	100
+祈	qi
+祈	qi	47360
 祈仙台	qi xian tai	100
 祈使句	qi shi ju	2280
 祈使语气	qi shi yu qi	155
@@ -18662,8 +19651,13 @@ sort: by_weight
 祈雨	qi yu	3715
 祈雪灵祝	qi xue ling zhu	187
 祈风石刻群	qi feng shi ke qun	5
+祺	qi
+祺	qi	7841
 祺瑞	qi rui	5940
 祺贵人	qi gui ren	113
+禥	qi
+禽	qin
+禽	qin	20600
 禽业	qin ye	4590
 禽兽	qin shou	35745
 禽兽不如	qin shou bu ru	2995
@@ -18689,6 +19683,8 @@ sort: by_weight
 禽肉	qin rou	10875
 禽蛋	qin dan	18830
 禽鸟	qin niao	6300
+秋	qiu
+秋	qiu	352446
 秋不干	qiu bu gan	100
 秋丛绕舍似陶家	qiu cong rao she si tao jia	2
 秋之回忆	qiu zhi hui yi	1565
@@ -19068,6 +20064,9 @@ sort: by_weight
 秋高气肃	qiu gao qi su	100
 秋高马肥	qiu gao ma fei	100
 秋鸿	qiu hong	995
+秌	qiu
+秦	qin
+秦	qin	381190
 秦七黄九	qin qi huang jiu	1
 秦丞相	qin cheng xiang	100
 秦中	qin zhong	3805
@@ -19378,12 +20377,20 @@ sort: by_weight
 秦鬟妆镜	qin huan zhuang jing	1
 秦鸣雷	qin ming lei	54
 秦鹏飞	qin peng fei	339
+稘	qi
+稧	qie
+稽	qi
+稽	qi	1
 稽颡泣血	qi sang qi xie	100
 稽颡泣血	qi sang qi xue	100
 稽首	qi shou	564
 稽首再拜	qi shou zai bai	23
 稽首称臣	qi shou cheng chen	100
 稽首行礼	qi shou xing li	100
+穐	qiu
+穕	qie
+穷	qiong
+穷	qiong	138792
 穷三代	qiong san dai	100
 穷不啦唧	qiong bu la ji	1
 穷不啦唧的	qiong bu la ji de	100
@@ -19659,6 +20666,8 @@ sort: by_weight
 穷鸟投人	qiong niao tou ren	1
 穷鸟触笼	qiong niao chu long	1
 穷鼠啮狸	qiong shu nie li	100
+穹	qiong
+穹	qiong	16599
 穹之扉	qiong zhi fei	100
 穹天	qiong tian	180
 穹天追月斧	qiong tian zhui yue fu	1
@@ -19673,6 +20682,8 @@ sort: by_weight
 穹顶之上	qiong ding zhi shang	100
 穹顶之下	qiong ding zhi xia	100
 穹顶守护者	qiong ding shou hu zhe	100
+窃	qie
+窃	qie	47730
 窃·格瓦拉	qie ge wa la	111
 窃为大王不取也	qie wei da wang bu qu ye	1
 窃为陛下不	qie wei bi xia bu	1
@@ -19744,10 +20755,26 @@ sort: by_weight
 窃钩者诛	qie gou zhe zhu	380
 窃食	qie shi	55
 窃鹿毛鸟	qie lu mao niao	1
+窍	qiao
+窍	qiao	26141
 窍角沱	qiao jiao tuo	7
 窍门	qiao men	4039
 窍门儿	qiao men er	155
+窮	qiong
+竅	qiao
+竆	qiong
+竊	qie
+竏	qian
+竐	qi
+竒	qi
+笉	qin
+笡	qie
+笻	qiong
+筇	qiong
+筇	qiong	776
 筇竹	qiong zhu	1
+签	qian
+签	qian	102159
 签一下字	qian yi xia zi	339
 签一个	qian yi ge	90
 签一份	qian yi fen	66
@@ -19956,21 +20983,70 @@ sort: by_weight
 签退	qian tui	650
 签退码	qian tui ma	100
 签长约	qian chang yue	100
+箐	qing
+箐	qing	6828
 箐河傈僳族乡	qing he li su zu xiang	2
+箝	qian
+箧	qie
+箧	qie	452
+箾	qiao
+篋	qie
+篍	qiu
+篏	qian
+篟	qian
+篬	qiang
+簯	qi
+簱	qi
+簽	qian
+籏	qi
+籖	qian
+籡	qie
+籤	qian
+粁	qian
+粸	qi
+糗	qiu
+糗	qiu	5197
 糗事	qiu shi	25555
 糗事百科	qiu shi bai ke	320
 糗大了	qiu da le	100
 糗粮	qiu liang	110
+紌	qiu
+紪	qi
+絿	qiu
+綅	qin
+綥	qi
+綦	qi
+綦	qi	1029
 綦村镇	qi cun zhen	5
 綦江	qi jiang	1
 綦江区	qi jiang qu	5
 綦江县	qi jiang xian	4445
 綦江县人民政府	qi jiang xian ren min zheng fu	2
 綦溪利跂	qi xi li qi	2
+綨	qi
+綪	qian
+綪	qing
+綮	qi
+綮	qing
+綮	qing	938
+綺	qi
+緀	qi
+緝	qi
+緧	qiu
+縴	qian
+繈	qiang
+繑	qiao
+繦	qiang
+繰	qiao
+繾	qian
+纤	qian
+纤	qian	1000
 纤夫	qian fu	3685
 纤夫们	qian fu men	111
 纤夫的爱	qian fu de ai	100
 纤绳	qian sheng	775
+绮	qi
+绮	qi	23912
 绮丽	qi li	5530
 绮丽之歌	qi li zhi ge	100
 绮丽多彩	qi li duo cai	10
@@ -19998,17 +21074,28 @@ sort: by_weight
 绮襦纨绔	qi ru wan ku	1
 绮陌乡	qi mo xiang	6
 绮靡	qi mi	1
+缉	qi
+缉	qi	1
 缉边儿	qi bian er	1
 缉鞋口	qi xie kou	1
+缱	qian
+缱	qian	1080
 缱绻	qian quan	6300
 缱绻羡爱	qian quan xian ai	1
 缱绻难舍	qian quan nan she	100
+缲	qiao
+缲	qiao	14
+罄	qing
+罄	qing	1796
 罄南山之竹	qing nan shan zhi zhu	100
 罄尽	qing jin	670
 罄竹难书	qing zhu nan shu	2220
 罄竹难穷	qing zhu nan qiong	1
 罄笔难书	qing bi nan shu	100
 罄身儿	qing shen er	100
+罊	qi
+羌	qiang
+羌	qiang	7900
 羌人	qiang ren	325
 羌历年	qiang li nian	189
 羌塘	qiang tang	340
@@ -20034,6 +21121,9 @@ sort: by_weight
 羌芳华自中出	qiang fang hua zi zhong chu	1
 羌语	qiang yu	69
 羌饼	qiang bing	980
+羗	qiang
+羟	qiang
+羟	qiang	106
 羟丁酸钠	qiang ding suan na	2
 羟丙基淀粉	qiang bing ji dian fen	32
 羟丙基淀粉醚	qiang bing ji dian fen mi	15
@@ -20084,6 +21174,12 @@ sort: by_weight
 羟赖氨酸	qiang lai an suan	70
 羟醛	qiang quan	30
 羟钴胺素	qiang gu an su	15
+羥	qiang
+羫	qiang
+羬	qian
+羻	qiang
+翘	qiao
+翘	qiao	37030
 翘一翘	qiao yi qiao	123
 翘上去	qiao shang qu	100
 翘上来	qiao shang lai	100
@@ -20156,6 +21252,9 @@ sort: by_weight
 翘高高	qiao gao gao	1111
 翘鳞蛤	qiao lin ge	1
 翘鼻华象白蚁	qiao bi hua xiang bai yi	1
+翹	qiao
+耆	qi
+耆	qi	2666
 耆儒	qi ru	110
 耆儒硕德	qi ru shuo de	100
 耆儒硕望	qi ru shuo wang	100
@@ -20173,6 +21272,16 @@ sort: by_weight
 耆那教	qi na jiao	1455
 耆阇崛山	qi she jue shan	100
 耆鹿逐痹口服液	qi lu zhu bi kou fu ye	3
+耹	qin
+聺	qie
+肍	qiu
+肣	qin
+肵	qi
+肷	qian
+肷	qian	63
+胢	qia
+脐	qi
+脐	qi	5200
 脐下悸	qi xia ji	3
 脐孔宽带瓷螺	qi kong kuan dai ci luo	1
 脐孔白玉螺	qi kong bai yu luo	1
@@ -20192,6 +21301,8 @@ sort: by_weight
 脐部	qi bu	4650
 脐钉	qi ding	5
 脐静脉	qi jing mai	34
+腔	qiang
+腔	qiang	58166
 腔上囊	qiang shang nang	9
 腔体	qiang ti	5350
 腔内	qiang nei	1931
@@ -20223,9 +21334,24 @@ sort: by_weight
 腔骨	qiang gu	380
 腔齿海底水虱	qiang chi hai di shui shi	1
 腔齿犀属	qiang chi xi shu	1
+膁	qian
+臍	qi
+臤	qian
+舼	qiong
+艢	qiang
+艩	qi
+艽	qiu
+芁	qiu
+芊	qian
+芊	qian	20334
 芊域阳光	qian yu yang guang	148
 芊绵	qian mian	1
 芊芊	qian qian	2
+芑	qi
+芑	qi	2497
+芞	qi
+芡	qian
+芡	qian	542
 芡实	qian shi	103
 芡实果	qian shi guo	11
 芡实猪肚汤	qian shi zhu du tang	6
@@ -20234,9 +21360,13 @@ sort: by_weight
 芡实糕	qian shi gao	1180
 芡汁	qian zhi	3789
 芡粉	qian fen	800
+芩	qin
+芩	qin	542
 芩连四物汤	qin lian si wu tang	2
 芩连片	qin lian pian	3
 芩黄喉症胶囊	qin huang hou zheng jiao nang	1
+芪	qi
+芪	qi	778
 芪仙补肾胶囊	qi xian bu shen jiao nang	8
 芪参胶囊	qi shen jiao nang	3
 芪参虫草酒	qi shen chong cao jiu	3
@@ -20250,6 +21380,8 @@ sort: by_weight
 芪蛭通络胶囊	qi zhi tong luo jiao nang	2
 芪蛭降糖胶囊	qi zhi jiang tang jiao nang	1
 芪龙通络胶囊	qi long tong luo jiao nang	8
+芹	qin
+芹	qin	28424
 芹叶无瑕玉	qin ye wu xia yu	1
 芹山	qin shan	5
 芹峪口	qin yu kou	7
@@ -20269,7 +21401,12 @@ sort: by_weight
 芹菜虱目鱼粥	qin cai shi mu yu zhou	1
 芹黄烧鱼条	qin huang shao yu tiao	1
 芹黄鱼丝	qin huang yu si	4
+苆	qie
+苘	qing
+苘	qing	65
 苘麻	qing ma	2
+茄	qie
+茄	qie	16373
 茄二十八星瓢虫	qie er shi ba xing piao chong	100
 茄团	qie tuan	10
 茄子	qie zi	57875
@@ -20333,6 +21470,8 @@ sort: by_weight
 茄蓝丹纱	qie lan dan sha	1
 茄鲞	qie xiang	1
 茄黄斑螟蛾	qie huang ban ming e	1
+茕	qiong
+茕	qiong	1249
 茕独鳏寡	qiong du guan gua	1
 茕茕	qiong qiong	1110
 茕茕在疚	qiong qiong zai jiu	1
@@ -20340,6 +21479,8 @@ sort: by_weight
 茕茕孤立	qiong qiong gu li	100
 茕茕无依	qiong qiong wu yi	1
 茕茕白兔	qiong qiong bai tu	1340
+茜	qian
+茜	qian	45676
 茜屋日海夏	qian wu ri hai xia	2
 茜红	qian hong	3
 茜膏红	qian gao hong	1
@@ -20351,8 +21492,12 @@ sort: by_weight
 茜草属	qian cao shu	100
 茜草科	qian cao ke	575
 茜草街道	qian cao jie dao	13
+茾	qian
+荍	qiao
 荍坝乡	qiao ba xiang	8
 荍坝镇	qiao ba zhen	8
+荞	qiao
+荞	qiao	1425
 荞串	qiao chuan	6
 荞凉粉	qiao liang fen	104
 荞剁面	qiao duo mian	27
@@ -20380,17 +21525,47 @@ sort: by_weight
 荞麦面扒糕	qiao mai mian pa gao	4
 荞麦饭	qiao mai fan	67
 荞麦饼	qiao mai bing	12
+荠	qi
+荠	qi	1
+荨	qian
+荨	qian	527
 荨麻	qian ma	2140
 荨麻属	qian ma shu	100
 荨麻目	qian ma mu	100
 荨麻科	qian ma ke	100
+莍	qiu
+菣	qin
+菦	qin
+菬	qiao
+菳	qin
+萁	qi
+萁	qi	661
 萁在釜下燃	qi zai fu xia ran	1180
+萋	qi
+萋	qi	2776
 萋斐成锦	qi fei cheng jin	1
 萋斐贝锦	qi fei bei jin	100
 萋菲贝锦	qi fei bei jin	2
 萋萋	qi qi	5595
 萋萋满别情	qi qi man bie qing	1180
 萋萋芳草	qi qi fang cao	100
+萕	qi
+萩	qiu
+萩	qiu	137
+葜	qia
+葜	qia	1
+葝	qing
+葥	qian
+葺	qi
+葺	qi	1253
+蒨	qian
+蒨	qian	48
+蓲	qiu
+蔃	qiang
+蔃	qiang	1
+蔳	qian
+蔷	qiang
+蔷	qiang	14896
 蔷薇	qiang wei	34690
 蔷薇三节叶蜂	qiang wei san jie ye feng	6
 蔷薇之心	qiang wei zhi xin	134
@@ -20422,12 +21597,30 @@ sort: by_weight
 蔷薇路	qiang wei lu	15
 蔷薇阁	qiang wei ge	100
 蔷薇骑士	qiang wei qi shi	98
+蕁	qian
+蕉	qiao
+蕎	qiao
+蕲	qi
+蕲	qi	937
 蕲州	qi zhou	2
 蕲春	qi chun	4740
 蕲春县	qi chun xian	2150
 蕲求	qi qiu	1
 蕲蛇酶注射液	qi she mei zhu she ye	3
+薔	qiang
+薺	qi
+藄	qi
+藑	qiong
 藑茅	qiong mao	1
+藒	qi
+藭	qiong
+藮	qiao
+藽	qin
+蘄	qi
+蘒	qiu
+蘠	qiang
+虔	qian
+虔	qian	15826
 虔信	qian xin	1265
 虔信主义	qian xin zhu yi	100
 虔信派	qian xin pai	100
@@ -20439,6 +21632,8 @@ sort: by_weight
 虔诚光环	qian cheng guang huan	3
 虔诚地	qian cheng de	8350
 虔诚的	qian cheng de	27660
+虬	qiu
+虬	qiu	7518
 虬曲挺秀	qiu qu ting xiu	100
 虬枝	qiu zhi	1605
 虬枝飞鹤	qiu zhi fei he	2
@@ -20453,14 +21648,38 @@ sort: by_weight
 虬髯	qiu ran	3050
 虬髯客	qiu ran ke	1210
 虬龙	qiu long	2120
+虯	qiu
+蚈	qian
+蚑	qi
+蚔	qi
+蚙	qian
+蚙	qin
+蚚	qi
+蚯	qiu
+蚯	qiu	3554
 蚯蚓	qiu yin	31590
 蚯蚓洞	qiu yin dong	100
 蚯蚓降龙	qiu yin xiang long	1
+蛩	qiong
+蛩	qiong	340
 蛩蠊	qiong lian	1
+蛪	qie
+蛬	qiong
+蛴	qi
+蛴	qi	136
 蛴螬	qi cao	1495
+蛷	qiu
+蜝	qi
+蜞	qi
+蜞	qi	1940
+蜣	qiang
+蜣	qiang	77
 蜣螂	qiang lang	935
 蜣螂抱粪	qiang lang bao fen	1
 蜣螂转丸	qiang lang zhuan wan	5
+蜸	qian
+蜻	qing
+蜻	qing	7088
 蜻蛉目	qing ling mu	100
 蜻蜓	qing ting	30655
 蜻蜓之矛斑蟌	qing ting zhi mao ban cong	1
@@ -20472,9 +21691,24 @@ sort: by_weight
 蜻蜓队长	qing ting dui zhang	100
 蜻蜓飞上玉搔头	qing ting fei shang yu sao tou	1
 蜻蜻蜓	qing qing ting	100
+蝤	qiu
+蝤	qiu	124
 蝤蛴	qiu qi	645
+蝵	qiu
+螇	qi
+螓	qin
+螓	qin	1
 螓首	qin shou	111
 螓首蛾眉	qin shou e mei	1180
+螧	qi
+螼	qin
+蟗	qiu
+蟿	qi
+蠄	qin
+蠐	qi
+蠤	qiu
+衾	qin
+衾	qin	1359
 衾何以堪	qin he yi kan	182
 衾余枕剩	qin yu zhen sheng	100
 衾寒枕冷	qin han zhen leng	100
@@ -20482,7 +21716,12 @@ sort: by_weight
 衾影无惭	qin ying wu can	100
 衾影无愧	qin ying wu kui	100
 衾影独对	qin ying du dui	100
+袳	qi
+袷	qia
+袷	qia	1
 袷袢	qia pan	1
+裘	qiu
+裘	qiu	9991
 裘佳宁	qiu jia ning	100
 裘先生	qiu xian sheng	100
 裘克靓仔	qiu ke liang zai	100
@@ -20507,20 +21746,54 @@ sort: by_weight
 裘马轻狂	qiu ma qing kuang	2
 裘马轻肥	qiu ma qing fei	1
 裘马颇清狂	qiu ma po qing kuang	3
+褀	qi
+褄	qi
+褰	qian
+褰	qian	99
 褰帷露冕	qian wei lu mian	1
 褰幕娇红	qian mu jiao hong	1
 褰裳濡足	qian chang ru zu	2
 褰鼻蛇	qian bi she	12
+襁	qiang
+襁	qiang	2036
 襁褓	qiang bao	11975
 襁褓期	qiang bao qi	130
+覃	qin
+覃	qin	5474
 覃塘	qin tang	3
 覃塘区	qin tang qu	630
 覃塘毛尖	qin tang mao jian	2
 覃欢喜	qin huan xi	184
+親	qin
+親	qing
+觓	qiu
+觩	qiu
+觭	qi
+訄	qiu
+訄	qiu	5
+訅	qiu
+訖	qi
+誚	qiao
+誛	qin
+諆	qi
+請	qing
+諐	qian
+諬	qi
+謒	qiang
+謙	qian
+謦	qing
 謦咳	qing ke	95
 謦咳相闻	qing ke xiang wen	100
+譙	qiao
+譴	qian
+讫	qi
+讫	qi	1527
 讫情尽意	qi qing jin yi	1
+诮	qiao
+诮	qiao	1506
 诮呵	qiao he	1
+请	qing
+请	qing	8563750
 请一上午	qing yi shang wu	100
 请一上午假	qing yi shang wu jia	100
 请一下	qing yi xia	84
@@ -21304,6 +22577,8 @@ sort: by_weight
 请骄傲	qing jiao ao	301
 请高手	qing gao shou	100
 请麻烦	qing ma fan	100
+谦	qian
+谦	qian	65522
 谦以下士	qian yi xia shi	1
 谦光自抑	qian guang zi yi	1
 谦冲	qian chong	2
@@ -21359,6 +22634,8 @@ sort: by_weight
 谦逊的态度	qian xun de tai du	100
 谦逊稳重	qian xun wen zhong	100
 谦顺	qian shun	245
+谯	qiao
+谯	qiao	1914
 谯周	qiao zhou	12
 谯周独笑	qiao zhou du xiao	100
 谯城	qiao cheng	255
@@ -21367,10 +22644,19 @@ sort: by_weight
 谯琉村	qiao liu cun	1
 谯纵	qiao zong	2
 谯郡	qiao jun	15
+谴	qian
+谴	qian	12039
 谴谪	qian zhe	1
 谴责	qian ze	59615
 谴责小说	qian ze xiao shuo	100
 谴责者	qian ze zhe	80
+谸	qian
+豈	qi
+賕	qiu
+赇	qiu
+赇	qiu	30
+起	qi
+起	qi	5819918
 起一个	qi yi ge	100
 起不了	qi bu liao	6790
 起不了作用	qi bu liao zuo yong	100
@@ -21967,14 +23253,31 @@ sort: by_weight
 起高楼	qi gao lou	122
 起高球	qi gao qiu	100
 起鸡皮疙瘩	qi ji pi ge da	3375
+赹	qiong
+赾	qin
+趄	qie
+趄	qie	4866
+趞	qi
+趥	qiu
+趫	qiao
+趬	qiao
+跂	qi
+跂	qi	4067
 跂行喘息	qi xing chuan xi	1
 跂行喙息	qi xing hui xi	1
 跂行蠕动	qi xing ru dong	2
+跄	qiang
+跄	qiang	20209
 跄跄	qiang qiang	605
 跄跄踉踉	qiang qiang liang liang	185
 跄踉	qiang liang	3333
+跒	qia
+跙	qie
+跫	qiong
 跫然	qiong ran	1
 跫音	qiong yin	1
+跷	qiao
+跷	qiao	12194
 跷个二郎腿	qiao ge er lang tui	5330
 跷二郎腿	qiao er lang tui	100
 跷来跷去	qiao lai qiao qu	100
@@ -21987,10 +23290,27 @@ sort: by_weight
 跷跷板	qiao qiao ban	3425
 跷蹊	qiao qi	1
 跷蹊作怪	qiao qi zuo guai	1
+踍	qiao
+踥	qie
+踦	qi
+蹊	qi
+蹊	qi	10230
 蹊跷	qi qiao	14615
 蹊跷之处	qi qiao zhi chu	1111
 蹊跷事	qi qiao shi	1111
 蹊跷作怪	qi qiao zuo guai	1
+蹌	qiang
+蹡	qiang
+蹺	qiao
+蹻	qiao
+躈	qiao
+軝	qi
+軡	qian
+軽	qing
+輕	qing
+輤	qian
+轻	qing
+轻	qing	1720467
 轻一些	qing yi xie	62
 轻一点	qing yi dian	3730
 轻与重	qing yu zhong	100
@@ -22689,6 +24009,8 @@ sort: by_weight
 轻骑简从	qing qi jian cong	111
 轻骨头	qing gu tou	100
 轻鸡爱鹜	qing ji ai wu	1
+迁	qian
+迁	qian	64084
 迁上去	qian shang qu	100
 迁上来	qian shang lai	100
 迁下去	qian xia qu	100
@@ -22808,6 +24130,8 @@ sort: by_weight
 迁飞	qian fei	99
 迁飞昆虫	qian fei kun chong	1
 迁飞粉蝶	qian fei fen die	1
+迄	qi
+迄	qi	6616
 迄今	qi jin	61500
 迄今为止	qi jin wei zhi	78445
 迄今为止最	qi jin wei zhi zui	100
@@ -22824,11 +24148,19 @@ sort: by_weight
 迄无音讯	qi wu yin xun	100
 迄未成功	qi wei cheng gong	1
 迄未见效	qi wei jian xiao	100
+迉	qi
+逎	qiu
+逑	qiu
+逑	qiu	952
+遒	qiu
+遒	qiu	1272
 遒健	qiu jian	3
 遒劲	qiu jing	5450
 遒劲有力	qiu jing you li	590
 遒媚	qiu mei	250
 遒文壮节	qiu wen zhuang jie	1
+遣	qian
+遣	qian	51164
 遣下去	qian xia qu	100
 遣人	qian ren	6645
 遣使	qian shi	16090
@@ -22862,12 +24194,18 @@ sort: by_weight
 遣送回	qian song hui	100
 遣送回国	qian song hui guo	925
 遣闷	qian men	190
+遷	qian
+邔	qi
+邛	qiong
+邛	qiong	971
 邛崃	qiong lai	6975
 邛崃县	qiong lai xian	125
 邛崃山	qiong lai shan	100
 邛崃山脉	qiong lai shan mai	100
 邛崃市	qiong lai shi	3870
 邛海湿地	qiong hai shi di	100
+邱	qiu
+邱	qiu	37273
 邱会作	qiu hui zuo	580
 邱先生	qiu xian sheng	100
 邱关源	qiu guan yuan	175
@@ -22921,9 +24259,20 @@ sort: by_weight
 邱金元	qiu jin yuan	100
 邱震海	qiu zhen hai	136
 邱颖欣	qiu ying xin	100
+郄	qie
+郄	qie	95
 郄穴	qie xue	2
 郄门	qie men	2
 郄马镇	qie ma zhen	192
+郪	qi
+郪	qi	9
+郬	qing
+郻	qiao
+鄡	qiao
+鄥	qiao
+鄿	qi
+酋	qiu
+酋	qiu	9128
 酋长	qiu zhang	36140
 酋长制度	qiu zhang zhi du	100
 酋长吸蜜鹦鹉	qiu zhang xi mi ying wu	1
@@ -22935,14 +24284,56 @@ sort: by_weight
 酋长的男人	qiu zhang de nan ren	100
 酋长队	qiu zhang dui	100
 酋雷姆	qiu lei mu	100
+酠	qia
+醔	qiu
+釚	qiu
+釥	qiao
+釮	qi
+釺	qian
+釻	qiu
+鈆	qian
+鈐	qian
+鈙	qin
+鈫	qin
+鉗	qian
+鉛	qian
+銎	qiong
+銎	qiong	252
+銭	qian
+銶	qiu
+鋟	qin
+錆	qing
+錡	qi
+錢	qian
+鍥	qie
+鍫	qiao
+鍬	qiao
+鎆	qian
+鎗	qiang
+鏒	qiao
+鏘	qiang
+鏚	qi
+鏲	qian
+鏹	qiang
+鐈	qiao
+鐑	qi
+鐰	qiao
+鑋	qing
+鑓	qian
+钎	qian
+钎	qian	863
 钎子	qian zi	1412
 钎杆	qian gan	980
 钎焊	qian han	6590
 钎焊机	qian han ji	300
+钤	qian
+钤	qian	656
 钤印	qian yin	3870
 钤盖	qian gai	3
 钤记	qian ji	3
 钤阳管理处	qian yang guan li chu	1
+钦	qin
+钦	qin	36673
 钦仰	qin yang	955
 钦佩	qin pei	29865
 钦佩的	qin pei de	4880
@@ -22993,6 +24384,8 @@ sort: by_weight
 钦赞	qin zan	40
 钦迟	qin chi	2
 钦迪龙	qin di long	3
+钱	qian
+钱	qian	1034329
 钱七虎	qian qi hu	196
 钱万里	qian wan li	2
 钱三强	qian san qiang	402
@@ -23262,6 +24655,8 @@ sort: by_weight
 钱飞了	qian fei le	1111
 钱鼎铭	qian ding ming	4
 钱鼠	qian shu	1734
+钳	qian
+钳	qian	9039
 钳丝尾螋	qian si wei sou	1
 钳住	qian zhu	1485
 钳击	qian ji	3
@@ -23291,6 +24686,8 @@ sort: by_weight
 钳足近人面蟹	qian zu jin ren mian xie	1
 钳钩蛾	qian gou e	1
 钳马衔枚	qian ma xian mei	100
+铅	qian
+铅	qian	14443
 铅与火	qian yu huo	545
 铅丝	qian si	1885
 铅中毒	qian zhong du	6595
@@ -23386,9 +24783,19 @@ sort: by_weight
 铅锤线	qian chui xian	3
 铅顶小霸鹟	qian ding xiao ba weng	1
 铅黄	qian huang	2
+锓	qin
+锓	qin	74
+锖	qiang
+锖	qiang	35
 锖色	qiang se	1
+锜	qi
+锜	qi	200
+锲	qie
+锲	qie	2139
 锲刻	qie ke	2
 锲而不舍	qie er bu she	19255
+锵	qiang
+锵	qiang	8532
 锵然有声	qiang ran you sheng	100
 锵的	qiang de	1111
 锵的一声	qiang de yi sheng	11
@@ -23397,17 +24804,34 @@ sort: by_weight
 锵锵	qiang qiang	5055
 锵锵三人行	qiang qiang san ren xing	100
 锵锵行天下	qiang qiang xing tian xia	100
+锹	qiao
+锹	qiao	4077
 锹农炮虫	qiao nong pao chong	100
 锹峪乡	qiao yu xiang	3
 锹形虫	qiao xing chong	310
 锹甲	qiao jia	150
 锹镢	qiao jue	2
+镪	qiang
+镪	qiang	324
 镪水	qiang shui	170
+闙	qi
+阡	qian
+阡	qian	899
 阡陌	qian mo	6620
 阡陌交通	qian mo jiao tong	100
 阡陌纵横	qian mo zong heng	1700
+陗	qiao
+陭	qi
+隑	qi
+雀	qiao
+雀	qiao	1
 雀子	qiao zi	530
 雀盲眼	qiao mang yan	45
+雂	qin
+霋	qi
+靑	qing
+青	qing
+青	qing	914968
 青专	qing zhuan	1137
 青丘	qing qiu	111
 青丘狐传说	qing qiu hu chuan shuo	100
@@ -24746,6 +26170,14 @@ sort: by_weight
 青龙项链	qing long xiang lian	1
 青𬞟之末	qing pin zhi mo	100
 青𬶏	qing wei	1
+靘	qing
+靬	qian	33
+靲	qin
+鞐	qia
+鞒	qiao
+鞒	qiao	83
+鞘	qiao
+鞘	qiao	24815
 鞘中	qiao zhong	1440
 鞘内注射	qiao nei zhu she	5
 鞘圆沫蝉	qiao yuan mo chan	1
@@ -24758,20 +26190,51 @@ sort: by_weight
 鞘翅目蚁形甲科	qiao chi mu yi xing jia ke	1
 鞘膜	qiao mo	5
 鞘膜积液	qiao mo ji ye	37
+鞦	qiu
+鞧	qiu
+鞧	qiu	11
+鞩	qiao
+鞽	qiao
+韆	qian
+韒	qiao
+頃	qing
+頄	qiu
+頎	qi
+頝	qiao
+顅	qian
+顉	qin
+顦	qiao
+顷	qing
+顷	qing	20103
 顷之	qing zhi	1
 顷刻	qing ke	12690
 顷刻之间	qing ke zhi jian	4940
 顷刻间	qing ke jian	16080
+颀	qi
+颀	qi	4370
 颀伟	qi wei	1
 颀然而长	qi ran er chang	1
 颀长	qi chang	4310
+駸	qin
+騎	qi
+騏	qi
+騚	qian
+騝	qian
+騫	qian
+騹	qi
+骎	qin
+骎	qin	47
 骎骎	qin qin	1
 骎骎日上	qin qin ri shang	9999
+骐	qi
+骐	qi	573
 骐达	qi da	12635
 骐骥	qi ji	1860
 骐骥一毛	qi ji yi mao	100
 骐骥困盐车	qi ji kun yan che	1
 骐骥过隙	qi ji guo xi	1
+骑	qi
+骑	qi	402931
 骑一下	qi yi xia	100
 骑一骑	qi yi qi	123
 骑三轮车	qi san lun che	845
@@ -25063,6 +26526,11 @@ sort: by_weight
 骑鹤望扬州	qi he wang yang zhou	1
 骑鹤维扬	qi he wei yang	1
 骑龙弄凤	qi long nong feng	1
+骞	qian
+骞	qian	2002
+骹	qiao
+髂	qia
+髂	qia	99
 髂内动脉	qia nei dong mai	19
 髂内静脉	qia nei jing mai	2
 髂前上棘	qia qian shang ji	13
@@ -25083,15 +26551,56 @@ sort: by_weight
 髂骨体	qia gu ti	5
 髂骨翼	qia gu yi	5
 髂骨致密性骨炎	qia gu zhi mi xing gu yan	1
+髚	qiao
+髜	qiao
+鬐	qi
+鬜	qian
+鬝	qian
+鬿	qi
+魌	qi
+鮂	qiu
+鮼	qin
+鯄	qiu
+鯕	qi
+鯖	qing
+鯜	qie
+鰌	qiu
+鰍	qiu
+鰬	qian
+鰭	qi
+鰽	qiu
+鲭	qing
+鲭	qing	106
 鲭形目	qing xing mu	100
+鲯	qi
+鲯	qi	3
 鲯鳅	qi qiu	305
+鳅	qiu
+鳅	qiu	4246
 鳅𬶍	qiu tuo	2
 鳅𬶍属	qiu tuo shu	9
+鳍	qi
+鳍	qi	1377
 鳍尾梦角𩽾𩾌	qi wei meng jiao an kang	1
 鳍式	qi shi	3
 鳍状肢	qi zhuang zhi	100
 鳍脚	qi jiao	16
 鳍足动物	qi zu dong wu	16
+鳹	qin
+鳽	qian
+鵭	qin
+鵮	qian
+鵸	qi
+鶀	qi
+鶈	qi
+鶖	qiu
+鶬	qiang
+鹐	qian
+鹐	qian	10
+鹙	qiu
+鹙	qiu	30
+麒	qi
+麒	qi	29156
 麒盛科技	qi sheng ke ji	100
 麒西路	qi xi lu	100
 麒麒楦	qi qi xuan	1
@@ -25134,6 +26643,9 @@ sort: by_weight
 麒麟鳜鱼	qi lin gui yu	39
 麒麟鹿	qi lin lu	3333
 麒麟龙	qi lin long	87
+麡	qi
+黔	qian
+黔	qian	3727
 黔东南	qian dong nan	9710
 黔东南地区	qian dong nan di qu	100
 黔东南小香鸡	qian dong nan xiao xiang ji	4
@@ -25180,6 +26692,14 @@ sort: by_weight
 黔驴技尽	qian lv ji jin	1
 黔驴技穷	qian lv ji qiong	2805
 黔黎	qian li	145
+黚	qian
+黥	qing
+黥	qing	351
+鼽	qiu
+鼽	qiu	9
+齊	qi
+齐	qi
+齐	qi	376615
 齐一说	qi yi shuo	1
 齐万年	qi wan nian	1
 齐上阵	qi shang zhen	2950
@@ -25479,9 +26999,587 @@ sort: by_weight
 齐齐的	qi qi de	333
 齐齿	qi chi	320
 齐齿呼	qi chi hu	100
+龜	qiu
+龝	qiu
+龟	qiu
+龟	qiu	1
 龟兹	qiu ci	100
 龟兹乐	qiu ci yue	4
 龟兹古国	qiu ci gu guo	1
 龟兹国	qiu ci guo	1
 龟兹王	qiu ci wang	1
 龟兹石窟	qiu ci shi ku	25
+𠀁	qi
+𠀃	qie
+𠀉	qiu
+𠀼	qian
+𠁠	qie
+𠁭	qi
+𠅚	qi
+𠊔	qi
+𠊫	qiong
+𠊭	qian
+𠋧	qie
+𠋵	qian
+𠌖	qiong
+𠎰	qi
+𠏖	qiao
+𠐾	qi
+𠑲	qian
+𠑴	qing
+𠓪	qi
+𠓿	qin
+𠔎	qin
+𠔶	qi
+𠔺	qian
+𠕣	qia
+𠖶	qin
+𠗈	qiu
+𠗝	qing
+𠘅	qin
+𠜘	qin
+𠜤	qia
+𠜼	qia
+𠝘	qia
+𠝛	qia
+𠠃	qian
+𠢍	qian
+𠤊	qiong
+𠦎	qin
+𠧒	qi
+𠨍	qing
+𠩂	qie
+𠫸	qi
+𠬾	qian
+𠰋	qiu
+𠲵	qie
+𠳋	qian
+𠳌	qia
+𠴩	qi
+𠴹	qi
+𠷁	qian
+𠻨	qin
+𠼢	qiang
+𠿕	qiao
+𡂠	qie
+𡄇	qing
+𡄔	qing
+𡊣	qiu
+𡊼	qiong
+𡌔	qiao
+𡍪	qi
+𡎫	qi
+𡐤	qie
+𡒌	qian
+𡔣	qie
+𡖾	qi
+𡘍	qie
+𡘧	qia
+𡛠	qie
+𡝍	qie
+𡞦	qiong
+𡠥	qiang
+𡢖	qi
+𡤫	qia
+𡦃	qiong
+𡦍	qi
+𡩇	qiao
+𡪵	qi
+𡫁	qi
+𡫧	qin
+𡬎	qiang
+𡰐	qiao
+𡰑	qiao
+𡱔	qi
+𡲀	qing
+𡲚	qiu
+𡵑	qin
+𡵒	qi
+𡶐	qie
+𡷞	qi
+𡸕	qiong
+𡸤	qiang
+𡹉	qi
+𡹓	qi
+𡹘	qi
+𡹢	qin
+𡹩	qi
+𡺓	qi
+𡺘	qiao
+𡺛	qiang
+𡺸	qi
+𡺺	qiong
+𡻧	qi
+𡻰	qi
+𡽼	qi
+𢁒	qi
+𢁮	qian
+𢂺	qian
+𢃘	qian
+𢃥	qian
+𢄹	qiao
+𢈝	qiu
+𢈵	qiang
+𢋔	qian
+𢌍	qian
+𢍁	qi
+𢍆	qi
+𢍆	qie
+𢍑	qi
+𢍱	qian
+𢏄	qiang
+𢐟	qiao
+𢐩	qiang
+𢔆	qi
+𢔠	qi
+𢘄	qiu
+𢘟	qiao
+𢛃	qiu
+𢜩	qian
+𢜱	qi
+𢞏	qiong
+𢞒	qi
+𢢖	qi
+𢢞	qi
+𢦎	qiu
+𢦽	qi
+𢧅	qiang
+𢧥	qian
+𢩡	qi
+𢩨	qiao
+𢫲	qin
+𢮄	qian
+𢮉	qiao
+𢮌	qia
+𢮍	qiong
+𢱶	qin
+𢲶	qie
+𢴰	qi
+𢶇	qiong
+𢶡	qiao
+𢹃	qing
+𢺅	qie
+𢺵	qi
+𢺷	qi
+𢻋	qi
+𢻚	qi
+𢻤	qiao
+𢻪	qi
+𢼣	qia
+𢾦	qi
+𢾪	qi
+𢿣	qiao
+𣁴	qia
+𣂁	qiao
+𣂇	qiao
+𣂥	qiao
+𣆲	qin
+𣇬	qiong
+𣉓	qi
+𣋶	qiong
+𣏶	qi
+𣑦	qiong
+𣒆	qiao
+𣓅	qian
+𣔘	qi
+𣖄	qiao
+𣖯	qin
+𣖳	qian
+𣘝	qian
+𣘟	qia
+𣛺	qi
+𣜣	qin
+𣜧	qiong
+𣜽	qiao
+𣟋	qian
+𣟼	qiao
+𣠺	qie
+𣢐	qin
+𣢖	qian
+𣢬	qian
+𣢲	qian
+𣣟	qia
+𣦜	qiao
+𣧝	qiu
+𣨄	qia
+𣨠	qin
+𣩜	qing
+𣪄	qin
+𣪠	qi
+𣫝	qiang
+𣫨	qing
+𣫱	qi
+𣭳	qiu
+𣯆	qi
+𣯹	qiao
+𣶆	qiong
+𣶠	qi
+𣹝	qiao
+𣹥	qian
+𣺰	qiao
+𣾤	qi
+𤕭	qiang
+𤕽	qiang
+𤕾	qiu
+𤘌	qi
+𤙋	qin
+𤚩	qin
+𤞰	qiu
+𤠿	qian
+𤢶	qiong
+𤤑	qiong
+𤤶	qiong
+𤥓	qin
+𤪌	qi
+𤫶	qia
+𤬯	qian
+𤭩	qing
+𤳃	qi
+𤳤	qi
+𤴀	qiao
+𤴼	qie
+𤴽	qin
+𤵂	qin
+𤵹	qia
+𤷍	qi
+𤷾	qie
+𤹸	qi
+𤺗	qi
+𤼅	qi
+𤿡	qi
+𤿳	qin
+𤿷	qian
+𥀣	qiao
+𥀻	qi
+𥃟	qing
+𥄜	qi
+𥇉	qiang
+𥇌	qia
+𥇚	qi
+𥉐	qi
+𥉙	qi
+𥉰	qia
+𥉷	qi
+𥉻	qi
+𥉾	qiao
+𥌁	qi
+𥍯	qin
+𥎊	qin
+𥎡	qin
+𥎸	qia
+𥏥	qian
+𥑎	qiong
+𥑱	qiong
+𥓌	qiang
+𥓾	qi
+𥔩	qi
+𥔮	qian
+𥔻	qiu
+𥕑	qie
+𥖫	qi
+𥘋	qin
+𥜴	qian
+𥟅	qiao
+𥡝	qian
+𥤥	qi
+𥥽	qiu
+𥦃	qian
+𥦞	qia
+𥧬	qian
+𥨪	qiong
+𥪯	qiao
+𥪵	qie
+𥫟	qi
+𥫷	qiu
+𥭑	qiu
+𥮒	qian
+𥱧	qin
+𥱨	qing
+𥱺	qian
+𥲢	qian
+𥳎	qiong
+𥳐	qian
+𥴤	qian
+𥴭	qia
+𥴻	qiang
+𥵧	qin
+𥶑	qiang
+𥷇	qi
+𥷪	qian
+𥹶	qiao
+𥼘	qi
+𥽳	qi
+𥿚	qie
+𦂒	qian
+𦄊	qi
+𦅃	qiao
+𦅋	qian
+𦆍	qie
+𦈦	qi
+𦔌	qi
+𦖊	qi
+𦖎	qian
+𦘸	qi
+𦙊	qi
+𦚊	qi
+𦛰	qi
+𦝣	qia
+𦡹	qi
+𦢙	qian
+𦢺	qiao
+𦦄	qiu
+𦦧	qiong
+𦧉	qi
+𦧋	qin
+𦧯	qi
+𦨰	qiong
+𦩣	qi
+𦪊	qi
+𦫡	qi
+𦬖	qiu
+𦭭	qiong
+𦭲	qi
+𦮼	qi
+𦯈	qin
+𦯤	qiang
+𦰪	qiu
+𦳟	qiang
+𦴑	qian
+𦵩	qiu
+𦷦	qiang
+𦸆	qi
+𦸉	qia
+𦸓	qi
+𦸗	qi
+𦼓	qian
+𦼰	qie
+𦾵	qiong
+𦿋	qie
+𧃑	qian
+𧄍	qiao
+𧇜	qi
+𧇞	qiang
+𧇸	qiu
+𧋉	qi
+𧌞	qi
+𧎪	qi
+𧏋	qiu
+𧑨	qie
+𧒕	qi
+𧓑	qi
+𧔭	qiu
+𧕉	qi
+𧕙	qing
+𧖑	qiang
+𧖪	qing
+𧘗	qi
+𧘜	qian
+𧘧	qi
+𧙞	qi
+𧙾	qi
+𧚨	qi
+𧚨	qie
+𧚪	qie
+𧚫	qian
+𧛓	qian
+𧟑	qian
+𧠪	qi
+𧡘	qi
+𧡘	qin
+𧡺	qi
+𧢞	qian
+𧣌	qiao
+𧣑	qian
+𧣕	qiu
+𧤕	qiu
+𧥛	qian
+𧩶	qia
+𧪯	qian
+𧫕	qie
+𧭚	qiang
+𧮮	qian
+𧮽	qian
+𧯃	qin
+𧯯	qi
+𧰙	qi
+𧱡	qiang
+𧲀	qian
+𧲰	qiu
+𧳫	qiu
+𧺤	qiu
+𧻁	qiu
+𧻕	qi
+𧻘	qie
+𧻧	qie
+𧻱	qiu
+𧼒	qin
+𧼕	qi
+𧼘	qi
+𧼭	qiu
+𧽐	qian
+𧽓	qi
+𧽩	qiang
+𧾏	qin
+𨀯	qiong
+𨁐	qi
+𨃤	qiao
+𨄊	qie
+𨄚	qiang
+𨅣	qiao
+𨆪	qing
+𨉪	qie
+𨉫	qiong
+𨉸	qi
+𨊰	qi
+𨍊	qiu
+𨍶	qiong
+𨐋	qian
+𨐩	qian
+𨑤	qi
+𨒅	qi
+𨒊	qiu
+𨓲	qian
+𨓷	qing
+𨕦	qiu
+𨖰	qie
+𨗦	qian
+𨙬	qi
+𨙸	qi
+𨙸	qi	1
+𨙽	qin
+𨚧	qie
+𨛣	qin
+𨜍	qiao
+𨜑	qiao
+𨜻	qian
+𨝍	qian
+𨝱	qiao
+𨞢	qi
+𨞶	qiao
+𨟽	qiu
+𨥞	qian
+𨥦	qi
+𨦄	qian
+𨨘	qian
+𨪌	qi
+𨰂	qian
+𨱇	qiu	1
+𨱜	qi
+𨱫	qian
+𨲒	qiu
+𨵆	qi
+𨵎	qi
+𨶆	qiang
+𨸑	qiao
+𨸒	qi
+𨸔	qi
+𨺧	qiu
+𨺩	qian
+𨺫	qian
+𨻺	qing
+𨽨	qian
+𨾛	qi
+𨾰	qin
+𩂈	qin
+𩇝	qing
+𩇟	qing
+𩈸	qiu
+𩉬	qi
+𩋆	qian
+𩎖	qian
+𩎖	qin
+𩐙	qin
+𩑓	qiong
+𩑟	qian
+𩑭	qing
+𩑳	qian
+𩒛	qi
+𩒣	qian
+𩒨	qi
+𩒮	qiu
+𩒵	qing
+𩓒	qin
+𩔕	qiu
+𩔝	qin
+𩔟	qin
+𩔥	qing
+𩖇	qiao
+𩗕	qiu
+𩗼	qing
+𩚕	qiang
+𩝠	qiu
+𩠦	qi
+𩠨	qi
+𩢽	qiong
+𩣴	qie
+𩣼	qiang
+𩥂	qi
+𩥌	qia
+𩦊	qian
+𩦋	qi
+𩧌	qi
+𩨓	qian
+𩨘	qi
+𩨝	qi
+𩨟	qiao
+𩨯	qiong
+𩩝	qiang
+𩩱	qia
+𩪢	qian
+𩬚	qian
+𩬛	qiong
+𩬰	qiong
+𩮁	qia
+𩲪	qi
+𩳣	qi
+𩴪	qi
+𩵍	qiu
+𩵰	qiu
+𩷏	qing
+𩷻	qia
+𩷾	qi
+𩸞	qi
+𩹵	qi
+𩺲	qi
+𩼒	qiang
+𩽡	qing
+𩿄	qiang
+𪀛	qiong
+𪀩	qi
+𪁸	qiang
+𪂛	qi
+𪄈	qing
+𪄖	qi
+𪄭	qi
+𪅾	qi
+𪇇	qian
+𪈇	qian
+𪉻	qian
+𪍗	qiu
+𪎞	qiang
+𪏅	qing
+𪑊	qiao
+𪑗	qie
+𪑙	qian
+𪒆	qi
+𪒑	qi
+𪒭	qin
+𪒯	qin
+𪔪	qi
+𪖛	qiu
+𪗅	qi
+𪗆	qi
+𪗍	qi
+𪗏	qi
+𪘦	qian
+𪘺	qia
+𪙌	qie
+𪙎	qiang
+𪙟	qin
+𪙧	qi
+𪚺	qiu
+𫛰	qi
+𬘬	qian	1
+𬨂	qi	1
+𬸉	qiong
+𬸒	qi

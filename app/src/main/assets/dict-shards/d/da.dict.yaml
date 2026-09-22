@@ -3,6 +3,72 @@ name: merged.da
 version: "1.0"
 sort: by_weight
 ...
+㐲	dai
+㔊	dan
+㔑	dao
+㕪	dan
+㗖	dan
+㙮	da
+㜓	da
+㞭	dai
+㟷	da
+㠀	dao
+㡺	dan
+㧅	dao
+㨶	dao
+㫜	dan
+㫹	dai
+㯂	dai
+㯚	da
+㱽	dan
+㲷	dan
+㴷	dan
+㵅	dan
+㶡	dai
+㺗	dan
+㻖	dai
+㽎	dan
+㾑	da
+㿃	dai
+㿒	dao
+㿯	da
+䃫	dan
+䃮	da
+䄷	dan
+䆃	dao
+䈆	dai
+䉞	dan
+䉷	dan
+䊭	dao
+䌦	dao
+䐊	da
+䐛	da
+䑗	dang
+䑽	da
+䒟	dan
+䒫	dai
+䚞	dai
+䚟	dai
+䣊	dang
+䣣	dang
+䣣	dao
+䦒	dang
+䧂	dao
+䨢	dan
+䨵	dan
+䩢	da
+䩥	dan
+䪏	da
+䭛	dan
+䮻	dao
+䱋	dan
+䲦	dai
+䲽	dao
+䳉	dan
+䳴	da
+䵣	da
+丹	dan
+丹	dan	255714
 丹·吉布森	dan ji bu sen	100
 丹七片	dan qi pian	2
 丹七软胶囊	dan qi ruan jiao nang	1
@@ -234,6 +300,12 @@ sort: by_weight
 丹麦首都	dan mai shou du	550
 丹麦首都哥本哈根	dan mai shou du ge ben ha gen	100
 丹黄甲乙	dan huang jia yi	2
+丼	dan	9000
+亣	da
+亶	dan
+亶	dan	342
+代	dai
+代	dai	932729
 代一代	dai yi dai	172
 代下单	dai xia dan	125
 代不乏人	dai bu fa ren	65
@@ -844,6 +916,9 @@ sort: by_weight
 代驾	dai jia	11800
 代驾行业	dai jia hang ye	100
 代黄杏	dai huang xing	3
+伔	dan
+但	dan
+但	dan	7505257
 但一定	dan yi ding	100
 但一定不要	dan yi ding bu yao	100
 但一定要	dan yi ding yao	100
@@ -1326,6 +1401,9 @@ sort: by_weight
 但非	dan fei	1180
 但须	dan xu	15800
 但马上	dan ma shang	8925
+侢	dai
+倒	dao
+倒	dao	1085421
 倒一下	dao yi xia	88
 倒一倒	dao yi dao	623
 倒三七	dao san qi	1210
@@ -1868,16 +1946,25 @@ sort: by_weight
 倒驾慈航	dao jia ci hang	100
 倒骑驴	dao qi lv	695
 倒骑驴式	dao qi lv shi	100
+偒	dang
+傣	dai
+傣	dai	1082
 傣剧	dai ju	999
 傣历	dai li	1125
 傣家	dai jia	738
 傣族	dai zu	33200
+僤	dan
+儅	dang
+儋	dan
+儋	dan	911
 儋州	dan zhou	2
 儋州市	dan zhou shi	676
 儋州调声	dan zhou diao sheng	100
 儋石不储	dan shi bu chu	100
 儋石之储	dan shi zhi chu	32
 儋石之禄	dan shi zhi lu	32
+党	dang
+党	dang	242508
 党三役	dang san yi	100
 党中央	dang zhong yang	177860
 党主任	dang zhu ren	355
@@ -2209,7 +2296,11 @@ sort: by_weight
 党首	dang shou	1495
 党魁	dang kui	2325
 党龄	dang ling	5815
+凼	dang
+凼	dang	385
 凼肥	dang fei	2
+刀	dao
+刀	dao	723425
 刀上	dao shang	4360
 刀上的	dao shang de	800
 刀下	dao xia	7855
@@ -2388,6 +2479,10 @@ sort: by_weight
 刀鱼卤面	dao yu lu mian	1
 刀鱼羹卤子面	dao yu geng lu zi mian	3
 刀龙传说	dao long chuan shuo	19
+刂	dao
+刐	dan
+到	dao
+到	dao	11505436
 到一个	dao yi ge	124720
 到一个月	dao yi ge yue	12
 到一半	dao yi ban	9900
@@ -3524,6 +3619,12 @@ sort: by_weight
 到鼓浪屿	dao gu lang yu	400
 到齐	dao qi	11670
 到齐了	dao qi le	111
+剳	da
+勯	dan
+匒	da
+匰	dan
+单	dan
+单	dan	738919
 单一	dan yi	329550
 单一个	dan yi ge	75
 单一之债	dan yi zhi zhai	41
@@ -4644,6 +4745,11 @@ sort: by_weight
 单鳞粗棘鰕虎鱼	dan lin cu ji xia hu yu	1
 单鹄寡凫	dan hu gua fu	1
 单齿螺	dan chi luo	100
+単	dan
+叇	dai
+叇	dai	327
+叨	dao
+叨	dao	42609
 叨叨	dao dao	5015
 叨叨唠唠	dao dao lao lao	5
 叨叨絮絮	dao dao xu xu	100
@@ -4655,6 +4761,8 @@ sort: by_weight
 叨客机器人	dao ke ji qi ren	100
 叨念	dao nian	2490
 叨登	dao deng	9999
+呆	dai
+呆	dai	427048
 呆下去	dai xia qu	757
 呆不下去	dai bu xia qu	308
 呆不住了	dai bu zhu le	87
@@ -4743,6 +4851,13 @@ sort: by_weight
 呆里藏乖	dai li cang guai	1
 呆阿拿	dai a na	100
 呆鸟	dai niao	875
+呔	dai
+呔	dai	1546
+呾	da
+呾	dan
+咑	da
+哒	da
+哒	da	21140
 哒哒	da da	999
 哒哒哒	da da da	100
 哒哒哒哒	da da da da	100
@@ -4750,6 +4865,9 @@ sort: by_weight
 哒啦	da la	111
 哒啦哒啦	da la da la	100
 哒嗪	da qin	1
+唌	dan
+啖	dan
+啖	dan	1197
 啖之以利	dan zhi yi li	1
 啖以厚利	dan yi hou li	1
 啖以甘言	dan yi gan yan	1
@@ -4758,15 +4876,44 @@ sort: by_weight
 啖指咬舌	dan zhi yao she	100
 啖虎狼以肉	dan hu lang yi rou	100
 啖饭之道	dan fan zhi dao	1
+啗	dan
+啿	dan
+單	dan
+嗒	da
+嗒	da	16686
 嗒嗒	da da	5085
 嗒嗒嗒	da da da	100
 嗒嗒嗒嗒	da da da da	100
 嗒嗒的马蹄	da da de ma ti	100
 嗒嗒的马蹄声	da da de ma ti sheng	100
+嘄	dao
+嘾	dan
+噉	dan
+噠	da
+噡	dan
+噵	dao
+噹	dang
+嚪	dan
+圵	dang
+垈	dai
+垈	dai	1
+垯	da
+垯	da	33
+垱	dang
+垱	dang	108
+埭	dai
+埭	dai	95
 埭头村	dai tou cun	18
 埭头社区	dai tou she qu	2
 埭头镇	dai tou zhen	173
 埭边村	dai bian cun	2
+墶	da
+壋	dang
+壔	dao
+大	da
+大	da	10828984
+大	dai
+大	dai	649
 大䴙䴘	da pi ti	1
 大一	da yi	61850
 大一上	da yi shang	133
@@ -12193,15 +12340,24 @@ sort: by_weight
 大𥻗子粥	da cha zi zhou	100
 大𫛭	da kuang	107
 大𬶋鱥	da ju gui	1
+妉	dan
+妲	da
+妲	da	1246
 妲丽安	da li an	104
 妲己	da ji	9055
 妲己新皮肤	da ji xin pi fu	100
 妲己语音导航系统	da ji yu yin dao hang xi tong	100
 妲露拉	da lu la	100
+婸	dang
+媅	dan
+宕	dang
+宕	dang	2794
 宕机	dang ji	4444
 宕机了	dang ji le	75
 宕机情况	dang ji qing kuang	75
 宕账	dang zhang	10
+导	dao
+导	dao	486193
 导一下	dao yi xia	2677
 导一份	dao yi fen	30
 导一导	dao yi dao	32
@@ -12538,6 +12694,9 @@ sort: by_weight
 导进去	dao jin qu	317
 导通	dao tong	17105
 导风板	dao feng ban	100
+導	dao
+岛	dao
+岛	dao	186833
 岛上	dao shang	74110
 岛上的	dao shang de	19135
 岛与岛	dao yu dao	100
@@ -12579,6 +12738,8 @@ sort: by_weight
 岛里	dao li	34
 岛链	dao lian	789
 岛霉素	dao mei su	5
+岱	dai
+岱	dai	6015
 岱仔村	dai zai cun	5
 岱仙瀑布	dai xian pu bu	3
 岱勒新材	dai le xin cai	100
@@ -12597,6 +12758,18 @@ sort: by_weight
 岱祠	dai ci	1
 岱舆	dai yu	4
 岱道庵	dai dao an	41
+島	dao
+崵	dang
+嵅	dan	0
+嵅	dang	0
+嵣	dang
+嶋	dao
+嶌	dao
+嶹	dao
+帎	dan
+帒	dai
+带	dai
+带	dai	1491966
 带䲠科	dai chun ke	1
 带一下	dai yi xia	631
 带一个	dai yi ge	4
@@ -13353,6 +13526,14 @@ sort: by_weight
 带鱼	dai yu	38818
 带鱼罐头	dai yu guan tou	8
 带齐	dai qi	7750
+帯	dai
+帱	dao
+帱	dao	1
+帶	dai
+幬	dao
+廗	dai
+弹	dan
+弹	dan	355948
 弹不虚发	dan bu xu fa	100
 弹丸	dan wan	6725
 弹丸之地	dan wan zhi di	3395
@@ -13487,6 +13668,10 @@ sort: by_weight
 弹雨	dan yu	204
 弹雨枪林	dan yu qiang lin	100
 弹鼓	dan gu	475
+弾	dan
+彈	dan
+当	dang
+当	dang	3437226
 当一个	dang yi ge	92200
 当一个人	dang yi ge ren	100
 当一切尘埃落定	dang yi qie chen ai luo ding	100
@@ -14791,6 +14976,8 @@ sort: by_weight
 当鸭子	dang ya zi	100
 当黄牛	dang huang niu	100
 当黑	dang hei	1760
+待	dai
+待	dai	658854
 待一会	dai yi hui	1255
 待一会儿	dai yi hui er	1255
 待一天	dai yi tian	100
@@ -15045,10 +15232,16 @@ sort: by_weight
 待那	dai na	367
 待那儿	dai na er	123
 待销	dai xiao	1375
+忉	dao
+忉	dao	104
 忉利天	dao li tian	2550
 忉利天宫	dao li tian gong	510
 忉忉	dao dao	1
+怛	da
+怛	da	530
 怛然失色	da ran shi se	100
+怠	dai
+怠	dai	21247
 怠于行使	dai yu xing shi	100
 怠倦	dai juan	505
 怠倦了	dai juan le	100
@@ -15064,6 +15257,8 @@ sort: by_weight
 怠政者	dai zheng zhe	87
 怠速	dai su	22525
 怠速行驶	dai su xing shi	100
+悼	dao
+悼	dao	9880
 悼亡	dao wang	1645
 悼唁	dao yan	95
 悼心失图	dao xin shi tu	100
@@ -15082,7 +15277,20 @@ sort: by_weight
 悼词	dao ci	3695
 悼逝者	dao shi zhe	99
 悼陵监村	dao ling jian cun	1
+惔	dan
+惮	da
+惮	dan
+惮	dan	16732
 惮赫千里	dan he qian li	4
+愓	dang
+愖	dan
+憚	da
+憚	dan
+憺	dan
+憺	dan	2
+懛	dai
+戴	dai
+戴	dai	189960
 戴一天	dai yi tian	105
 戴一戴	dai yi dai	256
 戴三个表	dai san ge biao	100
@@ -15429,6 +15637,8 @@ sort: by_weight
 戴鲁比	dai lu bi	100
 戴鸡佩豚	dai ji pei tun	4
 戴鹏飞	dai peng fei	11
+打	da
+打	da	2882337
 打一下	da yi xia	4055
 打一个	da yi ge	20120
 打一个响鼻	da yi ge xiang bi	100
@@ -17772,6 +17982,9 @@ sort: by_weight
 打龙	da long	1
 打龙吗	da long ma	1
 打龙袍	da long pao	166
+抌	dan
+担	dan
+担	dan	442662
 担不了	dan bu liao	95
 担不担心吗	dan bu dan xin ma	100
 担不担心吧	dan bu dan xin ba	100
@@ -17931,6 +18144,8 @@ sort: by_weight
 担风险	dan feng xian	5005
 担饥受冻	dan ji shou dong	100
 担饥忍饿	dan ji ren e	100
+挡	dang
+挡	dang	211337
 挡一下	dang yi xia	62
 挡一挡	dang yi dang	515
 挡上去	dang shang qu	100
@@ -18029,6 +18244,8 @@ sort: by_weight
 挡风的	dang feng de	700
 挡风遮雨	dang feng zhe yu	100
 挡驾	dang jia	1630
+捣	dao
+捣	dao	32179
 捣一捣	dao yi dao	123
 捣乱	dao luan	29835
 捣乱分子	dao luan fen zi	785
@@ -18070,16 +18287,23 @@ sort: by_weight
 捣麻烦	dao ma fan	9999
 捣鼓	dao gu	6010
 捣鼓捣鼓	dao gu dao gu	100
+捯	dao
+捯	dao	70
 捯根儿	dao gen er	9999
 捯气儿	dao qi er	9999
 捯饬	dao chi	1180
 捯饬捯饬	dao chi dao chi	100
+掸	dan
+掸	dan	4870
 掸去	dan qu	1030
 掸土	dan tu	25
 掸子	dan zi	2495
 掸帚	dan zhou	125
 掸掸	dan dan	640
 掸灰	dan hui	290
+搗	dao
+搭	da
+搭	da	135458
 搭一下	da yi xia	355
 搭一个	da yi ge	12
 搭一套	da yi tao	12
@@ -18290,6 +18514,15 @@ sort: by_weight
 搭顺风车	da shun feng che	2215
 搭飞机	da fei ji	1775
 搭高铁	da gao tie	172
+撘	da
+撢	dan
+撣	dan
+擋	dang
+擔	dan
+擣	dao
+攩	dang
+旦	dan
+旦	dan	154394
 旦不保夕	dan bu bao xi	100
 旦余济乎江湘	dan yu ji hu jiang xiang	1
 旦嘎乡	dan ga xiang	1
@@ -18319,6 +18552,12 @@ sort: by_weight
 旦辞爷娘去	dan ci ye niang qu	100
 旦辞黄河去	dan ci huang he qu	1
 旦马乡	dan ma xiang	1
+曃	dai
+朷	dao
+柋	dai
+柦	dan
+档	dang
+档	dang	65508
 档位	dang wei	5967
 档儿	dang er	2
 档口	dang kou	7775
@@ -18390,6 +18629,16 @@ sort: by_weight
 档次极高	dang ci ji gao	100
 档次高	dang ci gao	100
 档节目	dang jie mu	9999
+梼	dao
+棣	dai
+椡	dao
+槝	dao
+檔	dang
+檤	dao
+檮	dao
+欓	dang
+歹	dai
+歹	dai	42757
 歹人	dai ren	2670
 歹命人	dai ming ren	100
 歹徒	dai tu	59885
@@ -18398,10 +18647,14 @@ sort: by_weight
 歹意	dai yi	1635
 歹毒	dai du	5660
 歹话	dai hua	155
+殆	dai
+殆	dai	12048
 殆不可言	dai bu ke yan	100
 殆尽	dai jin	31485
 殆无孑遗	dai wu jie yi	100
 殆无虚日	dai wu xu ri	100
+殚	dan
+殚	dan	1412
 殚心积虑	dan xin ji lv	1
 殚心竭力	dan xin jie li	100
 殚心竭智	dan xin jie zhi	1
@@ -18424,9 +18677,15 @@ sort: by_weight
 殚见洽闻	dan jian qia wen	100
 殚诚毕虑	dan cheng bi lv	1
 殚财竭力	dan cai jie li	1
+殫	dan
+毒	dai
+氘	dao
+氘	dao	93
 氘化	dao hua	140
 氘核	dao he	425
 氘氚反应	dao chuan fan ying	5
+氮	dan
+氮	dan	963
 氮䓬斯汀	dan zhuo si ting	6
 氮元素	dan yuan su	100
 氮分子	dan fen zi	250
@@ -18458,9 +18717,18 @@ sort: by_weight
 氮芥	dan jie	10
 氮芥气	dan jie qi	100
 氮蓝四唑	dan lan si zuo	1
+氹	dang
+氹	dang	1
 氹仔	dang zai	2
 氹仔岛	dang zai dao	9
+汏	da
+沊	dan
+沓	da
+沓	da	8322
 沓子	da zi	7999
+泹	dan
+淡	dan
+淡	dan	518865
 淡不了	dan bu liao	20
 淡乎其无味	dan hu qi wu wei	3
 淡乎寡味	dan hu gua wei	8
@@ -18657,11 +18925,31 @@ sort: by_weight
 淡黄褐色	dan huang he se	575
 淡黑	dan hei	1500
 淡黑红天牛	dan hei hong tian niu	1
+溚	da
+溚	da	32
+潒	dang
+澢	dang
+澹	dan
+澹	dan	6736
 澹泊寡欲	dan bo gua yu	100
 澹泊明志	dan bo ming zhi	100
 澹澹	dan dan	1430
 澹烟疏雨	dan yan shu yu	111
 澹烟疏雨间斜阳	dan yan shu yu jian xie yang	5
+瀻	dai
+灙	dang
+炟	da
+炟	da	12
+焘	dao
+焘	dao	0
+燀	dan
+燵	da
+燾	dao
+狚	dan
+獃	dai
+玬	dan
+玳	dai
+玳	dai	2810
 玳玳花	dai dai hua	644
 玳瑁	dai mao	906
 玳瑁壳	dai mao ke	100
@@ -18671,6 +18959,21 @@ sort: by_weight
 玳瑁筵中怀里醉	dai mao yan zhong huai li zui	100
 玳瑁色	dai mao se	100
 玳瑁色的	dai mao se de	100
+珰	dang
+珰	dang	527
+瑇	dai
+璗	dang
+璫	dang
+瓙	dao
+瓭	dan
+瓽	dang
+甔	dan
+甙	dai
+畗	da
+畣	da
+當	dang
+疍	dan
+疍	dan	26
 疍家	dan jia	316
 疍家人	dan jia ren	987
 疍家女	dan jia nv	246
@@ -18678,9 +18981,21 @@ sort: by_weight
 疍家渔村	dan jia yu cun	100
 疍户	dan hu	9999
 疍民	dan min	9999
+疸	da
+疸	dan
+疸	dan	324
+瘅	dan
+瘅	dan	36
 瘅恶彰善	dan e zhang shan	100
 瘅疟	dan nve	9999
+瘩	da
+瘩	da	17347
 瘩背	da bei	1
+癉	dan
+癚	dan
+皽	dan
+盗	dao
+盗	dao	136597
 盗世欺名	dao shi qi ming	15
 盗个墓	dao ge mu	100
 盗了墓	dao le mu	100
@@ -18821,18 +19136,39 @@ sort: by_weight
 盗食致饱	dao shi zhi bao	1
 盗马	dao ma	525
 盗魁	dao kui	330
+盜	dao
+盪	dang
+眈	dan
+眈	dan	12773
 眈眈虎视	dan dan hu shi	100
 眈眈逐逐	dan dan zhu zhu	1
+眔	da
+瞊	dang
+石	dan
+石	dan	14278
+砀	dang
+砀	dang	640
 砀山	dang shan	7600
 砀山县	dang shan xian	2565
 砀山梨	dang shan li	712
 砀山路	dang shan lu	19
+砃	dan
+碭	dang
+礑	dang
+祷	dao
+祷	dao	33213
 祷告	dao gao	35725
 祷告词	dao gao ci	230
 祷念	dao nian	110
 祷文	dao wen	1135
 祷祝	dao zhu	1080
 祷词	dao ci	770
+禂	dao
+禫	dan
+禱	dao
+稲	dao
+稻	dao
+稻	dao	21277
 稻农皮炎	dao nong pi yan	1
 稻北社区	dao bei she qu	5
 稻南社区	dao nan she qu	3
@@ -18924,7 +19260,13 @@ sort: by_weight
 稻香湖	dao xiang hu	95
 稻香湖景	dao xiang hu jing	10
 稻香源	dao xiang yuan	1
+窞	dan
+笚	da
+笪	da
+笪	da	107
 笪重光	da chong guang	3
+答	da
+答	da	796906
 答一答	da yi da	124
 答上	da shang	1795
 答不上	da bu shang	100
@@ -19071,6 +19413,12 @@ sort: by_weight
 答题纸	da ti zhi	9430
 答题通	da ti tong	100
 答题速度	da ti su du	100
+筜	dang
+筜	dang	8
+箉	dai
+箌	dao
+箪	dan
+箪	dan	440
 箪壶无空携	dan hu wu kong xie	1
 箪瓢之乐	dan piao zhi le	100
 箪瓢屡空	dan piao lv kong	100
@@ -19084,10 +19432,32 @@ sort: by_weight
 箪食壶浆以迎王师	dan shi hu jiang yi ying wang shi	4
 箪食瓢饮	dan shi piao yin	100
 箪食豆羹	dan shi dou geng	100
+簜	dang
+簞	dan
+簤	dai
+簹	dang
+紞	dan
+紿	dai
+絩	dao
+緿	dai
+繨	da
+繵	dan
+纛	dao
+纛	dao	894
+绐	dai
+绐	dai	373
+羍	da
+翢	dao
+翿	dao
+耷	da
+耷	da	8256
 耷拉	da la	4755
 耷拉着	da la zhe	5175
 耷拉着脑袋	da la zhe nao dai	100
 耷拉着脸	da la zhe lian	100
+耼	dan
+耽	dan
+耽	dan	39196
 耽于享乐	dan yu xiang le	100
 耽延	dan yan	655
 耽搁	dan ge	26130
@@ -19111,6 +19481,11 @@ sort: by_weight
 耽误时间	dan wu shi jian	5740
 耽误行程	dan wu xing cheng	100
 耽迷	dan mi	255
+聃	dan
+聃	dan	561
+聸	dan
+胆	dan
+胆	dan	204655
 胆丧魂惊	dan sang hun jing	1
 胆丧魂消	dan sang hun xiao	1
 胆主决断	dan zhu jue duan	4
@@ -19289,8 +19664,22 @@ sort: by_weight
 胆颤心寒	dan chan xin han	22
 胆飞魂丧	dan fei hun sang	100
 胆魄	dan po	1775
+腅	dan
+膻	dan
+膻	dan	1
 膻中	dan zhong	2
 膻中穴	dan zhong xue	340
+膽	dan
+舠	dao
+舠	dao	2
+艔	dao
+艜	dai
+艡	dang
+荅	da
+荙	da
+荙	da	4
+荡	dang
+荡	dang	226789
 荡为寒烟	dang wei han yan	1
 荡产倾家	dang chan qing jia	100
 荡人心魄	dang ren xin po	495
@@ -19348,6 +19737,18 @@ sort: by_weight
 荡过	dang guo	521
 荡除	dang chu	620
 荡魂摄魄	dang hun she po	100
+菪	dang
+菪	dang	48
+菿	dao
+萏	dan
+萏	dan	237
+蓞	dan
+蕩	dang
+薘	da
+蘯	dang
+蚮	dai
+蛋	dan
+蛋	dan	255478
 蛋丝	dan si	111
 蛋中	dan zhong	111
 蛋仔	dan zai	111
@@ -19511,8 +19912,18 @@ sort: by_weight
 蛋黄饼干	dan huang bing gan	35
 蛋黄馅	dan huang xian	134
 蛋黄麻花	dan huang ma hua	16
+蜑	dan
 蜑螺属	dan luo shu	100
 蜑螺科	dan luo ke	100
+蝳	dai
+螩	dao
+蟷	dang
+蟽	da
+衜	dao
+衟	dao
+衴	dan
+袋	dai
+袋	dai	303806
 袋中	dai zhong	13195
 袋中爱	dai zhong ai	100
 袋儿	dai er	1111
@@ -19546,11 +19957,30 @@ sort: by_weight
 袋鼯	dai wu	433
 袋鼹	dai yan	3
 袋龙	dai long	111
+裆	dang
+裆	dang	6838
 裆下	dang xia	256
 裆儿	dang er	3
 裆部	dang bu	3035
+裯	dao
+褝	dan
+褡	da
+褡	da	950
 褡裢	da lian	1280
 褡裢火烧	da lian huo shao	149
+襌	dan
+襠	dang
+襶	dai
+觛	dan
+訑	dan
+詒	dai
+詚	da
+誕	dan
+譡	dang
+讜	dang
+诒	dai
+诞	dan
+诞	dan	44248
 诞下	dan xia	1111
 诞下一子	dan xia yi zi	100
 诞妄不经	dan wang bu jing	100
@@ -19571,12 +20001,20 @@ sort: by_weight
 诞辰	dan chen	36070
 诞辰日	dan chen ri	116
 诞辰纪念日	dan chen ji nian ri	100
+谠	dang
+谠	dang	166
 谠言嘉论	dang yan jia lun	1
 谠言正论	dang yan zheng lun	100
 谠言直声	dang yan zhi sheng	1
 谠议	dang yi	20
 谠论侃侃	dang lun kan kan	1
 谠论危言	dang lun wei yan	100
+貣	dai
+貸	dai
+賧	dan
+贉	dan
+贷	dai
+贷	dai	29412
 贷一部分钱	dai yi bu fen qian	12
 贷不下来	dai bu xia lai	12
 贷不了款	dai bu liao kuan	100
@@ -19675,7 +20113,15 @@ sort: by_weight
 贷记科目	dai ji ke mu	10
 贷金	dai jin	705
 贷项	dai xiang	4100
+赕	dan
+赕	dan	6
 赕佛	dan fo	1
+趤	dang
+跢	dai
+跶	da
+跶	da	550
+蹈	dao
+蹈	dao	34345
 蹈人旧辙	dao ren jiu zhe	1
 蹈仁履义	dao ren lv yi	1
 蹈其覆辙	dao qi fu zhe	100
@@ -19702,6 +20148,17 @@ sort: by_weight
 蹈袭覆辙	dao xi fu zhe	1
 蹈规循矩	dao gui xun ju	1
 蹈赴汤火	dao fu tang huo	100
+蹛	dai
+躭	dan
+軇	dao
+軑	dai
+軚	dai
+軩	dai
+轪	dai
+轪	dai	39
+辺	dao
+达	da
+达	da	741782
 达不到	da bu dao	130430
 达不成	da bu cheng	100
 达不成这种结果	da bu cheng zhe zhong jie guo	100
@@ -20094,6 +20551,13 @@ sort: by_weight
 达麦乡	da mai xiang	10
 达麻涡螺	da ma wo luo	1
 达龙云	da long yun	183
+迏	da
+迖	da
+迚	da
+迨	dai
+迨	dai	552
+逮	dai
+逮	dai	28151
 逮不住	dai bu zhu	215
 逮不住他	dai bu zhu ta	140
 逮不住她	dai bu zhu ta	40
@@ -20118,6 +20582,10 @@ sort: by_weight
 逮着机会	dai zhao ji hui	100
 逮获	dai huo	125
 逮蚂蟥	dai ma huang	100
+逹	da
+逿	dang
+道	dao
+道	dao	1062553
 道一声	dao yi sheng	6505
 道一声珍重	dao yi sheng zhen zhong	100
 道三不着两	dao san bu zhao liang	100
@@ -20629,10 +21097,36 @@ sort: by_weight
 道高望重	dao gao wang zhong	2
 道高益安	dao gao yi an	100
 道高魔重	dao gao mo zhong	1
+達	da
+郸	dan
+郸	dan	4714
 郸城	dan cheng	1
 郸城一高	dan cheng yi gao	153
 郸城县	dan cheng xian	117
+鄲	dan
+酖	dan
+醈	dan
+釖	dao
+釱	dai
+鎉	da
+鎝	da
+鐺	dang
+鐽	da
+铛	dang
+铛	dang	13183
 铛铛车	dang dang che	100
+闣	dang
+陦	dao
+隝	dao
+隯	dao
+雼	dang
+霮	dan
+霴	dai
+靆	dai
+靼	da
+靼	da	4059
+鞑	da
+鞑	da	6703
 鞑子	da zi	582
 鞑子桥	da zi qiao	1
 鞑虏	da lu	790
@@ -20643,7 +21137,25 @@ sort: by_weight
 鞑靼汁炸鱼	da da zhi zha yu	1
 鞑靼海	da da hai	100
 鞑靼海峡	da da hai xia	65
+韃	da
+頕	dan
+餤	dan
+饏	dan
+馾	dan
+駘	dai
+駳	dan
+骀	dai	79
 骀荡	dai dang	2
+髧	dan
+魛	dao
+鮘	dai
+鱽	dao
+鱽	dao	23
+鴏	dai
+鴠	dan
+黕	dan
+黛	dai
+黛	dai	51658
 黛丝	dai si	3825
 黛丝恩	dai si en	177
 黛丝瑞	dai si rui	100
@@ -20686,6 +21198,211 @@ sort: by_weight
 黛薇夫人	dai wei fu ren	128
 黛蛤散	dai ge san	1
 黛蛾	dai e	170
+黨	dang
+黮	dan
+黱	dai
+黵	dan
+龖	da
+龘	da
+鿎	da	1
+鿕	dan
+鿕	dan	1
 鿕亚科	dan ya ke	2
+𠆛	dan
+𠆶	dan
+𠇋	dan
+𠈰	dan
+𠉤	da
+𠐵	dao
+𠓊	dan
+𠞈	da
+𠯈	dai
+𠯪	dai
+𠰺	dai
+𠴼	dao
+𠶫	da
+𠷂	dai
+𠹆	dan
+𠹥	da
+𡄒	dao
+𡇈	dang
+𡇵	dang
+𡈐	da
+𡉑	da
+𡌩	da
+𡍲	da
+𡐿	da
+𡖓	dan
+𡗍	dang
+𡚻	da
+𡢈	dang
+𡦨	dan
+𡧹	dai
+𡰨	dang
+𡵕	dan
+𡾕	dang
+𢄔	dai
+𢅒	dan
+𢉑	dan
+𢋃	dan
+𢎌	dai
+𢎪	dan
+𢑝	dan
+𢘇	da
+𢘇	dan
+𢛁	da
+𢝉	da
+𢠽	dang
+𢡂	dang
+𢭏	dao
+𢻼	dan
+𢽇	da
+𣀓	dao
+𣁍	dao
+𣂳	dang
+𣃉	dang
+𣅟	dan
+𣇨	dai
+𣋊	dan
+𣌭	da
+𣐮	dai
+𣗋	dang	1
+𣛱	dan
+𣣴	da
+𣥾	da
+𣦶	dai
+𣫜	dao
+𣫹	dai
+𣱍	dan
+𣱼	dao
+𣲥	dan
+𣸉	da
+𣻍	dang
+𤁡	dan
+𤓾	dao
+𤔶	dang
+𤗾	dang
+𤘀	dao
+𤝰	da
+𤢎	dang
+𤢏	dan
+𤣞	dang
+𤤊	da
+𤨑	da
+𤮼	dai
+𤲭	dan
+𤷘	dao
+𤸊	dai
+𤹷	dao
+𤺺	dan
+𥄦	dan
+𥉌	da
+𥐹	dan
+𥓬	dao
+𥕇	da
+𥗚	dao
+𥢷	dang
+𥤗	dang
+𥨎	dan
+𥯕	dang
+𥱷	dan
+𥲄	dan
+𥲇	dan
+𥳸	dan
+𥳹	dan
+𥸈	dang
+𥾚	dan
+𥿝	dai
+𦂀	da
+𦄂	dai
+𦅼	dan
+𦋪	dan
+𦑻	da
+𦒺	dao
+𦖿	da
+𦗧	da
+𦗴	dang
+𦙯	dai
+𦞂	da
+𦦺	dao
+𦦾	dao
+𦩍	dao
+𦪍	dai
+𦪭	da
+𦬹	da
+𦬹	dan
+𦳝	dang
+𦻁	dan
+𦼲	dang
+𦽜	dan
+𦽫	dan
+𦾩	dan
+𦿆	dang
+𧀻	dan
+𧂄	dan
+𧅗	dang
+𧊇	dai
+𧑔	dai
+𧑘	dang
+𧙇	dan
+𧡪	dan
+𧭃	dan
+𧴸	dan
+𧼤	dao
+𨅓	da
+𨆰	da
+𨊺	dai
+𨎴	dang
+𨓞	dai
+𨗓	dao
+𨗼	dai
+𨗾	da
+𨝦	dang
+𨟲	dai
+𨢿	dan
+𨥶	dai
+𨨹	da
+𨱏	da	1
+𨱦	dao
+𨷾	dang
+𨽿	dai
+𩃠	dai
+𩃷	dai
+𩄕	dan
+𩅦	dan
+𩅾	dan
+𩈉	dan
+𩈊	dan
+𩈞	dao
+𩏒	da
+𩏥	dan
+𩕤	dan
+𩕯	dao
+𩝣	da
+𩟈	dang
+𩟐	da
+𩣯	da
+𩩧	dan
+𩬱	dao
+𩭟	dao
+𩭣	da
+𩵕	dao
+𩺗	da
+𩼉	dang
+𩽳	dang
+𪀩	dan
+𪆻	dan
+𪇁	dang
+𪐝	dai
+𪒡	dai
+𪒾	dan
+𪠽	dang
+𫟼	da
+𫟼	da	2
 𫟼元素	da yuan su	100
+𫢸	dan	3
+𬍡	dang	1
+𬘘	dan	95
 𬘘鼓留公	dan gu liu gong	100
+𮹝	da
+𱍂	da

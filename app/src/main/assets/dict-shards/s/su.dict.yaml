@@ -3,6 +3,54 @@ name: merged.su
 version: "1.0"
 sort: by_weight
 ...
+㑉	su
+㑛	su
+㒸	sui
+㓘	su
+㔄	su
+㔯	suan
+㔼	sun
+㕖	su
+㛖	suo
+㜚	su
+㝛	su
+㞸	sui
+㡄	sun
+㥛	su
+㥞	sui
+㦏	sun
+㨞	su
+㩋	su
+㪩	su
+㪽	suo
+㬘	su
+㮦	suo
+㯈	su
+㰂	sun
+㱔	suo
+㱹	suan
+㴋	su
+㴑	su
+㴚	sui
+㴼	su
+㵦	sui
+㻟	sui
+㻪	sui
+㻽	sui
+䁚	sun
+䂹	suo
+䃤	su
+䅇	su
+䅑	sui
+䅗	sui
+䅴	suo
+䆳	sui
+䇤	su
+䈗	suo
+䉌	sui
+䌇	suo
+䌚	su
+䍁	sui
 䍁凤鳚	sui feng wei	1
 䍁小颌海龙	sui xiao he hai long	1
 䍁瓣拟𩽾𩾌	sui ban ni an kang	1
@@ -11,6 +59,40 @@ sort: by_weight
 䍁鳍鮗	sui qi dong	1
 䍁鳞小沙丁鱼	sui lin xiao sha ding yu	1
 䍁鳞沙丁鱼	sui lin sha ding yu	1
+䎘	su
+䏋	su
+䐝	suo
+䐣	sun
+䑿	su
+䓾	suo
+䔋	suo
+䔎	su
+䔹	sui
+䖛	suo
+䘻	su
+䛾	su
+䜆	sui
+䜔	sui
+䞆	suo
+䞽	suo
+䠔	sui
+䡵	sui
+䢫	sui
+䣔	suo
+䤭	sui
+䥔	su
+䥙	sui
+䩳	su
+䪎	sui
+䭉	sui
+䯝	sui
+䲀	sui
+䵀	suo
+乺	suo
+亗	sui
+些	suo
+俗	su
+俗	su	134099
 俗下文字	su xia wen zi	1
 俗不可医	su bu ke yi	3
 俗不可耐	su bu ke nai	3810
@@ -63,12 +145,29 @@ sort: by_weight
 俗谚口碑	su yan kou bei	100
 俗鄙	su bi	70
 俗随时变	su sui shi bian	100
+倠	sui
+傃	su
+傃	su	4
+傞	suo
+僳	su
+僳	su	162
+匴	suan
+哸	sui
+唆	suo
+唆	suo	7269
 唆使	suo shi	9540
 唆使者	suo shi zhe	100
+唢	suo
+唢	suo	1028
 唢呐	suo na	12740
+喰	sun
+嗉	su
+嗉	su	248
 嗉囊	su nang	1070
 嗉囊腺	su nang xian	100
 嗉子	su zi	125
+嗍	suo
+嗍	suo	9186
 嗍一下	suo yi xia	100
 嗍一口	suo yi kou	1184
 嗍一嗍	suo yi suo	989
@@ -86,6 +185,17 @@ sort: by_weight
 嗍面	suo mian	123
 嗍面条	suo mian tiao	123
 嗍面条儿	suo mian tiao er	123
+嗦	suo
+嗦	suo	4752
+嗩	suo
+嗺	sui
+囌	su
+圱	su
+埣	su
+埣	sui
+塐	su
+塑	su
+塑	su	49903
 塑像	su xiang	42090
 塑化	su hua	8960
 塑化剂	su hua ji	4318
@@ -237,6 +347,9 @@ sort: by_weight
 塑钢窗	su gang chuang	5945
 塑钢门	su gang men	1355
 塑钢门窗	su gang men chuang	16590
+夊	sui
+夙	su
+夙	su	4086
 夙兴夜处	su xing ye chu	1
 夙兴夜寐	su xing ye mei	1040
 夙兴昧旦	su xing mei dan	1
@@ -251,6 +364,8 @@ sort: by_weight
 夙愿以偿	su yuan yi chang	100
 夙愿得偿	su yuan de chang	100
 夙愿达成	su yuan da cheng	100
+娑	suo
+娑	suo	5056
 娑娜	suo na	9999
 娑婆世界	suo po shi jie	4575
 娑婆乡	suo po xiang	6
@@ -261,6 +376,12 @@ sort: by_weight
 娑罗子	suo luo zi	90
 娑罗家园	suo luo jia yuan	1
 娑罗树	suo luo shu	41
+娞	sui
+嫅	suo
+嫊	su
+嬘	sui
+孙	sun
+孙	sun	421364
 孙一宁	sun yi ning	1680
 孙一文	sun yi wen	138
 孙三娘	sun san niang	158
@@ -636,6 +757,9 @@ sort: by_weight
 孙香香	sun xiang xiang	108
 孙高	sun gao	5
 孙鲁育	sun lu yu	166
+孫	sun
+宿	su
+宿	su	181931
 宿世冤业	su shi yuan ye	100
 宿世冤仇	su shi yuan chou	100
 宿世冤家	su shi yuan jia	100
@@ -877,8 +1001,12 @@ sort: by_weight
 宿骆氏亭寄怀崔雍崔衮	su luo shi ting ji huai cui yong cui gun	1
 宿鸟归飞急	su niao gui fei ji	12
 宿鸭湖	su ya hu	100
+尿	sui
+尿	sui	2000
 尿泡	sui pao	700
 尿脬	sui pao	800
+岁	sui
+岁	sui	456625
 岁不与我	sui bu yu wo	100
 岁不我与	sui bu wo yu	100
 岁丰年稔	sui feng nian ren	100
@@ -988,6 +1116,14 @@ sort: by_weight
 岁静婊	sui jing biao	100
 岁首	sui shou	3240
 岁高龄	sui gao ling	100
+嵗	sui
+惢	suo
+愫	su
+愫	su	4908
+愬	su
+憟	su
+所	suo
+所	suo	3534172
 所不同	suo bu tong	61860
 所不愿	suo bu yuan	1685
 所不胜	suo bu sheng	54
@@ -1713,6 +1849,12 @@ sort: by_weight
 所领导	suo ling dao	11965
 所饰演的角色	suo shi yan de jue se	100
 所高校	suo gao xiao	100
+扻	sun
+挱	suo
+挲	suo
+挲	suo	100
+损	sun
+损	sun	160063
 损一损	sun yi sun	123
 损上益下	sun shang yi xia	100
 损下益上	sun xia yi shang	16
@@ -1809,9 +1951,22 @@ sort: by_weight
 损耗程度	sun hao cheng du	100
 损耗角	sun hao jiao	535
 损耗量	sun hao liang	700
+損	sun
+搎	sun
+摌	sun
+摍	suo
+摵	su
+旞	sui
+旞	sui	1
+暛	suo
+桫	suo
+桫	suo	1280
 桫椤	suo luo	510
 桫椤属	suo luo shu	134
 桫椤树	suo luo shu	432
+梀	su
+梭	suo
+梭	suo	31489
 梭伦改革	suo lun gai ge	255
 梭哈	suo ha	3785
 梭哈高手	suo ha gao shou	9
@@ -1837,14 +1992,36 @@ sort: by_weight
 梭镖	suo biao	1485
 梭鱼	suo yu	1520
 梭鱼类	suo yu lei	100
+棴	su
+榡	su
+榫	sun
+榫	sun	395
 榫凿	sun zao	40
 榫卯	sun mao	5555
 榫头	sun tou	9999
 榫子	sun zi	1
 榫眼	sun yan	665
+槂	sun
+樎	su
+樕	su
+橚	su
+檖	sui
+櫯	su
+歲	sui
+歳	sui
+殐	su
+毸	sui
+泝	su
+洬	su
+浽	sui
+涑	su
+涑	su	387
 涑水	su shui	16
 涑水河	su shui he	100
 涑水记闻	su shui ji wen	100
+溑	suo
+溯	su
+溯	su	8725
 溯及力	su ji li	1770
 溯本求源	su ben qiu yuan	255
 溯江而上	su jiang er shang	920
@@ -1868,13 +2045,38 @@ sort: by_weight
 溯溪	su xi	109
 溯端竟委	su duan jing wei	1
 溯雪	su xue	505
+溸	su
+溹	suo
+溹	suo	1
+滖	sui
+潚	su
+潠	sun
+潥	su
+澻	sui
+濉	sui
+濉	sui	101
 濉河	sui he	1
 濉溪	sui xi	3920
 濉溪县	sui xi xian	2050
+瀡	sui
+煫	sui
+熣	sui
+燧	sui
+燧	sui	2712
 燧人氏	sui ren shi	865
 燧石	sui shi	2405
 燧石行动	sui shi xing dong	100
+狲	sun
+狲	sun	1343
+狻	suan
+狻	suan	1715
 狻猊	suan ni	1485
+猻	sun
+獕	suo
+玊	su
+珟	su
+琐	suo
+琐	suo	22361
 琐事	suo shi	27150
 琐尾流离	suo wei liu li	3
 琐屑	suo xie	9999
@@ -1891,8 +2093,25 @@ sort: by_weight
 琐议	suo yi	1
 琐谈	suo tan	615
 琐闻	suo wen	135
+琑	suo
+瑣	suo
+璅	suo
+璛	su
+璲	sui
+璲	sui	3
+瓍	sui
+甦	su
+甦	su	53
+痠	suan
+眭	sui
+眭	sui	301
+睃	suo
+睃	suo	579
 睃川县	suo chuan xian	9
+睟	sui
 睟面盎背	sui mian ang bei	1
+睢	sui
+睢	sui	1785
 睢县	sui xian	2180
 睢园绿竹	sui yuan lv zhu	100
 睢宁	sui ning	3600
@@ -1903,6 +2122,9 @@ sort: by_weight
 睢阳之战	sui yang zhi zhan	100
 睢阳区	sui yang qu	1390
 睢阳大道	sui yang da dao	199
+砕	sui
+碎	sui
+碎	sui	220325
 碎一地	sui yi di	100
 碎不了	sui bu liao	35
 碎了	sui le	6460
@@ -2022,6 +2244,18 @@ sort: by_weight
 碎骨粉身	sui gu fen shen	100
 碎骨锤	sui gu chui	100
 碎骨骷髅	sui gu ku lou	16
+碿	su
+祘	suan
+祟	sui
+祟	sui	16287
+禭	sui
+稡	su
+稣	su
+稣	su	9756
+穂	sui
+穌	su
+穗	sui
+穗	sui	13995
 穗东街	sui dong jie	52
 穗东街道	sui dong jie dao	7
 穗儿	sui er	940
@@ -2043,6 +2277,13 @@ sort: by_weight
 穗香村	sui xiang cun	3
 穗高有纪	sui gao you ji	6666
 穗高结花	sui gao jie hua	6666
+穟	sui
+穟	sui	9
+窣	su
+窣	su	1343
+笇	suan
+笋	sun
+笋	sun	7472
 笋丁	sun ding	125
 笋丝	sun si	5
 笋丝百叶	sun si bai ye	1
@@ -2066,6 +2307,10 @@ sort: by_weight
 笋螺科	sun luo ke	100
 笋鲍鱼汤	sun bao yu tang	4
 笋鸡	sun ji	375
+筍	sun
+筭	suan
+算	suan
+算	suan	1263186
 算一下	suan yi xia	5840
 算一个	suan yi ge	3
 算一天	suan yi tian	2170
@@ -2379,9 +2624,19 @@ sort: by_weight
 算长远账	suan chang yuan zhang	100
 算题	suan ti	1360
 算香吗	suan xiang ma	100
+箰	sun
+篹	suan
+簌	su
+簌	su	12731
 簌簌	su su	9265
 簌簌发抖	su su fa dou	100
 簌簌衣巾落枣花	su su yi jin luo zao hua	1
+簑	suo
+簔	suo
+簨	sun
+粛	su
+粟	su
+粟	su	10358
 粟丘疹	su qiu zhen	175
 粟国雄	su guo xiong	187
 粟子	su zi	1065
@@ -2401,6 +2656,8 @@ sort: by_weight
 粟红贯朽	su hong guan xiu	6
 粟裕	su yu	2
 粟陈贯朽	su chen guan xiu	1
+素	su
+素	su	320732
 素三角凤凰螺	su san jiao feng huang luo	1
 素不	su bu	4310
 素不以为然	su bu yi wei ran	100
@@ -2613,6 +2870,8 @@ sort: by_weight
 素黑	su hei	25
 素黑带瓢虫	su hei dai piao chong	1
 素龙街道	su long jie dao	24
+索	suo
+索	suo	329201
 索乌萨	suo wu sa	1
 索书号	suo shu hao	4625
 索他洛尔	suo ta luo er	69
@@ -2816,6 +3075,17 @@ sort: by_weight
 索马里红牡丹宝螺	suo ma li hong mu dan bao luo	1
 索马里联邦	suo ma li lian bang	9999
 索马里联邦共和国	suo ma li lian bang gong he guo	9999
+綏	sui
+縒	suo
+縗	sui
+縤	su
+縮	su
+縮	suo
+繀	sui
+繐	sui
+繸	sui
+绥	sui
+绥	sui	6678
 绥中	sui zhong	37
 绥中北	sui zhong bei	280
 绥中县	sui zhong xian	145
@@ -2852,6 +3122,11 @@ sort: by_weight
 绥靖主义	sui jing zhu yi	175
 绥靖公署	sui jing gong shu	1345
 绥靖政策	sui jing zheng ce	880
+缞	sui
+缩	su
+缩	su	1
+缩	suo
+缩	suo	146921
 缩一缩	suo yi suo	123
 缩下去	suo xia qu	180
 缩下来	suo xia lai	100
@@ -3019,6 +3294,8 @@ sort: by_weight
 缩阴	suo yin	1
 缩阴球	suo yin qiu	100
 缩骨	suo gu	2
+羧	suo
+羧	suo	36
 羧基	suo ji	4260
 羧基端	suo ji duan	175
 羧基谷氨酸	suo ji gu an suan	70
@@ -3034,6 +3311,8 @@ sort: by_weight
 羧酶	suo mei	55
 羧酸	suo suan	7240
 羧酸钠	suo suan na	100
+肃	su
+肃	su	126387
 肃北	su bei	1
 肃北县	su bei xian	300
 肃北蒙古族自治县	su bei meng gu zu zi zhi xian	100
@@ -3067,6 +3346,12 @@ sort: by_weight
 肃静	su jing	5300
 肃静无声	su jing wu sheng	125
 肃顺	su shun	18
+肅	su
+膆	su
+膸	sui
+芕	sui
+苏	su
+苏	su	465272
 苏一二村	su yi er cun	4
 苏三	su san	6920
 苏三四村	su san si cun	3
@@ -3717,13 +4002,25 @@ sort: by_weight
 苏黎世联邦理工学院	su li shi lian bang li gong xue yuan	100
 苏黎士	su li shi	2320
 苏黎明	su li ming	100
+荪	sun
+荪	sun	1922
 荪桡兮兰旌	sun rao xi lan jing	1
 荪角四宝汤	sun jiao si bao tang	1
+荽	sui
+荽	sui	263
+荾	sui
+莎	suo
+莎	suo	1
 莎草	suo cao	9999
 莎草属	suo cao shu	100
 莎草根	suo cao gen	1
 莎草科	suo cao ke	100
 莎草纸	suo cao zhi	11
+莏	suo
+莤	su
+葰	suo	41
+蒜	suan
+蒜	suan	14174
 蒜叶	suan ye	532
 蒜头	suan tou	10355
 蒜头花仙螺	suan tou hua xian luo	1
@@ -3772,6 +4069,9 @@ sort: by_weight
 蒜香鲶鱼	suan xiang nian yu	7
 蒜鸟	suan niao	1111
 蒜黄	suan huang	9999
+蓀	sun
+蓑	suo
+蓑	suo	1539
 蓑叶虫	suo ye chong	100
 蓑叶蛾	suo ye e	100
 蓑笠	suo li	1111
@@ -3784,6 +4084,15 @@ sort: by_weight
 蓑衣虫病	suo yi chong bing	1
 蓑鲉	suo you	33
 蓑鲉绦刺鱼蚤	suo you tao ci yu zao	1
+蔌	su
+蔌	su	460
+蕵	sun
+薞	sun
+藗	su
+蘇	su
+蘓	su
+虽	sui
+虽	sui	1211358
 虽一毫而莫取	sui yi hao er mo qu	26
 虽一龙发机	sui yi long fa ji	1
 虽不	sui bu	88920
@@ -3922,6 +4231,18 @@ sort: by_weight
 虽难	sui nan	2250
 虽非	sui fei	8795
 虽鸡狗不得宁焉	sui ji gou bu de ning yan	1
+蜶	suo
+褨	suo
+襚	sui
+襚	sui	2
+觫	su
+觫	su	158
+訴	su
+誶	sui
+謖	su
+譢	sui
+诉	su
+诉	su	667093
 诉不尽	su bu jin	955
 诉中财产保全	su zhong cai chan bao quan	32
 诉冤	su yuan	595
@@ -4031,10 +4352,21 @@ sort: by_weight
 诉辩	su bian	1135
 诉辩交易	su bian jiao yi	290
 诉述	su shu	615
+谇	sui
+谇	sui	132
 谇帚德锄	sui zhou de chu	1
+谡	su
+谡	su	2037
 谡愿以死安大局	su yuan yi si an da ju	100
 谡谡长松	su su chang song	1
+賥	sui
+趖	suo
+趚	su
+蹜	su
+蹜	su	3
 蹜蹜	su su	1
+速	su
+速	su	614540
 速不台	su bu tai	1
 速与	su yu	7335
 速亡	su wang	107
@@ -4388,6 +4720,10 @@ sort: by_weight
 速食餐厅	su shi can ting	120
 速驾	su jia	2
 速龙	su long	12180
+逤	suo
+遀	sui
+遂	sui
+遂	sui	54528
 遂与	sui yu	3333
 遂与外人间隔	sui yu wai ren jian ge	4
 遂与尘事冥	sui yu chen shi ming	1
@@ -4463,9 +4799,16 @@ sort: by_weight
 遂迷忘反	sui mi wang fan	1
 遂那些人的意	sui na xie ren de yi	100
 遂非文过	sui fei wen guo	1
+遡	su
+遬	su
+遺	sui
+邃	sui
+邃	sui	13142
 邃密	sui mi	255
 邃密群科济世穷	sui mi qun ke ji shi qiong	1180
 邃远	sui yuan	95
+酥	su
+酥	su	18511
 酥乳	su ru	5555
 酥制培乳	su zhi pei ru	1
 酥卷佛手	su juan fo shou	3
@@ -4549,6 +4892,8 @@ sort: by_weight
 酥鲫鱼	su ji yu	176
 酥麻	su ma	6935
 酥麻麻	su ma ma	100
+酸	suan
+酸	suan	115604
 酸不啦唧	suan bu la ji	45
 酸不拉唧	suan bu la ji	5
 酸不溜丢	suan bu liu diu	70
@@ -4803,6 +5148,17 @@ sort: by_weight
 酸黄瓜	suan huang gua	100
 酸黄菜	suan huang cai	23
 酸鼻	suan bi	80
+鋉	su
+鎍	suo
+鎖	suo
+鎨	sun
+鎻	suo
+鏁	suo
+鏸	sui
+鐆	sui
+鐩	sui
+锁	suo
+锁	suo	133243
 锁上	suo shang	15590
 锁上去	suo shang qu	100
 锁上来	suo shang lai	100
@@ -4945,6 +5301,8 @@ sort: by_weight
 锁龙乡	suo long xiang	8
 锁龙挂	suo long gua	100
 锁𬌗畸形	suo he ji xing	100
+隋	sui
+隋	sui	26353
 隋与高句丽的战争	sui yu gao gou li de zhan zheng	1
 隋书	sui shu	5010
 隋代	sui dai	7190
@@ -4985,6 +5343,8 @@ sort: by_weight
 隋珠赵璧	sui zhu zhao bi	100
 隋菲菲	sui fei fei	24
 隋高飞	sui gao fei	187
+随	sui
+随	sui	1016322
 随上荷叶卷	sui shang he ye juan	3
 随世沉浮	sui shi chen fu	1
 随之	sui zhi	199895
@@ -5718,6 +6078,8 @@ sort: by_weight
 随高就低	sui gao jiu di	100
 随高逐下	sui gao zhu xia	100
 随高逐低	sui gao zhu di	100
+隧	sui
+隧	sui	9003
 隧洞	sui dong	6750
 隧道	sui dao	161140
 隧道六线	sui dao liu xian	37
@@ -5737,7 +6099,23 @@ sort: by_weight
 隧道长	sui dao chang	100
 隧道长度	sui dao chang du	100
 隧道门	sui dao men	40
+隨	sui
+隼	sun
+隼	sun	5018
+雖	sui
+鞖	sui
+韢	sui
+飧	sun
+飧	sun	384
+飱	sun
+餗	su
+驌	su
+骕	su
+骕	su	55
 骕骦	su shuang	2
+髄	sui
+髓	sui
+髓	sui	18935
 髓之府	sui zhi fu	2
 髓内钉	sui nei ding	30
 髓木	sui mu	25
@@ -5749,4 +6127,208 @@ sort: by_weight
 髓质	sui zhi	30
 髓过氧化物酶	sui guo yang hua wu mei	100
 髓鞘	sui qiao	40
+鮻	suo
+鯂	su
+鱐	su
+鶽	sun
+鷫	su
+鹔	su
+鹔	su	22
 鹔鹴	su shuang	1
+𠈱	suo
+𠋲	suo
+𠌱	sui
+𠐍	su
+𠕸	sui
+𠗼	suo
+𠘺	suo
+𠝿	suo
+𠞯	suo
+𠣬	sun
+𠥘	suan
+𠨌	sui
+𠩄	suo
+𠭥	sui
+𠱗	suo
+𠷃	su
+𠻜	su
+𡎮	su
+𡑞	sui
+𡖯	su
+𡝓	sui
+𡩡	suo
+𡱳	suo
+𡶣	sui
+𡷼	sui
+𡹖	sui
+𢅕	sui
+𢇥	sui
+𢈼	sui
+𢎎	su
+𢒱	sui
+𢖏	su
+𢘿	suo
+𢚑	su
+𢚭	suo
+𢟩	sui
+𢢒	su
+𢱡	suo
+𢱢	suo
+𢷾	suo
+𢸫	su
+𣄧	sui
+𣒹	suo
+𣕍	sun
+𣝝	su
+𣩡	sui
+𣩷	su
+𣫎	su
+𣮄	sui
+𣯌	suo
+𣯧	sui
+𣯯	sui
+𣯼	su
+𣶘	su
+𣷶	su
+𣿈	su
+𤀤	suo
+𤌂	su
+𤛝	su
+𤠚	su
+𤡃	su
+𤡪	sui
+𤢂	su
+𤢘	su
+𤤐	su
+𤥔	su
+𤬫	sui
+𤭢	sui
+𤭴	su
+𤯖	sui
+𤶤	suan
+𤸮	su
+𤸴	suo
+𤺫	suo
+𤻄	sui
+𤼀	su
+𥁲	suo
+𥆝	suo
+𥇇	suo
+𥊴	sui
+𥔭	suo
+𥕘	suo
+𥕸	sui
+𥡜	sui
+𥢍	sui
+𥤼	sui
+𥰼	suo
+𥱵	sui
+𥳪	suan
+𥴦	sui
+𥴵	suan
+𥶻	sui
+𦃒	sui
+𦄑	sui
+𦅊	suo
+𦅵	sui
+𦇀	sui
+𦉎	sui
+𦌉	su
+𦌊	su
+𦎄	su
+𦟱	suo
+𦠆	sun
+𦵫	suo
+𦵭	sui
+𦸏	sui
+𦾹	suan
+𧀌	su
+𧂍	sun
+𧃚	sui
+𧆑	sui
+𧈧	sui
+𧌢	sui
+𧎤	sun
+𧎫	suo
+𧎳	suo
+𧐁	su
+𧐒	su
+𧐴	su
+𧔖	su
+𧛻	suo
+𧜦	su
+𧞸	sui
+𧞺	su
+𧡏	sui
+𧥆	su
+𧨀	suo
+𧨧	sui
+𧩝	su
+𧲈	sui
+𧴪	suo
+𧴲	suo
+𧸙	sui
+𧺷	su
+𧼭	su
+𧽷	su
+𨆏	sui
+𨒉	sui
+𨒽	suo
+𨠡	suan
+𨣢	sui
+𨷃	sui
+𨻈	suo
+𨻨	suo
+𨾡	sui
+𨾬	sui
+𩃃	sui
+𩆑	suan
+𩈲	suan
+𩊮	suo
+𩋝	suo
+𩌆	suo
+𩌈	suo
+𩌢	suo
+𩌩	sui
+𩍚	sui
+𩎰	sui
+𩏘	sui
+𩏚	sui
+𩏲	sui
+𩐫	su
+𩐼	su
+𩗶	sui
+𩘝	suo
+𩘰	su
+𩘹	su
+𩙇	sui
+𩝌	sui
+𩝥	su
+𩞅	sui
+𩡾	suo
+𩪈	suo
+𩮛	suo
+𩮴	sui
+𩲵	su
+𩳒	su
+𩹳	suo
+𪁽	su
+𪄑	su
+𪅄	su
+𪋝	su
+𪌔	su
+𪌮	suo
+𪍌	suo
+𪍔	suo
+𪍛	su
+𪍟	suo
+𪍨	suo
+𪐮	su
+𪖶	su
+𪘑	suan
+𪘝	suan
+𫗧	su	7
+𫟦	sui
+𫟦	sui	1
+𬭼	sui	1
+𱇳	suo

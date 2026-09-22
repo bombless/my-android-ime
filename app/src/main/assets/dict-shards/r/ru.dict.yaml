@@ -3,6 +3,63 @@ name: merged.ru
 version: "1.0"
 sort: by_weight
 ...
+㐵	ru
+㓴	ruan
+㓹	rui
+㕙	rui
+㛱	rui
+㜛	ruan
+㝄	run
+㠈	run
+㦺	ru
+㨅	rui
+㨌	ru
+㨎	ru
+㨎	ruan
+㪫	rui
+㬉	ruo
+㮃	rui
+㮕	ruan
+㱶	ru
+㲊	rui
+㹘	ru
+㹘	rui
+㻔	rui
+㼋	ru
+㼱	ruan
+㽭	ruan
+㾒	ru
+䂱	rui
+䅑	rui
+䆓	ruan
+䇤	rui
+䋈	ru
+䋴	ru
+䌼	rui
+䍴	rui
+䎡	ruan
+䏕	run
+䐓	ru
+䐞	ruo
+䓲	rui
+䓴	ruan
+䘫	ru
+䙃	ruan
+䙇	ruan
+䞂	ruan
+䞕	ru
+䞩	rui
+䤉	ru
+䦌	rui
+䦞	run
+䪀	ruan
+䪭	ruan
+䫱	ru
+䰭	ru
+䰰	ru
+䳠	rui
+乳	ru
+乳	ru	68901
 乳业	ru ye	42790
 乳业联盟	ru ye lian meng	100
 乳中	ru zhong	2685
@@ -273,7 +330,13 @@ sort: by_weight
 乳黄色	ru huang se	1845
 乳黄雕鸮	ru huang diao xiao	1
 乳齿	ru chi	765
+侞	ru
+偄	ruan
+偌	ruo
+偌	ruo	12710
 偌大	ruo da	25105
+儒	ru
+儒	ru	53866
 儒以文乱法	ru yi wen luan fa	100
 儒冠多误身	ru guan duo wu shen	2
 儒冠误身	ru guan wu shen	1
@@ -329,6 +392,11 @@ sort: by_weight
 儒雅随和	ru ya sui he	100
 儒雅风流	ru ya feng liu	225
 儒鲁亚河隐带丽鱼	ru lu ya he yin dai li yu	1
+兊	rui
+兌	rui
+兑	rui
+入	ru
+入	ru	1472056
 入一个	ru yi ge	100
 入三摩地	ru san mo di	100
 入不了	ru bu liao	1670
@@ -858,10 +926,23 @@ sort: by_weight
 入魔	ru mo	3875
 入鲍忘臭	ru bao wang chou	1
 入黑	ru hei	2515
+叒	ruo
+叡	rui
+吺	ru
+嗕	ru
+嚅	ru
+嚅	ru	6865
 嚅动	ru dong	475
 嚅嗫	ru nie	1
 嚅嚅	ru ru	575
+堧	ruan
+堧	ruan	4
+壖	ruan
+壡	rui
+女	ru
 女闻人籁而未闻地籁	ru wen ren lai er wei wen di lai	1
+如	ru
+如	ru	4308194
 如一	ru yi	43415
 如一日	ru yi ri	9935
 如三月兮	ru san yue xi	57
@@ -2021,6 +2102,15 @@ sort: by_weight
 如鼓琴瑟	ru gu qin se	26
 如龙	ru long	111
 如龙似虎	ru long si hu	100
+婼	ruo
+婼	ruo	88
+媆	ruan
+媆	ruan	1
+媷	ru
+嬬	ru
+嬬	ru	13
+孺	ru
+孺	ru	9093
 孺人	ru ren	1240
 孺子	ru zi	5355
 孺子不可教也	ru zi bu ke jiao ye	665
@@ -2030,6 +2120,11 @@ sort: by_weight
 孺子牛	ru zi niu	2720
 孺弱	ru ruo	45
 孺悲欲见孔子	ru bei yu jian kong zi	1
+嵶	ruo
+嶿	ru
+帤	ru
+弱	ruo
+弱	ruo	305241
 弱一些	ruo yi xie	62
 弱一致性模型	ruo yi zhi xing mo xing	84
 弱丁鱼	ruo ding yu	100
@@ -2163,19 +2258,44 @@ sort: by_weight
 弱骨丰肌	ruo gu feng ji	3
 弱鸟先飞	ruo niao xian fei	176
 弱鸡	ruo ji	1111
+惢	rui
+扖	ru
+抐	rui
+挐	ru
+挼	rua	1
+挼	ruo
+挼	ruo	1
 挼挲	ruo suo	2
 挼搓	ruo cuo	3
+捼	ruo
+撋	ruan
+擩	ru
+曘	ru
+朊	ruan
+朊	ruan	1
 朊毒体	ruan du ti	100
 朊病毒	ruan bing du	570
 朊粒	ruan li	4
 朊粒病	ruan li bing	4
 朊粒蛋白	ruan li dan bai	4
 朊蛋白	ruan dan bai	270
+杁	ru
+枘	rui
+枘	rui	95
 枘凿	rui zao	1
 枘凿冰炭	rui zao bing tan	100
 枘凿方圆	rui zao fang yuan	100
 枘圆凿方	rui yuan zao fang	100
 枘方凿圆	rui fang zao yuan	100
+桇	ru
+桵	rui
+楉	ruo
+橍	run
+橤	rui
+檽	ru
+檽	ruan
+汝	ru
+汝	ru	32816
 汝不知夫螳螂乎	ru bu zhi fu tang lang hu	1
 汝不能舍吾	ru bu neng she wu	3
 汝之不惠	ru zhi bu hui	31
@@ -2220,8 +2340,14 @@ sort: by_weight
 汝阳县	ru yang xian	895
 汝阳王	ru yang wang	124
 汝阴	ru yin	6
+汭	rui
+汭	rui	35
 汭丰乡	rui feng xiang	14
+洳	ru
+洳	ru	195
 洳河	ru he	189
+润	run
+润	run	106301
 润一润	run yi run	128
 润不润	run bu run	100
 润东	run dong	835
@@ -2329,13 +2455,27 @@ sort: by_weight
 润霞	run xia	2425
 润饰	run shi	2935
 润饼菜	run bing cai	100
+渃	ruo
+渪	ru
+溽	ru
+溽	ru	212
 溽暑	ru shu	635
 溽热	ru re	220
+潤	run
+濡	ru
+濡	ru	4432
 濡染	ru ran	1305
 濡沫涸辙	ru mo he zhe	1
 濡湿	ru shi	2415
 濡滞	ru zhi	100
 濡鸦之巫女	ru ya zhi wu nv	100
+焫	ruo
+爇	ruo
+爇	ruo	35
+獳	ru
+瑌	ruan
+瑞	rui
+瑞	rui	161507
 瑞东	rui dong	101
 瑞丰	rui feng	9195
 瑞丰农庄	rui feng nong zhuang	1
@@ -2546,6 +2686,11 @@ sort: by_weight
 瑞鹤仙	rui he xian	100
 瑞麟志	rui lin zhi	100
 瑞龙	rui long	1
+瓀	ruan
+瓀	ruan	3
+甤	rui
+睿	rui
+睿	rui	24474
 睿哲	rui zhe	465
 睿宗	rui zong	30
 睿志诚	rui zhi cheng	65
@@ -2558,6 +2703,13 @@ sort: by_weight
 睿频	rui pin	1111
 睿频加速	rui pin jia su	100
 睿频加速技术	rui pin jia su ji shu	100
+瞤	run
+碝	ruan
+礝	ruan
+笍	rui
+筎	ru
+箬	ruo
+箬	ruo	633
 箬叶	ruo ye	32
 箬叶芝麻糖细卷	ruo ye zhi ma tang xi juan	2
 箬帽	ruo mao	80
@@ -2565,8 +2717,22 @@ sort: by_weight
 箬横镇	ruo heng zhen	174
 箬竹	ruo zhu	1
 箬笠	ruo li	700
+篛	ruo
+緌	rui
+緛	ruan
+縟	ru
+繠	rui
+繻	ru
+缛	ru
+缛	ru	1142
 缛礼烦仪	ru li fan yi	1
 缛节	ru jie	70
+耎	ruan
+肗	ru
+腝	ruan
+膶	run
+芮	rui
+芮	rui	10037
 芮依姿	rui yi zi	1
 芮克妮	rui ke ni	9
 芮城	rui cheng	1895
@@ -2579,6 +2745,8 @@ sort: by_weight
 芮氏规模	rui shi gui mo	100
 芮甜甜	rui tian tian	183
 芮迺伟	rui nai wei	89
+若	ruo
+若	ruo	809209
 若不	ruo bu	119450
 若不慎	ruo bu shen	1255
 若不是	ruo bu shi	33260
@@ -2861,6 +3029,9 @@ sort: by_weight
 若非月下即花前	ruo fei yue xia ji hua qian	1
 若非群玉山头见	ruo fei qun yu shan tou jian	4
 若饭	ruo fan	111
+苼	rui
+茹	ru
+茹	ru	49430
 茹丝葵	ru si kui	100
 茹佛普迪蛛	ru fo pu di zhu	1
 茹古涵今	ru gu han jin	100
@@ -2874,11 +3045,32 @@ sort: by_weight
 茹苦食辛	ru ku shi xin	1
 茹荤饮酒	ru hun yin jiu	100
 茹鱼去蝇	ru yu qu ying	1
+蒘	ru
+蒻	ruo
+蒻	ruo	20
+蓐	ru
+蓐	ru	202
+蕊	rui
+蕊	rui	43461
 蕊中	rui zhong	245
 蕊蕊	rui rui	4565
 蕊黄无限当山额	rui huang wu xian dang shan e	1
+蕋	rui
+蕠	ru
+蕤	rui
+蕤	rui	503
 蕤宾	rui bin	2
 蕤宾铁响	rui bin tie xiang	2
+薷	ru
+薷	ru	117
+蘂	rui
+蘃	rui
+蚋	rui
+蚋	rui	636
+蜹	rui
+蝡	ruan
+蠕	ru
+蠕	ru	11004
 蠕动	ru dong	41320
 蠕动前进	ru dong qian jin	100
 蠕变	ru bian	3800
@@ -2894,12 +3086,21 @@ sort: by_weight
 蠕蠕	ru ru	1115
 蠕蠕而动	ru ru er dong	400
 蠕行模式	ru xing mo shi	100
+袽	ru
+褥	ru
+褥	ru	8394
 褥单	ru dan	190
 褥垫	ru dian	1040
 褥套	ru tao	1111
 褥子	ru zi	6507
 褥疮	ru chuang	5990
+襦	ru
+襦	ru	336
 襦裙	ru qun	111
+軟	ruan
+輭	ruan
+软	ruan
+软	ruan	239536
 软一点	ruan yi dian	100
 软下疳	ruan xia gan	3615
 软不叮当	ruan bu ding dang	100
@@ -3456,6 +3657,8 @@ sort: by_weight
 软黄金	ruan huang jin	1150
 软𤆵𤆵	ruan pa pa	101
 软𤆵𤆵的	ruan pa pa de	101
+辱	ru
+辱	ru	85827
 辱了	ru le	1234
 辱人贱行	ru ren jian xing	1
 辱军	ru jun	111
@@ -3476,8 +3679,21 @@ sort: by_weight
 辱门败户	ru men bai hu	100
 辱骂	ru ma	38000
 辱骂者	ru ma zhe	55
+邚	ru
+鄀	ruo
+鄀	ruo	8
+鄏	ru
+醹	ru
+銣	ru
+銳	rui
+鋭	rui
+鏸	rui
+铷	ru
+铷	ru	7
 铷元素	ru yuan su	100
 铷原子	ru yuan zi	123
+锐	rui
+锐	rui	112841
 锐不可当	rui bu ke dang	2795
 锐不可挡	rui bu ke dang	111
 锐减	rui jian	19015
@@ -3517,6 +3733,10 @@ sort: by_weight
 锐雯	rui wen	123
 锐骐多功能商用车	rui qi duo gong neng shang yong che	95
 锐龙	rui long	2017
+閏	run
+閠	run
+闰	run
+闰	run	3632
 闰一月	run yi yue	100
 闰七月	run qi yue	100
 闰三月	run san yue	470
@@ -3535,6 +3755,8 @@ sort: by_weight
 闰日	run ri	135
 闰月	run yue	4680
 闰秒	run miao	9999
+阮	ruan
+阮	ruan	34363
 阮一峰	ruan yi feng	100
 阮丹青	ruan dan qing	100
 阮云生	ruan yun sheng	3
@@ -3572,3 +3794,96 @@ sort: by_weight
 阮葵生	ruan kui sheng	2
 阮郎归	ruan lang gui	950
 阮长耿	ruan chang geng	33
+顬	ru
+颥	ru
+颥	ru	86
+鰙	ruo
+鰯	ruo
+鱬	ru
+鳰	ru
+鴑	ru
+鴽	ru
+鶸	ruo
+𠟺	ru
+𠟺	ruan
+𠤦	ru
+𠤦	ruan
+𠷀	run
+𡄲	ru
+𡈴	ru
+𡜃	ru
+𡜚	ru
+𡥶	ru
+𡫽	ru
+𡮚	ru
+𡯒	rui
+𢖵	ru
+𢘧	ruan
+𢛚	ru
+𢜪	ruo
+𢡵	ruan
+𢣳	rui
+𢱾	ruan
+𣃅	ruan
+𣖹	ru
+𣚐	ru
+𣛚	rui
+𣡗	ruan
+𣬘	rui
+𣭠	ru
+𣯋	ru
+𣽈	ru
+𣽈	ruan
+𣽉	ru
+𣽳	ruan
+𤍽	ruo
+𤡤	ru
+𤣼	ruo
+𤧠	ruan
+𤲬	ruan
+𥆧	run
+𥈇	ruan
+𥊶	ruan
+𥎀	ruan
+𥎘	ruan
+𥙦	ru
+𥞚	ru
+𥩗	ruan
+𥯬	ruan
+𥳝	rui
+𦤊	ru
+𦩸	ruo
+𦭰	ru
+𦳾	ru
+𦶇	ruan
+𦷸	ru
+𦺾	ruan
+𦼆	rui
+𧃪	ruo
+𧄜	rui
+𧊟	ru
+𨀝	ruo
+𨋚	ruan
+𨒩	ruan
+𨚴	ru
+𨧨	rui
+𨨜	ru
+𨨰	ruan
+𨪳	ruan
+𨬔	ruan
+𨳙	rui
+𨳝	run
+𨴚	ruo
+𨷎	run
+𩀋	run
+𩄋	ru
+𩍥	ru
+𩏈	ruan
+𩱨	ru
+𩶫	ru
+𩶯	ru
+𩸐	ru
+𪏩	rui
+𪏮	ru
+𪑾	ru
+𮉫	rui

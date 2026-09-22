@@ -3,6 +3,200 @@ name: merged.yu
 version: "1.0"
 sort: by_weight
 ...
+㑨	yu
+㒁	yu
+㒁	yun
+㒜	yu
+㔱	yu
+㘣	yuan
+㙑	yu
+㚃	yun
+㚜	yu
+㚞	yun
+㚥	yu
+㚺	yun
+㛣	yun
+㛪	yuan
+㜏	yun
+㜧	yue
+㜰	yue
+㝢	yu
+㝼	yu
+㞌	yun
+㟦	yun
+㟲	yuan
+㟶	yuan
+㠘	yu
+㠨	yu
+㡰	yu
+㣃	yu
+㤜	yu
+㤢	yu
+㤤	yu
+㤪	yuan
+㥐	yuan
+㥔	yu
+㥚	yu
+㥥	yu
+㥳	yuan
+㦛	yu
+㦽	yu
+㧒	yu
+㧒	yue
+㧕	yu
+㩈	yun
+㪀	yu
+㪌	yu
+㫹	yu
+㬂	yu
+㬦	yue
+㬰	yu
+㭇	yuan
+㭌	yu
+㭾	yue
+㮋	yu
+㯞	yue
+㰛	yue
+㰲	yu
+㲾	yu
+㳚	yu
+㳛	yu
+㵄	yu
+㵸	yue
+㶛	yu
+㷉	yu
+㷉	yun
+㷒	yu
+㹉	yuan
+㹊	yue
+㹼	yu
+㺄	yu
+㺄	yu	1
+㺞	yu
+㺠	yu
+㺮	yu
+㻀	yu
+㻰	yu
+㼂	yuan
+㼌	yu
+㼶	yu
+㽣	yu
+㽳	yu
+㾓	yun
+䁌	yu
+䁩	yu
+䂊	yu
+䂛	yu
+䃋	yu
+䄏	yu
+䄨	yu
+䅈	yuan
+䆕	yue
+䆢	yue
+䆬	yun
+䆷	yu
+䇖	yun
+䈅	yu
+䉙	yun
+䉛	yu
+䋐	yue
+䋖	yu
+䋤	yue
+䋭	yu
+䍂	yu
+䍞	yu
+䎀	yue
+䎉	yu
+䎳	yue
+䏍	yuan
+䏸	yu
+䐳	yu
+䒸	yue
+䓊	yu
+䔡	yu
+䖃	yue
+䖇	yu
+䖠	yuan
+䖤	yuan
+䗨	yu
+䘘	yu
+䘱	yu
+䘻	yu
+䙔	yu
+䚋	yun
+䛄	yuan
+䛇	yuan
+䛎	yu
+䛕	yu
+䜡	yu
+䜽	yu
+䝠	yuan
+䝹	yuan
+䞕	yu
+䞝	yu
+䞫	yun
+䟑	yue
+䟠	yue
+䟦	yuan
+䠯	yue
+䡇	yue
+䡝	yuan
+䡝	yun
+䢁	yue
+䢓	yu
+䢖	yu
+䢩	yu
+䢲	yue
+䢵	yun
+䣁	yu
+䣰	yuan
+䤋	yu
+䤞	yun
+䤦	yue
+䥃	yue
+䥏	yu
+䦾	yun
+䧕	yu
+䨁	yu
+䨊	yuan
+䨒	yu
+䨞	yu
+䨶	yun
+䩒	yu
+䩩	yuan
+䩵	yun
+䪳	yun
+䫻	yu
+䬂	yue
+䬄	yu
+䬇	yuan
+䬔	yu
+䬛	yu
+䬧	yuan
+䬼	yuan
+䭴	yuan
+䮇	yu
+䮙	yu
+䰥	yu
+䰻	yu
+䱷	yu
+䱾	yu
+䲣	yu
+䲮	yuan
+䲰	yun
+䲻	yuan
+䳁	yuan
+䳑	yu
+䳒	yuan
+䳣	yuan
+䴁	yu
+䵥	yu
+䵫	yu
+䵴	yun
+䶳	yue
+丂	yu
+与	yu
+与	yu	2104552
 与一位	yu yi wei	7850
 与一辆	yu yi liang	2640
 与万化冥合	yu wan hua ming he	1
@@ -646,6 +840,8 @@ sort: by_weight
 与魔鬼共骑	yu mo gui gong qi	5
 与魔鬼同行	yu mo gui tong xing	100
 与龙共舞	yu long gong wu	510
+乐	yue
+乐	yue	77726
 乐之邦	yue zhi bang	100
 乐友	yue you	6865
 乐友孕婴童	yue you yun ying tong	100
@@ -785,6 +981,9 @@ sort: by_weight
 乐队里	yue dui li	100
 乐队鼓手	yue dui gu shou	100
 乐音	yue yin	9999
+乻	yu
+予	yu
+予	yu	105542
 予一以贯之	yu yi yi guan zhi	1
 予不得已也	yu bu de yi ye	4
 予之不仁也	yu zhi bu ren ye	2
@@ -834,6 +1033,8 @@ sort: by_weight
 予观夫巴陵胜状	yu guan fu ba ling sheng zhuang	28
 予违汝弼	yu wei ru bi	1
 予齿去角	yu chi qu jiao	1
+于	yu
+于	yu	1614992
 于一役	yu yi yi	100
 于一身	yu yi shen	68220
 于不顾	yu bu gu	100
@@ -1101,6 +1302,9 @@ sort: by_weight
 于飞之愿	yu fei zhi yuan	100
 于鲁明	yu lu ming	109
 于默奥	yu mo ao	100
+亐	yu
+云	yun
+云	yun	1205872
 云上	yun shang	9999
 云上之城	yun shang zhi cheng	190
 云上冬奥	yun shang dong ao	100
@@ -2017,7 +2221,13 @@ sort: by_weight
 云龙溪蟹	yun long xi xie	1
 云龙绸带	yun long chou dai	3
 云龙风虎	yun long feng hu	100
+伃	yu
+伛	yu
+伛	yu	255
 伛偻	yu lv	960
+伝	yun
+余	yu
+余	yu	441792
 余一元	yu yi yuan	1
 余万元	yu wan yuan	100
 余万字	yu wan zi	150
@@ -2343,6 +2553,9 @@ sort: by_weight
 余香	yu xiang	9070
 余香满口	yu xiang man kou	425
 余鹏	yu peng	91
+俁	yu
+俞	yu
+俞	yu	26139
 俞万春	yu wan chun	2
 俞伯牙	yu bo ya	1395
 俞元泰	yu yuan tai	137
@@ -2383,6 +2596,17 @@ sort: by_weight
 俞飞鸿	yu fei hong	86
 俞飞鹏	yu fei peng	6
 俞鸿钧	yu hong jun	28
+俣	yu
+俣	yu	383
+俼	yu
+偊	yu
+傆	yuan
+傊	yun
+傴	yu
+僪	yu
+儥	yu
+允	yun
+允	yun	100455
 允不允许	yun bu yun xu	100
 允不允许吗	yun bu yun xu ma	100
 允不允许吧	yun bu yun xu ba	100
@@ -2424,6 +2648,8 @@ sort: by_weight
 允诺	yun nuo	13840
 允诺禁反言	yun nuo jin fan yan	14
 允诺禁反言原则	yun nuo jin fan yan yuan ze	1
+元	yuan
+元	yuan	732265
 元三娘	yuan san niang	100
 元上红	yuan shang hong	1
 元上都	yuan shang du	100
@@ -2801,6 +3027,13 @@ sort: by_weight
 元龙百尺楼	yuan long bai chi lou	6
 元龙豪气	yuan long hao qi	2
 元龙高卧	yuan long gao wo	100
+兊	yue
+兌	yue
+兑	yue
+兪	yu
+円	yuan
+冤	yuan
+冤	yuan	59019
 冤业	yuan ye	4
 冤亲	yuan qin	2505
 冤仇	yuan chou	3170
@@ -2847,8 +3080,14 @@ sort: by_weight
 冤鬼路	yuan gui lu	134
 冤魂	yuan hun	11965
 冤魂不散	yuan hun bu san	435
+刖	yue
+刖	yue	267
 刖趾适履	yue zhi shi lv	1
 刖趾适屦	yue zhi shi ju	100
+剈	yuan
+勻	yun
+匀	yun
+匀	yun	19505
 匀一匀	yun yi yun	100
 匀乎	yun hu	111
 匀停	yun ting	111
@@ -2883,6 +3122,9 @@ sort: by_weight
 匀速行驶	yun su xing shi	100
 匀速转动	yun su zhuan dong	100
 匀速运动	yun su yun dong	1890
+匬	yu
+原	yuan
+原	yuan	1473346
 原一平	yuan yi ping	1240
 原上草	yuan shang cao	2075
 原不原谅	yuan bu yuan liang	100
@@ -3775,10 +4017,20 @@ sort: by_weight
 原鹿	yuan lu	8
 原麝	yuan she	1
 原麻	yuan ma	2
+厡	yuan
+厵	yuan
+叞	yu
+吁	yu
+吁	yu	47540
 吁地呼天	yu di hu tian	3
 吁天呼地	yu tian hu di	3
 吁求	yu qiu	710
 吁请	yu qing	1875
+吾	yu
+员	yuan
+员	yuan	887168
+员	yun
+员	yun	1
 员司	yuan si	1
 员外	yuan wai	3585
 员外安人	yuan wai an ren	100
@@ -3841,13 +4093,28 @@ sort: by_weight
 员报告	yuan bao gao	93
 员林镇	yuan lin zhen	100
 员额	yuan e	4695
+哕	yue
+哕	yue	132
 哕了	yue le	123
 哕出来	yue chu lai	123
 哕出来了	yue chu lai le	123
 哕的一声	yue de yi sheng	123
+員	yuan
+員	yun
+哾	yue
+唹	yu
+啘	yue
+喁	yu
+喁	yu	945
 喁喁不休	yu yu bu xiu	1
 喁喁哝哝	yu yu nong nong	1
 喁喁私语	yu yu si yu	420
+喅	yu
+喗	yun
+喛	yuan
+喩	yu
+喻	yu
+喻	yu	36595
 喻世	yu shi	999
 喻世明言	yu shi ming yan	465
 喻东岳	yu dong yue	100
@@ -3869,6 +4136,13 @@ sort: by_weight
 喻红	yu hong	70
 喻继高	yu ji gao	245
 喻越越	yu yue yue	146
+噦	yue
+噮	yuan
+噳	yu
+囦	yuan
+囩	yun
+园	yuan
+园	yuan	267608
 园丁	yuan ding	29825
 园丁们	yuan ding men	100
 园丁公寓	yuan ding gong yu	1
@@ -3987,6 +4261,10 @@ sort: by_weight
 园长妈妈	yuan zhang ma ma	100
 园长江	yuan chang jiang	6
 园陵	yuan ling	470
+圄	yu
+圄	yu	1046
+圆	yuan
+圆	yuan	240477
 圆一个梦	yuan yi ge meng	105
 圆三刺角蝉	yuan san ci jiao chan	1
 圆下巴	yuan xia ba	100
@@ -4436,13 +4714,27 @@ sort: by_weight
 圆齿招潮蟹	yuan chi zhao chao xie	1
 圆齿马拉维丽鱼	yuan chi ma la wei li yu	1
 圆𬶍鲣	yuan tuo jian	1
+圉	yu
+圉	yu	526
 圉镇镇	yu zhen zhen	1
+圎	yuan
+園	yuan
+圓	yuan
+圜	yuan
+圜	yuan	1
 圜丘	yuan qiu	2
 圜丘坛	yuan qiu tan	2
+圫	yu
+垣	yuan
+垣	yuan	9743
 垣墉	yuan yong	80
 垣墙	yuan qiang	905
 垣墙皆顿擗	yuan qiang jie dun pi	1
 垣曲县	yuan qu xian	1150
+垸	yuan
+垸	yuan	281
+域	yu
+域	yu	135460
 域中	yu zhong	178
 域中有四大	yu zhong you si da	4
 域代码	yu dai ma	965
@@ -4496,7 +4788,33 @@ sort: by_weight
 域网	yu wang	1862
 域认证	yu ren zheng	12
 域账号	yu zhang hao	66
+堉	yu
+堉	yu	44
+堣	yu
+堬	yu
+塬	yuan
+塬	yuan	1090
 塬上	yuan shang	158
+夗	yuan
+夽	yun
+奥	yu
+奧	yu
+奫	yun
+妘	yun
+妘	yun	58
+妜	yue
+妤	yu
+妤	yu	6923
+妧	yuan
+妧	yuan	16
+妪	yu
+妪	yu	3418
+妴	yuan
+娛	yu
+娪	yu
+娯	yu
+娱	yu
+娱	yu	37970
 娱乐	yu le	5004
 娱乐一下	yu le yi xia	100
 娱乐世界	yu le shi jie	100
@@ -4918,8 +5236,22 @@ sort: by_weight
 娱心悦耳	yu xin yue er	100
 娱目悦耳	yu mu yue er	100
 娱记	yu ji	4444
+婾	yu
+媀	yu
+媛	yuan
+媛	yuan	36310
 媛媛	yuan yuan	2205
 媛福达	yuan fu da	105
+媮	yu
+媴	yuan
+嫄	yuan
+嫄	yuan	78
+嫗	yu
+嬩	yu
+嬳	yue
+嬽	yuan
+孕	yun
+孕	yun	44402
 孕三烯酮	yun san xi tong	17
 孕三烯酮胶囊	yun san xi tong jiao nang	12
 孕中期	yun zhong qi	1875
@@ -4981,6 +5313,8 @@ sort: by_weight
 孕酮	yun tong	5750
 孕酮测定	yun tong ce ding	2
 孕震	yun zhen	165
+宇	yu
+宇	yu	311167
 宇佐美	yu zuo mei	5
 宇信易诚	yu xin yi cheng	3
 宇光	yu guang	2355
@@ -5128,9 +5462,14 @@ sort: by_weight
 宇霸霸	yu ba ba	100
 宇髄天元	yu sui tian yuan	100
 宇鹏	yu peng	34
+宛	yuan
+宛	yuan	1
 宛马	yuan ma	111
 宛马总肥春苜蓿	yuan ma zong fei chun mu xu	2
 宛马至今来	yuan ma zhi jin lai	1
+寃	yuan
+寓	yu
+寓	yu	34060
 寓于	yu yu	9155
 寓公	yu gong	185
 寓兵于农	yu bing yu nong	265
@@ -5159,6 +5498,9 @@ sort: by_weight
 寓言家	yu yan jia	340
 寓言故事	yu yan gu shi	5890
 寓邸	yu di	55
+寙	yu
+尉	yu
+尉	yu	1
 尉犁	yu li	2
 尉犁县	yu li xian	2370
 尉迟	yu chi	9190
@@ -5172,10 +5514,15 @@ sort: by_weight
 尉迟炯	yu chi jiong	1
 尉迟琳嘉	yu chi lin jia	37
 尉迟迥	yu chi jiong	1
+屿	yu
+屿	yu	11826
 屿后南里	yu hou nan li	3
 屿头	yu tou	14
 屿头村	yu tou cun	3
 屿田村	yu tian cun	1
+岄	yue
+岳	yue
+岳	yue	131477
 岳丈	yue zhang	2040
 岳上村	yue shang cun	2
 岳不群	yue bu qun	8945
@@ -5293,18 +5640,37 @@ sort: by_weight
 岳麓栅蛛	yue lu zha zhu	1
 岳麓翘蛛	yue lu qiao zhu	1
 岳龙刚	yue long gang	100
+峪	yu
+峪	yu	4061
 峪口	yu kou	3640
 峪园社区	yu yuan she qu	1
 峪新居委会	yu xin ju wei hui	1
 峪道河	yu dao he	7
 峪里村	yu li cun	3
+崳	yu
+嵎	yu
+嵎	yu	16
 嵎谷	yu gu	2
+嵛	yu
+嵛	yu	75
+嶎	yu
+嶼	yu
+嶽	yue
+庽	yu
+庾	yu
+庾	yu	1850
 庾信	yu xin	49
 庾信平生最萧瑟	yu xin ping sheng zui xiao se	100
 庾信文章老更成	yu xin wen zhang lao geng cheng	6
 庾姓	yu xing	100
 庾澄庆	yu cheng qing	4325
+弲	yuan
+彟	yue	244
+彧	yu
+彧	yu	2681
 彧中穴	yu zhong xue	100
+御	yu
+御	yu	166243
 御上蔽下	yu shang bi xia	100
 御下	yu xia	888
 御下蔽上	yu xia bi shang	1
@@ -5490,6 +5856,9 @@ sort: by_weight
 御龙河	yu long he	1
 御龙海湾	yu long hai wan	100
 御龙瀚府	yu long han fu	165
+忬	yu
+怨	yuan
+怨	yuan	181641
 怨不了	yuan bu liao	225
 怨不得	yuan bu de	3275
 怨不得人	yuan bu de ren	235
@@ -5559,12 +5928,21 @@ sort: by_weight
 怨长久	yuan chang jiu	100
 怨鬼	yuan gui	1160
 怨魂袍	yuan hun pao	1
+恱	yue
+恽	yun
+恽	yun	1280
 恽代英	yun dai ying	367
 恽寿平	yun shou ping	44
 恽毓鼎	yun yu ding	1
 恽逸群	yun yi qun	15
 恽道生	yun dao sheng	1
 恽铁樵	yun tie qiao	4
+悁	yuan
+悅	yue
+悆	yu
+悆	yu	4
+悦	yue
+悦	yue	122437
 悦万城	yue wan cheng	113
 悦享会	yue xiang hui	199
 悦享健康	yue xiang jian kang	164
@@ -5606,6 +5984,11 @@ sort: by_weight
 悦通行	yue tong xing	100
 悦铃	yue ling	1660
 悦麒美寓	yue qi mei yu	149
+惌	yuan
+惐	yu
+惲	yun
+愈	yu
+愈	yu	103820
 愈三消胶囊	yu san xiao jiao nang	1
 愈下	yu xia	1040
 愈伤灵胶囊	yu shang ling jiao nang	79
@@ -5666,6 +6049,8 @@ sort: by_weight
 愈风宁心滴丸	yu feng ning xin di wan	2
 愈风宁心片	yu feng ning xin pian	3
 愈风宁心胶囊	yu feng ning xin jiao nang	2
+愉	yu
+愉	yu	60639
 愉快	yu kuai	181390
 愉快地	yu kuai de	100
 愉快地使用	yu kuai de shi yong	1111
@@ -5686,6 +6071,8 @@ sort: by_weight
 愉景新城	yu jing xin cheng	173
 愉色	yu se	80
 愉贵人	yu gui ren	1
+愚	yu
+愚	yu	60381
 愚不可及	yu bu ke ji	1555
 愚人	yu ren	13790
 愚人之所以为愚	yu ren zhi suo yi wei yu	1
@@ -5761,10 +6148,15 @@ sort: by_weight
 愚陋	yu lou	390
 愚顽	yu wan	1170
 愚鲁	yu lu	1230
+愠	yun
+愠	yun	4548
 愠容	yun rong	40
 愠怒	yun nu	2755
 愠恼	yun nao	90
 愠色	yun se	1710
+愪	yun
+愿	yuan
+愿	yuan	597660
 愿一切安好	yuan yi qie an hao	137
 愿上玉京十二楼	yuan shang yu jing shi er lou	100
 愿不愿	yuan bu yuan	2325
@@ -5906,9 +6298,31 @@ sort: by_weight
 愿随你去	yuan sui ni qu	100
 愿随夫子天坛上	yuan sui fu zi tian tan shang	1
 愿驰千里足	yuan chi qian li zu	100
+慍	yun
+慾	yu
+懙	yu
+戉	yue
+戫	yu
+扚	yue
+扜	yu
+扝	yu
+扵	yu
+抈	yue
+抎	yun
+抣	yun
+挧	yu
+捓	yu
+捥	yu
+捳	yue
+掾	yuan
+掾	yuan	500
 掾吏	yuan li	175
 掾属	yuan shu	1
+揄	yu
+揄	yu	4290
 揄扬	yu yang	2
+援	yuan
+援	yuan	113598
 援之以手	yuan zhi yi shou	21
 援交	yuan jiao	925
 援交妹	yuan jiao mei	100
@@ -5970,13 +6384,27 @@ sort: by_weight
 援藏项目	yuan zang xiang mu	100
 援鄂医疗队	yuan e yi liao dui	160
 援鳖失龟	yuan bie shi gui	1
+擽	yue
+敔	yu
+敔	yu	3
+斔	yu
+斞	yu
+於	yu
+於	yu	45065
 於之莹	yu zhi ying	154
 於夫罗	yu fu luo	100
 於梨华	yu li hua	10
 於菊虫	yu ju chong	100
+旟	yu
+昀	yun
+昀	yun	3423
+昱	yu
+昱	yu	6273
 昱东街道	yu dong jie dao	3
 昱中街道	yu zhong jie dao	3
 昱西街道	yu xi jie dao	1
+晕	yun
+晕	yun	160115
 晕乎	yun hu	9999
 晕乎乎	yun hu hu	2490
 晕了	yun le	4906
@@ -6047,8 +6475,14 @@ sort: by_weight
 晕锤	yun chui	1
 晕高	yun gao	123
 晕高儿	yun gao er	100
+暈	yun
+曰	yue
+曰	yue	74013
 曰师曰弟子云者	yue shi yue di zi yun zhe	1
+曱	yue
 曱甴	yue you	9999
+月	yue
+月	yue	546594
 月上旬	yue shang xun	62245
 月上柳梢头	yue shang liu shao tou	1180
 月上西楼	yue shang xi lou	410
@@ -6705,8 +7139,29 @@ sort: by_weight
 月黑雁飞高	yue hei yan fei gao	1180
 月黑风高	yue hei feng gao	4320
 月龄	yue ling	15625
+杅	yu
+杬	yuan
+枂	yue
+枟	yun
+栎	yue
+栎	yue	1
 栎阳	yue yang	1
 栎阳雨金	yue yang yu jin	4
+栯	yu
+桙	yu
+棛	yu
+棜	yu
+棩	yuan
+棫	yu
+棫	yu	1238
+楀	yu
+楡	yu
+楥	yuan
+楰	yu
+楽	yue
+榅	yun
+榆	yu
+榆	yu	12802
 榆中县	yu zhong xian	1785
 榆中校区	yu zhong xiao qu	680
 榆关道	yu guan dao	13
@@ -6778,6 +7233,24 @@ sort: by_weight
 榆钱馍	yu qian mo	167
 榆阳区	yu yang qu	142
 榆阳秋	yu yang qiu	130
+榞	yuan
+榬	yuan
+樂	yue
+樾	yue
+樾	yue	535
+橒	yun
+橼	yuan
+橼	yuan	138
+櫞	yuan
+櫟	yue
+櫲	yu
+欎	yu
+欝	yu
+欤	yu
+欤	yu	860
+欥	yu
+欲	yu
+欲	yu	353022
 欲上青天揽明月	yu shang qing tian lan ming yue	10
 欲上青天览日月	yu shang qing tian lan ri yue	3
 欲上高楼去避愁	yu shang gao lou qu bi chou	1
@@ -6939,12 +7412,20 @@ sort: by_weight
 欲降身而卑窜兮	yu jiang shen er bei cuan xi	100
 欲非欲	yu fei yu	100
 欲饮琵琶马上催	yu yin pi pa ma shang cui	1180
+歈	yu
+歟	yu
+歶	yu
+殒	yun
+殒	yun	2907
 殒命	yun ming	2175
 殒殁	yun mo	30
 殒灭	yun mie	365
 殒身	yun shen	305
 殒身不恤	yun shen bu xu	100
 殒身碎首	yun shen sui shou	100
+殞	yun
+毓	yu
+毓	yu	7778
 毓兰镇	yu lan zhen	12
 毓南村	yu nan cun	1
 毓婷	yu ting	91
@@ -6955,8 +7436,16 @@ sort: by_weight
 毓秀	yu xiu	3740
 毓秀桥	yu xiu qiao	6
 毓秀钟灵	yu xiu zhong ling	100
+氲	yun
+氲	yun	4028
 氲氲腊酒香	yun yun la jiu xiang	1
+氳	yun
+汩	yu
+沄	yun
+沄	yun	100
 沄沄	yun yun	1
+沅	yuan
+沅	yuan	4051
 沅有芷兮澧有兰	yuan you zhi xi li you lan	8
 沅水	yuan shui	2480
 沅江	yuan jiang	2
@@ -6972,6 +7461,9 @@ sort: by_weight
 沅芷澧兰	yuan zhi li lan	1
 沅陵县	yuan ling xian	1325
 沅陵酥糖	yuan ling su tang	1
+泧	yue
+浴	yu
+浴	yu	69322
 浴佛	yu fo	1375
 浴佛节	yu fo jie	490
 浴兰汤兮沐芳	yu lan tang xi mu fang	1
@@ -7026,8 +7518,16 @@ sort: by_weight
 浴足	yu zu	2840
 浴霸	yu ba	11495
 浴鹄湾	yu hu wan	39
+涒	yun
+涢	yun
+涢	yun	5
+涴	yuan
+涴	yuan	23
 涴市	yuan shi	2
 涴市镇	yuan shi zhen	12
+淢	yu
+淤	yu
+淤	yu	8794
 淤伤	yu shang	1170
 淤土地	yu tu di	100
 淤地	yu di	3935
@@ -7048,8 +7548,15 @@ sort: by_weight
 淤血	yu xie	130
 淤血	yu xue	1306
 淤青	yu qing	2225
+淯	yu
+淯	yu	187
 淯溪镇	yu xi zhen	23
 淯阳桥	yu yang qiao	139
+淵	yuan
+渁	yuan
+渆	yuan
+渊	yuan
+渊	yuan	72136
 渊下宫	yuan xia gong	100
 渊停山立	yuan ting shan li	2
 渊凯	yuan kai	1
@@ -7082,6 +7589,8 @@ sort: by_weight
 渊鱼丛雀	yuan yu cong que	1
 渊默	yuan mo	220
 渊默行动	yuan mo xing dong	100
+渔	yu
+渔	yu	31185
 渔业	yu ye	150180
 渔业信息化	yu ye xin xi hua	74
 渔业公司	yu ye gong si	685
@@ -7214,6 +7723,9 @@ sort: by_weight
 渔鼓	yu gu	103
 渔鼓简板	yu gu jian ban	100
 渔鼓道情	yu gu dao qing	9999
+渕	yuan
+渝	yu
+渝	yu	10653
 渝三峡	yu san xia	555
 渝东黑山羊	yu dong hei shan yang	1
 渝中区	yu zhong qu	373
@@ -7237,6 +7749,11 @@ sort: by_weight
 渝通宾馆	yu tong bin guan	196
 渝钛白	yu tai bai	1
 渝长厦高铁	yu chang xia gao tie	100
+湡	yu
+湲	yuan
+湲	yuan	61
+源	yuan
+源	yuan	247962
 源不深而望流之远	yuan bu shen er wang liu zhi yuan	3
 源主机	yuan zhu ji	1225
 源之宫	yuan zhi gong	192
@@ -7355,6 +7872,35 @@ sort: by_weight
 源静香	yuan jing xiang	100
 源飞宠物	yuan fei chong wu	100
 源龙星	yuan long xing	164
+溒	yuan
+溳	yun
+滪	yu
+滪	yu	14
+漁	yu
+潏	yu
+潏	yu	10
+澐	yun
+澚	yu
+澞	yu
+澦	yu
+瀹	yue
+瀹	yue	82
+灁	yuan
+灪	yu
+灹	yu
+焴	yu
+煇	yun
+煜	yu
+煜	yu	18582
+煴	yun
+煴	yun	18
+煾	yun
+熅	yun
+熉	yun
+熨	yu
+熨	yu	100
+熨	yun
+熨	yun	2753
 熨帖	yu tie	1111
 熨平	yun ping	3370
 熨平机	yun ping ji	435
@@ -7364,10 +7910,24 @@ sort: by_weight
 熨烫机	yun tang ji	1296
 熨衣工	yun yi gong	25
 熨衣服	yun yi fu	920
+燏	yu
+燏	yu	1308
+燠	yu
+燠	yu	333
 燠热	yu re	135
+爚	yue
+爚	yue	46
+爩	yu
+爰	yuan
+爰	yuan	2633
 爰书	yuan shu	2
 爰亲作亲	yuan qin zuo qin	1
 爰历篇	yuan li pian	100
+牏	yu
+狁	yun
+狁	yun	183
+狱	yu
+狱	yu	133801
 狱中	yu zhong	15845
 狱中杂记	yu zhong za ji	245
 狱内刑事案件立案标准	yu nei xing shi an jian li an biao zhun	1
@@ -7391,6 +7951,11 @@ sort: by_weight
 狱门	yu men	1630
 狱门疆	yu men jiang	100
 狱霸	yu ba	999
+狳	yu
+狳	yu	423
+猨	yuan
+猿	yuan
+猿	yuan	19821
 猿人	yuan ren	21112
 猿叶虫	yuan ye chong	57
 猿啸	yuan xiao	910
@@ -7428,6 +7993,9 @@ sort: by_weight
 猿鸣诚知曙	yuan ming cheng zhi shu	1
 猿鹤沙虫	yuan he sha chong	100
 猿鹤虫沙	yuan he chong sha	100
+獄	yu
+玉	yu
+玉	yu	721753
 玉上的斑点	yu shang de ban dian	1180
 玉不琢	yu bu zhuo	750
 玉不琢不成器	yu bu zhuo bu cheng qi	58
@@ -8162,6 +8730,20 @@ sort: by_weight
 玉龙纳西族自治县	yu long na xi zu zi zhi xian	360
 玉龙肩花蝽	yu long jian hua chun	1
 玉龙雪山	yu long xue shan	25800
+玗	yu
+玙	yu
+玙	yu	98
+玥	yue
+玥	yue	5094
+玧	yun
+琙	yu
+琟	yu
+瑀	yu
+瑀	yu	7470
+瑗	yuan
+瑗	yuan	1759
+瑜	yu
+瑜	yu	37277
 瑜不掩瑕	yu bu yan xia	100
 瑜伽	yu jia	107495
 瑜伽中	yu jia zhong	100
@@ -8244,14 +8826,27 @@ sort: by_weight
 瑜大公子	yu da gong zi	118
 瑜妃	yu fei	1
 瑜百瑕一	yu bai xia yi	1
+璵	yu
+畇	yun
 畇畇	yun yun	1
+畬	yu
+畬	yu	23
+痏	yu
+瘀	yu
+瘀	yu	1494
 瘀斑	yu ban	241
 瘀点	yu dian	95
 瘀热在里	yu re zai li	6
 瘀血	yu xie	56
 瘀血	yu xue	56
+瘉	yu
+瘐	yu
+瘐	yu	272
 瘐死	yu si	175
 瘐毙	yu bi	80
+癒	yu
+盂	yu
+盂	yu	2805
 盂兰会	yu lan hui	154
 盂兰盆	yu lan pen	2045
 盂兰盆会	yu lan pen hui	100
@@ -8264,7 +8859,31 @@ sort: by_weight
 盂方水方	yu fang shui fang	100
 盂肱关节	yu gong guan jie	1
 盂肱韧带	yu gong ren dai	2
+盓	yu
+盶	yuan
+眃	yun
+眢	yuan
+眢	yuan	38
 眢井	yuan jing	2
+睮	yu
+矆	yue
+矞	yu
+矞	yu	24
+矱	yue
+砡	yu
+硢	yu
+硲	yu
+磒	yun
+礇	yu
+礖	yu
+礜	yu
+礿	yue
+祤	yu
+禐	yuan
+禦	yu
+禴	yue
+禹	yu
+禹	yu	19590
 禹不能名	yu bu neng ming	100
 禹之鼎	yu zhi ding	14
 禹会区	yu hui qu	100
@@ -8290,12 +8909,48 @@ sort: by_weight
 禹王洞	yu wang dong	100
 禹行舜趋	yu xing shun qu	100
 禹贡	yu gong	1369
+禺	yu
+禺	yu	5565
 禺东西路	yu dong xi lu	191
+秐	yun
+秗	yu
+稢	yu
+稶	yu
+穥	yu
+穻	yu
+窬	yu
+窬	yu	120
+窳	yu
+窳	yu	555
+竽	yu
+竽	yu	963
+笎	yuan
+筠	yun
+筠	yun	15378
+筼	yun
+筼	yun	7
 筼筜	yun dang	54
 筼筜湖	yun dang hu	52
 筼筜街道	yun dang jie dao	100
+箊	yu
+箢	yuan
+箢	yuan	68
 箢箕	yuan ji	1
 箢篼	yuan dou	1
+箹	yue
+篔	yun
+篗	yue
+篽	yu
+籅	yu
+籆	yue
+籞	yu
+籥	yue
+籥	yue	16
+籰	yue
+籲	yu
+粖	yu
+粤	yue
+粤	yue	7314
 粤上巅峰	yue shang dian feng	100
 粤东	yue dong	18975
 粤东会馆	yue dong hui guan	29
@@ -8357,6 +9012,20 @@ sort: by_weight
 粤语长片	yue yu chang pian	100
 粤音	yue yin	380
 粤香村	yue xiang cun	36
+粥	yu
+粵	yue
+約	yue
+紆	yu
+紜	yun
+緎	yu
+緣	yuan
+緷	yun
+緼	yun
+縁	yuan
+縕	yun
+縜	yun
+纡	yu
+纡	yu	431
 纡余为妍	yu yu wei yan	1
 纡佩金紫	yu pei jin zi	1
 纡尊降贵	yu zun jiang gui	350
@@ -8368,6 +9037,8 @@ sort: by_weight
 纡金曳紫	yu jin ye zi	1
 纡青佩紫	yu qing pei zi	100
 纡青拖紫	yu qing tuo zi	100
+约	yue
+约	yue	526224
 约一下	yue yi xia	3561
 约一约	yue yi yue	3333
 约上	yue shang	111
@@ -8659,8 +9330,14 @@ sort: by_weight
 约饭	yue fan	3333
 约马蜂	yue ma feng	1
 约鲁巴	yue lu ba	410
+纭	yun
+纭	yun	3322
 纭纭	yun yun	1
+缊	yun
+缊	yun	37
 缊袍敝衣	yun pao bi yi	100
+缘	yuan
+缘	yuan	219837
 缘下鱵	yuan xia zhen	1
 缘下鱵鱼	yuan xia zhen yu	1
 缘之符咒	yuan zhi fu zhou	100
@@ -8749,7 +9426,13 @@ sort: by_weight
 缘齿华种蝇	yuan chi hua zhong ying	1
 缘齿牡蛎	yuan chi mu li	1
 缘龙占丽鱼	yuan long zhan li yu	1
+罭	yu
+羭	yu
+羱	yuan
+羱	yuan	4
 羱羊	yuan yang	1
+羽	yu
+羽	yu	322339
 羽书	yu shu	375
 羽书旁午	yu shu pang wu	100
 羽你同行	yu ni tong xing	100
@@ -8879,9 +9562,19 @@ sort: by_weight
 羽鞘	yu qiao	3
 羽鳃鲐	yu sai tai	100
 羽鸟氏带纹赤蛇	yu niao shi dai wen chi she	1
+翑	yu
+耘	yun
+耘	yun	3869
 耘田	yun tian	655
 耘耥	yun tang	2
 耘锄	yun chu	90
+耺	yun
+聿	yu
+聿	yu	4831
+肀	yu
+肙	yuan
+育	yu
+育	yu	214206
 育亨宾	yu heng bin	2
 育人	yu ren	87625
 育人体系	yu ren ti xi	100
@@ -8981,7 +9674,17 @@ sort: by_weight
 育龙家园	yu long jia yuan	14
 育龙家园社区	yu long jia yuan she qu	1
 育龙岛	yu long dao	1
+腪	yun
+腴	yu
+腴	yu	2956
 腴润	yu run	180
+臒	yue
+臾	yu
+臾	yu	4333
+舁	yu
+舁	yu	172
+舆	yu
+舆	yu	17587
 舆人之诵	yu ren zhi song	3
 舆台	yu tai	120
 舆图	yu tu	1650
@@ -9020,8 +9723,14 @@ sort: by_weight
 舆金辇宝	yu jin nian bao	1
 舆金辇璧	yu jin nian bi	1
 舆马	yu ma	815
+與	yu
+艅	yu
+艅	yu	1
 艅艎	yu huang	140
 艅艎何泛泛	yu huang he fan fan	1
+艈	yu
+芋	yu
+芋	yu	4991
 芋儿烧排骨	yu er shao pai gu	5
 芋儿烧鸡	yu er shao ji	60
 芋儿鸡火锅	yu er ji huo guo	8
@@ -9051,10 +9760,15 @@ sort: by_weight
 芋螺肽	yu luo tai	100
 芋魁豆饭	yu kui dou fan	1
 芋魁饭豆	yu kui fan dou	1
+芌	yu
+芫	yuan
+芫	yuan	1105
 芫花	yuan hua	2
 芫花素	yuan hua su	100
 芫菁	yuan jing	349
 芫菁科	yuan jing ke	32
+芸	yun
+芸	yun	59910
 芸娘	yun niang	1
 芸汐传	yun xi zhuan	100
 芸美村	yun mei cun	1
@@ -9072,6 +9786,8 @@ sort: by_weight
 芸香科	yun xiang ke	1015
 芸香苷	yun xiang gan	6
 芸香草	yun xiang cao	8
+苑	yuan
+苑	yuan	19838
 苑东街道	yuan dong jie dao	7
 苑东路	yuan dong lu	2
 苑中路	yuan zhong lu	11
@@ -9084,12 +9800,35 @@ sort: by_weight
 苑里伪虎鲸	yuan li wei hu jing	1
 苑里镇	yuan li zhen	100
 苑陶	yuan tao	1
+茒	yuan
+茟	yu
+茰	yu
+荺	yun
+菀	yu
+菀	yu	1
+菀	yun
 菀勃	yu bo	2
 菀枯	yu ku	4
 菀枯盈虚	yu ku ying xu	100
 菀枯隆杀	yu ku long sha	100
 菀菀	yu yu	2
 菀菀黄柳丝	yu yu huang liu si	100
+萭	yu
+萮	yu
+萸	yu
+萸	yu	618
+葾	yuan
+蒀	yun
+蒕	yun
+蒝	yuan
+蒬	yuan
+蒮	yu
+蒷	yun
+蓣	yu
+蓣	yu	16
+蓹	yu
+蔚	yu
+蔚	yu	1
 蔚县	yu xian	7
 蔚县剪纸	yu xian jian zhi	1
 蔚山	yu shan	2
@@ -9097,6 +9836,11 @@ sort: by_weight
 蔚山市	yu shan shi	100
 蔚山广域市	yu shan guang yu shi	100
 蔚山现代	yu shan xian dai	148
+蕍	yu
+蕓	yun
+蕰	yun
+蕴	yun
+蕴	yun	35330
 蕴借含蓄	yun jie han xu	100
 蕴华	yun hua	1415
 蕴含	yun han	32910
@@ -9122,6 +9866,20 @@ sort: by_weight
 蕴藏了什么	yun cang le shen me	100
 蕴藏着	yun cang zhe	31125
 蕴藏量	yun cang liang	7485
+蕷	yu
+薀	yun
+薁	yu
+薁	yu	1
+薗	yuan
+薳	yuan
+藇	yu
+藴	yun
+蘊	yun
+蘌	yu
+蘛	yu
+蘥	yue
+虞	yu
+虞	yu	30560
 虞世南	yu shi nan	2880
 虞人	yu ren	2
 虞人逐而谇之	yu ren zhu er sui zhi	1
@@ -9149,6 +9907,28 @@ sort: by_weight
 虞美人盛开的山坡	yu mei ren sheng kai de shan po	100
 虞舜	yu shun	3095
 虞舜不逢尧	yu shun bu feng yao	2
+虶	yu
+蚎	yue
+蚏	yue
+蚖	yuan
+蜎	yuan
+蜎	yuan	86
+蜟	yu
+蜮	yu
+蜮	yu	1057
+蜵	yuan
+蝓	yu
+蝓	yu	173
+蝝	yuan
+蝯	yuan
+蝹	yun
+螈	yuan
+螈	yuan	223
+螸	yu
+衏	yuan
+衧	yu
+袁	yuan
+袁	yuan	109370
 袁一泓	yuan yi hong	4
 袁一琦	yuan yi qi	193
 袁世凯	yuan shi kai	28735
@@ -9278,6 +10058,9 @@ sort: by_weight
 袁雨来	yuan yu lai	3
 袁雨萱	yuan yu xuan	193
 袁雪芬	yuan xue fen	123
+袬	yu
+裕	yu
+裕	yu	43025
 裕东路	yu dong lu	12
 裕丰围	yu feng wei	3
 裕丰村	yu feng cun	21
@@ -9337,6 +10120,18 @@ sort: by_weight
 裕龙花园	yu long hua yuan	7
 裕龙花园社区	yu long hua yuan she qu	1
 裕龙西区	yu long xi qu	1
+裫	yuan
+裷	yuan
+褑	yuan
+褕	yu
+褕	yu	30
+褞	yun
+褤	yuan
+覦	yu
+觎	yu
+觎	yu	3643
+誉	yu
+誉	yu	69067
 誉不绝口	yu bu jue kou	6
 誉为	yu wei	63340
 誉必待试	yu bi dai shi	1
@@ -9351,6 +10146,16 @@ sort: by_weight
 誉美	yu mei	2
 誉美失实	yu mei shi shi	1
 誉过其实	yu guo qi shi	100
+語	yu
+說	yue
+説	yue
+諛	yu
+諭	yu
+謜	yuan
+謣	yu
+譽	yu
+语	yu
+语	yu	843913
 语不惊人	yu bu jing ren	790
 语不惊人死不休	yu bu jing ren si bu xiu	2880
 语不惊人死不休啊	yu bu jing ren si bu xiu a	100
@@ -9718,10 +10523,19 @@ sort: by_weight
 语音通讯通道	yu yin tong xun tong dao	100
 语音邮件	yu yin you jian	5515
 语风	yu feng	615
+说	yue
+谀	yu
+谀	yu	3139
 谀辞	yu ci	99
+谕	yu
+谕	yu	15061
 谕令	yu ling	1365
 谕告	yu gao	150
 谕旨	yu zhi	33540
+谷	yu
+谷	yu	1
+豫	yu
+豫	yu	140767
 豫东	yu dong	4155
 豫东地区	yu dong di qu	100
 豫事办	yu shi ban	116
@@ -9757,6 +10571,17 @@ sort: by_weight
 豫西地区	yu xi di qu	100
 豫让	yu rang	1355
 豫金刚石	yu jin gang shi	100
+貐	yu
+貟	yuan
+貟	yun
+賱	yun
+贇	yun
+贠	yuan
+贠	yun
+赟	yun
+赟	yun	1478
+越	yue
+越	yue	1069176
 越上越过瘾	yue shang yue guo yin	1
 越下越大	yue xia yue da	4215
 越下越大了	yue xia yue da le	100
@@ -11372,6 +12197,10 @@ sort: by_weight
 越鹅	yue e	42
 越黄佛蝗	yue huang fo huang	1
 越黑越好	yue hei yue hao	190
+趯	yue
+跀	yue
+跃	yue
+跃	yue	169432
 跃上	yue shang	21310
 跃上葱笼四百旋	yue shang cong long si bai xuan	2
 跃上葱茏四百旋	yue shang cong long si bai xuan	7
@@ -11431,11 +12260,24 @@ sort: by_weight
 跃龙南路	yue long nan lu	2
 跃龙属	yue long shu	1
 跃龙路	yue long lu	4
+踰	yu
+躍	yue
+軉	yu
+軏	yue
+輍	yu
+輿	yu
+轅	yuan
+轝	yu
+辕	yuan
+辕	yuan	80157
 辕子	yuan zi	1
 辕门	yuan men	456
 辕门口街道	yuan men kou jie dao	3
 辕马	yuan ma	2
 辕骡	yuan luo	1
+込	yu
+迂	yu
+迂	yu	10277
 迂儒	yu ru	185
 迂回	yu hui	28535
 迂回前进	yu hui qian jin	650
@@ -11468,6 +12310,9 @@ sort: by_weight
 迂迢村	yu tiao cun	4
 迂阔	yu kuo	625
 迂阔之论	yu kuo zhi lun	30
+迃	yu
+运	yun
+运	yun	630729
 运上	yun shang	2275
 运上去	yun shang qu	100
 运上来	yun shang lai	100
@@ -12323,6 +13168,8 @@ sort: by_weight
 运飞	yun fei	290
 运鸿	yun hong	425
 运鹏	yun peng	180
+远	yuan
+远	yuan	1319096
 远一点	yuan yi dian	13370
 远一点的地方	yuan yi dian de di fang	100
 远上寒山石径斜	yuan shang han shan shi jing xie	1180
@@ -12878,6 +13725,10 @@ sort: by_weight
 远香湖	yuan xiang hu	158
 远高于	yuan gao yu	27560
 远鳚	yuan wei	1
+逳	yu
+逺	yuan
+逾	yu
+逾	yu	13686
 逾分	yu fen	145
 逾千万	yu qian wan	1800
 逾千越万	yu qian yue wan	1
@@ -12918,6 +13769,8 @@ sort: by_weight
 逾越	yu yue	15835
 逾越节	yu yue jie	1045
 逾闲荡检	yu xian dang jian	100
+遇	yu
+遇	yu	409411
 遇上	yu shang	102195
 遇上个	yu shang ge	67
 遇上了	yu shang le	29095
@@ -13082,6 +13935,17 @@ sort: by_weight
 遇龙桥	yu long qiao	1295
 遇龙河	yu long he	8485
 遇龙路	yu long lu	2
+運	yun
+遠	yuan
+遹	yu
+遹	yu	140
+邍	yuan
+邘	yu
+邘	yu	3
+邧	yuan
+邪	yu
+郁	yu
+郁	yu	156526
 郁一凡	yu yi fan	196
 郁保四	yu bao si	188
 郁南县	yu nan xian	1370
@@ -13172,20 +14036,64 @@ sort: by_weight
 郁闷透了	yu men tou le	85
 郁闷透顶	yu men tou ding	25
 郁陵岛	yu ling dao	13
+郓	yun
+郓	yun	1795
 郓城	yun cheng	4505
 郓城县	yun cheng xian	2230
 郓州街道	yun zhou jie dao	175
+郧	yun
+郧	yun	618
 郧县	yun xian	6190
 郧县人	yun xian ren	100
 郧巴黄牛	yun ba huang niu	11
 郧西县	yun xi xian	3930
 郧阳	yun yang	3520
 郧阳中学	yun yang zhong xue	181
+鄅	yu
+鄅	yu	2
+鄆	yun
+鄖	yun
+酑	yu
+酛	yuan
+酝	yun
+酝	yun	8265
 酝酿	yun niang	97675
 酝酿中	yun niang zhong	2620
 酝酿出	yun niang chu	100
 酝酿着	yun niang zhe	6835
+醖	yun
+醞	yun
+醧	yu
+釪	yu
+鈅	yue
+鈗	yun
+鈨	yuan
+鈺	yu
+鉞	yue
+銉	yu
+鋆	yun
+鋆	yun	1072
+鋊	yu
+鋙	yu
+鋺	yuan
+錥	yu
+鍝	yu
+鎱	yuan
+鐭	yu
+鑰	yue
+钥	yue
+钥	yue	2000
+钰	yu
+钰	yu	11516
 钰发宝	yu fa bao	1
+钺	yue
+钺	yue	2822
+铻	yu
+閱	yue
+閲	yue
+閾	yu
+阅	yue
+阅	yue	66255
 阅世	yue shi	1205
 阅书架	yue shu jia	100
 阅人	yue ren	1898
@@ -13293,6 +14201,8 @@ sort: by_weight
 阅读题	yue du ti	4165
 阅金经	yue jin jing	1180
 阅马场	yue ma chang	337
+阈	yu
+阈	yu	185
 阈值	yu zhi	25325
 阈值分割	yu zhi fen ge	108
 阈值处理	yu zhi chu li	81
@@ -13300,6 +14210,10 @@ sort: by_weight
 阈限	yu xian	145
 阏与	yu yu	2
 阏与之战	yu yu zhi zhan	123
+阭	yun
+陓	yu
+院	yuan
+院	yuan	672894
 院上	yuan shang	126
 院上镇	yuan shang zhen	180
 院下	yuan xia	77
@@ -13457,6 +14371,8 @@ sort: by_weight
 院青协	yuan qing xie	181
 院领导	yuan ling dao	23510
 院领导高度重视	yuan ling dao gao du zhong shi	100
+陨	yun
+陨	yun	11006
 陨世	yun shi	4
 陨坑	yun keng	976
 陨星	yun xing	3120
@@ -13488,6 +14404,15 @@ sort: by_weight
 陨身糜骨	yun shen mi gu	1
 陨铁	yun tie	1080
 陨雹飞霜	yun bao fei shuang	1
+隃	yu
+隅	yu
+隅	yu	5608
+隕	yun
+隩	yu
+雓	yu
+雤	yu
+雨	yu
+雨	yu	725801
 雨一停	yu yi ting	1180
 雨一直下	yu yi zhi xia	2070
 雨下一夜	yu xia yi ye	100
@@ -13822,11 +14747,23 @@ sort: by_weight
 雨鬣霜蹄	yu lie shuang ti	1
 雨魄云魂	yu po yun hun	100
 雨龙村	yu long cun	102
+雩	yu
+雩	yu	136
+雲	yun
+霣	yun
+霱	yu
+鞰	yun
+韗	yun
+韞	yun
+韫	yun
+韫	yun	1912
 韫椟待价	yun du dai jia	1
 韫椟未酤	yun du wei gu	1
 韫椟而藏	yun du er cang	25
 韫椟藏珠	yun du cang zhu	100
 韫玉怀珠	yun yu huai zhu	100
+韵	yun
+韵	yun	65628
 韵书	yun shu	2450
 韵事	yun shi	1360
 韵人韵事	yun ren yun shi	100
@@ -13861,6 +14798,12 @@ sort: by_weight
 韵达快运	yun da kuai yun	100
 韵达快递	yun da kuai di	100
 韵部	yun bu	16
+韻	yun
+預	yu
+頨	yu
+願	yuan
+预	yu
+预	yu	218757
 预上线	yu shang xian	100
 预下载	yu xia zai	100
 预下载了	yu xia zai le	100
@@ -14439,9 +15382,26 @@ sort: by_weight
 预防重大工业事故公约	yu fang zhong da gong ye shi gu gong yue	11
 预防针	yu fang zhen	4295
 预验收	yu yan shou	2420
+飫	yu
+餘	yu
+餫	yun
+饇	yu
+饫	yu
+饫	yu	247
 饫甘餍肥	yu gan yan fei	100
 饫闻习见	yu wen xi jian	100
 饫闻厌见	yu wen yan jian	100
+馀	yu
+馧	yun
+馧	yun	1
+馭	yu
+馻	yun
+駌	yuan
+騟	yu
+騵	yuan
+驈	yu
+驭	yu
+驭	yu	11486
 驭兽术	yu shou shu	100
 驭兽者	yu shou zhe	8
 驭凤骖鹤	yu feng can he	1
@@ -14457,6 +15417,14 @@ sort: by_weight
 驭鲛记	yu jiao ji	178
 驭龙者	yu long zhe	74
 驭龙者潜水小蜂	yu long zhe qian shui xiao feng	1
+骬	yu
+髃	yu
+髃	yu	16
+髺	yue
+鬰	yu
+鬱	yu
+鬻	yu
+鬻	yu	575
 鬻儿卖女	yu er mai nv	100
 鬻声钓世	yu sheng diao shi	100
 鬻妻卖子	yu qi mai zi	100
@@ -14468,6 +15436,16 @@ sort: by_weight
 鬻良杂苦	yu liang za ku	1
 鬻驽窃价	yu nu qie jia	1
 鬻鸡为凤	yu ji wei feng	1
+魊	yu
+魚	yu
+魣	yu
+魭	yuan
+鮽	yu
+鯲	yu
+鰅	yu
+鱊	yu
+鱼	yu
+鱼	yu	288142
 鱼丁炒饭	yu ding chao fan	1
 鱼丁糸	yu ding mi	1
 鱼三味	yu san wei	50
@@ -14904,6 +15882,24 @@ sort: by_weight
 鱼龙百变	yu long bai bian	100
 鱼龙百戏	yu long bai xi	260
 鱼龙舞	yu long wu	164
+鳶	yuan
+鳿	yu
+鴛	yuan
+鴥	yu
+鴧	yu
+鴪	yu
+鵒	yu
+鵷	yuan
+鶢	yuan
+鶰	yuan
+鷠	yu
+鷸	yu
+鸆	yu
+鸑	yue
+鸒	yu
+鸙	yue
+鸢	yuan
+鸢	yuan	4907
 鸢尾	yuan wei	5770
 鸢尾兰	yuan wei lan	161
 鸢尾科	yuan wei ke	335
@@ -14919,6 +15915,8 @@ sort: by_weight
 鸢飞戾天	yuan fei li tian	370
 鸢飞戾天者	yuan fei li tian zhe	2
 鸢飞鱼跃	yuan fei yu yue	445
+鸳	yuan
+鸳	yuan	12321
 鸳俦凤侣	yuan chou feng lv	100
 鸳梦	yuan meng	605
 鸳梦重温	yuan meng chong wen	100
@@ -14957,6 +15955,11 @@ sort: by_weight
 鸳鸯饼	yuan yang bing	39
 鸳鸯鱼枣	yuan yang yu zao	20
 鸳鸯鸡粥	yuan yang ji zhou	21
+鹆	yu
+鹆	yu	136
+鹓	yuan
+鹬	yu
+鹬	yu	596
 鹬中睾吸虫	yu zhong gao xi chong	1
 鹬科	yu ke	30
 鹬窄体吸虫	yu zhai ti xi chong	1
@@ -14967,6 +15970,11 @@ sort: by_weight
 鹬蚌相持	yu bang xiang chi	100
 鹬蚌相斗	yu bang xiang dou	1
 鹬鸵	yu tuo	3
+麌	yu
+黦	yue
+黿	yuan
+鼋	yuan
+鼋	yuan	657
 鼋头渚	yuan tou zhu	2920
 鼋汁狗肉	yuan zhi gou rou	1180
 鼋汁狗腿	yuan zhi gou tui	1
@@ -14974,5 +15982,372 @@ sort: by_weight
 鼋鸣鳖应	yuan ming bie ying	1
 鼋鼍	yuan tuo	3
 鼋鼍为梁	yuan tuo wei liang	6
+鼘	yuan
+鼝	yuan
+齫	yun
+齬	yu
+齳	yun
+齵	yu
+龉	yu
+龉	yu	575
+龠	yue
+龠	yue	73
+龥	yu
+𠀛	yu
+𠈤	yun
+𠊏	yu
+𠋟	yu
+𠎳	yu
+𠏃	yue
+𠏚	yu
+𠒜	yuan
+𠔠	yue
+𠕦	yu
+𠚓	yun
+𠛭	yuan
+𠝳	yuan
+𠣐	yun
+𠧇	yu
+𠨲	yue
+𠩉	yue
+𠩠	yuan
+𠪶	yue
+𠫣	yu
+𠯲	yue
+𠱐	yu
+𠱙	yu
+𠱳	yun
+𠴫	yu
+𠸹	yu
+𠽵	yu
+𠾲	yue
+𠿋	yue
+𡁎	yu
+𡂊	yu
+𡅙	yun
+𡆦	yue
+𡆽	yue
+𡇺	yu
+𡈒	yuan
+𡈓	yuan
+𡈨	yu
+𡋬	yu
+𡑾	yu
+𡒃	yu
+𡒊	yu
+𡔴	yu
+𡖒	yun
+𡛟	yue
+𡡕	yue
+𡢊	yuan
+𡢘	yun
+𡣬	yuan
+𡨣	yu
+𡨿	yu
+𡫽	yu
+𡬊	yu
+𡬞	yu
+𡯱	yuan
+𡲪	yun
+𡷎	yu
+𡷡	yuan
+𡻢	yu
+𡽅	yun
+𡿥	yu
+𡿯	yu
+𢁞	yue
+𢂱	yuan
+𢆀	yuan
+𢊧	yu
+𢋅	yu
+𢌻	yu
+𢍈	yuan
+𢎻	yu
+𢏮	yuan
+𢐄	yuan
+𢒰	yu
+𢔢	yu
+𢔥	yu
+𢔬	yu
+𢔴	yu
+𢕋	yuan
+𢖡	yu
+𢗯	yuan
+𢛨	yu
+𢡎	yu
+𢦰	yue
+𢮁	yu
+𢯮	yu
+𢯵	yue
+𢱽	yuan
+𢷻	yuan
+𢹏	yu
+𢺴	yu
+𢾄	yu
+𢾔	yue
+𣂊	yun
+𣋉	yu
+𣌗	yue
+𣍛	yu
+𣎱	yue
+𣐋	yue
+𣕃	yu
+𣖆	yun
+𣝑	yu
+𣟰	yu
+𣡉	yu
+𣢒	yu
+𣢦	yu
+𣣎	yu
+𣤰	yue
+𣦏	yue
+𣨝	yu
+𣨡	yue
+𣩺	yu
+𣹠	yuan
+𣻮	yue
+𤀝	yu
+𤑓	yue
+𤓝	yue
+𤕘	yu
+𤗃	yu
+𤚎	yu
+𤜹	yu
+𤞞	yu
+𤥽	yu
+𤧙	yu
+𤬌	yuan
+𤳕	yu
+𤸒	yu
+𤸫	yun
+𤹪	yu
+𥄵	yu
+𥆉	yu
+𥆟	yue
+𥉑	yu
+𥎐	yu
+𥐩	yun
+𥒾	yu
+𥔢	yu
+𥘄	yu
+𥙿	yu
+𥛩	yu
+𥝍	yu
+𥝨	yu
+𥠺	yun
+𥩡	yue
+𥭞	yuan
+𥯮	yu
+𥷔	yu
+𥷞	yu
+𥸘	yue
+𥸤	yu
+𥸪	yu
+𥹔	yu
+𥺞	yu
+𥿎	yuan
+𦀡	yu
+𦅿	yun
+𦈣	yu
+𦈸	yu
+𦋢	yu
+𦋩	yue
+𦋯	yu
+𦍼	yuan
+𦎘	yu
+𦏜	yu
+𦏻	yu
+𦐛	yu
+𦒑	yu
+𦘹	yue
+𦚢	yue
+𦡭	yu
+𦣜	yue
+𦤕	yue
+𦥉	yu
+𦦩	yu
+𦦫	yu
+𦦲	yu
+𦩞	yu
+𦭳	yu
+𦱀	yu
+𦱂	yu
+𦱃	yu
+𦳅	yu
+𦿂	yuan
+𧀲	yue
+𧃠	yu
+𧅚	yue
+𧇓	yue
+𧈯	yu
+𧉃	yun
+𧉗	yuan
+𧉣	yu
+𧊠	yu
+𧍪	yu
+𧐄	yu
+𧑐	yu
+𧔞	yuan
+𧕋	yue
+𧗪	yu
+𧗱	yu
+𧙮	yuan
+𧙶	yu
+𧞏	yu
+𧡡	yun
+𧤯	yue
+𧤽	yue
+𧥺	yun
+𧥼	yun
+𧨄	yue
+𧫊	yu
+𧬞	yun
+𧯡	yue
+𧯱	yu
+𧰇	yu
+𧱬	yu
+𧳭	yuan
+𧶊	yun
+𧶠	yu
+𧹊	yue
+𧻚	yuan
+𧼐	yun
+𧼫	yu
+𧼯	yu
+𧾚	yu
+𧿷	yu
+𨀮	yuan
+𨁑	yue
+𨄯	yu
+𨈋	yue
+𨊱	yu
+𨊸	yue
+𨍆	yun
+𨒋	yue
+𨓯	yuan
+𨕗	yuan
+𨖛	yu
+𨖳	yuan
+𨗝	yu
+𨙄	yue
+𨛡	yun
+𨜖	yu
+𨝈	yu
+𨞓	yu
+𨨶	yu
+𨩬	yu
+𨪎	yu
+𨮔	yu
+𨰸	yu
+𨳕	yue
+𨵃	yue
+𨵉	yu
+𨵦	yu
+𨶢	yu
+𨷐	yun
+𨷲	yue
+𨸘	yuan
+𨸮	yun
+𨻣	yuan
+𨾌	yu
+𨿁	yue
+𩁯	yue
+𩁴	yun
+𩂧	yu
+𩂿	yun
+𩃯	yu
+𩈕	yu
+𩉯	yuan
+𩊇	yu
+𩋉	yu
+𩋢	yun
+𩋤	yu
+𩌑	yuan
+𩍻	yuan
+𩎙	yue
+𩎹	yu
+𩏅	yun
+𩏆	yun
+𩏟	yu
+𩏴	yu
+𩐘	yuan
+𩓥	yue
+𩔃	yuan
+𩕾	yuan
+𩘍	yuan
+𩘤	yu
+𩘳	yu
+𩘻	yu
+𩚄	yu
+𩚈	yue
+𩛟	yuan
+𩛪	yu
+𩛭	yu
+𩜌	yue
+𩝗	yu
+𩝸	yuan
+𩟁	yuan
+𩟑	yu
+𩟳	yu
+𩡃	yu
+𩢶	yu
+𩤺	yu
+𩥭	yu
+𩦡	yu
+𩦢	yu
+𩨗	yu
+𩨙	yu
+𩩑	yu
+𩩘	yu
+𩰪	yu
+𩰵	yuan
+𩱌	yu
+𩱪	yue
+𩱱	yu
+𩱲	yue
+𩲾	yu
+𩴉	yun
+𩵎	yu
+𩺰	yu
+𩾢	yuan
+𩿠	yue
+𪀝	yuan
+𪁀	yu
+𪁑	yue
+𪂉	yu
+𪂕	yu
+𪂦	yuan
+𪂵	yu
+𪃍	yu
+𪃎	yu
+𪄁	yuan
+𪇝	yu
+𪉂	yun
+𪊻	yu
+𪋉	yu
+𪋬	yu
+𪋮	yu
+𪍝	yun
+𪏔	yun
+𪏚	yun
+𪑆	yu
+𪑌	yu
+𪑝	yu
+𪒥	yue
+𪓊	yu
+𪔅	yuan
+𪔗	yuan
+𪔙	yuan
+𪕀	yuan
+𪘩	yun
+𪘳	yue
+𫐄	yue	1
+𫖳	yun	1
+𫘪	yuan	1
+𫚪	yu
+𫚪	yu	1
 𫚪亚科	yu ya ke	8
+𬸚	yue
+𬸚	yue	2
 𬸚𬸦	yue zhuo	5555
+𮬛	yu

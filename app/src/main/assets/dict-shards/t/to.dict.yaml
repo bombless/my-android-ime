@@ -3,8 +3,49 @@ name: merged.to
 version: "1.0"
 sort: by_weight
 ...
+㓱	tou
+㕻	tou
+㖣	tou
+㛚	tong
+㛚	tong	1
+㠉	tong
+㠽	tong
+㡏	tou
+㢏	tou
+㣚	tong
+㣠	tong
+㤏	tong
+㤟	tou
+㪌	tong
+㪗	tou
+㮔	tong
+㰯	tou
+㳆	tou
+㸗	tong
+㼥	tou
+㼧	tong
+㼿	tong
+䂈	tong
+䆚	tong
+䆹	tong
+䕱	tou
+䚵	tou
+䞬	tou
+䟝	tou
+䡩	tou
+䮵	tong
+䱏	tou
+䳋	tong
+䴀	tong
+䵉	tou
+䶱	tong
+亠	tou
+仝	tong
+仝	tong	796
 仝庄村	tong zhuang cun	1
 仝沟村	tong gou cun	3
+佟	tong
+佟	tong	19785
 佟丽娅	tong li ya	100
 佟佳江	tong jia jiang	184
 佟国维	tong guo wei	160
@@ -24,6 +65,11 @@ sort: by_weight
 佟韦	tong wei	15
 佟麟阁	tong lin ge	270
 佟麟阁路	tong lin ge lu	69
+侗	tong
+侗	tong	1
+偅	tong
+偷	tou
+偷	tou	359993
 偷上去	tou shang qu	100
 偷上来	tou shang lai	100
 偷下去	tou xia qu	100
@@ -349,8 +395,14 @@ sort: by_weight
 偷鸡摸狗	tou ji mo gou	2925
 偷鸡王	tou ji wang	100
 偷鸡盗狗	tou ji dao gou	100
+偸	tou
+僮	tong
+僮	tong	2826
 僮奴	tong nu	8
 僮手指千	tong shou zhi qian	100
+勭	tong
+同	tong
+同	tong	2614683
 同一	tong yi	5003
 同一个	tong yi ge	185795
 同一个世界	tong yi ge shi jie	3205
@@ -1735,6 +1787,10 @@ sort: by_weight
 同龄人	tong ling ren	20405
 同龄人们	tong ling ren men	100
 同龄林	tong ling lin	100
+哃	tong
+哃	tong	11
+嗵	tong
+嗵	tong	4379
 嗵嗵	tong tong	248
 嗵嗵响	tong tong xiang	123
 嗵嗵嗵	tong tong tong	123
@@ -1748,8 +1804,14 @@ sort: by_weight
 嗵嗵直跳	tong tong zhi tiao	123
 嗵嗵跳	tong tong tiao	123
 嗵鼓	tong gu	123
+囲	tong
+垌	tong
+垌	tong	74
 垌冢	tong zhong	2
 垌冢镇	tong zhong zhen	4
+埱	tou
+头	tou
+头	tou	4813712
 头一	tou yi	26260
 头一个	tou yi ge	7775
 头一回	tou yi hui	7650
@@ -2297,6 +2359,17 @@ sort: by_weight
 头高头低	tou gao tou di	2
 头高数丈触山回	tou gao shu zhang chu shan hui	1
 头鬓眉须皆似雪	tou bin mei xu jie si xue	1
+妵	tou
+婾	tou
+媮	tou
+峂	tong
+峂	tong	1
+峒	tong
+峒	tong	1
+峝	tong
+庝	tong
+彤	tong
+彤	tong	15357
 彤云	tong yun	2200
 彤云密布	tong yun mi bu	335
 彤云红	tong yun hong	1
@@ -2304,10 +2377,18 @@ sort: by_weight
 彤彤	tong tong	7800
 彤程新材	tong cheng xin cai	130
 彤红	tong hong	1
+恫	tong	0
+恸	tong
+恸	tong	5121
 恸不欲生	tong bu yu sheng	111
 恸哭	tong ku	75
 恸哭六军俱缟素	tong ku liu jun ju gao su	1180
 恸哭秋原何处村	tong ku qiu yuan he chu cun	2
+愉	tou
+慟	tong
+憅	tong
+投	tou
+投	tou	373978
 投一下票	tou yi xia piao	100
 投一票	tou yi piao	9120
 投上	tou shang	8900
@@ -3044,6 +3125,8 @@ sort: by_weight
 投饵	tou er	6310
 投鼠之忌	tou shu zhi ji	100
 投鼠忌器	tou shu ji qi	2330
+捅	tong
+捅	tong	45436
 捅一下	tong yi xia	100
 捅一刀	tong yi dao	3500
 捅一捅	tong yi tong	1180
@@ -3079,11 +3162,19 @@ sort: by_weight
 捅马蜂窝	tong ma feng wo	295
 捅鼻子	tong bi zi	115
 捅鼻孔	tong bi kong	100
+敨	tou
+斢	tou
+晍	tong
+曈	tong
+曈	tong	191
 曈昽	tong long	1
 曈曈	tong tong	440
 曈曈日	tong tong ri	193
 曈曈红日	tong tong hong ri	1
+朣	tong
 朣朦	tong meng	1
+桐	tong
+桐	tong	37139
 桐乡	tong xiang	21055
 桐乡县	tong xiang xian	350
 桐乡市	tong xiang shi	11995
@@ -3157,6 +3248,8 @@ sort: by_weight
 桐蛋	tong dan	32
 桐谷美玲	tong gu mei ling	4
 桐谷茉莉	tong gu mo li	6666
+桶	tong
+桶	tong	49900
 桶内	tong nei	4595
 桶口	tong kou	735
 桶子	tong zi	2655
@@ -3175,6 +3268,8 @@ sort: by_weight
 桶车乡	tong che xiang	22
 桶里	tong li	8888
 桶里射鱼	tong li she yu	100
+樋	tong
+樋	tong	1
 樋上至	tong shang zhi	1
 樋井明日香	tong jing ming ri xiang	1
 樋口一叶	tong kou yi ye	1
@@ -3204,6 +3299,13 @@ sort: by_weight
 樋越车站	tong yue che zhan	1
 樋速日神	tong su ri shen	1
 樋野茉理	tong ye mo li	1
+橦	tong
+橦	tong	67
+氃	tong
+洞	tong	1
+浵	tong
+潼	tong
+潼	tong	4597
 潼关	tong guan	11715
 潼关县	tong guan xian	800
 潼关怀古	tong guan huai gu	100
@@ -3215,8 +3317,19 @@ sort: by_weight
 潼桥村	tong qiao cun	1
 潼河	tong he	1
 潼潼水势向江东	tong tong shui shi xiang jiang dong	1
+炵	tong
+烔	tong
+烔	tong	83
 烔炀河	tong yang he	2
 烔炀镇	tong yang zhen	62
+熥	tong
+燑	tong
+犝	tong
+狪	tong
+獞	tong
+痌	tong
+痛	tong
+痛	tong	653298
 痛下决心	tong xia jue xin	5985
 痛不可忍	tong bu ke ren	695
 痛不欲生	tong bu yu sheng	14175
@@ -3402,6 +3515,9 @@ sort: by_weight
 痛骂	tong ma	9250
 痛骂一顿	tong ma yi dun	510
 痛骂的	tong ma de	385
+眮	tong
+瞳	tong
+瞳	tong	38812
 瞳仁	tong ren	3170
 瞳子	tong zi	1675
 瞳子髎	tong zi liao	17
@@ -3417,7 +3533,15 @@ sort: by_weight
 瞳神缩小	tong shen suo xiao	1
 瞳距	tong ju	256
 瞳里三区	tong li san qu	1
+砼	tong
+砼	tong	143
 砼强度	tong qiang du	100
+硧	tong
+秱	tong
+穜	tong
+穜	tong	6
+童	tong
+童	tong	192039
 童之伟	tong zhi wei	136
 童乐园	tong le yuan	100
 童书业	tong shu ye	9
@@ -3567,6 +3691,8 @@ sort: by_weight
 童颜巨乳	tong yan ju ru	100
 童颜鹤发	tong yan he fa	325
 童颜鹤鬓	tong yan he bin	100
+筒	tong
+筒	tong	54584
 筒井康隆	tong jing kang long	1
 筒仓	tong cang	1525
 筒仔米糕	tong zai mi gao	16
@@ -3591,6 +3717,15 @@ sort: by_weight
 筒轴茅	tong zhou mao	1
 筒靴	tong xue	111
 筒骨	tong gu	5
+筩	tong
+粡	tong
+紏	tou
+絧	tong
+統	tong
+綂	tong
+緰	tou
+统	tong
+统	tong	503061
 统一	tong yi	5006
 统一一下	tong yi yi xia	86
 统一下	tong yi xia	34
@@ -3976,8 +4111,19 @@ sort: by_weight
 统领	tong ling	96215
 统领地位	tong ling di wei	100
 统领禁军	tong ling jin jun	100
+膧	tong
+茼	tong
+茼	tong	390
 茼蒿	tong hao	8201
 茼蒿菜	tong hao cai	100
+蓪	tong
+蘣	tou
+蚒	tong
+衕	tong
+詷	tong
+赨	tong
+透	tou
+透	tou	336303
 透一口气	tou yi kou qi	265
 透上去	tou shang qu	100
 透上来	tou shang lai	100
@@ -4207,6 +4353,8 @@ sort: by_weight
 透骨草	tou gu cao	850
 透骨酸心	tou gu suan xin	1
 透骨香	tou gu xiang	9
+通	tong
+通	tong	1186869
 通一下	tong yi xia	64
 通一通	tong yi tong	123
 通三益	tong san yi	18
@@ -5363,6 +5511,8 @@ sort: by_weight
 通马路口	tong ma lu kou	1
 通高铁	tong gao tie	106
 通鼻贴	tong bi tie	100
+酮	tong
+酮	tong	1135
 酮体	tong ti	2
 酮体症	tong ti zheng	100
 酮康他索乳膏	tong kang ta suo ru gao	1
@@ -5379,6 +5529,14 @@ sort: by_weight
 酮类	tong lei	3715
 酮肟	tong wo	2
 酮酸	tong suan	865
+鉖	tong
+鉵	tong
+銅	tong
+鋀	tou
+鍮	tou
+钭	tou	1
+铜	tong
+铜	tong	73454
 铜业	tong ye	8935
 铜丝	tong si	790
 铜中毒	tong zhong du	59
@@ -5619,6 +5777,75 @@ sort: by_weight
 铜鼓峪	tong gu yu	2
 铜鼓楼	tong gu lou	1
 铜龙	tong long	5555
+頭	tou
+飳	tou
+餇	tong
+骰	tou
+骰	tou	6460
 骰子	tou zi	15240
 骰骨	tou gu	7
+鮦	tong
+鲖	tong
+鲖	tong	3
 鲖城镇	tong cheng zhen	12
+黈	tou
+𠖄	tong
+𡇧	tou
+𡠙	tong
+𡦜	tong
+𡷠	tou
+𢄟	tong
+𢈉	tong
+𢏕	tong
+𢓘	tong
+𢳟	tong
+𣂮	tou
+𣌾	tong
+𣑸	tong
+𣛾	tou
+𣪌	tou
+𣪯	tong
+𣻢	tong
+𤱇	tong
+𤺄	tong
+𥦁	tong
+𥩌	tong
+𥫂	tong
+𥲆	tong
+𦏆	tong
+𦒍	tong
+𦒍	tong	1
+𦨴	tong
+𧇌	tong
+𧊚	tong
+𧋒	tong
+𧋚	tong
+𧌝	tong
+𧙥	tong
+𧳆	tong
+𧳿	tong
+𧺢	tou
+𨀜	tong
+𨈹	tong
+𨔙	tou
+𨚯	tong
+𨜳	tong
+𨝯	tong
+𨠌	tong
+𨪐	tou
+𨯲	tou
+𨱎	tou
+𨷩	tou
+𩍅	tong
+𩜶	tou
+𩩅	tong
+𩻡	tong
+𩿢	tou
+𪀭	tong
+𪁞	tou
+𪉘	tou
+𪌘	tou
+𪌢	tong
+𪎨	tou
+𫍣	tong
+𫍣	tong	1

@@ -5,6 +5,14 @@ import argparse, json, re
 from collections import defaultdict
 from pathlib import Path
 
+DEFAULT_FILES = (
+    "base.dict.yaml",
+    "ext.dict.yaml",
+    "tencent.dict.yaml",
+    "8105.dict.yaml",
+    "41448.dict.yaml",
+)
+
 def data_start(lines):
     for i, line in enumerate(lines):
         if line.strip() == "...":
@@ -29,7 +37,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("input_dir", type=Path)
     ap.add_argument("output_dir", type=Path)
-    ap.add_argument("--files", nargs="+", required=True)
+    ap.add_argument("--files", nargs="+", default=DEFAULT_FILES)
     args = ap.parse_args()
     out = args.output_dir
     out.mkdir(parents=True, exist_ok=True)
@@ -37,6 +45,8 @@ def main():
     total = 0
     for name in args.files:
         src = args.input_dir / name
+        if not src.exists():
+            raise FileNotFoundError(f"Missing dictionary: {src}")
         text = src.read_text(encoding="utf-8-sig")
         lines = text.splitlines()
         for line in lines[data_start(lines):]:

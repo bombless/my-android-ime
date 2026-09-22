@@ -3,6 +3,61 @@ name: merged.he
 version: "1.0"
 sort: by_weight
 ...
+㓭	he
+㔠	he
+㔰	heng
+㕡	he
+㕰	he
+㗿	he
+㙳	he
+㥺	he
+㦦	he
+㪃	he
+㪉	he
+㬞	he
+㭘	he
+㭱	he
+㮝	he
+㮫	he
+㯊	hen
+㰤	he
+㲦	he
+㵑	he
+㶇	heng
+㷎	he
+㷤	he
+㹇	he
+㻧	he
+㿣	he
+㿥	he
+䃒	he
+䄓	heng
+䅂	he
+䌾	he
+䎋	he
+䒛	heng
+䒩	he
+䓳	hen
+䓼	he
+䕣	he
+䚂	he
+䞦	he
+䢔	he
+䢗	he
+䪚	he
+䫘	he
+䬖	heng
+䬝	heng
+䮤	he
+䯒	heng
+䯨	he
+䳚	he
+䳽	he
+䴳	he
+䵱	he
+䶅	he
+亨	heng
+亨	heng	26827
 亨克	heng ke	1625
 亨克尔	heng ke er	580
 亨利	heng li	68520
@@ -34,6 +89,8 @@ sort: by_weight
 亨通光电	heng tong guang dian	5
 亨通镇	heng tong zhen	1
 亨里克森	heng li ke sen	100
+何	he
+何	he	1822108
 何一帆	he yi fan	343
 何不	he bu	5942
 何不于君指上听	he bu yu jun zhi shang ting	3
@@ -617,6 +674,12 @@ sort: by_weight
 何首乌粉	he shou wu fen	243
 何香凝	he xiang ning	532
 何鲁丽	he lu li	4180
+佫	he
+佷	hen
+劾	he
+劾	he	4941
+合	he
+合	he	1085786
 合一	he yi	89810
 合一下	he yi xia	440
 合一起	he yi qi	8700
@@ -1664,8 +1727,13 @@ sort: by_weight
 合齿鱼亚目	he chi yu ya mu	1
 合龙	he long	2985
 合龙门	he long men	100
+吓	he
+吓	he	5000
 吓阻	he zu	1880
 吓阻力量	he zu li liang	100
+呙	he
+呵	he
+呵	he	570893
 呵佛骂祖	he fo ma zu	276
 呵吸鲤	he xi li	2
 呵呵	he he	500636
@@ -1697,6 +1765,9 @@ sort: by_weight
 呵脬捧屁	he pao peng pi	100
 呵脬舐痔	he pao shi zhi	100
 呵责	he ze	9999
+咊	he
+和	he
+和	he	6252031
 和不足	he bu zu	156
 和世㻋	he shi la	100
 和业务	he ye wu	67
@@ -2302,6 +2373,11 @@ sort: by_weight
 和龙市	he long shi	1255
 和龙林业局	he long lin ye ju	10
 和龙路	he long lu	6
+咼	he
+哏	hen
+哬	he
+哼	heng
+哼	heng	255327
 哼一哼	heng yi heng	123
 哼一声	heng yi sheng	9700
 哼上	heng shang	695
@@ -2347,6 +2423,11 @@ sort: by_weight
 哼起了	heng qi le	100
 哼起来	heng qi lai	100
 哼道	heng dao	3660
+啈	heng
+啝	he
+喛	he
+喝	he
+喝	he	707608
 喝一下	he yi xia	215
 喝一两	he yi liang	64
 喝一个	he yi ge	102
@@ -2788,6 +2869,13 @@ sort: by_weight
 喝高了	he gao le	2940
 喝鸡汤	he ji tang	100
 喝黑咖啡	he hei ka fei	295
+嗃	he
+嗨	hei
+嗨	hei	0
+嗬	he
+嗬	he	7948
+嘿	hei
+嘿	hei	319099
 嘿咻	hei xiu	7310
 嘿哈	hei ha	9999
 嘿哈哈	hei ha ha	100
@@ -2802,7 +2890,22 @@ sort: by_weight
 嘿笑	hei xiao	1111
 嘿笑一个	hei xiao yi ge	100
 嘿笑一声	hei xiao yi sheng	100
+噈	he
+噷	hen
+嚇	he
+垎	he
+垎	he	1
+堼	heng	3
+壑	he
+壑	he	5914
+姀	he
+姮	heng
+姮	heng	1368
 姮娥	heng e	5
+寉	he
+峆	he
+很	hen
+很	hen	3994436
 很一般	hen yi ban	10560
 很上心	hen shang xin	10950
 很不	hen bu	9999
@@ -4420,6 +4523,9 @@ sort: by_weight
 很黏	hen nian	580
 很黑	hen hei	9370
 很齐	hen qi	2135
+恆	heng
+恒	heng
+恒	heng	74155
 恒丰路	heng feng lu	2710
 恒丰银行	heng feng yin hang	100
 恒为科技	heng wei ke ji	116
@@ -4594,6 +4700,8 @@ sort: by_weight
 恒雅名园	heng ya ming yuan	1
 恒顺	heng shun	4915
 恒齿	heng chi	455
+恨	hen
+恨	hen	326212
 恨不	hen bu	14
 恨不得	hen bu de	47575
 恨不得把	hen bu de ba	100
@@ -4677,12 +4785,24 @@ sort: by_weight
 恨道	hen dao	885
 恨铁不成钢	hen tie bu cheng gang	4650
 恨铁不成钢的感觉	hen tie bu cheng gang de gan jue	100
+悙	heng
+惒	he
+抲	he
+拫	hen
+撗	heng
+敆	he
+曷	he
+曷	he	424
 曷克致此	he ke zhi ci	1
 曷克臻此	he ke zhen ci	3
 曷其有常	he qi you chang	100
 曷其有所	he qi you suo	100
 曷此其极	he ci qi ji	100
 曷足以美七尺之躯哉	he zu yi mei qi chi zhi qu zai	1
+朅	he
+柇	he
+核	he
+核	he	96965
 核一下	he yi xia	340
 核不扩散	he bu kuo san	1510
 核事件	he shi jian	100
@@ -5191,11 +5311,16 @@ sort: by_weight
 核黄素	he huang su	12202
 核黄素磷酸钠	he huang su lin suan na	1
 核黄素磷酸钠注射液	he huang su lin suan na zhu she ye	10
+桁	heng
+桁	heng	859
 桁条	heng tiao	205
 桁杨	heng yang	110
 桁杨刀锯	heng yang dao ju	100
 桁架	heng jia	5840
 桁梁	heng liang	690
+楁	he
+横	heng
+横	heng	224880
 横一条南口	heng yi tiao nan kou	2
 横七条	heng qi tiao	63
 横七竖八	heng qi shu ba	6285
@@ -5649,6 +5774,11 @@ sort: by_weight
 横马	heng ma	7
 横驱别骛	heng qu bie wu	1
 横骨	heng gu	500
+橫	heng
+欱	he
+毼	he
+河	he
+河	he	425953
 河一村	he yi cun	6
 河万村	he wan cun	2
 河上	he shang	26930
@@ -6582,6 +6712,9 @@ sort: by_weight
 河鳗	he man	111
 河鼓二	he gu er	110
 河鼓街	he gu jie	155
+涥	heng
+涸	he
+涸	he	4944
 涸思干虑	he si gan lv	1
 涸泽之蛇	he ze zhi she	2
 涸泽而渔	he ze er yu	615
@@ -6593,6 +6726,19 @@ sort: by_weight
 涸辙穷鳞	he zhe qiong lin	1
 涸鱼得水	he yu de shui	100
 涸鲋得水	he fu de shui	1
+渮	he
+潶	hei
+澕	he
+烆	heng
+焃	he
+煂	he
+熆	he
+熇	he
+熇	he	38
+燺	he
+爀	he
+狠	hen
+狠	hen	382360
 狠下	hen xia	6430
 狠下决心	hen xia jue xin	730
 狠下功夫	hen xia gong fu	8335
@@ -6690,9 +6836,15 @@ sort: by_weight
 狠话	hen hua	3333
 狠起来	hen qi lai	180
 狠辣	hen la	9999
+狢	he
+猲	he
+珩	heng
+珩	heng	3734
 珩山	heng shan	1
 珩磨	heng mo	1405
 珩磨机	heng mo ji	570
+痕	hen
+痕	hen	144963
 痕印	hen yin	410
 痕迹	hen ji	201025
 痕迹学	hen ji xue	80
@@ -6700,7 +6852,16 @@ sort: by_weight
 痕都斯坦	hen du si tan	36
 痕量	hen liang	2115
 痕量元素	hen liang yuan su	305
+癋	he
+皬	he
+盇	he
+盉	he
+盉	he	276
+盍	he
+盍	he	351
 盍各言尔志	he ge yan er zhi	7
+盒	he
+盒	he	85795
 盒中	he zhong	7645
 盒中盒	he zhong he	124
 盒儿	he er	1111
@@ -6731,6 +6892,11 @@ sort: by_weight
 盒里	he li	8480
 盒饭	he fan	19395
 盒马生鲜	he ma sheng xian	133
+盖	he
+碋	he
+礉	he
+禾	he
+禾	he	16993
 禾下乘凉	he xia cheng liang	129
 禾下乘凉梦	he xia cheng liang meng	138
 禾丰布依族苗族乡	he feng bu yi zu miao zu xiang	1
@@ -6777,8 +6943,23 @@ sort: by_weight
 禾黍之悲	he shu zhi bei	100
 禾黍故宫	he shu gu gong	1
 禾黍离离	he shu li li	100
+篕	he
+籺	he
+粭	he
+紇	he
+纥	he
+纥	he	1538
+翮	he
+翮	he	429
+翯	he
+翯	he	13
 翯翯	he he	1
 翯黄毒蛾	he huang du e	1
+胻	heng
+脝	heng
+苛	he
+荷	he
+荷	he	79485
 荷一路	he yi lu	171
 荷东	he dong	11
 荷丹片	he dan pian	4
@@ -6944,6 +7125,8 @@ sort: by_weight
 荷马	he ma	1
 荷马史诗	he ma shi shi	3115
 荷鲁斯之眼	he lu si zhi yan	159
+菏	he
+菏	he	348
 菏泽	he ze	2
 菏泽一中	he ze yi zhong	174
 菏泽东	he ze dong	105
@@ -6957,8 +7140,18 @@ sort: by_weight
 菏泽市单县	he ze shi shan xian	1
 菏泽曹县	he ze cao xian	175
 菏泽路	he ze lu	1
+萂	he
+蓋	he
+蘅	heng
+蘅	heng	3849
 蘅塘退士	heng tang tui shi	100
 蘅芜	heng wu	1515
+螛	he
+蠚	he
+行	heng
+行	heng	1
+衡	heng
+衡	heng	95483
 衡东县	heng dong xian	166
 衡中	heng zhong	100
 衡井线	heng jing xian	178
@@ -7025,6 +7218,9 @@ sort: by_weight
 衡阳雁去无留意	heng yang yan qu wu liu yi	1180
 衡阳雁声彻	heng yang yan sheng che	1
 衡阳雁断	heng yang yan duan	100
+袔	he
+褐	he
+褐	he	14390
 褐九棘鲈	he jiu ji lu	1
 褐二刺角蝉	he er ci jiao chan	1
 褐云冠	he yun guan	1
@@ -7214,10 +7410,24 @@ sort: by_weight
 褐黄病	he huang bing	3
 褐黄色	he huang se	1325
 褐黄锹甲	he huang qiao jia	1
+覈	he
+訶	he
+訸	he
+詥	he
+詪	hen
+謞	he
+诃	he
+诃	he	4484
 诃佛诋巫	he fo di wu	1
 诃子	he zi	22
 诃梨勒	he li le	2
+貈	he
+貉	he
+貉	he	1133
 貉藻	he zao	3
+賀	he
+贺	he
+贺	he	87683
 贺一诚	he yi cheng	119
 贺东东	he dong dong	123
 贺丞新村	he cheng xin cun	1
@@ -7334,6 +7544,8 @@ sort: by_weight
 贺韶村	he shao cun	1
 贺龙	he long	7
 贺龙体育馆	he long ti yu guan	339
+赫	he
+赫	he	122145
 赫丽尔斯	he li er si	197
 赫伊别尔	he yi bie er	183
 赫伦堡	he lun bao	100
@@ -7480,6 +7692,19 @@ sort: by_weight
 赫顿玛尔	he dun ma er	104
 赫鲁晓夫	he lu xiao fu	9910
 赫鲁雪夫	he lu xue fu	100
+郃	he
+郃	he	2164
+釛	he
+鉌	he
+鑅	heng
+鑉	he
+閡	he
+閤	he
+闔	he
+阂	he
+阂	he	4558
+阖	he
+阖	he	5863
 阖家	he jia	2270
 阖家团圆	he jia tuan yuan	100
 阖家安泰	he jia an tai	100
@@ -7500,6 +7725,17 @@ sort: by_weight
 阖闾城	he lv cheng	100
 阖闾城碧铺秋草	he lv cheng bi pu qiu cao	1
 阖闾城遗址	he lv cheng yi zhi	100
+隺	he
+隺	he	1
+靍	he
+靎	he
+靏	he
+鞎	hen
+鞨	he
+鞨	he	564
+頜	he
+颌	he
+颌	he	4941
 颌下淋巴结	he xia lin ba jie	8
 颌下腺	he xia xian	1015
 颌下腺炎	he xia xian yan	2
@@ -7511,13 +7747,31 @@ sort: by_weight
 颌骨囊肿	he gu nang zhong	5
 颌骨夹持钳	he gu jia chi qian	1
 颌骨骨髓炎	he gu gu sui yan	14
+餄	he
+饸	he
+饸	he	49
 饸饹	he le	180
 饸饹面	he le mian	80
+魺	he
+鲄	he
+鴴	heng
+鵆	heng
+鶡	he
+鶮	he
+鶴	he
+鸖	he
+鸻	heng
+鸻	heng	9
 鸻刺缘吸虫	heng ci yuan xi chong	1
 鸻多棘孔吸虫	heng duo ji kong xi chong	1
 鸻形目	heng xing mu	15
 鸻科	heng ke	6
 鸻鹬	heng yu	9
+鹄	he
+鹖	he
+鹖	he	33
+鹤	he
+鹤	he	44828
 鹤乡	he xiang	2
 鹤亦败道	he yi bai dao	1
 鹤仙人	he xian ren	999
@@ -7625,6 +7879,9 @@ sort: by_weight
 鹤龄镇	he ling zhen	5
 鹤龄龟算	he ling gui suan	1
 鹤龙湖	he long hu	144
+麧	he
+黑	hei
+黑	hei	1292192
 黑一色	hei yi se	100
 黑一阿旭	hei yi a xu	125
 黑一黑	hei yi hei	100
@@ -9244,5 +9501,117 @@ sort: by_weight
 黑龙舞	hei long wu	100
 黑龙舞兮云飞扬	hei long wu xi yun fei yang	100
 黑龙谷	hei long gu	5
+黒	hei
+齕	he
+龁	he
+龁	he	380
+龢	he
+龢	he	688
+𠀀	he
+𠁗	he
+𠔲	heng
+𠗂	he
+𠘢	he
+𠚔	he
+𠛳	he
+𠡀	he
+𠧕	he
+𠧿	heng
+𠰓	he
+𠳇	he
+𠳊	he
+𠵩	he
+𠶹	he
+𠶾	he
+𠻙	he
+𡀽	he
+𡇞	he
+𡇶	he
+𡧦	heng
+𡫥	he
+𢄍	he
+𢅰	he
+𢖛	hei
+𢡀	hei
+𢥳	he
+𢬲	he
+𣆈	he
+𣏷	he
+𣣹	he
+𣨉	heng
+𣰌	he
+𣲑	he
+𣲲	he
+𣿌	he
+𤈧	he
+𤖱	he
+𤮏	heng
+𥉑	he
+𥋿	he
+𥕙	hei
+𥘫	he
+𥝖	he
+𥝸	he
+𥞄	he
+𥞍	he
+𥞧	heng
+𥟃	he
+𥻉	he
+𥽶	he
+𦃔	he
+𦇸	he
+𦒏	he
+𦘿	he
+𦚣	hen
+𦛘	he
+𦛜	he
+𦞦	he
+𦤦	he
+𦨾	heng
+𦪗	heng
+𦳬	he
+𦶙	heng
+𦺞	he
+𦼰	he
+𦼵	he
+𦽅	he
+𧀔	he
+𧇎	he
+𧇮	he
+𧊬	he
+𧝂	he
+𧝒	heng
+𧝳	he
+𧨂	he
+𧪞	he
+𧬂	he
+𧬱	he
+𧭳	he
+𧮵	he
+𧯉	he
+𧲦	he
+𨋟	he
+𨍇	he
+𨜱	he
+𨜴	he
+𨨛	he
+𨭆	hei
+𨴢	he
+𩄸	he
+𩅢	he
+𩌡	he
+𩐥	he
+𩑸	he
+𩩒	he
+𩩲	he
+𩵢	he
+𩻤	hei
+𪈊	he
+𪏓	heng
+𪖲	he
+𪘹	he
+𬌗	he	94
 𬌗学	he xue	9
+𬣳	hen	1
+𬭶	hei	2
 𬭶元素	hei yuan su	100

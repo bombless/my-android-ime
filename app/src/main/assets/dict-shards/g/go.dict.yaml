@@ -3,6 +3,38 @@ name: merged.go
 version: "1.0"
 sort: by_weight
 ...
+㓋	gong
+㔶	gong
+㗕	gou
+㜌	gou
+㝅	gou
+㝤	gou
+㤨	gong
+㧬	gong
+㨌	gou
+㫒	gong
+㭟	gong
+㯯	gong
+㳶	gou
+㺃	gou
+㺬	gong
+㼦	gong
+㽛	gou
+䂬	gong
+䃓	gou
+䇨	gong
+䑦	gou
+䔈	gong
+䝭	gou
+䞀	gou
+䡗	gong
+䢚	gong
+䢼	gong
+䢼	gong	1
+䱋	gong
+䳍	gong
+佝	gou
+佝	gou	2829
 佝偻	gou lou	3760
 佝偻病	gou lou bing	8535
 佝偻症	gou lou zheng	145
@@ -11,6 +43,9 @@ sort: by_weight
 佝偻着腰	gou lou zhe yao	100
 佝偻着身子	gou lou zhe shen zi	100
 佝瘘病	gou lou bing	15
+侊	gong
+供	gong
+供	gong	188899
 供上	gong shang	4444
 供不上	gong bu shang	39
 供不出	gong bu chu	3
@@ -370,6 +405,9 @@ sort: by_weight
 供需见面	gong xu jian mian	5820
 供餐	gong can	3175
 供餐模式	gong can mo shi	100
+傋	gou
+公	gong
+公	gong	2055138
 公丁香	gong ding xiang	14
 公不公平	gong bu gong ping	100
 公不离婆	gong bu li po	5
@@ -2108,6 +2146,8 @@ sort: by_weight
 公麻雀	gong ma que	5
 公鼠	gong shu	1432
 公龟	gong gui	5
+共	gong
+共	gong	393083
 共上站	gong shang zhan	7
 共不共存	gong bu gong cun	100
 共不到	gong bu dao	2
@@ -2857,6 +2897,9 @@ sort: by_weight
 共鸣点	gong ming dian	100
 共鸣石	gong ming shi	128
 共鸣程度	gong ming cheng du	100
+冓	gou
+功	gong
+功	gong	945623
 功一美二	gong yi mei er	1
 功不可没	gong bu ke mo	22100
 功不唐捐终入海	gong bu tang juan zhong ru hai	100
@@ -3222,6 +3265,8 @@ sort: by_weight
 功高望重	gong gao wang zhong	100
 功高盖主	gong gao gai zhu	715
 功高震主	gong gao zhen zhu	1185
+勾	gou
+勾	gou	105524
 勾一下	gou yi xia	79
 勾三搭四	gou san da si	690
 勾三股四	gou san gu si	100
@@ -3336,11 +3381,26 @@ sort: by_weight
 勾魂降头	gou hun jiang tou	100
 勾魂面	gou hun mian	33
 勾魂魔女	gou hun mo nv	1
+匑	gong
+匔	gong
+厷	gong
+句	gou
+句	gou	1
 句町	gou ding	2
 句町古国	gou ding gu guo	2
 句町国	gou ding guo	2
+呴	gou
+唝	gong
+啂	gou
+嗊	gong
+坸	gou
+垢	gou
+垢	gou	9175
 垢污	gou wu	1
 垢面蓬头	gou mian peng tou	100
+塨	gong
+够	gou
+够	gou	768470
 够不	gou bu	8230
 够不上	gou bu shang	2270
 够不到	gou bu dao	160
@@ -3540,10 +3600,17 @@ sort: by_weight
 够麻烦你	gou ma fan ni	100
 够麻烦你了	gou ma fan ni le	100
 够黑	gou hei	1420
+夠	gou
+姤	gou
+姤	gou	52
 姤卦	gou gua	3
+媾	gou
+媾	gou	1833
 媾合	gou he	270
 媾和	gou he	2000
 媾和案	gou he an	100
+宫	gong
+宫	gong	431590
 宫下	gong xia	1
 宫下华奈	gong xia hua nai	6666
 宫下杏奈	gong xia xing nai	3
@@ -3724,7 +3791,12 @@ sort: by_weight
 宫颈肌瘤	gong jing ji liu	10
 宫颐府写字楼	gong yi fu xie zi lou	6
 宫饼	gong bing	235
+宮	gong
+岣	gou
+岣	gou	63
 岣嵝	gou lou	355
+工	gong
+工	gong	1242237
 工一师	gong yi shi	5
 工业	gong ye	500661
 工业一路	gong ye yi lu	97
@@ -5215,6 +5287,8 @@ sort: by_weight
 工频	gong pin	9070
 工龄	gong ling	49655
 工龄长	gong ling chang	100
+巩	gong
+巩	gong	14361
 巩乃斯沟乡	gong nai si gou xiang	2
 巩义市	gong yi shi	12100
 巩俐	gong li	491
@@ -5249,7 +5323,11 @@ sort: by_weight
 巩膜葡萄肿	gong mo pu tao zhong	2
 巩膜黄染	gong mo huang ran	25
 巩金瓯	gong jin ou	100
+幊	gong
+廾	gong
 廾部	gong bu	1
+弓	gong
+弓	gong	120521
 弓上弦刀出鞘	gong shang xian dao chu qiao	100
 弓不虚发	gong bu xu fa	100
 弓丝成型器	gong si cheng xing qi	1
@@ -5317,7 +5395,11 @@ sort: by_weight
 弓长岭区	gong chang ling qu	475
 弓长张	gong chang zhang	100
 弓鞋	gong xie	38
+彀	gou
+彀	gou	738
 彀中	gou zhong	4
+恭	gong
+恭	gong	127784
 恭亲王	gong qin wang	3360
 恭亲王奕䜣	gong qin wang yi xin	100
 恭俭温良	gong jian wen liang	100
@@ -5380,6 +5462,11 @@ sort: by_weight
 恭顺	gong shun	2920
 恭顺的	gong shun de	610
 恭默守静	gong mo shou jing	1
+愩	gong
+慐	gong
+拘	gou
+拱	gong
+拱	gong	43077
 拱一拱	gong yi gong	66
 拱了	gong le	4444
 拱了一下	gong le yi xia	444
@@ -5462,6 +5549,11 @@ sort: by_weight
 拱顶	gong ding	4010
 拱高	gong gao	610
 拱默尸禄	gong mo shi lu	1
+拲	gong
+搆	gou
+撀	gou
+攻	gong
+攻	gong	665395
 攻三点	gong san dian	100
 攻上	gong shang	3430
 攻上去	gong shang qu	235
@@ -5657,6 +5749,9 @@ sort: by_weight
 攻陷葛兰高地	gong xian ge lan gao di	100
 攻陷黑翼之巢	gong xian hei yi zhi chao	100
 攻风暴	gong feng bao	100
+杛	gong
+构	gou
+构	gou	152528
 构不成	gou bu cheng	100
 构不构成	gou bu gou cheng	100
 构不构成吗	gou bu gou cheng ma	100
@@ -5785,6 +5880,8 @@ sort: by_weight
 构造运动	gou zao yun dong	1840
 构配件	gou pei jian	100
 构陷	gou xian	590
+枸	gou
+枸	gou	1043
 枸杞	gou qi	41355
 枸杞卷梢蛾	gou qi juan shao e	1
 枸杞多糖	gou qi duo tang	26
@@ -5813,6 +5910,10 @@ sort: by_weight
 枸椽蟹守螺	gou chuan xie shou luo	1
 枸橘	gou ju	195
 枸骨	gou gu	1065
+栱	gong
+構	gou
+汞	gong
+汞	gong	1292
 汞中毒	gong zhong du	1010
 汞元素	gong yuan su	100
 汞合金	gong he jin	100
@@ -5827,6 +5928,8 @@ sort: by_weight
 汞等重金属	gong deng zhong jin shu	100
 汞齐	gong ji	685
 汞齐电极	gong ji dian ji	9
+沟	gou
+沟	gou	80789
 沟中	gou zhong	233
 沟中之瘠	gou zhong zhi ji	100
 沟中之脊	gou zhong zhi ji	1
@@ -5922,6 +6025,12 @@ sort: by_weight
 沟门	gou men	34
 沟门子镇	gou men zi zhen	2
 沟𫌀毛蚊	gou ji mao wen	1
+溝	gou
+澒	gong
+煹	gou
+熕	gong
+狗	gou
+狗	gou	273402
 狗一点	gou yi dian	100
 狗不夜吠	gou bu ye fei	1
 狗不嫌家贫	gou bu xian jia pin	100
@@ -6210,7 +6319,17 @@ sort: by_weight
 狗鸡巴蛋	gou ji ba dan	100
 狗鼠不食其余	gou shu bu shi qi yu	1
 狗𪨊	gou song	2
+玽	gou
+珙	gong
+珙	gong	990
 珙桐	gong tong	99
+痀	gou
+硔	gong	1
+碽	gong
+笱	gou
+笱	gou	91
+篝	gou
+篝	gou	8896
 篝之雾枝	gou zhi wu zhi	100
 篝火	gou huo	28215
 篝火之夜	gou huo zhi ye	100
@@ -6218,8 +6337,26 @@ sort: by_weight
 篝火狐鸣	gou huo hu ming	100
 篝火者	gou huo zhe	100
 篝火营地	gou huo ying di	100
+篢	gong
+簼	gou
+糓	gou
+糼	gong
+糿	gong
+紅	gong
+緱	gou
+红	gong
+红	gong	1
+缑	gou
+缑	gou	225
 缑氏镇	gou shi zhen	118
+羾	gong
+耇	gou
+耇	gou	3
 耇街乡	gou jie xiang	1
+耈	gou
+耉	gou
+肱	gong
+肱	gong	1208
 肱三头肌	gong san tou ji	1640
 肱二头	gong er tou	3333
 肱二头肌	gong er tou ji	2280
@@ -6241,6 +6378,9 @@ sort: by_weight
 肱骨腹结节	gong gu fu jie jie	1
 肱骨骨折	gong gu gu zhe	229
 肱骨髁间骨折	gong gu ke jian gu zhe	1
+芶	gou
+苟	gou
+苟	gou	25037
 苟一苟	gou yi gou	100
 苟不能	gou bu neng	100
 苟且	gou qie	6435
@@ -6298,9 +6438,24 @@ sort: by_weight
 苟能	gou neng	1475
 苟能制侵陵	gou neng zhi qin ling	1180
 苟非吾之所有	gou fei wu zhi suo you	27
+蚣	gong
+蚣	gong	5167
+蚼	gou
+袧	gou
+褠	gou
+覯	gou
+觏	gou
+觏	gou	64
+觥	gong
+觥	gong	1596
 觥筹	gong chou	445
 觥筹交错	gong chou jiao cuo	3475
 觥饭不及壶飧	gong fan bu ji hu sun	1
+觵	gong
+訽	gou
+詬	gou
+诟	gou
+诟	gou	987
 诟厉	gou li	115
 诟如不闻	gou ru bu wen	1
 诟病	gou bing	16140
@@ -6309,6 +6464,11 @@ sort: by_weight
 诟谇谣诼	gou sui yao zhuo	100
 诟骂	gou ma	355
 诟龟呼天	gou gui hu tian	1
+豿	gou
+貢	gong
+購	gou
+贡	gong
+贡	gong	48905
 贡丸	gong wan	1435
 贡丸汤	gong wan tang	30
 贡举	gong ju	1240
@@ -6377,6 +6537,8 @@ sort: by_weight
 贡院街	gong yuan jie	148
 贡隆	gong long	2
 贡高我慢	gong gao wo man	100
+购	gou
+购	gou	95339
 购不到	gou bu dao	20
 购书	gou shu	43090
 购书中心	gou shu zhong xin	1225
@@ -6568,6 +6730,8 @@ sort: by_weight
 购销站	gou xiao zhan	540
 购销额	gou xiao e	100
 购领	gou ling	3665
+躬	gong
+躬	gong	43678
 躬亲	gong qin	1280
 躬体力行	gong ti li xing	1
 躬先士卒	gong xian shi zu	100
@@ -6591,6 +6755,15 @@ sort: by_weight
 躬逢盛事	gong feng sheng shi	100
 躬逢盛典	gong feng sheng dian	1
 躬逢胜饯	gong feng sheng jian	163
+躳	gong
+輁	gong
+遘	gou
+遘	gou	128
+鈎	gou
+鉤	gou
+銾	gong
+钩	gou
+钩	gou	33452
 钩上去	gou shang qu	100
 钩上来	gou shang lai	100
 钩下去	gou xia qu	100
@@ -6666,8 +6839,19 @@ sort: by_weight
 钩鱼	gou yu	915
 钩鹿角珊瑚	gou lu jiao shan hu	1
 钩鼻海蛇	gou bi hai she	3
+雊	gou
+雊	gou	7
+鞏	gong
+鞲	gou
+鞲	gou	95
 鞲上鹰	gou shang ying	100
 鞲鞴	gou bei	1
+韝	gou
+髸	gong
+龏	gong
+龔	gong
+龚	gong
+龚	gong	21246
 龚仁心	gong ren xin	123
 龚伟杰	gong wei jie	100
 龚兰生	gong lan sheng	2
@@ -6711,3 +6895,85 @@ sort: by_weight
 龚雪松	gong xue song	10
 龚鹏程	gong peng cheng	87
 龚鼎孳	gong ding zi	10
+𠇒	gong
+𠌕	gong
+𠛎	gou
+𠞖	gong
+𡔕	gong
+𡖑	gou
+𡗁	gou
+𡚑	gong
+𡟫	gong
+𢀜	gong
+𢁠	gong
+𢄇	gou
+𢖷	gong
+𢸁	gong
+𣕉	gou
+𣕌	gou
+𣙱	gou
+𣫌	gou
+𤅐	gong
+𤖮	gou
+𤚼	gou
+𤠼	gou
+𤨶	gong
+𤫱	gou
+𤬳	gong
+𤱨	gong
+𥉇	gou
+𥧂	gong
+𥧒	gou
+𥧡	gong
+𥨐	gong
+𥫋	gong
+𥬉	gou
+𥴴	gou
+𥸲	gong
+𥿺	gou
+𦄜	gong
+𦈩	gong
+𦊫	gong
+𦎯	gou
+𦎼	gou
+𦏺	gong
+𦓳	gong
+𦔸	gong
+𦞗	gong
+𦞨	gong
+𦦧	gong
+𦩷	gou
+𦩼	gong
+𦬘	gong
+𦱣	gou
+𦵡	gong
+𦵷	gou
+𦽋	gou
+𧃛	gou
+𧆷	gong
+𧎡	gong
+𧘏	gong
+𧲿	gou
+𧵈	gou
+𨉫	gong
+𨊧	gong
+𨋑	gong
+𨋝	gong
+𨋷	gong
+𨒱	gong
+𨣂	gong
+𨥑	gong
+𨨭	gong
+𨩦	gou
+𨴛	gong
+𩃙	gong
+𩄢	gou
+𩌌	gong
+𩐣	gong
+𩛘	gong
+𪀊	gou
+𪃺	gou
+𪄌	gong
+𪏠	gong
+𪏢	gong
+𪚭	gou

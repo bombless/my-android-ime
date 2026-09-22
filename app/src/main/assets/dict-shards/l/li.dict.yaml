@@ -3,6 +3,7 @@ name: merged.li
 version: "1.0"
 sort: by_weight
 ...
+〇	ling	10000
 〇〇七	ling ling qi	77
 〇〇后	ling ling hou	333
 〇〇后们	ling ling hou men	100
@@ -16,9 +17,277 @@ sort: by_weight
 〇八年	ling ba nian	122
 〇六年	ling liu nian	121
 〇四年	ling si nian	121
+㐬	liu
+㐭	lin
+㑦	li
+㒧	li
+㒳	liang
+㒿	li
+㓯	li
+㔂	lin
+㔏	li
+㔝	liang
+㕸	li
+㖁	lin
+㖫	ling
+㖼	lin
+㗚	li
+㘑	li
+㙀	liu
+㙩	liao
+㜃	lian
+㜃	liao
+㜕	lian
+㜻	lian
+㝋	liao
+㝋	liu
+㝝	lin
+㝺	lian
+㝺	lin
+㞠	liao
+㟀	lian
+㟳	li
+㠟	li
+㠣	li
+㡂	li
+㡘	lian
+㡵	ling
+㡻	liao
+㢘	lian
+㤠	lie
+㤡	li
+㤦	li
+㥄	ling
+㥄	ling	1
+㥎	li
+㥕	lian
+㦁	lian
+㦑	lian
+㦒	li
+㦭	ling
+㧕	liu
+㧜	lie
+㧰	li
+㨆	lin
+㨓	liao
+㨨	liu
+㪘	lian
+㪝	lian
+㪮	ling
+㬏	li
+㬡	ling
+㬯	lie
+㭞	lie
+㭩	lie
+㭩	ling
+㮚	li
+㯤	li
+㯪	ling
+㯬	lian
+㯿	lie
+㰀	li
+㰀	li	1
 㰀檬	li meng	22
+㰈	lian
+㰚	li
+㰸	lian
+㱥	ling
+㱨	lian
+㱹	li
+㲆	ling
+㲱	lie
+㳅	liu
+㴃	li
+㴝	li
+㵳	liao
+㵳	liu
+㶌	lian
+㶑	lian
+㶫	liao
+㶯	liu
+㷠	lin
+㷰	li
+㷴	li
+㸊	lie
+㸚	li
+㸳	ling
+㸹	lie
+㹁	liang
+㹈	li
+㺒	liao
+㺡	li
+㺦	lian
+㻎	li
+㻏	ling
+㻺	li
+㻺	lie
+㼑	lian
+㼓	lian
+㼖	li
+㼲	lie
+㽁	li
+㽌	liu
+㽝	li
+㽞	liu
+㽟	lie
+㾉	ling
+㾐	li
+㾖	li
+㾗	liang
+㾾	lian
+㿛	li
+㿨	li
+䀶	liang
+䁁	liang
+䁠	lian
+䁻	li
+䁽	lie
+䃛	lian
+䃯	li
+䄂	liu
+䄥	ling
+䄦	liao
+䅀	lie
+䅄	li
+䅻	li
+䆂	lian
+䇐	li
+䇜	lian
+䈊	ling
+䉁	ling
+䉖	ling
+䉧	liu
+䉫	li
+䉭	lie
+䉮	lin
+䉹	ling
+䉹	liu
+䉼	liao
+䊍	li
+䊪	li
+䋥	li
+䋷	liu
+䌞	lian
+䌢	ling
+䍅	ling
+䍠	li
+䍡	liao
+䍥	li
+䍦	li
+䍽	li
+䎆	liao
+䏈	lian
+䐄	lian
+䑠	liao
+䒥	liu
+䒿	liao
+䓞	li
 䓞草	li cao	1
+䓟	lie
+䓣	liang
+䔁	li
+䔆	li
+䔉	li
+䔖	ling
+䔣	li
+䔧	li
+䕘	ling
+䕞	liao
+䕲	lin
+䕻	li
+䖅	ling
+䖽	li
+䖿	li
+䗍	li
+䗜	liu
+䗲	lin
+䗶	li
+䘈	li
+䙥	ling
+䙰	li
+䙺	lian
+䚏	li
+䚏	lin
+䚕	li
+䚖	ling
+䚧	liu
+䚬	lin
+䜍	liao
+䜮	liao
+䜲	lie
+䝀	liao
+䝀	liu
+䝓	lie
+䝤	liao
+䝶	liang
+䟏	li
+䟐	li
+䟩	lie
+䟹	lie
+䟹	lin
+䠃	liang
+䠲	ling
+䡃	li
+䡼	ling
+䡿	ling
+䢧	liao
+䢧	lin
+䢯	lin
+䣈	liao
+䣓	li
+䣫	li
+䣼	liang
+䤙	li
+䤚	li
+䥥	lian
+䥶	li
+䧉	li
+䧙	ling
+䨅	liao
+䨩	ling
+䨬	lian
+䩍	liao
+䩫	liang
+䪉	lie
+䫐	lin
+䫰	lin
+䬅	li
+䬅	lie
+䬆	li
+䬟	liu
+䭑	lian
+䭪	liang
+䭷	liu
+䮋	li
+䮋	lie
+䮥	li
+䮼	lin
+䯍	ling
+䰘	liu
+䰛	li
+䰜	li
+䰱	ling
+䱖	liu
+䱘	li
+䱞	liu
+䲞	li
+䴄	li
+䴇	ling
+䴒	ling
+䴕	lie
+䴕	lie	86
 䴕形目	lie xing mu	100
+䴡	li
+䴫	ling
+䴻	li
+䵓	li
+䵩	li
+䶉	liu
+䶘	li
+䶛	lie
+両	liang
+两	liang
+两	liang	3302466
 两万	liang wan	48170
 两万一千	liang wan yi qian	100
 两万一平	liang wan yi ping	100
@@ -1542,6 +1811,8 @@ sort: by_weight
 两鼠斗穴	liang shu dou xue	100
 两龙望标目如瞬	liang long wang biao mu ru shun	3
 两龙跃出浮水来	liang long yue chu fu shui lai	11
+临	lin
+临	lin	332190
 临丁路笕丁路口	lin ding lu jian ding lu kou	1
 临下班	lin xia ban	62
 临不测之渊	lin bu ce zhi yuan	1
@@ -2074,6 +2345,8 @@ sort: by_weight
 临高话	lin gao hua	2
 临高语	lin gao yu	2
 临齐街道	lin qi jie dao	158
+丽	li
+丽	li	653445
 丽丽	li li	30065
 丽京门	li jing men	4
 丽人	li ren	2631
@@ -2207,6 +2480,9 @@ sort: by_weight
 丽音	li yin	236
 丽鳞短颌𫚔脂鲤	li lin duan he hui zhi li	1
 丽鹰雕	li ying diao	1
+亃	lin
+了	liao
+了	liao	999
 了不了解	liao bu liao jie	100
 了不了解吗	liao bu liao jie ma	100
 了不了解吧	liao bu liao jie ba	100
@@ -2390,6 +2666,8 @@ sort: by_weight
 了解高校	liao jie gao xiao	100
 了账	liao zhang	1885
 了身达命	liao shen da ming	100
+亮	liang
+亮	liang	693524
 亮一亮	liang yi liang	123
 亮不了	liang bu liao	60
 亮不亮	liang bu liang	475
@@ -2554,6 +2832,9 @@ sort: by_weight
 亮马河站	liang ma he zhan	5
 亮黄	liang huang	7
 亮黑叉泉蝇	liang hei cha quan ying	1
+亷	lian
+令	ling
+令	ling	942791
 令下	ling xia	2840
 令不少	ling bu shao	4390
 令不虚行	ling bu xu xing	5
@@ -2772,6 +3053,8 @@ sort: by_weight
 令阃	ling kun	2
 令骥捕鼠	ling ji bu shu	1
 令鼓吏挝鼓	ling gu li zhua gu	100
+伶	ling
+伶	ling	18546
 伶人	ling ren	3205
 伶仃	ling ding	3645
 伶仃孤苦	ling ding gu ku	100
@@ -2788,6 +3071,8 @@ sort: by_weight
 伶牙俐齿	ling ya li chi	3210
 伶盗龙	ling dao long	100
 伶站瑶族乡	ling zhan yao zu xiang	1
+例	li
+例	li	187039
 例一	li yi	4920
 例三	li san	333
 例举	li ju	6755
@@ -2848,11 +3133,21 @@ sort: by_weight
 例言	li yan	290
 例证	li zheng	32760
 例题	li ti	39440
+俍	liang
+俍	liang	9
+俐	li
+俐	li	11827
 俐齿伶牙	li chi ling ya	100
+俚	li
+俚	li	1300
 俚俗	li su	1195
 俚曲	li qu	2
 俚歌	li ge	95
 俚语	li yu	9430
+俩	lia
+俩	lia	99
+俩	liang
+俩	liang	1
 俩人	lia ren	36745
 俩人的关系	lia ren de guan xi	100
 俩人相拥在一起	lia ren xiang yong zai yi qi	100
@@ -2868,6 +3163,8 @@ sort: by_weight
 俩都是	lia dou shi	100
 俩钱	lia qian	121
 俩钱儿	lia qian er	134
+俪	li
+俪	li	2379
 俪句	li ju	5
 俪影	li ying	3
 俪湖天地	li hu tian di	155
@@ -2875,13 +3172,29 @@ sort: by_weight
 俪语	li yu	4
 俪辞	li ci	1
 俪青妃白	li qing fei bai	1
+倆	lia
+倆	liang
+倞	liang
+倞	liang	1
+傈	li
+傈	li	369
 傈僳	li su	3270
 傈僳族	li su zu	8205
 傈僳语	li su yu	415
+僆	lian
+僚	liao
+僚	liao	19624
 僚佐	liao zuo	530
 僚友	liao you	355
 僚属	liao shu	1530
 僚机	liao ji	9999
+僯	lin
+儠	lie
+儮	li
+儷	li
+兩	liang
+六	liu
+六	liu	635084
 六〇〇〇	liu ling ling ling	100
 六〇〇〇年	liu ling ling ling nian	100
 六〇〇一	liu ling ling yi	100
@@ -6075,6 +6388,11 @@ sort: by_weight
 六龄童	liu ling tong	275
 六龟	liu gui	275
 六龟乡	liu gui xiang	100
+冧	lin
+冽	lie
+冽	lie	11108
+凉	liang
+凉	liang	219565
 凉一凉	liang yi liang	104
 凉丝丝	liang si si	1560
 凉了	liang le	19720
@@ -6239,6 +6557,8 @@ sort: by_weight
 凉饮	liang yin	111
 凉鸡米线	liang ji mi xian	95
 凉麻辣烫	liang ma la tang	100
+凌	ling
+凌	ling	335556
 凌一揆	ling yi kui	1
 凌万顷之茫然	ling wan qing zhi mang ran	9
 凌久安全增强电子邮件系统	ling jiu an quan zeng qiang dian zi you jian xi tong	87
@@ -6395,7 +6715,11 @@ sort: by_weight
 凌驾于	ling jia yu	14530
 凌驾在	ling jia zai	100
 凌鸿勋	ling hong xun	9
+凓	li
+凓	li	3
 凓冽	li lie	1
+凛	lin
+凛	lin	44092
 凛不可犯	lin bu ke fan	100
 凛冬	lin dong	4444
 凛冬将至	lin dong jiang zhi	116
@@ -6420,6 +6744,10 @@ sort: by_weight
 凛若秋霜	lin ruo qiu shuang	1
 凛遵	lin zun	240
 凛音桃花	lin yin tao hua	6666
+凜	lin
+刕	li
+列	lie
+列	lie	244324
 列一下	lie yi xia	4
 列一列	lie yi lie	202
 列上	lie shang	5725
@@ -6606,6 +6934,8 @@ sort: by_weight
 列鼎重裀	lie ding chong yin	100
 列齿目	lie chi mu	2
 列齿鳗光唇鳗	lie chi man guang chun man	1
+刘	liu
+刘	liu	835052
 刘䶮	liu yan	2
 刘一刀	liu yi dao	1
 刘一含	liu yi han	21
@@ -7436,6 +7766,9 @@ sort: by_weight
 刘黑仔	liu hei zai	100
 刘黑闼	liu hei ta	4
 刘龙田	liu long tian	1
+刢	ling
+利	li
+利	li	1091519
 利万高	li wan gao	3
 利上滚利	li shang gun li	100
 利不亏义	li bu kui yi	1
@@ -8003,6 +8336,13 @@ sort: by_weight
 利齿	li chi	2625
 利齿伶牙	li chi ling ya	1
 利齿能牙	li chi neng ya	100
+剓	li
+剺	li
+劆	lian
+劉	liu
+劙	li
+力	li
+力	li	3298612
 力不从心	li bu cong xin	33850
 力不从心的感觉	li bu cong xin de gan jue	100
 力不从愿	li bu cong yuan	100
@@ -8312,6 +8652,8 @@ sort: by_weight
 力钧势敌	li jun shi di	1
 力霸天	li ba tian	100
 力鸿花园	li hong hua yuan	21
+劣	lie
+劣	lie	49371
 劣习	lie xi	355
 劣于	lie yu	3850
 劣作	lie zuo	555
@@ -8351,6 +8693,9 @@ sort: by_weight
 劣迹艺人	lie ji yi ren	106
 劣酒	lie jiu	1111
 劣马	lie ma	855
+劦	lie
+励	li
+励	li	76447
 励守谦	li shou qian	1
 励宗万	li zong wan	3
 励志	li zhi	13177
@@ -8375,6 +8720,12 @@ sort: by_weight
 励精求治	li jing qiu zhi	100
 励行	li xing	81
 励骏酒店	li jun jiu dian	121
+劽	lie
+勵	li
+匲	lian
+匳	lian
+历	li
+历	li	492045
 历下区	li xia qu	8140
 历世	li shi	8999
 历世摩钝	li shi mo dun	1
@@ -8709,6 +9060,8 @@ sort: by_weight
 历险	li xian	13555
 历险归来	li xian gui lai	100
 历险记	li xian ji	13120
+厉	li
+厉	li	352288
 厉不厉害	li bu li hai	100
 厉不厉害吗	li bu li hai ma	100
 厉不厉害吧	li bu li hai ba	100
@@ -8775,6 +9128,8 @@ sort: by_weight
 厉行节约反对浪费	li xing jie yue fan dui lang fei	100
 厉鬼	li gui	8400
 厉鹗	li e	2
+厘	li
+厘	li	17464
 厘升	li sheng	120
 厘奸剔弊	li jian ti bi	1
 厘定	li ding	6840
@@ -8784,6 +9139,14 @@ sort: by_weight
 厘米	li mi	500266
 厘米汞柱	li mi gong zhu	85
 厘米波	li mi bo	230
+厤	li
+厯	li
+厲	li
+厸	lin
+叓	li
+叕	li
+另	ling
+另	ling	608814
 另一	ling yi	430485
 另一世界	ling yi shi jie	100
 另一个	ling yi ge	500313
@@ -9050,6 +9413,8 @@ sort: by_weight
 另配	ling pei	6470
 另附	ling fu	14655
 另需	ling xu	3750
+吏	li
+吏	li	29539
 吏员	li yuan	7
 吏呼一何怒	li hu yi he nu	100
 吏官	li guan	140
@@ -9064,6 +9429,8 @@ sort: by_weight
 吏部侍郎	li bu shi lang	1790
 吏部尚书	li bu shang shu	6070
 吏部文章	li bu wen zhang	100
+吝	lin
+吝	lin	11418
 吝书	lin shu	10
 吝于	lin yu	2100
 吝啬	lin se	35915
@@ -9072,8 +9439,14 @@ sort: by_weight
 吝啬鬼	lin se gui	3000
 吝惜	lin xi	9985
 吝色	lin se	1
+呖	li
+呖	li	1053
 呖呖	li li	2
+呤	ling
+呤	ling	4508
 呤呤	ling ling	975
+咧	lie
+咧	lie	58774
 咧了咧嘴	lie le lie zui	195
 咧咧	lie lie	4280
 咧嘴	lie zui	9120
@@ -9087,21 +9460,86 @@ sort: by_weight
 咧着	lie zhe	4805
 咧着嘴	lie zhe zui	100
 咧着嘴笑	lie zhe zui xiao	1340
+哩	li
+哩	li	58164
 哩哩啦啦	li li la la	745
 哩哩啰啰	li li luo luo	1111
 哩溜歪斜	li liu wai xie	100
+哴	liang
+哷	lie
+唎	li
+唡	liang
+唳	li
+唳	li	1892
+啉	lin
+啉	lin	258
+啢	liang
+喨	liang
+喱	li
+喱	li	1783
+嗹	lian
+嘹	liao
+嘹	liao	3699
 嘹亮	liao liang	16415
+噒	lian
+嚟	li
+嚠	liu
+嚦	li
+囄	li
+囇	li
+囹	ling
+囹	ling	1017
 囹圄	ling yu	242
 囹圄充积	ling yu chong ji	1
 囹圄生草	ling yu sheng cao	1
 囹圄空虚	ling yu kong xu	10
+坜	li
+坜	li	223
+坽	ling
+坽	ling	1
+埒	lie
+埒	lie	194
 埒才角妙	lie cai jiao miao	1
 埒材角妙	lie cai jue miao	100
+埓	lie
+堜	lian
+塛	li
+塯	liu
+墚	liang
+墚	liang	65
+壢	li
+壣	lin
+夌	ling
+奁	lian
+奁	lian	722
 奁资	lian zi	50
+奩	lian
+姈	ling
+姈	ling	1
+姴	lie
+娌	li
+娌	li	641
+娳	li
+婈	ling
+婯	li
+媡	lian
+媹	liu
+嫠	li
+嫠	li	195
 嫠不恤纬	li bu xu wei	100
 嫠妇	li fu	275
 嫠忧宗周	li you zong zhou	100
 嫠纬之忧	li wei zhi you	100
+嫽	liao
+嫽	liao	123
+嫾	lian
+嬚	lian
+嬼	liu
+孁	ling
+孋	li
+孷	li
+寥	liao
+寥	liao	20857
 寥亮幽音妙入神	liao liang you yin miao ru shen	1
 寥寂	liao ji	260
 寥寥	liao liao	2209
@@ -9127,6 +9565,8 @@ sort: by_weight
 寥落晨星	liao luo chen xing	100
 寥落的	liao luo de	100
 寥落的小巷	liao luo de xiao xiang	100
+寮	liao
+寮	liao	1698
 寮前	liao qian	3
 寮国	liao guo	2
 寮屋	liao wu	2
@@ -9135,7 +9575,16 @@ sort: by_weight
 寮步镇	liao bu zhen	1
 寮背窝	liao bei wo	2
 寮黑瘤姬蜂	liao hei liu ji feng	1
+尞	liao
+尥	liao
+尥	liao	242
 尥蹶子	liao jue zi	240
+尦	liao
+屪	liao
+屴	li
+岦	li
+岭	ling
+岭	ling	44076
 岭上	ling shang	84
 岭上开花	ling shang kai hua	100
 岭上牌	ling shang pai	100
@@ -9181,7 +9630,27 @@ sort: by_weight
 岭西	ling xi	2
 岭西村	ling xi cun	3
 岭西街道	ling xi jie dao	1
+岺	ling
+峛	li
+峛	lie	1
+峢	li
+峲	li
+崊	lin
+崚	ling
+崚	ling	1
+嵧	liu
+嵺	liao
+嶙	lin
+嶙	lin	4142
 嶙峋	lin xun	7885
+嶚	liao
+嶛	liao
+嶺	ling
+巁	li
+巁	lie
+巤	lie
+帘	lian
+帘	lian	60741
 帘下宫人出	lian xia gong ren chu	1
 帘卷西风	lian juan xi feng	1310
 帘外	lian wai	2985
@@ -9206,6 +9675,9 @@ sort: by_weight
 帘栊	lian long	1585
 帘窥壁听	lian kui bi ting	1
 帘视壁听	lian shi bi ting	1
+廇	liu
+廉	lian
+廉	lian	48551
 廉不言贫	lian bu yan pin	75
 廉以律己	lian yi lv ji	100
 廉以树威	lian yi shu wei	75
@@ -9297,6 +9769,8 @@ sort: by_weight
 廉颇送至境	lian po song zhi jing	1
 廉颇遂奔魏之大梁	lian po sui ben wei zhi da liang	1
 廉风正气	lian feng zheng qi	10
+廖	liao
+廖	liao	31067
 廖三宁	liao san ning	100
 廖书凡	liao shu fan	100
 廖二平	liao er ping	1
@@ -9369,12 +9843,21 @@ sort: by_weight
 廖雪峰	liao xue feng	100
 廖静文	liao jing wen	151
 廖韦卓	liao wei zhuo	100
+廩	lin
+廪	lin
+廪	lin	725
 廪生	lin sheng	2
 廪米	lin mi	3
 廪膳	lin shan	2
 廪膳生	lin shan sheng	9999
 廪膳生员	lin shan sheng yuan	9999
 廪膳秀才	lin shan xiu cai	100
+廫	liao
+廲	li
+彾	ling
+忚	lie
+怜	lian
+怜	lian	195035
 怜君何事到天涯	lian jun he shi dao tian ya	1
 怜君如弟兄	lian jun ru di xiong	5
 怜城辞	lian cheng ci	100
@@ -9403,6 +9886,8 @@ sort: by_weight
 怜贫敬老	lian pin jing lao	1
 怜香伴	lian xiang ban	100
 怜香惜玉	lian xiang xi yu	6095
+恋	lian
+恋	lian	243571
 恋上	lian shang	12670
 恋上你	lian shang ni	475
 恋与深空	lian yu shen kong	168
@@ -9527,13 +10012,40 @@ sort: by_weight
 恋酒贪色	lian jiu tan se	1
 恋酒贪花	lian jiu tan hua	1
 恋酒迷花	lian jiu mi hua	100
+恡	lin
+悋	lin
+悝	li
+悝	li	99
+悡	li
+悢	liang
+悢	liang	15
+悧	li
+悷	li
+惏	lin
+慄	li
+慩	lian
+憀	liao
+憐	lian
+憭	liao
+憭	liao	6
+懍	lin
+懔	lin
+懔	lin	1326
 懔忧	lin you	2
 懔然敛容	lin ran lian rong	100
+懰	liu
+戀	lian
+戾	li
+戾	li	8677
 戾气	li qi	34825
 戾气太重	li qi tai zhong	100
 戾气很重	li qi hen zhong	100
 戾气重	li qi zhong	100
 戾牙野猪	li ya ye zhu	1
+扐	li
+扚	li
+拎	lin
+拎	lin	31698
 拎一个	lin yi ge	100
 拎下来	lin xia lai	100
 拎不清	lin bu qing	100
@@ -9574,8 +10086,20 @@ sort: by_weight
 拎起电话	lin qi dian hua	50
 拎起自己	lin qi zi ji	100
 拎重物	lin zhong wu	100
+挒	lie
+挘	lie
+捩	lie
+捩	lie	399
 捩手覆羹	lie shou fu geng	1
 捩转	lie zhuan	25
+掕	ling
+掚	liang
+搮	li
+摎	liao
+摎	liu
+摙	lian
+撂	liao
+撂	liao	8107
 撂一撂	liao yi liao	123
 撂下	liao xia	5135
 撂下了	liao xia le	5135
@@ -9599,6 +10123,9 @@ sort: by_weight
 撂荒土地	liao huang tu di	100
 撂荒地	liao huang di	605
 撂跤	liao jiao	1
+撛	lin
+撩	liao
+撩	liao	21011
 撩一下	liao yi xia	234
 撩一撩	liao yi liao	456
 撩上来	liao shang lai	100
@@ -9638,6 +10165,13 @@ sort: by_weight
 撩起来	liao qi lai	500
 撩逗	liao dou	235
 撩阴	liao yin	4
+擸	lie
+擽	li
+攊	li
+攦	li
+攭	li
+敛	lian
+敛	lian	31390
 敛发谨饬	lian fa jin chi	1
 敛后疏前	lian hou shu qian	1
 敛声匿迹	lian sheng ni ji	1
@@ -9669,6 +10203,11 @@ sort: by_weight
 敛钱	lian qian	875
 敛锷韬光	lian e tao guang	1
 敛骨吹魂	lian gu chui hun	1
+敹	liao
+斂	lian
+斄	li
+料	liao
+料	liao	263518
 料不准	liao bu zhun	100
 料不到	liao bu dao	4540
 料中	liao zhong	6590
@@ -9736,7 +10275,17 @@ sort: by_weight
 料错	liao cuo	4444
 料青山	liao qing shan	191
 料青山见我应如是	liao qing shan jian wo ying ru shi	100
+斴	lin
+斿	liu
+旈	liu
+旒	liu
+旒	liu	542
+昤	ling
+昤	ling	3
 昤昽	ling long	1
+晽	lin
+晾	liang
+晾	liang	9012
 晾一下	liang yi xia	149
 晾一晾	liang yi liang	789
 晾上	liang shang	2030
@@ -9762,6 +10311,17 @@ sort: by_weight
 晾被子	liang bei zi	100
 晾起来	liang qi lai	2030
 晾马台	liang ma tai	128
+暦	li
+暸	liao
+暽	lin
+曆	li
+曞	li
+曢	liao
+朎	ling
+朸	li
+朸	li	1
+李	li
+李	li	1462547
 李一星	li yi xing	100
 李一氓	li yi mang	44
 李七庄	li qi zhuang	11
@@ -11160,6 +11720,9 @@ sort: by_weight
 李龙怡	li long yi	100
 李龟年	li gui nian	100
 李𪟝	li ji	2
+杝	li
+林	lin
+林	lin	1435296
 林㹭	lin yi	1
 林一峰	lin yi feng	100
 林一成	lin yi cheng	101
@@ -11895,7 +12458,14 @@ sort: by_weight
 林鼠山狐长醉饱	lin shu shan hu chang zui bao	1
 林龙	lin long	13
 林龟	lin gui	2
+枥	li
+枥	li	339
+柂	li
+柃	ling
+柃	ling	71
 柃木	ling mu	1
+柳	liu
+柳	liu	297897
 柳丁氨醇	liu ding an chun	100
 柳丁汁	liu ding zhi	100
 柳丁皮	liu ding pi	100
@@ -12180,12 +12750,18 @@ sort: by_weight
 柳骨颜筋	liu gu yan jin	100
 柳黄乡	liu huang xiang	10
 柳龙庭	liu long ting	154
+栁	liu
+栃	li
 栃木县	li mu xian	100
+栎	li
+栎	li	1981
 栎列队蛾	li lie dui e	1
 栎圆点小卷蛾	li yuan dian xiao juan e	1
 栎旋木柄天牛	li xuan mu bing tian niu	3
 栎木	li mu	740
 栎树	li shu	2
+栗	li
+栗	li	29059
 栗仁	li ren	168
 栗凿	li zao	55
 栗厚缘叶甲	li hou yuan ye jia	1
@@ -12267,6 +12843,12 @@ sort: by_weight
 栗鸮	li xiao	4
 栗鹀	li wu	3
 栗黄	li huang	180
+栛	li
+栵	lie
+桞	liu
+桺	liu
+梁	liang
+梁	liang	201687
 梁一贞	liang yi zhen	100
 梁上	liang shang	10060
 梁上一梦	liang shang yi meng	100
@@ -12528,6 +13110,8 @@ sort: by_weight
 梁𨱇琚	liang qiu ju	3
 梁𨱇琚中学	liang qiu ju zhong xue	2
 梁𨱇琚夫人幼儿园	liang qiu ju fu ren you er yuan	3
+梨	li
+梨	li	767900
 梨中华圆尾蚜	li zhong hua yuan wei ya	1
 梨丰乡	li feng xiang	3
 梨丸	li wan	88
@@ -12623,10 +13207,26 @@ sort: by_weight
 梨豹蠹蛾	li bao du e	1
 梨颊微涡	li jia wei wo	1
 梨香园	li xiang yuan	11
+梸	li
+梿	lian
+梿	lian	95
+棂	ling
+棂	ling	2399
 棂星门	ling xing men	1825
+棃	li
+棙	li
+棙	lie
+棱	ling
+棱	ling	1
+椋	liang
+椋	liang	544
 椋鸟	liang niao	1065
 椋鹰	liang ying	1
+楝	lian
+楝	lian	581
 楝树果	lian shu guo	87
+榴	liu
+榴	liu	15726
 榴乡桥	liu xiang qiao	9
 榴园小区	liu yuan xiao qu	1
 榴弹	liu dan	8545
@@ -12644,10 +13244,42 @@ sort: by_weight
 榴莲蛋糕	liu lian dan gao	187
 榴莲酥	liu lian su	859
 榴霰弹	liu xian dan	155
+槏	lian
+槤	lian
+樆	li
+樑	liang
+樛	liao
+橉	lin
+橊	liu
+橑	liao
+橑	liao	1
+橮	liu
+檁	lin
+檩	lin
+檩	lin	360
 檩子	lin zi	220
 檩木	lin mu	50
 檩条	lin tiao	1230
+檪	li
+檶	lian
+櫔	li
+櫟	li
+櫣	lian
+櫪	li
+櫺	ling
+欐	li
+欚	li
+欞	ling
+歛	lian
+歴	li
+歷	li
+殓	lian
+殓	lian	1933
 殓衣	lian yi	195
+殮	lian
+毟	lie
+沥	li
+沥	li	9716
 沥口	li kou	1
 沥城县	li cheng xian	5
 沥干	li gan	111
@@ -12676,10 +13308,18 @@ sort: by_weight
 沥青路	li qing lu	2490
 沥青路面	li qing lu mian	7770
 沥青铀矿	li qing you kuang	100
+沴	li
+沵	li
+泠	ling
+泠	ling	3233
 泠泠	ling ling	2730
 泠泠七弦上	ling ling qi xian shang	4
 泠然	ling ran	1
+洌	lie
+洌	lie	1061
 洌洌	lie lie	150
+流	liu
+流	liu	1114438
 流上去	liu shang qu	100
 流上来	liu shang lai	100
 流下	liu xia	37295
@@ -13670,6 +14310,8 @@ sort: by_weight
 流鱼出听	liu yu chu ting	100
 流鼻水	liu bi shui	100
 流鼻涕	liu bi ti	6980
+浏	liu
+浏	liu	8234
 浏城桥	liu cheng qiao	103
 浏正街	liu zheng jie	50
 浏河	liu he	2
@@ -13723,9 +14365,18 @@ sort: by_weight
 浏阳生物医药园	liu yang sheng wu yi yao yuan	52
 浏阳茴饼	liu yang hui bing	15
 浏阳道	liu yang dao	1
+浖	lie
+浬	li
+浬	li	46
+浰	li
+浰	li	37
+浰	lian	1
 浰水	li shui	2
 浰江	li jiang	2
 浰源镇	lian yuan zhen	6
+涖	li
+涟	lian
+涟	lian	17410
 涟城镇	lian cheng zhen	181
 涟水	lian shui	4520
 涟水县	lian shui xian	2155
@@ -13737,6 +14388,9 @@ sort: by_weight
 涟滨街道	lian bin jie dao	2
 涟漪	lian yi	36470
 涟漪微漾	lian yi wei yang	100
+涼	liang
+淋	lin
+淋	lin	71208
 淋上	lin shang	5985
 淋上去	lin shang qu	1995
 淋不着	lin bu zhao	95
@@ -13832,6 +14486,12 @@ sort: by_weight
 淋雨	lin yu	10760
 淋雨了	lin yu le	100
 淋雪	lin xue	5555
+淩	ling
+湅	lian
+湸	liang
+溓	lian
+溜	liu
+溜	liu	122662
 溜一圈	liu yi quan	100
 溜上去	liu shang qu	100
 溜上来	liu shang lai	100
@@ -13933,6 +14593,8 @@ sort: by_weight
 溜锅板	liu guo ban	3
 溜门撬锁	liu men qiao suo	140
 溜须拍马	liu xu pai ma	2725
+溧	li
+溧	li	309
 溧水	li shui	111
 溧水区	li shui qu	2000
 溧水县	li shui xian	4970
@@ -13945,6 +14607,8 @@ sort: by_weight
 溧阳市	li yang shi	10305
 溧阳市人民医院	li yang shi ren min yi yuan	6
 溧阳路	li yang lu	100
+漓	li
+漓	li	22606
 漓江	li jiang	54930
 漓江啤酒鱼	li jiang pi jiu yu	148
 漓江塔	li jiang ta	100
@@ -13953,9 +14617,17 @@ sort: by_weight
 漓江桥	li jiang qiao	9
 漓江路	li jiang lu	139
 漓江里	li jiang li	138
+漣	lian
+漻	liao
+漻	liao	11
+漻	liu
+潋	lian
+潋	lian	2453
 潋滟	lian yan	5575
 潋滟倪塘水	lian yan ni tang shui	1
 潋潋摇空碧	lian lian yao kong bi	1
+潦	liao
+潦	liao	5483
 潦倒	liao dao	9905
 潦倒半生	liao dao ban sheng	140
 潦倒新停	liao dao xin ting	100
@@ -13967,16 +14639,37 @@ sort: by_weight
 潦草	liao cao	9670
 潦草塞责	liao cao se ze	3
 潦草小狗	liao cao xiao gou	100
+潾	lin
+潾	lin	483
 潾潾的水波	lin lin de shui bo	100
+澑	liu
+澟	lin
+澧	li
+澧	li	768
 澧兰沅芷	li lan yuan zhi	1
 澧县	li xian	2
 澧水	li shui	2
 澧水道	li shui dao	3
 澧阳县	li yang xian	1
 澧阳镇	li yang zhen	1
+澪	ling
+澪	ling	7
+澰	lian
+濂	lian
+濂	lian	2917
 濂水镇	lian shui zhen	2
 濂江村	lian jiang cun	1
 濂洛关闽	lian luo guan min	10
+濓	lian
+濿	li
+瀏	liu
+瀝	li
+瀮	lian
+瀲	lian
+瀶	lin
+灕	li
+灵	ling
+灵	ling	878814
 灵不	ling bu	222
 灵不灵	ling bu ling	222
 灵与肉	ling yu rou	3300
@@ -14377,6 +15070,10 @@ sort: by_weight
 灵鹫镇	ling jiu zhen	1
 灵鼍之鼓	ling tuo zhi gu	100
 灵龟飞腾	ling gui fei teng	1
+炓	liao
+炩	ling
+炼	lian
+炼	lian	184752
 炼不了	lian bu liao	35
 炼不出	lian bu chu	105
 炼不出来	lian bu chu lai	10
@@ -14451,6 +15148,8 @@ sort: by_weight
 炼铜厂	lian tong chang	100
 炼铝	lian lv	935
 炼银	lian yin	969
+烈	lie
+烈	lie	52123
 烈军属	lie jun shu	1700
 烈咬陆鲨	lie yao lu sha	100
 烈堡乡	lie bao xiang	1
@@ -14584,6 +15283,13 @@ sort: by_weight
 烈风传	lie feng zhuan	10
 烈马	lie ma	3575
 烈黑小卷蛾	lie hei xiao juan e	1
+烮	lie
+焛	lin
+煉	lian
+煭	lie
+熑	lian
+熘	liu
+熘	liu	237
 熘三样	liu san yang	3
 熘什件儿	liu shi jian er	14
 熘土豆丝	liu tu dou si	115
@@ -14610,6 +15316,9 @@ sort: by_weight
 熘鸡脯	liu ji pu	42
 熘鸽松	liu ge song	1
 熘黄菜	liu huang cai	9
+熮	liu
+燎	liao
+燎	liao	9587
 燎一下	liao yi xia	77
 燎一燎	liao yi liao	77
 燎原	liao yuan	10680
@@ -14629,6 +15338,19 @@ sort: by_weight
 燎线头儿	liao xian tou er	100
 燎若观火	liao ruo guan huo	1
 燎荒	liao huang	15
+燐	lin
+燤	lie
+燫	lian
+燯	ling
+爄	li
+爄	lie
+爉	lie
+爎	liao
+爏	li
+爒	liao
+爧	ling
+犁	li
+犁	li	7823
 犁人坊	li ren fang	30
 犁地	li di	1590
 犁壁山	li bi shan	1
@@ -14657,12 +15379,23 @@ sort: by_weight
 犁骨	li gu	3
 犁鼻器	li bi qi	2
 犁齿线棘四齿䲢	li chi xian ji si chi teng	1
+犂	li
+犛	li
+犡	li
+犣	lie
+狑	ling
+狸	li
+狸	li	51416
 狸奴	li nu	209
 狸子	li zi	200
 狸猩狯	li xing kuai	17
 狸猫	li mao	4605
 狸猫换太子	li mao huan tai zi	1315
 狸藻科	li zao ke	100
+猁	li
+猁	li	998
+猎	lie
+猎	lie	107720
 猎主	lie zhu	10
 猎人	lie ren	100715
 猎人之弓	lie ren zhi gong	1
@@ -14792,8 +15525,16 @@ sort: by_weight
 猎鹿犬	lie lu quan	78
 猎鹿者	lie lu zhe	4
 猎黑行动	lie hei xing dong	182
+猟	lie
+獜	lin
+獠	liao
+獠	liao	7356
 獠牙	liao ya	8695
 獠牙法宝	liao ya fa bao	100
+獦	lie
+獵	lie
+玲	ling
+玲	ling	160182
 玲儿	ling er	5170
 玲娜墩子	ling na dun zi	100
 玲娜贝儿	ling na bei er	100
@@ -14815,6 +15556,12 @@ sort: by_weight
 玲珑路	ling long lu	129
 玲珑镇	ling long zhen	122
 玲珑骰子安红豆	ling long tou zi an hong dou	7
+珋	liu
+珋	liu	6
+珕	li
+珕	li	1
+理	li
+理	li	1903915
 理一个发	li yi ge fa	100
 理一次发	li yi ci fa	100
 理一理	li yi li	355
@@ -15312,6 +16059,8 @@ sort: by_weight
 理顺了	li shun le	6505
 理顺关系	li shun guan xi	4430
 理顺外贸体制	li shun wai mao ti zhi	1
+琉	liu
+琉	liu	24975
 琉三路口	liu san lu kou	3
 琉球	liu qiu	13435
 琉球乡	liu qiu xiang	100
@@ -15365,6 +16114,12 @@ sort: by_weight
 琉璃藕	liu li ou	8
 琉璃袋	liu li dai	100
 琉瓶灌朱	liu ping guan zhu	1
+琌	ling
+琍	li
+琏	lian
+琏	lian	7307
+琳	lin
+琳	lin	156208
 琳妮特	lin ni te	191
 琳娜	lin na	14735
 琳宫梵宇	lin gong fan yu	100
@@ -15382,12 +16137,35 @@ sort: by_weight
 琳赛罗韩	lin sai luo han	100
 琳达	lin da	16095
 琳达朗丝黛	lin da lang si dai	100
+瑓	lian
+瑓	lian	3
+瑠	liu
 瑠川里菜	liu chuan li cai	6666
+瑬	liu
+瑬	liu	7
+瑮	li
+璃	li
+璃	li	88749
 璃云月海	li yun yue hai	100
 璃月人	li yue ren	159
 璃月城	li yue cheng	150
 璃月港	li yue gang	175
 璃璃子	li li zi	1
+璉	lian
+璘	lin
+璘	lin	328
+璙	liao
+璢	liu
+瓅	li
+瓈	li
+瓑	li
+瓥	li
+瓴	ling
+瓴	ling	2088
+甐	lin
+畄	liu
+留	liu
+留	liu	778671
 留一下	liu yi xia	85
 留一个	liu yi ge	9020
 留一只	liu yi zhi	62
@@ -15883,6 +16661,12 @@ sort: by_weight
 留驾庄	liu jia zhuang	191
 留髡送客	liu kun song ke	1
 留鸟	liu niao	385
+畱	liu
+疁	liu
+疁	liu	2
+疄	lin
+疗	liao
+疗	liao	94630
 疗休养基地	liao xiu yang ji di	100
 疗伤	liao shang	23245
 疗伤休养	liao shang xiu yang	100
@@ -15915,11 +16699,20 @@ sort: by_weight
 疗程较长	liao cheng jiao chang	100
 疗程长	liao cheng chang	100
 疗饥	liao ji	1
+疠	li
+疠	li	201
 疠疫	li yi	2
+疬	li
+疬	li	57
+痢	li
+痢	li	1662
 痢特灵	li te ling	1765
 痢特灵片	li te ling pian	2
 痢疾	li ji	6895
 痢疾杆菌	li ji gan jun	2300
+痳	lin
+瘤	liu
+瘤	liu	6892
 瘤前嵴蚌	liu qian ji bang	1
 瘤叶方瓢虫	liu ye fang piao chong	1
 瘤子	liu zi	4245
@@ -15937,6 +16730,20 @@ sort: by_weight
 瘤胸沫蝉	liu xiong mo chan	1
 瘤胸簇天牛	liu xiong cu tian niu	1
 瘤鼻鸽	liu bi ge	6
+療	liao
+癅	liu
+癘	li
+癛	lin
+癝	lin
+癧	li
+皊	ling
+皪	li
+盠	li
+盭	li
+睙	li
+睝	li
+瞭	liao
+瞭	liao	2590
 瞭哨	liao shao	1
 瞭望	liao wang	11380
 瞭望东方周刊	liao wang dong fang zhou kan	4070
@@ -15945,6 +16752,13 @@ sort: by_weight
 瞭望塔	liao wang ta	1045
 瞭望山	liao wang shan	100
 瞭望所	liao wang suo	100
+瞵	lin
+瞵	lin	25
+砅	li
+砬	li
+砱	ling
+砺	li
+砺	li	3223
 砺世摩钝	li shi mo dun	1
 砺世磨钝	li shi mo dun	1
 砺山带河	li shan dai he	6
@@ -15953,10 +16767,14 @@ sort: by_weight
 砺戈秣马	li ge mo ma	1
 砺石	li shi	1
 砺行砥节	li xing di jie	100
+砾	li
+砾	li	5747
 砾岩	li yan	224
 砾漠	li mo	111
 砾石	li shi	7275
 砾石路	li shi lu	100
+硫	liu
+硫	liu	5471
 硫代二丙酸二月桂	liu dai er bing suan er yue gui	10
 硫代二丙酸二月桂酯	liu dai er bing suan er yue gui zhi	9
 硫代氰化铜	liu dai qing hua tong	100
@@ -16143,8 +16961,17 @@ sort: by_weight
 硫黄腹啸鹟	liu huang fu xiao weng	1
 硫黄软膏	liu huang ruan gao	21
 硫𬭩离子	liu weng li zi	100
+碄	lin
+碌	liu
+碌	liu	1
 碌碡	liu zhou	1
 碌碡坪	liu zhou ping	17
+磂	liu
+磏	lian
+磏	lian	1
+磟	liu
+磷	lin
+磷	lin	5058
 磷中毒	lin zhong du	17
 磷代谢紊乱	lin dai xie wen luan	14
 磷元素	lin yuan su	100
@@ -16260,6 +17087,12 @@ sort: by_weight
 磷霉素钙甲氧苄啶胶囊	lin mei su gai jia yang bian ding jiao nang	1
 磷霉素钠	lin mei su na	3
 磷𬭩离子	lin weng li zi	100
+磿	li
+礪	li
+礫	li
+礰	li
+礼	li
+礼	li	456545
 礼不下庶人	li bu xia shu ren	325
 礼不亲授	li bu qin shou	1
 礼不嫌菲	li bu xian fei	1
@@ -16464,6 +17297,12 @@ sort: by_weight
 礼顺人情	li shun ren qing	5
 礼饼	li bing	111
 礼香的真实	li xiang de zhen shi	100
+祾	ling
+祾	ling	3
+禮	li
+禲	li
+离	li
+离	li	1222359
 离不了	li bu liao	5320
 离不了了	li bu liao le	100
 离不了婚	li bu liao hun	100
@@ -17031,6 +17870,17 @@ sort: by_weight
 离鸾	li luan	260
 离鸾别凤	li luan bie feng	100
 离鸾别鹤	li luan bie he	100
+秝	li
+秢	ling
+稜	ling
+稴	lian
+穲	li
+窌	liao
+窌	liu
+窷	liao
+竂	liao
+立	li
+立	li	1293824
 立一个规矩	li yi ge gui ju	100
 立三路线	li san lu xian	100
 立上	li shang	1111
@@ -17649,11 +18499,23 @@ sort: by_weight
 立马行动	li ma xing dong	100
 立鸡蛋	li ji dan	100
 立黄昏	li huang hun	180
+竛	ling
+竰	li
+笠	li
+笠	li	10084
 笠翁	li weng	1125
 笠腹希蛛	li fu xi zhu	1
 笠螺	li luo	7
 笠贝	li bei	8
+笭	ling
 笭箵	ling xing	2
+筣	li
+箖	lin
+箖	lin	1
+篥	li
+篥	li	148
+篱	li
+篱	li	8716
 篱下	li xia	10
 篱墙	li qiang	11
 篱壁间物	li bi jian wu	100
@@ -17670,6 +18532,14 @@ sort: by_weight
 篱落疏疏一径深	li luo shu shu yi jing shen	3
 篱落疏疏小径深	li luo shu shu xiao jing shen	2
 篱障	li zhang	35
+簝	liao
+簝	liao	4
+簾	lian
+籢	lian
+籨	lian
+籬	li
+粒	li
+粒	li	50991
 粒儿	li er	891
 粒变岩	li bian yan	100
 粒大	li da	10085
@@ -17722,10 +18592,15 @@ sort: by_weight
 粒细胞集落刺激因子	li xi bao ji luo ci ji yin zi	17
 粒肥	li fei	111
 粒选	li xuan	1500
+粝	li
+粝	li	199
 粝米	li mi	2
 粝粢之食	li zi zhi shi	3
 粝食粗衣	li shi cu yi	100
 粝食粗餐	li shi cu can	1
+粦	lin
+粮	liang
+粮	liang	101018
 粮丰街	liang feng jie	6
 粮仓	liang cang	12960
 粮价	liang jia	20795
@@ -17825,9 +18700,35 @@ sort: by_weight
 粮食问题	liang shi wen ti	3660
 粮食风险基金	liang shi feng xian ji jin	3690
 粮饷	liang xiang	3035
+粱	liang
+粱	liang	5673
 粱肉	liang rou	1
+粴	li
+粼	lin
+粼	lin	7049
 粼粼	lin lin	1
 粼粼碧波	lin lin bi bo	120
+糎	li
+糧	liang
+糲	li
+紷	ling
+綝	lin
+綟	li
+綟	lie
+綹	liu
+綾	ling
+緉	liang
+練	lian
+縭	li
+縺	lian
+繆	liao
+繗	lin
+繚	liao
+纅	li
+纚	li
+纞	lian
+练	lian
+练	lian	501341
 练一下	lian yi xia	1230
 练一练	lian yi lian	3295
 练下	lian xia	845
@@ -17992,6 +18893,8 @@ sort: by_weight
 练钢琴	lian gang qin	100
 练长跑	lian chang pao	100
 练队	lian dui	1
+绫	ling
+绫	ling	10425
 绫乃	ling nai	2
 绫华池	ling hua chi	100
 绫华池子	ling hua chi zi	100
@@ -18005,7 +18908,14 @@ sort: by_weight
 绫罗	ling luo	1940
 绫罗绸缎	ling luo chou duan	1400
 绫辻行人	ling shi xing ren	2
+绺	liu
+绺	liu	3112
 绺子	liu zi	265
+缡	li
+缡	li	399
+缪	liao
+缭	liao
+缭	liao	16457
 缭上几针	liao shang ji zhen	100
 缭之兮杜衡	liao zhi xi du heng	1
 缭乱	liao luan	1495
@@ -18013,6 +18923,10 @@ sort: by_weight
 缭绕	liao rao	19300
 缭绕着	liao rao zhe	1340
 缭贴边	liao tie bian	100
+罶	liu
+罶	liu	5
+罹	li
+罹	li	1763
 罹患	li huan	20995
 罹患率	li huan lv	99
 罹患重大疾病	li huan zhong da ji bing	100
@@ -18022,6 +18936,10 @@ sort: by_weight
 罹祸	li huo	320
 罹难	li nan	3265
 罹难者	li nan zhe	1125
+羀	liu
+羐	ling
+羚	ling
+羚	ling	6686
 羚牛	ling niu	9999
 羚环蛱蝶	ling huan jia die	1
 羚羊	ling yang	23470
@@ -18048,9 +18966,18 @@ sort: by_weight
 羚贝止咳糖浆	ling bei zhi ke tang jiang	1
 羚锐股份	ling rui gu fen	12500
 羚黄宝儿丸	ling huang bao er wan	2
+羷	lian
+翎	ling
+翎	ling	13767
 翎儿	ling er	815
 翎子	ling zi	910
 翎毛	ling mao	2150
+翏	liu
+翴	lian
+翷	lin
+翷	lin	1
+聆	ling
+聆	ling	14208
 聆取	ling qu	50
 聆听	ling ting	131940
 聆听着	ling ting zhe	5465
@@ -18061,6 +18988,8 @@ sort: by_weight
 聆赏	ling shang	9
 聆音察理	ling yin cha li	10
 聆音楼	ling yin lou	100
+聊	liao
+聊	liao	265573
 聊一下	liao yi xia	1338
 聊一件	liao yi jian	100
 聊一会儿	liao yi hui er	100
@@ -18255,6 +19184,8 @@ sort: by_weight
 聊都别聊	liao dou bie liao	100
 聊音乐	liao yin yue	100
 聊骚	liao sao	9999
+联	lian
+联	lian	514908
 联中村	lian zhong cun	2
 联丰新村	lian feng xin cun	12
 联丰村	lian feng cun	148
@@ -19096,6 +20027,16 @@ sort: by_weight
 联防队员	lian fang dui yuan	2625
 联青社	lian qing she	87
 联韵诗	lian yun shi	100
+聗	lie
+聨	lian
+聫	lian
+聮	lian
+聯	lian
+脟	lie
+脟	lie	1
+脷	li
+脸	lian
+脸	lian	1845354
 脸上	lian shang	500326
 脸上出油	lian shang chu you	100
 脸上发烫	lian shang fa tang	100
@@ -19270,10 +20211,23 @@ sort: by_weight
 脸黑了	lian hei le	100
 脸黑呀	lian hei ya	100
 脸黑啊	lian hei a	100
+脼	liang
+膋	liao
+膦	lin
+膦	lin	19
 膦甲酸钠	lin jia suan na	1
 膦甲酸钠氯化钠注射液	lin jia suan na lv hua na zhu she ye	1
 膦酸	lin suan	7
 膦酸酯	lin suan zhi	155
+膫	liao
+臁	lian
+臉	lian
+臨	lin
+舲	ling
+舲	ling	15
+艃	li
+良	liang
+良	liang	352124
 良丰农场	liang feng nong chang	1
 良久	liang jiu	55685
 良久问他不开口	liang jiu wen ta bu kai kou	1
@@ -19563,8 +20517,17 @@ sort: by_weight
 良马见鞭影而行	liang ma jian bian ying er xing	1
 良驹	liang ju	247
 良骏	liang jun	940
+苈	li
+苈	li	56
+苓	ling
+苓	ling	4355
 苓桂术甘汤	ling gui shu gan tang	4
 苓雅区	ling ya qu	100
+苙	li
+茘	li
+茢	lie
+荔	li
+荔	li	4246
 荔园小学	li yuan xiao xue	97
 荔城区	li cheng qu	2170
 荔子已丹吾发白	li zi yi dan wu fa bai	1
@@ -19620,6 +20583,9 @@ sort: by_weight
 荔香公园	li xiang gong yuan	70
 荔香街	li xiang jie	2
 荔香路	li xiang lu	9
+荲	li
+莅	li
+莅	li	1326
 莅临	li lin	26560
 莅临参观	li lin can guan	100
 莅临指导	li lin zhi dao	3500
@@ -19628,6 +20594,8 @@ sort: by_weight
 莅会	li hui	1010
 莅会发言	li hui fa yan	1
 莅阳长公主	li yang zhang gong zhu	100
+莉	li
+莉	li	180099
 莉亚	li ya	2
 莉亚德琳	li ya de lin	100
 莉亚迪桑	li ya di sang	156
@@ -19645,8 +20613,12 @@ sort: by_weight
 莉萨	li sa	1810
 莉迪	li di	2
 莉雅德伦	li ya de lun	100
+莨	liang
+莨	liang	98
 莨纱	liang sha	1
 莨绸	liang chou	145
+莲	lian
+莲	lian	169828
 莲东村	lian dong cun	1
 莲佛美沙子	lian fo mei sha zi	3
 莲儿与啷当六便士	lian er yu lang dang liu bian shi	100
@@ -19838,6 +20810,10 @@ sort: by_weight
 莲香楼	lian xiang lou	2184
 莲香脱骨鸡	lian xiang tuo gu ji	4
 莲麓镇	lian lu zhen	1
+莶	lian
+菞	li
+菱	ling
+菱	ling	18846
 菱北街道	ling bei jie dao	4
 菱塘回族乡	ling tang hui zu xiang	7
 菱川何华灰蝶	ling chuan he hua hui die	1
@@ -19863,6 +20839,18 @@ sort: by_weight
 菱铁矿	ling tie kuang	100
 菱镁	ling mei	2
 菱镁矿	ling mei kuang	1445
+菻	lin
+萰	lian
+蒚	li
+蒞	li
+蒥	liu
+蓅	liu
+蓠	li
+蓠	li	511
+蓤	ling
+蓮	lian
+蓼	liao
+蓼	liao	1444
 蓼参胶囊	liao shen jiao nang	1
 蓼坪乡	liao ping xiang	1
 蓼大青叶	liao da qing ye	40
@@ -19870,6 +20858,11 @@ sort: by_weight
 蓼皋镇	liao gao zhen	100
 蓼花	liao hua	2
 蓼蓝	liao lan	1
+蔆	ling
+蔹	lian
+蔹	lian	22
+蔺	lin
+蔺	lin	3498
 蔺九	lin jiu	1
 蔺姓	lin xing	20
 蔺存宝	lin cun bao	22
@@ -19881,6 +20874,13 @@ sort: by_weight
 蔺相如	lin xiang ru	5860
 蔺草	lin cao	1270
 蔺高村	lin gao cun	10
+蔾	li
+蕶	ling
+薕	lian
+薟	lian
+藔	liao
+藜	li
+藜	li	2576
 藜山乡	li shan xiang	2
 藜羹藿食	li geng huo shi	100
 藜芦	li lu	1535
@@ -19891,11 +20891,41 @@ sort: by_weight
 藜藿	li huo	560
 藜藿不采	li huo bu cai	100
 藜麦	li mai	111
+藰	liu
+藶	li
+藺	lin
+蘝	lian
+蘞	lian
+蘦	ling
+蘺	li
+蚸	li
+蛉	ling
+蛉	ling	441
+蛎	li
+蛎	li	1037
 蛎居深鰕虎鱼	li ju shen xia hu yu	1
 蛎敌荔枝螺	li di li zhi luo	5
 蛎蝗	li huang	85
 蛎饼	li bing	111
 蛎鹬刺缘吸虫	li yu ci yuan xi chong	1
+蛚	lie
+蛠	li
+蜊	li
+蜊	li	418
+蜧	li
+蜽	liang
+蝷	li
+螊	lian
+蟉	liu
+蟍	li
+蟟	liao
+蟧	liao
+蟸	li
+蠇	li
+蠊	lian
+蠊	lian	47
+蠡	li
+蠡	li	2200
 蠡勺测海	li shao ce hai	1
 蠡县	li xian	2
 蠡吾镇	li wu zhen	184
@@ -19914,6 +20944,12 @@ sort: by_weight
 蠡酌管窥	li zhuo guan kui	1
 蠡𬇹西	li guo xi	3
 蠡𬇹西社区	li guo xi she qu	3
+蠣	li
+蠫	li
+衑	ling
+袊	ling
+裂	lie
+裂	lie	174922
 裂不了	lie bu liao	5
 裂两半	lie liang ban	100
 裂两半儿	lie liang ban er	100
@@ -20003,11 +21039,34 @@ sort: by_weight
 裂项相消	lie xiang xiang xiao	168
 裂颊海蛇	lie jia hai she	20
 裂魂人	lie hun ren	100
+裏	li
+裗	liu
+裡	li
+裢	lian
+裢	lian	618
+裣	lian
+裣	lian	318
 裣衽	lian ren	280
+裬	ling
+裲	liang
+褳	lian
+褵	li
+襝	lian
+覝	lian
+觻	li
+詅	ling
+詈	li
+詈	li	453
 詈夷为跖	li yi wei zhi	1
 詈语	li yu	7
 詈辞	li ci	1
 詈骂	li ma	315
+諒	liang
+謧	li
+謰	lian
+讈	li
+谅	liang
+谅	liang	80996
 谅他也不敢	liang ta ye bu gan	222
 谅你也不敢	liang ni ye bu gan	100
 谅她也不敢	liang ta ye bu gan	111
@@ -20019,12 +21078,27 @@ sort: by_weight
 谅我也不敢	liang wo ye bu gan	100
 谅解	liang jie	88880
 谅解备忘录	liang jie bei wang lu	10280
+豂	liao
+豊	li
+貍	li
+賃	lin
+賿	liao
+赁	lin
+赁	lin	2805
 赁耳佣目	lin er yong mu	1
+赲	li
+趔	lie
+趔	lie	4928
 趔趄	lie qie	4945
 趔趄了	lie qie le	100
 趔趄了一步	lie qie le yi bu	100
 趔趄了两步	lie qie le liang bu	100
 趔趔趄趄	lie lie qie qie	245
+跉	ling
+跞	li
+跞	li	39
+踉	liang
+踉	liang	20003
 踉跄	liang qiang	14965
 踉跄了一下	liang qiang le yi xia	100
 踉跄了一步	liang qiang le yi bu	100
@@ -20032,15 +21106,47 @@ sort: by_weight
 踉跄着	liang qiang zhe	1910
 踉跄而行	liang qiang er xing	65
 踉踉跄跄	liang liang qiang qiang	5755
+蹓	liu
+蹘	liao
+蹥	lian
+蹸	lin
+蹽	liao
+蹽	liao	43
 蹽了	liao le	123
 蹽腿	liao tui	123
+躏	lin
+躏	lin	7166
+躐	lie
+躐	lie	54
 躐等	lie deng	1
 躐进	lie jin	2
+躒	li
+躙	lin
+躪	lin
+軨	ling
+輌	liang
+輘	ling
+輛	liang
+輬	liang
+轔	lin
+轢	li
+轣	li
+轥	lin
+轹	li
+轹	li	72
 轹釜待炊	li fu dai chui	1
+辆	liang
+辆	liang	156125
 辆数	liang shu	1275
 辆次	liang ci	2340
 辆马车	liang ma che	100
+辌	liang
+辌	liang	92
+辚	lin
+辚	lin	1017
 辚辚	lin lin	1
+辽	liao
+辽	liao	47836
 辽三彩	liao san cai	100
 辽东	liao dong	2341
 辽东之豕	liao dong zhi shi	100
@@ -20235,6 +21341,8 @@ sort: by_weight
 辽阳市石化医院	liao yang shi shi hua yi yuan	1
 辽阳路	liao yang lu	113
 辽阳银行	liao yang yin hang	100
+连	lian
+连	lian	2453048
 连一下	lian yi xia	12
 连一丝都没	lian yi si dou mei	100
 连一个	lian yi ge	15995
@@ -21119,7 +22227,14 @@ sort: by_weight
 连鳌跨鲸	lian ao kua jing	1
 连鸡之势	lian ji zhi shi	1
 连麦	lian mai	9999
+迣	li
+迾	lie
+連	lian
+逦	li
+逦	li	1198
 逦迤	li yi	210
+遛	liu
+遛	liu	4181
 遛一圈	liu yi quan	111
 遛一遛	liu yi liu	456
 遛了	liu le	899
@@ -21139,11 +22254,18 @@ sort: by_weight
 遛马	liu ma	505
 遛马路	liu ma lu	98
 遛鸟	liu niao	945
+遴	lin
+遴	lin	936
 遴用	lin yong	2
 遴聘	lin pin	90
 遴选	lin xuan	30265
 遴选出	lin xuan chu	3320
 遴选出来	lin xuan chu lai	100
+遼	liao
+邌	li
+邐	li
+邻	lin
+邻	lin	57417
 邻二甲苯	lin er jia ben	100
 邻人	lin ren	5590
 邻人有美酒	lin ren you mei jiu	1
@@ -21218,15 +22340,27 @@ sort: by_weight
 邻里纠纷	lin li jiu fen	2705
 邻里美好的一天	lin li mei hao de yi tian	100
 邻里长	lin li zhang	100
+郦	li
+郦	li	2826
 郦寄卖友	li ji mai you	1
 郦希诚	li xi cheng	100
 郦道元	li dao yuan	11
 郦食其	li yi ji	100
+鄝	liao
+鄰	lin
+鄻	lian
+酃	ling
+酃	ling	1218
 酃县	ling xian	650
 酃县华溪蟹	ling xian hua xi xie	1
 酃县拟沟蝽	ling xian ni gou chun	1
 酃县白鹅	ling xian bai e	54
 酃湖渔场	ling hu yu chang	3
+酈	li
+醨	li
+醨	li	12
+醴	li
+醴	li	763
 醴泉	li quan	1
 醴泉县	li quan xian	100
 醴酒	li jiu	3
@@ -21235,7 +22369,11 @@ sort: by_weight
 醴陵	li ling	1
 醴陵县	li ling xian	51
 醴陵市	li ling shi	446
+醶	lian
+醽	ling
 醽醁	ling lu	1
+里	li
+里	li	7329328
 里三层	li san ceng	100
 里下河地区	li xia he di qu	100
 里不出	li bu chu	9
@@ -21480,6 +22618,8 @@ sort: by_weight
 里首	li shou	70
 里黄长尾灰蝶	li huang chang wei hui die	1
 里龙乡	li long xiang	2
+量	liang
+量	liang	1142437
 量一下	liang yi xia	274
 量一量	liang yi liang	1670
 量不了	liang bu liao	5
@@ -21664,14 +22804,44 @@ sort: by_weight
 量量看	liang liang kan	95
 量金买赋	liang jin mai fu	1
 量长较短	liang chang jiao duan	100
+釐	li
+釕	liao
+鈴	ling
+鉝	li
+銐	li
+鋫	li
+鋰	li
+鋶	liu
+錂	ling
+錅	li
+錬	lian
+鍄	liang
+鍊	lian
+鎌	lian
+鎏	liu
+鎏	liu	919
 鎏金	liu jin	6960
 鎏金宝鉴	liu jin bao jian	199
 鎏金瓶	liu jin ping	106
 鎏金色	liu jin se	156
 鎏银	liu yin	95
+鎘	li
+鎦	liu
+鏈	lian
+鏐	liu
+鏫	li
+鏻	lin
+鐂	liu
+鐐	liao
+鐮	lian
+鑗	li
+钌	liao
+钌	liao	55
 钌元素	liao yuan su	100
 钌铞	liao diao	2
 钌铞儿	liao diao er	15
+铃	ling
+铃	ling	106214
 铃儿	ling er	5215
 铃儿响叮当	ling er xiang ding dang	1575
 铃兰	ling lan	5835
@@ -21750,6 +22920,8 @@ sort: by_weight
 铃鹿赛车场	ling lu sai che chang	55
 铃鹿赛道	ling lu sai dao	1063
 铃鼓	ling gu	1050
+链	lian
+链	lian	66506
 链丝菌素	lian si jun su	15
 链传动	lian chuan dong	2450
 链分析	lian fen xi	1665
@@ -21851,6 +23023,8 @@ sort: by_weight
 链霉糖	lian mei tang	20
 链霉素	lian mei su	9325
 链霉蛋白酶	lian mei dan bai mei	15
+锂	li
+锂	li	1935
 锂亚电池	li ya dian chi	64
 锂元素	li yuan su	100
 锂电	li dian	15875
@@ -21862,13 +23036,24 @@ sort: by_weight
 锂离子	li li zi	10050
 锂离子电池	li li zi dian chi	30830
 锂钠钾铷铯钫	li na jia ru se fang	100
+锍	liu
+锍	liu	242
 锍品位	liu pin wei	2
 锍率	liu lv	2
+镉	li
+镏	liu
+镏	liu	592
 镏子	liu zi	145
 镏金	liu jin	3835
 镏金豆粉蝶	liu jin dou fen die	1
 镏金金鱼	liu jin jin yu	1
+镠	liu
+镠	liu	360
+镣	liao
+镣	liao	3760
 镣铐	liao kao	4630
+镰	lian
+镰	lian	12380
 镰仓幕府	lian cang mu fu	425
 镰仓时代	lian cang shi dai	100
 镰准舌唇鱼	lian zhun she chun yu	1
@@ -21889,6 +23074,14 @@ sort: by_weight
 镰鳍大𬶋鱥	lian qi da ju gui	1
 镰鼬	lian you	10
 镰鼬之术	lian you zhi shu	100
+镽	liao
+閝	ling
+閵	lin
+阾	lin
+陆	liu
+陆	liu	4000
+陵	ling
+陵	ling	86608
 陵与卫律之罪上通于天	ling yu wei lv zhi zui shang tong yu tian	1
 陵劲淬砺	ling jin cui li	1
 陵北街	ling bei jie	74
@@ -21924,6 +23117,9 @@ sort: by_weight
 陵谷迁变	ling gu qian bian	1
 陵迁谷变	ling qian gu bian	100
 陵阳路	ling yang lu	5
+隣	lin
+隶	li
+隶	li	43103
 隶书	li shu	34305
 隶书体	li shu ti	235
 隶卒	li zu	165
@@ -21932,6 +23128,14 @@ sort: by_weight
 隶属	li shu	58145
 隶属于	li shu yu	59695
 隶属关系	li shu guan xi	35620
+隷	li
+隸	li
+雡	liu
+離	li
+雳	li
+雳	li	18289
+零	ling
+零	ling	159040
 零一	ling yi	2222
 零一年	ling yi nian	123
 零丁洋里叹零丁	ling ding yang li tan ling ding	1180
@@ -22262,11 +23466,23 @@ sort: by_weight
 零食花束	ling shi hua shu	100
 零食铺	ling shi pu	131
 零首付	ling shou fu	2735
+霊	ling
+霖	lin
+霖	lin	27387
 霖雨	lin yu	1500
 霖雨弥月	lin yu mi yue	100
 霖雨桥	lin yu qiao	118
 霖雨苍生	lin yu cang sheng	3
 霖雨逾月	lin yu yu yue	100
+霗	ling
+霛	ling
+霝	ling
+霤	liu
+靂	li
+靈	ling
+靋	li
+靓	liang
+靓	liang	17479
 靓不靓	liang bu liang	300
 靓丽	liang li	58070
 靓丽女性	liang li nv xing	80
@@ -22294,6 +23510,10 @@ sort: by_weight
 靓装传奇	liang zhuang chuan qi	100
 靓车	liang che	5730
 靓靓姐	liang liang jie	144
+靚	liang
+領	ling
+领	ling
+领	ling	808920
 领一下	ling yi xia	95
 领一个	ling yi ge	1305
 领上	ling shang	9999
@@ -22717,13 +23937,34 @@ sort: by_weight
 领驭	ling yu	1
 领鸡蛋	ling ji dan	192
 领鸺鹠	ling xiu liu	8
+颲	lie
+飀	liu
+飂	liao
+飂	liu
+飅	liu
+飉	liao
+飗	liu
+飗	liu	14
 飗飗	liu liu	1
+餾	liu
+馏	liu
+馏	liu	876
 馏一馏	liu yi liu	102
 馏分	liu fen	2715
 馏分油	liu fen you	2790
 馏包子	liu bao zi	101
 馏馏	liu liu	3
 馏馒头	liu man tou	132
+駖	ling
+駠	liu
+駵	liu
+駺	liang
+騮	liu
+驎	lin
+驑	liu
+驪	li
+骊	li
+骊	li	2501
 骊姬	li ji	1
 骊姬之乱	li ji zhi luan	100
 骊宫高处入青云	li gong gao chu ru qing yun	4
@@ -22740,18 +23981,53 @@ sort: by_weight
 骊黄牝牡	li huang pin mu	100
 骊龙园西门	li long yuan xi men	1
 骊龙颌下取明珠	li long he xia qu ming zhu	1
+骝	liu
+骝	liu	809
+髎	liao
+髎	liao	64
+鬁	li
+鬑	lian
+鬛	lie
+鬣	lie
+鬣	lie	981
 鬣狗	lie gou	1850
 鬣狗帮	lie gou bang	100
 鬣羚	lie ling	1
 鬣蜥	lie xi	1495
 鬣鬃	lie zong	15
+鬲	li
+鬲	li	406
+鬸	liu
+魉	liang
+魉	liang	1659
 魉妹	liang mei	1
+魎	liang
+魿	ling
+鮤	lie
+鯉	li
+鯏	li
+鯪	ling
+鯬	li
+鰊	lian
+鰡	liu
+鰱	lian
+鱗	lin
+鱧	li
+鱱	li
+鱲	lie
+鱺	li
+鲡	li
+鲡	li	67
+鲢	lian
+鲢	lian	228
 鲢中华鱼蚤	lian zhong hua yu zao	3
 鲢指环虫	lian zhi huan chong	2
 鲢鱼	lian yu	11330
 鲢鳙	lian yong	100
 鲢鳙多态锚头	lian yong duo tai mao tou	1
 鲢鳙鱼	lian yong yu	100
+鲤	li
+鲤	li	7849
 鲤南镇	li nan zhen	1
 鲤城公安分局	li cheng gong an fen ju	79
 鲤城区	li cheng qu	6360
@@ -22788,6 +24064,8 @@ sort: by_weight
 鲤鱼粥	li yu zhou	24
 鲤鱼苦瓜汤	li yu ku gua tang	2
 鲤鱼跳龙门	li yu tiao long men	2000
+鲮	ling
+鲮	ling	461
 鲮鱼	ling yu	1989
 鲮鱼丸	ling yu wan	100
 鲮鱼球	ling yu qiu	100
@@ -22795,6 +24073,8 @@ sort: by_weight
 鲮鲤	ling li	1
 鲮鲤甲	ling li jia	100
 鲮鲤科	ling li ke	100
+鳞	lin
+鳞	lin	24864
 鳞介	lin jie	1
 鳞伤遍体	lin shang bian ti	100
 鳞冠侏霸鹟	lin guan zhu ba weng	1
@@ -22870,12 +24150,41 @@ sort: by_weight
 鳞鲀科	lin tun ke	100
 鳞鳞居大厦	lin lin ju da sha	3
 鳞鸿杳绝	lin hong yao jue	1
+鳢	li
+鳢	li	26
 鳢新碘泡虫	li xin dian pao chong	1
 鳢肠属	li chang shu	100
 鳢鱼	li yu	3
 鳢鱼肠	li yu chang	1
 鳢黏体虫	li nian ti chong	1
+鳨	li
+鴒	ling
+鴗	li
+鴷	lie
+鵹	li
+鶹	liu
+鷅	li
+鷚	liu
+鷯	liao
+鸝	li
+鸰	ling
+鸰	ling	239
+鹂	li
+鹂	li	2319
+鹠	liu
+鹠	liu	4
+鹨	liu
+鹨	liu	64
+鹩	liao
+鹩	liao	197
 鹩哥	liao ge	1
+鹷	ling
+麍	liu
+麐	lin
+麗	li
+麜	li
+麟	lin
+麟	lin	51074
 麟儿	lin er	1280
 麟凤一毛	lin feng yi mao	1
 麟凤芝兰	lin feng zhi lan	1
@@ -22894,6 +24203,9 @@ sort: by_weight
 麟趾	lin zhi	36
 麟趾呈祥	lin zhi cheng xiang	8
 麟趾宫	lin zhi gong	2
+麢	ling
+黎	li
+黎	li	98444
 黎丘丈人	li qiu zhang ren	1
 黎丘之鬼	li qiu zhi gui	1
 黎之五笔	li zhi wu bi	20
@@ -23013,6 +24325,594 @@ sort: by_weight
 黎阳村	li yang cun	3
 黎雄才	li xiong cai	1295
 黎黄陂路	li huang pi lu	100
+黧	li
+黧	li	428
 黧黑	li hei	1015
+齡	ling
+齢	ling
+龄	ling
+龄	ling	115480
 龄期	ling qi	256
+龗	ling
+鿄	liang
+鿌	liang
+𠄖	ling
+𠋖	lian
+𠌯	li
+𠏡	ling
+𠐋	liao
+𠐼	lin
+𠒵	lian
+𠓜	liang
+𠓮	lin
+𠔨	lian
+𠖂	liao
+𠗳	lian
+𠗽	liu
+𠘞	li
+𠘟	li
+𠚄	li
+𠛓	liu
+𠛘	li
+𠛦	li
+𠛱	lie
+𠝄	li
+𠞉	li
+𠞙	li
+𠞤	li
+𠟨	ling
+𠠏	li
+𠠗	lie
+𠠝	li
+𠠢	ling
+𠠵	li
+𠡭	ling
+𠢠	li
+𠨥	liao
+𠩵	li
+𠪄	li
+𠪐	liu
+𠪺	li
+𠫌	li
+𠭰	li
+𠯱	liang
+𠱠	ling
+𠷈	lie
+𠺕	liao
+𠺕	liu
+𠻗	li
+𠻠	ling
+𠻱	ling
+𠼝	li
+𠾆	li
+𠾥	ling
+𡁓	lie
+𡂏	lie
+𡂩	lie
+𡃦	lin
+𡃷	li
+𡆕	lian
+𡆯	li
+𡈍	ling
+𡊻	lie
+𡏵	lie
+𡑆	liang
+𡒏	lie
+𡓍	lie
+𡕮	ling
+𡟤	lian
+𡤌	li
+𡥽	li
+𡫯	li
+𡬜	lin
+𡭣	lie
+𡮎	liang
+𡮰	li
+𡯄	li
+𡰚	lin
+𡳞	lin
+𡳸	li
+𡶱	lin
+𡸉	li
+𡹇	lin
+𡻪	liao
+𡻪	liu
+𡻫	lin
+𡾒	li
+𡿋	li
+𡿎	li
+𡿠	lin
+𡿡	ling
+𡿩	lie
+𢄡	li
+𢄷	liao
+𢅏	lian
+𢉧	lian
+𢊻	liao
+𢌈	li
+𢌔	ling
+𢍼	li
+𢏃	li
+𢏭	liu
+𢔁	ling
+𢔲	liu
+𢛮	li
+𢞭	liu
+𢟢	li
+𢟤	li
+𢡑	li
+𢣓	lie
+𢣠	liu
+𢤂	li
+𢤆	li
+𢤐	liu
+𢤩	li
+𢨨	li
+𢨺	liao
+𢩑	li
+𢩗	ling
+𢮃	li
+𢷶	liu
+𢸀	li
+𢸘	liao
+𢹝	ling
+𢺰	ling
+𢻠	li
+𢻢	liao
+𢼙	liao
+𢿞	liao
+𣀂	li
+𣀃	lian
+𣀥	li
+𣀷	li
+𣁟	li
+𣁰	liao
+𣁷	lie
+𣁻	lie
+𣄴	liang
+𣇰	lin
+𣋲	lie
+𣌅	li
+𣌜	li
+𣌟	ling
+𣎸	liao
+𣐬	li
+𣓈	liang
+𣖊	li
+𣖊	lie
+𣘬	li
+𣝈	lian
+𣝚	lie
+𣞗	liu
+𣞰	lian
+𣞴	li
+𣟆	liao
+𣟌	li
+𣟑	liu
+𣟺	lian
+𣠚	liu
+𣣋	ling
+𣦯	li
+𣧿	li
+𣩢	liao
+𣫥	li
+𣫧	li
+𣬹	ling
+𣮉	li
+𣯤	li
+𣰌	lie
+𣱳	liu
+𣲒	li
+𣲖	liu
+𣿊	lian
+𣿞	li
+𤁯	lie
+𤁼	li
+𤂶	lin
+𤃀	li
+𤃩	ling
+𤄽	li
+𤊽	liao
+𤌎	lin
+𤎭	lin
+𤐱	lie
+𤑗	liao
+𤑿	lian
+𤒦	lian
+𤓿	lie
+𤔨	li
+𤖢	li
+𤖦	ling
+𤖺	lie
+𤗛	lian
+𤗫	li
+𤗷	lin
+𤘃	li
+𤙝	liang
+𤚓	li
+𤜓	lie
+𤜙	ling
+𤜜	li
+𤞊	lie
+𤟑	li
+𤠫	li
+𤡕	lie
+𤡿	li
+𤢪	lie
+𤢴	li
+𤣆	lian
+𤣘	ling
+𤥗	liu
+𤧘	ling
+𤨻	ling
+𤩮	li
+𤫲	ling
+𤬓	lian
+𤭜	li
+𤮷	liu
+𤱃	lie
+𤱛	lie
+𤳓	li
+𤵠	liao
+𤷖	ling
+𤹇	li
+𤹈	li
+𤹨	lian
+𤻤	li
+𤼏	lian
+𤼚	li
+𤾲	lian
+𤿅	ling
+𥀓	liu
+𥁟	li
+𥆦	liu
+𥈘	liang
+𥉆	li
+𥊈	li
+𥌐	liu
+𥌛	li
+𥌤	li
+𥌮	li
+𥌼	ling
+𥌿	li
+𥎓	li
+𥎔	li
+𥒢	li
+𥓃	li
+𥓆	lin
+𥖝	lian
+𥗀	liao
+𥛅	liu
+𥛫	liang
+𥛰	liao
+𥝢	li
+𥠲	li
+𥠷	liu
+𥣥	li
+𥤜	ling
+𥤞	ling
+𥥋	ling
+𥥹	liu
+𥧕	liu
+𥨌	liu
+𥨻	li
+𥩔	ling
+𥪂	lie
+𥬭	li
+𥬭	lie
+𥰣	liu
+𥲁	lie
+𥲊	liao
+𥲥	lian
+𥲧	li
+𥲪	li
+𥳞	lin
+𥴡	li
+𥵝	ling
+𥶅	liu
+𥶒	lin
+𥶗	li
+𥶢	lie
+𥷅	li
+𥷖	lin
+𥷗	li
+𥷨	lie
+𥸸	lie
+𥹷	liu
+𥺙	ling
+𥻋	lin
+𥻑	li
+𥻿	li
+𥼅	li
+𥼭	lin
+𥽈	li
+𥽗	li
+𥽸	lian
+𥾂	ling
+𦀠	liu
+𦃇	li
+𦃊	li
+𦃓	liu
+𦅶	lie
+𦅺	li
+𦆆	lian
+𦇔	li
+𦉉	liu
+𦉢	ling
+𦊓	ling
+𦊗	liu
+𦊿	liu
+𦌁	liu
+𦌒	liao
+𦎐	li
+𦐽	ling
+𦑾	liu
+𦓓	lie
+𦓤	lie
+𦔓	li
+𦔖	lian
+𦕵	liao
+𦕸	li
+𦖩	lie
+𦖾	lian
+𦗖	liao
+𦘊	li
+𦜏	li
+𦠓	li
+𦢱	li
+𦣸	lian
+𦪕	liao
+𦪶	li
+𦪾	li
+𦫃	ling
+𦫈	li
+𦫊	ling
+𦺙	li
+𦺸	lin
+𦺹	liao
+𦾳	lie
+𧀨	lie
+𧂏	liao
+𧃮	lin
+𧄚	li
+𧄻	li
+𧅮	li
+𧅯	li
+𧆺	ling
+𧉲	li
+𧋎	li
+𧋠	li
+𧍀	li
+𧍴	lian
+𧏓	liu
+𧐖	lian
+𧑇	li
+𧒈	li
+𧓐	lie
+𧓽	li
+𧔝	li
+𧕅	ling
+𧕮	li
+𧕯	li
+𧖔	lin
+𧖜	ling
+𧘈	liao
+𧘫	li
+𧙉	li
+𧚩	li
+𧝜	liao
+𧞕	lie
+𧟙	ling
+𧡙	lian
+𧡜	liao
+𧡴	lian
+𧢝	li
+𧤜	li
+𧥖	li
+𧧋	li
+𧨈	ling
+𧫬	li
+𧭌	lie
+𧭞	lie
+𧮗	liu
+𧮛	li
+𧯏	li
+𧰠	lie
+𧰡	li
+𧰻	ling
+𧱢	ling
+𧲂	lin
+𧲙	ling
+𧲡	li
+𧴠	li
+𧵧	lin
+𧶆	lin
+𧸖	lian
+𧸘	lian
+𧹩	lin
+𧽫	lian
+𧽲	li
+𧽽	liao
+𧾇	ling
+𧾮	ling
+𨁸	li
+𨃙	li
+𨄈	liang
+𨄛	li
+𨆍	lie
+𨇎	li
+𨇗	li
+𨊛	li
+𨋖	liu
+𨍫	li
+𨍮	li
+𨍸	liu
+𨎍	liang
+𨎛	liang
+𨎷	lian
+𨏨	lin
+𨏩	lian
+𨏬	li
+𨏶	lian
+𨓦	li
+𨕜	lie
+𨖚	liao
+𨘸	li
+𨛋	li
+𨛫	li
+𨜼	li
+𨝏	li
+𨝖	li
+𨝟	li
+𨞎	ling
+𨞺	li
+𨟑	li
+𨠎	ling
+𨢇	liu
+𨢌	li
+𨣀	liao
+𨤤	lie
+𨤫	li
+𨦰	liu
+𨪕	liu
+𨪹	li
+𨬁	lian
+𨬑	li
+𨯽	li
+𨴻	li
+𨵶	liang
+𨶪	liu
+𨷦	li
+𨸻	lin
+𨻧	liu
+𨽲	ling
+𨽷	lian
+𨽹	li
+𨽻	li
+𩁟	li
+𩂙	ling
+𩃞	ling
+𩄊	ling
+𩄞	li
+𩄡	lian
+𩅩	li
+𩆎	liu
+𩆒	ling
+𩆚	ling
+𩆝	li
+𩆣	lie
+𩆮	ling
+𩆲	li
+𩆻	ling
+𩆼	ling
+𩇄	ling
+𩇎	ling
+𩊂	ling
+𩑊	ling
+𩔗	li
+𩕐	liao
+𩖊	ling
+𩖝	liao
+𩖴	liu
+𩖵	ling
+𩗅	li
+𩗩	liu
+𩗭	li
+𩗾	liang
+𩘁	liang
+𩘟	li
+𩘡	li
+𩙄	liu
+𩙑	lie
+𩙖	li
+𩚹	ling
+𩜁	ling
+𩞙	lian
+𩞨	li
+𩞻	lin
+𩟃	ling
+𩟅	lian
+𩢞	liu
+𩢾	lie
+𩣖	lin
+𩣫	li
+𩥬	li
+𩥴	li
+𩧃	li
+𩧆	lie
+𩧋	li
+𩪥	ling
+𩪸	li
+𩬔	ling
+𩭇	li
+𩭌	lie
+𩯊	liao
+𩯺	li
+𩰲	li
+𩱇	li
+𩱬	lin
+𩲩	ling
+𩳓	li
+𩴠	lin
+𩴣	li
+𩴤	liao
+𩵀	ling
+𩶘	li
+𩷋	li
+𩻌	li
+𩻜	lin
+𩼭	lie
+𩽏	li
+𩽵	li
+𪁐	li
+𪃂	liu
+𪅆	li
+𪅋	ling
+𪅼	li
+𪆱	liu
+𪇯	liu
+𪋳	ling
+𪋾	ling
+𪌀	liao
+𪌏	ling
+𪌱	li
+𪌵	liao
+𪍦	lian
+𪍴	lian
+𪎣	liu
+𪏵	li
+𪏼	li
+𪐅	li
+𪐋	lian
+𪐍	lian
+𪑚	li
+𪒔	li
+𪓀	li
+𪕌	ling
+𪕴	li
+𪖂	li
+𪖍	li
+𪖳	lian
+𪖷	liao
+𪗁	li
+𪙺	li
+𪙽	li
+𪚁	lian
+𪛈	ling
+𪛒	lian
+𪤗	liao	1
+𫁡	li
+𫐆	li
+𫚭	lie	6
+𫟅	liang
+𫟅	liang	1
+𫟷	li
+𫟷	li	1
 𫟷元素	li yuan su	100
+𫵷	li	1
+𬍛	li	1
+𬘭	lin	1
+𬜯	liang	1
+𬭸	lin	4
+𬴊	lin	1
+𬶠	lian	1

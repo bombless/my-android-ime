@@ -3,10 +3,63 @@ name: merged.lo
 version: "1.0"
 sort: by_weight
 ...
+㑝	long
+㔷	lou
+㙙	long
+㚅	long
+㛞	long
+㝫	long
+㟖	long
+㟺	lou
+㡞	lou
+㡣	long
+㢅	long
+㥪	lou
+㦕	long
+㪹	lou
+㰍	long
+㲎	lou
+㳥	long
+㴳	long
+㺏	lou
+䁖	lou
+䁖	lou	1
+䃧	long
+䄛	lou
+䅹	lou
+䆍	long
+䏊	long
+䙪	long
+䝏	lou
+䡁	long
+䣚	lou
+䥢	long
+䪊	long
+䫫	lou
+䮫	lou
+䱾	lou
+偻	lou
+偻	lou	3115
+僂	lou
+儱	long
+剅	lou
+剅	lou	1
 剅河镇	lou he zhen	28
+咙	long
+咙	long	31569
+咯	lo
+咯	lo	1111
+哢	long
+哢	long	159
+喽	lou
+喽	lou	29096
 喽啰	lou luo	8515
 喽啰们	lou luo men	100
 喽喽喽	lou lou lou	100
+嘍	lou
+嚨	long
+垄	long
+垄	long	11782
 垄上行	long shang xing	100
 垄不垄断	long bu long duan	100
 垄不垄断吗	long bu long duan ma	100
@@ -43,6 +96,12 @@ sort: by_weight
 垄沟	long gou	920
 垄溪乡	long xi xiang	9
 垄田	long tian	40
+垅	long
+塿	lou
+壟	long
+壠	long
+娄	lou
+娄	lou	10553
 娄一晨	lou yi chen	100
 娄义华	lou yi hua	25
 娄会峰	lou hui feng	156
@@ -78,10 +137,28 @@ sort: by_weight
 娄葑镇	lou feng zhen	45
 娄金狗	lou jin gou	100
 娄雷	lou lei	29
+婁	lou
+寠	lou
+尨	long
+屚	lou
+屸	long
+嵝	lou
+嵝	lou	54
+嶁	lou
+嶐	long
+巃	long
+巄	long
+廔	lou
+弄	long
+弄	long	1
 弄口	long kou	2
 弄堂	long tang	8590
 弄堂口	long tang kou	770
 弄堂里	long tang li	100
+徿	long
+慺	lou
+拢	long
+拢	long	48821
 拢一拢	long yi long	100
 拢不住	long bu zhu	125
 拢了拢	long le long	1530
@@ -94,6 +171,8 @@ sort: by_weight
 拢来	long lai	2220
 拢烟	long yan	1
 拢音	long yin	111
+搂	lou
+搂	lou	85409
 搂一搂	lou yi lou	181
 搂上	lou shang	1111
 搂上去	lou shang qu	100
@@ -133,6 +212,17 @@ sort: by_weight
 搂过	lou guo	1111
 搂钱	lou qian	450
 搂错人	lou cuo ren	100
+摟	lou
+攏	long
+昽	long
+昽	long	118
+曨	long
+朧	long
+栊	long
+栊	long	456
+梇	long
+楼	lou
+楼	lou	654626
 楼上	lou shang	258300
 楼上住户	lou shang zhu hu	100
 楼上帘招	lou shang lian zhao	100
@@ -318,6 +408,11 @@ sort: by_weight
 楼高不见章台路	lou gao bu jian zhang tai lu	18
 楼高莫近危栏倚	lou gao mo jin wei lan yi	1
 楼龄	lou ling	24230
+槞	long
+樓	lou
+櫳	long
+泷	long
+泷	long	1444
 泷壶之术	long hu zhi shu	100
 泷川花音	long chuan hua yin	6666
 泷庸蛹笔螺	long yong yong bi luo	1
@@ -325,6 +420,15 @@ sort: by_weight
 泷悦长安	long yue chang an	176
 泷泽秀明	long ze xiu ming	4
 泷田洋二郎	long tian yang er lang	9
+湰	long
+溇	lou
+溇	lou	3
+滝	long
+漊	lou
+漋	long
+漋	long	5
+漏	lou
+漏	lou	62997
 漏下	lou xia	2885
 漏下去	lou xia qu	65
 漏下来的	lou xia lai de	100
@@ -473,17 +577,45 @@ sort: by_weight
 漏风率	lou feng lv	100
 漏风率小	lou feng lv xiao	100
 漏齑搭菜	lou ji da cai	1
+瀧	long
+熡	lou
+爖	long
+珑	long
+珑	long	34559
 珑玲	long ling	1
 珑璁	long cong	115
+瓏	long
+甊	lou
+瘘	lou
+瘘	lou	108
 瘘管	lou guan	3860
+瘺	lou
+瘻	lou
+癃	long
+癃	long	18
 癃闭	long bi	12
 癃闭舒片	long bi shu pian	1
 癃闭舒胶囊	long bi shu jiao nang	2
+眬	long
+眬	long	850
+瞜	lou
+矓	long
+砻	long
+砻	long	298
 砻坊	long fang	1
 砻糠	long kang	1060
 砻谷机	long gu ji	100
+硦	long
+礱	long
+礲	long
+窿	long
+窿	long	9002
 窿缘小叶桉	long yuan xiao ye an	1
 窿缘桉	long yuan an	100
+竉	long
+竜	long
+笼	long
+笼	long	92617
 笼不住	long bu zhu	20
 笼中	long zhong	6415
 笼中之鸟	long zhong zhi niao	420
@@ -530,9 +662,20 @@ sort: by_weight
 笼鸟	long niao	550
 笼鸟槛猿	long niao jian yuan	100
 笼鸟池鱼	long niao chi yu	100
+篓	lou
+篓	lou	6723
 篓子	lou zi	3720
+篢	long
+篭	long
+簍	lou
+籠	long
+耧	lou
+耧	lou	539
 耧播	lou bo	1
 耧车	lou che	185
+耬	lou
+聋	long
+聋	long	19397
 聋了	long le	2520
 聋人	long ren	20465
 聋哑	long ya	13325
@@ -545,13 +688,25 @@ sort: by_weight
 聋子	long zi	7950
 聋的	long de	2165
 聋者之歌	long zhe zhi ge	1
+聾	long
+胧	long
+胧	long	40688
 胧分身之术	long fen shen zhi shu	100
 胧分身术	long fen shen shu	100
 胧月夜	long yue ye	100
+艛	lou
+茏	long
+茏	long	1018
 茏葱	long cong	115
+蒌	lou
+蒌	lou	169
 蒌叶	lou ye	1
 蒌蒿	lou hao	1
 蒌蒿满地芦芽短	lou hao man di lu ya duan	34
+蔞	lou
+蘢	long
+蝼	lou
+蝼	lou	1805
 蝼蚁	lou yi	4480
 蝼蚁儿	lou yi er	100
 蝼蚁尚且偷生	lou yi shang qie tou sheng	195
@@ -563,6 +718,22 @@ sort: by_weight
 蝼蛄疖	lou gu jie	1
 蝼蛄科	lou gu ke	100
 蝼螲	lou zhi	1
+螻	lou
+蠪	long
+蠬	long
+襱	long
+謱	lou
+豅	long
+貗	lou
+贚	long
+躘	long
+軁	lou
+遱	lou
+鏤	lou
+鏧	long
+鑨	long
+镂	lou
+镂	lou	3408
 镂冰炊砾	lou bing chui li	1
 镂冰画脂	lou bing hua zhi	100
 镂冰裁玉	lou bing cai yu	1
@@ -585,6 +756,8 @@ sort: by_weight
 镂铣机	lou xi ji	255
 镂骨铭心	lou gu ming xin	100
 镂骨铭肌	lou gu ming ji	100
+陇	long
+陇	long	6141
 陇上	long shang	1980
 陇上羊归塞草烟	long shang yang gui sai cao yan	1
 陇东	long dong	4120
@@ -624,6 +797,8 @@ sort: by_weight
 陇达	long da	1
 陇馔有熊腊	long zhuan you xiong xi	3
 陇驾庄	long jia zhuang	2
+陋	lou
+陋	lou	32986
 陋习	lou xi	17775
 陋俗	lou su	1305
 陋儒	lou ru	5
@@ -639,6 +814,8 @@ sort: by_weight
 陋规	lou gui	675
 陋识	lou shi	25
 陋龙	lou long	9
+隆	long
+隆	long	139138
 隆中	long zhong	6410
 隆中对	long zhong dui	2860
 隆中茶	long zhong cha	10
@@ -822,6 +999,9 @@ sort: by_weight
 隆鳄	long e	11
 隆鼻	long bi	8595
 隆鼻术	long bi shu	69
+隴	long
+露	lou
+露	lou	36419
 露一下	lou yi xia	720
 露一手	lou yi shou	2885
 露三点	lou san dian	935
@@ -911,6 +1091,20 @@ sort: by_weight
 露齿	lou chi	3765
 露齿笑	lou chi xiao	115
 露齿而笑	lou chi er xiao	280
+霳	long
+靇	long
+鞻	lou
+驡	long
+髅	lou
+髅	lou	38797
+髏	lou
+鷜	lou
+鸗	long
+龍	long
+龒	long
+龓	long
+龙	long
+龙	long	1509393
 龙万乡	long wan xiang	3
 龙下乡	long xia xiang	2
 龙下村	long xia cun	17
@@ -2156,3 +2350,85 @@ sort: by_weight
 龙龙	long long	10110
 龙龛手鉴	long kan shou jian	100
 龙龟	long gui	9999
+𠖛	lou
+𠗩	lou
+𠞭	lou
+𠮽	long
+𠱚	long
+𠳴	lou
+𠾐	long
+𡀔	lou
+𡃡	long
+𡇭	lou
+𡗆	lou
+𡡎	lou
+𡪅	lou
+𡬍	long
+𡰌	lou
+𡱯	long
+𢈢	lou
+𢙱	long
+𢤱	long
+𢤲	long
+𢸭	long
+𣤋	lou
+𣫣	long
+𣫻	lou
+𤬏	lou
+𤵸	long
+𤼃	long
+𤾭	long
+𥕍	lou
+𥦌	long
+𥪢	long
+𥪻	long
+𥬆	long
+𥰟	long
+𥳌	long
+𥸉	long
+𦌁	lou
+𦎹	lou
+𦝼	lou	1
+𦪽	long
+𦭯	lou
+𦸢	lou
+𧁾	lou
+𧍰	long
+𧙥	long
+𧚂	long
+𧢃	lou
+𧫞	lou
+𧯨	lou
+𧰃	lou
+𧷡	lou
+𨄋	lou
+𨇘	long
+𨏠	long
+𨛓	long
+𨝢	lou
+𨦖	lou
+𨫒	lou
+𨱐	lou
+𨺚	long
+𨻻	lou
+𩂽	long
+𩄺	long
+𩏝	lou
+𩙘	long
+𩙠	long
+𩟭	long
+𪈗	long
+𪍣	lou
+𪐖	long
+𪔕	long
+𪔳	long
+𪔷	long
+𪚑	long
+𪚓	long
+𪚘	long
+𪚝	long
+𪚠	long
+𪣻	lou	1
+𫛟	long
+𬕂	long	1
+𬸄	long

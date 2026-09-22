@@ -3,9 +3,60 @@ name: merged.za
 version: "1.0"
 sort: by_weight
 ...
+㔆	zan
+㘸	zang
+㙻	zan
+㜺	zan
+㞨	zai
+㟛	zan
+㣅	zan
+㤰	zan
+㨻	zan
+㯥	zao
+㱰	zai
+㲧	zao
+㳨	za
+㳨	zan
+㴓	zai
+㷮	zao
+䍝	zan
+䏁	zai
+䒃	zao
+䕹	za
+䖣	zao
+䗞	zan
+䗢	zao
+䙉	zan
+䜊	zao
+䞙	za
+䟃	zan
+䟅	zan
+䣬	zai
+䥄	zan
+䥣	zao
+䦈	za
+䨿	za
+䪞	za
+䬤	zan
+䭕	zan
+䮨	zai
+䲃	zao
+䵧	zai
+仔	zai
+仔	zai	20916
 仔仔	zai zai	14815
 仔凉粉	zai liang fen	56
 仔杜父鱼	zai du fu yu	1
+偺	za
+偺	zan
+傤	zai
+傮	zao
+儎	zai
+儧	zan
+儹	zan
+兂	zan
+再	zai
+再	zai	2681503
 再一	zai yi	31855
 再一个	zai yi ge	1111
 再一件件	zai yi jian jian	1180
@@ -1236,6 +1287,8 @@ sort: by_weight
 再鸡巴说吧	zai ji ba shuo ba	100
 再鼓劲	zai gu jin	100
 再鼓干劲	zai gu gan jin	100
+凿	zao
+凿	zao	16089
 凿井	zao jing	2995
 凿井机	zao jing ji	100
 凿井而饮	zao jing er yin	13
@@ -1294,12 +1347,17 @@ sort: by_weight
 凿骨捣髓	zao gu dao sui	100
 凿齿磨牙	zao chi mo ya	1
 凿龟数策	zao gui shu ce	3
+匝	za
+匝	za	3734
 匝加利亚	za jia li ya	100
 匝地	za di	1785
 匝数	za shu	1180
 匝月	za yue	185
 匝道	za dao	6330
 匝道行驶	za dao xing shi	100
+匨	zang
+咂	za
+咂	za	6899
 咂儿	za er	9999
 咂咂嘴	za za zui	895
 咂嘴	za zui	1635
@@ -1317,6 +1375,8 @@ sort: by_weight
 咂摸	za mo	925
 咂舌	za she	2175
 咂舌头	za she tou	125
+咋	za
+咋	za	98411
 咋上	za shang	2820
 咋不	za bu	9999
 咋不上天	za bu shang tian	100
@@ -1439,6 +1499,9 @@ sort: by_weight
 咋隔离	za ge li	100
 咋鸡巴办	za ji ba ban	100
 咋鸡巴办呢	za ji ba ban ne	100
+咱	za
+咱	zan
+咱	zan	321520
 咱一起去	zan yi qi qu	100
 咱不喝	zan bu he	151
 咱也	zan ye	9999
@@ -1530,6 +1593,18 @@ sort: by_weight
 咱这儿	zan zhe er	1111
 咱这届	zan zhe jie	100
 咱这里	zan zhe li	112
+哉	zai
+哉	zai	22334
+唕	zao
+唣	zao
+唣	zao	190
+喒	za
+喒	zan
+喿	zao
+噆	zan
+噈	za
+噪	zao
+噪	zao	16010
 噪声	zao sheng	138295
 噪声低	zao sheng di	3020
 噪声容限	zao sheng rong xian	191
@@ -1561,6 +1636,12 @@ sort: by_weight
 噪音降低	zao yin jiang di	100
 噪鹃	zao juan	1
 噪鹛	zao mei	3
+囃	za
+囋	za
+囋	zan
+囐	za
+在	zai
+在	zai	19195987
 在一	zai yi	1111
 在一个	zai yi ge	9999
 在一个地方	zai yi ge di fang	100
@@ -4479,7 +4560,14 @@ sort: by_weight
 在黑暗中	zai hei an zhong	35405
 在黑暗中迷失	zai hei an zhong mi shi	100
 在齐太史简	zai qi tai shi jian	100
+堑	zan
+塟	zang
+塹	zan
+奘	zang
+奘	zang	2967
 奘铃村	zang ling cun	100
+宰	zai
+宰	zai	58463
 宰不了	zai bu liao	75
 宰了	zai le	13500
 宰了他们	zai le ta men	100
@@ -4513,13 +4601,23 @@ sort: by_weight
 宰辅	zai fu	1580
 宰鸡教猴	zai ji jiao hou	100
 宰鸭	zai ya	460
+寁	zan
+寁	zan	1
+崽	zai
+崽	zai	16768
 崽儿	zai er	2130
 崽子	zai zi	3325
 崽子们	zai zi men	147
 崽崽	zai zai	1111
 崽崽们	zai zai men	183
 崽种	zai zhong	1
+帀	za
+弉	zang
+慥	zao
+慥	zao	13
 慥慥	zao zao	1
+扎	za
+扎	za	1000
 扎一扎	za yi za	212
 扎不扎	za bu za	2
 扎个丸子头	za ge wan zi tou	2
@@ -4600,8 +4698,19 @@ sort: by_weight
 扎高裤脚	za gao ku jiao	100
 扎高马尾	za gao ma wei	2
 扎麻花辫	za ma hua bian	2
+扗	zai
+抂	zai
+拶	za
+拶	za	1
+拶	zan
+拶	zan	183
 拶子	zan zi	2
 拶指	zan zhi	2
+揝	zan
+撍	zan
+攅	zan
+攒	zan
+攒	zan	15835
 攒一攒	zan yi zan	324
 攒三聚五	zan san ju wu	100
 攒下	zan xia	9999
@@ -4657,6 +4766,9 @@ sort: by_weight
 攒钱买房子	zan qian mai fang zi	100
 攒钱罐	zan qian guan	95
 攒首付	zan shou fu	100
+攢	zan
+早	zao
+早	zao	1138903
 早一些	zao yi xie	3735
 早一天	zao yi tian	100
 早一点	zao yi dian	14530
@@ -5171,8 +5283,12 @@ sort: by_weight
 早鸡巴不说	zao ji ba bu shuo	100
 早鸡巴干啥	zao ji ba gan sha	100
 早鸡巴干啥呢	zao ji ba gan sha ne	100
+昝	zan
+昝	zan	208
 昝姓	zan xing	1
 昝王庄	zan wang zhuang	179
+暂	zan
+暂	zan	161191
 暂不	zan bu	76735
 暂不作	zan bu zuo	12500
 暂不可售	zan bu ke shou	100
@@ -5332,6 +5448,9 @@ sort: by_weight
 暂退娱乐圈	zan tui yu le quan	100
 暂避锋芒	zan bi feng mang	175
 暂降	zan jiang	480
+暫	zan
+杂	za
+杂	za	27765
 杂七杂八	za qi za ba	10450
 杂七碎八	za qi sui ba	1
 杂乎芒芴之间	za hu mang wu zhi jian	1
@@ -5561,6 +5680,8 @@ sort: by_weight
 杂食貂	za shi diao	1
 杂骨	za gu	781
 杂鱼	za yu	1111
+枣	zao
+枣	zao	13173
 枣之礼	zao zhi li	49
 枣仁	zao ren	2305
 枣仁安神液	zao ren an shen ye	9
@@ -5640,6 +5761,9 @@ sort: by_weight
 枣阳县	zao yang xian	16
 枣阳市	zao yang shi	2920
 枣馒头	zao man tou	189
+栆	zao
+栽	zai
+栽	zai	34930
 栽下	zai xia	3700
 栽下去	zai xia qu	520
 栽下来	zai xia lai	775
@@ -5692,6 +5816,18 @@ sort: by_weight
 栽进去	zai jin qu	540
 栽进来	zai jin lai	100
 栽面	zai mian	9999
+桚	za
+桚	zan
+梍	zao
+棗	zao
+橵	zan
+沞	za
+沯	za
+洅	zai
+渽	zai
+溨	zai
+澡	zao
+澡	zao	57698
 澡垢索疵	zao gou suo ci	1
 澡堂	zao tang	15260
 澡堂子	zao tang zi	1425
@@ -5702,6 +5838,10 @@ sort: by_weight
 澡盒子	zao he zi	100
 澡身浴德	zao shen yu de	100
 澡雪精神	zao xue jing shen	100
+濽	zan
+灒	zan
+灶	zao
+灶	zao	13458
 灶上	zao shang	3035
 灶上扫除	zao shang sao chu	100
 灶上骚除	zao shang sao chu	1
@@ -5728,6 +5868,9 @@ sort: by_weight
 灶门祢豆子	zao men mi dou zi	133
 灶间	zao jian	1305
 灶马	zao ma	370
+災	zai
+灾	zai
+灾	zai	83099
 灾中应急	zai zhong ying ji	87
 灾区	zai qu	52065
 灾区重建	zai qu chong jian	100
@@ -5780,21 +5923,40 @@ sort: by_weight
 灾难重重	zai nan chong chong	100
 灾难降临	zai nan jiang lin	1295
 灾难面前	zai nan mian qian	182
+烖	zai
+煰	zao
+燥	zao
+燥	zao	32172
 燥湿	zao shi	621
 燥湿化痰	zao shi hua tan	54
 燥热	zao re	15960
 燥者濡之	zao zhe ru zhi	1
 燥胜则干	zao sheng ze gan	16
 燥裂	zao lie	280
+牂	zang
+牂	zang	76
 牂牁	zang ke	1
 牂牁江	zang ke jiang	165
 牂牁郡	zang ke jun	4
 牂牂	zang zang	1
+璅	zao
+璪	zao
+璪	zao	24
 璪都镇	zao du zhen	12
+瓉	zan
+瓒	zan
+瓒	zan	4653
+瓚	zan
+甾	zai
+甾	zai	110
 甾体激素	zai ti ji su	100
 甾类	zai lei	670
 甾类化合物	zai lei hua he wu	2
 甾醇	zai chun	30
+畠	zai
+皁	zao
+皂	zao
+皂	zao	12776
 皂丝麻线	zao si ma xian	100
 皂刺	zao ci	12
 皂化	zao hua	3000
@@ -5833,6 +5995,9 @@ sort: by_weight
 皂角树	zao jiao shu	140
 皂角豆象	zao jiao dou xiang	1
 皂隶	zao li	116
+睵	zai
+砸	za
+砸	za	49191
 砸一下	za yi xia	5310
 砸一砸	za yi za	123
 砸三铁	za san tie	65
@@ -5909,6 +6074,15 @@ sort: by_weight
 砸锅卖铁	za guo mai tie	3395
 砸门	za men	1950
 砸饭碗	za fan wan	180
+禶	zan
+穳	zan
+竃	zao
+竈	zao
+篸	zan
+簉	zao
+簉	zao	13
+簪	zan
+簪	zan	7448
 簪子	zan zi	3360
 簪导轻安发不知	zan dao qing an fa bu zhi	1
 簪戴	zan dai	111
@@ -5921,8 +6095,13 @@ sort: by_weight
 簪缨门第	zan ying men di	100
 簪花	zan hua	2515
 簪蒿席草	zan hao xi cao	1
+簮	zan
+糌	zan
+糌	zan	343
 糌粑	zan ba	5
 糌粑粥	zan ba zhou	1
+糟	zao
+糟	zao	102902
 糟丘是蓬莱	zao qiu shi peng lai	14
 糟了	zao le	12685
 糟坊	zao fang	240
@@ -5975,6 +6154,12 @@ sort: by_weight
 糟鱼	zao yu	101
 糟鸡糟肉	zao ji zao rou	1
 糟鸭	zao ya	248
+紥	za
+紮	za
+縡	zai
+羘	zang
+脏	zang
+脏	zang	124291
 脏不	zang bu	1111
 脏不脏	zang bu zang	100
 脏东西	zang dong xi	7110
@@ -6041,6 +6226,13 @@ sort: by_weight
 脏辫儿	zang bian er	1111
 脏钱	zang qian	150
 脏鬼	zang gui	157
+臓	zang
+臜	za
+臜	za	186
+臟	zang
+臢	za
+臧	zang
+臧	zang	6025
 臧仓小人	zang cang xiao ren	1
 臧克家	zang ke jia	235
 臧否	zang pi	1155
@@ -6057,6 +6249,10 @@ sort: by_weight
 臧谷亡羊	zang gu wang yang	100
 臧霸	zang ba	2060
 臧鸿飞	zang hong fei	100
+艁	zao
+菑	zai
+葬	zang
+葬	zang	56577
 葬了	zang le	2055
 葬于	zang yu	4444
 葬仪	zang yi	1090
@@ -6085,6 +6281,10 @@ sort: by_weight
 葬送前途	zang song qian tu	100
 葬送在	zang song zai	100
 葬送掉	zang song diao	365
+蔵	zang
+薻	zao
+藏	zang
+藏	zang	10000
 藏东	zang dong	4000
 藏东南	zang dong nan	100
 藏人	zang ren	7940
@@ -6218,6 +6418,8 @@ sort: by_weight
 藏马熊	zang ma xiong	7
 藏鰋	zang yan	1
 藏𬶐肉	zang zhao rou	1
+藻	zao
+藻	zao	7612
 藻井	zao jing	3635
 藻棁	zao zhuo	10
 藻江花园	zao jiang hua yuan	6
@@ -6237,10 +6439,26 @@ sort: by_weight
 藻酸盐印模材料	zao suan yan yin mu cai liao	8
 藻饰	zao shi	750
 藻饼	zao bing	10
+蚤	zao
+蚤	zao	2887
 蚤叮咬	zao ding yao	2
 蚤羽膜滴虫	zao yu mo di chong	1
 蚤蝇	zao ying	4
 蚤钟虫	zao zhong chong	1
+襍	za
+襸	zan
+譟	zao
+讃	zan
+讚	zan
+賍	zang
+賘	zang
+賛	zan
+賳	zai
+贊	zan
+贓	zang
+贜	zang
+赃	zang
+赃	zang	9126
 赃官	zang guan	690
 赃官污吏	zang guan wu li	100
 赃款	zang kuan	14070
@@ -6255,6 +6473,8 @@ sort: by_weight
 赃货狼藉	zang huo lang ji	1
 赃贿狼藉	zang hui lang ji	111
 赃车	zang che	1580
+赞	zan
+赞	zan	177018
 赞一个	zan yi ge	8430
 赞一句	zan yi ju	100
 赞一声	zan yi sheng	100
@@ -6348,8 +6568,16 @@ sort: by_weight
 赞阳街道	zan yang jie dao	1
 赞颂	zan song	13560
 赞颂苦难	zan song ku nan	100
+趮	zao
+趱	zan
+趱	zan	283
 趱行	zan xing	5
 趱路	zan lu	5
+趲	zan
+蹔	zan
+蹧	zao
+躁	zao
+躁	zao	55588
 躁候	zao hou	7
 躁动	zao dong	17990
 躁动不安	zao dong bu an	2265
@@ -6361,6 +6589,9 @@ sort: by_weight
 躁狂症	zao kuang zheng	1370
 躁言丑句	zao yan chou ju	1
 躁郁症	zao yu zheng	560
+載	zai
+载	zai
+载	zai	127412
 载一抱素	zai yi bao su	100
 载一载	zai yi zai	123
 载了载	zai le zai	123
@@ -6489,6 +6720,9 @@ sort: by_weight
 载驱载驰	zai qu zai chi	1
 载驳船	zai bo chuan	82
 载鬼一车	zai gui yi che	9
+迊	za
+造	zao
+造	zao	518334
 造一个	zao yi ge	100
 造一台	zao yi tai	100
 造不了	zao bu liao	260
@@ -6784,6 +7018,8 @@ sort: by_weight
 造食术	zao shi shu	1
 造饭	zao fan	890
 造黄谣	zao huang yao	100
+遭	zao
+遭	zao	174294
 遭不幸	zao bu xing	695
 遭了	zao le	1630
 遭了不少罪	zao le bu shao zui	100
@@ -6931,9 +7167,146 @@ sort: by_weight
 遭雷劈	zao lei pi	100
 遭雷劈啊	zao lei pi a	100
 遭骂	zao ma	3700
+鄼	zan
+酂	zan
+酂	zan	12
+酇	zan
+酨	zai
+醩	zao
+鉔	za
+銺	zang
+錾	zan
+錾	zan	405
 錾刀	zan dao	15
 錾子	zan zi	455
 錾字	zan zi	9
 錾花	zan hua	5
 錾金	zan jin	5
+鏨	zan
+鏩	zan
+鐕	zan
+鐟	zan
+鑿	zao
+雑	za
+雜	za
+雥	za
+韴	za
+饡	zan
+駔	zang
+驵	zang
+驵	zang	37
 驵侩	zang kuai	60
+髒	zang
+魳	za
+鵤	zan
+𠎶	zai
+𠙬	zao
+𠛱	za
+𠯗	za
+𠱥	za
+𠴵	zao
+𠶿	za
+𠷿	za
+𠼗	zan
+𠽷	za
+𡁕	za
+𡁧	zang
+𡅆	zang
+𡉄	zai
+𡐋	zao
+𡡖	zan
+𡨗	zao
+𡿧	zai
+𢄀	zao
+𢄤	zan
+𢈜	zang
+𢍈	zang
+𢍿	zang
+𢎋	zai
+𢑖	zao
+𢦏	zai
+𢦒	zai
+𢲵	zao
+𢵥	zao
+𢶍	za
+𢹼	za
+𢽜	za
+𣅃	zai
+𣍖	zao
+𣔮	zai
+𣗁	za
+𣤶	za
+𣤶	zan
+𣤷	za
+𣤺	za
+𣩒	zao
+𣪮	zai
+𣴖	za
+𣴢	zao
+𣸄	zan
+𣸐	za
+𣻟	zang
+𤃼	zang
+𤄔	za
+𤄖	za
+𤆄	zai
+𤌊	zai
+𤍜	zao
+𤛻	zang
+𤝖	zai
+𤞋	zao
+𤞛	zang
+𤞳	zai
+𤟀	zao
+𤠀	za
+𤩨	zao
+𥀛	zao
+𥎑	zan
+𥖨	zao
+𥖨	zao	1
+𥜙	zan
+𥳋	zan
+𥷩	za
+𥸢	zan
+𦞁	zai
+𦟃	zang
+𦠛	za
+𦯑	zao
+𦳦	zai
+𦵩	zao
+𦾬	za
+𧄽	za
+𧄽	zan
+𧈹	zao
+𧌃	za
+𧎮	zao
+𧕨	zang
+𧬩	za
+𧯥	zai
+𧻰	zao
+𧾁	za
+𨀬	zai
+𨌄	zang
+𨎮	zao
+𨒽	zao
+𨖋	zan
+𨘄	zan
+𨙏	zan
+𨙴	zai
+𨚰	zao
+𨚵	zai
+𨠷	zao
+𨠿	za
+𨤃	za
+𨤇	zao
+𩇺	za
+𩛥	zai
+𩛳	zai
+𩛻	zan
+𩞶	za
+𩯳	za
+𩯳	zan
+𩵢	za
+𪓅	zang
+𪙡	zao
+𪚇	za

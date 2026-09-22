@@ -3,8 +3,85 @@ name: merged.ba
 version: "1.0"
 sort: by_weight
 ...
+㓦	bai
+㔙	bang
+㔜	ba
+㖠	ba
+㗑	bai
+㗗	bai
+㙅	bao
+㙸	bao
+㚘	ban
+㞎	ba
+㞎	ba	1
 㞎㞎	ba ba	9999
+㠔	bai
+㧊	ba
+㧳	bai
+㩯	ban
+㪵	ban
+㫧	bao
+㭋	bang
+㮄	bang
+㯁	bang
+㲏	bao
+㲒	bao
+㵡	bao
+㶚	ba
+㸞	ban
+㻄	bao
+㼟	bai
+㼣	bai
+㾦	bang
+㿟	bai
+㿺	bao
+䂜	bang
+䃻	ba
+䆉	ba
+䇑	ba
+䈏	bao
+䉽	ban
+䎂	bao
+䎧	bang
+䎬	ba
+䎱	ba
+䒔	bai
+䕰	ban
+䖫	bang
+䙓	bai
+䟦	ba
+䟺	bang
+䢙	bai
+䤖	bao
+䥤	bao
+䥯	ba
+䥯	bai
+䧛	bang
+䨌	bao
+䨔	bao
+䩗	ba
+䩻	ba
+䪨	bao
+䬳	ban
+䭋	bao
+䰷	bang
+䰾	ba
+䱝	ba
+䳁	ba
+䳆	bai
+䳈	bao
+䳊	ba
+䳰	bao
+䴐	bao
+䴽	bai
+丷	ba
+仈	ba
+伯	ba
+伯	bai
+伯	bai	1734
 伯子	bai zi	999
+伴	ban
+伴	ban	189544
 伴之则暖	ban zhi ze nuan	100
 伴乐	ban yue	240
 伴以	ban yi	4630
@@ -102,9 +179,14 @@ sort: by_weight
 伴食中书	ban shi zhong shu	100
 伴食宰相	ban shi zai xiang	100
 伴鱼绘本	ban yu hui ben	103
+佨	bao
+佰	bai
+佰	bai	1600
 佰奇美	bai qi mei	1
 佰维存储	bai wei cun chu	113
 佰草集	bai cao ji	408
+保	bao
+保	bao	859752
 保一保	bao yi bao	1
 保一方平安	bao yi fang ping an	2205
 保上研	bao shang yan	100
@@ -1512,6 +1594,8 @@ sort: by_weight
 保龄球赛	bao ling qiu sai	100
 保龄球运动	bao ling qiu yun dong	215
 保龄球馆	bao ling qiu guan	6665
+傍	bang
+傍	bang	34850
 傍上大款	bang shang da kuan	100
 傍上富婆	bang shang fu po	100
 傍个影儿	bang ge ying er	100
@@ -1553,6 +1637,9 @@ sort: by_weight
 傍门依户	bang men yi hu	1
 傍黑	bang hei	195
 傍黑儿	bang hei er	9999
+儤	bao
+八	ba
+八	ba	740031
 八〇〇〇	ba ling ling ling	100
 八〇〇〇年	ba ling ling ling nian	100
 八〇〇一	ba ling ling yi	100
@@ -5034,6 +5121,8 @@ sort: by_weight
 八骏日行三万里	ba jun ri xing san wan li	100
 八骠骑	ba piao qi	100
 八龙	ba long	1275
+刨	bao
+刨	bao	8691
 刨丝	bao si	623
 刨丝器	bao si qi	356
 刨光	bao guang	2
@@ -5059,6 +5148,9 @@ sort: by_weight
 刨花板厂	bao hua ban chang	165
 刨身	bao shen	15
 刨边机	bao bian ji	100
+剝	bao
+剥	bao
+剥	bao	42275
 剥下	bao xia	488
 剥不了	bao bu liao	10
 剥了	bao le	1180
@@ -5073,6 +5165,8 @@ sort: by_weight
 剥笋	bao sun	36
 剥花生	bao hua sheng	390
 剥蒜	bao suan	3
+办	ban
+办	ban	956075
 办一下	ban yi xia	623
 办一个	ban yi ge	8260
 办一张	ban yi zhang	100
@@ -5462,6 +5556,10 @@ sort: by_weight
 办通行证	ban tong xing zheng	170
 办银行	ban yin hang	100
 办银行卡	ban yin hang ka	100
+勹	bao
+勽	bao
+包	bao
+包	bao	667583
 包一下	bao yi xia	66
 包一包	bao yi bao	789
 包一束	bao yi shu	100
@@ -6065,6 +6163,8 @@ sort: by_weight
 包黑子	bao hei zi	11
 包黑炭	bao hei tan	100
 包龙图	bao long tu	100
+半	ban
+半	ban	1095098
 半一色	ban yi se	100
 半三不四	ban san bu si	100
 半上半下	ban shang ban xia	5
@@ -7235,11 +7335,16 @@ sort: by_weight
 半黑市	ban hei shi	2
 半龙半蛟	ban long ban jiao	1
 半龙半鱼	ban long ban yu	1
+叐	ba
+叭	ba
+叭	ba	23566
 叭叭	ba ba	2390
 叭叭两声	ba ba liang sheng	100
 叭叭叭	ba ba ba	310
 叭啦狗	ba la gou	100
 叭的一声	ba de yi sheng	100
+吧	ba
+吧	ba	2403165
 吧主	ba zhu	6550
 吧务	ba wu	111
 吧友	ba you	11
@@ -7255,6 +7360,14 @@ sort: by_weight
 吧女	ba nv	1090
 吧托女	ba tuo nv	100
 吧椅	ba yi	1520
+呗	bai
+呗	bai	1
+哱	ba
+哵	ba
+唄	bai
+嚗	bao
+坂	ban
+坂	ban	2872
 坂上	ban shang	34
 坂上走丸	ban shang zou wan	100
 坂井成羽	ban jing cheng yu	6666
@@ -7282,6 +7395,8 @@ sort: by_weight
 坂田金时	ban tian jin shi	100
 坂田银时	ban tian yin shi	1
 坂道美琉	ban dao mei liu	6666
+坝	ba
+坝	ba	10236
 坝上	ba shang	14830
 坝上地区	ba shang di qu	100
 坝下村	ba xia cun	5
@@ -7315,6 +7430,11 @@ sort: by_weight
 坝顶高程	ba ding gao cheng	575
 坝首	ba shou	106
 坝高	ba gao	3945
+坢	ban
+垹	bang
+垻	ba
+堡	bao
+堡	bao	100994
 堡垒	bao lei	34695
 堡垒上方	bao lei shang fang	100
 堡垒主机	bao lei zhu ji	39
@@ -7325,6 +7445,18 @@ sort: by_weight
 堡头	bao tou	3
 堡寨	bao zhai	820
 堡礁	bao jiao	5
+堢	bao
+報	bao
+塝	bang
+塝	bang	1
+壩	ba
+夿	ba
+妭	ba
+妭	ba	1
+姅	ban
+媬	bao
+孢	bao
+孢	bao	455
 孢原细胞	bao yuan xi bao	1
 孢囊	bao nang	725
 孢子	bao zi	2230
@@ -7340,6 +7472,8 @@ sort: by_weight
 孢子虫	bao zi chong	100
 孢子虫病	bao zi chong bing	444
 孢子虫纲	bao zi chong gang	29
+宝	bao
+宝	bao	564720
 宝东路	bao dong lu	4
 宝中之宝	bao zhong zhi bao	205
 宝中路	bao zhong lu	4
@@ -7845,14 +7979,24 @@ sort: by_weight
 宝齐来	bao qi lai	1
 宝龙地产	bao long di chan	2
 宝龙城市广场	bao long cheng shi guang chang	305
+宲	bao
+寚	bao
+寳	bao
+寶	bao
+岅	ban
+岜	ba
+岜	ba	273
 岜关岭	ba guan ling	1
 岜暮乡	ba mu xiang	1
 岜沙	ba sha	9999
 岜饶乡	ba rao xiang	2
+峇	ba
 峇峇与娘惹	ba ba yu niang re	1
 峇峇娘惹	ba ba niang re	100
 峇峇语	ba ba yu	1
 峇株巴辖	ba zhu ba xia	1
+巴	ba
+巴	ba	523594
 巴三览四	ba san lan si	100
 巴不得	ba bu de	12545
 巴不得你	ba bu de ni	100
@@ -8654,6 +8798,8 @@ sort: by_weight
 巴黎迪士尼乐园	ba li di shi ni le yuan	100
 巴黎银行	ba li yin hang	100
 巴龙霉素	ba long mei su	4
+帮	bang
+帮	bang	901633
 帮一下	bang yi xia	9295
 帮一个	bang yi ge	222
 帮一帮	bang yi bang	456
@@ -8961,6 +9107,17 @@ sort: by_weight
 帮闲打哄	bang xian da hong	100
 帮闲钻懒	bang xian zuan lan	100
 帮顶	bang ding	12570
+幇	bang
+幚	bang
+幫	bang
+庍	bai
+弝	ba
+彭	bang
+忁	bao
+怉	bao
+怑	ban
+扒	ba
+扒	ba	25334
 扒一扒	ba yi ba	456
 扒下	ba xia	3140
 扒下来	ba xia lai	100
@@ -9029,6 +9186,8 @@ sort: by_weight
 扒齿港	ba chi gang	193
 扒龙舟	ba long zhou	100
 扒龙船	ba long chuan	100
+扮	ban
+扮	ban	102939
 扮不了	ban bu liao	50
 扮不出	ban bu chu	1
 扮了个鬼脸	ban le ge gui lian	1110
@@ -9073,6 +9232,8 @@ sort: by_weight
 扮高雅	ban gao ya	100
 扮鬼	ban gui	3025
 扮鬼脸	ban gui lian	1370
+扳	ban
+扳	ban	22636
 扳不倒	ban bu dao	255
 扳不倒儿	ban bu dao er	100
 扳了	ban le	710
@@ -9108,6 +9269,9 @@ sort: by_weight
 扳道岔	ban dao cha	100
 扳道工	ban dao gong	480
 扳闸	ban zha	5
+扷	ba
+把	ba
+把	ba	3798288
 把一个	ba yi ge	55735
 把一些	ba yi xie	27445
 把一切	ba yi qie	21775
@@ -9673,6 +9837,9 @@ sort: by_weight
 把马子	ba ma zi	28
 把马跳	ba ma tiao	5
 把麦打开	ba mai da kai	100
+抜	ba
+报	bao
+报	bao	856017
 报一下	bao yi xia	863
 报一个	bao yi ge	100
 报一本	bao yi ben	100
@@ -10304,6 +10471,8 @@ sort: by_weight
 报馆	bao guan	485
 报驾校	bao jia xiao	100
 报验	bao yan	109
+抱	bao
+抱	bao	519992
 抱一个	bao yi ge	610
 抱一为式	bao yi wei shi	1
 抱一抱	bao yi bao	2770
@@ -10632,6 +10801,8 @@ sort: by_weight
 抱首鼠窜	bao shou shu cuan	1
 抱鸡养竹	bao ji yang zhu	1
 抱龙村	bao long cun	5
+拌	ban
+拌	ban	12927
 拌入	ban ru	6685
 拌匀	ban yun	34505
 拌和	ban huo	11880
@@ -10668,6 +10839,8 @@ sort: by_weight
 拌鸡块	ban ji kuai	32
 拌鸭掌	ban ya zhang	44
 拌黄瓜	ban huang gua	2171
+拔	ba
+拔	ba	177503
 拔一下	ba yi xia	250
 拔一拔	ba yi ba	123
 拔一毛	ba yi mao	100
@@ -10886,6 +11059,8 @@ sort: by_weight
 拔鸡毛	ba ji mao	158
 拔鸭毛	ba ya mao	197
 拔鼻毛	ba bi mao	168
+拜	bai
+拜	bai	242993
 拜一拜	bai yi bai	670
 拜上帝会	bai shang di hui	600
 拜不了	bai bu le	100
@@ -11087,8 +11262,18 @@ sort: by_weight
 拜领	bai ling	5555
 拜鬼	bai gui	111
 拜鬼求神	bai gui qiu shen	1
+拝	bai
+挀	bai
+挷	bang
+捌	ba
+捌	ba	415
+捠	bang
+捭	bai
+捭	bai	617
 捭阖	bai he	88
 捭阖纵横	bai he zong heng	8
+掰	bai
+掰	bai	10932
 掰一掰	bai yi bai	123
 掰不动	bai bu dong	100
 掰了	bai le	2310
@@ -11115,6 +11300,11 @@ sort: by_weight
 掰苹果	bai ping guo	195
 掰面儿	bai mian er	100
 掰面儿了	bai mian er le	100
+搒	bang
+搒	bang	1
+搫	ban
+搬	ban
+搬	ban	106566
 搬一下	ban yi xia	64
 搬上	ban shang	6666
 搬上了	ban shang le	100
@@ -11262,6 +11452,8 @@ sort: by_weight
 搬进去	ban jin qu	100
 搬进来	ban jin lai	100
 搬重物	ban zhong wu	100
+摆	bai
+摆	bai	349256
 摆一副	bai yi fu	100
 摆一摆	bai yi bai	1780
 摆上	bai shang	45025
@@ -11494,6 +11686,14 @@ sort: by_weight
 摆面前	bai mian qian	100
 摆面前了	bai mian qian le	100
 摆龙门阵	bai long men zhen	1390
+擘	bai
+擘	bai	0
+擺	bai
+攽	ban
+攽	ban	21
+敗	bai
+斑	ban
+斑	ban	53974
 斑丘疹	ban qiu zhen	218
 斑两用孔纽虫	ban liang yong kong niu chong	1
 斑之附身	ban zhi fu shen	100
@@ -11666,7 +11866,13 @@ sort: by_weight
 斑鸫	ban dong	22
 斑鸻刺缘吸虫	ban heng ci yuan xi chong	1
 斑鹰鸮	ban ying xiao	1
+斒	ban
+旁	bang
+昄	ban
+昄	ban	6
 昄大乡	ban da xiang	1
+暴	bao
+暴	bao	286045
 暴不暴击	bao bu bao ji	100
 暴不肖人	bao bu xiao ren	1
 暴乱	bao luan	9385
@@ -11922,6 +12128,9 @@ sort: by_weight
 暴龙属	bao long shu	100
 暴龙战士	bao long zhan shi	100
 暴龙科	bao long ke	100
+曓	bao
+曝	bao
+曝	bao	6457
 曝了光	bao le guang	100
 曝光	bao guang	167850
 曝光不足	bao guang bu zu	4455
@@ -11944,6 +12153,11 @@ sort: by_weight
 曝光计	bao guang ji	100
 曝光过度	bao guang guo du	2495
 曝光量	bao guang liang	5720
+朌	ban
+朳	ba
+朳	ba	1
+板	ban
+板	ban	466756
 板上	ban shang	6777
 板上涂	ban shang tu	2
 板上砸钉	ban shang za ding	1
@@ -12122,8 +12336,14 @@ sort: by_weight
 板鸭	ban ya	7492
 板鼓	ban gu	111
 板齿鼠	ban chi shu	2
+枹	bao
+枹	bao	113
 枹栎	bao li	3
 枹树	bao shu	1
+柈	ban
+柈	ban	20
+柏	bai
+柏	bai	56086
 柏举之战	bai ju zhi zhan	100
 柏乡县	bai xiang xian	685
 柏儒苑	bai ru yuan	4
@@ -12213,6 +12433,10 @@ sort: by_weight
 柏香镇	bai xiang zhen	149
 柏鲁美路兔	bai lu mei lu tu	1
 柏鹤集乡	bai he ji xiang	5
+柭	ba
+栢	bai
+梆	bang
+梆	bang	5442
 梆子	bang zi	8915
 梆子井	bang zi jing	31
 梆子腔	bang zi qiang	620
@@ -12220,6 +12444,8 @@ sort: by_weight
 梆梆响	bang bang xiang	80
 梆梆肉	bang bang rou	30
 梆硬	bang ying	9999
+棒	bang
+棒	bang	77284
 棒下出孝子	bang xia chu xiao zi	100
 棒不棒啊	bang bu bang a	100
 棒儿糖	bang er tang	9999
@@ -12298,6 +12524,9 @@ sort: by_weight
 棒骨	bang gu	5
 棒骨土豆地饵汤	bang gu tu dou di er tang	1
 棒𥻗粥	bang cha zhou	3
+棓	bang
+榜	bang
+榜	bang	41985
 榜一	bang yi	6666
 榜三	bang san	6666
 榜上	bang shang	29070
@@ -12321,7 +12550,16 @@ sort: by_weight
 榜葛剌	bang ge la	100
 榜额	bang e	9999
 榜首	bang shou	3722
+欛	ba
+浜	bang
+浜	bang	1079
+湴	ban
+湴	ban	2
+瀑	bao
+瀑	bao	1
 瀑河	bao he	2
+灞	ba
+灞	ba	868
 灞桥	ba qiao	1
 灞桥公安分局	ba qiao gong an fen ju	2
 灞桥区	ba qiao qu	1930
@@ -12332,6 +12570,11 @@ sort: by_weight
 灞水	ba shui	1
 灞河	ba he	1
 灞陵墓园	ba ling mu yuan	3
+炦	ba
+炮	bao
+炮	bao	1000
+煲	bao
+煲	bao	3617
 煲不出	bao bu chu	45
 煲中药	bao zhong yao	100
 煲仔饭	bao zai fan	3490
@@ -12347,6 +12590,8 @@ sort: by_weight
 煲粥	bao zhou	1111
 煲靓汤	bao liang tang	305
 煲饭	bao fan	3
+爆	bao
+爆	bao	199957
 爆一爆	bao yi bao	123
 爆三样	bao san yang	99
 爆三样儿	bao san yang er	26
@@ -12601,6 +12846,8 @@ sort: by_weight
 爆鱼面	bao yu mian	148
 爆鸣	bao ming	610
 爆鸣声	bao ming sheng	100
+爸	ba
+爸	ba	541485
 爸啊	ba a	1111
 爸在	ba zai	10
 爸妈	ba ma	56865
@@ -12650,6 +12897,8 @@ sort: by_weight
 爸爸辛苦了	ba ba xin ku le	100
 爸爸还是妈妈	ba ba hai shi ma ma	100
 爸爸问	ba ba wen	1175
+版	ban
+版	ban	138140
 版主	ban zhu	501354
 版主们	ban zhu men	4600
 版位	ban wei	9856
@@ -12753,6 +13002,17 @@ sort: by_weight
 版面设计	ban mian she ji	8805
 版面说明	ban mian shuo ming	2435
 版面费	ban mian fei	5765
+牓	bang
+犦	bao
+犮	ba
+犳	bao
+猈	bai
+玐	ba
+玤	bang
+玤	bang	3
+珤	bao
+班	ban
+班	ban	459772
 班上	ban shang	7777
 班上够了	ban shang gou le	100
 班上有个	ban shang you ge	1155
@@ -12924,6 +13184,8 @@ sort: by_weight
 班香宋艳	ban xiang song yan	100
 班马文章	ban ma wen zhang	100
 班马纹班	ban ma wen ban	1
+瓣	ban
+瓣	ban	22056
 瓣儿	ban er	9
 瓣状	ban zhuang	935
 瓣状甲	ban zhuang jia	100
@@ -12939,6 +13201,10 @@ sort: by_weight
 瓣鳃纲	ban sai gang	100
 瓣鳞花	ban lin hua	100
 瓣鳞花科	ban lin hua ke	100
+瓪	ban
+瓸	bai
+疤	ba
+疤	ba	31337
 疤印	ba yin	111
 疤痕	ba hen	53920
 疤痕体质	ba hen ti zhi	74
@@ -12948,6 +13214,8 @@ sort: by_weight
 疤瘌眼	ba la yan	70
 疤瘌眼儿	ba la yan er	9999
 疤脸	ba lian	1725
+瘢	ban
+瘢	ban	390
 瘢痕	ban hen	2218
 瘢痕体质	ban hen ti zhi	51
 瘢痕性睑内翻	ban hen xing jian nei fan	1
@@ -12956,6 +13224,11 @@ sort: by_weight
 瘢痕疙瘩	ban hen ge da	29
 瘢痕癌	ban hen ai	6
 瘢痕组织	ban hen zu zhi	44
+癍	ban
+癍	ban	95
+癹	ba
+白	bai
+白	bai	2322211
 白一彤	bai yi tong	100
 白一骢	bai yi cong	100
 白丁	bai ding	10825
@@ -15229,6 +15502,8 @@ sort: by_weight
 白𬶨豚总科	bai ji tun zong ke	1
 白𬶨豚科	bai ji tun ke	1
 白𬶨鲸	bai ji jing	1
+百	bai
+百	bai	962451
 百万	bai wan	177150
 百万一掷	bai wan yi zhi	1
 百万个	bai wan ge	2095
@@ -16861,10 +17136,19 @@ sort: by_weight
 百龄眉寿	bai ling mei shou	1
 百龙之智	bai long zhi zhi	1
 百龙村	bai long cun	1
+皅	ba
+矲	ba
+硥	bang
+磅	bang
+磅	bang	10605
 磅值	bang zhi	475
 磅数	bang shu	2645
 磅秤	bang cheng	2301
 磅重	bang zhong	282
+秚	ban
+稖	bang
+稗	bai
+稗	bai	965
 稗史	bai shi	2
 稗子	bai zi	1234
 稗官	bai guan	330
@@ -16872,14 +17156,31 @@ sort: by_weight
 稗官野史	bai guan ye shi	490
 稗耳贩目	bai er fan mu	1
 稗草	bai cao	3251
+窇	bao
+竡	bai
+笆	ba
+笆	ba	3384
 笆斗	ba dou	400
 笆篓	ba lou	8
 笆篱	ba li	9999
 笆篱子	ba li zi	9999
+笣	bao
+粄	ban
+粑	ba
+粑	ba	1704
 粑粑	ba ba	8565
 粑粑人	ba ba ren	100
 粑粑卷	ba ba juan	25
 粑粑肉	ba ba rou	100
+粨	bai
+粺	bai
+絆	ban
+絔	bai
+綁	bang
+緥	bao
+縍	bang
+绊	ban
+绊	ban	16942
 绊了	ban le	2670
 绊了一下	ban le yi xia	100
 绊了一跤	ban le yi jiao	650
@@ -16898,6 +17199,8 @@ sort: by_weight
 绊脚	ban jiao	810
 绊脚石	ban jiao shi	11140
 绊马索	ban ma suo	710
+绑	bang
+绑	bang	58012
 绑一个	bang yi ge	2
 绑一绑	bang yi bang	123
 绑上	bang shang	4780
@@ -16971,6 +17274,8 @@ sort: by_weight
 绑起来	bang qi lai	3480
 绑进来	bang jin lai	64
 绑鞋带	bang xie dai	123
+罢	ba
+罢	ba	242362
 罢了	ba le	195035
 罢了	ba liao	195035
 罢了吧	ba le ba	100
@@ -17017,8 +17322,18 @@ sort: by_weight
 罢赛	ba sai	1375
 罢黜	ba chu	1550
 罢黜百家	ba chu bai jia	1860
+罷	ba
+羓	ba
+羓	ba	3
+耙	ba
+耙	ba	3977
 耙地	ba di	695
 耙田	ba tian	330
+肦	ban
+胈	ba
+胈	ba	5
+胞	bao
+胞	bao	46906
 胞中	bao zhong	1
 胞二磷胆碱	bao er lin dan jian	1
 胞体	bao ti	9
@@ -17076,17 +17391,25 @@ sort: by_weight
 胞霉素	bao mei su	4
 胞饮	bao yin	233
 胞饮作用	bao yin zuo yong	3
+膀	bang
+膀	bang	163712
 膀大腰圆	bang da yao yuan	1205
 膀子	bang zi	8660
 膀粗腰圆	bang cu yao yuan	25
 膀臂	bang bi	710
 膀阔腰圆	bang kuo yao yuan	155
+舨	ban
+般	ban
+般	ban	940949
 般的	ban de	1
 般的容颜	ban de rong yan	100
 般舟三昧	ban zhou san mei	100
 般配	ban pei	10300
 般阳	ban yang	1
 般雀比拉多	ban que bi la duo	100
+艕	bang
+芭	ba
+芭	ba	14409
 芭乐	ba le	9906
 芭乐汁	ba le zhi	100
 芭乐票	ba le piao	100
@@ -17129,6 +17452,8 @@ sort: by_weight
 芭蕾舞者	ba lei wu zhe	475
 芭蕾舞鞋	ba lei wu xie	410
 芭达雅	ba da ya	100
+苞	bao
+苞	bao	7827
 苞叶	bao ye	5
 苞片	bao pian	5
 苞笼万象	bao long wan xiang	1
@@ -17145,12 +17470,23 @@ sort: by_weight
 苞谷粑粑	bao gu ba ba	74
 苞谷花	bao gu hua	100
 苞谷酒	bao gu jiu	341
+茇	ba
+菝	ba
+菝	ba	15
 菝葜	ba qia	11
+菢	bao
+葆	bao
+葆	bao	3519
 葆丽美	bao li mei	21
 葆力孚	bao li fu	5
 葆台路	bao tai lu	25
 葆玖先生	bao jiu xian sheng	1295
 葆蝶家	bao die jia	192
+蒡	bang
+蒡	bang	70
+蕔	bao
+薄	bao
+薄	bao	143289
 薄冰	bao bing	40
 薄厚	bao hou	3915
 薄厚程度	bao hou cheng du	100
@@ -17185,6 +17521,14 @@ sort: by_weight
 薄被	bao bei	2060
 薄身罗马诺𬶋	bao shen luo ma nuo ju	100
 薄饼	bao bing	2640
+薭	bai
+藵	bao
+虣	bao
+蚄	bang
+蚆	ba
+蚆	ba	8
+蚌	bang
+蚌	bang	3936
 蚌壳	bang ke	3355
 蚌珠	bang zhu	215
 蚌病成珠	bang bing cheng zhu	6
@@ -17197,6 +17541,16 @@ sort: by_weight
 蚌里的珍珠	bang li de zhen zhu	100
 蚌鹬争衡	bang yu zheng heng	1
 蚌鹬相持	bang yu xiang chi	1
+蚫	bao
+蛖	bang
+蜯	bang
+蝂	ban
+螁	ban
+螌	ban
+袌	bao
+裦	bao
+褒	bao
+褒	bao	9130
 褒义	bao yi	2560
 褒义词	bao yi ci	1865
 褒公鄂公毛发动	bao gong e gong mao fa dong	1
@@ -17224,6 +17578,16 @@ sort: by_weight
 褒贬扬抑	bao bian yang yi	1
 褒赏	bao shang	385
 褒采一介	bao cai yi jie	1
+褓	bao
+褓	bao	2108
+褩	ban
+襃	bao
+襬	bai
+覇	ba
+詙	ba
+謗	bang
+谤	bang
+谤	bang	4578
 谤书	bang shu	3
 谤书一箧	bang shu yi qie	1
 谤书满箧	bang shu man qie	100
@@ -17231,6 +17595,9 @@ sort: by_weight
 谤讥于市朝	bang ji yu shi chao	100
 谤讪	bang shan	235
 谤议	bang yi	305
+豝	ba
+豹	bao
+豹	bao	58129
 豹之优雅	bao zhi you ya	1
 豹之迅捷	bao zhi xun jie	4
 豹变之才	bao bian zhi cai	100
@@ -17271,6 +17638,10 @@ sort: by_weight
 豹鲂𫚒亚目	bao fang fu ya mu	1
 豹鲂𫚒目	bao fang fu mu	1
 豹鲂𫚒鱼	bao fang fu yu	1
+賲	bao
+贁	bai
+败	bai
+败	bai	364055
 败下	bai xia	11
 败下阵来	bai xia zhen lai	9425
 败不成军	bai bu cheng jun	100
@@ -17397,9 +17768,14 @@ sort: by_weight
 败露球菇	bai lu qiu gu	100
 败鳞残甲	bai lin can jia	16
 败鼓之皮	bai gu zhi pi	100
+趵	bao
+趵	bao	341
 趵突泉	bao tu quan	9100
 趵突泉公园	bao tu quan gong yuan	1
 趵突泉景区	bao tu quan jing qu	1
+跁	ba
+跋	ba
+跋	ba	26559
 跋前疐后	ba qian zhi hou	100
 跋前踬后	ba qian zhi hou	100
 跋尾	ba wei	2
@@ -17421,6 +17797,12 @@ sort: by_weight
 跋涉长途	ba she chang tu	6
 跋胡疐尾	ba hu zhi wei	100
 跋语	ba yu	8
+跘	ban
+軷	ba
+辦	ban
+辬	ban
+邦	bang
+邦	bang	114842
 邦丙乡	bang bing xiang	1
 邦之桀兮	bang zhi jie xi	100
 邦乔维	bang qiao wei	100
@@ -17455,15 +17837,38 @@ sort: by_weight
 邦道	bang dao	4
 邦邦网	bang bang wang	47
 邦雅米	bang ya mi	1
+邫	bang
+釟	ba
+鈀	ba
+鈑	ban
+鉋	bao
+鉡	ban
+鎊	bang
+鑤	bao
+钣	ban
+钣	ban	127
 钣金	ban jin	17035
 钣金件	ban jin jian	1540
 钣金加工	ban jin jia gong	1290
 钣金加工行业	ban jin jia gong hang ye	100
 钣金行业	ban jin hang ye	100
+钯	ba
+钯	ba	872
 钯元素	ba yuan su	100
+铇	bao
+镑	bang
+镑	bang	4747
+闁	bao
+闆	ban
+阪	ban
+阪	ban	3695
 阪神大地震	ban shen da di zhen	100
+雹	bao
+雹	bao	2984
 雹子	bao zi	915
 雹灾	bao zai	2315
+霸	ba
+霸	ba	133104
 霸下	ba xia	1
 霸业	ba ye	13410
 霸业可图	ba ye ke tu	100
@@ -17578,6 +17983,9 @@ sort: by_weight
 霸面	ba mian	111
 霸鹟亚目	ba weng ya mu	1
 霸鹟科	ba weng ke	6
+靌	bao
+靶	ba
+靶	ba	11461
 靶台	ba tai	88
 靶台上	ba tai shang	100
 靶向	ba xiang	1111
@@ -17593,6 +18001,13 @@ sort: by_weight
 靶点	ba dian	766
 靶细胞	ba xi bao	3080
 靶船	ba chuan	99
+靽	ban
+靽	ban	2
+鞤	bang
+韛	bai
+頒	ban
+颁	ban
+颁	ban	15165
 颁个	ban ge	3333
 颁个奖	ban ge jiang	100
 颁个奖吧	ban ge jiang ba	100
@@ -17653,6 +18068,11 @@ sort: by_weight
 颁赐	ban ci	1220
 颁赠	ban zeng	1015
 颁赠给	ban zeng gei	100
+颰	ba
+飹	bao
+飽	bao
+饱	bao
+饱	bao	82039
 饱一顿	bao yi dun	1320
 饱不了	bao bu liao	70
 饱中枢	bao zhong shu	14
@@ -17755,9 +18175,27 @@ sort: by_weight
 饱餐秀色	bao can xiu se	210
 饱饱	bao bao	111
 饱饱的	bao bao de	3360
+駂	bao
+骲	bao
+髈	bang
+髱	bao
+魃	ba
+魃	ba	2205
+魞	ba
+魬	ban
+鮁	ba
+鮊	ba
+鮑	bao
+鲃	ba
+鲃	ba	40
+鲅	ba
+鲅	ba	390
 鲅鱼	ba yu	1335
 鲅鱼圈	ba yu quan	295
 鲅鱼圈区	ba yu quan qu	107
+鲌	ba
+鲍	bao
+鲍	bao	23115
 鲍俊凯	bao jun kai	2
 鲍勃	bao bo	13490
 鲍勃·伍德沃德	bao bo wu de wo de	100
@@ -17821,14 +18259,177 @@ sort: by_weight
 鲍鱼罐头	bao yu guan tou	69
 鲍鱼菇	bao yu gu	662
 鲍鱼鸡翼	bao yu ji yi	1
+鳵	bao
+鳻	ban
+鴇	bao
+鸨	bao
+鸨	bao	7173
 鸨儿	bao er	480
 鸨合狐绥	bao he hu sui	1
 鸨母	bao mu	1805
+鼥	ba
+齙	bao
+龅	bao
+龅	bao	789
 龅牙	bao ya	2265
 龅牙狸	bao ya li	100
 龅牙苏	bao ya su	104
+𠅬	bao
+𠐌	ba
+𠔯	ban
+𠚼	ban
+𠛋	ba
+𠟻	bai
+𠣒	bao
+𠣺	bao
+𠤏	bao
+𠦒	ban
+𠧫	ban
+𠨵	bang
+𠫛	bai
+𠬣	bang
+𠮠	bai
+𠯘	ban
+𠲑	bang
+𠳐	bang
+𠳐	bang	6
 𠳐啷	bang lang	9999
 𠳐啷𠳐啷	bang lang bang lang	9999
 𠳐𠳐	bang bang	3
 𠳐𠳐两拳	bang bang liang quan	100
 𠳐𠳐响	bang bang xiang	100
+𠵺	ba
+𠹕	bao
+𠺚	ban
+𡂟	bao
+𡉩	bao
+𡏯	bai
+𡚭	ba
+𡧖	bao
+𡭢	bai
+𡯘	ban
+𡶄	bao
+𡽲	bang
+𢁏	bang
+𢃳	ba
+𢄎	bang
+𢇷	ba
+𢈕	bai
+𢛞	bai
+𢜗	bang
+𢠭	ba
+𢪋	bang
+𢮏	bang
+𢲔	ban
+𢴬	ban
+𢶶	bang
+𢸌	bang
+𢺞	ba
+𢻷	ba
+𢼌	bao
+𣋳	bao
+𣘙	bang
+𣧙	bai
+𣪂	ban
+𣬶	ba
+𣬷	ba
+𣭀	bao
+𣮡	bang
+𣮧	bang
+𤁣	bai
+𤔣	bao
+𤙅	bai
+𤚰	bang
+𤜕	ba
+𤜱	ba
+𤝧	bao
+𤞥	bao
+𤡰	ban
+𤣸	ba
+𤤒	ba
+𤦦	ban
+𤫫	ban
+𤱵	bang
+𤳖	ban
+𤽹	bai
+𤿈	bao
+𥀂	bang
+𥄹	bao
+𥎱	ba
+𥐙	ba
+𥝧	ba
+𥥛	ba
+𥬝	bai
+𥭓	bao
+𥷁	ban
+𥹓	ban
+𦎊	ban
+𦓧	ba
+𦙹	ban
+𦝤	ban
+𦡕	bao
+𦢊	bao
+𦣺	bai
+𦣻	bai
+𦩋	bai
+𦫙	ba
+𦰥	bang
+𦳞	bai
+𦳺	ba
+𦾭	bang
+𧇥	ban
+𧌿	ban
+𧎱	ba
+𧘑	bao
+𧝘	bao
+𧭤	bao
+𧲧	ba
+𧵢	bao
+𧺡	ba
+𧺺	ba
+𧿏	ba
+𧿨	ban
+𨃅	bai
+𨇅	bao
+𨊹	ba
+𨐦	ban
+𨐱	ban
+𨐾	ban
+𨚔	bao
+𨠖	bao
+𨢐	bang
+𨭉	ban
+𨭉	ban	1
+𨰦	bao
+𨰻	bao
+𩃴	ba
+𩊅	bao
+𩊤	ba
+𩋂	bai
+𩋮	bang
+𩍂	bao
+𩍗	bang
+𩎻	bai
+𩏞	bai
+𩑢	bai
+𩔮	ban
+𩖣	ba
+𩖽	ba
+𩚥	ba
+𩛞	bao
+𩡩	ba
+𩢔	ban
+𩦠	bang
+𩨜	ba
+𩬽	bao
+𩭧	ban
+𩭼	bao
+𩮗	bang
+𩹏	ba
+𩽷	ba
+𩾡	bao
+𩿉	ban
+𩿓	bao
+𪄕	ban
+𪏶	bao
+𪒋	ban

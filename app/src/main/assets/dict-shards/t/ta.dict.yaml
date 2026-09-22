@@ -3,6 +3,13 @@ name: merged.ta
 version: "1.0"
 sort: by_weight
 ...
+㑷	tai
+㑽	tang
+㒉	tang
+㒎	tan
+㒓	ta
+㒗	tai
+㓥	tang
 㓥房	tang fang	123
 㓥牛	tang niu	123
 㓥猪	tang zhu	123
@@ -10,6 +17,99 @@ sort: by_weight
 㓥鱼	tang yu	9
 㓥鸡	tang ji	123
 㓥鸭	tang ya	123
+㗳	ta
+㘆	tai
+㙜	tai
+㙵	tai
+㙶	tang
+㚐	tao
+㛥	ta
+㛶	tan
+㜍	tang
+㣍	tai
+㣛	ta
+㣵	ta
+㥭	tai
+㦂	tang
+㧺	ta
+㪔	tan
+㫜	tan
+㬃	tai
+㭻	tang
+㭼	ta
+㯓	ta
+㲜	tan
+㲥	tang
+㲭	tan
+㳠	ta
+㳫	ta
+㵅	tan
+㶒	tan
+㷋	tan
+㷘	tai
+㸀	tai
+㹗	tao
+㹺	ta
+㺚	ta
+㺥	tan
+㼒	tang
+㼺	tang
+㽎	tan
+㽑	tan
+㿩	tang
+㿹	ta
+䀡	tan
+䂿	ta
+䃪	tan
+䄻	tao
+䅯	tang
+䆱	tan
+䈋	ta
+䈚	tai
+䈳	ta
+䉎	tang
+䉡	tan
+䊤	tan
+䌅	tang
+䌈	ta
+䍇	ta
+䍝	ta
+䎓	ta
+䏙	tan
+䐺	tan
+䑓	tai
+䑜	ta
+䑽	ta
+䓠	ta
+䕊	tan
+䕋	tang
+䗊	tan
+䚯	tao
+䛌	tao
+䛬	tao
+䜖	tan
+䜚	ta
+䞡	tan
+䟖	tang
+䠅	ta
+䢰	tai
+䢻	tan
+䣘	tang
+䣘	tang	1
+䣭	tai
+䦔	tan
+䧜	tang
+䨢	tan
+䪚	ta
+䬞	tao
+䱇	tao
+䳴	ta
+䵚	tao
+䵬	ta
+䶀	ta
+䶁	ta
+他	ta
+他	ta	17596473
 他一	ta yi	200435
 他一下	ta yi xia	881
 他一个人	ta yi ge ren	20535
@@ -982,7 +1082,13 @@ sort: by_weight
 他高兴	ta gao xing	8755
 他默认	ta mo ren	100
 他默认了	ta mo ren le	100
+伖	tang
+侤	ta
+倓	tan
+倓	tan	74
 倓虚	tan xu	8
+倘	tang
+倘	tang	34043
 倘不	tang bu	2350
 倘不如此	tang bu ru ci	70
 倘使	tang shi	3715
@@ -1001,8 +1107,23 @@ sort: by_weight
 倘若是	tang ruo shi	2510
 倘若有	tang ruo you	2265
 倘若能	tang ruo neng	1290
+偒	tang
+傏	tang
+傝	ta
+傝	tan
+傥	tang
+傥	tang	3834
 傥来之物	tang lai zhi wu	111
 傥荡	tang dang	55
+僋	tan
+儃	tan
+儓	tai
+儻	tang
+冭	tai
+劏	tang
+匋	tao
+叨	tao
+叨	tao	1000
 叨你的光	tao ni de guang	100
 叨你的光了	tao ni de guang le	100
 叨光	tao guang	299
@@ -1013,6 +1134,8 @@ sort: by_weight
 叨逢其盛	tao feng qi sheng	100
 叨陪末座	tao pei mo zuo	25
 叨陪鲤对	tao pei li dui	100
+台	tai
+台	tai	676961
 台一直	tai yi zhi	13
 台一线	tai yi xian	100
 台七线	tai qi xian	100
@@ -1776,6 +1899,8 @@ sort: by_weight
 台骀山	tai dai shan	100
 台鱼乡	tai yu xiang	1
 台鹿舟蛾	tai lu zhou e	1
+叹	tan
+叹	tan	421997
 叹一口气	tan yi kou qi	4155
 叹为	tan wei	1520
 叹为观止	tan wei guan zhi	29080
@@ -1819,6 +1944,11 @@ sort: by_weight
 叹道	tan dao	51485
 叹门外楼头	tan men wai lou tou	1180
 叹问号	tan wen hao	3333
+呔	tai
+呔	tai	1
+咷	tao
+唐	tang
+唐	tang	39749
 唐一军	tang yi jun	189
 唐一白	tang yi bai	100
 唐三	tang san	1111
@@ -2258,7 +2388,14 @@ sort: by_weight
 唐鱼	tang yu	2
 唐鹤德	tang he de	107
 唐龙	tang long	1
+啕	tao
+啕	tao	6152
+啴	tan
+啴	tan	1
 啴啴	tan tan	1
+啺	tang
+嗒	ta
+嗒	ta	1
 嗒丧	ta sang	1
 嗒丧而归	ta sang er gui	1111
 嗒焉若丧	ta yan ruo sang	100
@@ -2266,11 +2403,22 @@ sort: by_weight
 嗒然自丧	ta ran zi sang	100
 嗒然若丧	ta ran ruo sang	40
 嗒然若失	ta ran ruo shi	40
+嗿	tan
+嘆	tan
+嘡	tang
+嘡	tang	289
 嘡啷	tang lang	1111
 嘡啷一声	tang lang yi sheng	1111
 嘡嘡	tang tang	234
 嘡嘡两声	tang tang liang sheng	2
 嘡的一声	tang de yi sheng	234
+嘽	tan
+嘾	tan
+嚃	ta
+嚺	ta
+囼	tai
+坍	tan
+坍	tan	5505
 坍台	tan tai	280
 坍圮	tan pi	105
 坍塌	tan ta	26655
@@ -2280,6 +2428,8 @@ sort: by_weight
 坍落度	tan luo du	2115
 坍落度损失	tan luo du sun shi	100
 坍陷	tan xian	245
+坛	tan
+坛	tan	74267
 坛下乡	tan xia xiang	6
 坛主	tan zhu	4965
 坛佳酿	tan jia niang	100
@@ -2305,6 +2455,9 @@ sort: by_weight
 坛陈年	tan chen nian	100
 坛顶	tan ding	3
 坛高粱	tan gao liang	100
+坣	tang
+坦	tan
+坦	tan	154240
 坦佩雷	tan pei lei	555
 坦克	tan ke	143310
 坦克乘员	tan ke cheng yuan	480
@@ -2404,6 +2557,11 @@ sort: by_weight
 坦陈	tan chen	4175
 坦陈己见	tan chen ji jian	100
 坦露	tan lu	2965
+坮	tai
+埫	tang	5
+埮	tan
+堂	tang
+堂	tang	40819
 堂上	tang shang	15535
 堂上一呼	tang shang yi hu	27
 堂上四库书	tang shang si ku shu	2
@@ -2484,6 +2642,8 @@ sort: by_weight
 堂高廉远	tang gao lian yuan	1
 堂高级远	tang gao ji yuan	1
 堂鼓	tang gu	765
+塌	ta
+塌	ta	51754
 塌一个	ta yi ge	100
 塌下	ta xia	3450
 塌下去	ta xia qu	100
@@ -2515,6 +2675,8 @@ sort: by_weight
 塌鼻	ta bi	835
 塌鼻子	ta bi zi	440
 塌鼻猴	ta bi hou	2
+塔	ta
+塔	ta	178293
 塔上	ta shang	7035
 塔上村	ta shang cun	9
 塔下	ta xia	7110
@@ -2776,6 +2938,8 @@ sort: by_weight
 塔鲁长袜	ta lu chang wa	1
 塔鲁靴	ta lu xue	1
 塔黄	ta huang	16
+塘	tang
+塘	tang	26894
 塘上	tang shang	30
 塘上村	tang shang cun	17
 塘下村	tang xia cun	51
@@ -2843,6 +3007,14 @@ sort: by_weight
 塘鱼	tang yu	1030
 塘鲤鱼	tang li yu	250
 塘麻	tang ma	3
+墖	ta
+墰	tan
+墵	tan
+壇	tan
+壜	tan
+大	tai
+太	tai
+太	tai	1962845
 太一样了	tai yi yang le	760
 太一般了	tai yi ban le	815
 太丁	tai ding	2
@@ -5548,6 +5720,11 @@ sort: by_weight
 太鼓	tai gu	1780
 太龙药业	tai long yao ye	142
 太𪨊	tai song	2
+夲	tao
+夳	tai
+夵	tao
+套	tao
+套	tao	478641
 套一下	tao yi xia	65
 套一个	tao yi ge	73
 套一套	tao yi tao	123
@@ -5723,6 +5900,9 @@ sort: by_weight
 套马	tao ma	1120
 套马杆	tao ma gan	555
 套马的汉子	tao ma de han zi	194
+奤	tai
+她	ta
+她	ta	7870163
 她一下	ta yi xia	880
 她一个人	ta yi ge ren	100
 她一定会	ta yi ding hui	8770
@@ -6169,6 +6349,12 @@ sort: by_weight
 她高兴	ta gao xing	855
 她默认	ta mo ren	100
 她默认了	ta mo ren le	100
+婒	tan
+嫍	tao
+嬯	tai
+孡	tai
+它	ta
+它	ta	1298568
 它一下	ta yi xia	288
 它不	ta bu	191710
 它不仅	ta bu jin	54250
@@ -6290,11 +6476,21 @@ sort: by_weight
 它采用了	ta cai yong le	11065
 它重量轻	ta zhong liang qing	100
 它随着	ta sui zhe	111
+宕	tan	1
 宕昌	tan chang	2
 宕昌前个木虱	tan chang qian ge mu shi	1
 宕昌县	tan chang xian	895
 宕昌山	tan chang shan	1
+崉	ta
+嵣	tang
+帑	tang
+帑	tang	653
+幍	tao
+弢	tao
+弢	tao	108
 弢迹匿光	tao ji ni guang	1
+弹	tan
+弹	tan	355948
 弹一下	tan yi xia	1180
 弹一弹	tan yi tan	100
 弹一曲	tan yi qu	100
@@ -6715,12 +6911,20 @@ sort: by_weight
 弹钢琴的手	tan gang qin de shou	100
 弹铗无鱼	tan jia wu yu	100
 弹音	tan yin	5
+弾	tan
+彈	tan
+忐	tan
+忐	tan	15677
 忐上忑下	tan shang te xia	1
 忐忑	tan te	22945
 忐忑不安	tan te bu an	14345
 忐忑不定	tan te bu ding	8
 忐忑感	tan te gan	100
 忐忑或期待	tan te huo qi dai	100
+忕	tai
+忲	tai
+态	tai
+态	tai	478661
 态函数	tai han shu	9
 态势	tai shi	213880
 态叠加	tai die jia	100
@@ -6807,6 +7011,22 @@ sort: by_weight
 态度顽固	tai du wan gu	60
 态度鲜明	tai du xian ming	100
 态浓意远淑且真	tai nong yi yuan shu qie zhen	2
+怹	tan
+怹	tan	1
+惔	tan
+惔	tan	30
+惝	tang
+惝	tang	0
+愓	tang
+慆	tao
+慆	tao	14
+態	tai
+憛	tan
+憳	tan
+憻	tan
+戃	tang
+抬	tai
+抬	tai	352793
 抬一下	tai yi xia	100
 抬一手	tai yi shou	143
 抬上	tai shang	8490
@@ -6948,6 +7168,9 @@ sort: by_weight
 抬高自己	tai gao zi ji	3705
 抬高身价	tai gao shen jia	560
 抬龙头	tai long tou	113
+抭	tao
+拓	ta
+拓	ta	63143
 拓写	ta xie	50
 拓印	ta yin	5905
 拓尔思	ta er si	88
@@ -6955,8 +7178,12 @@ sort: by_weight
 拓本	ta ben	5135
 拓片	ta pian	5475
 拓蓝纸	ta lan zhi	100
+挞	ta
+挞	ta	2751
 挞伐	ta fa	1
 挞挞面	ta ta mian	12
+掏	tao
+掏	tao	102071
 掏一掏	tao yi tao	789
 掏上了	tao shang le	234
 掏不出	tao bu chu	485
@@ -7017,6 +7244,8 @@ sort: by_weight
 掏鸟巢	tao niao chao	23
 掏鸟窝	tao niao wo	123
 掏鸟蛋	tao niao dan	123
+探	tan
+探	tan	272677
 探不出	tan bu chu	160
 探不到	tan bu dao	315
 探个究竟	tan ge jiu jing	100
@@ -7281,10 +7510,16 @@ sort: by_weight
 探马赤军	tan ma chi jun	310
 探骊得珠	tan li de zhu	100
 探骊获珠	tan li huo zhu	100
+搨	ta
+搪	tang
+搪	tang	6143
 搪塞	tang se	13715
 搪瓷	tang ci	14705
 搪瓷厂	tang ci chang	745
 搪瓷盆	tang ci pen	535
+搯	tao
+摊	tan
+摊	tan	67974
 摊丁入亩	tan ding ru mu	737
 摊上	tan shang	9995
 摊上了	tan shang le	100
@@ -7342,8 +7577,23 @@ sort: by_weight
 摊销	tan xiao	55835
 摊饼	tan bing	3698
 摊鸡蛋	tan ji dan	775
+摥	tang
+撻	ta
+擡	tai
+擹	tan
+攤	tan
+斄	tai
+旲	tai
+昙	tan
+昙	tan	5506
 昙花	tan hua	9640
 昙花一现	tan hua yi xian	17150
+暺	tan
+曇	tan
+曭	tang
+枱	tai
+桃	tao
+桃	tao	107204
 桃一点叶蝉	tao yi dian ye chan	6
 桃一点斑叶蝉	tao yi dian ban ye chan	1
 桃三	tao san	20
@@ -7700,9 +7950,13 @@ sort: by_weight
 桃香	tao xiang	19
 桃黄颈天牛	tao huang jing tian niu	1
 桃龙藏族乡	tao long zang zu xiang	6
+梼	tao
+梼	tao	371
 梼昧	tao mei	1
 梼杌	tao wu	1
 梼杌饕餮	tao wu tao tie	1
+棠	tang
+棠	tang	31633
 棠下街	tang xia jie	138
 棠东	tang dong	126
 棠张	tang zhang	5
@@ -7718,10 +7972,24 @@ sort: by_weight
 棠棣村	tang di cun	11
 棠花吐蕊	tang hua tu rui	3
 棠花胡同	tang hua hu tong	4
+榃	tan
+榃	tan	1
+榙	ta
+榶	tang
+榻	ta
+榻	ta	16283
 榻上	ta shang	6595
 榻前	ta qian	1355
 榻榻米	ta ta mi	3965
 榻榻米地台	ta ta mi di tai	100
+槄	tao
+樘	tang
+樘	tang	443
+橖	tang
+橝	tan
+橽	ta
+檀	tan
+檀	tan	12516
 檀健次	tan jian ci	106
 檀君王	tan jun wang	100
 檀多多	tan duo duo	100
@@ -7763,7 +8031,16 @@ sort: by_weight
 檀香苑	tan xiang yuan	8
 檀香苑小区	tan xiang yuan xiao qu	2
 檀黎斗	tan li dou	174
+檮	tao
+檯	tai
+歎	tan
+毯	tan
+毯	tan	25831
 毯子	tan zi	16260
+毾	ta
+汏	tai
+汤	tang
+汤	tang	124040
 汤一介	tang yi jie	287
 汤下面	tang xia mian	100
 汤不热	tang bu re	100
@@ -7956,13 +8233,20 @@ sort: by_weight
 汤面	tang mian	5625
 汤饼筵	tang bing yan	100
 汤鲜	tang xian	1111
+汰	tai
+汰	tai	14511
 汰劣留良	tai lie liu liang	1
 汰换	tai huan	1347
 汰旧建新	tai jiu jian xin	87
 汰旧换新	tai jiu huan xin	455
 汰石子	tai shi zi	9999
+汱	tai
+沓	ta
+沓	ta	8322
 沓乱	ta luan	20
 沓杂	ta za	65
+泰	tai
+泰	tai	138290
 泰东路	tai dong lu	8
 泰东路渡口	tai dong lu du kou	2
 泰中花园	tai zhong hua yuan	8
@@ -8286,6 +8570,8 @@ sort: by_weight
 泰鹏大厦	tai peng da sha	1
 泰麒威	tai qi wei	1
 泰龙	tai long	3495
+洮	tao
+洮	tao	974
 洮东乡	tao dong xiang	1
 洮北	tao bei	170
 洮北区	tao bei qu	645
@@ -8300,6 +8586,8 @@ sort: by_weight
 洮湖	tao hu	2
 洮砚	tao yan	1670
 洮砚乡	tao yan xiang	25
+涛	tao
+涛	tao	105605
 涛动	tao dong	2
 涛叔	tao shu	1
 涛哥	tao ge	1111
@@ -8308,6 +8596,10 @@ sort: by_weight
 涛妹	tao mei	2
 涛生云灭	tao sheng yun mie	100
 涛白雪山来	tao bai xue shan lai	1
+涭	tao
+涾	ta
+淌	tang
+淌	tang	33568
 淌下	tang xia	433
 淌了	tang le	1940
 淌出	tang chu	3025
@@ -8324,6 +8616,8 @@ sort: by_weight
 淌着血	tang zhe xue	100
 淌血	tang xie	2365
 淌血	tang xue	2365
+淘	tao
+淘	tao	29357
 淘一淘	tao yi tao	456
 淘个宝	tao ge bao	100
 淘乐节	tao le jie	100
@@ -8429,6 +8723,10 @@ sort: by_weight
 淘金者	tao jin zhe	4490
 淘金路	tao jin lu	1395
 淘闲气	tao xian qi	100
+湠	tan
+湯	tang
+溏	tang
+溏	tang	213
 溏便	tang bian	1200
 溏心	tang xin	128
 溏心儿	tang xin er	36
@@ -8437,6 +8735,12 @@ sort: by_weight
 溏心蛋	tang xin dan	143
 溏心鲍鱼	tang xin bao yu	143
 溏心鸡蛋	tang xin ji dan	143
+溙	tai
+溚	ta
+溻	ta
+溻	ta	105
+滔	tao
+滔	tao	37516
 滔天	tao tian	12275
 滔天之势	tao tian zhi shi	5
 滔天之罪	tao tian zhi zui	100
@@ -8462,6 +8766,8 @@ sort: by_weight
 滔滔皆是	tao tao jie shi	1
 滔滔者天下皆是	tao tao zhe tian xia jie shi	16
 滔滔者天下皆是也	tao tao zhe tian xia jie shi ye	4
+滩	tan
+滩	tan	49853
 滩下	tan xia	5
 滩地	tan di	5465
 滩堆乡	tan dui xiang	1
@@ -8480,6 +8786,12 @@ sort: by_weight
 滩羊	tan yang	1794
 滩羊皮	tan yang pi	105
 滩面乡	tan mian xiang	1
+漟	tang
+漯	ta
+漯	ta	0
+潬	tan
+潭	tan
+潭	tan	35887
 潭上村	tan shang cun	2
 潭中	tan zhong	11
 潭头村	tan tou cun	9
@@ -8508,6 +8820,8 @@ sort: by_weight
 潭里	tan li	3425
 潭阳路	tan yang lu	1
 潭面无风镜未磨	tan mian wu feng jing wei mo	1180
+澹	tan
+澹	tan	1
 澹台	tan tai	1
 澹台公冶	tan tai gong ye	100
 澹台明月	tan tai ming yue	1
@@ -8515,6 +8829,13 @@ sort: by_weight
 澹台灭明	tan tai mie ming	1
 澹台烬	tan tai jin	1
 澹台璇	tan tai xuan	1
+澾	ta
+濌	ta
+濤	tao
+灘	tan
+灙	tang
+炭	tan
+炭	tan	19147
 炭儿胡同	tan er hu tong	14
 炭包	tan bao	2222
 炭化	tan hua	999
@@ -8557,6 +8878,11 @@ sort: by_weight
 炭黑	tan hei	14420
 炭黑突肩花天牛	tan hei tu jian hua tian niu	1
 炭黑行业	tan hei hang ye	100
+炱	tai
+炱	tai	88
+炲	tai
+烫	tang
+烫	tang	41461
 烫一下	tang yi xia	4315
 烫一个	tang yi ge	100
 烫一个发	tang yi ge fa	100
@@ -8636,9 +8962,32 @@ sort: by_weight
 烫面蒸饺	tang mian zheng jiao	37
 烫面饺	tang mian jiao	16
 烫骨碎补	tang gu sui bu	2
+焘	tao
+焘	tao	8565
+煻	tang
+燂	tan
+燙	tang
+燤	tai
+燾	tao
+爣	tang
+牠	ta
+牠	ta	1
+狧	ta
+獭	ta
+獭	ta	975
 獭兔	ta tu	9935
 獭祭	ta ji	1
 獭祭鱼	ta ji yu	100
+獺	ta
+珆	tai
+瑫	tao
+瑭	tang
+瑭	tang	1166
+璮	tan
+璮	tan	35
+痑	tan
+痰	tan
+痰	tan	7445
 痰中	tan zhong	11
 痰厥	tan jue	6
 痰咳净	tan ke jing	14
@@ -8669,6 +9018,8 @@ sort: by_weight
 痰量	tan liang	3333
 痰阻肺络	tan zu fei luo	1
 痰饮	tan yin	4
+瘫	tan
+瘫	tan	28249
 瘫下来	tan xia lai	2
 瘫了	tan le	1180
 瘫倒	tan dao	6505
@@ -8687,6 +9038,10 @@ sort: by_weight
 瘫痪病人	tan huan bing ren	480
 瘫痪者	tan huan zhe	310
 瘫软	tan ruan	8705
+癱	tan
+矘	tang
+碳	tan
+碳	tan	7195
 碳三植物	tan san zhi wu	15
 碳中和	tan zhong he	190
 碳元素	tan yuan su	100
@@ -8793,6 +9148,20 @@ sort: by_weight
 碳隔离	tan ge li	100
 碳黑	tan hei	5905
 碳黑厂	tan hei chang	2
+磄	tang
+磹	tan	1
+祂	ta
+祂	ta	837
+祹	tao
+禟	tang
+禢	ta
+箈	tai
+篖	tang
+籉	tai
+粏	ta
+糃	tang
+糖	tang
+糖	tang	60725
 糖不甩	tang bu shuai	365
 糖业	tang ye	14670
 糖丸	tang wan	330
@@ -9024,17 +9393,36 @@ sort: by_weight
 糖饴	tang yi	95
 糖饼	tang bing	1686
 糖麻圆	tang ma yuan	11
+糛	tang
+絛	tao
+綯	tao
+緂	tan
+縚	tao
+縧	tao
+繵	tan
+绦	tao
+绦	tao	1281
 绦儿胡同	tao er hu tong	1
 绦子	tao zi	280
 绦形鞭带吸虫	tao xing bian dai xi chong	1
 绦虫	tao chong	3960
 绦虫病	tao chong bing	875
 绦虫纲	tao chong gang	100
+绹	tao
+绹	tao	181
+罈	tan
+罎	tan
+羰	tang
+羰	tang	43
 羰基	tang ji	3885
 羰基化	tang ji hua	1160
 羰基镍	tang ji nie	9
+耥	tang
+耥	tang	15
 耥稻	tang dao	5
 耥耙	tang ba	2
+肽	tai
+肽	tai	787
 肽单位	tai dan wei	100
 肽扫描	tai sao miao	10
 肽核酸	tai he suan	40
@@ -9044,6 +9432,8 @@ sort: by_weight
 肽酶	tai mei	1975
 肽链	tai lian	2245
 肽键	tai jian	369
+胎	tai
+胎	tai	54438
 胎中	tai zhong	1875
 胎中胎	tai zhong tai	13
 胎产式	tai chan shi	1
@@ -9136,9 +9526,18 @@ sort: by_weight
 胎鼬	tai you	1
 胎鼬鳚亚目	tai you wei ya mu	100
 胎鼬鳚科	tai you wei ke	100
+膅	tang
+膛	tang
+膛	tang	37836
 膛内	tang nei	545
 膛子	tang zi	20
 膛线	tang xian	123
+臺	tai
+舑	tan
+舕	tan
+舦	tai
+苔	tai
+苔	tai	8045
 苔丝	tai si	4605
 苔原	tai yuan	286
 苔干羊肉丝	tai gan yang rou si	6
@@ -9156,7 +9555,23 @@ sort: by_weight
 苔藓	tai xian	12720
 苔藓样变	tai xian yang bian	6
 苔藓植物	tai xian zhi wu	1285
+菭	tai
+菼	tan
+菼	tan	22
+萄	tao
+萄	tao	29505
+蓎	tang
+薚	tang
+薹	tai
+薹	tai	959
 薹用芥菜	tai yong jie cai	100
+藫	tan
+蜪	tao
+蝪	tang
+螗	tang
+螗	tang	53
+螳	tang
+螳	tang	5195
 螳臂当车	tang bi dang che	885
 螳臂当辙	tang bi dang zhe	1
 螳臂扼辙	tang bi e zhe	1
@@ -9171,6 +9586,8 @@ sort: by_weight
 螳螂捕蝉	tang lang bu chan	3015
 螳螂捕蝉黄雀在后	tang lang bu chan huang que zai hou	80
 螳螂粉	tang lang fen	100
+袒	tan
+袒	tan	6547
 袒护	tan hu	6860
 袒护着	tan hu zhe	75
 袒胸	tan xiong	1150
@@ -9186,9 +9603,25 @@ sort: by_weight
 袒露	tan lu	7485
 袒露出	tan lu chu	375
 袒露着	tan lu zhe	470
+裪	tao
+褟	ta
+褟	ta	44
+襢	tan
+覃	tan
+覃	tan	5474
 覃异之	tan yi zhi	2
 覃彪喜	tan biao xi	1
 覃思	tan si	2
+討	tao
+詜	tao
+誻	ta
+談	tan
+謟	tao
+譚	tan
+譠	tan
+譶	ta
+讨	tao
+讨	tao	282187
 讨不了	tao bu liao	1085
 讨不了好	tao bu liao hao	100
 讨不出	tao bu chu	70
@@ -9366,6 +9799,8 @@ sort: by_weight
 讨饭的	tao fan de	100
 讨饶	tao rao	1930
 讨鬼传	tao gui zhuan	100
+谈	tan
+谈	tan	536829
 谈一下	tan yi xia	18715
 谈一个	tan yi ge	63
 谈一场	tan yi chang	100
@@ -9616,6 +10051,8 @@ sort: by_weight
 谈霏玉屑	tan fei yu xie	100
 谈音乐	tan yin yue	100
 谈项目	tan xiang mu	5555
+谭	tan
+谭	tan	48779
 谭一平	tan yi ping	3
 谭中军	tan zhong jun	5
 谭书记	tan shu ji	100
@@ -9687,6 +10124,10 @@ sort: by_weight
 谭颖	tan ying	83
 谭飞	tan fei	368
 谭鱼头	tan yu tou	5855
+貚	tan
+貪	tan
+贪	tan
+贪	tan	85988
 贪不了	tan bu liao	30
 贪了	tan le	5555
 贪了多少钱	tan le duo shao qian	100
@@ -9879,21 +10320,31 @@ sort: by_weight
 贪饵丧生	tan er sang sheng	1
 贪黑	tan hei	1180
 贪黩无艺	tan du wu yi	100
+赯	tang
+趟	tang
+趟	tang	55492
 趟地	tang di	1612
 趟趟	tang tang	590
 趟过女人河的男人	tang guo nv ren he de nan ren	1
 趟雷	tang lei	100
 趟马	tang ma	111
+趿	ta
+趿	ta	1496
 趿拉	ta la	1120
 趿拉儿	ta la er	9999
 趿拉板儿	ta la ban er	20
 趿拉着	ta la zhe	123
 趿拉着鞋	ta la zhe xie	123
 趿着	ta zhe	965
+跆	tai
+跆	tai	3161
 跆拳道	tai quan dao	38985
 跆拳道俱乐部	tai quan dao ju le bu	100
 跆拳道服	tai quan dao fu	3333
 跆拳道馆	tai quan dao guan	1275
+跳	tao
+踏	ta
+踏	ta	139340
 踏一下	ta yi xia	123
 踏一步	ta yi bu	100
 踏上	ta shang	83165
@@ -10023,8 +10474,13 @@ sort: by_weight
 踏青赏花	ta qing shang hua	116
 踏鞴物语	ta bei wu yu	100
 踏鞴砂	ta bei sha	100
+踼	tang
+蹋	ta
+蹋	ta	8940
 蹋藕野泥中	ta ou ye ni zhong	1
 蹋顿	ta dun	2
+蹚	tang
+蹚	tang	413
 蹚他的浑水	tang ta de hun shui	100
 蹚你的浑水	tang ni de hun shui	100
 蹚我的浑水	tang wo de hun shui	100
@@ -10041,6 +10497,11 @@ sort: by_weight
 蹚那个浑水	tang na ge hun shui	100
 蹚那儿浑水	tang na er hun shui	100
 蹚那浑水	tang na hun shui	9999
+蹹	ta
+躂	ta
+躢	ta
+躺	tang
+躺	tang	220026
 躺一下	tang yi xia	100
 躺一会儿	tang yi hui er	100
 躺一会儿啊	tang yi hui er a	100
@@ -10150,6 +10611,10 @@ sort: by_weight
 躺进	tang jin	1535
 躺进去	tang jin qu	100
 躺进来	tang jin lai	100
+轁	tao
+迯	tao
+逃	tao
+逃	tao	388318
 逃上去	tao shang qu	100
 逃上来	tao shang lai	100
 逃下去	tao xia qu	100
@@ -10326,15 +10791,46 @@ sort: by_weight
 逃难	tao nan	10640
 逃难所	tao nan suo	100
 逃顶	tao ding	986
+遝	ta
+遢	ta
+遢	ta	4429
+邰	tai
+邰	tai	192
 邰姓	tai xing	1
 邰正宵	tai zheng xiao	100
+郯	tan
+郯	tan	297
 郯国故城	tan guo gu cheng	100
 郯城县	tan cheng xian	367
 郯城恐龙足印化石	tan cheng kong long zu yin hua shi	1
+鄌	tang
+鄌	tang	1
 鄌郚	tang wu	3
 鄌郚镇	tang wu zhen	10
+酞	tai
+酞	tai	542
 酞丁安	tai ding an	16
 酞丁安乳膏	tai ding an ru gao	2
+醄	tao
+醈	tan
+醓	tan
+醣	tang
+醰	tan
+鈦	tai
+鉈	ta
+鉭	tan
+鋾	tao
+錔	ta
+錟	tan
+鎉	ta
+鎑	ta
+鎕	tang
+鎲	tang
+鏜	tang
+鐋	tang
+钂	tang
+钛	tai
+钛	tai	2229
 钛元素	tai yuan su	100
 钛合金	tai he jin	16275
 钛晶	tai jing	3225
@@ -10350,9 +10846,13 @@ sort: by_weight
 钛金卡	tai jin ka	6
 钛铁矿	tai tie kuang	100
 钛阳极	tai yang ji	460
+钽	tan
+钽	tan	36
 钽元素	tan yuan su	100
 钽电容	tan dian rong	4200
 钽矿	tan kuang	5
+铊	ta
+铊	ta	194
 铊中毒	ta zhong du	100
 铊中毒事件	ta zhong du shi jian	100
 铊中毒案	ta zhong du an	100
@@ -10362,11 +10862,32 @@ sort: by_weight
 铊污染	ta wu ran	104
 铊盐	ta yan	2
 铊离子	ta li zi	100
+铴	tang
+铴	tang	5
 铴锣	tang luo	20
+锬	tan
+锬	tan	39
+镋	tang
+镋	tang	23
+镗	tang
+镗	tang	831
 镗床	tang chuang	56
 镗鞳	tang ta	1
+镡	tan
+镡	tan	141
+闒	ta
+闛	tang
+闟	ta
+闥	ta
+闧	ta
+闼	ta
+闼	ta	752
+阘	ta
+阘	ta	48
 阘懦	ta nuo	1
 阘茸	ta rong	85
+陶	tao
+陶	tao	95450
 陶下	tao xia	3
 陶东风	tao dong feng	34
 陶乐县	tao le xian	425
@@ -10565,6 +11086,18 @@ sort: by_weight
 陶陶然	tao tao ran	365
 陶陶自得	tao tao zi de	100
 陶鬲	tao li	5
+隚	tang
+鞀	tao
+鞈	ta
+鞉	tao
+鞜	ta
+鞱	tao
+鞳	ta
+鞳	ta	6
+鞺	tang
+韜	tao
+韬	tao
+韬	tao	11434
 韬光	tao guang	1270
 韬光俟奋	tao guang si fen	1
 韬光养晦	tao guang yang hui	5705
@@ -10588,6 +11121,14 @@ sort: by_weight
 韬略	tao lve	4415
 韬神晦迹	tao shen hui ji	1
 韬迹隐智	tao ji yin zhi	1
+顃	tan
+颱	tai
+飸	tao
+餹	tang
+饀	tao
+饄	tang
+饕	tao
+饕	tao	3154
 饕口馋舌	tao kou chan she	1
 饕客	tao ke	47
 饕餮	tao tie	18495
@@ -10595,11 +11136,230 @@ sort: by_weight
 饕餮大餐	tao tie da can	100
 饕餮盛宴	tao tie sheng yan	100
 饕餮纹	tao tie wen	100
+駘	tai
+駣	tao
+騊	tao
+骀	tai
+骀	tai	79
 骀背鹤发	tai bei he fa	100
+鮐	tai
+鮙	ta
+鰨	ta
+鲐	tai
+鲐	tai	14
 鲐背鹤发	tai bei he fa	111
 鲐鱼	tai yu	16
 鲐鲅鱼	tai ba yu	100
+鳎	ta
+鳎	ta	208
 鳎目鱼	ta mu yu	70
+鶶	tang
+鼗	tao
+鼗	tao	50
 鼗鼓	tao gu	5
+鼞	tang
+鿎	ta	1
 鿎石街道	ta shi jie dao	100
+𠇏	tao
+𠉂	ta
+𠌪	tao
+𠓝	tao
+𠗆	tao
+𠗶	tang
+𠚜	tao
+𠞞	tao
+𠢃	tang
+𠫶	tan
+𠬢	tao
+𠴲	ta
+𠷍	ta
+𠹔	tang
+𠻪	tan
+𡂖	ta
+𡅄	tan
+𡇷	tai
+𡊨	tan
+𡌩	ta
+𡍒	tao
+𡒢	tai
+𡺫	tao
+𡿓	tang
+𢃕	ta
+𢅀	tan
+𢇧	tan
+𢇰	tan
+𢓘	tao
+𢔇	tao
+𢖤	tai
+𢞠	ta
+𢠵	tang
+𢴳	tang
+𢺉	ta
+𢻿	tang
+𣁗	tan
+𣎲	tang
+𣗶	ta
+𣙟	tang
+𣝋	ta
+𣞔	tan
+𣢌	tan
+𣣿	tai
+𣥂	ta
+𣥷	ta
+𣨔	tao
+𣯚	ta
+𣰺	tao
+𣴽	tan
+𣵢	tan
+𣸙	tan
+𣺮	tao
+𣼚	tan
+𣽯	tan
+𤄥	ta
+𤎥	tan
+𤐔	tan
+𤒻	ta
+𤗿	tai
+𤘸	tao
+𤙎	tao
+𤚟	tao
+𤚫	tang
+𤛣	ta
+𤠐	ta
+𤠟	ta
+𤠯	tang
+𤨐	tao
+𤴻	tao
+𤵟	tao
+𤺺	tan
+𤾉	tang
+𤿽	ta
+𥋡	tang
+𥗓	ta
+𥙉	tai
+𥩒	tan
+𥰜	tao
+𥰨	tan
+𥹠	tan
+𥼟	tan
+𥼮	tan
+𦃖	tan
+𦃡	tao
+𦌪	tan
+𦍒	ta
+𦍷	tao
+𦐇	ta
+𦑇	ta
+𦑲	ta
+𦑶	ta
+𦑼	ta
+𦒰	tai
+𦗡	tan
+𦙇	tan
+𦧏	tan
+𦧛	ta
+𦧞	ta
+𦧟	ta
+𦧥	ta
+𦧱	ta
+𦧴	tan
+𦨎	ta
+𦨸	tan
+𦪀	tang
+𦪙	ta
+𦭟	ta
+𦱆	ta
+𦳝	tang
+𦶑	ta
+𦸁	tan
+𦺰	tao
+𦻀	tai
+𦼎	tan
+𦾽	ta
+𧂇	tan
+𧉑	tai
+𧉟	tai
+𧌏	ta
+𧔣	ta
+𧖆	ta
+𧣁	tan
+𧣹	tan
+𧥞	tan
+𧪦	ta
+𧫿	tan
+𧭏	tai
+𧮑	ta
+𧮼	tai
+𧰘	tan
+𧱵	tang
+𧵊	tan
+𧺟	tan
+𧽼	tan
+𨂞	tan
+𨃚	ta
+𨅍	tan
+𨆉	tang
+𨆰	ta
+𨉱	tang
+𨌨	tao
+𨌩	tang
+𨌭	ta
+𨍴	tang
+𨎋	tang
+𨎖	tang
+𨓬	ta
+𨔯	ta
+𨙎	ta
+𨝸	tan
+𨡍	tan
+𨡒	tao
+𨣕	tan
+𨰏	ta
+𨲗	tang
+𨵝	ta
+𨶀	ta
+𨶈	tang
+𩋃	tao
+𩋅	ta
+𩌇	ta
+𩌉	ta
+𩌐	ta
+𩌘	ta
+𩎢	tao
+𩎽	ta
+𩑰	tan
+𩒢	tan
+𩘜	tang
+𩘿	tao
+𩛽	tao
+𩠽	tan
+𩡄	tan
+𩡝	tan
+𩤉	tao
+𩤞	tan
+𩥁	tang
+𩥅	tao
+𩥑	ta
+𩪺	tan
+𩫊	ta
+𩬠	tai
+𩷽	ta
+𩹴	tao
+𩹶	tang
+𩺗	ta
+𩿡	tai
+𪂌	ta
+𪇘	tao
+𪉧	tan
+𪊇	tan
+𪌼	tao
+𪍵	tan
+𪐝	tai
+𪐥	tai
+𪒴	tai
+𪔕	ta
+𪕹	tang
+𪘁	ta
+𫘦	tao	1
 𫘦𬳿	tao tu	1
+𬍡	tang	1

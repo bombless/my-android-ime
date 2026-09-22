@@ -13,7 +13,13 @@ tasks.register("prepareChineseDictionary") {
     outputs.dir(target)
     doLast {
         target.asFile.mkdirs()
-        listOf("base.dict.yaml", "ext.dict.yaml", "tencent.dict.yaml").forEach { name ->
+        listOf(
+            "base.dict.yaml",
+            "ext.dict.yaml",
+            "tencent.dict.yaml",
+            "8105.dict.yaml",
+            "41448.dict.yaml",
+        ).forEach { name ->
             val src = source.file(name).asFile
             if (src.exists()) {
                 src.copyTo(target.file(name).asFile, overwrite = true)
@@ -26,8 +32,22 @@ tasks.register("prepareChineseDictionary") {
     }
 }
 
+tasks.register<Exec>("generateChineseDictionaryShards") {
+    val source = layout.projectDirectory.dir(".vendor/rime-ice/cn_dicts")
+    val output = layout.projectDirectory.dir("app/src/main/assets/dict-shards")
+    val script = layout.projectDirectory.file("tools/split_rime_dict.py")
+    dependsOn("prepareChineseDictionary")
+    inputs.dir(source)
+    inputs.file(script)
+    outputs.dir(output)
+    doFirst {
+        delete(output)
+    }
+    commandLine("python", script.asFile.absolutePath, source.asFile.absolutePath, output.asFile.absolutePath)
+}
+
 project(":app") {
     tasks.matching { it.name == "preBuild" }.configureEach {
-        dependsOn(rootProject.tasks.named("prepareChineseDictionary"))
+        dependsOn(rootProject.tasks.named("generateChineseDictionaryShards"))
     }
 }

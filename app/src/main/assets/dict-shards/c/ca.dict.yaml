@@ -3,7 +3,62 @@ name: merged.ca
 version: "1.0"
 sort: by_weight
 ...
+㒲	cai
+㘔	can
+㛑	can
+㜖	cao
+㜗	can
+㣓	can
+㥇	can
+㥒	cai
+㦧	can
+㨻	can
+㯥	cao
+㱚	can
+㵴	cang
+㶓	cang
+㺑	can
+㻮	can
+㽩	can
+㽩	cao
+㿊	can
+㿷	cao
+䄚	cao
+䅟	can
+䅟	can	1
 䅟子	can zi	1
+䅮	cang
+䌨	cai
+䌽	cai
+䍼	can
+䎭	cao
+䏆	cao
+䏼	can
+䐆	cai
+䐬	cao
+䑶	can
+䒑	cao
+䗝	can
+䗞	can
+䘉	can
+䙁	can
+䛹	can
+䝳	can
+䞗	cai
+䟃	ca
+䢢	cang
+䣋	cai
+䣟	can
+䫮	can
+䬫	can
+䰂	cai
+䱗	can
+䳻	can
+䴭	cai
+䴺	cai
+䵽	ca
+仓	cang
+仓	cang	68847
 仓上	cang shang	54
 仓上小区	cang shang xiao qu	3
 仓下	cang xia	1
@@ -137,8 +192,23 @@ sort: by_weight
 仓鼠科	cang shu ke	100
 仓鼠米仔	cang shu mi zai	100
 仓鼠脸	cang shu lian	3333
+仺	cang
+伧	cang
+伧	cang	660
 伧俗	cang su	15
 伧夫俗吏	cang fu su li	100
+倉	cang
+倸	cai
+偲	cai
+偲	cai	33
+傖	cang
+傪	can
+傮	cao
+儏	can
+凔	cang
+匨	cang
+参	can
+参	can	387049
 参一脚	can yi jiao	100
 参上	can shang	8
 参不参加	can bu can jia	100
@@ -1736,6 +1806,14 @@ sort: by_weight
 参院	can yuan	1290
 参院选举	can yuan xuan ju	100
 参验	can yan	1
+參	can
+叄	can
+叅	can
+啋	cai
+喰	can
+嘇	can
+嘈	cao
+嘈	cao	15262
 嘈嘈	cao cao	945
 嘈嘈切切	cao cao qie qie	250
 嘈嘈切切错杂弹	cao cao qie qie cuo za dan	24
@@ -1743,9 +1821,25 @@ sort: by_weight
 嘈杂	cao za	34080
 嘈杂声	cao za sheng	3555
 嘈杂的音乐	cao za de yin yue	100
+嚓	ca
+嚓	ca	16791
 嚓嚓	ca ca	5
 嚓嚓声	ca ca sheng	123
+囃	ca
+囋	can
+埰	cai
+婇	cai
+嬠	can
+孱	can
+孱	can	1
 孱头	can tou	1
+寀	cai
+屮	cao
+屮	cao	2222
+嵢	cang
+嶆	cao
+彩	cai
+彩	cai	274800
 彩世界家园	cai shi jie jia yuan	1
 彩书怨	cai shu yuan	100
 彩云	cai yun	30345
@@ -2099,6 +2193,8 @@ sort: by_weight
 彩鹬	cai yu	2
 彩鹮	cai huan	2
 彩龙	cai long	2
+惨	can
+惨	can	222830
 惨不忍睹	can bu ren du	20080
 惨不忍言	can bu ren yan	2
 惨不忍闻	can bu ren wen	100
@@ -2181,6 +2277,8 @@ sort: by_weight
 惨重的代价	can zhong de dai jia	100
 惨重的损失	can zhong de sun shi	100
 惨雨酸风	can yu suan feng	1
+惭	can
+惭	can	27081
 惭于孟子	can yu meng zi	1
 惭凫企鹤	can fu qi he	5
 惭怍	can zuo	95
@@ -2193,6 +2291,16 @@ sort: by_weight
 惭无倾城色	can wu qing cheng se	1
 惭色	can se	845
 惭颜	can yan	50
+愺	cao
+慅	cao
+慒	cao
+慘	can
+慙	can
+慚	can
+憯	can
+懆	cao
+才	cai
+才	cai	2774963
 才三年	cai san nian	100
 才上	cai shang	13800
 才上到	cai shang dao	100
@@ -2829,6 +2937,16 @@ sort: by_weight
 才高识远	cai gao shi yuan	1
 才高语壮	cai gao yu zhuang	1
 才高运蹇	cai gao yun jian	1
+扐	cai
+拆	ca
+採	cai
+掺	can
+揌	cai
+摲	can
+摻	can
+撡	cao
+操	cao
+操	cao	235165
 操一点心	cao yi dian xin	150
 操不完	cao bu wan	104
 操不操	cao bu cao	100
@@ -3143,6 +3261,8 @@ sort: by_weight
 操闲心	cao xian xin	100
 操雷	cao lei	11
 操风车三之大刀	cao feng che san zhi da dao	100
+擦	ca
+擦	ca	172541
 擦一下	ca yi xia	2465
 擦一擦	ca yi ca	1875
 擦一遍	ca yi bian	156
@@ -3313,6 +3433,9 @@ sort: by_weight
 擦黑	ca hei	2285
 擦黑儿	ca hei er	70
 擦黑板	ca hei ban	100
+攃	ca
+曹	cao
+曹	cao	18328
 曹七巧	cao qi qiao	187
 曹万江	cao wan jiang	100
 曹不兴	cao bu xing	100
@@ -3520,6 +3643,10 @@ sort: by_weight
 曹魏与高句丽的战争	cao wei yu gao gou li de zhan zheng	1
 曹鸿勋	cao hong xun	2
 曹鹤阳	cao he yang	138
+曺	cao
+朁	can
+材	cai
+材	cai	212793
 材与不材之间	cai yu bu cai zhi jian	3
 材优干济	cai you gan ji	1
 材剧志大	cai ju zhi da	7
@@ -3604,6 +3731,9 @@ sort: by_weight
 材质硬度	cai zhi ying du	100
 材雄德茂	cai xiong de mao	1
 材高知深	cai gao zhi shen	1
+棌	cai
+槽	cao
+槽	cao	12412
 槽位	cao wei	746
 槽儿	cao er	1111
 槽内	cao nei	7340
@@ -3630,6 +3760,9 @@ sort: by_weight
 槽里	cao li	3090
 槽钢	cao gang	14680
 槽齿目	cao chi mu	2
+欌	cang
+残	can
+残	can	232905
 残丝断魂	can si duan hun	1
 残了	can le	2222
 残云	can yun	1460
@@ -3898,6 +4031,10 @@ sort: by_weight
 残髓炎	can sui yan	1
 残魂	can hun	111
 残齿胫甲	can chi jing jia	1
+殘	can
+毝	cai
+沧	cang
+沧	cang	37794
 沧九旻	cang jiu min	100
 沧县	cang xian	4155
 沧口	cang kou	1
@@ -3965,6 +4102,10 @@ sort: by_weight
 沧龙	cang long	1
 沧龙属	cang long shu	1
 沧龙类	cang long lei	1
+湌	can
+滄	cang
+漕	cao
+漕	cao	2663
 漕东支路	cao dong zhi lu	10
 漕厂村	cao chang cun	1
 漕宝路	cao bao lu	8870
@@ -3978,6 +4119,10 @@ sort: by_weight
 漕粮	cao liang	1155
 漕运	cao yun	5515
 漕运码头	cao yun ma tou	100
+澯	can
+濸	cang
+灿	can
+灿	can	71504
 灿亮	can liang	9
 灿华	can hua	500
 灿坤	can kun	4420
@@ -4004,6 +4149,10 @@ sort: by_weight
 灿若繁星	can ruo fan xing	635
 灿若群星	can ruo qun xing	490
 灿辉	can hui	905
+燦	can
+爘	can
+猜	cai
+猜	cai	185595
 猜一下	cai yi xia	100
 猜一猜	cai yi cai	5100
 猜三划五	cai san hua wu	100
@@ -4117,8 +4266,22 @@ sort: by_weight
 猜错	cai cuo	6790
 猜错了	cai cuo le	2565
 猜错了吧	cai cuo le ba	100
+獊	cang
+玱	cang
+瑲	cang
+璨	can
+璨	can	8551
+睬	cai
+睬	cai	18741
+礤	ca
 礤床	ca chuang	109
 礤床儿	ca chuang er	109
+礸	ca
+穇	can
+篬	cang
+篸	can
+粲	can
+粲	can	2974
 粲夸克	can kua ke	100
 粲然	can ran	2285
 粲然一笑	can ran yi xiao	1085
@@ -4128,6 +4291,8 @@ sort: by_weight
 粲花之论	can hua zhi lun	1
 粲花妙舌	can hua miao she	1
 粲花妙论	can hua miao lun	1
+糙	cao
+糙	cao	12840
 糙人	cao ren	1111
 糙仁排骨粥	cao ren pai gu zhou	1
 糙叶树	cao ye shu	100
@@ -4147,6 +4312,11 @@ sort: by_weight
 糙粮	cao liang	3456
 糙面	cao mian	234
 糙面内质网	cao mian nei zhi wang	100
+綵	cai
+縩	cai
+纔	cai
+肏	cao
+肏	cao	180000
 肏不肏	cao bu cao	100
 肏他大爷	cao ta da ye	100
 肏他妈	cao ta ma	100
@@ -4171,6 +4341,9 @@ sort: by_weight
 肏猪	cao zhu	100
 肏粉	cao fen	100
 肏蜥蜴	cao xi yi	200
+臧	cang
+舱	cang
+舱	cang	43880
 舱中	cang zhong	3665
 舱位	cang wei	15750
 舱内	cang nei	15075
@@ -4188,8 +4361,17 @@ sort: by_weight
 舱门	cang men	10135
 舱门口	cang men kou	100
 舱面	cang mian	1745
+艙	cang
+艚	cao
+艚	cao	50
 艚子	cao zi	1
+艸	cao
 艸部	cao bu	10
+艹	cao
+艹	cao	146000
+芔	cao	1111
+苍	cang
+苍	cang	194304
 苍上村	cang shang cun	3
 苍之封印	cang zhi feng yin	9
 苍之彼方的四重奏	cang zhi bi fang de si chong zou	100
@@ -4355,6 +4537,8 @@ sort: by_weight
 苍龙	cang long	10740
 苍龙七宿	cang long qi xiu	100
 苍龙日暮还行雨	cang long ri mu hai xing yu	6
+草	cao
+草	cao	411706
 草一村	cao yi cun	1
 草上飞	cao shang fei	2300
 草丛	cao cong	17795
@@ -4859,6 +5043,8 @@ sort: by_weight
 草鹿八千流	cao lu ba qian liu	100
 草黄色	cao huang se	100
 草黄车轮螺	cao huang che lun luo	1
+菜	cai
+菜	cai	288767
 菜不菜	cai bu cai	100
 菜了	cai le	111
 菜亭	cai ting	7
@@ -5063,6 +5249,10 @@ sort: by_weight
 菜鸟教程	cai niao jiao cheng	100
 菜鸟站长	cai niao zhan zhang	100
 菜鸡	cai ji	9999
+蒼	cang
+蓸	cao
+蔡	cai
+蔡	cai	86233
 蔡一智	cai yi zhi	100
 蔡一杰	cai yi jie	100
 蔡世远	cai shi yuan	14
@@ -5249,6 +5439,9 @@ sort: by_weight
 蔡雪桐	cai xue tong	100
 蔡鸿岩	cai hong yan	19
 蔡龄龄	cai ling ling	100
+薒	can
+藏	cang
+藏	cang	339641
 藏一手	cang yi shou	100
 藏一藏	cang yi cang	789
 藏下	cang xia	6666
@@ -5520,6 +5713,8 @@ sort: by_weight
 藏龙卧虎之地	cang long wo hu zhi di	100
 藏龙岛	cang long dao	100
 藏龙百瀑	cang long bai pu	6
+蚕	can
+蚕	can	15234
 蚕业	can ye	54
 蚕丛及鱼凫	can cong ji yu fu	7
 蚕丛鸟道	can cong niao dao	2
@@ -5572,6 +5767,14 @@ sort: by_weight
 蚕食着	can shi zhe	1160
 蚕食鲸吞	can shi jing tun	520
 蚕饰腹寄蝇	can shi fu ji ying	13
+蝅	can
+螥	cang
+螬	cao
+螬	cao	26
+蠶	can
+蠺	can
+裁	cai
+裁	cai	79360
 裁下	cai xia	800
 裁书叙心	cai shu xu xin	1
 裁了	cai le	333
@@ -5662,6 +5865,13 @@ sort: by_weight
 裁酌	cai zhuo	9999
 裁量	cai liang	1111
 裁长补短	cai chang bu duan	100
+褿	cao
+襙	cao
+謲	can
+財	cai
+賶	cang
+财	cai
+财	cai	235676
 财不露白	cai bu lou bai	57
 财东	cai dong	1300
 财主	cai zhu	15210
@@ -6113,6 +6323,9 @@ sort: by_weight
 财雄一方	cai xiong yi fang	1
 财革法	cai ge fa	100
 财预字	cai yu zi	87
+跴	cai
+踩	cai
+踩	cai	66021
 踩一下	cai yi xia	2
 踩一捧一	cai yi peng yi	100
 踩一脚	cai yi jiao	100
@@ -6233,6 +6446,10 @@ sort: by_weight
 踩雷	cai lei	9999
 踩高橇	cai gao qiao	100
 踩高跷	cai gao qiao	2095
+遪	ca
+鄵	cao
+采	cai
+采	cai	264104
 采一采	cai yi cai	108
 采下	cai xia	3930
 采下去	cai xia qu	100
@@ -6622,6 +6839,12 @@ sort: by_weight
 采食量下降	cai shi liang xia jiang	100
 采香行处蹙连钱	cai xiang xing chu cu lian qian	1
 采麻工	cai ma gong	100
+鏒	can
+鏪	cao
+鑶	cang
+飡	can
+餐	can
+餐	can	201053
 餐云卧石	can yun wo shi	1
 餐企	can qi	1111
 餐会	can hui	2810
@@ -6735,9 +6958,100 @@ sort: by_weight
 餐馆业	can guan ye	590
 餐馆老板	can guan lao ban	2035
 餐馆里	can guan li	6530
+騲	cao
+驂	can
+骖	can
+骖	can	155
 骖乘	can cheng	235
 骖风驷霞	can feng si xia	1
 骖鸾驭鹤	can luan yu he	1
+鶬	cang
+鸧	cang
+鸧	cang	18
 鸧鹒	cang geng	30
+黪	can
+黪	can	80
 黪发	can fa	2
 黪衣	can yi	2
+黲	can
+鼜	cao
+𠀊	cao
+𠠋	can
+𠡡	can
+𠥐	cang
+𠫭	can
+𠹊	cao
+𡆮	can
+𡛝	can
+𡡖	can
+𡣮	cai
+𡮦	cao
+𡽴	cang
+𡾻	cang
+𡿄	cang
+𢎂	cai
+𢦸	can
+𢧮	can
+𢾃	can
+𣈅	cao
+𣉿	cao
+𣦼	can
+𣶡	can
+𣻬	can
+𤁱	cai
+𤄖	ca
+𤅒	can
+𤒕	cao
+𤚀	cai
+𤚬	cang
+𤝭	cai
+𤟖	cai
+𤡐	cao
+𤵥	cao
+𤷕	cai
+𥂥	can
+𥕢	cao
+𥕢	cao	1
+𥗭	ca
+𥠩	can
+𥢽	can
+𥩝	ca
+𥲍	cao
+𥹛	can
+𦋿	cao
+𦪜	can
+𦪫	can
+𦬁	cai
+𦺐	can
+𦾝	cang
+𧀊	cai
+𧅀	can
+𧓩	can
+𧵤	cai
+𨅔	can
+𨆾	ca
+𨎝	cao
+𨙴	cai
+𨞷	can
+𨤃	cang
+𨯓	cai
+𨲱	can
+𨺭	ca
+𩀞	cang
+𩀧	can
+𩁞	cai
+𩈻	can
+𩈼	can
+𩕹	cang
+𩛳	can
+𩝖	can
+𩝞	cang
+𩞀	can
+𩞄	cao
+𩟒	can
+𩧇	cai
+𩫥	cao
+𩯞	can
+𪆶	can
+𪇭	cai
+𪊗	ca

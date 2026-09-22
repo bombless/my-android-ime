@@ -3,6 +3,36 @@ name: merged.ze
 version: "1.0"
 sort: by_weight
 ...
+㖽	ze
+㖽	zei
+㟙	ze
+㢎	ze
+㣱	ze
+㥽	ze
+㮣	ze
+㳁	ze
+㳻	ze
+㻭	ze
+㻸	zen
+㽪	zeng
+䂝	ze
+䅚	ze
+䇥	ze
+䇸	zeng
+䎖	zeng	1
+䔾	ze
+䕉	ze
+䕪	ze
+䙢	zeng
+䫈	zen
+䯔	ze
+䰝	zeng
+䰹	ze
+䵴	zeng
+䶡	ze
+䶦	ze
+仄	ze
+仄	ze	1896
 仄仄	ze ze	8125
 仄仄平平	ze ze ping ping	14390
 仄仄平平仄	ze ze ping ping ze	2
@@ -15,6 +45,11 @@ sort: by_weight
 仄平平仄平	ze ping ping ze ping	1
 仄起平收	ze qi ping shou	142
 仄韵	ze yun	8055
+侧	ze
+侧	ze	0
+側	ze
+则	ze
+则	ze	740891
 则一直	ze yi zhi	5855
 则一致	ze yi zhi	1180
 则不	ze bu	154960
@@ -172,8 +207,14 @@ sort: by_weight
 则需	ze xu	37340
 则需要	ze xu yao	43205
 则须	ze xu	11440
+則	ze
+咋	ze
+咋	ze	1
 咋舌	ze she	6710
 咋舌不下	ze she bu xia	1
+唶	ze
+啧	ze
+啧	ze	28249
 啧啧	ze ze	17850
 啧啧啧啧啧	ze ze ze ze ze	100
 啧啧声	ze ze sheng	245
@@ -183,6 +224,11 @@ sort: by_weight
 啧啧称赞	ze ze cheng zan	2460
 啧啧赞叹	ze ze zan tan	100
 啧有烦言	ze you fan yan	443
+嘖	ze
+囎	zeng
+増	zeng
+增	zeng
+增	zeng	226112
 增三和弦	zeng san he xian	100
 增上	zeng shang	8935
 增为	zeng wei	2545
@@ -738,6 +784,14 @@ sort: by_weight
 增高药	zeng gao yao	795
 增高裤	zeng gao ku	100
 增高鞋	zeng gao xie	5005
+嫧	ze
+崱	ze
+帻	ze
+帻	ze	272
+幘	ze
+庂	ze
+怎	zen
+怎	zen	2520317
 怎一个	zen yi ge	6370
 怎一个愁字了得	zen yi ge chou zi liao de	16
 怎不	zen bu	11670
@@ -1487,6 +1541,8 @@ sort: by_weight
 怎讲	zen jiang	2950
 怎谈儿女情长	zen tan er nv qing chang	100
 怎配	zen pei	1111
+憎	zeng
+憎	zeng	16932
 憎你	zeng ni	185
 憎厌	zeng yan	820
 憎恨	zeng hen	28515
@@ -1495,6 +1551,10 @@ sort: by_weight
 憎爱分明	zeng ai fen ming	28
 憎称	zeng cheng	2
 憎而知其善	zeng er zhi qi shan	100
+戝	zei
+択	ze
+择	ze
+择	ze	254252
 择一	ze yi	7735
 择一假设	ze yi jia she	1
 择业	ze ye	54960
@@ -1558,7 +1618,16 @@ sort: by_weight
 择邻	ze lin	100
 择邻而居	ze lin er ju	250
 择食	ze shi	900
+捑	ze
+撍	zen
+擇	ze
+昃	ze
+昃	ze	140
 昃食宵衣	ze shi xiao yi	100
+昗	ze
+曽	zeng
+曾	zeng
+曾	zeng	3000
 曾万钟	zeng wan zhong	4
 曾不事农桑	zeng bu shi nong sang	15
 曾不吝情去留	zeng bu lin qing qu liu	12
@@ -1791,6 +1860,14 @@ sort: by_weight
 曾馨莹	zeng xin ying	100
 曾麟书	zeng lin shu	100
 曾黎	zeng li	2
+樍	ze
+橧	zeng
+歵	ze
+汄	ze
+沢	ze
+泎	ze
+泽	ze
+泽	ze	184794
 泽仁	ze ren	1530
 泽伦	ze lun	2
 泽克	ze ke	1870
@@ -1859,18 +1936,69 @@ sort: by_weight
 泽雉十步一啄	ze zhi shi bu yi zhuo	1
 泽雷随	ze lei sui	100
 泽风大过	ze feng da guo	100
+溭	ze
+滜	ze
+澤	ze
+灂	ze
+熷	zeng
+璔	zeng
+甑	zeng
+甑	zeng	627
 甑子	zeng zi	550
 甑子糕	zeng zi gao	19
 甑尘釜鱼	zeng chen fu yu	100
 甑山银毫	zeng shan yin hao	12
 甑糕	zeng gao	395
+皟	ze
+睪	ze
+瞔	ze
+矠	ze
+矰	zeng
+矰	zeng	13
+磳	zeng
+礋	ze
+稄	ze
+竲	zeng
+笮	ze
+笮	ze	405
+箦	ze
+箦	ze	47
 箦㽏裒	ze gan pou	100
+簀	ze
+綜	zeng
+縡	zeng
+繒	zeng
+综	zeng
+综	zeng	1
+缯	zeng
+缯	zeng	2111
 缯絮足御寒	zeng xu zu yu han	1
+罾	zeng
+罾	zeng	105
 罾麖𬕂	zeng jing long	1
+耫	ze
+舴	ze
+舴	ze	58
 舴艋	ze meng	620
+蔶	ze
+蠈	zei
+蠌	ze
+襗	ze
+諎	ze
+謮	ze
+譄	zeng
+譖	zen
+谮	zen
+谮	zen	190
 谮下谩上	zen xia man shang	1
 谮毁	zen hui	5
 谮言	zen yan	5
+責	ze
+賊	zei
+賾	ze
+贈	zeng
+责	ze
+责	ze	370704
 责之切	ze zhi qie	685
 责人从宽	ze ren cong kuan	100
 责令	ze ling	500286
@@ -1985,6 +2113,8 @@ sort: by_weight
 责问	ze wen	11535
 责难	ze nan	13195
 责骂	ze ma	16860
+贼	zei
+贼	zei	158556
 贼严重	zei yan zhong	100
 贼义者谓之残	zei yi zhe wei zhi can	1
 贼乱	zei luan	3333
@@ -2074,7 +2204,11 @@ sort: by_weight
 贼高级	zei gao ji	100
 贼高级啊	zei gao ji a	100
 贼鸥	zei ou	3
+赜	ze
+赜	ze	185
 赜探隐索	ze tan yin suo	1
+赠	zeng
+赠	zeng	28101
 赠与	zeng yu	559
 赠与关系	zeng yu guan xi	100
 赠与合同	zeng yu he tong	6725
@@ -2123,9 +2257,75 @@ sort: by_weight
 赠阅发行	zeng yue fa xing	15
 赠阅本	zeng yue ben	100
 赠黄山胡公求白鹇	zeng huang shan hu gong qiu bai xian	1
+迮	ze
+迮	ze	33
 迮朗	ze lang	2
+鄫	zeng
+鄫	zeng	10
+鋥	zeng
+锃	zeng
+锃	zeng	2610
 锃亮	zeng liang	5255
 锃光	zeng guang	4444
 锃光瓦亮	zeng guang wa liang	270
 锃明彻亮	zeng ming che liang	100
+飵	ze
+鬵	zeng
+鰂	zei
+鱛	zeng
+鱡	zei
+鲗	ze	1
+鲗	zei
+鲗	zei	10
 鲗鱼涌	ze yu chong	2
+鸅	ze
+齚	ze
+齰	ze
+𠟻	ze
+𠨻	ze
+𠷌	ze
+𡡑	zeng
+𡵗	ze
+𡸈	ze
+𡸦	ze
+𡹨	ze
+𡾽	zeng
+𢍰	ze
+𢧠	ze
+𢨗	zei
+𢮚	ze
+𢯩	ze
+𣆽	ze
+𣛸	ze
+𣤈	ze
+𣬿	ze
+𣼦	ze
+𣽎	ze
+𣿐	ze
+𤎯	zeng
+𤖓	ze
+𤢟	ze
+𥍱	ze
+𥎍	ze
+𥟔	ze
+𥼃	ze
+𦀓	zeng
+𦔈	ze
+𦟜	ze
+𦼏	zeng
+𦽒	zei
+𧒿	zei
+𧢐	zeng
+𧶷	ze
+𨆎	zei
+𨕠	ze
+𨖊	ze
+𨲯	zeng
+𩂖	ze
+𩄾	ze
+𩌪	ze
+𩔳	ze
+𩾸	ze
+𪌟	ze
+𪒟	zeng
+𪙭	zeng

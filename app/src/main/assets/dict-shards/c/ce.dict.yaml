@@ -3,6 +3,29 @@ name: merged.ce
 version: "1.0"
 sort: by_weight
 ...
+㞥	cen
+㣒	ceng
+㥽	ce
+㨲	ce
+㩍	ce
+㬝	ceng
+㻸	cen
+䁬	ceng
+䃡	cen
+䅾	cen
+䇲	ce
+䈟	ce
+䉕	ceng
+䊂	ce
+䔴	ce
+䜺	ce
+䤁	cen
+䨙	cen
+䫈	cen
+䯔	cen
+䲋	cen
+侧	ce
+侧	ce	199092
 侧乳	ce ru	3333
 侧信道	ce xin dao	100
 侧信道攻击	ce xin dao gong ji	100
@@ -189,6 +212,10 @@ sort: by_weight
 侧风	ce feng	1955
 侧首	ce shou	1440
 侧马尾	ce ma wei	157
+側	ce
+冊	ce
+册	ce
+册	ce	53084
 册书	ce shu	4010
 册井乡	ce jing xiang	4
 册亨	ce heng	1
@@ -199,6 +226,8 @@ sort: by_weight
 册数	ce shu	21120
 册立	ce li	1765
 册页	ce ye	9999
+厕	ce
+厕	ce	45544
 厕所	ce suo	173630
 厕所异味	ce suo yi wei	100
 厕所日	ce suo ri	196
@@ -217,6 +246,9 @@ sort: by_weight
 厕足其间	ce zu qi jian	100
 厕身	ce shen	340
 厕身其间	ce shen qi jian	100
+厠	ce
+参	cen
+参	cen	1
 参参差差	cen cen ci ci	1111
 参差	cen ci	16360
 参差不一	cen ci bu yi	475
@@ -231,10 +263,19 @@ sort: by_weight
 参差错落	cen ci cuo luo	1510
 参错	cen cuo	1111
 参错重出	cen cuo chong chu	1
+參	cen
+叄	cen
+叅	cen
+噌	ceng
+噌	ceng	4924
 噌噌的	ceng ceng de	100
 噌的	ceng de	1111
 噌的一下	ceng de yi xia	9999
 噌的一声	ceng de yi sheng	180
+埁	cen
+夨	ce
+层	ceng
+层	ceng	390823
 层云	ceng yun	3300
 层位	ceng wei	1111
 层出	ceng chu	2995
@@ -356,6 +397,9 @@ sort: by_weight
 层间剪切	ceng jian jian qie	2
 层面	ceng mian	368045
 层高	ceng gao	36710
+層	ceng
+岑	cen
+岑	cen	10316
 岑仲勉	cen zhong mian	16
 岑兜村	cen dou cun	1
 岑凯伦	cen kai lun	9
@@ -382,6 +426,12 @@ sort: by_weight
 岑溪县	cen xi xian	95
 岑溪市	cen xi shi	2040
 岑牟单绞	cen mou dan jiao	1
+嵾	cen
+嶒	ceng
+嶒	ceng	35
+廁	ce
+恻	ce
+恻	ce	7439
 恻怛之心	ce da zhi xin	100
 恻恻	ce ce	760
 恻然	ce ran	1565
@@ -390,6 +440,13 @@ sort: by_weight
 恻然泪下	ce ran lei xia	100
 恻隐	ce yin	2015
 恻隐之心	ce yin zhi xin	6360
+惻	ce
+憡	ce
+拺	ce
+敇	ce
+曽	ceng
+曾	ceng
+曾	ceng	621971
 曾一举	ceng yi ju	100
 曾一同	ceng yi tong	100
 曾一度	ceng yi du	25440
@@ -976,6 +1033,12 @@ sort: by_weight
 曾风光	ceng feng guang	100
 曾风靡一时	ceng feng mi yi shi	100
 曾驻扎	ceng zhu zha	100
+栅	ce
+梣	cen
+橧	ceng
+汵	cen
+测	ce
+测	ce	288406
 测一下	ce yi xia	2505
 测一次	ce yi ci	1165
 测一测	ce yi ce	990
@@ -1374,8 +1437,18 @@ sort: by_weight
 测高度	ce gao du	80
 测高法	ce gao fa	100
 测高计	ce gao ji	125
+涔	cen
+涔	cen	5665
 涔涔	cen cen	3535
 涔涔然	cen cen ran	100
+測	ce
+畟	ce
+穇	cen
+竲	ceng
+笒	cen
+笧	ce
+策	ce
+策	ce	52131
 策之不以其道	ce zhi bu yi qi dao	7
 策划	ce hua	500312
 策划与执行	ce hua yu zhi xing	100
@@ -1442,7 +1515,19 @@ sort: by_weight
 策马扬鞭	ce ma yang bian	1015
 策马飞舆	ce ma fei yu	1
 策驽砺钝	ce nu li dun	1
+筞	ce
+筴	ce
+箣	ce
 箣竹	ce zhu	1
+篸	cen
+簎	ce
+粣	ce
+荝	ce
+萗	ce
+萴	ce
+蓛	ce
+蹭	ceng
+蹭	ceng	26351
 蹭一下	ceng yi xia	64
 蹭一波热度	ceng yi bo re du	100
 蹭一蹭	ceng yi ceng	456
@@ -1485,4 +1570,36 @@ sort: by_weight
 蹭饭	ceng fan	2470
 蹭饭吃	ceng fan chi	390
 蹭饭夫妻	ceng fan fu qi	93
+驓	ceng
+𠟂	ceng
+𡃆	ceng
+𡍫	ce
+𡪠	ceng
+𡾓	ceng
+𢅋	ceng
+𢷾	ce
+𢿸	ce
+𣌧	ce
+𣡎	cen
+𤛢	ceng
+𤭢	cei	1000
 𤭢了	cei le	1000
+𥠉	ce
+𥬰	ce
+𥰡	ce
+𥳯	ce
+𦊃	cen
+𦔎	ce
+𦠇	ceng
+𦣧	ce
+𦵪	ce
+𧲅	ceng
+𧵡	ce
+𨁊	cen
+𨥣	cen
+𨱼	cen
+𨶨	ce
+𩅨	cen
+𩅮	cen
+𩒄	ce
+𩻛	cen

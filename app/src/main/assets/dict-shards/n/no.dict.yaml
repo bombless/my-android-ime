@@ -3,8 +3,28 @@ name: merged.no
 version: "1.0"
 sort: by_weight
 ...
+㕢	nou
+㝹	nou
+㳶	nou
+㶶	nong
+㺜	nong
+䁸	nong
+䂇	nong
+䅶	nou
+䔈	nou
+䘫	nou
+䢉	nong
+䨲	nou
+䫖	nou
+䰭	nou
+䵜	nong
+侬	nong
+侬	nong	4715
 侬作博山炉	nong zuo bo shan lu	1
 侬好	nong hao	455
+儂	nong
+农	nong
+农	nong	208656
 农一师	nong yi shi	1715
 农七师	nong qi shi	925
 农三师	nong san shi	217
@@ -800,8 +820,13 @@ sort: by_weight
 农闲	nong xian	1410
 农院	nong yuan	1025
 农高会	nong gao hui	2015
+哝	nong
+哝	nong	10044
 哝哝	nong nong	445
 哝哝唧唧	nong nong ji ji	1
+噥	nong
+弄	nong
+弄	nong	391479
 弄一个	nong yi ge	12
 弄一些	nong yi xie	100
 弄一份	nong yi fen	12
@@ -1080,6 +1105,15 @@ sort: by_weight
 弄鬼掉猴	nong gui diao hou	1
 弄鸡蛋	nong ji dan	15
 弄黑	nong hei	180
+挊	nong
+挵	nong
+搙	nou
+槈	nou
+檂	nong
+檽	nou
+欁	nong
+浓	nong
+浓	nong	150479
 浓一点	nong yi dian	11
 浓于	nong yu	765
 浓云	nong yun	2550
@@ -1238,6 +1272,13 @@ sort: by_weight
 浓香肉类	nong xiang rou lei	1
 浓香鸡块	nong xiang ji kuai	6
 浓黑	nong hei	4405
+濃	nong
+燶	nong
+獳	nou
+癑	nong
+禯	nong
+秾	nong
+秾	nong	210
 秾李夭桃	nong li yao tao	100
 秾李雪开歌扇掩	nong li xue kai ge shan yan	3
 秾桃艳李	nong tao yan li	100
@@ -1245,7 +1286,14 @@ sort: by_weight
 秾纤相宜	nong xian xiang yi	100
 秾纤适宜	nong xian shi yi	100
 秾词艳赋	nong ci yan fu	100
+穠	nong
+繷	nong
+羺	nou
+耨	nou
+耨	nou	228
 耨耨耨耨	nou nou nou nou	100
+脓	nong
+脓	nong	4472
 脓包	nong bao	3975
 脓尿	nong niao	19
 脓毒性休克	nong du xing xiu ke	32
@@ -1270,3 +1318,40 @@ sort: by_weight
 脓胸	nong xiong	1595
 脓血	nong xie	696
 脓血	nong xue	6965
+膿	nong
+蕽	nong
+襛	nong
+譨	nong
+農	nong
+辳	nong
+醲	nong
+鎒	nou
+鐞	nou
+鬞	nong
+齈	nong
+𠘊	nong
+𠲴	nou
+𡝦	nou
+𡨻	nou
+𡭾	nou
+𢉕	nou
+𢉚	nou
+𣻖	nou
+𤟦	nou
+𥀫	nou
+𥂒	nong
+𧂦	nou
+𧃨	nou
+𧅘	nou
+𨑊	nong
+𨠤	nong
+𨲳	nong
+𩅽	nong
+𩆟	nou
+𩇔	nong
+𩒔	nou
+𩟊	nong
+𪆯	nong
+𪋺	nou
+𪒬	nong
+𬪩	nong	1

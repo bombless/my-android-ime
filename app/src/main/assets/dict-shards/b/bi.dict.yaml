@@ -3,6 +3,116 @@ name: merged.bi
 version: "1.0"
 sort: by_weight
 ...
+㓈	bing
+㓖	bi
+㓖	bie
+㕭	bi
+㗉	bi
+㗊	bi
+㘠	bi
+㘩	bi
+㙄	bi
+㚕	bi
+㚰	bi
+㝸	bian
+㟽	biao
+㠒	biao
+㠲	bi
+㡀	bi
+㡙	bi
+㢰	bi
+㢶	bi
+㢸	bi
+㢼	bie
+㣐	bian
+㦚	bian
+㧙	bi
+㧼	biao
+㨀	bing
+㪏	bi
+㪤	bi
+㭓	bian
+㮄	bi
+㮰	bi
+㮿	bi
+㯇	bi
+㯱	biao
+㯹	biao
+㱸	bi
+㱸	bie
+㲢	bian
+㲢	bie
+㳎	bian
+㳼	bi
+㴜	bian
+㵥	bi
+㵨	bi
+㵷	bian
+㷶	bi
+㹃	bi
+㺹	bian
+㻞	bin
+㻫	bi
+㻶	bi
+㿜	bie
+㿫	bi
+䀣	bi
+䁅	bi
+䁵	bian
+䁹	bi
+䃾	bi
+䄶	bi
+䇷	bi
+䇷	bie
+䈂	bing
+䉲	bie
+䉸	bian
+䉾	bi
+䊧	bi
+䋑	bing
+䋔	bi
+䋢	bie
+䌟	bi
+䎵	bi
+䏟	bie
+䏢	bi
+䏶	bi
+䐔	bin
+䒪	bian
+䓑	bing
+䔸	biao
+䕗	bi
+䖩	bi
+䗒	bing
+䘡	bi
+䚔	bin
+䛒	bian
+䞄	biao
+䟆	bi
+䟤	bi
+䠋	bi
+䠥	bie
+䡢	bian
+䣥	bi
+䦘	bi
+䧗	bi
+䨆	bi
+䩛	bi
+䪐	bi
+䪻	bian
+䫁	bi
+䫾	bi
+䬛	bi
+䭮	bi
+䭱	bie
+䮡	bi
+䮽	biao
+䯗	bi
+䳁	bin
+䴵	bing
+䵄	bi
+丙	bing
+丙	bing	11170
 丙丁	bing ding	5185
 丙丁酚	bing ding fen	10
 丙三醇	bing san chun	1450
@@ -117,6 +227,18 @@ sort: by_weight
 丙酸锌	bing suan xin	4
 丙醇	bing chun	4730
 丙醛	bing quan	750
+並	bing
+仌	bing
+仒	bing
+份	bin
+佊	bi
+佖	bi
+佖	bi	7
+佛	bi
+佛	bi	1
+併	bing
+便	bian
+便	bian	1735257
 便一下子	bian yi xia zi	710
 便一发	bian yi fa	129
 便一头	bian yi tou	1075
@@ -423,7 +545,11 @@ sort: by_weight
 便餐	bian can	1910
 便饭	bian fan	3240
 便骂	bian ma	1425
+俵	biao
+俵	biao	157
 俵给	biao gei	2
+俾	bi
+俾	bi	3864
 俾倪	bi ni	1
 俾夜作昼	bi ye zuo zhou	100
 俾岛翠鸟	bi dao cui niao	1
@@ -435,8 +561,20 @@ sort: by_weight
 俾路支	bi lu zhi	1115
 俾路支省	bi lu zhi sheng	100
 俾路支解放军	bi lu zhi jie fang jun	100
+倂	bing
+偋	bing
+偪	bi
+傡	bing
+傧	bin
+傧	bin	331
 傧相	bin xiang	1090
+僄	biao
+儐	bin
+儦	biao
+儦	biao	5
 儦儦	biao biao	1
+兵	bing
+兵	bing	1226804
 兵丁	bing ding	5490
 兵上神密	bing shang shen mi	1
 兵不厌权	bing bu yan quan	1
@@ -666,7 +804,10 @@ sort: by_weight
 兵马营	bing ma ying	2
 兵马都监	bing ma du jian	100
 兵骄将傲	bing jiao jiang ao	1
+冫	bing
 冫部	bing bu	1
+冰	bing
+冰	bing	534562
 冰一冰	bing yi bing	123
 冰上	bing shang	12415
 冰上曲棍球	bing shang qu gun qiu	590
@@ -1300,6 +1441,9 @@ sort: by_weight
 冰龙	bing long	3365
 冰龙之喉	bing long zhi hou	100
 冰龙巢穴	bing long chao xue	100
+別	bie
+别	bie
+别	bie	2000757
 别上	bie shang	5400
 别上别上	bie shang bie shang	100
 别上去	bie shang qu	100
@@ -2641,6 +2785,8 @@ sort: by_weight
 别鹤离鸾	bie he li luan	100
 别齁着	bie hou zhe	100
 别𪨊	bie song	2
+匕	bi
+匕	bi	35573
 匕首	bi shou	56510
 匕首专精	bi shou zhuan jing	9
 匕首岭	bi shou ling	2
@@ -2649,9 +2795,13 @@ sort: by_weight
 匕首鲶	bi shou nian	1
 匕鬯不惊	bi chang bu jing	100
 匕鬯无惊	bi chang wu jing	1
+匾	bian
+匾	bian	7782
 匾文	bian wen	130
 匾牌	bian pai	1640
 匾额	bian e	17715
+卞	bian
+卞	bian	6201
 卞姓	bian xing	1
 卞家村	bian jia cun	7
 卞庄子	bian zhuang zi	100
@@ -2663,6 +2813,8 @@ sort: by_weight
 卞瑞英	bian rui ying	162
 卞秉彬	bian bing bin	1
 卞进燮	bian jin xie	100
+变	bian
+变	bian	1428820
 变一下	bian yi xia	1715
 变上去	bian shang qu	100
 变上来	bian shang lai	100
@@ -3681,6 +3833,8 @@ sort: by_weight
 变黑色	bian hei se	100
 变黑色了	bian hei se le	100
 变鼓	bian gu	786
+吡	bi
+吡	bi	694
 吡咯	bi luo	11
 吡咯啉	bi luo lin	6
 吡咯替尼	bi luo ti ni	100
@@ -3724,6 +3878,10 @@ sort: by_weight
 吡诺克辛	bi nuo ke xin	2
 吡诺克辛钠滴眼液	bi nuo ke xin na di yan ye	1
 吡贝地尔	bi bei di er	1
+咇	bi
+咇	bi	26
+哔	bi
+哔	bi	1931
 哔了狗	bi le gou	100
 哔叽	bi ji	1045
 哔哔	bi bi	1565
@@ -3737,6 +3895,15 @@ sort: by_weight
 哔站	bi zhan	4444
 哔计划	bi ji hua	100
 哔里啪啦	bi li pa la	100
+啚	bi
+嗶	bi
+坒	bi
+坒	bi	2
+垪	bing
+堛	bi
+墂	biao
+壁	bi
+壁	bi	182739
 壁上	bi shang	9080
 壁上固定炮	bi shang gu ding pao	100
 壁上红旗飘落照	bi shang hong qi piao luo zhao	2
@@ -3801,23 +3968,40 @@ sort: by_weight
 壁障	bi zhang	333
 壁饰	bi shi	3999
 壁龛	bi kan	2215
+変	bian
+夶	bi
+奰	bi
+妣	bi
+妣	bi	609
+妼	bi
+娝	bi
+婊	biao
+婊	biao	9991
 婊子	biao zi	22710
 婊子无义	biao zi wu yi	1180
 婊子立牌坊	biao zi li pai fang	100
 婊很大	biao hen da	100
 婊砸	biao za	1111
+婢	bi
+婢	bi	24051
 婢仆	bi pu	1560
 婢作夫人	bi zuo fu ren	100
 婢女	bi nv	8060
 婢子	bi zi	181
 婢学夫人	bi xue fu ren	3
 婢膝奴颜	bi xi nu yan	5
+嫑	biao
 嫑忈嘦姕	biao ren jiao zi	100
+嬖	bi
+嬖	bi	299
 嬖人	bi ren	1
 嬖妾	bi qie	1111
 嬖幸	bi xing	190
 嬖爱	bi ai	111
 嬖臣	bi chen	11
+嬶	bi
+宾	bin
+宾	bin	117598
 宾东	bin dong	111
 宾主	bin zhu	9245
 宾主关系	bin zhu guan xi	100
@@ -3885,6 +4069,11 @@ sort: by_weight
 宾馆路	bin guan lu	2
 宾馆酒店	bin guan jiu dian	24735
 宾馆饭店	bin guan fan dian	20545
+寎	bing
+屄	bi
+屄	bi	191391
+屏	bing
+屏	bing	1000
 屏住	bing zhu	4075
 屏住了	bing zhu le	100
 屏住了呼吸	bing zhu le hu xi	100
@@ -3919,6 +4108,11 @@ sort: by_weight
 屏退下属	bing tui xia shu	100
 屏退左右	bing tui zuo you	100
 屏除	bing chu	3311
+屛	bing
+峅	bian
+崥	bi
+币	bi
+币	bi	104705
 币值	bi zhi	15815
 币值波动	bi zhi bo dong	40
 币别	bi bie	2135
@@ -3938,6 +4132,12 @@ sort: by_weight
 币矿池	bi kuang chi	9999
 币种	bi zhong	3063
 币重言甘	bi zhong yan gan	100
+幖	biao
+幖	biao	1
+幣	bi
+幤	bi
+并	bing
+并	bing	1624589
 并一一	bing yi yi	100
 并一一加以	bing yi yi jia yi	100
 并一度	bing yi du	2750
@@ -4773,6 +4973,9 @@ sort: by_weight
 并驱齐驾	bing qu qi jia	1
 并驾齐驱	bing jia qi qu	9675
 并鼓励	bing gu li	17705
+幷	bing
+庇	bi
+庇	bi	12566
 庇佑	bi you	4815
 庇佑下	bi you xia	100
 庇佑江东	bi you jiang dong	100
@@ -4792,9 +4995,17 @@ sort: by_weight
 庇隆多齿鳓	bi long duo chi le	1
 庇隆氏拟单角鲀	bi long shi ni dan jiao tun	1
 庇隆鳓	bi long le	1
+庰	bing
+庳	bi
+庳	bi	36
+廦	bi
+弁	bian
+弁	bian	1461
 弁而钗	bian er chai	164
 弁言	bian yan	320
 弁髦法纪	bian mao fa ji	1
+弊	bi
+弊	bi	20759
 弊多利少	bi duo li shao	940
 弊大于利	bi da yu li	5100
 弊害	bi hai	999
@@ -4807,11 +5018,18 @@ sort: by_weight
 弊端	bi duan	94940
 弊端在于	bi duan zai yu	100
 弊绝风清	bi jue feng qing	253
+弻	bi
+弼	bi
+弼	bi	8249
 弼佑乡	bi you xiang	2
 弼德院	bi de yuan	2
 弼教村	bi jiao cun	12
 弼马温	bi ma wen	1550
 弼马温病毒	bi ma wen bing du	1
+彃	bi
+彆	bie
+彪	biao
+彪	biao	42248
 彪个子	biao ge zi	100
 彪哥	biao ge	3270
 彪姐	biao jie	11
@@ -4829,6 +5047,8 @@ sort: by_weight
 彪特富	biao te fu	1
 彪飙面	biao biao mian	1
 彪马	biao ma	5885
+彬	bin
+彬	bin	60398
 彬县	bin xian	2
 彬彬	bin bin	14205
 彬彬君子	bin bin jun zi	100
@@ -4837,6 +5057,8 @@ sort: by_weight
 彬彬济济	bin bin ji ji	1
 彬彬车行	bin bin che hang	100
 彬马那	bin ma na	100
+彼	bi
+彼	bi	141382
 彼一时	bi yi shi	520
 彼一时此一时	bi yi shi ci yi shi	100
 彼之	bi zhi	3333
@@ -4946,6 +5168,10 @@ sort: by_weight
 彼美玉山果	bi mei yu shan guo	1
 彼视渊若陵	bi shi yuan ruo ling	1
 彼进我退	bi jin wo tui	30
+徧	bian
+徶	bie
+必	bi
+必	bi	940785
 必上	bi shang	33333
 必上岸	bi shang an	100
 必下雨	bi xia yu	100
@@ -5394,6 +5620,17 @@ sort: by_weight
 必须集中起来	bi xu ji zhong qi lai	100
 必须首先	bi xu shou xian	19705
 必须高度重视	bi xu gao du zhong shi	100
+忭	bian
+忭	bian	74
+怭	bi
+怲	bing
+怶	bi
+惼	bian
+愊	bi
+愎	bi
+愎	bi	1389
+憋	bie
+憋	bie	41712
 憋一天	bie yi tian	100
 憋不住	bie bu zhu	3285
 憋不住了	bie bu zhu le	3475
@@ -5471,6 +5708,8 @@ sort: by_weight
 憋足了劲	bie zu le jin	1635
 憋足劲	bie zu jin	250
 憋闷	bie men	5035
+扁	bian
+扁	bian	37657
 扁了	bian le	472
 扁伪石虫	bian wei shi chong	1
 扁你	bian ni	2555
@@ -5576,22 +5815,37 @@ sort: by_weight
 扁鹊三连	bian que san lian	100
 扁鼻强龙	bian bi qiang long	1
 扁鼻强龙属	bian bi qiang long shu	1
+抃	bian
+抃	bian	26
 抃掌	bian zhang	1
 抃舞	bian wu	1
 抃风舞润	bian feng wu run	1
+抦	bing
+拂	bi
 拂士	bi shi	2
+掤	bing
+揙	bian
+摈	bin
+摈	bin	914
 摈弃	bin qi	11145
 摈斥	bin chi	295
 摈除	bin chu	460
+摒	bing
+摒	bing	4066
 摒弃	bing qi	4425
 摒弃了传统	bing qi le chuan tong	100
 摒挡	bing dang	999
 摒绝	bing jue	9998
 摒除	bing chu	3310
+摽	biao
+摽	biao	90
 摽劲儿	biao jin er	9999
 摽末之功	biao mo zhi gong	1
 摽梅之候	biao mei zhi hou	1
 摽梅之年	biao mei zhi nian	1
+擯	bin
+敝	bi
+敝	bi	10151
 敝之而无憾	bi zhi er wu han	2
 敝人	bi ren	222
 敝姓	bi xing	400
@@ -5616,12 +5870,34 @@ sort: by_weight
 敝车羸马	bi che lei ma	128
 敝车驽马	bi che nu ma	128
 敝鼓丧豚	bi gu sang tun	1
+斃	bi
+斌	bin
+斌	bin	48027
 斌斌	bin bin	5285
+旇	bi
+昞	bing
+昪	bian
+昪	bian	96
+昺	bing
+昺	bing	146
+朇	bi
+朼	bi
+杓	biao
+杓	biao	404
+枋	bing
+柀	bi
+柄	bing
+柄	bing	76845
 柄上	bing shang	2640
 柄本明	bing ben ming	1
 柄眼目	bing yan mu	234
 柄谷行人	bing gu xing ren	100
 柄部	bing bu	1
+柭	bie
+柲	bi
+柲	bie
+标	biao
+标	biao	352517
 标一下	biao yi xia	12
 标一晚	biao yi wan	114
 标上	biao shang	11275
@@ -6127,7 +6403,21 @@ sort: by_weight
 标高	biao gao	17775
 标黄处	biao huang chu	101
 标黄色	biao huang se	86
+栟	bing
+栟	bing	2
 栟榈	bing lv	1
+栤	bing
+梐	bi
+梹	bin
+梹	bing
+棅	bing
+椕	bin
+楅	bi
+榌	bi
+槟	bin
+槟	bin	4489
+槟	bing
+槟	bing	4489
 槟城	bin cheng	5
 槟子	bin zi	115
 槟榔	bing lang	3147
@@ -6138,6 +6428,12 @@ sort: by_weight
 槟榔树	bing lang shu	100
 槟榔汁	bing lang zhi	100
 槟榔花	bing lang hua	21
+標	biao
+檦	biao
+檳	bin
+檳	bing
+殡	bin
+殡	bin	4016
 殡仪	bin yi	5385
 殡仪员	bin yi yuan	100
 殡仪馆	bin yi guan	22060
@@ -6149,6 +6445,9 @@ sort: by_weight
 殡葬店	bin zang dian	116
 殡葬行业	bin zang hang ye	100
 殡车	bin che	20
+殯	bin
+比	bi
+比	bi	1844194
 比一下	bi yi xia	100
 比一下就	bi yi xia jiu	100
 比一下就知道	bi yi xia jiu zhi dao	100
@@ -7148,6 +7447,8 @@ sort: by_weight
 比高低	bi gao di	100
 比鲁斯	bi lu si	100
 比黄金还贵	bi huang jin hai gui	100
+毕	bi
+毕	bi	433506
 毕不了业	bi bu liao ye	100
 毕业	bi ye	500344
 毕业一年了	bi ye yi nian le	100
@@ -7323,6 +7624,10 @@ sort: by_weight
 毕雨箕风	bi yu ji feng	100
 毕露	bi lu	4705
 毕马威	bi ma wei	100
+毖	bi
+毖	bi	423
+毙	bi
+毙	bi	32880
 毙了	bi le	6590
 毙了你	bi le ni	100
 毙伤	bi shang	2230
@@ -7331,6 +7636,13 @@ sort: by_weight
 毙掉了	bi diao le	100
 毙敌	bi di	2295
 毙而后已	bi er hou yi	100
+毞	bi
+毴	bi
+氷	bing
+汃	bin
+汳	bian
+汴	bian
+汴	bian	5636
 汴京	bian jing	7840
 汴城白	bian cheng bai	1
 汴州	bian zhou	5
@@ -7342,11 +7654,19 @@ sort: by_weight
 汴河街	bian he jie	106
 汴河街道	bian he jie dao	9
 汴河路	bian he lu	25
+沘	bi
+沘	bi	19
 沘江	bi jiang	1
+泌	bi
+泌	bi	1
 泌城之战	bi cheng zhi zhan	2
 泌阳	bi yang	1
 泌阳县	bi yang xian	1525
 泌阳战斗	bi yang zhan dou	1
+淲	biao
+湢	bi
+滗	bi
+滗	bi	47
 滗出	bi chu	8
 滗出来	bi chu lai	5
 滗取	bi qu	3
@@ -7356,6 +7676,8 @@ sort: by_weight
 滗汤药	bi tang yao	9
 滗米汤	bi mi tang	100
 滗走	bi zou	3
+滨	bin
+滨	bin	26667
 滨东	bin dong	1
 滨兴小区	bin xing xiao qu	3
 滨兴路江虹路口	bin xing lu jiang hong lu kou	3
@@ -7474,6 +7796,11 @@ sort: by_weight
 滨阳里	bin yang li	1
 滨鹬	bin yu	3
 滨鹬鞭带吸虫	bin yu bian dai xi chong	1
+滭	bi
+滮	biao
+潷	bi
+濒	bin
+濒	bin	6797
 濒临	bin lin	28910
 濒临倒闭	bin lin dao bi	4730
 濒临失传	bin lin shi chuan	100
@@ -7499,7 +7826,18 @@ sort: by_weight
 濒海	bin hai	1960
 濒湖脉学	bin hu mai xue	16
 濒绝	bin jue	9999
+濞	bi
+濞	bi	191
+濱	bin
+濵	bin
+瀌	biao
+瀌	biao	1
 瀌瀌	biao biao	1
+瀕	bin
+灬	biao
+炞	bian
+炳	bing
+炳	bing	9133
 炳坤	bing kun	1865
 炳如日星	bing ru ri xing	1
 炳如观火	bing ru guan huo	1
@@ -7516,10 +7854,34 @@ sort: by_weight
 炳若日星	bing ruo ri xing	3
 炳若观火	bing ruo guan huo	1
 炳轩	bing xuan	55
+煏	bi
+煸	bian
+煸	bian	641
 煸炒	bian chao	9395
 煸馅水饺	bian xian shui jiao	2
+熚	bi
+熛	biao
+熛	biao	13
+爂	biao
+牑	bian
+狴	bi
+狴	bi	536
 狴犴	bi an	55
 狴犴令	bi an ling	100
+猋	biao
+猵	bian
+獘	bi
+獙	bi
+獱	bian
+玢	bin
+玢	bin	592
+玣	bian
+珌	bi
+珌	bi	18
+琕	bing
+瑸	bin
+璧	bi
+璧	bi	14608
 璧合珠联	bi he zhu lian	100
 璧合珠连	bi he zhu lian	100
 璧坐玑驰	bi zuo ji chi	1
@@ -7531,8 +7893,20 @@ sort: by_weight
 璧泉街道	bi quan jie dao	105
 璧还	bi huan	3
 璧青路	bi qing lu	145
+璸	bin
+甂	bian
+畀	bi
+畀	bi	189
 畀予	bi yu	2
 畀以重任	bi yi zhong ren	100
+畁	bi
+畐	bi
+畢	bi
+疕	bi
+疪	bi
+疺	bian
+病	bing
+病	bing	505956
 病一天	bing yi tian	195
 病中	bing zhong	1320
 病了	bing le	9999
@@ -7924,11 +8298,16 @@ sort: by_weight
 病鸭	bing ya	4
 病鸭子	bing ya zi	4
 病鹅	bing e	4
+痹	bi
+痹	bi	9748
 痹病	bi bing	7
 痹症	bi zheng	9
 痹痛	bi tong	62
 痹痛宁胶囊	bi tong ning jiao nang	6
 痹短额鲆	bi duan e ping	1
+痺	bi
+瘪	bie
+瘪	bie	11246
 瘪三	bie san	2040
 瘪三儿	bie san er	100
 瘪了	bie le	3380
@@ -7941,14 +8320,31 @@ sort: by_weight
 瘪螺痧	bie luo sha	100
 瘪进去	bie jin qu	5050
 瘪陷	bie xian	80
+瘭	biao
+瘭	biao	35
 瘭疽	biao ju	2
+癟	bie
+癿	bie	4
 癿藏镇	bie zang zhen	1
+皀	bi
+皕	bi
+皕	bi	27
+眪	bing
+睤	bi
+睥	bi
+砏	bin
+砭	bian
+砭	bian	771
 砭人肌骨	bian ren ji gu	100
 砭庸针俗	bian yong zhen su	1
 砭清激浊	bian qing ji zhuo	100
 砭灸术	bian jiu shu	100
 砭石	bian shi	1
 砭骨	bian gu	255
+碥	bian
+碥	bian	16
+碧	bi
+碧	bi	113618
 碧丽兰	bi li lan	1
 碧云	bi yun	111
 碧云天	bi yun tian	100
@@ -8144,6 +8540,10 @@ sort: by_weight
 碧鸡街道	bi ji jie dao	161
 碧鸡金马	bi ji jin ma	1
 碧龙乡	bi long xiang	1
+磦	biao
+祕	bi
+禀	bing
+禀	bing	34572
 禀受	bing shou	99
 禀呈	bing cheng	55
 禀告	bing gao	7555
@@ -8159,6 +8559,9 @@ sort: by_weight
 禀议	bing yi	9
 禀赋	bing fu	2146
 禀赴	bing fu	2
+禆	bi
+秉	bing
+秉	bing	19831
 秉仁	bing ren	840
 秉伪指环虫	bing wei zhi huan chong	1
 秉公	bing gong	4665
@@ -8220,6 +8623,8 @@ sort: by_weight
 秉钧当轴	bing jun dang zhou	1
 秉钧持轴	bing jun chi zhou	1
 秉风	bing feng	2
+秕	bi
+秕	bi	123
 秕子	bi zi	75
 秕粒	bi li	2
 秕糠	bi kang	180
@@ -8227,6 +8632,8 @@ sort: by_weight
 秕言谬说	bi yan miu shuo	1
 秕谷	bi gu	385
 秕谷子	bi gu zi	385
+秘	bi
+秘	bi	1
 秘鲁	bi lu	32530
 秘鲁䴙䴘	bi lu pi ti	1
 秘鲁世界遗产名录	bi lu shi jie yi chan ming lu	1
@@ -8433,6 +8840,16 @@ sort: by_weight
 秘鲁黄金博物馆与世界武器博物馆	bi lu huang jin bo wu guan yu shi jie wu qi bo wu guan	1
 秘鲁鼠属	bi lu shu shu	1
 秘鲁鼩负鼠	bi lu qu fu shu	1
+稟	bing
+稨	bian
+稫	bi
+穮	biao
+窆	bian
+窉	bing
+竝	bing
+笓	bi
+笔	bi
+笔	bi	273860
 笔下	bi xia	53530
 笔下春风	bi xia chun feng	100
 笔下有铁	bi xia you tie	1
@@ -8639,19 +9056,50 @@ sort: by_weight
 笔锋	bi feng	1111
 笔顺	bi shun	8245
 笔饱墨酣	bi bao mo han	100
+笾	bian
+笾	bian	102
+筆	bi
+筚	bi
+筚	bi	290
 筚路蓝缕	bi lu lan lv	1350
 筚门圭窬	bi men gui yu	2
 筚门委巷	bi men wei xiang	2
 筚门闺窦	bi men gui dou	100
 筚门陋巷	bi men lou xiang	100
+箅	bi
+箅	bi	101
 箅子	bi zi	1617
+箆	bi
+箯	bian
+篦	bi
+篦	bi	550
 篦一遍	bi yi bian	105
 篦夜蛾	bi ye e	2
 篦头发	bi tou fa	105
 篦子	bi zi	1355
 篦子街街道	bi zi jie jie dao	1
 篦箕巷	bi ji xiang	16
+篳	bi
+篻	biao
+籓	bian
+籩	bian
+粃	bi
+粊	bi
+糄	bian
+紕	bi
+紴	bi
+絣	bing
+綼	bi
+編	bian
+緶	bian
+縪	bi
+繴	bi
+繽	bin
+纰	bi
+缏	bian
 缏得红罗手帕子	bian de hong luo shou pa zi	1
+编	bian
+编	bian	167598
 编一下	bian yi xia	85
 编一个	bian yi ge	12
 编一本	bian yi ben	675
@@ -9096,6 +9544,8 @@ sort: by_weight
 编队	bian dui	24195
 编队行驶	bian dui xing shi	100
 编队飞行	bian dui fei xing	100
+缤	bin
+缤	bin	7365
 缤纷	bin fen	57790
 缤纷圆筒冰淇淋	bin fen yuan tong bing qi lin	100
 缤纷多彩	bin fen duo cai	2520
@@ -9109,6 +9559,19 @@ sort: by_weight
 缤纷芋螺	bin fen yu luo	1
 缤纷路	bin fen lu	5
 缤若诗	bin ruo shi	100
+罼	bi
+翍	bi
+聛	bi
+肶	bi
+胇	bi
+脿	biao
+脿	biao	1
+腷	bi
+膑	bin
+膑	bin	1802
+膔	biao
+膘	biao
+膘	biao	2359
 膘壮	biao zhuang	100
 膘尔托阔依乡	biao er tuo kuo yi xiang	12
 膘情	biao qing	1
@@ -9117,6 +9580,8 @@ sort: by_weight
 膘肥体壮	biao fei ti zhuang	1510
 膘肥体胖	biao fei ti pang	2
 膘肥肉厚	biao fei rou hou	100
+臂	bi
+臂	bi	190591
 臂一卷	bi yi juan	100
 臂上	bi shang	8430
 臂丛	bi cong	14
@@ -9146,21 +9611,46 @@ sort: by_weight
 臂长	bi chang	2720
 臂间倒位	bi jian dao wei	1
 臂非加长也	bi fei jia chang ye	13
+臏	bin
+臕	biao
+臱	bian
+舭	bi
+舭	bi	20
+艑	bian
+芘	bi
+芘	bi	101
+苄	bian
+苄	bian	51
 苄基	bian ji	2725
 苄基腺嘌呤	bian ji xian piao ling	35
 苄星青霉素	bian xing qing mei su	3
 苄氨基嘌呤	bian an ji piao ling	100
 苄达赖氨酸滴眼液	bian da lai an suan di yan ye	2
+苪	bing
+苾	bi
+苾	bi	68
 苾刍尼	bi chu ni	100
+荜	bi
+荜	bi	550
 荜拨	bi bo	2
 荜澄茄	bi cheng qie	18
 荜铃胃痛颗粒	bi ling wei tong ke li	1
 荜门蓬户	bi men peng hu	101
+荸	bi
+荸	bi	223
 荸荠	bi qi	1845
 荸荠一品锅	bi qi yi pin guo	21
 荸荠属	bi qi shu	100
+莂	bie
+萆	bi
+萆	bi	36
 萆薢	bi xie	2
+萞	bi
+萹	bian
+萹	bian	5
 萹蓄	bian xu	1
+蓖	bi
+蓖	bi	317
 蓖麻	bi ma	4095
 蓖麻子	bi ma zi	46
 蓖麻毒	bi ma du	4095
@@ -9169,6 +9659,10 @@ sort: by_weight
 蓖麻油	bi ma you	3260
 蓖麻籽	bi ma zi	795
 蓖麻蚕	bi ma can	4095
+蓽	bi
+蔈	biao
+蔽	bi
+蔽	bi	36096
 蔽伤之忧	bi shang zhi you	1
 蔽体	bi ti	895
 蔽塞	bi se	2
@@ -9184,14 +9678,27 @@ sort: by_weight
 蔽芾	bi fei	1
 蔽身处	bi shen chu	100
 蔽障	bi zhang	222
+薜	bi
+薜	bi	2167
 薜凯琪	bi kai qi	29
 薜荔	bi li	369
 薜荔多	bi li duo	100
 薜荔果	bi li guo	3
 薜荔籽	bi li zi	3
 薜萝若在眼	bi luo ruo zai yan	1
+藊	bian
+藨	biao
+藨	biao	8
 藨草	biao cao	90
+虌	bie
+虨	bin
+蛂	bie
+蛃	bing
+蛃	bing	3
 蛃型幼虫	bing xing you chong	100
+蜌	bi
+蝙	bian
+蝙	bian	16004
 蝙蝠	bian fu	50065
 蝙蝠之家	bian fu zhi jia	1
 蝙蝠传奇	bian fu chuan qi	100
@@ -9205,6 +9712,10 @@ sort: by_weight
 蝙蝠神	bian fu shen	144
 蝙蝠衫	bian fu shan	240
 蝙蝠骑士	bian fu qi shi	100
+螕	bi
+蟞	bie
+表	biao
+表	biao	1303318
 表一	biao yi	2
 表上	biao shang	37175
 表个态	biao ge tai	1430
@@ -9773,9 +10284,14 @@ sort: by_weight
 表项	biao xiang	7280
 表首	biao shou	1
 表鬼臼毒素	biao gui jiu du su	4
+袐	bi
+裨	bi
+裨	bi	2321
 裨益	bi yi	11190
 裨补	bi bu	340
 裨补阙漏	bi bu que lou	1
+裱	biao
+裱	biao	1746
 裱一裱	biao yi biao	1180
 裱上	biao shang	1180
 裱好	biao hao	495
@@ -9787,15 +10303,49 @@ sort: by_weight
 裱花	biao hua	2
 裱褙	biao bei	770
 裱褙胡同	biao bei hu tong	1
+褊	bian
+褊	bian	272
 褊小	bian xiao	2
 褊急	bian ji	1
 褊狭	bian xia	615
 褊窄	bian zhai	20
+褾	biao
+襅	bi
+襒	bie
+襞	bi
+襞	bi	82
 襞蛤科	bi ge ke	1
+襣	bi
+覍	bian
+覵	bian
+觱	bi
+觱	bi	16
 觱发	bi bo	2
 觱篥	bi li	1
+詖	bi
+誁	bing
+諘	biao
+諚	bian
+謤	biao
+變	bian
+诐	bi
+诐	bi	14
 诐论	bi lun	1111
+豍	bi
+豩	bin
+豳	bin
+豳	bin	226
 豳风	bin feng	503
+貏	bi
+貱	bi
+貶	bian
+賁	bi
+賓	bin
+賔	bin
+贆	biao
+贔	bi
+贬	bian
+贬	bian	16755
 贬为	bian wei	3770
 贬义	bian yi	9550
 贬义词	bian yi ci	4030
@@ -9821,15 +10371,28 @@ sort: by_weight
 贬责	bian ze	9999
 贬酒阙色	bian jiu que se	100
 贬黜	bian chu	600
+贲	bi
+贲	bi	460
 贲临	bi lin	60
 贲卦	bi gua	3
+赑	bi
+赑	bi	144
 赑屃	bi xi	1111
+跸	bi
+跸	bi	627
 跸驻乡	bi zhu xiang	1
+蹕	bi
+蹩	bie
+蹩	bie	3620
 蹩脚	bie jiao	10950
 蹩脚货	bie jiao huo	90
+躃	bi
+躄	bi
 躄鱼	bi yu	61
 躄鱼亚目	bi yu ya mu	1
 躄鱼属	bi yu shu	4
+辟	bi
+辟	bi	29251
 辟人之士	bi ren zhi shi	100
 辟君三舍	bi jun san she	100
 辟易	bi yi	2
@@ -9848,6 +10411,10 @@ sort: by_weight
 辟邪化煞	bi xie hua sha	100
 辟邪玉	bi xie yu	100
 辟邪镇宅	bi xie zhen zhai	100
+辡	bian
+辧	bian
+辨	bian
+辨	bian	51442
 辨不出	bian bu chu	1340
 辨不清	bian bu qing	1835
 辨伪	bian wei	4385
@@ -9902,6 +10469,8 @@ sort: by_weight
 辨识度高	bian shi du gao	100
 辨读	bian du	345
 辨音	bian yin	1735
+辩	bian
+辩	bian	83564
 辩口利舌	bian kou li she	100
 辩口利辞	bian kou li ci	2
 辩士	bian shi	999
@@ -9969,10 +10538,16 @@ sort: by_weight
 辩难	bian nan	9999
 辩题	bian ti	999
 辩驳	bian bo	8020
+辫	bian
+辫	bian	17059
 辫儿	bian er	3
 辫儿哥哥	bian er ge ge	100
 辫子	bian zi	21550
 辫髻	bian ji	2
+辮	bian
+辯	bian
+边	bian
+边	bian	2448615
 边上	bian shang	108745
 边下边	bian xia bian	81
 边个啊	bian ge a	100
@@ -10471,6 +11046,9 @@ sort: by_weight
 边马乡	bian ma xiang	3
 边骂边	bian ma bian	63
 边骑边	bian qi bian	43
+辺	bian
+逼	bi
+逼	bi	192855
 逼一逼	bi yi bi	1111
 逼一逼你	bi yi bi ni	100
 逼一逼自己	bi yi bi zi ji	100
@@ -10601,6 +11179,8 @@ sort: by_weight
 逼逼赖赖	bi bi lai lai	100
 逼都让你装了	bi dou rang ni zhuang le	100
 逼问	bi wen	8795
+遍	bian
+遍	bian	247865
 遍于	bian yu	999
 遍体	bian ti	5870
 遍体鳞伤	bian ti lin shang	9970
@@ -10667,6 +11247,8 @@ sort: by_weight
 遍身罗绮者	bian shen luo qi zhe	165
 遍野	bian ye	5855
 遍黑体	bian hei ti	100
+避	bi
+避	bi	268046
 避一避	bi yi bi	1465
 避不了	bi bu liao	1050
 避不作答	bi bu zuo da	100
@@ -10876,8 +11458,18 @@ sort: by_weight
 避高温	bi gao wen	143
 避高而趋下	bi gao er qu xia	1180
 避魂靴	bi hun xue	4
+邉	bian
+邊	bian
+邠	bin
+邠	bin	159
+邲	bi
+邲	bi	9
 邲之战	bi zhi zhan	1
+邴	bing
+邴	bing	522
 邴姓	bing xing	5
+鄙	bi
+鄙	bi	56240
 鄙于不屑	bi yu bu xie	1
 鄙人	bi ren	111
 鄙俗	bi su	1280
@@ -10899,9 +11491,30 @@ sort: by_weight
 鄙视排行榜	bi shi pai hang bang	100
 鄙言累句	bi yan lei ju	1
 鄙陋	bi lou	1790
+鄨	bi
+鄪	bi
+釆	bian
+鈵	bing
+鉍	bi
+鉼	bing
+鋲	bing
+錶	biao
+鍽	bian
+鎞	bi
+鏎	bi
+鏢	biao
+鐴	bi
+鑌	bin
+鑣	biao
+铋	bi
+铋	bi	43
 铋中毒	bi zhong du	5
 铋元素	bi yuan su	100
+镔	bin
+镔	bin	6859
 镔铁	bin tie	1930
+镖	biao
+镖	biao	64000
 镖人	biao ren	111
 镖头	biao tou	11810
 镖客	biao ke	1690
@@ -10912,7 +11525,17 @@ sort: by_weight
 镖行	biao hang	980
 镖行天下	biao hang tian xia	100
 镖行天下前传	biao hang tian xia qian zhuan	100
+镳	biao
+镳	biao	3137
+閇	bi
+閈	bi
+閉	bi
+閞	bian
+閟	bi
 閟宫有侐	bi gong you xu	100
+闬	bi
+闭	bi
+闭	bi	241527
 闭一只眼	bi yi zhi yan	7450
 闭上	bi shang	50900
 闭上了嘴	bi shang le zui	100
@@ -11124,6 +11747,9 @@ sort: by_weight
 闭馆	bi guan	4290
 闭馆了	bi guan le	100
 闭麦	bi mai	100
+陃	bing
+陛	bi
+陛	bi	76314
 陛下	bi xia	104020
 陛下三思	bi xia san si	100
 陛下三思啊	bi xia san si a	100
@@ -11137,6 +11763,14 @@ sort: by_weight
 陛下陛下	bi xia bi xia	100
 陛下驾到	bi xia jia dao	100
 陛尼曼	bi ni man	100
+霦	bin
+靐	bing
+鞆	bing
+鞕	bian
+鞞	bi
+鞞	bing
+鞭	bian
+鞭	bian	64899
 鞭不及腹	bian bu ji fu	1
 鞭丝帽影	bian si mao ying	3
 鞭刑	bian xing	4280
@@ -11194,7 +11828,24 @@ sort: by_weight
 鞭鞘	bian shao	14
 鞭驽策蹇	bian nu ce jian	1
 鞭麟笞凤	bian lin chi feng	1
+鞸	bi
+鞸	bing
+韠	bi
+頻	bin
+顮	bin
+频	bin
+颩	biao
+颮	biao
+颷	biao
+飆	biao
+飇	biao
+飈	biao
+飊	biao
+飑	biao
+飑	biao	158
 飑线	biao xian	1185
+飙	biao
+飙	biao	12231
 飙一下	biao yi xia	100
 飙一下啊	biao yi xia a	100
 飙举电至	biao ju dian zhi	1
@@ -11220,6 +11871,13 @@ sort: by_weight
 飙风再起	biao feng zai qi	6
 飙马野郎	biao ma ye lang	162
 飙高	biao gao	999
+飚	biao
+飶	bi
+餅	bing
+餠	bing
+饆	bi
+饼	bing
+饼	bing	40371
 饼印	bing yin	101
 饼图	bing tu	3361
 饼坚强	bing jian qiang	7
@@ -11242,15 +11900,35 @@ sort: by_weight
 饼肥	bing fei	3700
 饼铛	bing cheng	855
 饼饵	bing er	255
+馝	bi
+馝	bi	3
 馝馞	bi bo	1
+駜	bi
+驆	bi
+驫	biao
+骉	biao
+骉	biao	2
+骠	biao
+骠	biao	3168
+髀	bi
+髀	bi	253
 髀关穴	bi guan xue	1
 髀肉	bi rou	1111
 髀肉复生	bi rou fu sheng	1111
 髀里肉生	bi li rou sheng	6
+髌	bin
+髌	bin	106
 髌上囊	bin shang nang	3
 髌韧带	bin ren dai	7
 髌骨	bin gu	2975
 髌骨骨折	bin gu gu zhe	238
+髕	bin
+髟	biao
+髩	bin
+髲	bi
+鬂	bin
+鬓	bin
+鬓	bin	11728
 鬓丝几缕茶烟里	bin si ji lv cha yan li	1
 鬓丝禅榻	bin si chan ta	5
 鬓乱钗横	bin luan chai heng	100
@@ -11267,9 +11945,25 @@ sort: by_weight
 鬓角	bin jiao	5635
 鬓边	bin bian	2435
 鬓雪鬟霜	bin xue huan shuang	100
+鬢	bin
+魓	bi
+鮅	bi
+鮩	bing
+鯾	bian
+鯿	bian
+鰏	bi
+鱉	bie
+鲾	bi
+鲾	bi	16
 鲾鱼	bi yu	3
+鳊	bian
+鳊	bian	98
 鳊鱼	bian yu	2345
+鳔	biao
+鳔	biao	114
 鳔胶	biao jiao	110
+鳖	bie
+鳖	bie	6999
 鳖孙	bie sun	3333
 鳖孙儿	bie sun er	3333
 鳖新多盘虫	bie xin duo pan chong	1
@@ -11280,7 +11974,18 @@ sort: by_weight
 鳖肉	bie rou	6
 鳖裙	bie qun	1
 鳖边	bie bian	1
+鴘	bian
+鵖	bi
 鵖属	bi shu	1
+鶝	bi
+鶣	bian
+鷝	bi
+鷩	bi
+麃	biao
+鼈	bie
+鼊	bi
+鼻	bi
+鼻	bi	197996
 鼻丘	bi qiu	11
 鼻中	bi zhong	5155
 鼻中出火	bi zhong chu huo	100
@@ -11461,5 +12166,293 @@ sort: by_weight
 鼻黏膜	bi nian mo	2340
 鼻黏膜炎	bi nian mo yan	100
 鼻鼾	bi han	10
+龞	bie
+𠈺	bi
+𠊧	bing
+𠋯	bi
+𠍯	bie
+𠐈	bian
+𠐌	bi
+𠑟	bian
+𠒝	bing
+𠓫	bian
+𠓷	bi
+𠔂	biao
+𠚠	biao
+𠛡	bi
+𠛥	bing
+𠡂	bi
+𠦈	bi
+𠧅	bi
+𠨘	bi
+𠩿	bi
+𠪂	bian
+𠬈	bi
+𠬪	biao
+𠭹	bian
+𠮃	bi
+𠯴	bian
+𠱛	bing
+𠴇	bin
+𠷖	bian
+𠽩	bi
+𡇤	bing
+𡈯	bian
+𡊅	bian
+𡐞	bie
+𡖛	bing
+𡘴	bie
+𡙀	bie
+𡙪	bie
+𡚁	bi
+𡚛	bing
+𡛗	bi
+𡠚	bi
+𡦆	bin
+𡦻	bin
+𡧍	bin
+𡧼	bin
+𡬯	bian
+𡬲	bian
+𡬸	bian
+𡲍	bing
+𡳄	bi
+𡷘	bie
+𡹾	bing
+𡻞	bi
+𡽶	bi
+𢁽	bi
+𢅚	biao
+𢅩	bi
+𢆣	bie
+𢆩	bing
+𢊜	bing
+𢍁	bi
+𢎴	bing
+𢐦	bi
+𢐳	bie
+𢒯	biao
+𢔧	bing
+𢖬	bi
+𢘍	bi
+𢛎	bie
+𢞗	bi
+𢟵	bi
+𢠳	bie
+𢡅	bi
+𢩒	bi
+𢩟	bian
+𢬵	bian
+𢭥	bian
+𢲰	bin
+𢲾	bi
+𢳋	bi
+𢴂	bian
+𢴩	bi
+𢻶	bian
+𢿏	biao
+𣁉	bi
+𣁢	bi
+𣄠	biao
+𣅍	bing
+𣇢	bie
+𣈠	bian
+𣉮	bin
+𣊶	bie
+𣋹	bi
+𣔓	bi
+𣕾	bi
+𣘥	bi
+𣚡	bi
+𣝍	bi
+𣝜	bian
+𣢏	bin
+𣢠	bi
+𣥣	bi
+𣦇	bi
+𣦢	bi
+𣦪	bing
+𣩀	bian
+𣩩	bi
+𣪭	bian
+𣮐	bi
+𣯴	bi
+𣰜	bing
+𣰨	bin
+𣴨	bi
+𣸇	bian
+𤀫	bian
+𤀲	bian
+𤂀	bi
+𤂆	biao
+𤄺	bian
+𤅹	bi
+𤆀	biao
+𤉤	bie
+𤐙	bi
+𤐫	biao
+𤗚	bi
+𤙞	bi
+𤜻	bi
+𤝸	bi
+𤠺	bi
+𤡝	bi
+𤢣	bi
+𤵘	bi
+𤷒	bi
+𤷗	bie
+𤹝	bi
+𤹦	bi
+𤺇	bian
+𤺓	bie
+𤻖	bi
+𤻶	bian
+𤽊	bi
+𤾵	bie
+𥃰	bin
+𥆯	bi
+𥈗	bi
+𥍚	bian
+𥏠	bi
+𥖬	bing
+𥘤	biao
+𥛘	bi
+𥞲	bie
+𥟗	bi
+𥡁	bie
+𥢦	bi
+𥣝	bian
+𥣰	bian
+𥲂	bing
+𥲦	biao
+𥳆	bi
+𥴬	bi
+𥿋	bian
+𦀘	bi
+𦂖	bi
+𦇭	bian
+𦉙	bian
+𦑞	bi
+𦔆	bi
+𦔗	biao
+𦔩	biao
+𦟣	bian
+𦠎	biao
+𦠞	bi
+𦡻	bing
+𦤫	bi
+𦭼	bi
+𦯛	bi
+𦰙	bi
+𦱔	bi
+𦳈	bi
+𦸣	bi
+𦼹	bing
+𦽟	bian
+𦾑	biao
+𦿅	bing
+𧆊	bie
+𧌽	bie
+𧏻	bi
+𧒀	bi
+𧓄	bi
+𧓎	bi
+𧝪	biao
+𧝬	bi
+𧝬	bie
+𧤃	bi
+𧥍	biao
+𧥑	bi
+𧧸	bie
+𧩰	bian
+𧫤	bi
+𧲜	bi
+𧳀	biao
+𧳠	bi
+𧴎	biao
+𧴕	biao
+𧷟	bin
+𧸈	bin
+𧸘	bian
+𧼱	bi
+𧿥	bie
+𨂅	bie
+𨅗	bi
+𨆱	bing
+𨋥	bi
+𨋩	bi
+𨋲	bing
+𨐨	bi
+𨐰	bin
+𨐾	bian
+𨒜	bie
+𨖠	bian
+𨖾	bian
+𨚍	bi
+𨚓	bi
+𨚕	bian
+𨚕	bian	1
+𨟵	bi
+𨠔	bi
+𨥧	bian
+𨧕	bian
+𨩫	bian
+𨭚	biao
+𨲋	bi
+𨳲	bi
+𨳲	bian
+𨵰	bi
+𨸼	bi
+𨹗	bing
+𨻀	bi
+𨻼	bi
+𨽗	bin
+𩆱	bin
+𩉫	bi
+𩊖	bing
+𩊰	bi
+𩋒	bing
+𩏂	bi
+𩏂	bing
+𩑻	bi
+𩓝	bie
+𩠻	bie
+𩡟	bie
+𩣚	bi
+𩦉	bie
+𩩯	bian
+𩪊	biao
+𩪖	bi
+𩪧	bi
+𩬝	bing
+𩭧	bi
+𩮟	bing
+𩯃	bi
+𩰍	bian
+𩲢	bi
+𩴩	biao
+𩴱	bin
+𩵛	bie
+𩶁	bing
+𩸁	bie
+𩽁	biao
+𩾳	bi
+𪂟	bie
+𪇕	bin
+𪉱	bian
+𪋜	bi
+𪌄	bi
+𪍪	bi
+𪏗	bian
+𪏺	bi
+𪐄	bi
+𪐆	bie
+𪑰	bing
+𪓍	bian
+𪖯	bian
+𫜁	bi
+𬸜	bian
+𰻝	biang	1
 𰻝𰻝	biang biang	111
 𰻝𰻝面	biang biang mian	100
+𱊏	bi

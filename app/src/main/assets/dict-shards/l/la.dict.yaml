@@ -3,6 +3,101 @@ name: merged.la
 version: "1.0"
 sort: by_weight
 ...
+㑣	lan
+㓪	lang
+㔋	lan
+㕇	la
+㗦	lao
+㘓	lan
+㘕	lan
+㘝	lan
+㙟	lang
+㚓	lai
+㛦	lan
+㜮	lan
+㝗	lang
+㞠	lao
+㞩	lan
+㟉	lao
+㟍	lang
+㟙	lao
+㟹	lao
+㠣	lai
+㢃	lang
+㥎	lai
+㦨	lan
+㧯	lao
+㨓	lao
+㨫	lan
+㩜	lan
+㫰	lang
+㫰	lang	1
+㮾	lang
+㮾	lang	1
+㰖	lan
+㱢	lang
+㱫	lan
+㳕	lan
+㸊	la
+㸊	lai
+㻋	la
+㻝	la
+㾗	lang
+㾢	lai
+㾿	lang
+䀳	la
+䀳	lai
+䀶	lang
+䁁	lang
+䂰	la
+䂾	lai
+䃕	lao
+䃳	la
+䃹	lan
+䃹	lang
+䄤	lai
+䄤	lan
+䅘	lai
+䆡	lang
+䆾	lan
+䇭	lao
+䊖	lan
+䋱	lai
+䌫	lan
+䍀	lan
+䍚	lang
+䏀	la
+䑌	lan
+䓥	la
+䓶	lai
+䕞	lang
+䕩	lao
+䗶	la
+䚅	lai
+䜎	lao
+䝁	lao
+䝓	la
+䝤	lao
+䟑	la
+䠭	lai
+䡙	lang
+䦨	lan
+䧒	lai
+䧒	lan
+䪉	la
+䪍	lan
+䯖	lang
+䰐	lan
+䱫	la
+䱶	lang
+䲏	lao
+䲚	lai
+䲚	lan
+䳓	lao
+䳿	lan
+䵏	lao
+䶛	la
+乐	lao
 乐亭	lao ting	6330
 乐亭县	lao ting xian	2145
 乐亭大鼓	lao ting da gu	335
@@ -11,6 +106,16 @@ sort: by_weight
 乐陵	lao ling	2275
 乐陵县	lao ling xian	60
 乐陵市	lao ling shi	1485
+佬	lao
+佬	lao	15514
+來	lai
+俫	lai
+俫	lai	64
+倈	lai
+僗	lao
+儖	lan
+兰	lan
+兰	lan	56530
 兰世立	lan shi li	164
 兰丸	lan wan	11
 兰交	lan jiao	27
@@ -288,10 +393,14 @@ sort: by_weight
 兰香	lan xiang	9790
 兰馨桂馥	lan xin gui fu	100
 兰麝	lan she	725
+剌	la
+剌	la	9911
 剌了个口子	la le ge kou zi	123
 剌亚煤炱	la ya mei tai	1
 剌开	la kai	123
 剌手	la shou	123
+劳	lao
+劳	lao	236325
 劳不矜功	lao bu jin gong	100
 劳东燕	lao dong yan	167
 劳乃宣	lao nai xuan	19
@@ -741,6 +850,15 @@ sort: by_weight
 劳顿	lao dun	7370
 劳驾	lao jia	4190
 劳魂断梦	lao hun duan meng	100
+労	lao
+勆	lang
+勞	lao
+厱	lan
+咾	lao
+哰	lao
+哴	lang
+唠	lao
+唠	lao	19757
 唠一下	lao yi xia	324
 唠一唠	lao yi lao	988
 唠叨	lao dao	41275
@@ -756,6 +874,10 @@ sort: by_weight
 唠着	lao zhe	3333
 唠着家常	lao zhe jia chang	100
 唠起了家常	lao qi le jia chang	100
+唻	lai
+啉	lan
+啦	la
+啦	la	3655999
 啦啦	la la	5555
 啦啦啦	la la la	99999
 啦啦啦啦	la la la la	99999
@@ -771,11 +893,15 @@ sort: by_weight
 啦啦队长	la la dui zhang	525
 啦啦队队长	la la dui dui zhang	100
 啦喜街	la xi jie	129
+啷	lang
+啷	lang	7603
 啷个	lang ge	3333
 啷个哩个啷	lang ge li ge lang	100
 啷哩个啷	lang li ge lang	100
 啷当六便士	lang dang liu bian shi	100
 啷当六便士合唱团	lang dang liu bian shi he chang tuan	100
+喇	la
+喇	la	31719
 喇叭	la ba	103545
 喇叭不响	la ba bu xiang	100
 喇叭口	la ba kou	3185
@@ -817,6 +943,14 @@ sort: by_weight
 喇嘛甸	la ma dian	12
 喇嘛糕	la ma gao	31
 喇嘛营	la ma ying	100
+嗠	lao
+嘮	lao
+嚂	lan
+嚹	la
+囒	lan
+坔	lan
+垃	la
+垃	la	46134
 垃不垃圾	la bu la ji	100
 垃不垃圾吗	la bu la ji ma	100
 垃不垃圾吧	la bu la ji ba	100
@@ -907,14 +1041,34 @@ sort: by_weight
 垃圾银行	la ji yin hang	100
 垃圾食品	la ji shi pin	5420
 垃垃藻	la la zao	100
+埌	lang
+埌	lang	1
 埌南镇	lang nan zhen	4
+塱	lang
+塱	lang	9
+壈	lan
+壏	lan
+姥	lao
+姥	lao	45943
 姥姥	lao lao	35765
 姥姥姥爷	lao lao lao ye	100
 姥姥家	lao lao jia	4405
 姥姥手机	lao lao shou ji	100
 姥爷	lao ye	10150
+娕	lai
+婡	lai
+婪	lan
+婪	lan	19194
+嫏	lang
 嫏嬛	lang huan	1
+嫪	lao
+嫪	lao	1309
 嫪毐	lao ai	111
+嬾	lan
+孄	lan
+孏	lan
+岚	lan
+岚	lan	69463
 岚之山	lan zhi shan	124
 岚光破崖绿	lan guang po ya lv	1
 岚兮儿	lan xi er	100
@@ -936,7 +1090,11 @@ sort: by_weight
 岚皋县	lan gao xian	910
 岚皋路	lan gao lu	230
 岚皋路桥	lan gao lu qiao	10
+崀	lang
+崀	lang	3
 崀山	lang shan	1
+崂	lao
+崂	lao	1382
 崂山	lao shan	2341
 崂山东路	lao shan dong lu	9
 崂山五村	lao shan wu cun	149
@@ -950,6 +1108,15 @@ sort: by_weight
 崂山矿啤	lao shan kuang pi	1
 崂山西路	lao shan xi lu	6
 崂山道	lao shan dao	18
+崃	lai
+崃	lai	543
+崍	lai
+嵐	lan
+嶗	lao
+幱	lan
+庲	lai
+廊	lang
+廊	lang	70608
 廊一刀	lang yi dao	100
 廊下	lang xia	5005
 廊坊	lang fang	56715
@@ -973,10 +1140,19 @@ sort: by_weight
 廊檐	lang yan	1495
 廊腰缦回	lang yao man hui	115
 廊道	lang dao	7165
+徕	lai
+徕	lai	1681
 徕卡	lai ka	1890
 徕卡光学	lai ka guang xue	100
 徕卡相机	lai ka xiang ji	1890
 徕远宾馆	lai yuan bin guan	8
+徠	lai
+恅	lao
+惏	lan
+憥	lao
+憦	lao
+懒	lan
+懒	lan	118774
 懒不懒	lan bu lan	348
 懒不懒呀	lan bu lan ya	348
 懒不自惜	lan bu zi xi	1
@@ -1162,6 +1338,10 @@ sort: by_weight
 懒骨头	lan gu tou	675
 懒鬼	lan gui	2075
 懒龙	lan long	3333
+懢	lan
+懶	lan
+拉	la
+拉	la	109679
 拉㞎㞎	la ba ba	3333
 拉一下	la yi xia	7
 拉一拉	la yi la	123
@@ -1987,6 +2167,8 @@ sort: by_weight
 拉齐奥	la qi ao	17185
 拉齐奥俱乐部	la qi ao ju le bu	100
 拉齐奥队	la qi ao dui	925
+拦	lan
+拦	lan	112670
 拦下	lan xia	10105
 拦下来	lan xia lai	1180
 拦下来了	lan xia lai le	100
@@ -2074,6 +2256,8 @@ sort: by_weight
 拦门酒	lan men jiu	131
 拦防	lan fang	3333
 拦阻	lan zu	9380
+捞	lao
+捞	lao	29577
 捞一下	lao yi xia	678
 捞一把	lao yi ba	2765
 捞一捞	lao yi lao	765
@@ -2120,6 +2304,10 @@ sort: by_weight
 捞饭	lao fan	1270
 捞鱼	lao yu	2380
 捞鱼去	lao yu qu	100
+揦	la
+揧	la
+揽	lan
+揽	lan	29599
 揽上	lan shang	9999
 揽上身	lan shang shen	100
 揽下	lan xia	1161
@@ -2165,8 +2353,26 @@ sort: by_weight
 揽过	lan guo	3333
 揽闲事	lan xian shi	100
 揽饭	lan fan	24
+搚	la
+撈	lao
+擥	lan
+擸	la
 擸𢶍	la sa	100
+攋	la
+攋	lai
+攔	lan
+攬	lan
+斏	lang
+斓	lan
+斓	lan	5911
 斓斑	lan ban	110
+斕	lan
+旯	la
+旯	la	2979
+暕	lan
+朖	lang
+朗	lang
+朗	lang	149504
 朗万仕	lang wan shi	1
 朗乡	lang xiang	1845
 朗伯德街	lang bo de jie	8
@@ -2241,6 +2447,10 @@ sort: by_weight
 朗逸	lang yi	135
 朗道-西格尔零点猜想	lang dao xi ge er ling dian cai xiang	100
 朗香街	lang xiang jie	100
+朤	lang
+朥	lao
+来	lai
+来	lai	14837007
 来一下	lai yi xia	3585
 来一个	lai yi ge	100
 来一个人	lai yi ge ren	100
@@ -3134,6 +3344,9 @@ sort: by_weight
 来龙去脉	lai long qu mai	20130
 来龙村	lai long cun	20
 来龙门街道	lai long men jie dao	17
+柆	la
+栏	lan
+栏	lan	52541
 栏位	lan wei	99
 栏内	lan nei	28085
 栏数	lan shu	1470
@@ -3152,7 +3365,17 @@ sort: by_weight
 栏目导航	lan mu dao hang	46390
 栏目类	lan mu lei	100
 栏目组	lan mu zu	6950
+栳	lao
+栳	lao	92
+桹	lang
+桹	lang	1
+梾	lai
+梾	lai	9
 梾木	lai mu	1
+棶	lai
+楋	la
+榄	lan
+榄	lan	6522
 榄仁	lan ren	830
 榄仁猪油糕	lan ren zhu you gao	2
 榄杆市	lan gan shi	6
@@ -3164,8 +3387,22 @@ sort: by_weight
 榄香烯乳注射液	lan xiang xi ru zhu she ye	1
 榄香烯口服乳	lan xiang xi kou fu ru	12
 榄香烯注射液	lan xiang xi zhu she ye	2
+榔	lang
+榔	lang	2354
 榔头	lang tou	6680
 榔榆	lang yu	500
+樂	lao
+樃	lang
+橯	lao
+櫴	la
+櫴	lai
+欄	lan
+欖	lan
+欗	lan
+欴	lang
+浨	lan
+浪	lang
+浪	lang	312811
 浪一下	lang yi xia	100
 浪下三吴起白烟	lang xia san wu qi bai yan	1
 浪不	lang bu	1111
@@ -3358,6 +3595,9 @@ sort: by_weight
 浪静风平	lang jing feng ping	4
 浪静风恬	lang jing feng tian	100
 浪靠边	lang kao bian	100
+浶	lao
+涝	lao
+涝	lao	1423
 涝地	lao di	495
 涝坡	lao po	16
 涝坡镇	lao po zhen	137
@@ -3371,10 +3611,16 @@ sort: by_weight
 涝港村	lao gang cun	1
 涝灾	lao zai	1090
 涝的涝死	lao de lao si	141
+涞	lai
+涞	lai	475
 涞水	lai shui	2
 涞水县	lai shui xian	1825
 涞沥水村	lai li shui cun	11
 涞源县	lai yuan xian	1280
+淶	lai
+溂	la
+滥	lan
+滥	lan	23420
 滥交	lan jiao	2830
 滥伐	lan fa	4850
 滥伐林木	lan fa lin mu	1895
@@ -3417,9 +3663,16 @@ sort: by_weight
 滥赌鬼	lan du gui	1
 滥造粗制	lan zao cu zhi	1
 滥饮	lan yin	4444
+漤	lan
+漤	lan	17
 漤柿子	lan shi zi	123
+潦	lao
+潦	lao	1
 潦水	lao shui	3
 潦水尽而寒潭清	lao shui jin er han tan qing	6
+澇	lao
+澜	lan
+澜	lan	32436
 澜倒波随	lan dao bo sui	1
 澜倩子	lan qian zi	1
 澜悦东方	lan yue dong fang	136
@@ -3430,6 +3683,8 @@ sort: by_weight
 澜皮肤	lan pi fu	100
 澜石二路	lan shi er lu	15
 澜石大桥	lan shi da qiao	64
+濑	lai
+濑	lai	3872
 濑亚美莉	lai ya mei li	6666
 濑名光	lai ming guang	6666
 濑名光莉	lai ming guang li	6666
@@ -3442,6 +3697,15 @@ sort: by_weight
 濑濑敬久	lai lai jing jiu	3
 濑田一花	lai tian yi hua	6666
 濑由衣	lai you yi	100
+濫	lan
+瀨	lai
+瀬	lai
+瀾	lan
+灆	lan
+灠	lan
+灡	lan
+烂	lan
+烂	lan	148472
 烂七八糟	lan qi ba zao	100
 烂不了	lan bu liao	20
 烂不烂	lan bu lan	444
@@ -3573,6 +3837,8 @@ sort: by_weight
 烂额焦头	lan e jiao tou	100
 烂鬼	lan gui	195
 烂𪨊	lan song	101
+烙	lao
+烙	lao	14608
 烙下	lao xia	4130
 烙印	lao yin	36690
 烙印城	lao yin cheng	100
@@ -3593,6 +3859,18 @@ sort: by_weight
 烙饼	lao bing	4955
 烙饼拌汤	lao bing ban tang	3
 烙饼摊鸡蛋	lao bing tan ji dan	162
+烺	lang
+烺	lang	780
+燗	lan
+燣	lan
+燷	lan
+爁	lan
+爉	la
+爛	lan
+爤	lan
+爦	lan
+牢	lao
+牢	lao	122871
 牢不可动	lao bu ke dong	100
 牢不可拔	lao bu ke ba	6
 牢不可破	lao bu ke po	5180
@@ -3646,6 +3924,9 @@ sort: by_weight
 牢骚太盛防肠断	lao sao tai sheng fang chang duan	1183
 牢骚满腹	lao sao man fu	3215
 牢骚话	lao sao hua	500
+狫	lao
+狼	lang
+狼	lang	360398
 狼一般的	lang yi ban de	255
 狼主	lang zhu	1
 狼之噩梦	lang zhi e meng	100
@@ -3812,6 +4093,10 @@ sort: by_weight
 狼餐虎咽	lang can hu yan	1
 狼餐虎噬	lang can hu shi	100
 狼鲈科	lang lu ke	1
+猍	lai
+珯	lao
+琅	lang
+琅	lang	12283
 琅东客运站	lang dong ke yun zhan	151
 琅勃拉邦省	lang bo la bang sheng	100
 琅声雅集	lang sheng ya ji	100
@@ -3848,9 +4133,24 @@ sort: by_weight
 琅琊高手榜	lang ya gao shou bang	100
 琅邪	lang ya	12
 琅邪王	lang ya wang	100
+琜	lai
+瑯	lang
+璼	lan
+瓎	la
+瓓	lan
+疠	lai
+痨	lao
+痨	lao	1271
 痨病	lao bing	1620
+瘌	la
+瘌	la	1496
 瘌痢	la li	725
 瘌痢头	la li tou	345
+癆	lao
+癘	lai
+癞	la
+癞	lai
+癞	lai	5773
 癞头	lai tou	1165
 癞头鼋	lai tou yuan	9999
 癞子	lai zi	3025
@@ -3866,9 +4166,28 @@ sort: by_weight
 癞蛤蟆想吃天鹅肉	lai ha ma xiang chi tian e rou	1220
 癞蛤蟆短刀斩	lai ha ma duan dao zhan	100
 癞蛤蟆草	lai ha ma cao	100
+癩	lai
+睐	lai
+睐	lai	6282
+睞	lai
+砬	la
+砬	la	262
+硓	lao
+硠	lang
+磖	la
+磱	lao
+稂	lang
+稂	lang	20
 稂不稂莠不莠	lang bu lang you bu you	1
 稂莠	lang you	65
 稂莠不齐	lang you bu qi	1
+窂	lao
+筙	lai
+筤	lang
+筤	lang	1
+箂	lai
+篮	lan
+篮	lan	92437
 篮下	lan xia	1261
 篮下三秒钟	lan xia san miao zhong	100
 篮下命中率	lan xia ming zhong lv	100
@@ -3933,7 +4252,22 @@ sort: by_weight
 篮网	lan wang	5145
 篮网队	lan wang dui	156
 篮色狮子头	lan se shi zi tou	1
+簩	lao
+籁	lai
+籁	lai	9564
+籃	lan
+籟	lai
+籣	lan
+粩	lao
+糷	lan
+絡	lao
+繿	lan
+纜	lan
+络	lao
+络	lao	1
 络子	lao zi	2
+缆	lan
+缆	lan	4706
 缆桩	lan zhuang	340
 缆索	lan suo	2425
 缆索吊椅	lan suo diao yi	100
@@ -3942,7 +4276,12 @@ sort: by_weight
 缆车	lan che	33820
 缆车线	lan che xian	100
 缆车道	lan che dao	100
+罱	lan
+罱	lan	150
 罱泥船	lan ni chuan	100
+翋	la
+老	lao
+老	lao	3762961
 老一代	lao yi dai	8490
 老一套	lao yi tao	4795
 老一辈	lao yi bei	29400
@@ -5697,6 +6036,12 @@ sort: by_weight
 老龙窝	lao long wo	7
 老龟	lao gui	2015
 老龟刳肠	lao gui ku chang	1
+耂	lao
+耢	lao
+耢	lao	17
+耮	lao
+腊	la
+腊	la	36785
 腊兔肉	la tu rou	22
 腊八	la ba	2370
 腊八了	la ba le	100
@@ -5846,8 +6191,17 @@ sort: by_weight
 腊鱼	la yu	975
 腊鸡腿	la ji tui	130
 腊鸭	la ya	1370
+臈	la
+臘	la
+艆	lang
+荖	lao
+荖	lao	12
+莨	lang
+莨	lang	98
 莨菪	lang dang	1
 莨菪碱	lang dang jian	1
+莱	lai
+莱	lai	152961
 莱万多夫斯基	lai wan duo fu si ji	107
 莱万汀	lai wan ting	100
 莱丰网	lai feng wang	100
@@ -6002,9 +6356,16 @@ sort: by_weight
 莱雅菊	lai ya ju	1
 莱顿大学	lai dun da xue	100
 莱齐耶三世	lai qi ye san shi	100
+菈	la
+菈	la	1
 菈利基姆	la li ji mu	1
 菈希莉	la xi li	1
 菈莱丝	la lai si	1
+萊	lai
+落	la
+落	la	10000
+落	lao
+落	lao	10000
 落下	la xia	109635
 落下后	la xia hou	100
 落下时	la xia shi	100
@@ -6033,6 +6394,12 @@ sort: by_weight
 落落汗	lao lao han	100
 落车上	la che shang	100
 落车上了	la che shang le	100
+葻	lan
+蒗	lang
+蒗	lang	115
+蓈	lang
+蓝	lan
+蓝	lan	431855
 蓝丁胶	lan ding jiao	100
 蓝不啦唧	lan bu la ji	100
 蓝不啦唧的	lan bu la ji de	100
@@ -6538,6 +6905,17 @@ sort: by_weight
 蓝鼎元	lan ding yuan	14
 蓝龙	lan long	4745
 蓝龙魂	lan long hun	100
+蓢	lang
+蓢	lang	1
+藍	lan
+藞	la
+藾	lai
+蘫	lan
+蘭	lan
+蛯	lao
+蜋	lang
+蜡	la
+蜡	la	26302
 蜡丸	la wan	750
 蜡人	la ren	1465
 蜡人馆	la ren guan	100
@@ -6615,14 +6993,33 @@ sort: by_weight
 蜡黄云朵芋螺	la huang yun duo yu luo	1
 蜡黄色	la huang se	100
 蜡黄芋螺	la huang yu luo	1
+蝋	la
+蝲	la
+蝲	la	10
 蝲蛄	la gu	1
 蝲蛄科	la gu ke	1
 蝲蝲蛄	la la gu	9999
+螂	lang
+螂	lang	12502
+蟧	lao
+蠟	la
+褴	lan
+褴	lan	3959
 褴褛	lan lv	2960
 褴褛不堪	lan lv bu kan	100
 褴褛的披风	lan lv de pi feng	100
 褴褛筚路	lan lv bi lu	2
 褴褛衣衫	lan lv yi shan	100
+襕	lan
+襕	lan	71
+襤	lan
+襰	lai
+襴	lan
+襽	lan
+覧	lan
+覽	lan
+览	lan
+览	lan	35433
 览古	lan gu	1380
 览察草木其犹未得兮	lan cha cao mu qi you wei de xi	1
 览峰泰山	lan feng tai shan	87
@@ -6633,7 +7030,19 @@ sort: by_weight
 览百卉之英茂	lan bai hui zhi ying mao	1
 览胜	lan sheng	9999
 览闻辩见	lan wen bian jian	1
+誏	lang
+誺	lai
+譋	lan
+讕	lan
+谰	lan
+谰	lan	379
 谰言	lan yan	470
+賚	lai
+賴	lai
+赉	lai
+赉	lai	349
+赖	lai
+赖	lai	118093
 赖上	lai shang	123
 赖上了	lai shang le	123
 赖上你了	lai shang ni le	100
@@ -6736,6 +7145,14 @@ sort: by_weight
 赖雅妍	lai ya yan	40
 赖马庄	lai ma zhuang	3
 赖骨顽皮	lai gu wan pi	100
+躝	lan
+躴	lang
+躼	lao
+軂	lao
+轑	lao
+辢	la
+辣	la
+辣	la	82598
 辣不辣	la bu la	2222
 辣丝丝	la si si	9999
 辣么	la me	111
@@ -6845,12 +7262,17 @@ sort: by_weight
 辣馒头	la man tou	139
 辣鱼蛋	la yu dan	12
 辣鸡	la ji	1
+逨	lai
+邋	la
+邋	la	4653
 邋遢	la ta	14220
 邋遢大王	la ta da wang	100
 邋遢大王奇遇记	la ta da wang qi yu ji	100
 邋遢鬼	la ta gui	200
 邋邋遢遢	la la ta ta	560
 邋里邋遢	la li la ta	710
+郎	lang
+郎	lang	182457
 郎不郎秀不秀	lang bu lang xiu bu xiu	1
 郎世宁	lang shi ning	100
 郎中	lang zhong	24660
@@ -6904,6 +7326,11 @@ sort: by_weight
 郎骑竹马来	lang qi zhu ma lai	31
 郎鹤炎	lang he yan	100
 郎鹤焱	lang he yan	152
+郒	lang
+郞	lang
+郲	lai
+酪	lao
+酪	lao	5022
 酪农业	lao nong ye	100
 酪农场	lao nong chang	100
 酪梨	lao li	2425
@@ -6921,6 +7348,9 @@ sort: by_weight
 酪酸梭菌	lao suan suo jun	1
 酪酸梭菌活菌胶囊	lao suan suo jun huo jun jiao nang	2
 酪醇	lao chun	1
+醂	lan
+醪	lao
+醪	lao	498
 醪糟	lao zao	4200
 醪糟小汤圆	lao zao xiao tang yuan	6
 醪糟罐头	lao zao guan tou	6
@@ -6928,16 +7358,40 @@ sort: by_weight
 醪糟鸡汤	lao zao ji tang	1
 醪糟鸡蛋	lao zao ji dan	68
 醪糟麻花	lao zao ma hua	18
+銠	lao
+鋃	lang
+錸	lai
+鎯	lang
+鐒	lao
+鑞	la
+鑭	lan
+钄	lan
+铑	lao
+铑	lao	25
 铑元素	lao yuan su	100
+铹	lao
+铹	lao	2
 铹元素	lao yuan su	100
+铼	lai
+铼	lai	15
 铼元素	lai yuan su	100
 铼矿	lai kuang	5
+锒	lang
+锒	lang	873
 锒铛	lang dang	1
 锒铛入狱	lang dang ru yu	2920
+镧	lan
+镧	lan	46
 镧元素	lan yuan su	100
 镧系	lan xi	9
 镧系元素	lan xi yuan su	100
+镴	la
+镴	la	22
 镴枪头	la qiang tou	136
+閬	lang
+闌	lan
+阆	lang
+阆	lang	820
 阆中	lang zhong	10375
 阆中县	lang zhong xian	275
 阆中市	lang zhong shi	2185
@@ -6951,6 +7405,8 @@ sort: by_weight
 阆苑瑶台	lang yuan yao tai	2
 阆苑瑶池	lang yuan yao chi	2
 阆风巅	lang feng dian	100
+阑	lan
+阑	lan	10423
 阑入	lan ru	870
 阑尾	lan wei	710
 阑尾切除术	lan wei qie chu shu	100
@@ -6964,4 +7420,171 @@ sort: by_weight
 阑珊处	lan shan chu	100
 阑风伏雨	lan feng fu yu	2
 阑风长雨	lan feng zhang yu	1
+鞡	la
+鞡	la	10
+韊	lan
+頼	lai
+顂	lai
+顟	lao
+顲	lan
+駺	lang
+騋	lai
+髝	lao
+鬎	la
+鮱	lao
+鯠	lai
+鯻	la
 鯻鱼	la yu	1
+鵣	lai
+鶆	lai
+麳	lai
+鿶	lang
+𠈭	lao
+𠎙	lai
+𠓖	lan
+𠓭	lan
+𠘝	lai
+𠺘	lang
+𠻴	lang
+𠼖	lan
+𠾩	la
+𡂕	lao
+𡂖	lai
+𡃄	lai
+𡅘	la
+𡉆	la
+𡑍	lao
+𡒄	lan
+𡓒	lai
+𡓔	lan
+𡬘	lao
+𡮻	lan
+𡽳	lan
+𢃴	la
+𢅡	lan
+𢅭	lai
+𢈠	la
+𢉧	lan
+𢉨	la
+𢊓	lan
+𢑬	lai
+𢒞	lan
+𢚄	lao
+𢛓	lan
+𢤆	la
+𢭂	lao
+𢳑	lang
+𢹙	lan
+𢽂	lang
+𣊧	lang
+𣋣	lan
+𣖤	lai
+𣘪	lao
+𣛱	lan
+𣟽	lao
+𣠼	lao
+𣤊	la
+𣻡	lang
+𤀦	la
+𤂺	lan
+𤃨	lan
+𤉍	lao
+𤊶	la
+𤎤	lao
+𤑸	lan
+𤛊	la
+𤛮	lao
+𤢗	lai
+𤣟	lan
+𤦃	lai
+𤩂	lao
+𤰚	la
+𤲓	lai
+𤶁	lao
+𤷟	la
+𥀥	la
+𥀰	la
+𥇑	lang
+𥈙	la
+𥌻	lan
+𥍫	lang
+𥖍	la
+𥗺	lan
+𥗿	la
+𥘁	la
+𥜓	lan
+𥢒	lao
+𥦝	lan
+𥧫	lang
+𦅶	la
+𦆋	lai
+𦆻	la
+𦇛	la
+𦎏	la
+𦒆	la
+𦒦	la
+𦒴	lao
+𦓹	lai
+𦧼	lan
+𦵧	lang
+𦺜	lao
+𦺫	lang
+𧗩	la
+𧙀	la
+𧚅	lang
+𧞪	la
+𧢋	lao
+𧩲	la
+𧮤	lan
+𧯍	lao
+𧯲	lai
+𧳕	lai
+𧳟	lai
+𧵭	lai
+𧸦	lan
+𧻴	lang
+𧼖	lan
+𨂐	lai
+𨅏	lan
+𨇆	lai
+𨊔	lan
+𨎹	lan
+𨞿	lang
+𨡤	lao
+𨣃	lao
+𨣨	lan
+𨣸	lan
+𨦂	lai
+𨦭	lao
+𨬒	lan
+𨭛	la
+𨲮	lao
+𨶗	lang
+𨷻	lan
+𩃜	la
+𩈵	lan
+𩉀	lan
+𩋷	la
+𩑮	la
+𩔵	lan
+𩘊	la
+𩛡	lang
+𩟺	lan
+𩤲	la
+𩧆	la
+𩯽	la
+𩳆	lai
+𩳤	lang
+𩷕	lang
+𪀧	lao
+𪁔	lao
+𪁜	lang
+𪇖	lan
+𪇹	la
+𪈈	lai
+𪑚	lai
+𫭼	lao	1
+𬒗	lan	1
+𬶟	la	1
+𱉵	lai
+𳐇	lao

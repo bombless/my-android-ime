@@ -3,8 +3,105 @@ name: merged.di
 version: "1.0"
 sort: by_weight
 ...
+㑙	die
+㒛	diao
+㓠	dian
+㚲	dian
+㝎	ding
+㝪	dian
+㝪	ding
+㞟	dian
+㡳	di
+㢩	di
+㣙	di
+㥆	dian
+㥈	die
+㦅	di
+㦅	die
+㦶	die
+㩸	die
+㩹	die
+㪆	di
+㪕	diao
+㫀	ding
+㫼	die
+㬪	die
+㭯	die
+㭽	di
+㰅	di
+㲲	die
+㲳	die
+㴿	ding
+㵤	dian
+㶘	dian
+㷸	die
+㸃	dian
+㹍	di
+㹿	diao
+㻡	die
+㼗	ding
+㼭	dian
+㼵	di
+䀸	di
+䀿	di
+䂡	di
+䂪	diao
+䂽	diao
+䃅	di	1
+䄪	diao
+䄷	diao
+䉆	diao
+䊮	di
+䍄	dian
+䍕	di
+䏑	di
+䏲	die
+䑭	di
+䑯	di
+䓦	dian
+䔙	diao
+䗖	di
+䗖	di	1
 䗖𬟽	di dong	2
 䗖𬟽饮河形影联	di dong yin he xing ying lian	2
+䘟	diao
+䘭	die
+䙝	die
+䞇	die
+䞕	die
+䞶	di
+䟍	dian
+䟡	di
+䠟	die
+䠼	diao
+䢑	di
+䣌	di
+䦺	ding
+䧃	dian
+䨀	di
+䨢	di
+䨤	di
+䩘	di
+䩚	di
+䩚	dian
+䮢	die
+䮤	di
+䯼	di
+䰳	ding
+䱃	di
+䱱	di
+䲀	die
+䲦	di
+䳀	die
+䳝	diao
+䳻	die
+䴑	die
+䴞	di
+䵠	di
+䵲	diao
+䶍	di
+丁	ding
+丁	ding	278627
 丁一卯二	ding yi mao er	100
 丁一滕	ding yi teng	136
 丁一确二	ding yi que er	100
@@ -292,6 +389,9 @@ sort: by_weight
 丁骨牛排	ding gu niu pai	100
 丁鱥	ding gui	14
 丁鸿志	ding hong zhi	100
+丟	diu
+丢	diu
+丢	diu	190646
 丢三忘四	diu san wang si	100
 丢三落四	diu san la si	3950
 丢上去	diu shang qu	100
@@ -452,6 +552,12 @@ sort: by_weight
 丢魂丧胆	diu hun sang dan	1
 丢魂失魄	diu hun shi po	8
 丢魂落魄	diu hun luo po	100
+仃	ding
+仃	ding	2331
+仾	di
+伄	diao
+佃	dian
+佃	dian	1870
 佃东	dian dong	2
 佃农	dian nong	4315
 佃坪乡	dian ping xiang	2
@@ -463,6 +569,8 @@ sort: by_weight
 佃租制度	dian zu zhi du	100
 佃起中心村	dian qi zhong xin cun	3
 佃起村	dian qi cun	21
+低	di
+低	di	646263
 低一些	di yi xie	100
 低一点	di yi dian	100
 低一点点	di yi dian dian	95
@@ -1216,6 +1324,14 @@ sort: by_weight
 低龄儿童	di ling er tong	610
 低龄化	di ling hua	5455
 低龋齿性	di qu chi xing	100
+佔	dian
+佚	die
+俤	di
+偙	di
+傎	dian
+僀	di
+典	dian
+典	dian	171037
 典中典	dian zhong dian	100
 典借	dian jie	40
 典册	dian ce	9999
@@ -1322,6 +1438,8 @@ sort: by_weight
 典雅无华	dian ya wu hua	100
 典雅系列	dian ya xi lie	100
 典韦	dian wei	6395
+凋	diao
+凋	diao	8718
 凋亡	diao wang	8750
 凋得慢	diao de man	100
 凋敝	diao bi	2385
@@ -1335,6 +1453,8 @@ sort: by_weight
 凋败	diao bai	9999
 凋零	diao ling	23930
 凋零磨灭	diao ling mo mie	1
+刁	diao
+刁	diao	23103
 刁东农场	diao dong nong chang	2
 刁亦男	diao yi nan	100
 刁口	diao kou	33
@@ -1372,6 +1492,11 @@ sort: by_weight
 刁顽	diao wan	255
 刁顽不化	diao wan bu hua	5
 刁风弄月	diao feng nong yue	1
+刟	diao
+厎	di
+厧	dian
+叠	die
+叠	die	51212
 叠一叠	die yi die	171
 叠个千纸鹤	die ge qian zhi he	100
 叠了	die le	945
@@ -1450,6 +1575,8 @@ sort: by_weight
 叠起来	die qi lai	1710
 叠踵摩肩	die zhong mo jian	100
 叠韵	die yun	1505
+叮	ding
+叮	ding	62022
 叮人	ding ren	380
 叮人战术	ding ren zhan shu	100
 叮叮	ding ding	9200
@@ -1475,6 +1602,8 @@ sort: by_weight
 叮当猫	ding dang mao	100
 叮当镯	ding dang zhuo	100
 叮问	ding wen	35
+叼	diao
+叼	diao	13048
 叼了	diao le	1510
 叼住	diao zhu	333
 叼出来	diao chu lai	1180
@@ -1489,6 +1618,8 @@ sort: by_weight
 叼着雪茄	diao zhe xue jia	100
 叼着香烟	diao zhe xiang yan	100
 叼走	diao zou	1820
+吊	diao
+吊	diao	67131
 吊上去	diao shang qu	100
 吊上来	diao shang lai	235
 吊下去	diao xia qu	100
@@ -1673,6 +1804,19 @@ sort: by_weight
 吊饰	diao shi	4150
 吊马庄	diao ma zhuang	3
 吊黄楼	diao huang lou	148
+呧	di
+咥	die
+咥	die	1
+哋	di
+哋	die
+唙	di
+啇	di
+啑	die
+啲	di
+啶	ding
+啶	ding	95
+喋	die
+喋	die	12871
 喋喋	die die	985
 喋喋不休	die die bu xiu	17635
 喋喋不已	die die bu yi	100
@@ -1680,9 +1824,13 @@ sort: by_weight
 喋血	die xue	4860
 喋血长江	die xie chang jiang	100
 喋血长江	die xue chang jiang	100
+嗲	dia
+嗲	dia	763
 嗲嗲	dia dia	5555
 嗲嗲的	dia dia de	5555
 嗲声嗲气	dia sheng dia qi	2485
+嘀	di
+嘀	di	42614
 嘀咕	di gu	27670
 嘀咕着	di gu zhe	8065
 嘀哩	di li	9999
@@ -1707,6 +1855,10 @@ sort: by_weight
 嘀里嗒啦	di li da la	9999
 嘀里嘟噜	di li du lu	30
 嘀铃铃	di ling ling	31
+嚁	di
+嚸	dian
+地	di
+地	di	8804040
 地丁三味汤散	di ding san wei tang san	9
 地丁草	di ding cao	165
 地三鲜	di san xian	1307
@@ -4040,6 +4192,16 @@ sort: by_weight
 地龙鳞盔甲	di long lin kui jia	1
 地龟	di gui	1
 地𬷕	di bu	2
+坔	di
+坘	di
+坫	dian
+坫	dian	60
+坻	di
+坻	di	419
+垤	die
+垤	die	34
+垫	dian
+垫	dian	30164
 垫一下	dian yi xia	4650
 垫一垫	dian yi dian	1180
 垫上	dian shang	10460
@@ -4105,8 +4267,15 @@ sort: by_weight
 垫钱	dian qian	1080
 垫铁	dian tie	3550
 垫高	dian gao	6890
+埅	di
+埊	di
+埞	di
+堞	die
+堞	die	560
 堞口	die kou	30
 堞楼	die lou	55
+堤	di
+堤	di	19816
 堤上	di shang	4440
 堤下街	di xia jie	2
 堤下连樯堤上楼	di xia lian qiang di shang lou	1
@@ -4138,6 +4307,16 @@ sort: by_weight
 堤防所	di fang suo	20
 堤防道	di fang dao	100
 堤顶大路	di ding da lu	100
+墆	di
+墊	dian
+墑	di
+墬	di
+壂	dian
+奃	di
+奌	dian
+奝	diao
+奠	dian
+奠	dian	12902
 奠仪	dian yi	365
 奠基	dian ji	12560
 奠基人	dian ji ren	10550
@@ -4163,6 +4342,15 @@ sort: by_weight
 奠立	dian li	1015
 奠都	dian du	75
 奠酒	dian jiu	570
+奵	ding
+娣	di
+娣	di	4964
+婝	dian
+婰	dian
+媂	di
+媂	di	1
+嫡	di
+嫡	di	9082
 嫡亲	di qin	2000
 嫡传	di chuan	2535
 嫡传弟子	di chuan di zi	1155
@@ -4186,6 +4374,8 @@ sort: by_weight
 嫡长子继承制度	di zhang zi ji cheng zhi du	100
 嫡长孙	di zhang sun	100
 嫡长继承制	di zhang ji cheng zhi	58
+定	ding
+定	ding	2738825
 定一下	ding yi xia	834
 定一个	ding yi ge	100
 定一些	ding yi xie	640
@@ -4800,6 +4990,8 @@ sort: by_weight
 定魂石	ding hun shi	8
 定鼎	ding ding	1940
 定鼎路	ding ding lu	55
+屌	diao
+屌	diao	93026
 屌不	diao bu	9999
 屌不屌	diao bu diao	1111
 屌丝	diao si	9999
@@ -4825,6 +5017,16 @@ sort: by_weight
 屌爆	diao bao	1111
 屌爆了	diao bao le	9999
 屌翻了	diao fan le	100
+岻	di
+峌	die
+崼	die
+嵮	dian
+嵽	di
+嵽	die
+嵿	ding
+嶳	di
+巅	dian
+巅	dian	9967
 巅峰	dian feng	43185
 巅峰娱乐	dian feng yu le	100
 巅峰实力	dian feng shi li	100
@@ -4836,6 +5038,11 @@ sort: by_weight
 巅峰状态	dian feng zhuang tai	2505
 巅峰计划	dian feng ji hua	163
 巅崖峻谷	dian ya jun gu	100
+巓	dian
+巔	dian
+帄	ding
+帝	di
+帝	di	643284
 帝业	di ye	2140
 帝乡	di xiang	1310
 帝乡不可期	di xiang bu ke qi	3
@@ -4958,6 +5165,9 @@ sort: by_weight
 帝释无双	di shi wu shuang	1
 帝陵	di ling	1111
 帝高阳之苗裔兮	di gao yang zhi miao yi xi	17
+幉	die
+底	di
+底	di	806359
 底下	di xia	94700
 底下人	di xia ren	840
 底下的	di xia de	101
@@ -5101,6 +5311,8 @@ sort: by_weight
 底面	di mian	14435
 底面积	di mian ji	1810
 底鼓	di gu	123
+店	dian
+店	dian	356601
 店上村委会	dian shang cun wei hui	3
 店下	dian xia	75
 店东	dian dong	1
@@ -5168,6 +5380,10 @@ sort: by_weight
 店面规模	dian mian gui mo	100
 店面间	dian mian jian	100
 店风	dian feng	260
+廸	di
+弔	diao
+弟	di
+弟	di	931804
 弟兄	di xiong	47425
 弟兄们	di xiong men	17590
 弟兄姐妹舞翩跹	di xiong jie mei wu pian xian	2
@@ -5198,6 +5414,16 @@ sort: by_weight
 弟男子侄	di nan zi zhi	1
 弟瘦兄肥	di shou xiong fei	100
 弟走从军阿姨死	di zou cong jun a yi si	100
+弤	di
+弴	diao
+彫	diao
+彽	di
+忊	ding
+怟	di
+怢	die
+恎	die
+惦	dian
+惦	dian	13189
 惦念	dian nian	5235
 惦念着	dian nian zhe	2265
 惦挂	dian gua	240
@@ -5205,6 +5431,15 @@ sort: by_weight
 惦着	dian zhe	1660
 惦记	dian ji	13755
 惦记着	dian ji zhe	15720
+惵	die
+慸	di
+戜	die
+扂	dian
+扂	dian	1
+扚	di
+扚	diao
+抵	di
+抵	di	168424
 抵万金	di wan jin	130
 抵上	di shang	2620
 抵不上	di bu shang	2670
@@ -5377,6 +5612,10 @@ sort: by_weight
 抵钱	di qian	2468
 抵销	di xiao	9
 抵销债务	di xiao zhai wu	100
+拞	di
+挕	die
+掂	dian
+掂	dian	12450
 掂一掂	dian yi dian	456
 掂不出	dian bu chu	45
 掂了掂	dian le dian	123
@@ -5396,6 +5635,8 @@ sort: by_weight
 掂量着	dian liang zhe	1215
 掂量着点	dian liang zhe dian	100
 掂量着点儿	dian liang zhe dian er	100
+掉	diao
+掉	diao	586059
 掉一地	diao yi di	100
 掉三寸之舌	diao san cun zhi she	6
 掉三寸舌	diao san cun she	3
@@ -5548,6 +5789,10 @@ sort: by_weight
 掉馅饼	diao xian bing	100
 掉马甲	diao ma jia	181
 掉魂	diao hun	195
+掋	di
+掟	ding
+提	di
+提	di	1
 提溜	di liu	945
 提溜不动	di liu bu dong	1111
 提防	di fang	36905
@@ -5557,6 +5802,13 @@ sort: by_weight
 提防小手	di fang xiao shou	100
 提防着	di fang zhe	2240
 提防老千	di fang lao qian	100
+揥	di
+揲	die
+摕	di
+攧	dian
+敁	dian
+敌	di
+敌	di	534220
 敌不住	di bu zhu	485
 敌不可假	di bu ke jia	1
 敌不可纵	di bu ke zong	2
@@ -5668,11 +5920,43 @@ sort: by_weight
 敌酋	di qiu	730
 敌阵	di zhen	5930
 敌阵地	di zhen di	100
+敟	dian
+敵	di
+旳	di
+昳	die
+昳	die	301
+曡	die
+杕	di
+杕	di	2
+枑	di
+枤	di
+柢	di
+柢	di	308
+柣	die
+梊	di
+梑	di
+棣	di
+棣	di	8329
 棣华增映	di hua zeng ying	1
 棣棠	di tang	11
 棣美弗定理	di mei fu ding li	10
+椆	diao
+椗	ding
+椣	dian
+楪	die
+楪	die	1
 楪可怜	die ke lian	6666
+楴	di
+槇	dian
+槙	dian
 槙原敬之	dian yuan jing zhi	2
+槢	die
+樀	di
+橂	dian
+橝	dian
+殜	die
+殿	dian
+殿	dian	225035
 殿上	dian shang	9015
 殿下	dian xia	64070
 殿下本人	dian xia ben ren	100
@@ -5701,12 +5985,21 @@ sort: by_weight
 殿阁楼台	dian ge lou tai	100
 殿陛之间	dian bi zhi jian	100
 殿魁	dian kui	280
+氎	die
+氐	di
+氐	di	2156
 氐人	di ren	7
 氐土貉	di tu he	100
 氐土貉	di tu mo	100
 氐宿	di xiu	28
 氐族	di zu	7
+汈	diao
+汈	diao	5
 汈汊湖	diao cha hu	110
+泆	die
+浟	di
+涤	di
+涤	di	7510
 涤亲溺器	di qin niao qi	100
 涤卡	di ka	630
 涤地无类	di di wu lei	1
@@ -5736,6 +6029,8 @@ sort: by_weight
 涤除抵押权	di chu di ya quan	2
 涤魂圣枪	di hun sheng qiang	100
 涤魂圣枪赛娜	di hun sheng qiang sai na	100
+淀	dian
+淀	dian	8590
 淀北片	dian bei pian	100
 淀山湖	dian shan hu	2890
 淀浦河	dian pu he	1180
@@ -5764,6 +6059,9 @@ sort: by_weight
 淀粉酶制剂	dian fen mei zhi ji	5
 淀粉酶口服液	dian fen mei kou fu ye	1
 淀谓之滓	dian wei zhi zi	100
+渧	di
+滇	dian
+滇	dian	5347
 滇䴓	dian shi	1
 滇东南	dian dong nan	810
 滇中地区	dian zhong di qu	100
@@ -5797,6 +6095,9 @@ sort: by_weight
 滇重楼	dian chong lou	100
 滇金丝猴	dian jin si hou	156
 滇黔石蝴蝶	dian qian shi hu die	1
+滌	di
+滴	di
+滴	di	147754
 滴一滴	di yi di	1195
 滴上	di shang	3755
 滴上去	di shang qu	100
@@ -5918,6 +6219,10 @@ sort: by_weight
 滴露	di lu	2
 滴露研朱	di lu yan zhu	3
 滴鼻剂	di bi ji	930
+澱	dian
+濎	ding
+点	dian
+点	dian	3978856
 点一下	dian yi xia	9440
 点一下关注	dian yi xia guan zhu	100
 点一下赞	dian yi xia zan	100
@@ -6462,6 +6767,9 @@ sort: by_weight
 点首	dian shou	2230
 点验	dian yan	1010
 点鬼火	dian gui huo	100
+焍	di
+爹	die
+爹	die	147569
 爹之哀伤	die zhi ai shang	100
 爹味	die wei	9999
 爹味儿	die wei er	9999
@@ -6477,8 +6785,14 @@ sort: by_weight
 爹爹娘娘	die die niang niang	100
 爹爹爹爹	die die die die	100
 爹言爹语	die yan die yu	100
+牃	die
+牒	die
+牒	die	3502
 牒文	die wen	5
 牒牍	die du	5
+牴	di
+狄	di
+狄	di	58778
 狄亚得十字弓	di ya de shi zi gong	1
 狄亚得双刀	di ya de shuang dao	1
 狄亚得采矿	di ya de cai kuang	1
@@ -6522,11 +6836,26 @@ sort: by_weight
 狄青	di qing	2
 狄飞惊	di fei jing	109
 狄龙	di long	2
+玎	ding
+玎	ding	802
 玎玲	ding ling	2222
+玓	di
+玓	di	4
+玷	dian
+玷	dian	4894
 玷污	dian wu	17200
 玷污了	dian wu le	100
 玷瑕	dian xia	20
 玷辱	dian ru	1010
+珶	di
+琔	dian
+琔	dian	1
+琱	diao
+瓞	die
+瓞	die	54
+甋	di
+电	dian
+电	dian	1308303
 电三轮	dian san lun	85
 电业	dian ye	899
 电业中学	dian ye zhong xue	2
@@ -8841,11 +9170,31 @@ sort: by_weight
 电麻醉	dian ma zui	20
 电龙	dian long	111
 电龙魂	dian long hun	100
+甸	dian
+甸	dian	23242
 甸儿	dian er	115
 甸柳街道	dian liu jie dao	17
+町	ding
+町	ding	3824
+甼	ding
+畳	die
+疂	die
+疉	die
+疊	die
+疐	di
+疔	ding
+疔	ding	125
 疔毒	ding du	430
 疔疮	ding chuang	1640
 疔疮走黄	ding chuang zou huang	3
+痁	dian
+痶	dian
+瘨	dian
+瘹	diao
+癜	dian
+癜	dian	155
+癫	dian
+癫	dian	11357
 癫人	dian ren	147
 癫仔	dian zai	3
 癫佬	dian lao	12
@@ -8870,6 +9219,9 @@ sort: by_weight
 癫痫症	dian xian zheng	100
 癫痫遗传	dian xian yi chuan	100
 癫癫的	dian dian de	113
+癲	dian
+的	di
+的	di	106917
 的一确二	di yi que er	100
 的卢	di lu	10835
 的卢镫	di lu deng	2
@@ -8911,6 +9263,9 @@ sort: by_weight
 的证	di zheng	1
 的里雅斯特	di li ya si te	100
 的黎波里	di li bo li	2895
+盄	diao
+盯	ding
+盯	ding	215010
 盯一下	ding yi xia	338
 盯一盯	ding yi ding	62
 盯上	ding shang	9145
@@ -8969,7 +9324,16 @@ sort: by_weight
 盯紧重点	ding jin zhong dian	100
 盯视	ding shi	2530
 盯防	ding fang	3515
+眣	die
+眰	die
+眱	di
+睇	di
+睇	di	889
 睇暮眼蝶	di mu yan die	1
+瞗	diao
+矴	ding
+砥	di
+砥	di	2013
 砥兵砺伍	di bing li wu	1
 砥平绳直	di ping sheng zhi	1
 砥廉峻隅	di lian jun yu	1
@@ -9000,14 +9364,20 @@ sort: by_weight
 砥行立名	di xing li ming	3
 砥身砺行	di shen li xing	100
 砥锋挺锷	di feng ting e	1
+碇	ding
+碇	ding	387
 碇泊费	ding bo fei	100
 碇源堂	ding yuan tang	121
 碇真嗣	ding zhen si	147
+碉	diao
+碉	diao	4403
 碉堡	diao bao	13040
 碉堡了	diao bao le	100
 碉堡山	diao bao shan	5
 碉楼	diao lou	9930
 碉群	diao qun	300
+碘	dian
+碘	dian	1109
 碘伏	dian fu	3252
 碘佛醇	dian fo chun	5
 碘元素	dian yuan su	100
@@ -9048,6 +9418,8 @@ sort: by_weight
 碘酸钾	dian suan jia	1145
 碘钨灯	dian wu deng	630
 碘镓灯	dian jia deng	189
+碟	die
+碟	die	29736
 碟中谍	die zhong die	100
 碟仙前传	die xian qian zhuan	100
 碟儿	die er	2222
@@ -9060,10 +9432,28 @@ sort: by_weight
 碟片	die pian	33690
 碟片数	die pian shu	430
 碟飞系列	die fei xi lie	100
+碠	ding
+碮	di
+碲	di
+碲	di	54
 碲元素	di yuan su	100
 碲化氢	di hua qing	123
 碲醚	di mi	7
+磸	ding
+磹	dian
+磾	di
+祶	di
+禘	di
+禘	di	33
+秪	di
+窎	diao
+窎	diao	12
 窎远	diao yuan	40
+窴	dian
+窵	diao
+竨	diao
+笛	di
+笛	di	43923
 笛中闻折柳	di zhong wen zhe liu	1
 笛卡尔	di ka er	7035
 笛卡尔乘积	di ka er cheng ji	111
@@ -9088,6 +9478,8 @@ sort: by_weight
 笛鲷	di diao	16
 笛鲷属	di diao shu	100
 笛鲷科	di diao ke	100
+第	di
+第	di	2558818
 第一	di yi	500955
 第一下	di yi xia	1138
 第一世家	di yi shi jia	100
@@ -12770,9 +13162,23 @@ sort: by_weight
 第聂伯	di nie bo	144
 第聂伯河	di nie bo he	1850
 第频道	di pin dao	100
+篴	di
+簓	diao
+簟	dian
+簟	dian	301
 簟纹如水	dian wen ru shui	3
+籴	di
+籴	di	140
 籴米	di mi	3
 籴贱贩贵	di jian fan gui	100
+糴	di
+絩	diao
+絰	die
+締	di
+绖	die
+绖	die	16
+缔	di
+缔	di	8273
 缔交	di jiao	230
 缔合	di he	1665
 缔合物	di he wu	1
@@ -12796,11 +13202,36 @@ sort: by_weight
 缔造出	di zao chu	100
 缔造奇迹	di zao qi ji	100
 缔造者	di zao zhe	10015
+羝	di
+羝	di	236
 羝乳得归	di ru de gui	1
 羝羊触藩	di yang chu fan	260
+翟	di
+翟	di	876
 翟东升	di dong sheng	100
+耊	die
+耋	die
+耋	die	524
+耵	ding
+耵	ding	19
 耵聍	ding ning	450
 耵聍栓塞	ding ning shuan se	19
+聜	di
+聢	ding
+肑	di
+胅	die
+腚	ding
+腚	ding	1878
+腣	di
+臷	die
+艓	die
+艼	ding
+苐	di
+苖	di
+苵	die
+茋	di	2
+荻	di
+荻	di	6563
 荻塘女子	di tang nv zi	1
 荻村	di cun	110
 荻海	di hai	7
@@ -12811,6 +13242,13 @@ sort: by_weight
 荻荻龙	di di long	811
 荻蛀茎夜蛾羽角姬小蜂	di zhu jing ye e yu jiao ji xiao feng	1
 荻野真	di ye zhen	2
+菂	di
+菂	di	9
+菧	di
+萣	ding
+萣	ding	6
+蒂	di
+蒂	di	105801
 蒂亚	di ya	2
 蒂勒曼斯	di le man si	142
 蒂勒森	di le sen	100
@@ -12844,7 +13282,27 @@ sort: by_weight
 蒂落	di luo	200
 蒂蒙斯	di meng si	188
 蒂诺	di nuo	1
+蒧	dian
+蓧	di
+蓧	diao
+蔋	di
+蔐	di
+蔕	di
+蕇	dian
+薡	ding
+藋	diao
+藡	di
+虭	diao
+虰	ding
+蛁	diao
 蛁蟟	diao liao	1
+蜔	dian
+蜨	die
+蝃	di
+蝊	ding
+蝭	di
+蝶	die
+蝶	die	89194
 蝶之毒	die zhi du	156
 蝶乱蜂狂	die luan feng kuang	100
 蝶使蜂媒	die shi feng mei	100
@@ -12894,9 +13352,29 @@ sort: by_weight
 蝶飞儿	die fei er	1
 蝶飞花舞	die fei hua wu	8
 蝶骨	die gu	565
+螮	di
+螲	die
 螲蟷	die dang	1
 螲蟷科	die dang ke	2
+袛	di
+褋	die
+褺	die
+覿	di
+觌	di
+觌	di	148
 觌面	di mian	520
+觝	di
+訂	ding
+訋	diao
+詄	die
+詆	di
+誂	diao
+調	diao
+諜	die
+諟	di
+諦	di
+订	ding
+订	ding	65104
 订一下	ding yi xia	478
 订一个	ding yi ge	72
 订一束	ding yi shu	100
@@ -13055,9 +13533,13 @@ sort: by_weight
 订餐电话	ding can dian hua	11155
 订餐系统	ding can xi tong	87
 订餐统计	ding can tong ji	12
+诋	di
+诋	di	3468
 诋毁	di hui	25855
 诋毁组	di hui zu	100
 诋訾	di zi	60
+调	diao
+调	diao	542792
 调一调	diao yi diao	123
 调三惑四	diao san huo si	5
 调上来	diao shang lai	345
@@ -13653,6 +14135,8 @@ sort: by_weight
 调集力量	diao ji li liang	100
 调露	diao lu	1
 调顺跨海大桥	diao shun kua hai da qiao	100
+谍	die
+谍	die	18611
 谍对谍	die dui die	100
 谍影	die ying	1570
 谍影行动	die ying xing dong	100
@@ -13665,9 +14149,14 @@ sort: by_weight
 谍报人员	die bao ren yuan	845
 谍报员	die bao yuan	100
 谍照	die zhao	366
+谛	di
+谛	di	7639
 谛分审布	di fen shen bu	1
 谛听	di ting	6475
 谛视	di shi	540
+豴	di
+貂	diao
+貂	diao	12832
 貂冠水苍玉	diao guan shui cang yu	1
 貂熊	diao xiong	265
 貂狗相属	diao gou xiang zhu	5
@@ -13680,6 +14169,10 @@ sort: by_weight
 貂裘	diao qiu	1800
 貂裘换酒	diao qiu huan jiu	100
 貂裘换酒也堪豪	diao qiu huan jiu ye kan hao	3
+趃	die
+趆	di
+跌	die
+跌	die	85274
 跌下	die xia	7110
 跌下了	die xia le	100
 跌下了神坛	die xia le shen tan	100
@@ -13806,6 +14299,11 @@ sort: by_weight
 跌逾	die yu	111
 跌阳脉	die yang mai	1
 跌风	die feng	85
+跕	dian
+跕	die
+跮	die
+踮	dian
+踮	dian	4259
 踮一踮	dian yi dian	234
 踮了踮	dian le dian	234
 踮着脚	dian zhe jiao	1440
@@ -13819,10 +14317,21 @@ sort: by_weight
 踮起脚尖爱	dian qi jiao jian ai	133
 踮起脚来	dian qi jiao lai	100
 踮踮脚	dian dian jiao	189
+踶	di
+踶	di	10
+蹀	die
+蹀	die	192
 蹀踱	die duo	5
 蹀躞	die xie	505
 蹀躞不下	die xie bu xia	1
 蹀里蹀斜	die li die xie	100
+蹎	dian
+蹢	di
+蹢	di	2
+軧	di
+軼	die
+迪	di
+迪	di	150391
 迪丝丹	di si dan	4
 迪丽冷巴	di li leng ba	115
 迪丽拜尔	di li bai er	24
@@ -13937,6 +14446,8 @@ sort: by_weight
 迪里拜尔	di li bai er	93
 迪雅巴克	di ya ba ke	100
 迪马利亚	di ma li ya	182
+迭	die
+迭	die	21389
 迭为宾主	die wei bin zhu	5
 迭代	die dai	67601
 迭代值	die dai zhi	15
@@ -13972,6 +14483,8 @@ sort: by_weight
 迭连	die lian	70
 迭部	die bu	1220
 迭部县	die bu xian	605
+递	di
+递	di	161919
 递上	di shang	19530
 递上去	di shang qu	1375
 递上来	di shang lai	510
@@ -14075,11 +14588,37 @@ sort: by_weight
 递降	di jiang	540
 递降序	di jiang xu	5
 递颗烟	di ke yan	100
+逓	di
+遆	di
+遞	di
+遰	di
+邸	di
+邸	di	15950
 邸子健	di zi jian	100
 邸宅	di zhai	4
 邸报	di bao	13
 邸裳夜蛾	di chang ye e	2
+酊	ding
+酊	ding	2082
 酊剂	ding ji	1965
+釘	ding
+釣	diao
+釱	di
+鈟	diao
+鈿	dian
+鉪	di
+銚	diao
+銩	diu
+銱	diao
+鋌	ding
+鋽	diao
+錠	ding
+錭	diao
+鏑	di
+鐤	ding
+鑃	diao
+钉	ding
+钉	ding	43726
 钉一个钉子	ding yi ge ding zi	950
 钉上	ding shang	4230
 钉上去	ding shang qu	150
@@ -14135,6 +14674,8 @@ sort: by_weight
 钉钉里	ding ding li	99
 钉锤	ding chui	670
 钉鞋	ding xie	1875
+钓	diao
+钓	diao	24913
 钓一钓	diao yi diao	346
 钓上去	diao shang qu	100
 钓上来	diao shang lai	2245
@@ -14247,6 +14788,8 @@ sort: by_weight
 钓鳌	diao ao	2
 钓鳌客	diao ao ke	8
 钓鳌攀桂	diao ao pan gui	100
+钿	dian
+钿	dian	1044
 钿合金钗	dian he jin chai	100
 钿头	dian tou	145
 钿头云篦	dian tou yun bi	100
@@ -14255,14 +14798,32 @@ sort: by_weight
 钿盒	dian he	3
 钿花	dian hua	678
 钿钗	dian chai	3
+铞	diao
+铞	diao	36
+铤	ding
+铥	diu
+铥	diu	2
 铥元素	diu yuan su	100
+铫	diao
+铫	diao	102
 铫子	diao zi	1
+锭	ding
+锭	ding	7341
 锭剂	ding ji	1
 锭子	ding zi	148
 锭子油	ding zi you	135
 锭模	ding mu	195
+镝	di
+镝	di	1122
 镝元素	di yuan su	100
+镻	die
+阺	di
+阽	dian
+阽	dian	35
 阽危之域	dian wei zhi yu	1
+隄	di
+雕	diao
+雕	diao	82838
 雕了个雕	diao le ge diao	100
 雕像	diao xiang	61630
 雕具座	diao ju zuo	100
@@ -14381,6 +14942,10 @@ sort: by_weight
 雕龙文卷	diao long wen juan	16
 雕龙画凤	diao long hua feng	480
 雕龙绣虎	diao long xiu hu	100
+電	dian
+雿	diao
+靛	dian
+靛	dian	1237
 靛厂	dian chang	18
 靛厂新村	dian chang xin cun	33
 靛玉红	dian yu hong	2
@@ -14393,6 +14958,18 @@ sort: by_weight
 靛蓝铝色淀	dian lan lv se dian	1
 靛青	dian qing	1140
 靛颏儿	dian ke er	9999
+靪	ding
+靮	di
+鞢	die
+鞮	di
+鞮	di	247
+頂	ding
+頔	di
+顁	ding
+顚	dian
+顛	dian
+顶	ding
+顶	ding	372322
 顶一下	ding yi xia	59675
 顶一个	ding yi ge	100
 顶一顶	ding yi ding	2250
@@ -14689,6 +15266,8 @@ sort: by_weight
 顶饿	ding e	111
 顶骨	ding gu	1385
 顶鳞	ding lin	3
+颠	dian
+颠	dian	57525
 颠三倒四	dian san dao si	3085
 颠乾倒坤	dian qian dao kun	100
 颠仆	dian pu	1
@@ -14780,6 +15359,13 @@ sort: by_weight
 颠风狂雨	dian feng kuang yu	100
 颠鸾倒凤	dian luan dao feng	620
 颠龙倒凤	dian long dao feng	7
+颩	diu
+飣	ding
+饤	ding
+馰	di
+驔	dian
+骶	di
+骶	di	114
 骶尾部挫伤	di wei bu cuo shang	6
 骶棘肌	di ji ji	7
 骶椎	di zhui	775
@@ -14791,10 +15377,30 @@ sort: by_weight
 骶骨骨折	di gu gu zhe	38
 骶髂关节	di qia guan jie	45
 骶髂关节炎	di qia guan jie yan	7
+髢	di
+髢	di	9
+魡	diao
+鮉	diao
+鯛	diao
+鯳	di
+鰈	die
+鲷	diao
+鲷	diao	162
 鲷鱼	diao yu	1285
+鲽	die
+鲽	die	426
 鲽形目	die xing mu	100
 鲽离鹣背	die li jian bei	1
 鲽鹣	die jian	105
+鳥	diao
+鳭	diao
+鴩	die
+鵰	diao
+鸐	di
+鸟	diao
+點	dian
+鼎	ding
+鼎	ding	59165
 鼎业	ding ye	510
 鼎丰白醋	ding feng bai cu	7
 鼎丰真	ding feng zhen	166
@@ -14874,4 +15480,240 @@ sort: by_weight
 鼎鼎有名	ding ding you ming	357
 鼎鼐调和	ding nai tiao he	100
 鼎龙文化	ding long wen hua	166
+鼑	ding
+鼦	diao
+齻	dian
+𠄏	diao
+𠅗	die
+𠆙	die
+𠍪	di
+𠐑	di
+𠑘	dian
+𠒿	di
+𠕳	di
+𠗛	die
+𠗨	die
+𠚥	diao
+𠚭	di
+𠚻	diao
+𠛪	diao
+𠠯	die
+𠢣	dian
+𠤼	diao
+𠥑	diao
+𠥖	di
+𠨿	di
+𠩷	dian
+𠫉	dian
+𠫜	di
+𠲍	diu
+𠲷	die
+𠶧	dian
+𠶰	diao
+𠽰	di
+𡄷	di
+𡅥	die
+𡆣	di
+𡇓	die
+𡒱	di
+𡖐	die
+𡚙	di
+𡚷	di
+𡛜	di
+𡰖	di
+𡰯	diao
+𡱇	dian
+𡱷	die
+𡹭	die
+𡺑	die
+𡼄	die
+𡼓	dian
+𡽢	di
+𢁕	diao
+𢄦	diao
+𢅊	di
+𢅝	dian
+𢆴	diao
+𢉆	di
+𢎆	die
+𢑅	ding
+𢒝	diu
+𢓧	di
+𢕚	di
+𢕯	dian
+𢖩	dian
+𢜨	die
+𢬴	die
+𢲼	die
+𢶣	die
+𢻅	dian
+𣂉	di
+𣅥	di
+𣆍	ding
+𣇖	dian
+𣈍	die
+𣒂	dian
+𣚌	di
+𣛻	die
+𣡟	die
+𣢥	dian
+𣢳	ding
+𣣈	dian
+𣣣	dian
+𣧈	die
+𣧛	dian
+𣨂	die
+𣩰	diao
+𣪀	dian
+𣪪	dian
+𣬴	di
+𣯵	di
+𣲢	di
+𣶏	die
+𤁰	di
+𤈥	di
+𤐣	ding
+𤕷	diao
+𤖒	die
+𤗨	die
+𤚊	die
+𤛙	ding
+𤝬	di
+𤞈	di
+𤠶	dian
+𤧛	di
+𤧛	di	1
+𤩱	dian
+𤬵	di
+𤭈	diao
+𤱩	diao
+𤴍	die
+𤾠	di
+𤿶	dian
+𥁮	diao
+𥄿	di
+𥅑	dian
+𥇓	ding
+𥇞	dian
+𥈖	die
+𥉺	die
+𥑇	die
+𥑼	dian
+𥕐	di
+𥖾	di
+𥡦	di
+𥥌	die
+𥦟	dian
+𥧑	dian
+𥮏	dian
+𥮐	diao
+𥯢	ding
+𥲟	diao
+𥳠	di
+𥳢	dian
+𥳰	ding
+𥴦	di
+𥴫	dian
+𥵏	dian
+𥶺	die
+𥷕	die
+𥸚	di
+𥸧	ding
+𥾬	di
+𥾯	diao
+𥿄	di
+𦁛	die
+𦁜	die
+𦄋	diao
+𦄔	die
+𦅆	dian
+𦈅	die
+𦉹	di
+𦒻	dian
+𦕒	dian
+𦨍	ding
+𦨢	di
+𦨣	diao
+𦩍	diao
+𦩘	ding
+𦵦	di
+𦶌	diao
+𦸔	diao
+𦽄	dian
+𧀶	di
+𧂨	di
+𧄺	dian
+𧅈	diao
+𧇷	ding
+𧉛	di
+𧋍	di
+𧌾	ding
+𧍝	di
+𧍱	die
+𧍿	dian
+𧘨	diao
+𧘩	diao
+𧜣	diao
+𧠫	di
+𧤲	di
+𧥮	di
+𧦚	di
+𧳉	ding
+𧺽	di
+𧽍	dian
+𧿠	di
+𨂇	di
+𨄌	die
+𨈀	dian
+𨈈	die
+𨌮	di
+𨍳	diao
+𨐁	die
+𨑩	di
+𨑼	di
+𨓊	die
+𨗼	di
+𨘬	di
+𨡱	ding
+𨪾	di
+𨭓	die
+𨮹	di
+𨰑	diao
+𨳺	die
+𨴗	die
+𨸓	diao
+𨻗	die
+𨾤	die
+𩀜	diao
+𩂵	dian
+𩄠	dian
+𩅀	dian
+𩆔	dian
+𩈮	diao
+𩉱	di
+𩋙	diao
+𩋞	die
+𩑾	di
+𩜦	ding
+𩠑	ding
+𩡯	ding
+𩥄	dian
+𩬑	dian
+𩭲	di
+𩴺	di
+𩷎	di
+𩸎	ding
+𩻵	die
+𩾗	diao
+𩾚	ding
+𪀒	die
+𪄱	di
+𪑧	die
+𪑩	dian
+𪓼	dian
+𪔂	ding
+𪖚	dian
+𫶇	die	1
 𫶇嵲	die nie	9
+𬱖	di	14
+𳎑	ding

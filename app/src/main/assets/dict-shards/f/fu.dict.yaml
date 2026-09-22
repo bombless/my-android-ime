@@ -3,7 +3,85 @@ name: merged.fu
 version: "1.0"
 sort: by_weight
 ...
+㐲	fu
+㓡	fu
+㕊	fu
+㕮	fu
+㕮	fu	1
 㕮咀	fu ju	1
+㗘	fu
+㙏	fu
+㚆	fu
+㚕	fu
+㜑	fu
+㝿	fu
+㞎	fu
+㟊	fu
+㠅	fu
+㡝	fu
+㤔	fu
+㤱	fu
+㪄	fu
+㫙	fu
+㬼	fu
+㳇	fu
+㳇	fu	1
+㵗	fu
+㷆	fu
+㽬	fu
+㾈	fu
+㾱	fu
+䂤	fu
+䃽	fu
+䋨	fu
+䋹	fu
+䌗	fu
+䌿	fu
+䍌	fu
+䍖	fu
+䎅	fu
+䑧	fu
+䒀	fu
+䒄	fu
+䒇	fu
+䓛	fu
+䔰	fu
+䕎	fu
+䗄	fu
+䘀	fu
+䘄	fu
+䘠	fu
+䝾	fu
+䞜	fu
+䞞	fu
+䞯	fu
+䞸	fu
+䟔	fu
+䟮	fu
+䠵	fu
+䡍	fu
+䥤	fu
+䦣	fu
+䧞	fu
+䨗	fu
+䨱	fu
+䩉	fu
+䪙	fu
+䫍	fu
+䫝	fu
+䬪	fu
+䭮	fu
+䭸	fu
+䮛	fu
+䯱	fu
+䯽	fu
+䳝	fu
+䵗	fu
+䵾	fu
+乀	fu
+乶	fu
+付	fu
+付	fu	342108
 付一下	fu yi xia	1590
 付一点	fu yi dian	63
 付三押一	fu san ya yi	137
@@ -240,6 +318,8 @@ sort: by_weight
 付钱	fu qian	35685
 付飞社	fu fei she	192
 付高峰	fu gao feng	100
+伏	fu
+伏	fu	183556
 伏下	fu xia	4020
 伏下去	fu xia qu	100
 伏下来	fu xia lai	180
@@ -361,12 +441,21 @@ sort: by_weight
 伏龙肝	fu long gan	165
 伏龙芝	fu long zhi	31
 伏龙鼎	fu long ding	100
+伕	fu
+佛	fu
+佛	fu	20000
 佛戾	fu li	2
+俌	fu
+俘	fu
+俘	fu	44283
 俘敌	fu di	1995
 俘获	fu huo	14615
 俘虏	fu lu	51965
 俘虏了	fu lu le	6005
 俘虏营	fu lu ying	100
+俛	fu
+俯	fu
+俯	fu	49115
 俯下	fu xia	10095
 俯下去	fu xia qu	100
 俯下身去	fu xia shen qu	214
@@ -453,6 +542,9 @@ sort: by_weight
 俯首称臣	fu shou cheng chen	2900
 俯首认罪	fu shou ren zui	100
 俯首认错	fu shou ren cuo	100
+偩	fu
+傅	fu
+傅	fu	176201
 傅九云	fu jiu yun	100
 傅云深	fu yun shen	165
 傅云龙	fu yun long	3
@@ -528,6 +620,9 @@ sort: by_weight
 傅雷家书	fu lei jia shu	675
 傅青主	fu qing zhu	168
 傅高义	fu gao yi	163
+冨	fu
+凫	fu
+凫	fu	904
 凫居雁聚	fu ju yan ju	1
 凫短鹤长	fu duan he chang	100
 凫胫鹤膝	fu jing he xi	1
@@ -536,6 +631,9 @@ sort: by_weight
 凫长鹤短	fu chang he duan	100
 凫雁满回塘	fu yan man hui tang	1
 凫鹤从方	fu he cong fang	1
+刜	fu
+副	fu
+副	fu	396897
 副专员	fu zhuan yuan	2130
 副业	fu ye	12005
 副业产品	fu ye chan pin	70
@@ -834,7 +932,11 @@ sort: by_weight
 副高职	fu gao zhi	1030
 副黏液病毒	fu nian ye bing du	100
 副黏病毒	fu nian bing du	390
+匐	fu
+匐	fu	4587
 匐行疹	fu xing zhen	3
+呋	fu
+呋	fu	123
 呋喃	fu nan	7335
 呋喃丹	fu nan dan	1375
 呋喃唑酮	fu nan zuo tong	140
@@ -855,6 +957,18 @@ sort: by_weight
 呋塞米注射液	fu sai mi zhu she ye	13
 呋塞米片	fu sai mi pian	1
 呋麻滴鼻液	fu ma di bi ye	52
+呒	fu
+咈	fu
+咐	fu
+咐	fu	93482
+哹	fu
+嘸	fu
+坿	fu
+垘	fu
+垺	fu
+垺	fu	2
+复	fu
+复	fu	656644
 复三部曲式	fu san bu qu shi	95
 复不了	fu bu liao	100
 复不复读	fu bu fu du	100
@@ -1837,6 +1951,8 @@ sort: by_weight
 复颜抗皱	fu yan kang zhou	100
 复飞	fu fei	6
 复验	fu yan	16190
+夫	fu
+夫	fu	890506
 夫三年之丧	fu san nian zhi sang	2
 夫不恬不愉	fu bu tian bu yu	1
 夫不自见而见彼	fu bu zi jian er jian bi	1
@@ -1997,6 +2113,8 @@ sort: by_weight
 夫道不欲杂	fu dao bu yu za	1
 夫风生于地	fu feng sheng yu di	100
 夫鹄不日浴而白	fu hu bu ri yu er bai	1
+妇	fu
+妇	fu	254489
 妇乐冲剂	fu le chong ji	1
 妇产	fu chan	3605
 妇产医生	fu chan yi sheng	100
@@ -2145,11 +2263,22 @@ sort: by_weight
 妇道	fu dao	2950
 妇道人家	fu dao ren jia	1030
 妇随夫唱	fu sui fu chang	100
+妋	fu
+姇	fu
+娐	fu
+婏	fu
+婦	fu
+媍	fu
+嬔	fu
+孚	fu
+孚	fu	5574
 孚众望	fu zhong wang	100
 孚尹旁达	fu yin pang da	1
 孚尹明达	fu yin ming da	1
 孚山县	fu shan xian	5
 孚日省	fu ri sheng	100
+孵	fu
+孵	fu	4384
 孵不出	fu bu chu	205
 孵出	fu chu	5740
 孵出小鸡	fu chu xiao ji	165
@@ -2178,7 +2307,11 @@ sort: by_weight
 孵蛋器	fu dan qi	100
 孵雏	fu chu	105
 孵鸟	fu niao	55
+宓	fu
+宓	fu	4473
 宓妃留枕魏王才	fu fei liu zhen wei wang cai	1
+富	fu
+富	fu	312299
 富万利	fu wan li	18
 富不了	fu bu liao	210
 富不过三代	fu bu guo san dai	1425
@@ -2642,6 +2775,13 @@ sort: by_weight
 富马酸酮替芬	fu ma suan tong ti fen	1
 富马酸酮替芬滴眼液	fu ma suan tong ti fen di yan ye	1
 富驿时尚酒店	fu yi shi shang jiu dian	93
+尃	fu
+岪	fu
+峊	fu
+巿	fu
+帗	fu
+幅	fu
+幅	fu	96800
 幅值	fu zhi	1234
 幅员	fu yuan	8000
 幅员广大	fu yuan guang da	610
@@ -2668,7 +2808,11 @@ sort: by_weight
 幅画	fu hua	11111
 幅面	fu mian	25930
 幅频特性	fu pin te xing	640
+幞	fu
+幞	fu	157
 幞头	fu tou	11
+府	fu
+府	fu	442709
 府上	fu shang	11985
 府东巷	fu dong xiang	2
 府东街	fu dong jie	511
@@ -2737,6 +2881,8 @@ sort: by_weight
 府青路三段	fu qing lu san duan	66
 府青路二环路立交桥	fu qing lu er huan lu li jiao qiao	9
 府顺	fu shun	5
+弗	fu
+弗	fu	71101
 弗丁	fu ding	111
 弗丽嘉	fu li jia	112
 弗伦岑	fu lun cen	205
@@ -2868,9 +3014,19 @@ sort: by_weight
 弗雷泽	fu lei ze	3390
 弗雷迪	fu lei di	164
 弗雷里安纳岛加拉帕戈斯象龟	fu lei li an na dao jia la pa ge si xiang gui	1
+弣	fu
+彿	fu
+復	fu
+怤	fu
+怫	fu
+怫	fu	489
 怫然	fu ran	510
 怫然不悦	fu ran bu yue	170
 怫然作色	fu ran zuo se	100
+懯	fu
+払	fu
+扶	fu
+扶	fu	165206
 扶上马	fu shang ma	1515
 扶下	fu xia	1300
 扶下去	fu xia qu	100
@@ -3092,6 +3248,9 @@ sort: by_weight
 扶风鹿糕	fu feng lu gao	36
 扶风鹿羔馍	fu feng lu gao mo	3
 扶鸾	fu luan	160
+抙	fu
+抚	fu
+抚	fu	147135
 抚上	fu shang	3333
 抚世酬物	fu shi chou wu	100
 抚了抚	fu le fu	1340
@@ -3202,6 +3361,8 @@ sort: by_weight
 抚顺路	fu shun lu	652
 抚顺银行	fu shun yin hang	100
 抚髀长叹	fu bi chang tan	1111
+拂	fu
+拂	fu	46508
 拂了一身还满	fu le yi shen hai man	6
 拂动	fu dong	2770
 拂去	fu qu	11050
@@ -3239,6 +3400,8 @@ sort: by_weight
 拂钟无声	fu zhong wu sheng	100
 拂面	fu mian	9685
 拂面而来	fu mian er lai	585
+拊	fu
+拊	fu	751
 拊掌	fu zhang	1005
 拊掌击节	fu zhang ji jie	111
 拊背扼吭	fu bei e hang	1
@@ -3247,6 +3410,11 @@ sort: by_weight
 拊膺长叹	fu ying chang tan	100
 拊膺顿足	fu ying dun zu	100
 拊髀雀跃	fu bi que yue	5
+捊	fu
+捬	fu
+撫	fu
+敷	fu
+敷	fu	21263
 敷一下	fu yi xia	1111
 敷上	fu shang	5925
 敷了	fu le	1140
@@ -3293,6 +3461,8 @@ sort: by_weight
 敷面	fu mian	11740
 敷面膜	fu mian mo	100
 敷额头	fu e tou	100
+斧	fu
+斧	fu	52064
 斧专精	fu zhuan jing	2
 斧冰持作糜	fu bing chi zuo mi	1
 斧凿	fu zao	999
@@ -3324,6 +3494,9 @@ sort: by_weight
 斧钺刀墨	fu yue dao mo	1
 斧钺汤镬	fu yue tang huo	100
 斧锧	fu zhi	1
+旉	fu
+服	fu
+服	fu	1011511
 服下	fu xia	13240
 服下之后	fu xia zhi hou	100
 服下去	fu xia qu	345
@@ -3856,8 +4029,24 @@ sort: by_weight
 服饰网	fu shi wang	3535
 服饰行业	fu shi hang ye	100
 服饰辅料	fu shi fu liao	745
+枎	fu
+枹	fu
+枹	fu	1
 枹罕镇	fu han zhen	2
+柎	fu
+柫	fu
+柭	fu
+栿	fu
+桴	fu
+桴	fu	159
 桴鼓相应	fu gu xiang ying	100
+棴	fu
+椨	fu
+椱	fu
+榑	fu
+榑	fu	9
+氟	fu
+氟	fu	461
 氟中毒	fu zhong du	3025
 氟乙酰胺	fu yi xian an	46
 氟乙酸	fu yi suan	865
@@ -3950,12 +4139,17 @@ sort: by_weight
 氟马西尼	fu ma xi ni	1
 氟骨病	fu gu bing	31
 氟骨症	fu gu zheng	79
+泭	fu
+洑	fu
+洑	fu	34
 洑水	fu shui	2
 洑水湾乡	fu shui wan xiang	19
 洑水过河	fu shui guo he	100
 洑江村	fu jiang cun	1
 洑溪村	fu xi cun	7
 洑过河去	fu guo he qu	100
+浮	fu
+浮	fu	173250
 浮一大白	fu yi da bai	450
 浮上	fu shang	9825
 浮上去	fu shang qu	100
@@ -4244,6 +4438,8 @@ sort: by_weight
 浮面	fu mian	935
 浮鸥	fu ou	40
 浮龙湖	fu long hu	161
+涪	fu
+涪	fu	1092
 涪城区	fu cheng qu	2710
 涪江	fu jiang	1
 涪江道	fu jiang dao	1
@@ -4254,9 +4450,17 @@ sort: by_weight
 涪陵市	fu ling shi	29
 涪陵榨菜	fu ling zha cai	1291
 涪陵郡	fu ling jun	3
+滏	fu
+滏	fu	207
 滏东大街	fu dong da jie	157
 滏河大街	fu he da jie	134
 滏阳公园	fu yang gong yuan	150
+澓	fu
+炥	fu
+烰	fu
+焤	fu
+父	fu
+父	fu	875667
 父与子	fu yu zi	2970
 父业	fu ye	9999
 父严子孝	fu yan zi xiao	1
@@ -4432,11 +4636,33 @@ sort: by_weight
 父辈	fu bei	20485
 父进程	fu jin cheng	13346
 父页面	fu ye mian	1204
+玞	fu
+玞	fu	5
+玸	fu
+琈	fu
+琈	fu	1
+璷	fu
+甫	fu
+甫	fu	46012
 甫子寸	fu zi cun	100
 甫定	fu ding	440
+甶	fu
+畉	fu
+畐	fu
+畗	fu
+癁	fu
+盙	fu
+砆	fu
+砆	fu	3
 砆石村	fu shi cun	2
+砩	fu
+祓	fu
+祓	fu	145
 祓禊	fu xi	2
 祓除	fu chu	168
+祔	fu
+福	fu
+福	fu	455530
 福三中	fu san zhong	13
 福不徒来	fu bu tu lai	1
 福不盈眦	fu bu ying zi	1
@@ -5168,7 +5394,15 @@ sort: by_weight
 福鼎黑脚麻鸡	fu ding hei jiao ma ji	1
 福齐南山	fu qi nan shan	1
 福龙瑶族乡	fu long yao zu xiang	2
+禣	fu
+秿	fu
+稃	fu
+稃	fu	9
 稃片	fu pian	5
+稪	fu
+竎	fu
+符	fu
+符	fu	119925
 符不符合	fu bu fu he	100
 符不符合吗	fu bu fu he ma	100
 符不符合吧	fu bu fu he ba	100
@@ -5274,8 +5508,31 @@ sort: by_weight
 符节	fu jie	1120
 符雅凝	fu ya ning	153
 符馨尹	fu xin yin	3
+笰	fu
+筟	fu
+箁	fu
+箙	fu
+簠	fu
+簠	fu	16
 簠簋不饬	fu gui bu chi	100
 簠簋不饰	fu gui bu shi	100
+粰	fu
+糐	fu
+紨	fu
+紱	fu
+紼	fu
+絥	fu
+綍	fu
+綒	fu
+緮	fu
+縛	fu
+纀	fu
+绂	fu
+绂	fu	254
+绋	fu
+绋	fu	101
+缚	fu
+缚	fu	31819
 缚仙索	fu xian suo	100
 缚住	fu zhu	2605
 缚在	fu zai	2850
@@ -5293,7 +5550,13 @@ sort: by_weight
 缚鸡弄丸	fu ji nong wan	1
 缚龙为后	fu long wei hou	100
 缚龙紫纱	fu long zi sha	1
+罘	fu
+罘	fu	215
 罘罳	fu si	1
+罦	fu
+翇	fu
+肤	fu
+肤	fu	118772
 肤不生毛	fu bu sheng mao	1
 肤受之言	fu shou zhi yan	1
 肤受之诉	fu shou zhi su	100
@@ -5320,7 +5583,12 @@ sort: by_weight
 肤见谫识	fu jian jian shi	1
 肤质	fu zhi	50675
 肤轻松软膏	fu qing song ruan gao	24
+胕	fu
+脯	fu
+脯	fu	20878
 脯氨酸	fu an suan	1840
+腐	fu
+腐	fu	72243
 腐乳	fu ru	6715
 腐乳爆肉	fu ru bao rou	1
 腐乳瓶	fu ru ping	525
@@ -5430,7 +5698,11 @@ sort: by_weight
 腐骨钳	fu gu qian	2
 腐鼠	fu shu	2
 腐鼠孤雏	fu shu gu chu	100
+腑	fu
+腑	fu	13129
 腑输精于脏	fu shu jing yu zang	1
+腹	fu
+腹	fu	102733
 腹中	fu zhong	26325
 腹中兵甲	fu zhong bing jia	1
 腹中有剑	fu zhong you jian	100
@@ -5575,8 +5847,14 @@ sort: by_weight
 腹鸣	fu ming	285
 腹黄污灯蛾	fu huang wu deng e	1
 腹黑	fu hei	9999
+膚	fu
+艀	fu
+艴	fu
+艴	fu	1
 艴然	fu ran	1
 艴然不悦	fu ran bu yue	4
+芙	fu
+芙	fu	47397
 芙丽芳丝	fu li fang si	100
 芙兰朵	fu lan duo	154
 芙兰达	fu lan da	169
@@ -5656,9 +5934,19 @@ sort: by_weight
 芙蕖	fu qu	1600
 芙蕾娜	fu lei na	100
 芙蕾德莉卡	fu lei de li ka	157
+芣	fu
+芣	fu	36
 芣苢	fu yi	2
+芾	fu
+芾	fu	624
+苻	fu
+苻	fu	4648
 苻健	fu jian	2
 苻坚	fu jian	5
+茀	fu
+茀	fu	1569
+茯	fu
+茯	fu	1049
 茯神	fu shen	43
 茯芩	fu qin	1
 茯苓	fu ling	27080
@@ -5671,15 +5959,51 @@ sort: by_weight
 茯苓饼干	fu ling bing gan	1
 茯茶镇	fu cha zhen	174
 茯莱奥赫蛛	fu lai ao he zhu	1
+荂	fu
+荴	fu
+莩	fu
+莩	fu	97
+菔	fu
+菔	fu	170
+萯	fu
+葍	fu
+蓲	fu
+蕧	fu
+虙	fu
+蚥	fu
+蚨	fu
+蚨	fu	898
+蚹	fu
+蛗	fu
+蜅	fu
+蜉	fu
+蜉	fu	444
 蜉蝣	fu you	3805
+蝜	fu
+蝠	fu
+蝠	fu	22099
 蝠莫圆线虫	fu mo yuan xian chong	1
 蝠附伞膜线虫	fu fu san mo xian chong	1
 蝠鲼	fu fen	3
+蝮	fu
+蝮	fu	744
 蝮蛇	fu she	3905
 蝮蛇抗栓酶	fu she kang shuan mei	1
 蝮蛇毒素	fu she du su	5
 蝮蛇螫手	fu she shi shou	3
 蝮螫解腕	fu shi jie wan	2
+衭	fu
+袚	fu
+袝	fu
+袱	fu
+袱	fu	16411
+複	fu
+褔	fu
+襆	fu
+襥	fu
+覄	fu
+覆	fu
+覆	fu	76596
 覆亡	fu wang	2350
 覆亡无日	fu wang wu ri	1
 覆以	fu yi	2560
@@ -5805,9 +6129,20 @@ sort: by_weight
 覆𫗧之患	fu su zhi huan	100
 覆𫗧偾辕	fu su fen yuan	100
 覆𬌗	fu he	5
+訃	fu
+詂	fu
+諨	fu
+讣	fu
+讣	fu	689
 讣告	fu gao	3265
 讣电	fu dian	1111
 讣闻	fu wen	1055
+豧	fu
+負	fu
+賦	fu
+賻	fu
+负	fu
+负	fu	391986
 负一度	fu yi du	100
 负一楼	fu yi lou	100
 负不了	fu bu liao	285
@@ -6174,6 +6509,8 @@ sort: by_weight
 负驽前驱	fu nu qian qu	1
 负鼎之愿	fu ding zhi yuan	100
 负鼠	fu shu	1234
+赋	fu
+赋	fu	48946
 赋个红码	fu ge hong ma	100
 赋了红码	fu le hong ma	100
 赋予	fu yu	260840
@@ -6226,7 +6563,11 @@ sort: by_weight
 赋闲无事	fu xian wu shi	10
 赋闲率	fu xian lv	100
 赋黄码	fu huang ma	100
+赙	fu
+赙	fu	93
 赙赠	fu zeng	1
+赴	fu
+赴	fu	52184
 赴东海而死	fu dong hai er si	1
 赴中国	fu zhong guo	100
 赴京	fu jing	10845
@@ -6278,7 +6619,11 @@ sort: by_weight
 赴难	fu nan	625
 赴韩	fu han	4815
 赴韩留学	fu han liu xue	100
+趺	fu
+趺	fu	546
 趺坐	fu zuo	1330
+跗	fu
+跗	fu	252
 跗节	fu jie	3
 跗萼联芳	fu e lian fang	1
 跗萼连晖	fu e lian hui	1
@@ -6286,6 +6631,12 @@ sort: by_weight
 跗跖骨	fu zhi gu	4
 跗面	fu mian	1
 跗骨	fu gu	670
+踾	fu
+輔	fu
+輹	fu
+輻	fu
+辅	fu
+辅	fu	48161
 辅世长民	fu shi zhang min	8
 辅业	fu ye	9005
 辅仁	fu ren	3
@@ -6456,6 +6807,8 @@ sort: by_weight
 辅音	fu yin	7920
 辅音字母	fu yin zi mu	1635
 辅食	fu shi	14100
+辐	fu
+辐	fu	5668
 辐合	fu he	36
 辐合线	fu he xian	100
 辐射	fu she	258640
@@ -6525,6 +6878,15 @@ sort: by_weight
 辐辏	fu cou	1845
 辐鳍鱼	fu qi yu	100
 辐鳍鱼纲	fu qi yu gang	100
+邞	fu
+郙	fu
+郛	fu
+郛	fu	203
+鄜	fu
+鄜	fu	54
+酜	fu
+釜	fu
+釜	fu	5081
 釜中之鱼	fu zhong zhi yu	100
 釜中游鱼	fu zhong you yu	1
 釜中生尘	fu zhong sheng chen	1
@@ -6546,6 +6908,14 @@ sort: by_weight
 釜里游鱼	fu li you yu	100
 釜鱼幕燕	fu yu mu yan	1
 釜鱼甑尘	fu yu zeng chen	1
+釡	fu
+鈇	fu
+鉘	fu
+鉜	fu
+鍑	fu
+鍢	fu
+阜	fu
+阜	fu	4437
 阜丰集团	fu feng ji tuan	16
 阜南县	fu nan xian	347
 阜南西路	fu nan xi lu	144
@@ -6608,6 +6978,9 @@ sort: by_weight
 阜阳师范学院	fu yang shi fan xue yuan	100
 阜阳西	fu yang xi	196
 阜阳路	fu yang lu	317
+阝	fu
+附	fu
+附	fu	207682
 附一医院	fu yi yi yuan	346
 附上	fu shang	44795
 附上去	fu shang qu	130
@@ -6863,29 +7236,237 @@ sort: by_weight
 附魂面具	fu hun mian ju	100
 附魔	fu mo	55555
 附魔星	fu mo xing	100
+韍	fu
+韨	fu
+韨	fu	6
+頫	fu
+颫	fu
+颰	fu
+馥	fu
+馥	fu	4049
 馥感啉口服液	fu gan lin kou fu ye	1
 馥郁	fu yu	7585
 馥郁之战	fu yu zhi zhan	100
 馥郁苑社区	fu yu yuan she qu	3
 馥馥	fu fu	540
 馥马尔	fu ma er	174
+駙	fu
+驸	fu
+驸	fu	5442
 驸马	fu ma	9999
 驸马庄	fu ma zhuang	13
 驸马爷	fu ma ye	1370
 驸马爷近前看端详	fu ma ye jin qian kan duan xiang	100
 驸马郎	fu ma lang	100
 驸马都尉	fu ma du wei	100
+髴	fu
+鬴	fu
+鮄	fu
+鮒	fu
+鮲	fu
+鰒	fu
+鲋	fu
+鲋	fu	216
+鳆	fu
+鳆	fu	1
 鳆鱼	fu yu	2
+鳧	fu
+鳬	fu
+鳺	fu
+鴔	fu
+鵩	fu
+鶝	fu
+麩	fu
+麬	fu
+麱	fu
+麸	fu
+麸	fu	405
 麸子	fu zi	650
 麸氨酸	fu an suan	100
 麸皮	fu pi	8035
 麸皮面包	fu pi mian bao	100
 麸质	fu zhi	1333
 麸质不耐受	fu zhi bu nai shou	100
+黻	fu
+黻	fu	444
+黼	fu
+黼	fu	684
 黼国黻家	fu guo fu jia	1
 黼蔀黻纪	fu bu fu ji	1
 黼衣方领	fu yi fang ling	1
 黼黻文章	fu fu wen zhang	100
 黼黻皇猷	fu fu huang you	1
+𠋩	fu
+𠌽	fu
+𠓗	fu
+𠟌	fu
+𠡂	fu
+𠣾	fu
+𠪻	fu
+𠬝	fu
+𠲽	fu
+𡏪	fu
+𡐝	fu
+𡞪	fu
+𡠞	fu
+𡦄	fu
+𡫺	fu
+𡬇	fu
+𡵛	fu
+𢀼	fu
+𢁀	fu
+𢂀	fu
+𢂆	fu
+𢌹	fu
+𢏍	fu
+𢒒	fu
+𢗫	fu
+𢗲	fu
+𢘍	fu
+𢞦	fu
+𢠲	fu
+𢯋	fu
+𢰆	fu
+𢻀	fu
+𢻮	fu
+𣀣	fu
+𣀾	fu
+𣄎	fu
+𣆵	fu
+𣑿	fu
+𣘧	fu
+𣞒	fu
+𣥋	fu
+𣭘	fu
+𣹋	fu
+𣻜	fu
+𣿆	fu
+𤆮	fu
+𤉨	fu
+𤕾	fu
+𤙤	fu
+𤙭	fu
+𤝔	fu
+𤝟	fu
+𤠪	fu
+𤭟	fu
+𤰈	fu
+𤱽	fu
+𤶖	fu
+𤸑	fu
+𤸗	fu
+𤿭	fu
+𥄑	fu
+𥄓	fu
+𥒫	fu
+𥒰	fu
+𥘬	fu
+𥦘	fu
+𥧷	fu
+𥨍	fu
+𥪋	fu
+𥪚	fu
+𥰛	fu
+𥱀	fu
+𥲛	fu
+𥳇	fu
+𥷱	fu
+𥼼	fu
+𥾧	fu
+𦂊	fu
+𦇁	fu
+𦊦	fu
+𦊾	fu
+𦎎	fu
+𦎭	fu
+𦐡	fu
+𦑹	fu
+𦔍	fu
+𦖀	fu
+𦨈	fu
+𦨋	fu
+𦨡	fu
+𦩡	fu
+𦮹	fu
+𦰺	fu
+𦱖	fu
+𦲫	fu
+𦳓	fu
+𦸱	fu
+𦺉	fu
+𦽏	fu
+𦿁	fu
+𧀮	fu
+𧀴	fu
+𧄏	fu
+𧉈	fu
+𧉊	fu
+𧌈	fu
+𧌓	fu
+𧒂	fu
+𧒙	fu
+𧕡	fu
+𧖚	fu
+𧥱	fu
+𧳂	fu
+𧴌	fu
+𧻳	fu
+𧼗	fu
+𧼱	fu
+𧿳	fu
+𨁒	fu
+𨋩	fu
+𨌥	fu
+𨑑	fu
+𨚓	fu
+𨦛	fu
+𨵟	fu
+𨺅	fu
+𨾚	fu
+𩂆	fu
+𩂎	fu
+𩂔	fu
+𩂕	fu
+𩅿	fu
+𩉽	fu
+𩋟	fu
+𩋨	fu
+𩌏	fu
+𩍏	fu
+𩎛	fu
+𩐚	fu
+𩑬	fu
+𩒙	fu
+𩒺	fu
+𩓖	fu
+𩖬	fu
+𩖼	fu
+𩜲	fu
+𩠷	fu
+𩢰	fu
+𩢿	fu
+𩣜	fu
+𩣸	fu
+𩬙	fu
+𩭺	fu
+𩳎	fu
+𩳐	fu
+𩵩	fu
+𩵹	fu
+𩾿	fu
+𩿧	fu
+𪀺	fu
+𪂀	fu
+𪂋	fu
+𪂾	fu
+𪃓	fu
+𪆠	fu
+𪊐	fu
+𪍏	fu
+𫓧	fu	24
 𫓧元素	fu yuan su	100
+𫖯	fu	67
+𫚒	fu
 𫚒形野鲮	fu xing ye ling	1
+𮔅	fu
+𱊏	fu

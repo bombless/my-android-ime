@@ -3,6 +3,33 @@ name: merged.ku
 version: "1.0"
 sort: by_weight
 ...
+㐄	kua
+㑌	kuang
+㒂	ku
+㒑	kui
+㔞	kuai
+㔞	kuang
+㕎	kun
+㕟	kui
+㗥	kuo
+㙓	kui
+㙕	kuai
+㙗	kuai
+㙺	kui
+㚍	kui
+㚝	kui
+㛻	kui
+㝟	kuan
+㟴	kuai
+㟴	kui
+㠸	ku
+㡁	kua
+㣪	kuo
+㤬	kui
+㤮	kuang
+㧉	kui
+㧟	kuai
+㧟	kuai	798
 㧟一㧟	kuai yi kuai	121
 㧟一勺	kuai yi shao	100
 㧟一瓢	kuai yi piao	100
@@ -11,6 +38,80 @@ sort: by_weight
 㧟点米汤	kuai dian mi tang	100
 㧟痒痒	kuai yang yang	100
 㧟着吃	kuai zhe chi	123
+㨒	kui
+㨤	kuai
+㨯	kuo
+㩲	kun
+㪙	kuo
+㫎	kuai
+㫛	kuang
+㫻	kun
+㬮	kuai
+㭈	kuai
+㮯	kuan
+㯘	kuan
+㰐	kui
+㱠	ku
+㱮	kuai
+㱮	kui
+㲄	ku
+㷇	kui
+㻅	kuai
+㾠	kuang
+㾠	kui
+䁛	kui
+䂄	kuang
+䄆	kuo
+䄑	kuo
+䇢	ku
+䇻	kui
+䈐	kui
+䈛	kuai
+䊯	kuang
+䊿	ku
+䋀	kua
+䍪	kui
+䏗	kui
+䒰	kuang
+䓒	kuai
+䔯	ku
+䕀	kuan
+䕚	kui
+䕫	kui
+䖯	kui
+䖵	kun
+䙃	kuo
+䙆	kui
+䙌	kui
+䙡	kui
+䞨	kui
+䟯	kuo
+䟸	kui
+䠅	kun
+䠑	kui
+䤆	kui
+䤭	kuan
+䥗	kuan
+䦚	kua
+䦢	kuo
+䦱	kui
+䧊	ku
+䧶	kui
+䫥	kui
+䭝	kuai
+䯓	kui
+䯞	kua
+䯣	kui
+䯤	kuai
+䯺	kuo
+䰎	kui
+䲌	kuan
+䳫	kui
+䵃	kuang
+䵈	ku
+丱	kuang
+亏	kui
+亏	kui	126054
 亏不了	kui bu liao	355
 亏不尽	kui bu jin	100
 亏了	kui le	21020
@@ -93,6 +194,8 @@ sort: by_weight
 亏进去	kui jin qu	100
 亏钱	kui qian	4745
 亏麻了	kui ma le	100
+会	kuai
+会	kuai	6824
 会稽	kuai ji	1
 会稽内史	kuai ji nei shi	100
 会稽太守	kuai ji tai shou	100
@@ -378,16 +481,27 @@ sort: by_weight
 会计问题	kuai ji wen ti	100
 会计项目	kuai ji xiang mu	1
 会计领域	kuai ji ling yu	755
+侉	kua
+侉	kua	801
 侉子	kua zi	970
 侉子店	kua zi dian	2
 侉子店村	kua zi dian cun	1
 侉炖羊肉	kua dun yang rou	1
+侩	kuai
+侩	kuai	1375
+俈	ku
+傀	kui
+傀	kui	11508
 傀儡	kui lei	27825
 傀儡戏	kui lei xi	575
 傀儡政府	kui lei zheng fu	100
 傀儡政权	kui lei zheng quan	1165
 傀儡术	kui lei shu	100
 傀儡登场	kui lei deng chang	2
+儈	kuai
+儣	kuang
+况	kuang
+况	kuang	655809
 况且	kuang qie	120755
 况且伤神又费力	kuang qie shang shen you fei li	100
 况乃未休兵	kuang nai wei xiu bing	1180
@@ -404,13 +518,20 @@ sort: by_weight
 况珈儿	kuang jia er	19
 况肯到红尘深处	kuang ken dao hong chen shen chu	1
 况闻处处鬻男女	kuang wen chu chu yu nan nv	2
+凷	kuai
+刲	kui
+刳	ku
+刳	ku	124
 刳形去皮	ku xing qu pi	5
 刳心雕肾	ku xin diao shen	1
 刳肝沥胆	ku gan li dan	1
 刳胎杀夭	ku tai sha yao	3
 刳胎焚夭	ku tai fen yao	1
 刳脂剔膏	ku zhi ti gao	1
+劻	kuang
 劻勷	kuang rang	1
+匡	kuang
+匡	kuang	18999
 匡乱反正	kuang luan fan zheng	100
 匡人其如予何	kuang ren qi ru yu he	1
 匡俗济时	kuang su ji shi	100
@@ -451,9 +572,17 @@ sort: by_weight
 匡谬正俗	kuang miu zheng su	100
 匡谬正讹	kuang miu zheng e	100
 匡鼎解颐	kuang ding jie yi	1
+匩	kuang
+匮	kui
+匮	kui	4129
 匮乏	kui fa	66610
 匮竭	kui jie	95
 匮缺	kui que	590
+匱	kui
+卝	kuang
+咵	kua
+哐	kuang
+哐	kuang	7050
 哐呲	kuang ci	1111
 哐呲哐呲	kuang ci kuang ci	1111
 哐哐	kuang kuang	1111
@@ -468,7 +597,11 @@ sort: by_weight
 哐当一声	kuang dang yi sheng	100
 哐当哐当	kuang dang kuang dang	100
 哐的一声	kuang de yi sheng	100
+哙	kuai
+哙	kuai	2126
 哙即带剑拥盾入军门	kuai ji dai jian yong dun ru jun men	2
+哭	ku
+哭	ku	447753
 哭一场	ku yi chang	100
 哭上	ku shang	970
 哭上去	ku shang qu	100
@@ -629,6 +762,8 @@ sort: by_weight
 哭长城	ku chang cheng	100
 哭闹	ku nao	22530
 哭鼻子	ku bi zi	2745
+喟	kui
+喟	kui	3119
 喟叹	kui tan	2400
 喟叹不已	kui tan bu yi	60
 喟然	kui ran	1970
@@ -636,6 +771,8 @@ sort: by_weight
 喟然太息	kui ran tai xi	100
 喟然而叹	kui ran er tan	100
 喟然长叹	kui ran chang tan	660
+喹	kui
+喹	kui	9
 喹乙醇	kui yi chun	990
 喹啉	kui lin	3330
 喹啉黄	kui lin huang	40
@@ -643,6 +780,14 @@ sort: by_weight
 喹烯酮	kui xi tong	483
 喹诺酮	kui nuo tong	100
 喹诺酮类	kui nuo tong lei	4475
+喾	ku
+喾	ku	235
+嘳	kui
+噋	kuo
+噲	kuai
+嚳	ku
+困	kun
+困	kun	225133
 困不住	kun bu zhu	365
 困乏	kun fa	5295
 困了	kun le	12895
@@ -756,8 +901,15 @@ sort: by_weight
 困难面前	kun nan mian qian	4925
 困顿	kun dun	10835
 困顿不堪	kun dun bu kan	205
+圐	ku
+圐	ku	1
 圐圙	ku lve	1
+圦	kuai
+圹	kuang
+圹	kuang	114
 圹埌	kuang lang	1
+块	kuai
+块	kuai	472478
 块人独处	kuai ren du chu	1
 块体	kuai ti	3345
 块儿	kuai er	9999
@@ -800,6 +952,8 @@ sort: by_weight
 块钱	kuai qian	185885
 块钱左右	kuai qian zuo you	100
 块钱的	kuai qian de	6250
+坤	kun
+坤	kun	49143
 坤为地	kun wei di	100
 坤仁	kun ren	335
 坤伶	kun ling	16
@@ -823,6 +977,8 @@ sort: by_weight
 坤车	kun che	90
 坤造	kun zao	1840
 坤道	kun dao	1111
+垮	kua
+垮	kua	23378
 垮下去	kua xia qu	505
 垮下来	kua xia lai	1210
 垮了	kua le	9850
@@ -834,6 +990,8 @@ sort: by_weight
 垮掉的一代	kua diao de yi dai	100
 垮沙乡	kua sha xiang	3
 垮落法	kua luo fa	183
+堀	ku
+堀	ku	1
 堀与宫村	ku yu gong cun	139
 堀井新太	ku jing xin tai	1
 堀内敬子	ku nei jing zi	1
@@ -857,7 +1015,18 @@ sort: by_weight
 堀越二郎	ku yue er lang	1
 堀越耕平	ku yue geng ping	1
 堀部圭亮	ku bu gui liang	1
+堃	kun
+堃	kun	123
+堒	kun
+塊	kuai
+墤	kuai
+壙	kuang
+壸	kun
+壸	kun	74
 壸浆箪食	kun jiang dan shi	1
+壼	kun
+夔	kui
+夔	kui	2715
 夔峡	kui xia	111
 夔州	kui zhou	101
 夔州处女发半华	kui zhou chu nv fa ban hua	1
@@ -868,6 +1037,8 @@ sort: by_weight
 夔门	kui men	256
 夔龙	kui long	5
 夔龙礼乐	kui long li yue	2
+夸	kua
+夸	kua	102041
 夸一夸	kua yi kua	123
 夸上了天	kua shang le tian	100
 夸下海口	kua xia hai kou	100
@@ -964,6 +1135,10 @@ sort: by_weight
 夸道	kua dao	815
 夸雷斯马	kua lei si ma	100
 夸饰	kua shi	935
+夼	kuang
+夼	kuang	50
+奎	kui
+奎	kui	23789
 奎依巴格镇	kui yi ba ge zhen	1
 奎元馆	kui yuan guan	583
 奎元馆片儿川	kui yuan guan pian er chuan	1
@@ -1006,7 +1181,15 @@ sort: by_weight
 奎聚街道	kui ju jie dao	135
 奎门村	kui men cun	1
 奎霞村	kui xia cun	2
+姱	kua
+姱	kua	11
 姱容修态	kua rong xiu tai	100
+婫	kun
+婫	kun	1
+媿	kui
+嬇	kui
+宽	kuan
+宽	kuan	175076
 宽严得体	kuan yan de ti	2
 宽严有度	kuan yan you du	341
 宽严相济	kuan yan xiang ji	3515
@@ -1246,10 +1429,23 @@ sort: by_weight
 宽鳍𫚭鱼	kuan qi lie yu	1
 宽鳞头新棘鲉	kuan lin tou xin ji you	1
 宽黄斑弄蝶	kuan huang ban nong die	1
+寛	kuan
+寬	kuan
+尯	kui
+岲	kuang
+岿	kui
+岿	kui	1390
 岿巍	kui wei	1
 岿然	kui ran	1420
 岿然不动	kui ran bu dong	4010
 岿然独存	kui ran du cun	100
+崐	kun
+崑	kun
+巋	kui
+巙	kui
+巜	kuai
+库	ku
+库	ku	116418
 库中	ku zhong	56385
 库中先散与金钱	ku zhong xian san yu jin qian	1
 库乐队	ku yue dui	100
@@ -1452,6 +1648,9 @@ sort: by_weight
 库页鲟	ku ye xun	1
 库马尔	ku ma er	355
 库鲁病	ku lu bing	4
+庫	ku
+廓	kuo
+廓	kuo	15567
 廓如亭	kuo ru ting	189
 廓尔喀	kuo er ka	1180
 廓尔喀人	kuo er ka ren	110
@@ -1462,6 +1661,10 @@ sort: by_weight
 廓线	kuo xian	5
 廓落	kuo luo	1
 廓达大度	kuo da da du	1
+廤	ku
+廥	kuai
+快	kuai
+快	kuai	1840001
 快一些	kuai yi xie	5355
 快一倍	kuai yi bei	1065
 快一年	kuai yi nian	100
@@ -2687,9 +2890,20 @@ sort: by_weight
 快鹿集团	kuai lu ji tuan	100
 快鹿集团案	kuai lu ji tuan an	100
 快龙	kuai long	1
+忹	kuang
+恇	kuang
+恗	kua
+悃	kun
+悃	kun	190
 悃愊无华	kun bi wu hua	100
 悃诚	kun cheng	45
 悃质无华	kun zhi wu hua	1
+悝	kui
+悝	kui	109
+愦	kui
+愦	kui	225
+愧	kui
+愧	kui	101918
 愧不敢当	kui bu gan dang	1050
 愧于	kui yu	3115
 愧仄	kui ze	5
@@ -2712,6 +2926,14 @@ sort: by_weight
 愧赧	kui nan	145
 愧领	kui ling	999
 愧颜	kui yan	20
+憒	kui
+懬	kuang
+懭	kuang
+戣	kui
+戣	kui	1
+扝	ku
+扩	kuo
+扩	kuo	89799
 扩为	kuo wei	860
 扩产	kuo chan	9575
 扩仓	kuo cang	12
@@ -2900,6 +3122,10 @@ sort: by_weight
 扩频	kuo pin	5050
 扩频技术	kuo pin ji shu	1415
 扩频通信	kuo pin tong xin	1210
+抂	kuang
+拡	kuo
+括	kuo
+括	kuo	139127
 括不可使将	kuo bu ke shi jiang	1
 括住	kuo zhu	3333
 括号	kuo hao	25115
@@ -2923,12 +3149,19 @@ sort: by_weight
 括约肌	kuo yue ji	10880
 括访	kuo fang	63
 括起来	kuo qi lai	4615
+挄	kuo
+挎	ku
+挎	kua
+挎	kua	8629
 挎兜儿	kua dou er	100
 挎包	kua bao	12185
 挎斗	kua dou	1
 挎枪	kua qiang	160
 挎着	kua zhe	5145
 挎着篮子	kua zhe lan zi	100
+捁	ku
+捆	kun
+捆	kun	27010
 捆一捆	kun yi kun	123
 捆上	kun shang	1450
 捆不了	kun bu liao	45
@@ -2985,6 +3218,8 @@ sort: by_weight
 捆蹄	kun ti	587
 捆载而归	kun zai er gui	1
 捆钞机	kun chao ji	445
+揆	kui
+揆	kui	1377
 揆席	kui xi	20
 揆度	kui duo	3
 揆度奇恒	kui du qi heng	6
@@ -2994,6 +3229,11 @@ sort: by_weight
 揆时度势	kui shi duo shi	100
 揆理度势	kui li duo shi	1
 揆理度情	kui li duo qing	1
+擓	kuai
+擴	kuo
+旝	kuai
+旷	kuang
+旷	kuang	37033
 旷世	kuang shi	11245
 旷世不羁	kuang shi bu ji	100
 旷世之战	kuang shi zhi zhan	100
@@ -3065,6 +3305,8 @@ sort: by_weight
 旷野教	kuang ye jiao	100
 旷野窄门	kuang ye zhai men	100
 旷阔	kuang kuo	195
+昆	kun
+昆	kun	66326
 昆云里	kun yun li	110
 昆交会	kun jiao hui	1485
 昆仑	kun lun	71330
@@ -3205,10 +3447,21 @@ sort: by_weight
 昆阳之战	kun yang zhi zhan	230
 昆鸡长笑老鹰非	kun ji chang xiao lao ying fei	3
 昆龙	kun long	185
+昿	kuang
+晆	kui
+晇	kua
+晜	kun
+暌	kui
+暌	kui	172
 暌别	kui bie	5
 暌离	kui li	1
 暌违	kui wei	1
 暌隔	kui ge	11
+曠	kuang
+會	kuai
+朏	ku
+枯	ku
+枯	ku	61044
 枯了	ku le	1244
 枯井	ku jing	5115
 枯井颓巢	ku jing tui chao	1
@@ -3329,6 +3582,9 @@ sort: by_weight
 枯黄色的	ku huang se de	100
 枯黄芩	ku huang qin	1
 枯黑	ku hei	290
+栝	kuo
+框	kuang
+框	kuang	27076
 框上	kuang shang	6910
 框下去	kuang xia qu	100
 框下来	kuang xia lai	100
@@ -3369,6 +3625,19 @@ sort: by_weight
 框计算	kuang ji suan	40
 框起来	kuang qi lai	100
 框选	kuang xuan	4965
+桍	ku
+梡	kuan
+梱	kun
+楇	kua
+楏	kui
+楑	kui
+楛	ku
+櫆	kui
+櫆	kui	41
+欳	kuai
+欵	kuan
+款	kuan
+款	kuan	136499
 款冬	kuan dong	1035
 款冬花	kuan dong hua	29
 款到	kuan dao	36780
@@ -3408,6 +3677,16 @@ sort: by_weight
 款车型	kuan che xing	100
 款项	kuan xiang	179240
 款额	kuan e	105
+歀	kuan
+殨	kui
+況	kuang
+洭	kuang
+洭	kuang	3
+浍	kuai
+浍	kuai	1
+涃	kun
+溃	kui
+溃	kui	56002
 溃不成军	kui bu cheng jun	6531
 溃乱	kui luan	385
 溃于蚁穴	kui yu yi xue	1705
@@ -3437,9 +3716,24 @@ sort: by_weight
 溃败	kui bai	8485
 溃退	kui tui	3405
 溃逃	kui tao	2920
+漷	kuo
+潉	kun
+潰	kui
+澮	kuai
+濶	kuo
+焅	ku
+焜	kun
+焜	kun	114
 焜锅馍	kun guo mo	59
 焜锅馍馍	kun guo mo mo	35
 焜黄华叶衰	kun huang hua ye shuai	1180
+煃	kui
+煃	kui	4
+熴	kun
+爌	kuang
+犪	kui
+狂	kuang
+狂	kuang	454886
 狂三外传	kuang san wai zhuan	100
 狂三诈四	kuang san zha si	100
 狂为乱道	kuang wei luan dao	1
@@ -3724,8 +4018,21 @@ sort: by_weight
 狂鼠	kuang shu	981
 狂龙	kuang long	841
 狂龙闪	kuang long shan	1
+狅	kuang
+狜	ku
+狯	kuai
+狯	kuai	156
+猑	kun
+獪	kuai
+琨	kun
+琨	kun	2422
 琨玉秋霜	kun yu qiu shuang	100
 琨珸	kun wu	22
+瑻	kun
+璯	kuai
+瘔	ku
+盔	kui
+盔	kui	44274
 盔头	kui tou	255
 盔子	kui zi	70
 盔枕湖	kui zhen hu	1
@@ -3739,6 +4046,9 @@ sort: by_weight
 盔甲鸟	kui jia niao	100
 盔裸棘杜父鱼	kui luo ji du fu yu	1
 盔鵙	kui ju	3
+眖	kuang
+眶	kuang
+眶	kuang	32097
 眶下孔	kuang xia kong	2
 眶下间隙感染	kuang xia jian xi gan ran	1
 眶前片	kuang qian pian	1
@@ -3749,10 +4059,20 @@ sort: by_weight
 眶蜂窝织炎	kuang feng wo zhi yan	3
 眶骨骨折	kuang gu gu zhe	8
 眶鳞	kuang lin	3
+睏	kun
+睽	kui
+睽	kui	10448
 睽卦	kui gua	3
 睽异	kui yi	1
 睽睽	kui kui	999
+瞆	kui
+瞶	kui
+矌	kuang
+矻	ku
+矻	ku	49
 矻矻	ku ku	1
+矿	kuang
+矿	kuang	75241
 矿业	kuang ye	9585
 矿业公司	kuang ye gong si	7765
 矿业城市	kuang ye cheng shi	730
@@ -3902,6 +4222,22 @@ sort: by_weight
 矿道地铁	kuang dao di tie	5
 矿长	kuang zhang	10300
 矿难	kuang nan	14730
+砿	kuang
+硄	kuang
+硞	ku
+硱	kun
+磈	kui
+礦	kuang
+祵	kun
+秙	ku
+秮	kuo
+秳	kuo
+稇	kun
+稛	kun
+穬	kuang
+窋	ku
+窟	ku
+窟	ku	24923
 窟宅	ku zhai	1
 窟室	ku shi	111
 窟穴	ku xue	11
@@ -3909,6 +4245,8 @@ sort: by_weight
 窟窿眼	ku long yan	170
 窟窿眼儿	ku long yan er	90
 窟野河	ku ye he	100
+窥	kui
+窥	kui	30314
 窥一斑而知全豹	kui yi ban er zhi quan bao	270
 窥伺	kui si	3550
 窥伺效慕	kui si xiao mu	8
@@ -3945,12 +4283,20 @@ sort: by_weight
 窥间伺隙	kui jian si xi	100
 窥阴器	kui yin qi	30
 窥阴癖	kui yin pi	590
+窺	kui
+窽	kuan
+窾	kuan
 窾坎镗鞳	kuan kan tang ta	9
 窾坎镗鞳者	kuan kan tang ta zhe	2
+筈	kuo
+筐	kuang
+筐	kuang	12286
 筐子	kuang zi	1820
 筐子沟	kuang zi gou	100
 筐箧中物	kuang qie zhong wu	100
 筐篓	kuang lou	3
+筷	kuai
+筷	kuai	31937
 筷子	kuai zi	76785
 筷子兄弟	kuai zi xiong di	100
 筷子弟兄	kuai zi di xiong	100
@@ -3958,6 +4304,30 @@ sort: by_weight
 筷子芥	kuai zi jie	100
 筷子路	kuai zi lu	92
 筷子长	kuai zi chang	100
+筺	kuang
+篑	kui
+篑	kui	2458
+簣	kui
+籄	kui
+糩	kuai
+絋	kuang
+絓	kua
+絖	kuang
+絝	ku
+綑	kun
+纊	kuang
+纩	kuang
+纩	kuang	99
+绔	ku
+绔	ku	2987
+聧	kui
+聩	kui
+聩	kui	1284
+聭	kui
+聵	kui
+胐	ku
+胯	kua
+胯	kua	9397
 胯下	kua xia	8995
 胯下之辱	kua xia zhi ru	630
 胯下羞	kua xia xiu	1
@@ -3970,10 +4340,19 @@ sort: by_weight
 胯里	kua li	140
 胯间	kua jian	1235
 胯骨	kua gu	1665
+胿	kui
+脍	kuai
+脍	kuai	1296
 脍不厌细	kuai bu yan xi	505
 脍切天池鳞	kuai qie tian chi lin	1
 脍炙	kuai zhi	485
 脍炙人口	kuai zhi ren kou	20660
+膭	kui
+膾	kuai
+臗	kuan
+舿	kua
+苦	ku
+苦	ku	810172
 苦一苦	ku yi ku	100
 苦一苦百姓	ku yi ku bai xing	100
 苦丁茶	ku ding cha	9353
@@ -4282,6 +4661,11 @@ sort: by_weight
 苦麦菜鲩鱼片滚豆腐	ku mai cai huan yu pian gun dou fu	3
 苦麻子	ku ma zi	100
 苦黄雀之作害兮	ku huang que zhi zuo hai xi	100
+菎	kun
+萿	kuo
+葀	kuo
+葵	kui
+葵	kui	12818
 葵亭	kui ting	2
 葵伊吹	kui yi chui	6666
 葵倾向日	kui qing xiang ri	1
@@ -4315,15 +4699,36 @@ sort: by_weight
 葵藿倾阳	kui huo qing yang	1
 葵醛	kui quan	16
 葵青区	kui qing qu	37
+蒉	kuai
+蒉	kui
+蒉	kui	159
+蒯	kuai
+蒯	kuai	2827
 蒯大富	kuai da fu	10
 蒯姓	kuai xing	1
 蒯鲁班	kuai lu ban	15
+蕢	kui
+藈	kui
+蘷	kui
+虁	kui
+虧	kui
+蛞	kuo
+蛞	kuo	118
 蛞蝓	kuo yu	1265
 蛞蝼	kuo lou	1
+蜫	kun
+蝰	kui
+蝰	kui	178
 蝰蛇	kui she	2470
 蝰蛇毒素	kui she du su	5
 蝰蛇科	kui she ke	3
 蝰蛇钉刺	kui she ding ci	3
+袴	ku
+裈	kun
+裈	kun	27
+裍	kun
+裤	ku
+裤	ku	116368
 裤业	ku ye	1690
 裤兜	ku dou	6335
 裤兜子	ku dou zi	9
@@ -4362,16 +4767,35 @@ sort: by_weight
 裤裆藏雷	ku dang cang lei	100
 裤裙	ku qun	395
 裤链	ku lian	6666
+裩	kun
+褌	kun
+褲	ku
+誆	kuang
+誇	kua
+誑	kuang
+謉	kui
+诓	kuang
+诓	kuang	1236
 诓人	kuang ren	111
 诓你	kuang ni	5
 诓哄	kuang hong	65
 诓言诈语	kuang yan zha yu	1
 诓诈	kuang zha	25
 诓骗	kuang pian	735
+诳	kuang
+诳	kuang	1699
 诳时惑众	kuang shi huo zhong	1
 诳言	kuang yan	165
 诳话	kuang hua	40
 诳语	kuang yu	1815
+貇	kun
+貺	kuang
+贶	kuang
+贶	kuang	59
+趶	kua
+跍	ku
+跨	kua
+跨	kua	67967
 跨上	kua shang	12225
 跨上去	kua shang qu	275
 跨上来	kua shang lai	100
@@ -4661,16 +5085,40 @@ sort: by_weight
 跨鹤扬州	kua he yang zhou	100
 跨鹤维扬	kua he wei yang	1
 跨鹤西游	kua he xi you	100
+跬	kui
+跬	kui	289
 跬步	kui bu	2420
 跬步不离	kui bu bu li	100
 跬步千里	kui bu qian li	100
 跬步可及	kui bu ke ji	100
+蹞	kui
+躨	kui
+軖	kuang
+軠	kuang
+軦	kuang
+軭	kuang
+迋	kuang
+适	kuo
+适	kuo	1
+逵	kui
+逵	kui	5273
+邝	kuang
+邝	kuang	1723
 邝姓	kuang xing	1
 邝安堃	kuang an kun	2
 邝文珣	kuang wen xun	200
 邝美云	kuang mei yun	100
 邝露	kuang lu	1
+邼	kuang
+郀	ku
+郐	kuai
+郐	kuai	77
 郐下无讥	kuai xia wu ji	1
+鄈	kui
+鄶	kuai
+鄺	kuang
+酷	ku
+酷	ku	203579
 酷不酷	ku bu ku	215
 酷二狗	ku er gou	100
 酷似	ku si	35495
@@ -4758,10 +5206,34 @@ sort: by_weight
 酷霸王	ku ba wang	100
 酷鱼	ku yu	21380
 酷鱼网	ku yu wang	100
+醌	kun
+醌	kun	9
 醌霉素	kun mei su	1
+鉱	kuang
+銙	kua
+銛	kuo
+銽	kuo
+鋛	kuang
+錕	kun
+鍨	kui
+鍷	kui
+鐀	kui
+鑛	kuang
+鑧	kuan
+铦	kuo
+锟	kun
+锟	kun	1706
 锟斤拷	kun jin kao	140
 锟铻	kun wu	1
+閫	kun
+閸	kun
+闊	kuo
+闚	kui
+阃	kun
+阃	kun	231
 阃闱	kun wei	2
+阔	kuo
+阔	kuo	77181
 阔人	kuo ren	1020
 阔人家	kuo ren jia	100
 阔什塔格乡	kuo shi ta ge xiang	7
@@ -4810,6 +5282,20 @@ sort: by_weight
 阔阔的	kuo kuo de	100
 阔顿牛仔	kuo dun niu zai	1
 阔鼻小目	kuo bi xiao mu	1
+隗	kui
+隗	kui	1
+霩	kuo
+鞟	kuo
+鞹	kuo
+韕	kuo
+頍	kui
+頢	kuo
+頯	kui
+顝	kui
+餽	kui
+饋	kui
+馈	kui
+馈	kui	7839
 馈源	kui yuan	1820
 馈电	kui dian	300
 馈线	kui xian	7710
@@ -4820,7 +5306,16 @@ sort: by_weight
 馈赠品	kui zeng pin	395
 馈赠礼品	kui zeng li pin	2400
 馈送	kui song	2880
+馗	kui
+馗	kui	4134
+駃	kuai
+騉	kun
+騤	kui
+骙	kui
+骙	kui	29
 骙骙	kui kui	1
+骷	ku
+骷	ku	39696
 骷髅	ku lou	63045
 骷髅头	ku lou tou	5220
 骷髅头盔	ku lou tou kui	25
@@ -4848,6 +5343,9 @@ sort: by_weight
 骷髅门	ku lou men	6
 骷髅项链	ku lou xiang lian	23
 骷髅骑士	ku lou qi shi	103
+骻	kua
+髋	kuan
+髋	kuan	423
 髋关节	kuan guan jie	13230
 髋关节成型凿	kuan guan jie cheng xing zao	1
 髋关节炎	kuan guan jie yan	20
@@ -4859,7 +5357,16 @@ sort: by_weight
 髋部	kuan bu	4930
 髋骨	kuan gu	2370
 髋髀	kuan bi	111
+髖	kuan
+髠	kun
+髡	kun
+髡	kun	320
 髡残	kun can	1
+髨	kun
+髺	kuo
+鬠	kuo
+魁	kui
+魁	kui	39294
 魁人党	kui ren dang	100
 魁伟	kui wei	9999
 魁元	kui yuan	600
@@ -4892,7 +5399,15 @@ sort: by_weight
 魁省投资移民	kui sheng tou zi yi min	100
 魁省移民	kui sheng yi min	100
 魁首	kui shou	3270
+鮬	ku
+鮭	kui
+鯤	kun
+鱠	kuai
+鲙	kuai
+鲙	kuai	16
 鲙鱼	kuai yu	1
+鲲	kun
+鲲	kun	3210
 鲲之大	kun zhi da	100
 鲲之背	kun zhi bei	100
 鲲鹏	kun peng	9635
@@ -4901,4 +5416,196 @@ sort: by_weight
 鲲鹏得志	kun peng de zhi	100
 鲲鹏水击三千里	kun peng shui ji san qian li	5
 鲲鹏集团	kun peng ji tuan	58
+鵟	kuang
+鵾	kun
+鶤	kun
+鹍	kun
+鹍	kun	37
 鹍鸡	kun ji	5
+黋	kuang
+𠇗	kua
+𠊾	kui
+𠚯	kun
+𠜐	kuai
+𠠎	kuo
+𠠶	ku
+𠣠	kui
+𠣲	kuai
+𠺟	ku
+𠿥	kui
+𡀙	ku
+𡇚	kua
+𡉄	ku
+𡌤	kui
+𡎒	kuo
+𡐠	kui
+𡑚	ku
+𡑣	ku
+𡒾	kui
+𡓰	kui
+𡕒	kua
+𡖉	kun
+𡗢	kua
+𡗵	ku
+𡗸	kua
+𡚅	kuai
+𡞯	ku
+𡤞	kui
+𡯵	kui
+𡱼	kua
+𡶏	ku
+𡶢	kuang
+𡻙	kuo
+𡼾	kuai
+𡼿	ku
+𡾇	kuang
+𢄳	kua
+𢈛	kun
+𢌳	kui
+𢏆	ku
+𢓢	kua
+𢕫	kuan
+𢜽	kui
+𢠛	kuo
+𢢞	kuai
+𢴪	kuan
+𢼀	kui
+𢼁	ku
+𢼑	kuang
+𢼳	kuang
+𢾒	kuai
+𣄲	kui
+𣍦	kuang
+𣏔	kun
+𣒸	kuang
+𣗺	ku
+𣢻	kuan
+𣥮	kui
+𣧼	kui
+𣫉	kuai
+𣰘	kun
+𣱂	kun
+𣴥	kuang
+𣽟	kuan
+𤆂	kui
+𤏜	kui
+𤝿	kuang
+𤞇	kuang
+𤫵	kuo
+𤵮	kui
+𥁇	kui
+𥈏	kuang
+𥈷	ku
+𥊽	kun
+𥌄	ku
+𥏙	kui
+𥏤	kua
+𥑹	kua
+𥕏	kuo
+𥚛	kun
+𥜶	kui
+𥞴	ku
+𥟓	kuan
+𥟾	ku
+𥢶	kuai
+𥦀	kuan
+𥧋	ku
+𥪊	kui
+𥯶	ku
+𦄐	kun
+𦌸	kun
+𦓾	kun
+𦔦	kuai
+𦚞	kuang
+𦛏	ku
+𦜇	ku
+𦝢	kui
+𦡆	ku
+𦥰	kuang
+𦧍	kuo
+𦧔	kuo
+𦮃	kua
+𦳋	kuai
+𧂠	kui
+𧄑	kui
+𧊘	ku
+𧋕	kun
+𧍜	kui
+𧑋	kui
+𧝷	kui
+𧠂	ku
+𧡦	kui
+𧡫	kui
+𧢦	kui
+𧥊	kun
+𧥌	kuang
+𧷎	ku
+𧷛	kui
+𧻔	kuang
+𧻜	kui
+𧻲	kui
+𧻺	kuang
+𧿉	ku
+𧿋	ku
+𨀕	kuang
+𨁉	kun
+𨃖	kua
+𨇁	kuang
+𨏆	kuang
+𨐡	ku
+𨓈	kuo
+𨕺	kua
+𨖢	kuang
+𨛖	kuai
+𨡱	ku
+𨣈	kui
+𨥑	kuang
+𨨭	kuang
+𨨱	kuo
+𨱙	kun
+𨴑	kuang
+𨵧	kua
+𨶐	kuo
+𨾎	kui
+𨾗	kui
+𩇵	ku
+𩊓	ku
+𩊓	kua
+𩋻	kuo
+𩏣	kui
+𩑔	ku
+𩑡	ku
+𩑶	ku
+𩓗	kui
+𩓽	kun
+𩕜	kui
+𩠮	kui
+𩢼	kuang
+𩤋	kun
+𩦱	kuai
+𩨫	kun
+𩨳	ku
+𩬹	kuang
+𩭋	kun
+𩱙	ku
+𩲅	kui
+𩲷	kui
+𩵉	kui
+𩷗	kuang
+𩹍	kui
+𩻋	kun
+𩽞	kun
+𪆴	kui
+𪇄	ku
+𪋆	kun
+𪌓	ku
+𪍠	ku
+𪍿	kuang
+𪏪	kuang
+𪖢	kui
+𪗽	kuo
+𪘩	kun
+𫛭	kuang	9
+𫠆	kui
+𫠆	kui	1
+𱉱	kun

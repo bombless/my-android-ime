@@ -3,6 +3,104 @@ name: merged.ma
 version: "1.0"
 sort: by_weight
 ...
+㐷	ma
+㑻	ma
+㒵	mao
+㒻	mao
+㒼	man
+㗄	man
+㗈	man
+㙁	mang
+㙢	man
+㚹	mao
+㛧	man
+㜃	mang
+㜥	mai
+㜫	ma
+㝑	mang
+㝟	mao
+㟌	mang
+㟐	mang
+㟿	mang
+㡌	mao
+㡛	mang
+㡢	man
+㦄	ma
+㦟	mai
+㧇	mao
+㧌	mao
+㨸	ma
+㪞	mao
+㫯	mao
+㬅	man
+㬒	mang
+㬒	mao
+㮘	mao
+㲠	mao
+㴘	mao
+㵘	man
+㹈	mao
+㺺	mao
+㻊	mang
+㾺	ma
+㿞	mao
+㿸	man
+䀣	ma
+䀤	mao
+䀮	mang
+䁲	mai
+䁳	mang
+䅒	mang
+䅦	mao
+䅼	man
+䈍	mang
+䈿	mai
+䊡	man
+䋃	mao
+䐽	man
+䑱	man
+䒎	mang
+䒥	man
+䓮	mao
+䓼	mang
+䕕	man
+䖟	mang
+䖥	mao
+䗫	ma
+䘑	mai
+䙪	mang
+䚑	mai
+䛲	man
+䜕	mai
+䜱	man
+䝡	man
+䝢	man
+䟂	man
+䟥	mang
+䠋	ma
+䠨	ma
+䡚	mao
+䡬	man
+䣕	ma
+䣖	ma
+䧞	ma
+䨪	mai
+䨫	mai
+䨫	man
+䫉	mao
+䭷	mao
+䮮	mai
+䯦	ma
+䯶	man
+䰋	man
+䳸	ma
+䳸	mai
+䵨	mang
+么	ma
+么	ma	0
+乮	mao
+买	mai
+买	mai	477539
 买一	mai yi	54005
 买一万	mai yi wan	100
 买一个	mai yi ge	59740
@@ -767,9 +865,19 @@ sort: by_weight
 买麦网	mai mai wang	7
 买麻藤	mai ma teng	2
 买齐	mai qi	3699
+亇	ma
+佅	mai
+傌	ma
+僈	man
+冃	mao
+冇	mao
+冇	mao	17800
 冇啊	mao a	111
 冇错	mao cuo	1111
 冇错啊	mao cuo a	1111
+冐	mao
+冒	mao
+冒	mao	258486
 冒上	mao shang	995
 冒上去	mao shang qu	100
 冒上来	mao shang lai	630
@@ -947,6 +1055,11 @@ sort: by_weight
 冒领	mao ling	9310
 冒领存款	mao ling cun kuan	172
 冒风险	mao feng xian	4910
+劢	mai
+劢	mai	242
+勱	mai
+卖	mai
+卖	mai	303880
 卖一个	mai yi ge	100
 卖一些	mai yi xie	84
 卖一份	mai yi fen	12
@@ -1327,6 +1440,8 @@ sort: by_weight
 卖鱼桥	mai yu qiao	82
 卖鱼生怕近城门	mai yu sheng pa jin cheng men	1
 卖麻桥	mai ma qiao	2
+卯	mao
+卯	mao	5587
 卯上	mao shang	975
 卯上干	mao shang gan	100
 卯兔	mao tu	1212
@@ -1342,6 +1457,11 @@ sort: by_weight
 卯起来	mao qi lai	100
 卯酉参辰	mao you shen chen	100
 卯金刀	mao jin dao	100
+厖	mang
+厖	mang	20
+吂	mang
+吗	ma
+吗	ma	9028487
 吗丁啉	ma ding lin	1390
 吗咿呀嘿	ma yi ya hei	100
 吗啉胍	ma lin gua	19
@@ -1356,11 +1476,23 @@ sort: by_weight
 吗替麦考酚酯片	ma ti mai kao fen zhi pian	1
 吗替麦考酚酯胶囊	ma ti mai kao fen zhi jiao nang	1
 吗氯贝胺	ma lv bei an	4
+哤	mang
+唛	ma
+唛	mai	81
 唛阿喜	mai a xi	110
+嗎	ma
+嘛	ma
+嘛	ma	334431
 嘛也没学会	ma ye mei xue hui	100
 嘛事	ma shi	5555
 嘛去了	ma qu le	100
 嘛意思	ma yi si	1129
+嘜	ma
+嘪	mai
+埋	mai
+埋	mai	139624
+埋	man
+埋	man	1
 埋一埋	mai yi mai	123
 埋三怨四	mai san yuan si	100
 埋下	mai xia	21740
@@ -1487,6 +1619,14 @@ sort: by_weight
 埋骨何须桑梓地	mai gu he xu sang zi di	36
 埋骨地	mai gu di	100
 埋骨黄垆	mai gu huang lu	100
+堥	mao
+墁	man
+墁	man	194
+売	mai
+壾	mang
+夘	mao
+妈	ma
+妈	ma	956493
 妈个蛋	ma ge dan	100
 妈个蛋的	ma ge dan de	100
 妈个逼	ma ge bi	100
@@ -1598,8 +1738,18 @@ sort: by_weight
 妈逼	ma bi	9999
 妈都不认识	ma dou bu ren shi	100
 妈阁庙	ma ge miao	1045
+姏	man
+娏	mang
+娨	man
+媢	mao
+媽	ma
+嫚	man
+嫚	man	376
 嫚儿	man er	1
 嫚子	man zi	2
+嫲	ma
+孖	ma
+孖	ma	58
 孖仔	ma zai	2
 孖女	ma nv	2
 孖斑双鳃脂鲤	ma ban shuang sai zhi li	100
@@ -1609,7 +1759,15 @@ sort: by_weight
 孖生的	ma sheng de	9
 孖线鲽	ma xian die	100
 孖髻山	ma ji shan	123
+尨	mang
+尨	mang	97
 尨眉皓发	mang mei hao fa	100
+屘	man
+峁	mao
+峁	mao	394
+嵍	mao
+帽	mao
+帽	mao	66271
 帽上	mao shang	1730
 帽儿胡同	mao er hu tong	56
 帽圈	mao juan	175
@@ -1648,9 +1806,15 @@ sort: by_weight
 帽蛇	mao she	15
 帽衫	mao shan	7777
 帽铃水母	mao ling shui mu	1
+幔	man
+幔	man	4776
 幔子	man zi	435
 幔帐	man zhang	1095
 幔帷	man wei	2
+庅	ma
+庬	mang
+忙	mang
+忙	mang	899024
 忙一些	mang yi xie	66
 忙上	mang shang	5425
 忙不	mang bu	4775
@@ -1816,6 +1980,11 @@ sort: by_weight
 忙里忙外	mang li mang wai	2635
 忙问	mang wen	15735
 忙音	mang yin	3775
+恾	mang
+悗	man
+愗	mao
+慢	man
+慢	man	820995
 慢一些	man yi xie	12
 慢一拍	man yi pai	780
 慢一点	man yi dian	8535
@@ -2172,10 +2341,16 @@ sort: by_weight
 慢门	man men	5
 慢阻肺	man zu fei	100
 慢阻肺急性加重	man zu fei ji xing jia zhong	100
+慲	man
+懋	mao
+懋	mao	1870
 懋功	mao gong	1
 懋功会师	mao gong hui shi	1085
 懋勤殿	mao qin dian	140
 懋绩	mao ji	40
+戼	mao
+抹	ma
+抹	ma	113249
 抹一抹	ma yi ma	123
 抹下去	ma xia qu	100
 抹下来	ma xia lai	100
@@ -2204,9 +2379,16 @@ sort: by_weight
 抹身	ma shen	138
 抹身体	ma shen ti	138
 抹身子	ma shen zi	138
+摩	ma
+摩	ma	1
 摩挲	ma sa	105
 摩挲着	ma sa zhe	3315
 摩擦角	ma ca jiao	62
+摱	man
+旄	mao
+旄	mao	389
+昴	mao
+昴	mao	726
 昴宿	mao xiu	28
 昴宿星	mao xiu xing	100
 昴宿星团	mao xiu xing tuan	100
@@ -2214,6 +2396,9 @@ sort: by_weight
 昴日鸡	mao ri ji	100
 昴星	mao xing	16
 昴星团	mao xing tuan	100
+暓	mao
+曼	man
+曼	man	148287
 曼丁戈	man ding ge	1
 曼丹达	man dan da	109
 曼丽	man li	4785
@@ -2328,7 +2513,22 @@ sort: by_weight
 曼陀罗花	man tuo luo hua	810
 曼顿	man dun	757
 曼食慢语	man shi man yu	100
+朚	mang
+杗	mang
+杧	mang
+杧	mang	2
+杩	ma
+杩	ma	70
 杩头	ma tou	1
+枆	mao
+柕	mao
+楙	mao
+楙	mao	166
+榪	ma
+槾	man
+樠	man
+毛	mao
+毛	mao	469562
 毛不易	mao bu yi	100
 毛丫头	mao ya tou	545
 毛主义	mao zhu yi	100
@@ -2976,8 +3176,21 @@ sort: by_weight
 毛黄斑青步甲	mao huang ban qing bu jia	1
 毛鼬之咬	mao you zhi yao	1
 毛鼻袋熊	mao bi dai xiong	16
+毷	mao
+氂	mao
+氓	mang
+氓	mang	42109
 氓鼬鳚	mang you wei	1
+汒	mang
+泖	mao
+泖	mao	154
 泖河	mao he	3
+浝	mang
+渵	mao
+満	man
+溤	ma
+满	man
+满	man	1238021
 满一年	man yi nian	100
 满七	man qi	111
 满上	man shang	1755
@@ -3508,6 +3721,9 @@ sort: by_weight
 满额	man e	4460
 满额参赛	man e can sai	100
 满额鹅黄	man e e huang	3
+滿	man
+漫	man
+漫	man	213126
 漫上	man shang	4
 漫上来	man shang lai	100
 漫不加意	man bu jia yi	100
@@ -3736,18 +3952,36 @@ sort: by_weight
 漫长黑夜	man chang hei ye	100
 漫随天外云卷云舒	man sui tian wai yun juan yun shu	1180
 漫骂	man ma	1
+漭	mang
+漭	mang	209
 漭漭	mang mang	1
+澫	man
+澷	man
+熳	man
+牤	mang
+牤	mang	118
 牤子	mang zi	1
 牤牛	mang niu	1
 牤牛桥社区	mang niu qiao she qu	1
 牤牛河	mang niu he	78
 牤牛营子乡	mang niu ying zi xiang	1
+牦	mao
+牦	mao	1744
 牦牛	mao niu	27460
 牦牛毛	mao niu mao	391
 牦牛火锅	mao niu huo guo	286
 牦牛肉	mao niu rou	6035
+牻	mang
+牻	mang	53
 牻牛儿苗	mang niu er miao	1
+犘	ma
+犛	mao
+犸	ma
+犸	ma	1633
 犸君颅龙	ma jun lu long	14
+狵	mang
+猫	mao
+猫	mao	137136
 猫丞丞	mao cheng cheng	100
 猫丢了	mao diu le	100
 猫丢了吧	mao diu le ba	100
@@ -3949,6 +4183,10 @@ sort: by_weight
 猫鼬少	mao you shao	100
 猫鼬探长	mao you tan zhang	100
 猫鼬斩	mao you zhan	100
+獁	ma
+獌	man
+玛	ma
+玛	ma	131821
 玛丝洛娃	ma si luo wa	130
 玛丽	ma li	49655
 玛丽·居里	ma li ju li	100
@@ -4116,6 +4354,15 @@ sort: by_weight
 玛雅预言	ma ya yu yan	100
 玛鲁克魅魔	ma lu ke mei mo	2
 玛𤧛脂	ma di zhi	9999
+瑁	mao
+瑁	mao	2802
+瑪	ma
+痝	mang
+痲	ma
+痳	ma
+皃	mao
+盲	mang
+盲	mang	29895
 盲丙按摩	mang bing an mo	1
 盲井	mang jing	625
 盲人	mang ren	53595
@@ -4244,6 +4491,14 @@ sort: by_weight
 盲鳗	mang man	3
 盲鳗目	mang man mu	5
 盲𫚔	mang hui	1
+盳	mang
+眊	mao
+眊	mao	34
+睰	ma
+瞀	mao
+瞀	mao	112
+瞒	man
+瞒	man	70085
 瞒一瞒	man yi man	123
 瞒上不瞒下	man shang bu man xia	100
 瞒上欺下	man shang qi xia	250
@@ -4299,6 +4554,10 @@ sort: by_weight
 瞒过	man guo	6300
 瞒过了	man guo le	100
 瞒骗	man pian	1285
+瞞	man
+矕	man
+矛	mao
+矛	mao	95725
 矛刺侏儒	mao ci zhu ru	1
 矛吻海龙	mao wen hai long	1
 矛吻腔吻鳕	mao wen qiang wen xue	1
@@ -4370,6 +4629,8 @@ sort: by_weight
 矛调中心	mao tiao zhong xin	100
 矛隼	mao sun	18
 矛𫚪	mao yu	1
+码	ma
+码	ma	160836
 码上优惠	ma shang you hui	100
 码云	ma yun	111
 码代码	ma dai ma	100
@@ -4417,10 +4678,32 @@ sort: by_weight
 码表	ma biao	8395
 码长	ma chang	1065
 码长城	ma chang cheng	100
+硥	mang
+硭	mang
+硭	mang	100
+碼	ma
+祃	ma
+祃	ma	4
+禡	ma
+秏	mao
+笀	mang
+笷	mao
+絻	man
+緢	mao
+縵	man
+缦	man
+缦	man	1117
 缦立	man li	90
+罞	mao
+罵	ma
+耄	mao
+耄	mao	713
 耄耋	mao die	2650
 耄耋之年	mao die zhi nian	1735
 耄耋高龄	mao die gao ling	100
+脈	mai
+脉	mai
+脉	mai	134301
 脉不制肉	mai bu zhi rou	100
 脉侧壁钳动	mai ce bi qian dong	1
 脉冲	mai chong	93765
@@ -4516,6 +4799,8 @@ sort: by_weight
 脉阴阳俱浮	mai yin yang ju fu	2
 脉阴阳俱紧	mai yin yang ju jin	3
 脉阻断钳	mai zu duan qian	1
+芒	mang
+芒	mang	189889
 芒东村	mang dong cun	2
 芒什省	mang shi sheng	100
 芒光灯笼鱼	mang guang deng long yu	1
@@ -4594,6 +4879,10 @@ sort: by_weight
 芒鰕虎鱼	mang xia hu yu	1
 芒鱼	mang yu	37
 芒鼠	mang shu	1
+芼	mao
+芼	mao	35
+茂	mao
+茂	mao	38926
 茂业天地	mao ye tian di	100
 茂业百货	mao ye bai huo	509
 茂亭村	mao ting cun	1
@@ -4649,6 +4938,8 @@ sort: by_weight
 茂陵刘郎秋风客	mao ling liu lang qiu feng ke	1
 茂陵博物馆	mao ling bo wu guan	32
 茂霞村	mao xia cun	3
+茅	mao
+茅	mao	37567
 茅东	mao dong	17
 茅乡龙	mao xiang long	2
 茅于轼	mao yu shi	97
@@ -4756,8 +5047,12 @@ sort: by_weight
 茅麓	mao lu	15
 茅麓旗枪	mao lu qi qiang	1
 茅鼠	mao shu	2
+茆	mao
+茆	mao	100
 茆建玲	mao jian ling	100
 茆诗松	mao shi song	153
+茫	mang
+茫	mang	126870
 茫如坠烟雾	mang ru zhui yan wu	1
 茫崖	mang ya	1015
 茫崖市	mang ya shi	116
@@ -4810,6 +5105,11 @@ sort: by_weight
 茫茫苦海	mang mang ku hai	16
 茫茫荡荡	mang mang dang dang	100
 茫茫走胡兵	mang mang zou hu bing	1
+茻	mang
+荬	mai
+荬	mai	34
+莽	mang
+莽	mang	33238
 莽卤灭裂	mang lu mie lie	100
 莽原	mang yuan	1830
 莽原折背陆龟	mang yuan zhe bei lu gui	1
@@ -4832,8 +5132,15 @@ sort: by_weight
 莽莽广广	mang mang guang guang	1
 莽莽撞撞	mang mang zhuang zhuang	635
 莽莽苍苍	mang mang cang cang	2050
+莾	mang
+菻	ma
+萺	mao
+蓩	mao
+蔄	man
 蔄山	man shan	2
 蔄山镇	man shan zhen	2
+蔓	man
+蔓	man	33854
 蔓延	man yan	118440
 蔓延下来	man yan xia lai	100
 蔓延全国	man yan quan guo	100
@@ -4862,6 +5169,13 @@ sort: by_weight
 蔓越莓	man yue mei	100
 蔓锦葵	man jin kui	1
 蔓长春花	man chang chun hua	8
+蔴	ma
+蕒	mai
+薶	mai
+蘉	mang
+蘰	man
+蚂	ma
+蚂	ma	26697
 蚂蚁	ma yi	124800
 蚂蚁上市	ma yi shang shi	100
 蚂蚁上树	ma yi shang shu	1901
@@ -4899,6 +5213,9 @@ sort: by_weight
 蚂螂	ma lang	1
 蚂蟥	ma huang	4550
 蚂蟥钉	ma huang ding	100
+蛖	mang
+蛮	man
+蛮	man	105867
 蛮不讲理	man bu jiang li	6591
 蛮不错的	man bu cuo de	100
 蛮不错的嘛	man bu cuo de ma	100
@@ -5009,17 +5326,41 @@ sort: by_weight
 蛮香的	man xiang de	119
 蛮高	man gao	1111
 蛮鬃水井	man zong shui jing	1
+蝐	mao
+蝥	mao
+蝥	mao	72
+螞	ma
+螨	man
+螨	man	185
 螨病	man bing	2
 螨皮炎	man pi yan	1
 螨虫	man chong	9170
 螨虫病	man chong bing	5
+蟆	ma
+蟆	ma	9205
+蟇	ma
+蟊	mao
+蟊	mao	667
 蟊县	mao xian	5
 蟊虫	mao chong	1
 蟊贼	mao zei	1250
+蟎	man
+蟒	mang
+蟒	mang	15665
 蟒山	mang shan	1650
 蟒蛇	mang she	11795
 蟒衣玉带	mang yi yu dai	3
 蟒袍	mang pao	9999
+蠎	mang
+蠻	man
+衇	mai
+袤	mao
+袤	mao	3094
+襔	man
+覒	mao
+謾	man
+谩	man
+谩	man	2531
 谩上不谩下	man shang bu man xia	26
 谩不经意	man bu jing yi	1
 谩天昧地	man tian mei di	1
@@ -5027,6 +5368,8 @@ sort: by_weight
 谩骂	man ma	23020
 谩骂的	man ma de	545
 谩骂者	man ma zhe	310
+貌	mao
+貌	mao	164902
 貌不出众	mao bu chu zhong	440
 貌不出奇	mao bu chu qi	1
 貌不惊人	mao bu jing ren	3610
@@ -5062,6 +5405,12 @@ sort: by_weight
 貌芋螺	mao yu luo	1
 貌若	mao ruo	725
 貌若天仙	mao ruo tian xian	1705
+貓	mao
+買	mai
+貿	mao
+賣	mai
+贸	mao
+贸	mao	48254
 贸促会	mao cu hui	13145
 贸促系统	mao cu xi tong	100
 贸发局	mao fa ju	100
@@ -5170,6 +5519,9 @@ sort: by_weight
 贸迁有无	mao qian you wu	8
 贸首之仇	mao shou zhi chou	1
 贸首之雠	mao shou zhi chou	1
+軞	mao
+迈	mai
+迈	mai	83798
 迈一步	mai yi bu	10020
 迈一迈	mai yi mai	168
 迈上	mai shang	25185
@@ -5294,11 +5646,30 @@ sort: by_weight
 迈阿密滩	mai a mi tan	100
 迈阿密热火队	mai a mi re huo dui	475
 迈阿密的一夜	mai a mi de yi ye	100
+遤	ma
+邁	mai
+邙	mang
+邙	mang	2036
 邙山	mang shan	4075
 邙山区	mang shan qu	2
 邙山行	mang shan xing	100
+鄚	mao
+鄚	mao	15
 鄚州镇	mao zhou zhen	3
+鄤	man
+鄮	mao
+酕	mao
 酕醄大醉	mao tao da zui	9999
+釯	mang
+鉚	mao
+鉾	mao
+鋩	mang
+錨	mao
+鎷	ma
+鏋	man
+鏝	man
+铆	mao
+铆	mao	951
 铆劲	mao jin	160
 铆劲儿	mao jin er	9999
 铆工	mao gong	1225
@@ -5318,7 +5689,10 @@ sort: by_weight
 铆钉	mao ding	18008
 铆钉机	mao ding ji	1435
 铆钉枪	mao ding qiang	100
+铓	mang
 铓锣	mang luo	2
+锚	mao
+锚	mao	3900
 锚位	mao wei	1111
 锚参科	mao shen ke	1
 锚喷支护	mao pen zhi hu	315
@@ -5346,11 +5720,26 @@ sort: by_weight
 锚链	mao lian	1111
 锚链孔	mao lian kong	15
 锚鳎	mao ta	1
+镘	man
+镘	man	71
 镘泥拟单栏虫	man ni ni dan lan chong	1
+閁	ma
+霡	mai
 霡霂	mai mu	1
+霢	mai
+霾	mai
+霾	mai	5226
+鞔	man
+鞔	man	110
+顢	man
+颟	man
+颟	man	192
 颟顸	man han	860
 颟顸无能	man han wu neng	100
 颟颟顸顸	man man han han	100
+饅	man
+馒	man
+馒	man	14818
 馒头	man tou	245498
 馒头任务	man tou ren wu	2
 馒头协会	man tou xie hui	100
@@ -5361,6 +5750,11 @@ sort: by_weight
 馒头蟹	man tou xie	100
 馒头驻	man tou zhu	2
 馒首	man shou	115
+馬	ma
+駡	ma
+駹	mang
+马	ma
+马	ma	1729443
 马一龙	ma yi long	10
 马丁	ma ding	65365
 马丁·斯科塞斯	ma ding si ke sai si	100
@@ -7030,6 +7424,8 @@ sort: by_weight
 马龙白兰度	ma long bai lan du	100
 马龙车水	ma long che shui	100
 马𬱖	ma di	1
+骂	ma
+骂	ma	302419
 骂一句	ma yi ju	100
 骂一遍	ma yi bian	65
 骂一骂	ma yi ma	456
@@ -7154,9 +7550,20 @@ sort: by_weight
 骂阵	ma zhen	320
 骂骂	ma ma	2550
 骂骂咧咧	ma ma lie lie	6545
+髦	mao
+髦	mao	9531
 髦字头	mao zi tou	1111
+髳	mao
+鬕	ma
+鬗	man
+鬘	man
+鬘	man	30
 鬘螺	man luo	1
 鬘螺科	man luo ke	1
+鰢	ma
+鰻	man
+鳗	man
+鳗	man	2505
 鳗尾三角下口鲶	man wei san jiao xia kou nian	1
 鳗形尖斜胎鳚	man xing jian xie tai wei	1
 鳗形布氏筋鱼	man xing bu shi jin yu	1
@@ -7171,6 +7578,12 @@ sort: by_weight
 鳗鲡目	man li mu	100
 鳗鲡科	man li ke	100
 鳗鳚	man wei	8
+鶜	mao
+鷌	ma
+鷶	mai
+麥	mai
+麦	mai
+麦	mai	121753
 麦丘之祝	mai qiu zhi zhu	1
 麦丢替	mai diu ti	100
 麦个子	mai ge zi	100
@@ -7739,6 +8152,8 @@ sort: by_weight
 麦高芬	mai gao fen	100
 麦麦蚊儿	mai mai wen er	1
 麦麸	mai fu	6680
+麻	ma
+麻	ma	374419
 麻不麻烦	ma bu ma fan	100
 麻不麻烦吗	ma bu ma fan ma	100
 麻不麻烦吧	ma bu ma fan ba	100
@@ -8195,6 +8610,157 @@ sort: by_weight
 麻黄碱苯海拉明片	ma huang jian ben hai la ming pian	4
 麻黄素	ma huang su	5715
 麻黄附子细辛汤	ma huang fu zi xi xin tang	4
+麽	ma
+鿏	mai	2
 鿏元素	mai yuan su	100
+𠈵	mang
+𠔼	mao
+𠤝	mao
+𠮵	mang
+𠿆	mai
+𡅖	mang
+𡕢	man
+𡘪	mang
+𡜢	mao
+𡢚	man
+𡩩	mang
+𡩽	mang
+𡵀	mang
+𡹰	mao
+𡻤	ma
+𡻩	man
+𢂹	mao
+𢅉	mao
+𢉿	ma
+𢊀	ma
+𢋚	ma
+𢘅	mao
+𢝌	mao
+𢠼	mai
+𢦈	man
+𢨯	mao
+𢯾	mao
+𢳀	ma
+𢽢	mao
+𢿜	man
+𣁜	man
+𣊃	mao
+𣔺	mao
+𣙷	mang
+𣨇	mao
+𣨜	ma
+𣬵	mao
+𣭮	mao
+𣯀	mao
+𣯬	mang
+𣴟	mao
+𣴼	mao
+𣶈	mang
+𣹪	mao
+𤅎	man
+𤚜	mao
+𤛖	mao
+𤜘	man
+𤝄	mao
+𤥰	mao
+𤰡	mang
+𤲰	mao
+𤳂	ma
+𥀏	ma
+𥁃	mang
+𥄸	mao
+𥆙	mang
+𥇯	mai
+𥈆	mao
+𥉊	ma
+𥉵	ma
+𥊑	man
+𥌚	mai
+𥎟	mao
+𥐞	mang
+𥝕	mang
+𥟪	mao
+𥤩	mang
+𥧓	ma
+𥧭	man
+𥬈	man
+𥭚	mang
+𥮎	mang
+𥲈	man
+𥲑	man
+𦀸	mao
+𦎌	man
+𦎨	mang
+𦏢	mai
+𦔔	man
+𦙻	mai
+𦚡	mai
+𦜭	mang
+𦳁	mao
+𦼪	mao
+𧆏	man
+𧍟	mao
+𧐟	mao
+𧒚	mao
+𧓿	mao
+𧔨	mao
+𧖵	man
+𧜞	man
+𧠊	mao
+𧪨	ma
+𧱘	mai
+𧱼	man
+𨈥	mao
+𨛌	mang
+𨤢	mai
+𨥨	mao
+𨦜	mao
+𨩩	mao
+𨰾	ma
+𨲛	man
+𨲾	man
+𨳿	ma
+𨺸	mao
+𩀪	ma
+𩅁	mang
+𩅍	man
+𩆓	man
+𩈗	mai
+𩈦	man
+𩊃	ma
+𩊍	mai
+𩍃	mai
+𩒿	mang
+𩔶	ma
+𩔷	ma
+𩙸	mang
+𩛎	man
+𩛟	man
+𩛨	mao
+𩛲	mang
+𩨲	ma
+𩪎	mang
+𩫁	mao
+𩬞	man
+𩬞	mao
+𩭒	mang
+𩭾	mao
+𩮉	man
+𩶞	ma
+𩷶	mang
+𩿂	mao
+𪁪	mang
+𪃑	mao
+𪄳	mai
+𪈿	man
+𪍩	man
+𪐎	ma
+𪑪	man
+𪒜	ma
+𪒪	mai
+𪓹	ma
+𪚢	mang
+𬜬	man	1
 𬜬山	man shan	2
 𬜬山镇	man shan zhen	2
+𱇮	mang

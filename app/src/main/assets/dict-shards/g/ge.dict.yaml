@@ -3,9 +3,48 @@ name: merged.ge
 version: "1.0"
 sort: by_weight
 ...
+㗆	ge
+㝓	ge
+㠷	ge
+㦴	ge
+㨰	ge
+㪾	ge
+㫔	gen
+㭘	ge
+㮓	gen
+㵧	ge
+㷴	ge
+㹴	geng
 㹴犬	geng quan	111
 㹴犬种	geng quan zhong	1
 㹴类犬	geng lei quan	100
+㹹	geng
+㾘	geng
+䆟	ge
+䈓	ge
+䋁	geng
+䌄	geng
+䐙	ge
+䕻	ge
+䗘	ge
+䘁	ge
+䛋	ge
+䛿	ge
+䢔	ge
+䧄	ge
+䨣	ge
+䨣	geng
+䩐	ge
+䪂	ge
+䪺	ge
+䫀	gen
+䫦	ge
+䱍	geng
+䱎	geng
+䱭	geng
+䱴	geng
+个	ge
+个	ge	14789406
 个不停	ge bu ting	100
 个个	ge ge	124070
 个个公卿欲梦刀	ge ge gong qing yu meng dao	1
@@ -499,6 +538,9 @@ sort: by_weight
 个高	ge gao	111
 个高腿长	ge gao tui chang	100
 个鬼	ge gui	9999
+亇	ge
+亘	gen
+亘	gen	6726
 亘今亘古	gen jin gen gu	100
 亘古	gen gu	9480
 亘古不变	gen gu bu bian	5210
@@ -516,8 +558,17 @@ sort: by_weight
 亘古第一人	gen gu di yi ren	100
 亘古通今	gen gu tong jin	100
 亘古长存	gen gu chang cun	100
+亙	gen
+仡	ge
+仡	ge	77
 仡佬	ge lao	1310
 仡佬族	ge lao zu	2595
+佫	ge
+佮	ge
+個	ge
+刯	geng
+割	ge
+割	ge	77561
 割一割	ge yi ge	786
 割下	ge xia	9640
 割下去	ge xia qu	260
@@ -650,6 +701,9 @@ sort: by_weight
 割鹿刀	ge lu dao	100
 割麦	ge mai	1570
 割麦机	ge mai ji	100
+匌	ge
+各	ge
+各	ge	856128
 各一	ge yi	5180
 各一个	ge yi ge	100
 各一人	ge yi ren	62
@@ -1706,6 +1760,12 @@ sort: by_weight
 各高校	ge gao xiao	44660
 各高等学校	ge gao deng xue xiao	100
 各高等院校	ge gao deng yuan xiao	100
+合	ge
+合	ge	1
+吤	ge
+呄	ge
+咯	ge
+咯	ge	1111
 咯吱	ge zhi	7755
 咯吱一声	ge zhi yi sheng	100
 咯吱作响	ge zhi zuo xiang	100
@@ -1737,7 +1797,11 @@ sort: by_weight
 咯噔咯噔	ge deng ge deng	100
 咯噔咯噔地响	ge deng ge deng de xiang	100
 咯尔乡	ge er xiang	7
+哏	gen
+哏	gen	529
 哏赳赳	gen jiu jiu	100
+哥	ge
+哥	ge	1176477
 哥仨	ge sa	123
 哥们	ge men	90020
 哥们义气	ge men yi qi	1050
@@ -1871,6 +1935,8 @@ sort: by_weight
 哥隆约龙	ge long yue long	1
 哥雅王国	ge ya wang guo	100
 哥顿	ge dun	1060
+哽	geng
+哽	geng	21976
 哽了一下	geng le yi xia	100
 哽住	geng zhu	1455
 哽咽	geng ye	25440
@@ -1882,17 +1948,33 @@ sort: by_weight
 哽噎	geng ye	9
 哽塞	geng se	5555
 哽着	geng zhe	305
+哿	ge
+哿	ge	153
+嗝	ge
+嗝	ge	5321
 嗝儿	ge er	450
 嗝儿屁	ge er pi	9999
 嗝屁	ge pi	5555
 嗝气	ge qi	1000
+嗰	ge
+嘅	ge
+圪	ge
+圪	ge	405
 圪坨	ge tuo	336
 圪垱店乡	ge dang dian xiang	6
 圪塔头村	ge ta tou cun	8
 圪塔村	ge ta cun	8
 圪达上乡	ge da shang xiang	1
 圪饦汤	ge tuo tang	14
+埂	geng
+埂	geng	2301
 埂子	geng zi	1
+堩	geng
+塥	ge
+塥	ge	6
+峺	geng
+庚	geng
+庚	geng	8607
 庚二酸	geng er suan	20
 庚午	geng wu	11780
 庚型肝炎病毒	geng xing gan yan bing du	3
@@ -1911,6 +1993,10 @@ sort: by_weight
 庚酸乙酯	geng suan yi zhi	22
 庚醇	geng chun	200
 庚齿	geng chi	99
+彁	ge
+愅	ge
+戈	ge
+戈	ge	68258
 戈亭村	ge ting cun	1
 戈什哈	ge shi ha	100
 戈兰高地	ge lan gao di	1685
@@ -1971,6 +2057,15 @@ sort: by_weight
 戈麦斯	ge mai si	2835
 戈黛娃	ge dai wa	100
 戈黛娃夫人	ge dai wa fu ren	100
+戓	ge
+戨	ge
+扢	ge
+挌	ge
+挭	geng
+掶	geng
+揯	gen
+搁	ge
+搁	ge	37572
 搁一搁	ge yi ge	123
 搁下	ge xia	5435
 搁下来	ge xia lai	100
@@ -2007,6 +2102,14 @@ sort: by_weight
 搁那儿	ge na er	100
 搁那儿吧	ge na er ba	100
 搁锅面	ge guo mian	140
+搄	gen
+搿	ge
+擱	ge
+敋	ge
+暅	geng
+暅	geng	2
+更	geng
+更	geng	1703552
 更一重烟水一重云	geng yi chong yan shui yi chong yun	1
 更上	geng shang	9895
 更上一层	geng shang yi ceng	100
@@ -3365,6 +3468,8 @@ sort: by_weight
 更黑	geng hei	3790
 更鼓	geng gu	1760
 更鼓畏添挝	geng gu wei tian zhua	2
+根	gen
+根	gen	886057
 根不固而求木之长	gen bu gu er qiu mu zhi chang	3
 根丝体	gen si ti	10
 根似的	gen shi de	28
@@ -3778,6 +3883,8 @@ sort: by_weight
 根须	gen xu	3805
 根颁发机构	gen ban fa ji gou	15
 根颈	gen jing	14
+格	ge
+格	ge	715810
 格不相入	ge bu xiang ru	5
 格中	ge zhong	312
 格中村	ge zhong cun	1
@@ -4227,6 +4334,8 @@ sort: by_weight
 格鲁曼	ge lu man	1760
 格鲁派	ge lu pai	6690
 格鲁特	ge lu te	100
+梗	geng
+梗	geng	7980
 梗儿	geng er	5
 梗图	geng tu	136
 梗在	geng zai	1315
@@ -4248,6 +4357,11 @@ sort: by_weight
 梗阻性肾病	geng zu xing shen bing	5
 梗阻性脑积水	geng zu xing nao ji shui	21
 梗顽不化	geng wan bu hua	1
+椩	geng
+槅	ge
+櫊	ge
+歌	ge
+歌	ge	332504
 歌一曲	ge yi qu	126
 歌中	ge zhong	1197
 歌之王	ge zhi wang	2465
@@ -4447,6 +4561,19 @@ sort: by_weight
 歌风台	ge feng tai	100
 歌鸲	ge qu	3
 歌鹀属	ge wu shu	1
+浭	geng
+浭	geng	8
+滆	ge
+滆	ge	2
+滒	ge
+焿	geng
+牫	ge
+犵	ge
+猲	ge
+獦	ge
+畊	geng
+疙	ge
+疙	ge	17365
 疙疙瘩瘩	ge ge da da	1435
 疙疤	ge ba	1
 疙疤儿	ge ba er	1
@@ -4454,15 +4581,33 @@ sort: by_weight
 疙瘩汤	ge da tang	1205
 疙瘩油茶	ge da you cha	2
 疙里疙瘩	ge li ge da	9999
+盖	ge
+盖	ge	555
 盖姓	ge xing	1
 盖聂	ge nie	5
 盖聂卫庄	ge nie wei zhuang	100
+硌	ge
+硌	ge	1300
 硌得慌	ge de huang	3333
 硌手	ge shou	3333
 硌窝儿	ge wo er	2
 硌脚	ge jiao	3333
+笴	ge
+箇	ge
+粳	geng	344
 粳稻	geng dao	3333
 粳米	geng mi	3333
+紇	ge
+絙	geng
+絚	geng
+給	gei
+綆	geng
+緪	geng
+縆	geng
+纥	ge
+纥	ge	0
+给	gei
+给	gei	2939384
 给一下	gei yi xia	3
 给一个	gei yi ge	100
 给一个机会	gei yi ge ji hui	100
@@ -5119,15 +5264,22 @@ sort: by_weight
 给食品	gei shi pin	93
 给骗	gei pian	3333
 给骗了	gei pian le	100
+绠	geng
+绠	geng	45
 绠短汲深	geng duan ji shen	100
 绠短绝泉	geng duan jue quan	1
 绠短者不可以汲深	geng duan zhe bu ke yi ji shen	2
+羮	geng
+羹	geng
+羹	geng	9720
 羹匙	geng chi	675
 羹墙之念	geng qiang zhi nian	100
 羹墙之思	geng qiang zhi si	100
 羹墙如见	geng qiang ru jian	100
 羹汤	geng tang	2050
 羹藜唅糗	geng li han qiu	100
+耕	geng
+耕	geng	21786
 耕三余一	geng san yu yi	100
 耕之灵	geng zhi ling	40
 耕九余三	geng jiu yu san	100
@@ -5198,6 +5350,8 @@ sort: by_weight
 耕莘医院	geng shen yi yuan	100
 耕读	geng du	40
 耕读传家	geng du chuan jia	100
+耿	geng
+耿	geng	54708
 耿介	geng jie	111
 耿介不群	geng jie bu qun	100
 耿伟平	geng wei ping	100
@@ -5240,6 +5394,9 @@ sort: by_weight
 耿马傣族佤族自治县	geng ma dai zu wa zu zi zhi xian	100
 耿马县	geng ma xian	830
 耿鬼	geng gui	123
+肐	ge
+胳	ge
+胳	ge	75288
 胳肢	ge zhi	8095
 胳膊	ge bo	100065
 胳膊上的伤	ge bo shang de shang	100
@@ -5258,6 +5415,8 @@ sort: by_weight
 胳臂	ge bei	7075
 胳臂肘	ge bei zhou	100
 胳臂肘儿	ge bei zhou er	100
+膈	ge
+膈	ge	335
 膈下脓肿	ge xia nong zhong	5
 膈下逐瘀汤	ge xia zhu yu tang	4
 膈关	ge guan	50
@@ -5272,8 +5431,14 @@ sort: by_weight
 膈腧	ge shu	1
 膈腧穴	ge shu xue	3
 膈膜	ge mo	470
+臈	ge
+臵	ge
+舸	ge
+舸	ge	341
 舸舫园	ge fang yuan	17
 舸舰弥津	ge jian mi jin	100
+艮	gen
+艮	gen	3524
 艮为山	gen wei shan	100
 艮卦	gen gua	3
 艮园	gen yuan	35
@@ -5283,7 +5448,14 @@ sort: by_weight
 艮山西路口	gen shan xi lu kou	1
 艮山路杭海路口	gen shan lu hang hai lu kou	1
 艮山门	gen shan men	107
+茖	ge
 茖葱	ge cong	1
+茛	gen
+茛	gen	494
+莄	geng
+菮	geng
+葛	ge
+葛	ge	109554
 葛七宝	ge qi bao	100
 葛世杰	ge shi jie	177
 葛丰化工	ge feng hua gong	20
@@ -5396,8 +5568,14 @@ sort: by_weight
 葛雷密	ge lei mi	100
 葛饰北斋	ge shi bei zhai	28
 葛麻	ge ma	265
+蓋	ge
+虼	ge
+虼	ge	307
 虼蚤	ge zao	170
 虼螂	ge lang	999
+蛒	ge
+蛤	ge
+蛤	ge	400
 蛤仔壳	ge zai ke	1
 蛤壳	ge ke	280
 蛤蚌毒素	ge bang du su	5
@@ -5414,8 +5592,19 @@ sort: by_weight
 蛤蜊牛蛙汤	ge li niu wa tang	1
 蛤蜊肉	ge li rou	100
 蛤蜊鲫鱼	ge li ji yu	9
+袼	ge
+袼	ge	162
 袼褙	ge bei	65
+裓	ge
+觡	ge
+諽	ge
+謌	ge
+賡	geng
+赓	geng
+赓	geng	3053
 赓续	geng xu	2
+跟	gen
+跟	gen	1547565
 跟一下	gen yi xia	12
 跟上	gen shang	76700
 跟上了	gen shang le	100
@@ -5948,6 +6137,15 @@ sort: by_weight
 跟骨	gen gu	182
 跟骨骨刺	gen gu gu ci	38
 跟骨骨折	gen gu gu zhe	81
+輵	ge
+轕	ge
+郠	geng
+鉻	ge
+鎑	ge
+鎘	ge
+鎶	ge
+铬	ge
+铬	ge	753
 铬中毒	ge zhong du	49
 铬元素	ge yuan su	100
 铬合金	ge he jin	1930
@@ -5970,8 +6168,14 @@ sort: by_weight
 铬黄	ge huang	1520
 铬黑	ge hei	200
 铬鼻病	ge bi bing	5
+镉	ge
+镉	ge	128
 镉元素	ge yuan su	100
 镉污染	ge wu ran	127
+閣	ge
+閤	ge
+阁	ge
+阁	ge	115474
 阁下	ge xia	103185
 阁下灯前梦	ge xia deng qian meng	3
 阁中	ge zhong	220
@@ -5989,6 +6193,8 @@ sort: by_weight
 阁老	ge lao	3495
 阁老峪	ge lao yu	5
 阁老门	ge lao men	101
+隔	ge
+隔	ge	169019
 隔一个	ge yi ge	1380
 隔一个月	ge yi ge yue	327
 隔一会	ge yi hui	100
@@ -6303,6 +6509,8 @@ sort: by_weight
 隔页	ge ye	730
 隔餐	ge can	360
 隔饼灸	ge bing jiu	1
+革	ge
+革	ge	180934
 革了	ge le	1111
 革了他们的命	ge le ta men de ming	100
 革了他的命	ge le ta de ming	100
@@ -6474,9 +6682,36 @@ sort: by_weight
 革面洗心	ge mian xi xin	100
 革面革心	ge mian ge xin	1
 革风易俗	ge feng yi su	1
+鞈	ge
+鞷	ge
+韐	ge
+韚	ge
+颈	geng
+颈	geng	1
+颌	ge
+颌	ge	0
+饹	ge
+饹	ge	55
 饹馇	ge zha	2
+騔	ge
+骼	ge
+骼	ge	7894
 骼静脉侧壁钳	ge jing mai ce bi qian	1
+骾	geng
+鬲	ge
+鬲	ge	406
 鬲国	ge guo	2
+鮥	ge
+鮯	ge
+鯁	geng
+鲄	ge
+鲠	geng
+鲠	geng	582
+鴚	ge
+鴿	ge
+鶊	geng
+鸽	ge
+鸽	ge	18712
 鸽乳	ge ru	3
 鸽哨	ge shao	890
 鸽子	ge zi	58450
@@ -6506,4 +6741,106 @@ sort: by_weight
 鸽血	ge xie	2
 鸽血	ge xue	2
 鸽赛	ge sai	295
+鹒	geng
+鹒	geng	1
+鿔	ge
+鿔	ge	1
 鿔元素	ge yuan su	100
+𠄣	gen
+𠛊	ge
+𠛵	gen
+𠡣	geng
+𠯫	ge
+𠲱	ge
+𠸲	ge
+𠹓	ge
+𠺝	ge
+𡍷	geng
+𡟍	ge
+𡩃	geng
+𢄍	ge
+𢆜	ge
+𢎄	ge
+𢓜	ge
+𢙾	geng
+𢞚	geng
+𢡍	ge
+𢧧	ge
+𢩓	ge
+𢯹	ge
+𢼛	ge
+𣆳	geng
+𣎄	geng
+𣭝	ge
+𤇞	ge
+𤕒	ge
+𤜊	ge
+𤠇	ge
+𤩲	ge
+𤭻	ge
+𤰙	ge
+𥃩	gen
+𥅨	geng
+𥉅	ge
+𥉔	geng
+𥔂	geng
+𥢸	ge
+𥰮	ge
+𥴩	ge
+𥺊	ge
+𥾚	geng
+𦑜	ge
+𦓱	ge
+𦚸	geng
+𦛟	geng
+𦜷	geng
+𦞌	geng
+𦣍	geng
+𦨜	ge
+𦵸	geng
+𧀙	geng
+𧈌	ge
+𧈑	ge
+𧈖	ge
+𧊧	ge
+𧋑	geng
+𧎺	ge
+𧗶	ge
+𧙸	geng
+𧪞	ge
+𧰨	geng
+𧿩	ge
+𨁈	geng
+𨍮	ge
+𨏚	ge
+𨏴	ge
+𨐥	ge
+𨒼	gen
+𨝆	ge
+𨞛	ge
+𨟶	ge
+𨭛	ge
+𨼥	ge
+𨾓	ge
+𩂼	geng
+𩎎	ge
+𩑡	gen
+𩒝	gen
+𩓓	gen
+𩜣	geng
+𩢅	ge
+𩢛	ge
+𩨘	ge
+𩱁	geng
+𩱋	geng
+𩱧	geng
+𩹺	ge
+𩹿	ge
+𩼙	ge
+𩾷	ge
+𪀁	ge
+𪀉	ge
+𪃿	ge
+𪄎	ge
+𪌣	ge
+𬒔	geng	1

@@ -3,6 +3,91 @@ name: merged.lu
 version: "1.0"
 sort: by_weight
 ...
+㑩	luo
+㒩	luo
+㓐	lu
+㓢	luo
+㔪	lu
+㕢	lun
+㕵	luo
+㖀	luo
+㖨	lu
+㖮	lun
+㛬	lu
+㜙	lu
+㝈	luan
+㟤	lu
+㠠	lu
+㡩	luan
+㢚	lu
+㢳	lu
+㦇	lu
+㦬	luo
+㩡	luo
+㪐	lu
+㪖	lu
+㪭	lu
+㪾	luo
+㫽	lu
+㭔	lu
+㮝	luo
+㯝	lu
+㯟	lu
+㯭	lu
+㰁	luo
+㰸	luan
+㱍	luan
+㱺	lu
+㱻	luo
+㴖	luo
+㵣	luo
+㷍	lun
+㼈	luo
+㼑	luan
+㼾	lu
+㽋	luo
+㾖	luo
+㿖	lu
+㿚	luo
+䀩	luo
+䃕	luo
+䃙	lu
+䇔	luo
+䈁	lun
+䈁	luo
+䈷	luo
+䉓	luo
+䉿	luo
+䊨	luo
+䌒	lu
+䌱	luo
+䌴	luo
+䍡	lu
+䎅	luo
+䎑	lu
+䎼	lu
+䐂	lu
+䑳	lun
+䖂	luan
+䘵	lu
+䙨	luo
+䚄	lu
+䚕	luan
+䜌	luan
+䟿	lu
+䡎	lu
+䡜	lu
+䣚	lu
+䩮	lu
+䮉	lu
+䯁	luo
+䰕	lu
+䱚	lu
+䲐	lu
+䲞	luo
+䴪	lu
+乱	luan
+乱	luan	692152
 乱七八糟	luan qi ba zao	52675
 乱七八糟的	luan qi ba zao de	100
 乱七八糟的东西	luan qi ba zao de dong xi	100
@@ -338,6 +423,10 @@ sort: by_weight
 乱魄抄	luan po chao	132
 乱麻	luan ma	3020
 乱麻麻	luan ma ma	13
+乿	luan
+亂	luan
+仑	lun
+仑	lun	40840
 仑上村	lun shang cun	5
 仑前村	lun qian cun	1
 仑后村	lun hou cun	1
@@ -347,6 +436,8 @@ sort: by_weight
 仑背乡	lun bei xiang	100
 仑苍	lun cang	6
 仑苍镇	lun cang zhen	22
+伦	lun
+伦	lun	199623
 伦佐	lun zuo	1955
 伦勃朗	lun bo lang	2450
 伦家	lun jia	111
@@ -418,12 +509,26 @@ sort: by_weight
 伦蒂尼姆	lun di ni mu	100
 伦迪	lun di	1270
 伦龙	lun long	26
+侓	lu
+侖	lun
+倫	lun
+倮	luo
+倮	luo	275
+僇	lu
+僇	lu	19
 僇辱	lu ru	2
+儸	luo
+六	lu
 六合	lu he	2
 六合区	lu he qu	457
 六安	lu an	2
 六安县	lu an xian	285
 六安市	lu an shi	15305
+剆	luo
+剹	lu
+勎	lu
+勠	lu
+勠	lu	4
 勠力	lu li	1390
 勠力一心	lu li yi xin	100
 勠力同仇	lu li tong chou	100
@@ -431,6 +536,8 @@ sort: by_weight
 勠力同谋	lu li tong mou	100
 勠力围剿	lu li wei jiao	100
 勠力齐心	lu li qi xin	100
+卢	lu
+卢	lu	96170
 卢一凡	lu yi fan	8
 卢世昌	lu shi chang	7
 卢业瑂	lu ye mei	100
@@ -642,6 +749,8 @@ sort: by_weight
 卢龙塞	lu long sai	5
 卢龙山庄	lu long shan zhuang	13
 卢龙节度使	lu long jie du shi	100
+卤	lu
+卤	lu	5943
 卤一卤	lu yi lu	124
 卤了卤	lu le lu	123
 卤什件儿	lu shi jian er	53
@@ -705,6 +814,8 @@ sort: by_weight
 卤鸭翅	lu ya chi	395
 卤鹅	lu e	8
 卤鹌鹑蛋	lu an chun dan	30
+卵	luan
+卵	luan	18272
 卵不敌石	luan bu di shi	100
 卵与石斗	luan yu shi dou	100
 卵之键	luan zhi jian	100
@@ -816,7 +927,11 @@ sort: by_weight
 卵黄膜	luan huang mo	1
 卵黄蛋白	luan huang dan bai	35
 卵黏蛋白	luan nian dan bai	1
+咯	luo
+咯	luo	1111
 咯菌腈	luo jun jing	100
+啰	luo
+啰	luo	11175
 啰七八唆	luo qi ba suo	9999
 啰唆	luo suo	7630
 啰唆事	luo suo shi	100
@@ -828,6 +943,8 @@ sort: by_weight
 啰里八唆	luo li ba suo	9999
 啰里啰唆	luo li luo suo	7630
 啰音	luo yin	62
+噜	lu
+噜	lu	24633
 噜啦	lu la	9999
 噜啦噜	lu la lu	9999
 噜啦噜啦	lu la lu la	9999
@@ -837,10 +954,35 @@ sort: by_weight
 噜噜猪	lu lu zhu	100
 噜噜苏苏	lu lu su su	100
 噜苏	lu su	5
+嚕	lu
+嚧	lu
+囉	luo
+囖	luo
+囵	lun
+囵	lun	1793
+圇	lun
+圝	luan
+圞	luan
+圥	lu
+坴	lu
+垆	lu
+垆	lu	385
 垆边人似月	lu bian ren si yue	100
+埨	lun
+塶	lu
+塷	lu
+壚	lu
+奱	luan
+娈	luan
+娈	luan	526
 娈童	luan tong	915
 娈童案	luan tong an	140
 娈童者	luan tong zhe	100
+娽	lu
+婨	lun
+孌	luan
+孪	luan
+孪	luan	3236
 孪斑响尾蛇	luan ban xiang wei she	1
 孪斑唇瓢虫	luan ban chun piao chong	1
 孪斑瓢虫	luan ban piao chong	1
@@ -853,7 +995,18 @@ sort: by_weight
 孪生子	luan sheng zi	1060
 孪生的	luan sheng de	640
 孪生素数	luan sheng su shu	100
+孿	luan
+寽	luo
+峈	luo
+峍	lu
+峦	luan
+峦	luan	6336
 峦嶂	luan zhang	80
+崘	lun
+崙	lun
+巒	luan
+庐	lu
+庐	lu	17027
 庐光尺蛾	lu guang chi e	1
 庐冢	lu zhong	25
 庐剧	lu ju	695
@@ -901,6 +1054,11 @@ sort: by_weight
 庐阳区	lu yang qu	22205
 庐陵	lu ling	3570
 庐陵欧阳修也	lu ling ou yang xiu ye	1
+廘	lu
+廬	lu
+彔	lu
+录	lu
+录	lu	164397
 录一下	lu yi xia	32
 录一录	lu yi lu	567
 录上了吗	lu shang le ma	100
@@ -1055,8 +1213,13 @@ sort: by_weight
 录音间	lu yin jian	100
 录音麦克风	lu yin mai ke feng	3333
 录鬼簿	lu gui bu	100
+惀	lun
+戮	lu
+戮	lu	22742
 戮世摩罗	lu shi mo luo	100
 戮没	lu mo	55
+抡	lun
+抡	lun	12347
 抡不起	lun bu qi	15
 抡动	lun dong	305
 抡拳	lun quan	490
@@ -1065,8 +1228,12 @@ sort: by_weight
 抡起拳	lun qi quan	100
 抡起拳头	lun qi quan tou	100
 抡车男	lun che nan	4
+挛	luan
+挛	luan	5894
 挛斑金花蛇	luan ban jin hua she	1
 挛缩	luan suo	6600
+捋	luo
+捋	luo	99
 捋下	luo xia	32
 捋下来	luo xia lai	64
 捋取	luo qu	88
@@ -1081,6 +1248,10 @@ sort: by_weight
 捋袖揎拳	luo xiu xuan quan	100
 捋起	luo qi	69
 捋起双袖	luo qi shuang xiu	100
+捰	luo
+掄	lun
+掳	lu
+掳	lu	8970
 掳人	lu ren	685
 掳人勒赎	lu ren le shu	100
 掳去	lu qu	2
@@ -1088,6 +1259,11 @@ sort: by_weight
 掳掠	lu lve	4695
 掳袖揎拳	lu xiu xuan quan	1
 掳走	lu zou	4545
+摝	lu
+摞	luo
+摞	luo	6250
+撸	lu
+撸	lu	162484
 撸一下	lu yi xia	12110
 撸一撸	lu yi lu	256
 撸一管	lu yi guan	100
@@ -1130,7 +1306,24 @@ sort: by_weight
 撸起了袖子	lu qi le xiu zi	100
 撸起袖子	lu qi xiu zi	1180
 撸过	lu guo	1
+擄	lu
+擼	lu
+擽	luo
+攊	luo
+攎	lu
+攎	luo
+攞	luo
+攣	luan
+攭	luo
+曥	lu
+曪	luo
+曫	luan
+枦	lu
+栌	lu
+栌	lu	196
 栌木	lu mu	4444
+栾	luan
+栾	luan	3068
 栾城	luan cheng	2865
 栾城县	luan cheng xian	2585
 栾姓	luan xing	50
@@ -1140,6 +1333,23 @@ sort: by_weight
 栾斌	luan bin	6
 栾树	luan shu	5640
 栾璞	luan pu	1
+棆	lun
+椂	lu
+椤	luo
+椤	luo	1297
+樐	lu
+樚	lu
+橹	lu
+橹	lu	1792
+櫓	lu
+櫨	lu
+欏	luo
+欒	luan
+氇	lu
+氇	lu	87
+氌	lu
+沦	lun
+沦	lun	25113
 沦丧	lun sang	8020
 沦为	lun wei	52250
 沦为了	lun wei le	100
@@ -1168,6 +1378,8 @@ sort: by_weight
 沦陷	lun xian	18920
 沦陷了	lun xian le	100
 沦陷区	lun xian qu	2585
+泸	lu
+泸	lu	3499
 泸县二中	lu xian er zhong	167
 泸县建校	lu xian jian xiao	100
 泸定	lu ding	1
@@ -1196,6 +1408,10 @@ sort: by_weight
 泸溪直口鲮	lu xi zhi kou ling	1
 泸职校	lu zhi xiao	100
 泸西县	lu xi xian	985
+泺	luo
+泺	luo	58
+洛	luo
+洛	luo	247888
 洛三高速	luo san gao su	2
 洛中送韩七中丞之	luo zhong song han qi zhong cheng zhi	1
 洛丹伦	luo dan lun	100
@@ -1440,9 +1656,19 @@ sort: by_weight
 洛黛诗	luo dai shi	100
 洛齐尔	luo qi er	2
 洛龙区	luo long qu	100
+洜	luo
+淕	lu
+淥	lu
+淪	lun
+渃	luo
+渌	lu
+渌	lu	367
 渌华池	lu hua chi	119
 渌水荡漾清猿啼	lu shui dang yang qing yuan ti	2
 渌水道	lu shui dao	5
+溣	lun
+滦	luan
+滦	luan	2148
 滦南	luan nan	995
 滦南县	luan nan xian	1785
 滦县	luan xian	6
@@ -1456,15 +1682,22 @@ sort: by_weight
 滦河冀北鸟	luan he ji bei niao	1
 滦河道	luan he dao	1
 滦镇街道	luan zhen jie dao	18
+滷	lu
+漉	lu
+漉	lu	15539
 漉湖芦苇场	lu hu lu wei chang	10
 漉菽以为汁	lu shu yi wei zhi	1180
 漉豉以为汁	lu chi yi wei zhi	1
 漉酒巾	lu jiu jin	100
+漯	luo
+漯	luo	416
 漯河	luo he	28550
 漯河中院	luo he zhong yuan	87
 漯河医专	luo he yi zhuan	119
 漯河市	luo he shi	14350
 漯河市召陵区	luo he shi shao ling qu	1
+潞	lu
+潞	lu	2185
 潞党参	lu dang shen	100
 潞城	lu cheng	2735
 潞城县	lu cheng xian	195
@@ -1481,6 +1714,15 @@ sort: by_weight
 潞苑南大街	lu yuan nan da jie	16
 潞西县	lu xi xian	295
 潞西市	lu xi shi	3245
+澛	lu
+澛	lu	1
+濼	luo
+瀂	lu
+瀘	lu
+灓	luan
+灤	luan
+炉	lu
+炉	lu	51848
 炉上	lu shang	3950
 炉下	lu xia	29
 炉中	lu zhong	385
@@ -1548,6 +1790,18 @@ sort: by_weight
 炉鸭	lu ya	274
 炉鼎	lu ding	6666
 炉龄	lu ling	1
+烙	luo
+烙	luo	700
+熝	lu
+爐	lu
+犖	luo
+猡	luo
+猡	luo	693
+獹	lu
+玀	luo
+玈	lu
+珞	luo
+珞	luo	7779
 珞南街道	luo nan jie dao	5
 珞巴	luo ba	1380
 珞巴族	luo ba zu	2000
@@ -1561,17 +1815,43 @@ sort: by_weight
 珞珈山水	luo jia shan shui	290
 珞珞如石	luo luo ru shi	16
 珞瑜路	luo yu lu	103
+琭	lu
+琭	lu	9
 琭琭如玉	lu lu ru yu	100
+璐	lu
+璐	lu	28683
 璐宽鞘茧蜂	lu kuan qiao jian feng	1
 璐璐	lu lu	6360
 璐璐卡	lu lu ka	100
+璷	lu
+瓐	lu
+甪	lu
+甪	lu	268
 甪直	lu zhi	1
 甪直古镇	lu zhi gu zhen	1
 甪直镇	lu zhi zhen	1
 甪里	lu li	2
 甪里街	lu li jie	7
+瘰	luo
+瘰	luo	77
 瘰疬	luo li	1790
 瘰螈	luo yuan	1
+癳	luo
+癴	luan
+癵	luan
+皪	luo
+盝	lu
+盧	lu
+睩	lu
+矑	lu
+砢	luo
+硉	lu
+硌	luo
+硌	luo	1
+硦	luo
+硵	lu
+碌	lu
+碌	lu	48886
 碌曲	lu qu	730
 碌曲县	lu qu xian	755
 碌碌	lu lu	5785
@@ -1588,6 +1868,13 @@ sort: by_weight
 碌碌无闻	lu lu wu wen	100
 碌碌有为	lu lu you wei	128
 碌碌终身	lu lu zhong shen	3
+碖	lun
+磠	lu
+磮	lun
+磱	luo
+祿	lu
+禄	lu
+禄	lu	33704
 禄不代耕	lu bu dai geng	1
 禄丰	lu feng	3125
 禄丰一中	lu feng yi zhong	100
@@ -1616,13 +1903,41 @@ sort: by_weight
 禄米仓	lu mi cang	14
 禄米仓胡同	lu mi cang hu tong	18
 禄蠹	lu du	185
+稐	lun
+稑	lu
+稑	lu	3
+穋	lu
 穋尔氏朴丽鱼	lu er shi pu li yu	1
+穞	lu
+笿	luo
+箓	lu
+箓	lu	962
 箓牒	lu die	2
+箩	luo
+箩	luo	3538
 箩筐	luo kuang	5490
 箩粉鱼头豆腐汤	luo fen yu tou dou fu tang	7
+簏	lu
+簏	lu	175
 簏簌	lu su	6
+簬	lu
+簵	lu
+簶	lu
+籙	lu
+籚	lu
+籮	luo
+粶	lu
+絡	luo
+綸	lun
+緑	lu
+纑	lu
+纙	luo
+纶	lun
+纶	lun	6061
 纶言如汗	lun yan ru han	1
 纶音佛语	lun yin fo yu	2
+络	luo
+络	luo	111535
 络却	luo que	1
 络合	luo he	4460
 络合物	luo he wu	3750
@@ -1648,6 +1963,8 @@ sort: by_weight
 络腮胡	luo sai hu	1600
 络腮胡子	luo sai hu zi	3065
 络路径	luo lu jing	3
+绿	lu
+绿	lu	1
 绿林	lu lin	11500
 绿林中	lu lin zhong	100
 绿林军	lu lin jun	925
@@ -1665,6 +1982,9 @@ sort: by_weight
 绿营人士	lu ying ren shi	100
 绿营兵	lu ying bing	100
 绿营军	lu ying jun	100
+罏	lu
+罗	luo
+罗	luo	783224
 罗一舟	luo yi zhou	100
 罗世文	luo shi wen	191
 罗世昌	luo shi chang	100
@@ -2409,10 +2729,34 @@ sort: by_weight
 罗齐尔	luo qi er	164
 罗龙	luo long	89
 罗龙镇	luo long zhen	176
+羅	luo
+羉	luan
+耣	lun
+胪	lu
+胪	lu	786
 胪列	lu lie	1
 胪雷亭	lu lei ting	1
 胪雷村	lu lei cun	26
+脔	luan
+脔	luan	635
 脔割	luan ge	150
+脶	luo
+脶	luo	642
+腀	lun
+腡	luo
+膔	lu
+臚	lu
+臝	luo
+臠	luan
+臡	luan
+舮	lu
+舻	lu
+舻	lu	204
+艣	lu
+艪	lu
+艫	lu
+芦	lu
+芦	lu	33912
 芦丁	lu ding	1
 芦丁片	lu ding pian	1
 芦丁鸡	lu ding ji	1
@@ -2551,11 +2895,19 @@ sort: by_weight
 芦邢庄	lu xing zhuang	100
 芦院村	lu yuan cun	1
 芦鹀	lu wu	9
+芲	lun
+荦	luo
+荦	luo	4636
 荦确何人似退之	luo que he ren si tui zhi	1
 荦荦	luo luo	660
 荦荦大端	luo luo da duan	26
 荦荦大者	luo luo da zhe	40
 荦荦确确	luo luo que que	1
+菉	lu
+菉	lu	89
+菕	lun
+萝	luo
+萝	luo	33284
 萝北县	luo bei xian	148
 萝卜	luo bo	494881
 萝卜丁	luo bo ding	100
@@ -2667,6 +3019,8 @@ sort: by_weight
 萝莉音	luo li yin	100
 萝萝山	luo luo shan	100
 萝藦	luo mo	32
+落	luo
+落	luo	1054311
 落下	luo xia	109635
 落下了帷幕	luo xia le wei mu	100
 落下去	luo xia qu	3485
@@ -3588,9 +3942,29 @@ sort: by_weight
 落魄贵族	luo po gui zu	100
 落魄过	luo po guo	100
 落黑	luo hei	140
+蓏	luo
+蓏	luo	10
+蓼	lu
+蓾	lu
+蔍	lu
+蕗	lu
+蕗	lu	219
 蕗蕨	lu jue	1
+薍	luan
+蘆	lu
+蘿	luo
+虂	lu
+虊	luan
+虏	lu
+虏	lu	30976
 虏获	lu huo	2925
 虏骑闻之应胆慑	lu qi wen zhi ying dan she	6
+虜	lu
+蛒	luo
+蜦	lun
+螰	lu
+螺	luo
+螺	luo	19077
 螺丝	luo si	69610
 螺丝刀	luo si dao	10880
 螺丝坝	luo si ba	3
@@ -3713,7 +4087,12 @@ sort: by_weight
 螺钿	luo dian	88
 螺髻	luo ji	3170
 螺髻山	luo ji shan	2
+蠃	luo
+蠃	luo	675
 蠃鳞毛羽昆	luo lin mao yu kun	100
+蠦	lu
+裸	luo
+裸	luo	66535
 裸䲠	luo chun	1
 裸五角瓜参	luo wu jiao gua shen	2
 裸体	luo ti	68900
@@ -3861,6 +4240,15 @@ sort: by_weight
 裸鲤	luo li	3
 裸麦	luo mai	380
 裸麦面包	luo mai mian bao	4
+覶	luan
+覶	luo
+覼	luo
+觻	lu
+詻	luo
+論	lun
+謢	lu
+论	lun
+论	lun	744148
 论一增十	lun yi zeng shi	1
 论万物之理也	lun wan wu zhi li ye	1
 论不动产登记	lun bu dong chan deng ji	2
@@ -4063,6 +4451,14 @@ sort: by_weight
 论高寡合	lun gao gua he	1
 论黄数白	lun huang shu bai	1
 论黄数黑	lun huang shu hei	100
+賂	lu
+赂	lu
+赂	lu	6380
+趢	lu
+跞	luo
+跞	luo	0
+路	lu
+路	lu	1338441
 路一直都在	lu yi zhi dou zai	100
 路上	lu shang	394415
 路上不滑	lu shang bu hua	100
@@ -4518,6 +4914,17 @@ sort: by_weight
 路飞	lu fei	9999
 路飞一行人	lu fei yi xing ren	100
 路飞文	lu fei wen	100
+踚	lun
+踛	lu
+蹗	lu
+躒	luo
+躶	luo
+輅	lu
+輪	lun
+轆	lu
+轤	lu
+轮	lun
+轮	lun	197302
 轮上	lun shang	5165
 轮上去	lun shang qu	100
 轮上来	lun shang lai	100
@@ -4747,11 +5154,21 @@ sort: by_weight
 轮速传感器	lun su chuan gan qi	100
 轮间	lun jian	2143
 轮齿	lun chi	1325
+轳	lu
+轳	lu	483
+辂	lu
+辂	lu	1030
+辘	lu
+辘	lu	6743
 辘轳	lu lu	3280
 辘辘	lu lu	9
 辘辘之声	lu lu zhi sheng	100
 辘辘远听	lu lu yuan ting	5
+逯	lu
+逯	lu	360
 逯家湾镇	lu jia wan zhen	1
+逻	luo
+逻	luo	41947
 逻各斯	luo ge si	2105
 逻格斯	luo ge si	295
 逻西乡	luo xi xiang	3
@@ -4850,10 +5267,31 @@ sort: by_weight
 逻辑页	luo ji ye	172
 逻辑驱动器	luo ji qu dong qi	3400
 逻辑鬼才	luo ji gui cai	100
+邏	luo
+醁	lu
+釠	luan
+鈩	lu
+銮	luan
+銮	luan	3286
 銮庆胡同	luan qing hu tong	1
 銮舆	luan yu	1
 銮铃	luan ling	215
 銮驾	luan jia	915
+錀	lun
+錄	lu
+録	lu
+錴	lu
+鏀	lu
+鏍	luo
+鏕	lu
+鏴	lu
+鐪	lu
+鑥	lu
+鑪	lu
+鑼	luo
+鑾	luan
+锣	luo
+锣	luo	12995
 锣声	luo sheng	2600
 锣槌	luo chui	60
 锣锅巷	luo guo xiang	62
@@ -4866,7 +5304,12 @@ sort: by_weight
 锣鼓振天	luo gu zhen tian	100
 锣鼓队	luo gu dui	1540
 锣齐鼓不齐	luo qi gu bu qi	100
+镙	luo
+镥	lu
+镥	lu	9
 镥元素	lu yuan su	100
+陆	lu
+陆	lu	431372
 陆一舟	lu yi zhou	100
 陆上	lu shang	26055
 陆上丝路	lu shang si lu	87
@@ -5208,7 +5651,13 @@ sort: by_weight
 陆骏	lu jun	202
 陆龟	lu gui	3445
 陆龟蒙	lu gui meng	2350
+陯	lun
+陸	lu
+雒	luo
+雒	luo	4753
 雒城	luo cheng	1105
+露	lu
+露	lu	606979
 露丑	lu chou	505
 露丝	lu si	3425
 露丝峨螺	lu si e luo	1
@@ -5350,6 +5799,10 @@ sort: by_weight
 露齿笑	lu chi xiao	115
 露齿而笑	lu chi er xiao	280
 露龈笑	lu yin xiao	1
+頱	luo
+顱	lu
+颅	lu
+颅	lu	21616
 颅中沟	lu zhong gou	1
 颅中窝	lu zhong wo	9
 颅内	lu nei	15230
@@ -5386,6 +5839,15 @@ sort: by_weight
 颅骨钻	lu gu zuan	1
 颅骨骨折	lu gu gu zhe	1176
 颅骨骨瘤	lu gu gu liu	1
+饠	luo
+馿	lu
+駱	luo
+騄	lu
+騼	lu
+騾	luo
+驘	luo
+骆	luo
+骆	luo	39888
 骆冰	luo bing	5170
 骆士宾	luo shi bin	100
 骆姓	luo xing	55
@@ -5436,6 +5898,8 @@ sort: by_weight
 骆驼趾	luo tuo zhi	170
 骆驼队	luo tuo dui	630
 骆驼黄	luo tuo huang	64
+骡	luo
+骡	luo	7509
 骡夫	luo fu	4
 骡子	luo zi	15555
 骡车	luo che	1915
@@ -5446,7 +5910,16 @@ sort: by_weight
 骡马市街	luo ma shi jie	2
 骡马车	luo ma che	100
 骡驮子	luo duo zi	1
+髗	lu
+魯	lu
+魲	lu
+鮥	luo
+鯥	lu
 鯥科	lu ke	1
+鯩	lun
+鱸	lu
+鲁	lu
+鲁	lu	232665
 鲁东	lu dong	110
 鲁东大学	lu dong da xue	100
 鲁中	lu zhong	7270
@@ -5700,6 +6173,8 @@ sort: by_weight
 鲁鲁西亚	lu lu xi ya	100
 鲁鲁西亚国	lu lu xi ya guo	100
 鲁鲁西亚王国	lu lu xi ya wang guo	100
+鲈	lu
+鲈	lu	727
 鲈滑石斑鱼	lu hua shi ban yu	1
 鲈科	lu ke	146
 鲈肥菰脆调羹美	lu fei gu cui tiao geng mei	1
@@ -5707,7 +6182,20 @@ sort: by_weight
 鲈鱼堪脍	lu yu kan kuai	100
 鲈鱼莼菜	lu yu chun cai	100
 鲈鲤	lu li	1
+鴼	lu
+鵅	luo
+鵉	luan
+鵦	lu
+鵱	lu
+鷺	lu
+鸁	luo
+鸕	lu
+鸞	luan
+鸬	lu
+鸬	lu	331
 鸬鹚	lu ci	4495
+鸾	luan
+鸾	luan	11088
 鸾交凤俦	luan jiao feng chou	1
 鸾交凤友	luan jiao feng you	100
 鸾俦	luan chou	1
@@ -5751,6 +6239,8 @@ sort: by_weight
 鸾鸟	luan niao	815
 鸾鸣凤奏	luan ming feng zou	1
 鸾𬸦	luan zhuo	2
+鹭	lu
+鹭	lu	5180
 鹭无领平睾吸虫	lu wu ling ping gao xi chong	1
 鹭朋鸥侣	lu peng ou lv	1
 鹭江	lu jiang	297
@@ -5760,6 +6250,9 @@ sort: by_weight
 鹭鸶	lu si	284
 鹭鸶港乡	lu si gang xiang	2
 鹭鹭酒家	lu lu jiu jia	14
+鹵	lu
+鹿	lu
+鹿	lu	56206
 鹿丸	lu wan	22
 鹿丹村	lu dan cun	127
 鹿亚科	lu ya ke	19
@@ -5913,6 +6406,8 @@ sort: by_weight
 鹿鹿子	lu lu zi	100
 鹿鹿鱼鱼	lu lu yu yu	100
 鹿鼎记	lu ding ji	11560
+麓	lu
+麓	lu	6365
 麓云路	lu yun lu	63
 麓原	lu yuan	80
 麓天路	lu tian lu	34
@@ -5933,5 +6428,187 @@ sort: by_weight
 麓谷科技园	lu gu ke ji yuan	7
 麓铭大岳丸	lu ming da yue wan	154
 麓龙路	lu long lu	3
+黸	lu
+龻	luan
+𠀽	lu
+𠏢	luo
+𠔕	lun
+𠜖	luo
+𠦨	luan
+𠶱	luo
+𠻐	luo
+𠻡	luo
+𠼩	lun
+𠿛	lu
+𡀔	lu
+𡁆	luo
+𡃝	lun
+𡄹	luan
+𡆆	luo
+𡉴	lu
+𡡗	luan
+𡤢	luo
+𡭸	luan
+𡰠	luan
+𡳴	lu
+𡴆	lu
+𡷏	lu
+𡿏	luo
+𢂤	lu
+𢅾	luo
+𢊩	lu
+𢋡	lu
+𢌕	luan
+𢟧	lu
+𢫫	lu
+𢯅	lu
+𢲸	lu
+𢵮	lu
+𢺆	luo
+𢺈	luan
+𢺑	luo
+𢻵	lu
+𢾬	lu
+𢿢	luan
+𣁻	luo
+𣂞	luo
+𣛗	luo
+𣜄	luo
+𣜢	luo
+𣞓	lu
+𣥐	lu
+𣧳	luo
+𣨀	luan
+𣨪	luo
+𣩏	lu
+𣱀	lu
+𣵟	luo
+𣼟	lu
+𤄷	luo
+𤔔	luan
+𤔖	luo
+𤔝	luo
+𤗀	luo
+𤝮	lu
+𤟘	lu
+𤢊	lu
+𤣃	lu
+𤨍	lu
+𤨗	luo
+𤬁	luo
+𤬛	lu
+𤮧	lu
+𤲕	lun
+𤲶	luan
+𤷔	lun
+𤺼	lu
+𤻱	lu
+𤼙	luan
+𤽥	luo
+𤽺	lu
+𤽼	luo
+𤿴	lu
+𥀔	lu
+𥀵	lu
+𥈛	lu
+𥉶	lu
+𥒨	lu
+𥚊	lu
+𥛞	lu
+𥛪	lu
+𥡜	luo
+𥣤	lu
+𥫰	lu
+𥯛	luo
+𥲎	lu
+𥶇	lu
+𥿑	lun
+𦆁	luo
+𦋔	lu
+𦌕	lu
+𦌟	lu
+𦓾	lun
+𦗓	lu
+𦣇	luo
+𦣋	luan
+𦣏	luan
+𦣖	luo
+𦣛	luo
+𦪇	lu
+𦸐	lu
+𦼋	lu
+𦽂	lu
+𦽎	lu
+𦾞	lu
+𦾷	lu
+𦿊	lu
+𦿌	luo
+𦿖	lu
+𧀦	lu
+𧄿	luo
+𧆣	lu
+𧇄	lu
+𧈦	luo
+𧌉	lu
+𧌍	lu
+𧐳	lu
+𧖘	luan
+𧟌	luo
+𧣵	lun
+𧨹	lu
+𧫓	lu
+𧭥	luo
+𧱜	lun
+𧷳	luo
+𧹐	luo
+𧽥	lu
+𨁸	lu
+𨇖	lu
+𨇼	luan
+𨇽	luo
+𨈌	luan
+𨈎	luan
+𨊟	luan
+𨌠	lu
+𨏒	luo
+𨏔	lu
+𨟥	luo
+𨬅	luo
+𨰠	luo
+𨽐	lu
+𩂣	luo
+𩄅	lu
+𩅄	lu
+𩉙	luo
+𩊚	luo
+𩌫	lu
+𩌭	luo
+𩍪	luo
+𩍼	lu
+𩎊	luo
+𩓪	lu
+𩛼	lu
+𩣱	lu
+𩪾	luan
+𩮹	luo
+𩯜	lu
+𩵇	luo
+𩼊	luo
+𩽰	luo
+𪇱	luo
+𪈰	luo
+𪉖	lu
+𪉣	lu
+𪌳	luo
+𪍄	lu
+𪎆	luo
+𪑄	lu
+𪑋	luo
+𪒏	lu
+𪖌	lu
+𫘧	lu	1
+𫭢	lun	1
+𬬭	lun	66
 𬬭元素	lun yuan su	100
+𬬻	lu	2
 𬬻元素	lu yuan su	100

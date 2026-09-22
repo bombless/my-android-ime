@@ -3,6 +3,35 @@ name: merged.po
 version: "1.0"
 sort: by_weight
 ...
+㛘	po
+㜑	po
+㟝	pou
+㧊	po
+㧵	pou
+㨇	po
+㩯	po
+㰴	po
+㰴	pou
+㼜	pou
+䄸	po
+䎅	po
+䎊	po
+䎧	pou
+䘠	po
+䞟	po
+䣪	po
+䣮	po
+䥽	po	1
+䦌	po
+䨰	po
+䪖	po
+䪙	po
+䮘	po
+䯙	po
+䯽	pou
+䳝	pou
+剖	pou
+剖	pou	15232
 剖决	pou jue	115
 剖决如流	pou jue ru liu	100
 剖分	pou fen	1368
@@ -63,9 +92,18 @@ sort: by_weight
 剖面	pou mian	16580
 剖面图	pou mian tu	5590
 剖面构型	pou mian gou xing	100
+叵	po
+叵	po	3366
 叵测	po ce	2005
 叵测之心	po ce zhi xin	100
 叵耐	po nai	665
+咅	pou
+哣	pou
+哱	po
+嘙	po
+嚩	po
+坡	po
+坡	po	79228
 坡上	po shang	13235
 坡上村	po shang cun	22
 坡下	po xia	4095
@@ -113,6 +151,12 @@ sort: by_weight
 坡面障碍技巧	po mian zhang ai ji qiao	100
 坡顶	po ding	5675
 坡鹿	po lu	3
+垺	pou
+奤	po
+娝	pou
+婄	pou
+婆	po
+婆	po	325914
 婆修婆德	po xiu po de	1
 婆姨	po yi	3095
 婆娑	po suo	17895
@@ -155,21 +199,46 @@ sort: by_weight
 婆莫云牛	po mo yun niu	1
 婆说婆有理	po shuo po you li	2620
 婆饭了吗	po fan le ma	100
+尀	po
+岥	po
+岶	po
+廹	po
+抔	pou
+抔	pou	221
 抔土巨壑	pou tu ju he	1
 抔土未干	pou tu wei gan	100
+抙	pou
+捊	pou
+掊	pou
+掊	pou	156
 掊克在位	pou ke zai wei	2
 掊击	pou ji	190
 掊斗折衡	pou dou zhe heng	100
+搫	po
+敀	po
+昢	po
+朴	po
+朴	po	32
 朴刀	po dao	2565
 朴树	po shu	33
 朴树朴盾木虱	po shu pu dun mu shi	1
 朴硝	po xiao	360
+桲	po
+桲	po	10
+棓	pou
+櫇	po
+泊	po
+泊	po	41521
 泊子	po zi	18
 泊岗乡	po gang xiang	1
 泊松分布	po song fen bu	435
 泊氏长吻松鼠	po shi chang wen song shu	1
 泊洛沙姆	po luo sha mu	1
 泊马度胺	po ma du an	100
+泺	po
+泺	po	0
+泼	po
+泼	po	49867
 泼一身污水	po yi shen wu shui	1180
 泼上	po shang	1295
 泼上去	po shang qu	100
@@ -250,12 +319,26 @@ sort: by_weight
 泼进	po jin	170
 泼进去	po jin qu	100
 泼进来	po jin lai	100
+洦	po
+湐	po
+溌	po
+潑	po
+濼	po
+烞	po
+犃	pou
+猼	po
+珀	po
+珀	po	10455
 珀尔	po er	64
 珀斯	po si	1
 珀特	po te	1825
 珀耳塞福涅	po er sai fu nie	100
 珀西瓦尔	po xi wa er	118
 珀辛格	po xin ge	562
+皤	po
+皤	po	214
+破	po
+破	po	677496
 破七	po qi	9999
 破万	po wan	9999
 破万亿	po wan yi	1
@@ -826,14 +909,30 @@ sort: by_weight
 破鲁堡乡	po lu bao xiang	3
 破鼓万人捶	po gu wan ren chui	183
 破鼓乱人捶	po gu luan ren chui	1
+砶	po
+笸	po
+笸	po	325
 笸箩	po luo	750
 笸篮	po lan	1
+箁	pou
+箥	po
+粕	po
+粕	po	898
+繁	po
+繁	po	1
+翍	po
+蒪	po
+蔢	po
+裒	pou
+裒	pou	189
 裒凶鞠顽	pou xiong ju wan	1
 裒多增寡	pou duo zeng gua	100
 裒多益寡	pou duo yi gua	100
 裒如充耳	pou ru chong er	1
 裒敛无厌	pou lian wu yan	100
 裒辑	pou ji	45
+迫	po
+迫	po	181073
 迫不及待	po bu ji dai	60375
 迫不及待地	po bu ji dai de	100
 迫不可待	po bu ke dai	100
@@ -872,6 +971,8 @@ sort: by_weight
 迫降	po jiang	7920
 迫降时	po jiang shi	100
 迫降航班	po jiang hang ban	167
+鄱	po
+鄱	po	2106
 鄱阳	po yang	11095
 鄱阳副双身虫	po yang fu shuang shen chong	1
 鄱阳县	po yang xian	100
@@ -884,9 +985,25 @@ sort: by_weight
 鄱阳路	po yang lu	10
 鄱阳郡	po yang jun	6
 鄱阳锚首虫	po yang mao shou chong	1
+酦	po
+酦	po	1
+醗	po
+醱	po
+釙	po
+鉕	po
+鏺	po
+钋	po
+钋	po	81
 钋元素	po yuan su	100
+钷	po
+钷	po	38
 钷元素	po yuan su	100
+陂	po
+陂	po	1
 陂陀	po tuo	2
+頗	po
+颇	po
+颇	po	127012
 颇不	po bu	7760
 颇丰	po feng	16275
 颇为	po wei	115140
@@ -951,6 +1068,10 @@ sort: by_weight
 颇闻列仙人	po wen lie xian ren	1
 颇颇公主	po po gong zhu	141
 颇高	po gao	15385
+駊	po
+髲	po
+魄	po
+魄	po	76856
 魄丧魂丢	po sang hun diu	100
 魄丧魂飞	po sang hun fei	100
 魄力	po li	27890
@@ -963,3 +1084,70 @@ sort: by_weight
 魄荡魂摇	po dang hun yao	1
 魄荡魂飞	po dang hun fei	1
 魄门	po men	1
+𠟌	pou
+𠰐	po
+𠰼	po
+𠵳	po
+𠷑	po
+𠾌	po
+𡊟	po
+𡶆	po
+𡼃	po
+𡽠	po
+𢂤	po
+𢒷	pou
+𢱨	po
+𢶉	po
+𣍸	po
+𣎵	po
+𣬚	po
+𣲳	po
+𤀪	po
+𤖼	po
+𤝯	po
+𤱍	po
+𤽌	po
+𥄔	po
+𥗟	po
+𥬒	po
+𥵜	po
+𥹖	po
+𦃡	po
+𦍁	po
+𦐦	po
+𦑀	po
+𦑵	po
+𦒟	po
+𦥭	po
+𦥲	po
+𦫔	po
+𦵿	pou
+𦺎	pou
+𦾕	po
+𦿍	po
+𧂉	po
+𧘟	po
+𧙅	po
+𧠾	pou
+𧴤	po
+𧻙	po
+𧿽	po
+𨂩	po
+𨅅	po
+𨆵	po
+𨍭	po
+𨑝	po
+𨠓	po
+𨡩	po
+𨫁	po
+𨸭	po
+𩊀	po
+𩑻	po
+𩑼	po
+𩒕	po
+𩔈	po
+𩔻	pou
+𩕏	po
+𩚭	pou
+𩢘	po
+𩸿	po

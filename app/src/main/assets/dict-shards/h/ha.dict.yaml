@@ -3,12 +3,121 @@ name: merged.ha
 version: "1.0"
 sort: by_weight
 ...
+㑵	han
+㒈	han
+㕢	hai
+㕺	hao
+㖤	han
+㘎	han
+㘎	han	1
+㘕	han
+㘚	han
+㘪	hao
+㙈	han
+㙔	han
+㙱	hao
+㙳	han
+㚪	hao
+㜦	han
+㜾	hai
+㝀	hao
+㞻	hao
+㟏	han
+㟔	han
+㠙	hao
+㢨	han
+㤚	hang
+㤥	hai
+㦟	hai
+㧡	hai
+㨔	han
+㨟	hai
+㩝	hao
+㪋	han
+㬔	hao
+㬶	hao
+㮀	han
+㱚	hai
+㲦	han
+㵄	han
+㵆	hao
+㵎	han
+㶰	han
+㸁	han
+㺔	hai
+㺖	han
+㼨	han
+㽉	han
+㽳	han
+䀪	hang
+䁔	han
+䂤	hai
+䇋	hai
+䈄	han
+䌍	han
+䍐	han
+䍑	han
+䍖	hai
+䎏	han
+䎯	han
+䏎	han
+䏷	han
+䐄	han
+䒵	hao
+䓍	han
+䓿	han
+䕿	han
+䖔	han
+䗙	han
+䗣	han
+䘕	hang
+䘶	han
+䚽	hao
+䛞	han
+䝞	hao
+䝥	hao
+䟘	hang
+䠹	hai
+䠽	hai
+䢚	hang
+䣈	hang
+䤴	han
+䥁	han
+䦈	han
+䦳	hang
+䧚	hao
+䧫	hao
+䧲	han
+䨡	han
+䪽	hao
+䫲	han
+䬉	hao
+䮧	han
+䯐	hai
+䯫	hao
+䱺	hai
+䲳	hang
+䴂	hang
+䶃	han
+丆	han
+乚	hao
+亥	hai
+亥	hai	11845
 亥儿乐队	hai er yue dui	100
 亥时	hai shi	2875
 亥猪	hai zhu	1212
 亥豕之误	hai shi zhi wu	1
 亥豕相望	hai shi xiang wang	1
 亥豕鲁鱼	hai shi lu yu	35
+仠	han
+佄	han
+侴	hao
+傐	hao
+傼	han
+儫	hao
+兯	han
+函	han
+函	han	21187
 函令	han ling	50
 函件	han jian	19295
 函告	han gao	6775
@@ -100,6 +209,11 @@ sort: by_weight
 函谷关	han gu guan	3150
 函购	han gou	470
 函馆	han guan	1415
+凾	han
+厂	han
+厈	han
+号	hao
+号	hao	513737
 号上班	hao shang ban	100
 号东坡居士	hao dong po ju shi	4
 号丧	hao sang	9999
@@ -196,6 +310,8 @@ sort: by_weight
 号院	hao yuan	290
 号院社区	hao yuan she qu	26
 号音	hao yin	1200
+含	han
+含	han	222331
 含上	han shang	4195
 含下	han xia	2030
 含不含	han bu han	12
@@ -527,7 +643,16 @@ sort: by_weight
 含饴弃孙	han yi qi sun	1
 含饴弄孙	han yi nong sun	499
 含齿戴发	han chi dai fa	100
+吭	hang
+吭	hang	1
+呺	hao
+咍	hai
+咍	hai	1
+咳	hai
+咳	hai	1111
 咳声叹气	hai sheng tan qi	100
+哈	ha
+哈	ha	879528
 哈一中	ha yi zhong	100
 哈三联	ha san lian	200
 哈不哈人	ha bu ha ren	100
@@ -1022,6 +1147,11 @@ sort: by_weight
 哈麦德	ha mai de	100
 哈默	ha mo	11
 哈默德	ha mo de	185
+哠	hao
+哻	han
+唅	han
+喊	han
+喊	han	390618
 喊一喊	han yi han	123
 喊一声	han yi sheng	6750
 喊一声儿	han yi sheng er	6750
@@ -1139,8 +1269,14 @@ sort: by_weight
 喊醒	han xing	1180
 喊魂	han hun	295
 喊麦	han mai	1111
+嗐	hai
+嗐	hai	449
 嗐声跺脚	hai sheng duo jiao	1
+嗥	hao
+嗥	hao	3548
 嗥叫	hao jiao	1
+嗨	hai
+嗨	hai	21687
 嗨了	hai le	1111
 嗨了起来	hai le qi lai	100
 嗨了送	hai le song	100
@@ -1156,18 +1292,34 @@ sort: by_weight
 嗨玩	hai wan	1111
 嗨皮	hai pi	9999
 嗨翻了	hai fan le	100
+嘷	hao
+噑	hao
+嚆	hao
+嚆	hao	22
 嚆矢	hao shi	1
+嚎	hao
+嚎	hao	34929
 嚎一嚎	hao yi hao	104
 嚎叫	hao jiao	16610
 嚎叫山谷	hao jiao shan gu	1
 嚎哭深渊	hao ku shen yuan	100
 嚎春	hao chun	99
 嚎风峡湾	hao feng xia wan	117
+嚡	hai
+圅	han
+垳	hang
+垾	han
+垾	han	1
+塰	hai
+壕	hao
+壕	hao	10556
 壕堑	hao qian	800
 壕堑战	hao qian zhan	100
 壕沟	hao gou	595
 壕沟战	hao gou zhan	100
 壕股塔	hao gu ta	1180
+夯	hang
+夯	hang	1961
 夯具	hang ju	5
 夯土	hang tu	5935
 夯土建筑	hang tu jian zhu	100
@@ -1182,8 +1334,11 @@ sort: by_weight
 夯沙镇	hang sha zhen	1
 夯筑	hang zhu	999
 夯铁之夫	hang tie zhi fu	1
+奤	ha
 奤夿屯	ha ba tun	2300
 奤夿屯村	ha ba tun cun	13
+好	hao
+好	hao	7259684
 好一个	hao yi ge	20970
 好一个江湖	hao yi ge jiang hu	100
 好一个江湖啊	hao yi ge jiang hu a	100
@@ -3526,6 +3681,12 @@ sort: by_weight
 好黑啊	hao hei a	380
 好鼓	hao gu	2960
 好齐	hao qi	365
+妎	hai
+妔	hang
+娢	han
+嫨	han
+孩	hai
+孩	hai	1251885
 孩他妈	hai ta ma	1
 孩他舅	hai ta jiu	100
 孩儿	hai er	29285
@@ -3696,6 +3857,8 @@ sort: by_weight
 孩童	hai tong	31540
 孩童成长	hai tong cheng zhang	100
 孩童时期	hai tong shi qi	815
+害	hai
+害	hai	740250
 害不了	hai bu liao	200
 害不害	hai bu hai	100
 害不害怕	hai bu hai pa	100
@@ -3789,6 +3952,8 @@ sort: by_weight
 害起肘腋	hai qi zhou ye	1
 害过	hai guo	1920
 害鸟	hai niao	195
+寒	han
+寒	han	448294
 寒不思衣	han bu si yi	100
 寒不择衣	han bu ze yi	100
 寒了心	han le xin	100
@@ -4070,9 +4235,21 @@ sort: by_weight
 寒鸦	han ya	3655
 寒鸦戏水	han ya xi shui	350
 寒鸦栖复惊	han ya qi fu jing	1180
+屽	han
+崡	han
+崡	han	1
+嵅	han
+嵅	han	1
+巷	hang
+巷	hang	1
 巷道	hang dao	11
 巷道掘进	hang dao jue jin	1
 巷道支护	hang dao zhi hu	1
+忓	han
+忼	hang
+恏	hao
+悍	han
+悍	han	41628
 悍刀行	han dao xing	100
 悍勇	han yong	1390
 悍匪	han fei	2975
@@ -4091,6 +4268,9 @@ sort: by_weight
 悍跳	han tiao	1
 悍镇强藩	han zhen qiang fan	100
 悍马	han ma	15990
+悎	hao
+憨	han
+憨	han	19728
 憨不啦唧	han bu la ji	1
 憨不啦唧的	han bu la ji de	100
 憨乎乎	han hu hu	5
@@ -4125,11 +4305,18 @@ sort: by_weight
 憨蝇霸鹟	han ying ba weng	1
 憨豆	han dou	1925
 憨豆先生	han dou xian sheng	1215
+憾	han
+憾	han	58412
 憾事	han shi	5550
 憾失所爱	han shi suo ai	100
 憾负	han fu	5
+扞	han
+扞	han	62
 扞格不入	han ge bu ru	1
 扞格不通	han ge bu tong	1
+拸	hai
+捍	han
+捍	han	7135
 捍卫	han wei	52095
 捍卫国家法律尊严	han wei guo jia fa lv zun yan	4
 捍卫战士	han wei zhan shi	180
@@ -4142,6 +4329,10 @@ sort: by_weight
 捍格	han ge	90
 捍格不入	han ge bu ru	1
 捍疆卫国	han jiang wei guo	100
+撖	han
+撖	han	25
+撼	han
+撼	han	43501
 撼不了	han bu liao	10
 撼人	han ren	1585
 撼人心魄	han ren xin po	1555
@@ -4157,6 +4348,11 @@ sort: by_weight
 撼岭巴山	han ling ba shan	100
 撼岭拔山	han ling ba shan	111
 撼树蚍蜉	han shu pi fu	100
+攼	han
+斻	hang
+旰	han
+旱	han
+旱	han	15826
 旱井	han jing	600
 旱伞	han san	185
 旱作	han zuo	5255
@@ -4219,6 +4415,8 @@ sort: by_weight
 旱魃拜夜叉	han ba bai ye cha	1
 旱魔	han mo	333
 旱鸭子	han ya zi	1645
+昊	hao
+昊	hao	49733
 昊天	hao tian	1450
 昊天不吊	hao tian bu diao	100
 昊天塔	hao tian ta	138
@@ -4228,6 +4426,20 @@ sort: by_weight
 昊天罔极	hao tian wang ji	100
 昊恩家家	hao en jia jia	100
 昊海楼	hao hai lou	325
+昦	hao
+晗	han
+晗	han	6491
+晘	han
+晥	han
+晧	hao
+暠	hao
+暤	hao
+暭	hao
+暵	han
+暵	han	3
+曍	hao
+杭	hang
+杭	hang	34033
 杭三鲜	hang san xian	25
 杭世骏	hang shi jun	13
 杭剧	hang ju	125
@@ -4366,6 +4578,14 @@ sort: by_weight
 杭长桥	hang chang qiao	5
 杭长桥南路	hang chang qiao nan lu	2
 杭长高速	hang chang gao su	100
+桁	hang
+梒	han
+椃	hao
+椷	han
+歛	han
+毜	hao
+毫	hao
+毫	hao	414933
 毫不	hao bu	13419
 毫不了解	hao bu liao jie	345
 毫不介怀	hao bu jie huai	19
@@ -4598,6 +4818,8 @@ sort: by_weight
 毫米长	hao mi chang	640
 毫糯索	hao nuo suo	11
 毫针	hao zhen	999
+氦	hai
+氦	hai	325
 氦元素	hai yuan su	100
 氦原子	hai yuan zi	100
 氦气	hai qi	9999
@@ -4606,6 +4828,8 @@ sort: by_weight
 氦氖氩氪氙氡	hai nai ya ke xian dong	100
 氦氖激光器	hai nai ji guang qi	310
 氦闪	hai shan	9
+汉	han
+汉	han	484364
 汉下白登道	han xia bai deng dao	4
 汉世宗	han shi zong	100
 汉世祖	han shi zu	100
@@ -5043,6 +5267,8 @@ sort: by_weight
 汉魏六朝	han wei liu chao	100
 汉麻	han ma	745
 汉龙	han long	1735
+汗	han
+汗	han	235293
 汗一个	han yi ge	100
 汗下如流	han xia ru liu	1
 汗不敢出	han bu gan chu	15
@@ -5138,8 +5364,15 @@ sort: by_weight
 汗马功劳	han ma gong lao	10395
 汗马功绩	han ma gong ji	1
 汗马勋劳	han ma xun lao	1
+汵	han
+沆	hang
+沆	hang	744
 沆瀣	hang xie	400
 沆瀣一气	hang xie yi qi	2100
+浛	han
+浛	han	1
+浩	hao
+浩	hao	178517
 浩丰科技	hao feng ke ji	171
 浩克	hao ke	111
 浩创城	hao chuang cheng	100
@@ -5189,6 +5422,9 @@ sort: by_weight
 浩荡汪洋	hao dang wang yang	100
 浩荡离愁白日斜	hao dang li chou bai ri xie	1
 浩饶山乡	hao rao shan xiang	1
+浫	han
+海	hai
+海	hai	1335124
 海䴖落	hai jing luo	15
 海䴖落村	hai jing luo cun	20
 海上	hai shang	200270
@@ -7090,6 +7326,9 @@ sort: by_weight
 海龟	hai gui	20655
 海𬶭	hai ji	16
 海𬶭属	hai ji shu	100
+涆	han
+涵	han
+涵	han	61454
 涵今茹古	han jin ru gu	100
 涵养	han yang	31940
 涵养林	han yang lin	264
@@ -7112,6 +7351,15 @@ sort: by_weight
 涵道	han dao	350
 涵道比	han dao bi	115
 涵闸	han zha	2475
+淏	hao
+淏	hao	138
+滈	hao
+滜	hao
+漢	han
+澏	han
+澔	hao
+濠	hao
+濠	hao	2508
 濠上之乐	hao shang zhi le	1
 濠上观鱼	hao shang guan yu	2
 濠州	hao zhou	8
@@ -7123,6 +7371,8 @@ sort: by_weight
 濠江路	hao jiang lu	13
 濠河	hao he	2
 濠濮间想	hao pu jian xiang	100
+瀚	han
+瀚	han	31450
 瀚宇博德	han yu bo de	5
 瀚林学院	han lin xue yuan	17
 瀚海	han hai	7170
@@ -7131,6 +7381,12 @@ sort: by_weight
 瀚高基础软件	han gao ji chu ruan jian	87
 瀚高基础软件股份有限公司	han gao ji chu ruan jian gu fen you xian gong si	87
 瀚高安全版数据库系统	han gao an quan ban shu ju ku xi tong	87
+灏	hao
+灏	hao	1933
+灝	hao
+烸	hai
+焊	han
+焊	han	3324
 焊上	han shang	1400
 焊上去	han shang qu	100
 焊丝	han si	1031
@@ -7206,7 +7462,24 @@ sort: by_weight
 焊锡条	han xi tiao	1850
 焊锡膏	han xi gao	1250
 焊门员	han men yuan	100
+焓	han
+焓	han	169
 焓变	han bian	369
+熯	han
+爳	han
+犴	han
+犴	han	802
+猂	han
+猲	hai
+獆	hao
+獋	hao
+獔	hao
+琀	han
+琀	han	4
+甝	han
+皋	hao
+皓	hao
+皓	hao	30879
 皓乐齿	hao le chi	100
 皓发皤髯	hao fa po ran	100
 皓月	hao yue	14445
@@ -7234,10 +7507,31 @@ sort: by_weight
 皓齿朱唇	hao chi zhu chun	100
 皓齿蛾眉	hao chi e mei	100
 皓龙	hao long	9965
+皔	han
+皜	hao
+皞	hao
+皞	hao	179
+皡	hao
+皥	hao
+睅	han
+秏	hao
 秏鸡猫儿	hao ji mao er	1
+竓	hao
+笐	hang
+笒	han
+筕	hang
+筨	han
+籇	hao
+紦	ha
+絎	hang
+絯	hai
+绗	hang
+绗	hang	38
 绗缝	hang feng	2125
 绗缝机	hang feng ji	985
 绗缝被	hang feng bei	260
+罕	han
+罕	han	43875
 罕有	han you	14295
 罕有其匹	han you qi pi	100
 罕有的	han you de	100
@@ -7256,6 +7550,8 @@ sort: by_weight
 罕达盖苏木	han da gai su mu	6
 罕闻	han wen	635
 罕闻寡见	han wen gua jian	1
+翰	han
+翰	han	60202
 翰墨	han mo	1029
 翰墨志	han mo zhi	100
 翰景轩	han jing xuan	199
@@ -7274,6 +7570,8 @@ sort: by_weight
 翰苑	han yuan	31
 翰苑颐园	han yuan yi yuan	100
 翰飞戾天	han fei li tian	9
+耗	hao
+耗	hao	96793
 耗一耗	hao yi hao	323
 耗不了	hao bu liao	25
 耗不起	hao bu qi	850
@@ -7357,6 +7655,12 @@ sort: by_weight
 耗资近	hao zi jin	1080
 耗赖山乡	hao lai shan xiang	4
 耗量	hao liang	463
+聕	hao
+肣	han
+胲	hai
+胲	hai	69
+航	hang
+航	hang	116067
 航业公司	hang ye gong si	100
 航东路	hang dong lu	14
 航中路	hang zhong lu	103
@@ -7713,11 +8017,18 @@ sort: by_weight
 航院	hang yuan	925
 航鹰	hang ying	150
 航龄	hang ling	999
+苀	hang
+茠	hao
+莟	han
+菡	han
+菡	han	5512
 菡萏	han dan	2
 菡萏发荷花	han dan fa he hua	2
 菡萏生泥玩亦难	han dan sheng ni wan yi nan	1
 菡萏金芙蓉	han dan jin fu rong	1
 菡萏香销翠叶残	han dan xiang xiao cui ye can	5
+蒿	hao
+蒿	hao	2230
 蒿俊闵	hao jun min	100
 蒿吉坪瑶族乡	hao ji ping yao zu xiang	7
 蒿子	hao zi	875
@@ -7735,9 +8046,14 @@ sort: by_weight
 蒿芩清胆汤	hao qin qing dan tang	1
 蒿草	hao cao	99
 蒿菜	hao cai	395
+蔊	han
+蔊	han	6
 蔊菜	han cai	99
 蔊菜属	han cai shu	123
 蔊菜雪梨冰糖汁	han cai xue li bing tang zhi	5
+薃	hao
+薅	hao
+薅	hao	556
 薅一下	hao yi xia	100
 薅一薅	hao yi hao	123
 薅个羊毛	hao ge yang mao	100
@@ -7751,7 +8067,16 @@ sort: by_weight
 薅羊毛	hao yang mao	100
 薅草	hao cao	785
 薅锄	hao chu	1
+薧	hao
+藃	hao
+號	hao
+虷	han
+虷	han	4
+虾	ha
+虾	ha	1
 虾蟆陵	ha ma ling	180
+蚝	hao
+蚝	hao	581
 蚝业雅苑	hao ye ya yuan	140
 蚝仔煎	hao zai jian	198
 蚝油	hao you	670
@@ -7771,8 +8096,13 @@ sort: by_weight
 蚝煎	hao jian	114
 蚝蛎	hao li	1111
 蚝酒大会	hao jiu da hui	3
+蚢	hang
+蚶	han
+蚶	han	143
 蚶子	han zi	205
 蚶江村	han jiang cun	2
+蛤	ha
+蛤	ha	9735
 蛤丝	ha si	26817
 蛤什蟆汤	ha shi ma tang	2
 蛤蛤	ha ha	1926
@@ -7806,6 +8136,14 @@ sort: by_weight
 蛤蟆镜	ha ma jing	446
 蛤蟆龙	ha ma long	100
 蛤诞祭	ha dan ji	100
+蛿	han
+蜬	han
+蜭	han
+蝦	ha
+螒	han
+蠔	hao
+行	hang
+行	hang	2756706
 行业	hang ye	535867
 行业一流	hang ye yi liu	100
 行业上下游	hang ye shang xia you	100
@@ -8924,9 +9262,17 @@ sort: by_weight
 行风评议	hang feng ping yi	13840
 行首	hang shou	4895
 行高	hang gao	7370
+裄	hang
 解州	hai zhou	1180
 解州关帝庙	hai zhou guan di miao	1
 解州镇	hai zhou zhen	41
+諕	hao
+譀	han
+譹	hao
+谽	han
+豃	han
+豪	hao
+豪	hao	206593
 豪举	hao ju	455
 豪乳	hao ru	6666
 豪侠	hao xia	6385
@@ -9080,11 +9426,18 @@ sort: by_weight
 豪雨	hao yu	1710
 豪雨成灾	hao yu cheng zai	100
 豪饮	hao yin	3760
+貉	hao
+貉	hao	1133
 貉兽	hao shou	1
 貉子	hao zi	27
 貉子毛	hao zi mao	2
 貉子皮	hao zi pi	2
 貉绒	hao rong	25
+貥	hang
+輚	han
+迒	hang
+还	hai
+还	hai	6776145
 还一再叮嘱	hai yi zai ding zhu	100
 还一分钟	hai yi fen zhong	100
 还一大群	hai yi da qun	100
@@ -11504,10 +11857,16 @@ sort: by_weight
 还鸡巴说是吧	hai ji ba shuo shi ba	100
 还鸡巴说话	hai ji ba shuo hua	100
 还麻烦	hai ma fan	100
+還	hai
+邗	han
+邗	han	218
 邗江中学	han jiang zhong xue	100
 邗江区	han jiang qu	5100
 邗江县	han jiang xian	540
 邗江工业园管委会	han jiang gong ye yuan guan wei hui	1
+邟	hang
+邯	han
+邯	han	7487
 邯山区	han shan qu	1340
 邯邰镇	han tai zhen	179
 邯郸	han dan	6627
@@ -11540,6 +11899,9 @@ sort: by_weight
 邯郸银行	han dan yin hang	100
 邯郸驿里逢冬至	han dan yi li feng dong zhi	2
 邯钢宾馆	han gang bin guan	15
+郂	hai
+郝	hao
+郝	hao	36991
 郝丽娜	hao li na	6
 郝五一	hao wu yi	100
 郝劲松	hao jing song	100
@@ -11578,6 +11940,10 @@ sort: by_weight
 郝菲尔	hao fei er	11
 郝隆晒书	hao long shai shu	1
 郝青林	hao qing lin	100
+鄗	hao
+鄗	hao	10
+酣	han
+酣	han	12314
 酣卧	han wo	85
 酣嬉淋漓	han xi lin li	100
 酣战	han zhan	1920
@@ -11598,9 +11964,29 @@ sort: by_weight
 酣酒	han jiu	345
 酣醉	han zui	585
 酣饮	han yin	860
+酼	hai
+醢	hai
+醢	hai	147
+釬	han
+鉿	ha
+銲	han
+鋎	han
+鋡	han
+鎬	hao
+铪	ha
+铪	ha	59
 铪元素	ha yuan su	100
+镐	hao
+镐	hao	1
 镐京	hao jing	2
 镐京村	hao jing cun	2
+閈	han
+闞	han
+闬	han
+雗	han
+韓	han
+韩	han
+韩	han	272550
 韩一磊	han yi lei	100
 韩三奇	han san qi	2
 韩三平	han san ping	1020
@@ -11992,7 +12378,18 @@ sort: by_weight
 韩飞叶	han fei ye	100
 韩飞龙	han fei long	193
 韩香馆	han xiang guan	2
+頇	han
+頏	hang
+頷	han
+顄	han
+顥	hao
+顸	han
+顸	han	276
 顸实	han shi	11
+颃	hang
+颃	hang	118
+颔	han
+颔	han	9307
 颔下	han xia	103
 颔下之珠	han xia zhi zhu	100
 颔下腺	han xia xian	100
@@ -12001,6 +12398,17 @@ sort: by_weight
 颔首之交	han shou zhi jiao	100
 颔首低眉	han shou di mei	100
 颔首微笑	han shou wei xiao	100
+颢	hao
+颢	hao	2580
+餀	hai
+饚	hai
+馠	han
+馯	han
+駭	hai
+駴	hai
+駻	han
+骇	hai
+骇	hai	57380
 骇世惊俗	hai shi jing su	100
 骇人	hai ren	12940
 骇人听闻	hai ren ting wen	8380
@@ -12029,11 +12437,207 @@ sort: by_weight
 骇目振心	hai mu zhen xin	1
 骇绿纷红	hai lv fen hong	100
 骇龙走蛇	hai long zou she	1
+骸	hai
+骸	hai	13516
 骸骨	hai gu	10070
 骸骨骑士	hai gu qi shi	100
+魧	hang
+魽	han
+鰝	hao
+鳱	han
+鶾	han
+鼾	han
+鼾	han	7130
 鼾声	han sheng	11965
 鼾声如雷	han sheng ru lei	1356
 鼾息声	han xi sheng	100
 鼾息如雷	han xi ru lei	100
 鼾症	han zheng	2680
 鼾睡	han shui	4444
+𠀅	hai
+𠔑	hai
+𠗴	han
+𠚃	hao
+𠡊	hang
+𠢇	han
+𠢕	hao
+𠤮	han
+𠤾	han
+𠥴	han
+𠦊	han
+𠲒	han
+𠵸	han
+𠹄	han
+𠹛	hai
+𠽦	han
+𠿑	han
+𡁀	han
+𡄟	ha
+𡇜	han
+𡐒	hao
+𡕗	hai
+𡕧	hang
+𡚌	hao
+𡚽	hao
+𡠖	hao
+𡣔	han
+𡥆	hao
+𡬖	han
+𡷛	han
+𡻡	han
+𡽝	hao
+𡾨	hai
+𢀵	han
+𢁓	hai
+𢃗	han
+𢄜	han
+𢇞	han
+𢎘	han
+𢔈	han
+𢔔	han
+𢞐	hai
+𢧦	han
+𢩸	hai
+𢻇	hao
+𢻜	hai
+𣆧	hao
+𣐺	han
+𣒷	han
+𣖻	hai
+𣘞	han
+𣘫	hao
+𣚧	hao
+𣛴	han
+𣝽	han
+𣢅	han
+𣢇	hai
+𣢟	han
+𣢺	han
+𣭖	hao
+𣭹	hao
+𣱓	hao
+𣳠	hai
+𣵷	han
+𣽎	hao
+𤀃	hao
+𤀉	han
+𤌐	han
+𤝐	hao
+𤞶	han
+𤡇	hao
+𤢨	hao
+𤢭	hao
+𤩩	hao
+𤩭	hao
+𤫧	hao
+𤬯	han
+𤭙	han
+𤰟	hang
+𤳉	han
+𤵻	hang
+𤵽	hai
+𤸎	hai
+𤸕	han
+𤼍	hang
+𤿧	han
+𥀐	han
+𥁐	hai
+𥂧	hai
+𥆡	han
+𥇌	han
+𥉰	han
+𥍣	hao
+𥢑	hao
+𥤱	han
+𥩤	hai
+𥩲	hai
+𥮕	hang
+𦋣	han
+𦐄	hang
+𦐤	hai
+𦒅	han
+𦒝	han
+𦛜	han
+𦜆	han
+𦞞	han
+𦤦	hai
+𦤬	hai
+𦥖	han
+𦨵	hang
+𦳁	hao
+𦷷	hai
+𦺦	han
+𧂃	han
+𧃙	han
+𧇼	hao
+𧑚	han
+𧘃	hang
+𧦑	hang
+𧦝	hao
+𧬁	hao
+𧭻	han
+𧮰	han
+𧮳	han
+𧯌	hao
+𧯘	han
+𧰪	han
+𧵊	han
+𧹣	han
+𧻲	hai
+𧽊	hai
+𧽖	hai
+𧾔	han
+𨀖	hai
+𨁄	han
+𨁈	hang
+𨂜	hao
+𨉣	ha
+𨒑	hao
+𨚙	hao
+𨚮	hao
+𨛎	han
+𨝲	hao
+𨠬	hao
+𨡬	hai
+𨢈	han
+𨸗	han
+𨸜	hai
+𨼍	hao
+𨾒	hang
+𩄙	han
+𩈖	han
+𩈣	han
+𩉜	hang
+𩎒	han
+𩐮	hao
+𩔋	hang
+𩕍	hao
+𩕠	han
+𩖸	hao
+𩖺	han
+𩗤	han
+𩞞	hai
+𩞿	han
+𩠚	hai
+𩠻	han
+𩠾	hang
+𩡔	hai
+𩦊	han
+𩩰	hai
+𩪃	hai
+𩫕	hao
+𩭥	han
+𩮘	hao
+𩰶	hai
+𩲊	hao
+𩲋	hang
+𩶞	hang
+𩹄	hai
+𩹑	han
+𩹼	han
+𩼉	han
+𩾝	han
+𪁟	han
+𪐦	hang
+𪕇	hang
+𪗜	hang

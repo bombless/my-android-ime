@@ -3,6 +3,14 @@ name: merged.co
 version: "1.0"
 sort: by_weight
 ...
+㗰	cong
+㫶	cou
+㼻	cong
+䉘	cong
+䕺	cong
+䳷	cong
+丛	cong
+丛	cong	84509
 丛丛	cong cong	3590
 丛丛簇簇	cong cong cu cu	27
 丛中	cong zhong	222
@@ -64,6 +72,8 @@ sort: by_weight
 丛集性头痛	cong ji xing tou tong	17
 丛飞精神	cong fei jing shen	585
 丛飞飞	cong fei fei	100
+从	cong
+从	cong	3173776
 从一	cong yi	2
 从一个	cong yi ge	100
 从一以终	cong yi yi zhong	1
@@ -1079,6 +1089,9 @@ sort: by_weight
 从高空坠落	cong gao kong zhui luo	100
 从龙	cong long	69
 从龙从虎	cong long cong hu	1
+傶	cou
+凑	cou
+凑	cou	97611
 凑一凑	cou yi cou	123
 凑一凑热闹	cou yi cou re nao	100
 凑一窝	cou yi wo	100
@@ -1161,6 +1174,8 @@ sort: by_weight
 凑集	cou ji	710
 凑集数	cou ji shu	100
 凑齐	cou qi	7055
+匆	cong
+匆	cong	170609
 匆不匆忙	cong bu cong mang	100
 匆促	cong cu	2280
 匆促之间	cong cu zhi jian	100
@@ -1188,11 +1203,65 @@ sort: by_weight
 匆忙赶到	cong mang gan dao	760
 匆忙间	cong mang jian	100
 匆遽	cong ju	270
+叢	cong
+囪	cong
+囱	cong
+囱	cong	3098
+婃	cong
+孮	cong
+従	cong
+徔	cong
+徖	cong
+從	cong
+忩	cong
+怱	cong
+悤	cong
+悰	cong
+悰	cong	85
+愡	cong
+慒	cong
+憁	cong
+暰	cong
+枞	cong
+枞	cong	609
 枞树	cong shu	2345
+棇	cong
+楤	cong
+楱	cou
+樅	cong
+樬	cong
+樷	cong
+欉	cong
+淙	cong
+淙	cong	3304
 淙淙	cong cong	7820
 淙淙流水	cong cong liu shui	100
+湊	cou
+漎	cong
+漗	cong
+潀	cong
+潈	cong
+潨	cong
+灇	cong
+焧	cong
+熜	cong
+熜	cong	295
+爜	cong
+琮	cong
+琮	cong	3330
 琮琤	cong cheng	25
 琮璜	cong huang	15
+瑽	cong
+璁	cong
+璁	cong	500
+瞛	cong
+碂	cong
+篵	cong
+繱	cong
+聡	cong
+聦	cong
+聪	cong
+聪	cong	138731
 聪不聪明吗	cong bu cong ming ma	100
 聪不聪明吧	cong bu cong ming ba	100
 聪不聪明呀	cong bu cong ming ya	100
@@ -1264,11 +1333,19 @@ sort: by_weight
 聪明难	cong ming nan	1180
 聪颖	cong ying	10510
 聪颖过人	cong ying guo ren	50
+聰	cong
+腠	cou
+腠	cou	72
 腠理	cou li	111
+苁	cong
+苁	cong	659
 苁蓉	cong rong	1
 苁蓉羊肉羹	cong rong yang rou geng	2
 苁蓉通便口服液	cong rong tong bian kou fu ye	3
 苁黄补肾丸	cong huang bu shen wan	1
+茐	cong
+葱	cong
+葱	cong	24137
 葱丝	cong si	528
 葱包桧	cong bao hui	189
 葱包桧儿	cong bao hui er	66
@@ -1361,9 +1438,87 @@ sort: by_weight
 葱香羊肉煲	cong xiang yang rou bao	1
 葱黄	cong huang	80
 葱黄寡毛跳甲	cong huang gua mao tiao jia	1
+蓯	cong
+蔥	cong
+藂	cong
+蟌	cong
+蟌	cong	1
 蟌科	cong ke	4
+誴	cong
+謥	cong
+賨	cong
+賩	cong
+輳	cou
+辏	cou
+辏	cou	246
 辏石累卵	cou shi lei luan	100
 辏集	cou ji	2
 辏集人烟	cou ji ren yan	100
+錝	cong
+鍯	cong
+鏓	cong
+鏦	cong
+騘	cong
+驄	cong
+骢	cong
+骢	cong	1056
+𠂥	cong
+𠕁	cong
+𠙂	cong
+𠢛	cong
+𠤰	cong
+𡅇	cong
+𡟟	cong
+𡦷	cong
+𡵷	cong
+𡹸	cong
+𢃏	cong
+𢈾	cou
+𢊕	cong
+𢐔	cong
+𢔩	cong
+𣃗	cong
+𣉅	cou
+𣊷	cong
+𣙘	cou
+𣞜	cou
+𤄓	cong
+𤆑	cou
+𥍷	cong
+𥎋	cong
+𥡬	cong
+𥣙	cong
+𥮨	cong
+𥵫	cong
+𦇎	cong
+𦇱	cong
+𦗜	cong
+𦝰	cong
+𦦅	cou
+𦳿	cou
+𦺀	cou
+𧐱	cong
+𧓏	cong
+𧝮	cong
+𧡣	cou
+𧩪	cong
+𧱪	cou
+𨂴	cong
+𨍉	cong
+𨑪	cong
+𨒀	cong
+𨓭	cou
+𨡮	cong
+𨦱	cong
+𨨯	cou
+𨱸	cong
+𨲧	cong
+𨽁	cong
+𩬼	cong
+𩯍	cong
+𩹀	cou
+𪉮	cou
+𪻐	cong
+𫓩	cong
 𫓩𫓩	cong cong	2
 𫓩𫓩铮铮	cong cong zheng zheng	100

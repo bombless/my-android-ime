@@ -3,10 +3,31 @@ name: merged.de
 version: "1.0"
 sort: by_weight
 ...
+㝵	de
+㝶	de
+㤫	de
+㥀	de
+㥁	de
+㩐	den
+㯖	de
+㲪	deng
+䒭	deng
+䙷	de
+䙸	de
+䠬	deng
+䮴	deng
+䮻	dei
+僜	deng
+凳	deng
+凳	deng	36123
 凳上	deng shang	7815
 凳子	deng zi	24465
 凳子上	deng zi shang	9145
 凳寨乡	deng zhai xiang	2
+嘚	de
+嘚	de	357
+嘚	dei
+嘚	dei	1
 嘚儿	dei er	5555
 嘚吧嘚	de ba de	100
 嘚啵	de bo	9999
@@ -15,9 +36,13 @@ sort: by_weight
 嘚嘚	de de	9999
 嘚瑟	de se	9999
 嘚瑟一下	de se yi xia	75
+噔	deng
+噔	deng	11503
 噔噔	deng deng	985
 噔噔噔	deng deng deng	1160
 噔噔噔噔	deng deng deng deng	2
+地	de
+地	de	8804040
 地叫	de jiao	2
 地干吧	de gan ba	100
 地流淌	de liu tang	100
@@ -26,6 +51,16 @@ sort: by_weight
 地笑了笑	de xiao le xiao	100
 地说	de shuo	5555
 地问	de wen	5555
+墱	deng
+嬁	deng
+嶝	deng
+嶝	deng	55
+底	de
+底	de	0
+得	de
+得	de	7186260
+得	dei
+得	dei	7186260
 得一	de yi	1111
 得一个	de yi ge	100
 得一些	de yi xie	1180
@@ -1096,6 +1131,9 @@ sort: by_weight
 得麒麟才子者	de qi lin cai zi zhe	100
 得麒麟才子者可得天下	de qi lin cai zi zhe ke de tian xia	100
 得黄金	de huang jin	100
+徳	de
+德	de
+德	de	733775
 德不厚而思国之安	de bu hou er si guo zhi an	3
 德不配位的人	de bu pei wei de ren	100
 德中	de zhong	5115
@@ -1770,12 +1808,27 @@ sort: by_weight
 德黎格尔	de li ge er	2
 德黑兰	de hei lan	8490
 德黑兰会议	de hei lan hui yi	450
+恴	de
+悳	de
+惪	de
+憕	deng
+戥	deng
+戥	deng	143
 戥子	deng zi	1
+扥	den
+扽	den
+扽	den	81
 扽一下	den yi xia	123
 扽一扽	den yi den	123
 扽平	den ping	123
 扽直	den zhi	123
 扽着	den zhe	32
+旳	de
+棏	de
+櫈	deng
+淂	de
+澄	deng
+澄	deng	200
 澄沙	deng sha	2
 澄沙汰砾	deng sha tai li	1
 澄沙馅	deng sha xian	2
@@ -1783,6 +1836,9 @@ sort: by_weight
 澄清	deng qing	1111
 澄粉	deng fen	2
 澄面	deng mian	2
+瀓	deng
+灯	deng
+灯	deng	290150
 灯下	deng xia	2259
 灯下定影	deng xia ding ying	100
 灯下草虫鸣	deng xia cao chong ming	2
@@ -1979,6 +2035,11 @@ sort: by_weight
 灯饰批发市场	deng shi pi fa shi chang	7
 灯饰照明行业	deng shi zhao ming hang ye	100
 灯饰行业	deng shi hang ye	100
+燈	deng
+璒	deng
+璒	deng	3
+登	deng
+登	deng	215944
 登一下	deng yi xia	86
 登上	deng shang	151450
 登上了	deng shang le	100
@@ -2355,6 +2416,8 @@ sort: by_weight
 登龙斩	deng long zhan	100
 登龙有术	deng long you shu	1
 登龙术	deng long shu	100
+的	de
+的	de	76938354
 的一	de yi	111
 的一个	de yi ge	100
 的一个缩影	de yi ge suo ying	100
@@ -2854,6 +2917,8 @@ sort: by_weight
 的骄傲	de jiao ao	100
 的高	de gao	1
 的麻烦	de ma fan	100
+瞪	deng
+瞪	deng	186802
 瞪一瞪	deng yi deng	124
 瞪了	deng le	37975
 瞪了一眼	deng le yi yan	100
@@ -2898,9 +2963,14 @@ sort: by_weight
 瞪视着	deng shi zhe	2475
 瞪起	deng qi	2455
 瞪起来	deng qi lai	100
+磴	deng
+磴	deng	262
 磴口	deng kou	840
 磴口县	deng kou xian	835
 磴槽	deng cao	15
+竳	deng
+等	deng
+等	deng	2002114
 等一	deng yi	222
 等一下	deng yi xia	28835
 等一下儿	deng yi xia er	100
@@ -3549,6 +3619,14 @@ sort: by_weight
 等高线地形图	deng gao xian di xing tu	100
 等高考完	deng gao kao wan	100
 等齿小吻盲虫	deng chi xiao wen mang chong	1
+簦	deng
+脦	de
+艠	deng
+蚮	de
+覴	deng
+豋	deng
+蹬	deng
+蹬	deng	23651
 蹬一蹬	deng yi deng	101
 蹬了	deng le	1735
 蹬了蹬	deng le deng	432
@@ -3564,6 +3642,8 @@ sort: by_weight
 蹬车	deng che	1780
 蹬鼻子	deng bi zi	100
 蹬鼻子上脸	deng bi zi shang lian	100
+邓	deng
+邓	deng	78843
 邓一君	deng yi jun	100
 邓世平	deng shi ping	147
 邓世昌	deng shi chang	362
@@ -3701,7 +3781,47 @@ sort: by_weight
 邓颖超	deng ying chao	8920
 邓高静	deng gao jing	139
 邓龙光	deng long guang	4
+鄧	deng
+鍀	de
+鐙	deng
+锝	de
+锝	de	187
 锝元素	de yuan su	100
+镫	deng
+镫	deng	1333
 镫子	deng zi	40
 镫骨	deng gu	750
 镫骨手术	deng gu shou shu	1
+隥	deng
+𠮊	de
+𠵨	de
+𡋩	de
+𡦔	deng
+𡭂	de
+𢯭	deng
+𢿤	deng
+𣌏	de
+𣩟	deng
+𣮊	de
+𣮰	de
+𤮘	deng
+𤷙	de
+𤺌	deng
+𤼶	deng
+𤾢	deng
+𦩫	deng
+𧄼	deng
+𧊇	de
+𧾊	deng
+𨁽	de
+𨄇	deng
+𨎤	deng
+𨮴	deng
+𨶿	deng
+𩍐	deng
+𩞬	deng
+𩯇	deng
+𪌷	deng
+𪑬	deng
+𪒘	deng
+𪔏	deng

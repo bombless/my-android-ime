@@ -3,6 +3,24 @@ name: merged.pu
 version: "1.0"
 sort: by_weight
 ...
+㒒	pu
+㙸	pu
+㬥	pu
+㯷	pu
+㲫	pu
+㹒	pu
+㺪	pu
+䈬	pu
+䈻	pu
+䑑	pu
+䔕	pu
+䗱	pu
+䧤	pu
+䪬	pu
+䲕	pu
+䴆	pu
+仆	pu
+仆	pu	62312
 仆人	pu ren	49255
 仆仆	pu pu	1290
 仆仆亟拜	pu pu qi bai	2
@@ -23,6 +41,9 @@ sort: by_weight
 仆街	pu jie	3333
 仆街仔	pu jie zai	3333
 仆隶	pu li	4
+僕	pu
+匍	pu
+匍	pu	4791
 匍匐	pu fu	14020
 匍匐之救	pu fu zhi jiu	100
 匍匐前行	pu fu qian xing	100
@@ -33,6 +54,8 @@ sort: by_weight
 匍匐茎	pu fu jing	990
 匍匐运动	pu fu yun dong	100
 匍枝毛茛	pu zhi mao gen	1
+噗	pu
+噗	pu	24442
 噗呲	pu ci	999
 噗呲噗呲	pu ci pu ci	999
 噗噗	pu pu	3350
@@ -44,7 +67,13 @@ sort: by_weight
 噗噜噜	pu lu lu	9999
 噗的	pu de	770
 噗的一声	pu de yi sheng	100
+圃	pu
+圃	pu	5339
 圃田	pu tian	480
+圑	pu
+圤	pu
+埔	pu
+埔	pu	6340
 埔上	pu shang	2
 埔南路	pu nan lu	11
 埔头村	pu tou cun	3
@@ -56,6 +85,13 @@ sort: by_weight
 埔里华吸鳅	pu li hua xi qiu	1
 埔里社抚垦局	pu li she fu ken ju	100
 埔锦村	pu jin cun	1
+堡	pu
+堡	pu	1000
+墣	pu
+墣	pu	1
+巬	pu
+扑	pu
+扑	pu	252812
 扑上	pu shang	9780
 扑上去	pu shang qu	8090
 扑上来	pu shang lai	4665
@@ -181,6 +217,14 @@ sort: by_weight
 扑鼻一阵香	pu bi yi zhen xiang	100
 扑鼻的	pu bi de	4560
 扑鼻而来	pu bi er lai	4935
+抪	pu
+捗	pu
+撲	pu
+擈	pu
+攴	pu
+攵	pu
+普	pu
+普	pu	317637
 普世	pu shi	7325
 普世基督教	pu shi ji du jiao	100
 普世教会	pu shi jiao hui	100
@@ -841,8 +885,13 @@ sort: by_weight
 普鲁斯霍利陈	pu lu si huo li chen	1
 普鲁申科	pu lu shen ke	168
 普鲁顿	pu lu dun	100
+暜	pu
+暴	pu
+暴	pu	0
 暴衣露冠	pu yi lu guan	1
 暴衣露盖	pu yi lu gai	1
+曝	pu
+曝	pu	200
 曝书见竹	pu shu jian zhu	13
 曝晒	pu shai	14975
 曝气	pu qi	128
@@ -874,6 +923,8 @@ sort: by_weight
 曝骨履肠	pu gu lv chang	13
 曝鳃之鱼	pu sai zhi yu	13
 曝鳃龙门	pu sai long men	13
+朴	pu
+朴	pu	65002
 朴丽鱼	pu li yu	100
 朴丽鱼属	pu li yu shu	100
 朴厚	pu hou	615
@@ -942,7 +993,14 @@ sort: by_weight
 朴长体茧蜂	pu chang ti jian feng	1
 朴陋	pu lou	2
 朴雅	pu ya	465
+柨	pu
+樸	pu
+檏	pu
+氆	pu
+氆	pu	104
 氆氇	pu lu	2305
+浦	pu
+浦	pu	19174
 浦三路	pu san lu	99
 浦东	pu dong	103505
 浦东不锈	pu dong bu xiu	12500
@@ -1029,6 +1087,8 @@ sort: by_weight
 浦银红利	pu yin hong li	1
 浦锦街道	pu jin jie dao	160
 浦项制铁	pu xiang zhi tie	191
+溥	pu
+溥	pu	4858
 溥仪	pu yi	1241
 溥仪故居	pu yi gu ju	23
 溥仪的一生	pu yi de yi sheng	100
@@ -1039,10 +1099,14 @@ sort: by_weight
 溥心畬	pu xin yu	100
 溥杰	pu jie	16
 溥洛铺镇	pu luo pu zhen	8
+潽	pu
+潽	pu	96
 潽了	pu le	3
 潽出	pu chu	2
 潽出来	pu chu lai	127
 潽出来了	pu chu lai le	104
+濮	pu
+濮	pu	6228
 濮上之音	pu shang zhi yin	100
 濮上桑间	pu shang sang jian	100
 濮上路	pu shang lu	5
@@ -1060,6 +1124,8 @@ sort: by_weight
 濮阳市人民医院	pu yang shi ren min yi yuan	1
 濮阳缨	pu yang ying	100
 濮院	pu yuan	3935
+瀑	pu
+瀑	pu	17047
 瀑布	pu bu	160940
 瀑布区	pu bu qu	100
 瀑布忍者村	pu bu ren zhe cun	100
@@ -1069,11 +1135,29 @@ sort: by_weight
 瀑布群	pu bu qun	6200
 瀑水	pu shui	1105
 瀑流	pu liu	1665
+炇	pu
+烳	pu
+獛	pu
+璞	pu
+璞	pu	6014
 璞园	pu yuan	19
 璞玉	pu yu	3880
 璞玉浑金	pu yu hun jin	100
 璞金浑玉	pu jin hun yu	1
+痡	pu
+瞨	pu
+秿	pu
+穙	pu
+穙	pu	1
+箁	pu
+纀	pu
+脯	pu
+脯	pu	500
 脯子	pu zi	999
+舖	pu
+舗	pu
+莆	pu
+莆	pu	2433
 莆仙戏	pu xian xi	680
 莆仙话	pu xian hua	100
 莆仙语	pu xian yu	100
@@ -1086,6 +1170,9 @@ sort: by_weight
 莆田市	pu tian shi	19310
 莆田系	pu tian xi	100
 莆田系医院	pu tian xi yi yuan	100
+菐	pu
+菩	pu
+菩	pu	28652
 菩堤乡	pu di xiang	2
 菩姬鸠	pu ji jiu	1
 菩尺蛾	pu chi e	1
@@ -1120,6 +1207,8 @@ sort: by_weight
 菩萨蛮	pu sa man	4610
 菩萨面	pu sa mian	85
 菩萨鹿	pu sa lu	2
+葡	pu
+葡	pu	30236
 葡东小区	pu dong xiao qu	2
 葡东社区	pu dong she qu	3
 葡京	pu jing	1111
@@ -1262,6 +1351,10 @@ sort: by_weight
 葡醛酸钠	pu quan suan na	5
 葡醛酸钠注射液	pu quan suan na zhu she ye	10
 葡香园	pu xiang yuan	114
+蒱	pu
+蒱	pu	3
+蒲	pu
+蒲	pu	16804
 蒲上乡	pu shang xiang	1
 蒲东	pu dong	14
 蒲中	pu zhong	3
@@ -1371,6 +1464,10 @@ sort: by_weight
 蒲黄榆站	pu huang yu zhan	15
 蒲黄榆第三社区	pu huang yu di san she qu	3
 蒲黄榆第二社区	pu huang yu di er she qu	24
+諩	pu
+譜	pu
+谱	pu
+谱	pu	39455
 谱上	pu shang	2525
 谱上去	pu shang qu	100
 谱上来	pu shang lai	100
@@ -1402,9 +1499,19 @@ sort: by_weight
 谱聚类	pu ju lei	427
 谱表	pu biao	1365
 谱面	pu mian	77
+贌	pu
+蹼	pu
+蹼	pu	399
 蹼泳	pu yong	999
 蹼足	pu zu	6
 蹼趾	pu zhi	4
+酺	pu
+酺	pu	18
+鋪	pu
+鏷	pu
+鐠	pu
+铺	pu
+铺	pu	124784
 铺上	pu shang	21420
 铺上乡	pu shang xiang	1
 铺上去	pu shang qu	100
@@ -1545,5 +1652,43 @@ sort: by_weight
 铺面	pu mian	2448
 铺面房	pu mian fang	455
 铺首	pu shou	790
+镤	pu
+镤	pu	6
 镤元素	pu yuan su	100
+镨	pu
+镨	pu	11
 镨元素	pu yuan su	100
+陠	pu
+鯆	pu
+𠽾	pu
+𡜵	pu
+𡰿	pu
+𢈲	pu
+𢼹	pu
+𣋏	pu
+𤆝	pu
+𤗵	pu
+𤰑	pu
+𤾣	pu
+𥐁	pu
+𥐚	pu
+𥛟	pu
+𥣈	pu
+𥼜	pu
+𦬙	pu
+𦮑	pu
+𧙛	pu
+𧦞	pu
+𧭎	pu
+𧱹	pu
+𨁏	pu
+𨛥	pu
+𨽂	pu
+𩂗	pu
+𩑀	pu
+𩪛	pu
+𩯱	pu
+𪋡	pu
+𪒢	pu
+𪔿	pu
+𪖈	pu

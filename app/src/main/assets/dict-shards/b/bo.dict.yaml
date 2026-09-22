@@ -3,10 +3,65 @@ name: merged.bo
 version: "1.0"
 sort: by_weight
 ...
+㑟	bo
+㔜	bo
+㖕	bo
+㗘	bo
+㙸	bo
+㝿	bo
+㟑	bo
+㧳	bo
+㩧	bo
+㩭	bo
+㪍	bo
+㬍	bo
+㬧	bo
+㱟	bo
+㴾	bo
+㶿	bo
+㹀	bo
+㼎	bo
+㼣	bo
+䂍	bo
+䊿	bo
+䍨	bo
+䍸	bo
+䑈	bo
+䒄	bo
+䗚	bo
+䙏	bo
+䞳	bo
+䟆	bo
+䟛	bo
+䟦	bo
+䢌	bo
+䢪	bo
+䥬	bo
+䨌	bo
+䪇	bo
+䪬	bo
+䫊	bo
+䬪	bo
+䭦	bo
+䭯	bo
+䮀	bo
+䮂	bo
+䯋	bo
+䰊	bo
+䰷	bo
+䳁	bo
+䵄	bo
+䵗	bo
+䶈	bo
+亳	bo
+亳	bo	842
 亳州	bo zhou	28745
 亳州中院	bo zhou zhong yuan	87
 亳州学院	bo zhou xue yuan	193
 亳州市	bo zhou shi	9430
+仢	bo
+伯	bo
+伯	bo	289144
 伯丁罕	bo ding han	15
 伯乐	bo le	28940
 伯乐一顾	bo le yi gu	100
@@ -138,7 +193,15 @@ sort: by_weight
 伯鸿书馆	bo hong shu guan	100
 伯齐利厄斯	bo qi li e si	100
 伯龙勋爵	bo long xun jue	1
+佛	bo
+侼	bo
+僠	bo
+僰	bo
+僰	bo	88
 僰人悬棺	bo ren xuan guan	100
+剝	bo
+剥	bo
+剥	bo	42275
 剥下	bo xia	4880
 剥不了	bo bu liao	10
 剥了	bo le	1180
@@ -186,6 +249,8 @@ sort: by_weight
 剥蚀	bo shi	4625
 剥蚀作用	bo shi zuo yong	160
 剥除	bo chu	2610
+勃	bo
+勃	bo	81808
 勃兰特	bo lan te	1010
 勃兰登堡	bo lan deng bao	100
 勃兴	bo xing	1
@@ -230,6 +295,8 @@ sort: by_weight
 勃起硬度	bo qi ying du	100
 勃郎宁	bo lang ning	100
 勃长期	bo chang qi	100
+博	bo
+博	bo	186289
 博世电机	bo shi dian ji	65
 博世蜗牛喇叭	bo shi wo niu la ba	3
 博主	bo zhu	9999
@@ -612,18 +679,39 @@ sort: by_weight
 博鳌亚洲论坛	bo ao ya zhou lun tan	7730
 博鳌论坛	bo ao lun tan	184
 博鳌镇	bo ao zhen	100
+卜	bo
+卜	bo	2000
+哱	bo
+哱	bo	11
+啵	bo
+啵	bo	2483
 啵一个	bo yi ge	2585
 啵儿一个	bo er yi ge	2585
 啵啵	bo bo	1365
 啵啵茶	bo bo cha	100
+噃	bo
+嚗	bo
+壆	bo
+孛	bo
+孛	bo	3274
 孛儿只斤	bo er zhi jin	9999
 孛儿帖	bo er tie	100
 孛罗帖木儿	bo luo tie mu er	100
+孹	bo
+嶓	bo
+嶓	bo	11
+帛	bo
+帛	bo	8139
 帛书	bo shu	7175
 帛画	bo hua	1860
 帛缕	bo lv	55
 帛莎菲什	bo sha fei shi	1
 帛诗琦	bo shi qi	1
+彴	bo
+愽	bo
+懪	bo
+拨	bo
+拨	bo	105755
 拨一拨	bo yi bo	222
 拨万论千	bo wan lun qian	100
 拨万轮千	bo wan lun qian	100
@@ -770,6 +858,9 @@ sort: by_weight
 拨鱼	bo yu	1
 拨鱼儿面	bo yu er mian	1
 拨鱼面	bo yu mian	100
+挬	bo
+搏	bo
+搏	bo	49712
 搏一搏	bo yi bo	3333
 搏一方天地	bo yi fang tian di	100
 搏出一个未来	bo chu yi ge wei lai	100
@@ -791,6 +882,9 @@ sort: by_weight
 搏牛之虻	bo niu zhi meng	3
 搏砂弄汞	bo sha nong gong	1
 搏至无憾	bo zhi wu han	171
+撥	bo
+播	bo
+播	bo	84353
 播一播	bo yi bo	111
 播下	bo xia	14625
 播下去	bo xia qu	135
@@ -892,10 +986,15 @@ sort: by_weight
 播音员	bo yin yuan	21740
 播音室	bo yin shi	1090
 播音系	bo yin xi	100
+擗	bo
+擘	bo
+擘	bo	803
 擘两分星	bo liang fen xing	100
 擘画	bo hua	480
 擘窠书	bo ke shu	9999
 擘肌分理	bo ji fen li	100
+柏	bo
+柏	bo	56086
 柏克曼温度计	bo ke man wen du ji	100
 柏克郡	bo ke jun	100
 柏克里克千佛洞	bo ke li ke qian fo dong	100
@@ -965,12 +1064,24 @@ sort: by_weight
 柏梁诗	bo liang shi	100
 柏莱士	bo lai shi	100
 柏里斯	bo li si	100
+柭	bo
+桲	bo
+桲	bo	1
 桲罗台	bo luo tai	124
 桲罗台村	bo luo tai cun	3
 桲罗台镇	bo luo tai zhen	143
+榑	bo
+檗	bo
+檗	bo	246
 檗谷村	bo gu cun	2
 檗黄粉蝶	bo huang fen die	100
+檘	bo
+欂	bo
+欂	bo	1
 欂栌	bo lu	9999
+殕	bo
+泊	bo
+泊	bo	41521
 泊位	bo wei	32435
 泊位合同	bo wei he tong	6
 泊位工程	bo wei gong cheng	100
@@ -1000,6 +1111,8 @@ sort: by_weight
 泊车辅助	bo che fu zhu	100
 泊车辅助系统	bo che fu zhu xi tong	100
 泊车雷达	bo che lei da	100
+波	bo
+波	bo	377782
 波上寒烟翠	bo shang han yan cui	13
 波丝油糕	bo si you gao	3
 波丽宝	bo li bao	259
@@ -1418,7 +1531,12 @@ sort: by_weight
 波黑全境	bo hei quan jing	10
 波黑小鱥	bo hei xiao gui	1
 波默罗伊	bo mo luo yi	100
+浡	bo
+浡	bo	6
 浡然兴之	bo ran xing zhi	2
+淿	bo
+渤	bo
+渤	bo	4217
 渤哥	bo ge	1111
 渤海	bo hai	80145
 渤海之眼	bo hai zhi yan	100
@@ -1438,8 +1556,15 @@ sort: by_weight
 渤海集团	bo hai ji tuan	12500
 渤澥桑田	bo xie sang tian	100
 渤龙湖	bo long hu	140
+溊	bo
+煿	bo
+牔	bo
+狛	bo
 狛千代	bo qian dai	100
 狛江市	bo jiang shi	2
+猼	bo
+玻	bo
+玻	bo	74100
 玻利瓦尔	bo li wa er	914
 玻利维亚	bo li wei ya	9030
 玻利维亚三角溪鳉	bo li wei ya san jiao xi jiang	1
@@ -1613,11 +1738,31 @@ sort: by_weight
 玻纤行业	bo xian hang ye	100
 玻色-爱因斯坦凝聚	bo se ai yin si tan ning ju	100
 玻色子	bo se zi	100
+瓝	bo
+瓟	bo
+癶	bo
+癷	bo
+皪	bo
+盋	bo
+砵	bo
+砵	bo	18
 砵兰街	bo lan jie	100
+碆	bo
+磻	bo
+礡	bo
+礴	bo
+礴	bo	4039
+秡	bo
+穛	bo
+箔	bo
+箔	bo	1233
 箔头作茧丝皓皓	bo tou zuo jian si hao hao	1
 箔材	bo cai	1310
 箔条	bo tiao	855
 箔片	bo pian	2
+簙	bo
+簸	bo
+簸	bo	9837
 簸动	bo dong	35
 簸土扬沙	bo tu yang sha	100
 簸弄	bo nong	105
@@ -1631,6 +1776,14 @@ sort: by_weight
 簸箕营村	bo ji ying cun	2
 簸箕街	bo ji jie	7
 簸荡	bo dang	100
+簿	bo
+糪	bo
+紴	bo
+缽	bo
+肑	bo
+胉	bo
+脖	bo
+脖	bo	119048
 脖子	bo zi	146535
 脖子上	bo zi shang	39265
 脖子上挂着	bo zi shang gua zhe	100
@@ -1645,7 +1798,10 @@ sort: by_weight
 脖颈儿	bo geng er	9999
 脖颈处	bo geng chu	11
 脖颈子	bo geng zi	155
+膊	bo
+膊	bo	73983
 膊风板	bo feng ban	100
+般	bo
 般若	bo re	49600
 般若寺	bo re si	1
 般若库	bo re ku	1
@@ -1656,13 +1812,21 @@ sort: by_weight
 般若波罗蜜多	bo re bo luo mi duo	100
 般若波罗蜜多心经	bo re bo luo mi duo xin jing	100
 般若经	bo re jing	4105
+舶	bo
+舶	bo	2433
 舶来	bo lai	3075
 舶来品	bo lai pin	6625
 舶来词	bo lai ci	100
 舶来货	bo lai huo	100
 舶梨榕	bo li rong	2
+艊	bo
+艴	bo
+艴	bo	1
 艴然	bo ran	1
 艴然不悦	bo ran bu yue	1
+苩	bo
+菠	bo
+菠	bo	4056
 菠菜	bo cai	64800
 菠菜丸子汤	bo cai wan zi tang	17
 菠菜卧果	bo cai wo guo	1
@@ -1707,6 +1871,13 @@ sort: by_weight
 菠萝龙眼鱼	bo luo long yan yu	1
 菠薐菜	bo leng cai	100
 菠饺鱼肚	bo jiao yu du	13
+萡	bo
+葧	bo
+蔔	bo
+蕃	bo
+蕃	bo	1
+薄	bo
+薄	bo	143289
 薄云	bo yun	1
 薄产	bo chan	200
 薄伽丘	bo jia qiu	100
@@ -1774,8 +1945,23 @@ sort: by_weight
 薄面	bo mian	1630
 薄饼	bo bing	1036
 薄鳅	bo qiu	1
+蘗	bo
+蚾	bo
+袯	bo
+袯	bo	1
 袯襫	bo shi	1
+袰	bo
+袹	bo
+襏	bo
+襮	bo
+誖	bo
+謈	bo
+譒	bo
+趵	bo
+趵	bo	341
 趵趵	bo bo	1
+跛	bo
+跛	bo	5214
 跛子	bo zi	2765
 跛着脚	bo zhe jiao	100
 跛脚	bo jiao	3180
@@ -1785,7 +1971,19 @@ sort: by_weight
 跛行症	bo xing zheng	100
 跛足	bo zu	2530
 跛鳖千里	bo bie qian li	100
+踣	bo
+踣	bo	83
 踣地呼天	bo di hu tian	1
+蹳	bo
+郣	bo
+鈸	bo
+鉑	bo
+鉢	bo
+鋍	bo
+鎛	bo
+鑮	bo
+钵	bo
+钵	bo	7494
 钵仔禾虫	bo zai he chong	54
 钵仔糕	bo zai gao	100
 钵头	bo tou	5
@@ -1794,7 +1992,11 @@ sort: by_weight
 钵满	bo man	2
 钵盂	bo yu	2030
 钵钵鸡	bo bo ji	850
+钹	bo
+钹	bo	1376
 钹子	bo zi	3
+铂	bo
+铂	bo	1444
 铂丽商务酒店	bo li shang wu jiu dian	5
 铂元素	bo yuan su	100
 铂澜咖啡	bo lan ka fei	3
@@ -1804,10 +2006,25 @@ sort: by_weight
 铂金唱片	bo jin chang pian	100
 铂金矽胶	bo jin xi jiao	100
 铂金系列	bo jin xi lie	100
+镈	bo
+镈	bo	54
+餑	bo
+餺	bo
+饽	bo
+饽	bo	1827
 饽饽	bo bo	4255
 饽饽二品	bo bo er pin	39
 饽饽四品	bo bo si pin	41
+馎	bo
 馎饦	bo tuo	1
+馛	bo
+馞	bo
+馞	bo	4
+駁	bo
+駮	bo
+驋	bo
+驳	bo
+驳	bo	46073
 驳不了	bo bu liao	25
 驳不倒	bo bu dao	240
 驳价	bo jia	9999
@@ -1840,7 +2057,103 @@ sort: by_weight
 驳难	bo nan	9999
 驳面子	bo mian zi	10
 驳骨丹	bo gu dan	2
+髆	bo
+髉	bo
+魄	bo
+鮊	bo
+鱍	bo
+鲌	bo
+鲌	bo	14
+鵓	bo
+鹁	bo
+鹁	bo	100
 鹁鸪	bo gu	405
 鹁鸽	bo ge	25
 鹁鸽市	bo ge shi	2
+𠧛	bo
+𠮭	bo
+𠱀	bo
+𠴸	bo
+𠷺	bo
+𠸳	bo
+𠺣	bo
+𡀖	bo
+𡅂	bo
+𡋯	bo
+𡯳	bo
+𡯷	bo
+𢂍	bo
+𢐾	bo
+𢠺	bo
+𢣞	bo
+𢩞	bo
+𢫯	bo
+𢺽	bo
+𣋵	bo
+𣛓	bo
+𣧧	bo
+𣭷	bo
+𣽡	bo
+𤃵	bo
+𤒔	bo
+𤕝	bo
+𤗳	bo
+𤗺	bo
+𤚽	bo
+𤜧	bo
+𤶋	bo
+𤾝	bo
+𤿑	bo
+𥜖	bo
+𥭖	bo
+𥮯	bo
+𥴮	bo
+𥸥	bo
+𥸨	bo
+𥹸	bo
+𦃙	bo
+𦋉	bo
+𦢊	bo
+𦤚	bo
+𦤣	bo
+𦯉	bo
+𦰬	bo
+𦲱	bo
+𦼭	bo
+𦽮	bo
+𧇚	bo
+𧘟	bo
+𧙄	bo
+𧟱	bo
+𧲯	bo
+𧿲	bo
+𨈩	bo
+𨍭	bo
+𨏫	bo
+𨨏	bo
+𨭂	bo
+𩃶	bo
+𩄿	bo
+𩈔	bo
+𩌏	bo
+𩍿	bo
+𩏯	bo
+𩓐	bo
+𩗀	bo
+𩗒	bo
+𩗓	bo
+𩜥	bo
+𩟕	bo
+𩣡	bo
+𩬸	bo
+𩯌	bo
+𩱚	bo
+𩷚	bo
+𩽛	bo
+𪌰	bo
+𪍡	bo
+𪓜	bo
+𪙍	bo
+𪚷	bo
+𬭛	bo	2
 𬭛元素	bo yuan su	100

@@ -3,7 +3,249 @@ name: merged.yi
 version: "1.0"
 sort: by_weight
 ...
+㐆	yi
+㐆	yin
+㐌	yi
+㐹	yi
+㐺	yin
+㑊	yi
+㑊	yi	1
+㑜	yi
+㑞	ying
+㑥	yi
+㓷	yi
+㔎	yi
+㔕	yi
+㔭	yi
+㔴	yi
+㕂	yin
+㕈	yi
+㕥	yi
+㕲	ying
+㖂	yi
+㖗	yin
+㗃	yin
+㘁	yi
+㘈	yi
+㘊	yi
+㙠	yi
+㙪	yi
+㙬	yin
+㙯	yi
+㚞	ying
+㚤	yi
+㚦	yi
+㛄	yi
+㛕	yi
+㛳	yi
+㜋	yi
+㜒	yi
+㜲	ying
+㝖	yi
+㝖	yin
+㝙	yin
+㝣	yi
+㞔	yi
+㞤	yin
+㞾	yi
+㠖	yi
+㠯	yi
+㡥	yin
+㡫	yi
+㡼	yi
+㢍	ying
+㢞	yi
+㣂	yi
+㣇	yi
+㣧	yin
+㣻	yi
+㥋	yi
+㥯	yin
+㥲	yin
+㥴	yi
+㥷	yi
+㥼	yin
+㦉	yi
+㦤	yi
+㦩	yin
+㦹	ying
+㦾	yi
+㧈	yin
+㧢	yin
+㨕	ying
+㩘	yi
+㪦	yin
+㫊	yi
+㬐	ying
+㯋	ying
+㰘	yi
+㰝	yi
+㰻	yi
+㱃	yin
+㱅	yi
+㱲	yi
+㲟	ying
+㲲	yi
+㲼	yi
+㳑	yi
+㳖	yi
+㴁	yi
+㴄	ying
+㴈	yin
+㴒	yi
+㴔	yi
+㴽	yin
+㵝	yi
+㵩	yi
+㵫	yi
+㵬	ying
+㶈	ying
+㶏	yin
+㶠	yi
+㸒	yin
+㸣	yi
+㸧	yin
+㹑	yi
+㹓	yi
+㹜	yin
+㹞	yin
+㹫	yi
+㹭	yi
+㺿	yi
+㼆	ying
+㼉	yin
+㼢	yi
+㽈	yi
+㾙	yin
+㾨	yi
+㿘	ying
+䀰	ying
+䀴	ying
+䁆	yi
+䁐	ying
+䁝	ying
+䂽	yi
+䃞	yi
+䃷	ying
+䄁	yi
+䄄	yin
+䄩	yi
+䄬	yi
+䄿	yi
+䆿	yi
+䇙	yin
+䇣	yi
+䇩	yi
+䇵	yi
+䇼	yi
+䉨	yi
+䋚	yi
+䋵	yi
+䋼	ying
+䌠	yin
+䌥	yin
+䌻	yi
+䎈	yi
+䏌	yi
+䐅	yi
+䐖	yi
+䐙	yi
+䑄	yi
+䑉	ying
+䑍	ying
+䑛	yi
+䒡	yin
+䒢	ying
+䓃	yi
+䓄	yin
+䓈	yi
+䓨	ying	1
+䓹	yi
+䔇	yi
+䔔	ying
+䔟	yi
+䔬	yi
+䕃	yin
+䕍	yi
+䕥	yi
+䕦	ying
+䕾	yin
+䖁	yi
+䖊	yi
+䖌	yi
+䖐	yin
+䖜	yin
+䗑	yi
+䗞	yin
+䗟	yi
+䗷	yi
+䘝	yi
+䘸	yi
+䙬	ying
+䚆	ying
+䚷	yi
+䚿	yin
+䛖	yi
+䜣	yin
+䝘	yi
+䝝	yi
+䝯	yi
+䞅	yi
+䠴	yin
+䡛	yin
+䡨	yin
+䢃	yi
+䣐	ying
+䣡	yi
+䣧	yi
+䣱	yi
+䤁	yin
+䤃	yin
+䤝	ying
+䤭	yi
+䤰	ying
+䤺	yin
+䦴	yi
+䧅	yi
+䧇	yi
+䧧	yi
+䨍	ying
+䨙	yin
+䨸	yin
+䩟	yi
+䪩	yin
+䪯	ying
+䬁	yi
+䬥	yi
+䬮	yi
+䭂	yi
+䭇	yi
+䭊	ying
+䭗	ying
+䭘	ying
+䭞	yi
+䭲	yi
+䭿	yi
+䮊	yi
+䯆	yi
+䰙	yi
+䰯	yi
+䱈	yi
+䱌	yi
+䱒	yi
+䲑	yi
+䲟	yin
+䲟	yin	5
 䲟鱼	yin yu	3
+䳬	yi
+䴊	yi
+䴛	yin
+䴦	yin
+䴬	yi
+䵝	yi
+䵥	ying
+一	yi
+一	yi	35278860
 一·二八事变	yi er ba shi bian	190
 一〇〇〇	yi ling ling ling	100
 一〇〇〇年	yi ling ling ling nian	100
@@ -12385,7 +12627,12 @@ sort: by_weight
 一龙九种	yi long jiu zhong	1
 一龙图	yi long tu	100
 一龙生九种	yi long sheng jiu zhong	3
+乁	yi
+乂	yi
+乂	yi	418
 乂安省	yi an sheng	100
+义	yi
+义	yi	667264
 义不反顾	yi bu fan gu	2
 义不取容	yi bu qu rong	1
 义不容情	yi bu rong qing	475
@@ -12573,6 +12820,10 @@ sort: by_weight
 义齿	yi chi	9965
 义齿基托树脂	yi chi ji tuo shu zhi	1
 义齿性口炎	yi chi xing kou yan	21
+乊	yi
+乑	yin
+乙	yi
+乙	yi	32048
 乙丑	yi chou	10715
 乙丙橡胶	yi bing xiang jiao	1460
 乙二胺	yi er an	4665
@@ -12744,6 +12995,11 @@ sort: by_weight
 乙醚	yi mi	13275
 乙醛	yi quan	7305
 乙醛酸	yi quan suan	360
+乚	yi
+乛	yi
+亄	yi
+亦	yi
+亦	yi	205335
 亦不	yi bu	112465
 亦不会	yi bu hui	100
 亦不例外	yi bu li wai	2260
@@ -12865,6 +13121,8 @@ sort: by_weight
 亦需要	yi xu yao	1115
 亦非	yi fei	29430
 亦须	yi xu	8035
+亿	yi
+亿	yi	843650
 亿万	yi wan	48760
 亿万人民	yi wan ren min	4760
 亿万家财	yi wan jia cai	240
@@ -12928,6 +13186,10 @@ sort: by_weight
 亿邮安全增强电子邮件系统	yi you an quan zeng qiang dian zi you jian xi tong	87
 亿阳信通	yi yang xin tong	35
 亿霖木业	yi lin mu ye	2383
+仡	yi
+仡	yi	1
+以	yi
+以	yi	6523162
 以一个	yi yi ge	54335
 以一儆百	yi yi jing bai	321
 以一击十	yi yi ji shi	17
@@ -14268,6 +14530,8 @@ sort: by_weight
 以黄金注者	yi huang jin zhu zhe	1
 以黑为白	yi hei wei bai	3
 以黑为美	yi hei wei mei	100
+仪	yi
+仪	yi	137332
 仪井镇	yi jing zhen	5
 仪仗	yi zhang	5550
 仪仗之马	yi zhang zhi ma	340
@@ -14347,6 +14611,9 @@ sort: by_weight
 仪轨	yi gui	65
 仪陇	yi long	3205
 仪陇县	yi long xian	2525
+伇	yi
+伊	yi
+伊	yi	248425
 伊万	yi wan	12375
 伊万丘克	yi wan qiu ke	5
 伊万斯	yi wan si	2
@@ -14818,11 +15085,23 @@ sort: by_weight
 伊鲁坎吉	yi lu kan ji	3
 伊鲁坎吉水母	yi lu kan ji shui mu	3
 伊鲁坎吉综合征	yi lu kan ji zong he zheng	3
+伒	yin
+伿	yi
+佁	yi
+佁	yi	5
+佚	yi
+佚	yi	3148
 佚书	yi shu	4
 佚名	yi ming	500273
 佚失	yi shi	404
 佚文	yi wen	991
+佾	yi
+佾	yi	240
 佾舞生	yi wu sheng	100
+侇	yi
+侌	yin
+依	yi
+依	yi	679811
 依个人	yi ge ren	100
 依丽达	yi li da	1
 依之妮	yi zhi ni	13
@@ -15245,6 +15524,9 @@ sort: by_weight
 依风首丘	yi feng shou qiu	1
 依马打正红花油	yi ma da zheng hong hua you	1
 依高拿斜间	yi gao na xie jian	1
+俋	yi
+倚	yi
+倚	yi	43627
 倚为长城	yi wei chang cheng	4
 倚人庐下	yi ren lu xia	1
 倚仗	yi zhang	5480
@@ -15323,11 +15605,34 @@ sort: by_weight
 倚马之才	yi ma zhi cai	2
 倚马千言	yi ma qian yan	100
 倚马可待	yi ma ke dai	220
+偀	ying
+偯	yi
+僌	ying
+儀	yi
+億	yi
+儗	yi
+兿	yi
+冘	yin
+冝	yi
+凐	yin
+刈	yi
+刈	yi	410
 刈割	yi ge	1560
 刈包	yi bao	188
 刈草	yi cao	175
 刈草机	yi cao ji	100
+劓	yi
+劓	yi	74
 劓刑	yi xing	198
+劮	yi
+勚	yi
+勚	yi	5
+勩	yi
+匇	yi
+匜	yi
+匜	yi	5
+医	yi
+医	yi	448630
 医一医	yi yi yi	123
 医不好	yi bu hao	675
 医不自医	yi bu zi yi	100
@@ -15880,6 +16185,8 @@ sort: by_weight
 医馆	yi guan	3595
 医馆笑传	yi guan xiao zhuan	100
 医马论典	yi ma lun dian	100
+印	yin
+印	yin	328075
 印上	yin shang	15435
 印上去	yin shang qu	850
 印上来	yin shang lai	100
@@ -16682,6 +16989,10 @@ sort: by_weight
 印随行为	yin sui xing wei	1
 印鳍半下口鲶	yin qi ban xia kou nian	1
 印鼠客蚤	yin shu ke zao	100
+叕	yi
+吚	yi
+吟	yin
+吟	yin	147887
 吟了一首诗	yin le yi shou shi	100
 吟出	yin chu	2150
 吟叫	yin jiao	378
@@ -16710,6 +17021,8 @@ sort: by_weight
 吟鞭东指即天涯	yin bian dong zhi ji tian ya	1
 吟风咏月	yin feng yong yue	9999
 吟风弄月	yin feng nong yue	630
+吲	yin
+吲	yin	56
 吲哚	yin duo	4775
 吲哚丁酸	yin duo ding suan	100
 吲哚丙酸	yin duo bing suan	100
@@ -16719,9 +17032,17 @@ sort: by_weight
 吲哚菁绿	yin duo jing lv	6
 吲达帕胺	yin da pa an	8
 吲达帕胺片	yin da pa an pian	3
+呓	yi
+呓	yi	6086
 呓语	yi yu	7810
 呓语森林	yi yu sen lin	100
+呭	yi
+呹	yi
+咦	yi
+咦	yi	45558
 咦了一声	yi le yi sheng	100
+咿	yi
+咿	yi	5338
 咿呀	yi ya	6550
 咿呀呀	yi ya ya	100
 咿呀咿呀	yi ya yi ya	100
@@ -16731,10 +17052,20 @@ sort: by_weight
 咿咿唔唔	yi yi wu wu	100
 咿哑学语	yi ya xue yu	100
 咿唔	yi wu	1
+唈	yi
+唫	yin
+啨	ying
+喑	yin
+喑	yin	1282
 喑呜叱咤	yin wu chi zha	3
 喑哑	yin ya	2470
 喑恶叱咤	yin e chi zha	100
+営	ying
+嗌	yi
+嗌	yi	1
 嗌不容粒	yi bu rong li	100
+嘤	ying
+嘤	ying	7662
 嘤其鸣矣	ying qi ming yi	170
 嘤咛	ying ning	1930
 嘤嘤	ying ying	54940
@@ -16742,7 +17073,19 @@ sort: by_weight
 嘤嘤狂吠	ying ying kuang fei	100
 嘤鸣	ying ming	155
 嘤鸣求友	ying ming qiu you	1
+噖	yin
+噟	ying
+噫	yi
+噫	yi	3418
 噫吁嚱	yi xu xi	1000
+噾	yin
+嚚	yin
+嚚	yin	13
+嚶	ying
+囈	yi
+囙	yin
+因	yin
+因	yin	2334623
 因不满	yin bu man	5155
 因业务调整	yin ye wu tiao zheng	100
 因个人	yin ge ren	9365
@@ -17094,8 +17437,30 @@ sort: by_weight
 因雨暂停	yin yu zan ting	100
 因风吹火	yin feng chui huo	100
 因风想玉珂	yin feng xiang yu ke	3
+圁	yin
+圛	yi
+圯	yi
+圯	yi	145
+圻	yin
+坄	yi
+垔	yin
+垠	yin
+垠	yin	5840
 垠禄新界	yin lu xin jie	100
+垼	yi
+垽	yin
+埶	yi
+埸	yi
+埸	yi	280
+堙	yin
+堙	yin	87
 堙谷堑山	yin gu qian shan	1
+堷	yin
+塋	ying
+墿	yi
+壱	yi
+壹	yi
+壹	yi	2321
 壹传媒	yi chuan mei	7
 壹号土猪	yi hao tu zhu	81
 壹周刊	yi zhou kan	100
@@ -17103,10 +17468,16 @@ sort: by_weight
 壹基金	yi ji jin	100
 壹心娱乐	yi xin yu le	100
 壹米滴答	yi mi di da	65
+夁	yi
+夃	ying
+夤	yin
+夤	yin	596
 夤夜	yin ye	995
 夤畏	yin wei	2
 夤缘	yin yuan	1
 夤缘攀附	yin yuan pan fu	100
+夷	yi
+夷	yi	50315
 夷为平地	yi wei ping di	4625
 夷则	yi ze	2
 夷坚志	yi jian zhi	100
@@ -17131,9 +17502,14 @@ sort: by_weight
 夷陵大道	yi ling da dao	44
 夷陵广场	yi ling guang chang	50
 夷陵春卷	yi ling chun juan	2
+奕	yi
+奕	yi	26802
 奕䜣	yi xin	1
 奕奕	yi yi	6315
 奕𬣞	yi zhu	2
+妷	yi
+姨	yi
+姨	yi	115750
 姨丈	yi zhang	3565
 姨儿	yi er	225
 姨太	yi tai	8700
@@ -17158,6 +17534,8 @@ sort: by_weight
 姨表	yi biao	610
 姨表亲	yi biao qin	100
 姨表兄弟	yi biao xiong di	85
+姻	yin
+姻	yin	72158
 姻亲	yin qin	2740
 姻亲关系	yin qin guan xi	3090
 姻伯	yin bo	90
@@ -17167,6 +17545,10 @@ sort: by_weight
 姻缘由天定	yin yuan you tian ding	100
 姻缘石	yin yuan shi	100
 姻缘线	yin yuan xian	161
+婣	yin
+婬	yin
+婴	ying
+婴	ying	76456
 婴儿	ying er	354645
 婴儿体重	ying er ti zhong	100
 婴儿健脾散	ying er jian pi san	3
@@ -17216,11 +17598,31 @@ sort: by_weight
 婴童行业	ying tong hang ye	100
 婴金铁受辱	ying jin tie shou ru	2
 婴鳞获罪	ying lin huo zui	1
+媐	yi
+媖	ying
+媖	ying	3
+媵	ying
+媵	ying	275
+嫈	ying
+嫕	yi
+嫕	yi	31
+嫛	yi
 嫛婗	yi ni	1
+嬄	yi
+嬑	yi
+嬟	yi
+嬰	ying
+嬴	ying
+嬴	ying	16436
 嬴子楚	ying zi chu	4
 嬴政	ying zheng	8260
 嬴稷	ying ji	17
 嬴驷	ying si	2
+孆	ying
+孾	ying
+宐	yi
+宜	yi
+宜	yi	148148
 宜丰	yi feng	3220
 宜丰县	yi feng xian	2150
 宜丰县工业园区	yi feng xian gong ye yuan qu	7
@@ -17365,6 +17767,10 @@ sort: by_weight
 宜阳新区	yi yang xin qu	10
 宜颦宜笑	yi pin yi xiao	100
 宜黄县	yi huang xian	1150
+宧	yi
+宧	yi	20
+寅	yin
+寅	yin	16337
 寅卯	yin mao	5510
 寅吃卯粮	yin chi mao liang	1735
 寅忧夕惕	yin you xi ti	100
@@ -17375,6 +17781,11 @@ sort: by_weight
 寅虎卯兔	yin hu mao tu	161
 寅虎年	yin hu nian	100
 寅虎贺岁	yin hu he sui	100
+寱	yi
+寲	yi
+射	yi
+尹	yin
+尹	yin	65600
 尹世明	yin shi ming	6
 尹中立	yin zhong li	220
 尹丽川	yin li chuan	46
@@ -17428,7 +17839,11 @@ sort: by_weight
 尹邢避面	yin xing bi mian	100
 尹锡悦	yin xi yue	118
 尹食堂	yin shi tang	100
+尾	yi
+尾	yi	5000
 尾儿	yi er	1111
+屹	yi
+屹	yi	8644
 屹然	yi ran	1075
 屹然不动	yi ran bu dong	31
 屹立	yi li	15026
@@ -17439,13 +17854,31 @@ sort: by_weight
 屹立在	yi li zai	100
 屹立在世	yi li zai shi	35
 屹立着	yi li zhe	2105
+峄	yi
+峄	yi	700
 峄县八景	yi xian ba jing	1
 峄城万亩榴园	yi cheng wan mu liu yuan	1
 峄城区	yi cheng qu	920
 峄城石榴	yi cheng shi liu	4
 峄山	yi shan	2
+峓	yi
+峾	yin
+崟	yin
+崟	yin	2
 崟崎历落	yin qi li luo	1
 崟崎磊落	yin qi lei luo	1
+崯	yin
+崺	yi
+嵤	ying
+嶧	yi
+嶬	yi
+嶷	yi
+嶷	yi	1221
+嶾	yin
+巆	ying
+巊	ying
+已	yi
+已	yi	3720796
 已上	yi shang	16355
 已上传	yi shang chuan	100
 已上屏	yi shang ping	100
@@ -18387,6 +18820,12 @@ sort: by_weight
 已魔怔	yi mo zheng	100
 已黑	yi hei	3333
 已黑化	yi hei hua	152
+巸	yi
+帟	yi
+帠	yi
+幆	yi
+应	ying
+应	ying	1777404
 应不	ying bu	44105
 应不应	ying bu ying	1635
 应不应该	ying bu ying gai	100
@@ -19281,7 +19720,15 @@ sort: by_weight
 应验	ying yan	15070
 应高度重视	ying gao du zhong shi	100
 应龙	ying long	10535
+庡	yi
+廕	yin
+廙	yi
+廙	yi	42
+廮	ying
+廴	yin
 廴部	yin bu	1
+异	yi
+异	yi	605892
 异丁烯	yi ding xi	1270
 异丁烷	yi ding wan	960
 异丁苯丙酸	yi ding ben bing suan	100
@@ -19870,9 +20317,13 @@ sort: by_weight
 异龄林	yi ling lin	3
 异𫚭	yi lie	3
 异𫫇唑	yi e zuo	100
+弈	yi
+弈	yi	11679
 弈仙牌	yi xian pai	100
 弈天	yi tian	4745
 弈棋	yi qi	2465
+弋	yi
+弋	yi	5460
 弋不射宿	yi bu she su	13
 弋人何篡	yi ren he cuan	1
 弋兰天	yi lan tian	100
@@ -19884,6 +20335,9 @@ sort: by_weight
 弋阳县	yi yang xian	205
 弋阳腔	yi yang qiang	945
 弋阳醋鸡	yi yang cu ji	4
+弌	yi
+引	yin
+引	yin	489419
 引上	yin shang	3730
 引上去	yin shang qu	100
 引上来	yin shang lai	100
@@ -20343,6 +20797,11 @@ sort: by_weight
 引魂幡	yin hun fan	9999
 引黄灌区	yin huang guan qu	100
 引龙挂	yin long gua	100
+弬	yi
+彛	yi
+彜	yi
+彝	yi
+彝	yi	4376
 彝人	yi ren	368
 彝人制造	yi ren zhi zao	100
 彝伦攸叙	yi lun you xu	6
@@ -20358,6 +20817,9 @@ sort: by_weight
 彝良县	yi liang xian	700
 彝语	yi yu	147
 彝鼎圭璋	yi ding gui zhang	1
+彞	yi
+影	ying
+影	ying	1067165
 影不了	ying bu liao	1
 影不影响	ying bu ying xiang	100
 影不影响吗	ying bu ying xiang ma	100
@@ -20731,6 +21193,9 @@ sort: by_weight
 影首缚	ying shou fu	100
 影驰	ying chi	111
 影魔	ying mo	9999
+彵	yi
+役	yi
+役	yi	72621
 役于外物	yi yu wai wu	100
 役使	yi shi	3640
 役使动物	yi shi dong wu	100
@@ -20742,6 +21207,8 @@ sort: by_weight
 役畜	yi chu	4
 役种	yi zhong	1
 役龄	yi ling	170
+忆	yi
+忆	yi	229878
 忆不起	yi bu qi	47
 忆不起来	yi bu qi lai	20
 忆与高李辈	yi yu gao li bei	2
@@ -20775,6 +21242,11 @@ sort: by_weight
 忆读书	yi du shu	191
 忆起	yi qi	17185
 忆述	yi shu	2999
+忔	yi
+応	ying
+怈	yi
+怡	yi
+怡	yi	96402
 怡丰新城	yi feng xin cheng	4
 怡丰新都汇	yi feng xin du hui	165
 怡乐	yi le	2565
@@ -20843,12 +21315,21 @@ sort: by_weight
 怡颜悦色	yi yan yue se	100
 怡馨家园	yi xin jia yuan	34
 怡馨花园	yi xin hua yuan	34
+怿	yi
+怿	yi	555
+恞	yi
+悒	yi
+悒	yi	918
 悒悒不乐	yi yi bu le	100
 悒悒不快	yi yi bu kuai	100
 悒悒不欢	yi yi bu huan	100
 悒悒寡欢	yi yi gua huan	100
 悒郁不忿	yi yu bu fen	100
 悒郁寡欢	yi yu gua huan	100
+悘	yi
+悥	yi
+意	yi
+意	yi	3668831
 意万重	yi wan chong	100
 意下	yi xia	1630
 意下如何	yi xia ru he	4490
@@ -21244,12 +21725,34 @@ sort: by_weight
 意韵	yi yun	999
 意风区	yi feng qu	123
 意马心猿	yi ma xin yuan	9999
+愔	yin
+愔	yin	194
+愥	ying
+慇	yin
+慭	yin
+慭	yin	6
+憖	yin
+憗	yin
+憶	yi
+應	ying
+懌	yi
+懚	yin
+懝	yi
+懿	yi
+懿	yi	11429
 懿德	yi de	1650
 懿德园	yi de yuan	1
 懿德路	yi de lu	1
 懿旨	yi zhi	1515
 懿范永存	yi fan yong cun	1
 懿贵妃	yi gui fei	365
+扅	yi
+扅	yi	6
+扆	yi
+扆	yi	45
+扡	yi
+抑	yi
+抑	yi	84901
 抑不住	yi bu zhu	590
 抑亦先觉者	yi yi xian jue zhe	1
 抑制	yi zhi	339455
@@ -21314,6 +21817,9 @@ sort: by_weight
 抑郁状态	yi yu zhuang tai	305
 抑郁症	yi yu zheng	52430
 抑郁程度	yi yu cheng du	100
+拸	yi
+挹	yi
+挹	yi	492
 挹兹注彼	yi zi zhu bi	1
 挹取	yi qu	1
 挹娄	yi lou	4
@@ -21324,16 +21830,38 @@ sort: by_weight
 挹注	yi zhu	1
 挹盈注虚	yi ying zhu xu	1
 挹翠路	yi cui lu	17
+掜	yi
+揖	yi
+揖	yi	12821
 揖别	yi bie	460
 揖盗开门	yi dao kai men	1
 揖让	yi rang	1325
 揖让月在手	yi rang yue zai shou	1
+摬	ying
+撄	ying
+撄	ying	406
+撎	yi
+攍	ying
+攖	ying
+攲	yi
+攺	yi
+敡	yi
+敧	yi
+敼	yi
+斁	yi
+斦	yin
+旑	yi
+旖	yi
+旖	yi	4980
 旖凤蝶	yi feng die	100
 旖凤蝶属	yi feng die shu	100
 旖弄蝶	yi nong die	3
 旖旎	yi ni	1137
 旖旎的	yi ni de	525
 旖旎风光	yi ni feng guang	2455
+旲	ying
+易	yi
+易	yi	690500
 易上手	yi shang shou	2150
 易上网	yi shang wang	100
 易世达	yi shi da	20
@@ -21671,6 +22199,8 @@ sort: by_weight
 易降解	yi jiang jie	100
 易顺鼎	yi shun ding	6
 易鹏飞	yi peng fei	106
+映	ying
+映	ying	119292
 映上	ying shang	7
 映不出	ying bu chu	170
 映不出来	ying bu chu lai	5
@@ -21737,11 +22267,42 @@ sort: by_weight
 映雪	ying xue	5245
 映雪囊萤	ying xue nang ying	5
 映雪读书	ying xue du shu	100
+昳	yi
+昳	yi	301
 昳丽	yi li	2
+景	ying
+景	ying	1
 景从云合	ying cong yun he	100
 景从云集	ying cong yun ji	100
+晹	yi
+暆	yi
+暎	ying
+曀	yi
+曎	yi
+朄	yin
+朠	ying
+杙	yi
+杙	yi	26
+杝	yi
+枍	yi
+枍	yi	1
+枻	yi
+柂	yi
+柍	ying
+栘	yi
+栧	yi
+栶	yin
+栺	yi
+桋	yi
+桜	ying
 桜都字幕	ying du zi mu	100
 桜都字幕组	ying du zi mu zu	100
+桯	ying
+梀	yin
+梬	ying
+棭	yi
+椅	yi
+椅	yi	140068
 椅上	yi shang	21505
 椅垫	yi dian	3570
 椅套	yi tao	4685
@@ -21750,8 +22311,18 @@ sort: by_weight
 椅子胡同	yi zi hu tong	1
 椅披	yi pi	175
 椅背	yi bei	17160
+椬	yi
+椸	yi
+椸	yi	7
+楧	ying
+楹	ying
+楹	ying	872
 楹柱	ying zhu	3
 楹联	ying lian	23190
+榏	yi
+槸	yi
+樱	ying
+樱	ying	68359
 樱与抱月	ying yu bao yue	100
 樱之刻	ying zhi ke	100
 樱之华	ying zhi hua	100
@@ -21899,8 +22470,30 @@ sort: by_weight
 樱雪	ying xue	1705
 樱驼花园	ying tuo hua yuan	91
 樱鳟	ying zun	1
+檃	yin
+檍	yi
+檥	yi
+檭	yin
+檹	yi
+檼	yin
+櫻	ying
+櫽	yin
 櫽栝	yin kuo	1
+櫿	ying
+欥	yi
+欭	yi
+欭	yin
+欹	yi	0
 欹嵚历落	yi qin li luo	100
+歅	yin
+歅	yin	1
+歝	yi
+殔	yi
+殥	yin
+殪	yi
+殪	yi	71
+殷	yin
+殷	yin	59421
 殷一璀	yin yi cui	835
 殷世航	yin shi hang	104
 殷亭如	yin ting ru	100
@@ -21978,6 +22571,9 @@ sort: by_weight
 殷鉴不远	yin jian bu yuan	460
 殷门	yin men	1
 殷门穴	yin men xue	1
+殹	yi
+毅	yi
+毅	yi	73576
 毅力	yi li	74710
 毅力号	yi li hao	152
 毅力胡萝卜	yi li hu luo bo	100
@@ -21990,12 +22586,17 @@ sort: by_weight
 毅然决裂	yi ran jue lie	45
 毅然投入	yi ran tou ru	245
 毅行者	yi xing zhe	100
+毉	yi
+氤	yin
+氤	yin	4163
 氤氤氲氲	yin yin yun yun	190
 氤氲	yin yun	5375
 氤氲之息	yin yun zhi xi	100
 氤氲使者	yin yun shi zhe	1
 氤氲大使	yin yun da shi	1
 氤氲着	yin yun zhe	100
+沂	yi
+沂	yi	8174
 沂南	yi nan	3380
 沂南县	yi nan xian	2865
 沂城街道	yi cheng jie dao	179
@@ -22022,12 +22623,29 @@ sort: by_weight
 沂蒙精神	yi meng jing shen	156
 沂蒙红色影视基地	yi meng hong se ying shi ji di	100
 沂蒙黑猪	yi meng hei zhu	3
+沶	yi
+泄	yi
+泆	yi
+泿	yin
+洇	yin
+洇	yin	888
 洇墨	yin mo	1357
 洇开	yin kai	123
 洇润	yin run	2
 洇湿	yin shi	1357
 洇湿了	yin shi le	122
 洇溜镇	yin liu zhen	131
+洕	yin
+洟	yi
+洢	yi
+洢	yi	18
+浂	yi
+浥	yi
+浥	yi	50
+浧	ying
+浳	yi
+淫	yin
+淫	yin	73135
 淫乐	yin le	2680
 淫乐	yin yue	2
 淫书	yin shu	2315
@@ -22133,7 +22751,19 @@ sort: by_weight
 淫鬼	yin gui	80
 淫魔	yin mo	666
 淫魔色鬼	yin mo se gui	100
+淾	yin
+渏	yi
+渶	ying
+湙	yi
+湚	yin
+湮	yin
+湮	yin	0
+溁	ying
+溁	ying	11
 溁湾路	ying wan lu	55
+溋	ying
+溢	yi
+溢	yi	47668
 溢于	yi yu	2325
 溢于言外	yi yu yan wai	100
 溢于言表	yi yu yan biao	12630
@@ -22175,18 +22805,40 @@ sort: by_weight
 溢美溢恶	yi mei yi e	100
 溢胶	yi jiao	6234
 溢言虚美	yi yan xu mei	1
+溵	yin
+溵	yin	2
+滎	ying
+滛	yin
+滢	ying
+滢	ying	5356
 滢园餐厅	ying yuan can ting	1
 滢水山庄	ying shui shan zhuang	114
 滢滢	ying ying	1555
+漪	yi
+漪	yi	24948
 漪景园	yi jing yuan	2
 漪汾小区	yi fen xiao qu	17
 漪汾桥	yi fen qiao	148
 漪汾桥西	yi fen qiao xi	25
 漪澜	yi lan	1
 漪澜不兴	yi lan bu xing	100
+潁	ying
+潆	ying
+潆	ying	361
 潆洄	ying hui	290
 潆溪乡	ying xi xiang	9
 潆绕	ying rao	1
+潩	yi
+潩	yi	1
+澺	yi
+濙	ying
+濚	ying
+濥	yin
+濦	yin
+濴	ying
+瀅	ying
+瀛	ying
+瀛	ying	7781
 瀛台	ying tai	118
 瀛寰	ying huan	430
 瀛江	ying jiang	4
@@ -22199,18 +22851,73 @@ sort: by_weight
 瀛海工业区	ying hai gong ye qu	1
 瀛海庄	ying hai zhuang	1
 瀛湖	ying hu	565
+瀠	ying
+瀯	ying
+瀴	ying
+瀷	yi
+灐	ying
+灜	ying
+炈	yi
+烎	yin
+焬	yi
+焲	yi
+焸	ying
+焽	ying
+煐	ying
+煕	yi
+熒	ying
+熠	yi
+熠	yi	9579
 熠熠生光	yi yi sheng guang	100
 熠熠生辉	yi yi sheng hui	11085
 熠熠闪闪	yi yi shan shan	100
+熤	yi
+熪	yi
+熼	yi
+燚	yi
+燚	yi	86
+營	ying
+燡	yi
+燱	yi
+爃	ying
+犾	yin
+狋	yi
+狏	yi
+狺	yin
+狺	yin	229
 狺狺	yin yin	1999
 狺狺犬吠	yin yin quan fei	100
 狺狺狂吠	yin yin kuang fei	55
+猌	yin
+猗	yi
+猗	yi	898
 猗顿	yi dun	220
 猗顿之富	yi dun zhi fu	8
+獈	yi
+玴	yi
+珆	yi
+珢	yin
+珢	yin	5
+珱	ying
+瑛	ying
+瑛	ying	10948
 瑛瑞	ying rui	140
 瑛贵人	ying gui ren	105
+瑩	ying
+瑿	yi
+璌	yin
+璎	ying
+璎	ying	3679
 璎珞	ying luo	6035
 璎珞宝珠	ying luo bao zhu	4
+瓔	ying
+瓵	yi
+甇	ying
+甖	ying
+畩	yi
+異	yi
+疑	yi
+疑	yi	556639
 疑三惑四	yi san huo si	1
 疑为	yi wei	7355
 疑义相与析	yi yi xiang yu xi	630
@@ -22323,6 +23030,9 @@ sort: by_weight
 疑难问题	yi nan wen ti	31530
 疑非人世也	yi fei ren shi ye	1
 疑鬼疑神	yi gui yi shen	100
+疙	yi
+疫	yi
+疫	yi	21652
 疫保通	yi bao tong	100
 疫区	yi qu	38700
 疫后	yi hou	1333
@@ -22455,21 +23165,41 @@ sort: by_weight
 疫苗险	yi miao xian	138
 疫苗预约	yi miao yu yue	150
 疫苗预防接种	yi miao yu fang jie zhong	330
+痍	yi
+痍	yi	1335
+痬	yi
+瘖	yin
+瘗	yi
+瘗	yi	96
 瘗玉埋香	yi yu mai xiang	1
 瘗鹤铭	yi he ming	1355
+瘞	yi
+瘱	yi
+瘾	yin
+瘾	yin	30459
 瘾君子	yin jun zi	4070
 瘾大	yin da	4096
 瘾头	yin tou	765
 瘾头儿	yin tou er	100
 瘾科技	yin ke ji	43
+瘿	ying
+瘿	ying	262
 瘿斜斑小卷蛾	ying xie ban xiao juan e	1
 瘿木	ying mu	123
 瘿病	ying bing	150
 瘿蚊科	ying wen ke	12
 瘿螨	ying man	5
+癊	yin
+癔	yi
+癔	yi	364
 癔病	yi bing	3370
 癔症	yi zheng	4240
 癔症性精神病	yi zheng xing jing shen bing	17
+癭	ying
+癮	yin
+盁	ying
+盈	ying
+盈	ying	102878
 盈世安全增强电子邮件系统	ying shi an quan zeng qiang dian zi you jian xi tong	87
 盈丰	ying feng	1530
 盈亏	ying kui	33750
@@ -22566,6 +23296,8 @@ sort: by_weight
 盈金珠宝	ying jin zhu bao	4
 盈门	ying men	3215
 盈香生态园	ying xiang sheng tai yuan	191
+益	yi
+益	yi	185217
 益上损下	yi shang sun xia	1
 益丰	yi feng	330
 益丰公园	yi feng gong yuan	1
@@ -22703,7 +23435,19 @@ sort: by_weight
 益阳道	yi yang dao	1
 益鸟	yi niao	1580
 益鸟益虫	yi niao yi chong	100
+眏	ying
+眙	yi
+眙	yi	532
+睪	yi
+瞖	yi
+矣	yi
+矣	yi	40045
 矣哉	yi zai	3075
+矨	ying
+硍	yin
+硍	yin	6
+硬	ying
+硬	ying	268057
 硬一些	ying yi xie	229
 硬一点	ying yi dian	100
 硬上	ying shang	9999
@@ -23140,6 +23884,21 @@ sort: by_weight
 硬鳞总目	ying lin zong mu	2
 硬黑	ying hei	345
 硬齿鱼类	ying chi yu lei	1
+碒	yin
+碤	ying
+磤	yin
+礒	yi
+礯	ying
+祎	yi
+祎	yi	4800
+禋	yin
+禋	yin	13
+禕	yi
+禜	ying
+秇	yi
+秵	yin
+移	yi
+移	yi	242884
 移一点	yi yi dian	650
 移一移	yi yi yi	567
 移三位	yi san wei	72
@@ -23511,11 +24270,45 @@ sort: by_weight
 移风易尚	yi feng yi shang	1
 移风革俗	yi feng ge su	1
 移魂都市	yi hun du shi	100
+稦	yi
+穎	ying
+穓	yi
+窨	yin
+窨	yin	396
 窨井	yin jing	170
 窨井盖	yin jing gai	2435
+竩	yi
+笖	yi
+筃	yin
+箷	yi
+篒	yi
+簃	yi
+簃	yi	32
+籎	yi
+籝	ying
+籯	ying
+粌	yin
+絪	yin
+緓	ying
+緸	yin
+縈	ying
+縊	yi
+縯	yin
+繄	yi
+繄	yi	12
+繶	yi
+繹	yi
+纓	ying
+绎	yi
+绎	yi	13969
+绬	ying
+缢	yi
+缢	yi	1608
 缢杀	yi sha	11
 缢死	yi si	1630
 缢痕	yi hen	90
+缨	ying
+缨	ying	8574
 缨儿	ying er	5
 缨口台鳅	ying kou tai qiu	1
 缨唇间颈须鳚	ying chun jian jing xu wei	1
@@ -23542,6 +24335,8 @@ sort: by_weight
 缨鳃虫	ying sai chong	6
 缨鳞条鳎	ying lin tiao ta	1
 缨鹃鵙	ying juan ju	1
+罂	ying
+罂	ying	3720
 罂粟	ying su	14175
 罂粟壳	ying su ke	871
 罂粟属	ying su shu	100
@@ -23551,20 +24346,35 @@ sort: by_weight
 罂粟籽	ying su zi	164
 罂粟红	ying su hong	6
 罂粟花	ying su hua	2570
+罃	ying
+罌	ying
+羛	yi
+羠	yi
+義	yi
+羿	yi
+羿	yi	7834
 羿射九日	yi she jiu ri	270
 羿工乎中微而拙乎使人无己誉	yi gong hu zhong wei er zhuo hu shi ren wu ji yu	1
 羿请不死之药于西王母	yi qing bu si zhi yao yu xi wang mu	100
+翊	yi
+翊	yi	5899
 翊武路	yi wu lu	4
 翊赞	yi zan	1
+翌	yi
+翌	yi	7243
 翌年	yi nian	19870
 翌日	yi ri	15970
 翌日的	yi ri de	100
 翌晨	yi chen	1505
+翳	yi
+翳	yi	1536
 翳明穴	yi ming xue	160
 翳桑饿人	yi sang e ren	100
 翳然	yi ran	65
 翳轻躯而奋进兮	yi qing qu er fen jin xi	100
 翳风	yi feng	6
+翼	yi
+翼	yi	203347
 翼下挂架	yi xia gua jia	1180
 翼之声	yi zhi sheng	120
 翼侧	yi ce	1310
@@ -23604,12 +24414,21 @@ sort: by_weight
 翼钟水母	yi zhong shui mu	1
 翼面	yi mian	18
 翼龙	yi long	4675
+耴	yi
+耺	ying
+肄	yi
+肄	yi	531
 肄业	yi ye	5605
 肄业于	yi ye yu	375
 肄业生	yi ye sheng	1465
 肄业证	yi ye zheng	245
+肊	yi
+胤	yin
+胤	yin	23866
 胤礽	yin reng	1
 胤禛	yin zhen	15
+胰	yi
+胰	yi	1505
 胰十二指肠切除术	yi shi er zhi chang qie chu shu	39
 胰头癌	yi tou ai	860
 胰子	yi zi	390
@@ -23653,6 +24472,10 @@ sort: by_weight
 胰酶肠溶片	yi mei chang rong pian	1
 胰酶肠溶胶囊	yi mei chang rong jiao nang	1
 胰高糖素	yi gao tang su	5
+膉	yi
+膡	ying
+膺	ying
+膺	ying	6134
 膺任	ying ren	35
 膺图受箓	ying tu shou lu	1
 膺惩	ying cheng	145
@@ -23661,6 +24484,8 @@ sort: by_weight
 膺箓受图	ying lu shou tu	1
 膺选	ying xuan	210
 膺鼻鹞眼	ying bi yao yan	2
+臆	yi
+臆	yi	4735
 臆度	yi duo	305
 臆想	yi xiang	8105
 臆想症	yi xiang zheng	55
@@ -23669,6 +24494,12 @@ sort: by_weight
 臆碎羽分人不悲	yi sui yu fen ren bu bei	1
 臆说	yi shuo	695
 臆造	yi zao	2185
+舣	yi
+舣	yi	28
+艗	yi
+艤	yi
+艺	yi
+艺	yi	226121
 艺不压身	yi bu ya shen	100
 艺专	yi zhuan	2900
 艺之卉	yi zhi hui	124
@@ -23889,7 +24720,17 @@ sort: by_weight
 艺龙	yi long	3100
 艺龙卡	yi long ka	25
 艺龙旅行网	yi long lv xing wang	100
+艾	yi
+艾	yi	1
+芅	yi
+苂	yin
+苅	yi
+苡	yi
+苡	yi	1018
 苡仁	yi ren	243
+苢	yi
+英	ying
+英	ying	646331
 英专生	ying zhuan sheng	100
 英东实业有限公司	ying dong shi ye you xian gong si	2
 英东游泳馆	ying dong you yong guan	235
@@ -24609,11 +25450,17 @@ sort: by_weight
 英首相	ying shou xiang	270
 英高虫亚目	ying gao chong ya mu	1
 英魂	ying hun	3305
+茔	ying
+茔	ying	1180
 茔园	ying yuan	4
 茔地	ying di	305
 茔墓	ying mu	2
+茚	yin
+茚	yin	4
 茚三酮	yin san tong	295
 茚地那韦	yin di na wei	1
+茵	yin
+茵	yin	37135
 茵席之臣	yin xi zhi chen	1
 茵栀黄口服液	yin zhi huang kou fu ye	8
 茵栀黄注射液	yin zhi huang zhu she ye	15
@@ -24627,8 +25474,14 @@ sort: by_weight
 茵陈五苓散	yin chen wu ling san	1
 茵陈蒿	yin chen hao	100
 茵陈蒿汤	yin chen hao tang	1
+荑	yi
+荑	yi	1744
+荥	ying
+荥	ying	1800
 荥经	ying jing	853
 荥经县	ying jing xian	1295
+荧	ying
+荧	ying	11955
 荧光	ying guang	66755
 荧光乌贼	ying guang wu zei	8
 荧光假单胞菌	ying guang jia dan bao jun	74
@@ -24684,6 +25537,8 @@ sort: by_weight
 荧闪粉蝶	ying shan fen die	1
 荧鳞五花琉金	ying lin wu hua liu jin	1
 荧鳞蝶尾鱼	ying lin die wei yu	1
+荫	yin
+荫	yin	18542
 荫凉	yin liang	2955
 荫子封妻	yin zi feng qi	100
 荫庇	yin bi	1380
@@ -24693,6 +25548,9 @@ sort: by_weight
 荫罩	yin zhao	1695
 荫翳	yin yi	620
 荫蔽	yin bi	3360
+荶	yin
+莹	ying
+莹	ying	106488
 莹斑篮子鱼	ying ban lan zi yu	1
 莹明	ying ming	115
 莹洁	ying jie	107
@@ -24703,6 +25561,8 @@ sort: by_weight
 莹莹	ying ying	15400
 莹虾属	ying xia shu	1
 莹虾幼体	ying xia you ti	1
+莺	ying
+莺	ying	25291
 莺俦燕侣	ying chou yan lv	100
 莺儿燕子俱黄土	ying er yan zi ju huang tu	1
 莺吟燕舞	ying yin yan wu	3
@@ -24731,6 +25591,10 @@ sort: by_weight
 莺颠燕狂	ying dian yan kuang	1
 莺飞燕舞	ying fei yan wu	20
 莺飞草长	ying fei cao zhang	805
+萓	yi
+萟	yi
+萤	ying
+萤	ying	13116
 萤光	ying guang	99
 萤光幕	ying guang mu	100
 萤光板	ying guang ban	100
@@ -24755,6 +25619,8 @@ sort: by_weight
 萤虫之火	ying chong zhi huo	100
 萤金花虫	ying jin hua chong	1
 萤鱿	ying you	12
+营	ying
+营	ying	369626
 营下	ying xia	9
 营业	ying ye	289190
 营业中的	ying ye zhong de	755
@@ -25115,6 +25981,8 @@ sort: by_weight
 营门口立交桥北	ying men kou li jiao qiao bei	11
 营门口立交桥南	ying men kou li jiao qiao nan	11
 营防	ying fang	11
+萦	ying
+萦	ying	11437
 萦回	ying hui	2815
 萦怀	ying huai	1295
 萦系	ying xi	1
@@ -25129,6 +25997,16 @@ sort: by_weight
 萦萦	ying ying	335
 萦萦夙语亦难求	ying ying su yu yi nan qiu	100
 萦萦绕绕	ying ying rao rao	145
+萾	ying
+蒑	yin
+蓥	ying
+蓥	ying	35
+蓺	yi
+蓺	yi	1
+蔩	yin
+蔭	yin
+薏	yi
+薏	yi	1273
 薏仁	yi ren	15847
 薏仁猪肚汤	yi ren zhu du tang	5
 薏仁米	yi ren mi	9999
@@ -25153,6 +26031,15 @@ sort: by_weight
 薏苡蒙谤	yi yi meng bang	1
 薏苡附子败酱散	yi yi fu zi bai jiang san	1
 薏辛除湿止痛胶囊	yi xin chu shi zhi tong jiao nang	12
+藀	ying
+藙	yi
+藝	yi
+蘙	yi
+蘟	yin
+蘡	ying
+虉	yi
+蚁	yi
+蚁	yi	31812
 蚁䴕	yi lie	13
 蚁丘	yi qiu	2341
 蚁人	yi ren	99999
@@ -25198,9 +26085,22 @@ sort: by_weight
 蚁鼻之缺	yi bi zhi que	1
 蚁鼻币	yi bi bi	1
 蚁鼻钱	yi bi qian	1
+蚓	yin
+蚓	yin	3612
 蚓激酶	yin ji mei	13
 蚓窍蝇鸣	yin qiao ying ming	1
 蚓蜥	yin xi	9
+蛇	yi
+蛇	yi	1
+蛍	ying
+蛜	yi
+蛡	yi
+蛦	yi
+蛾	yi
+蜴	yi
+蜴	yi	5628
+蝇	ying
+蝇	ying	22560
 蝇利蜗名	ying li wo ming	100
 蝇卵	ying luan	4
 蝇名蜗利	ying ming wo li	100
@@ -25242,9 +26142,24 @@ sort: by_weight
 蝇集蚁附	ying ji yi fu	100
 蝇霸鹟	ying ba weng	1
 蝇飞蚁聚	ying fei yi ju	100
+蝧	ying
+蝿	ying
+螔	yi
+螘	yi
+螠	yi
+螠	yi	3
 螠虫	yi chong	19
 螠虫动物门	yi chong dong wu men	1
+螢	ying
+螾	yin
+蟫	yin
+蟫	yin	3
 蟫鱼	yin yu	1
+蟻	yi
+蠅	ying
+蠳	ying
+衣	yi
+衣	yi	974727
 衣上征尘杂酒痕	yi shang zheng chen za jiu hen	1
 衣不兼彩	yi bu jian cai	100
 衣不完采	yi bu wan cai	100
@@ -25488,6 +26403,47 @@ sort: by_weight
 衣香鬓影	yi xiang bin ying	1200
 衣马轻肥	yi ma qing fei	1
 衣鱼	yi yu	4233
+衤	yi
+衪	yi
+袘	yi
+袣	yi
+裀	yin
+裔	yi
+裔	yi	13332
+裛	yi
+裛	yi	9
+裿	yi
+褮	ying
+褹	yi
+襼	yi
+覮	ying
+觺	yi
+訑	yi
+訔	yin
+訚	yin
+訚	yin	58
+訡	yin
+訲	yi
+訳	yi
+詍	yi
+詒	yi
+詣	yi
+誃	yi
+誼	yi
+誾	yin
+諲	yin
+謍	ying
+謻	yi
+譍	ying
+譩	yi
+譯	yi
+議	yi
+譻	ying
+讉	yi
+讔	yin
+讛	yi
+议	yi
+议	yi	474942
 议一下	yi yi xia	195
 议一议	yi yi yi	1970
 议不反顾	yi bu fan gu	1
@@ -25570,6 +26526,8 @@ sort: by_weight
 议长论短	yi chang lun duan	100
 议院	yi yuan	6145
 议题	yi ti	80845
+译	yi
+译	yi	60762
 译一译	yi yi yi	156
 译不出	yi bu chu	170
 译不出来	yi bu chu lai	55
@@ -25607,10 +26565,27 @@ sort: by_weight
 译谱	yi pu	35
 译述	yi shu	745
 译音	yi yin	7490
+诒	yi
+诒	yi	878
+诣	yi
+诣	yi	7648
 诣太守	yi tai shou	100
+谊	yi
+谊	yi	36241
 谊不容辞	yi bu rong ci	1
 谊不敢辞	yi bu gan ci	1
 谊切苔岑	yi qie tai cen	1
+豙	yi
+豛	yi
+豷	yi
+貖	yi
+貤	yi
+貽	yi
+賏	ying
+贀	yi
+贏	ying
+贻	yi
+贻	yi	4040
 贻人口实	yi ren kou shi	121
 贻人话柄	yi ren hua bing	100
 贻厥之谋	yi jue zhi mou	100
@@ -25639,6 +26614,8 @@ sort: by_weight
 贻误战机	yi wu zhan ji	1735
 贻误终身	yi wu zhong shen	45
 贻贝	yi bei	3269
+赢	ying
+赢	ying	122118
 赢一回	ying yi hui	4785
 赢一局	ying yi ju	100
 赢一把	ying yi ba	100
@@ -25829,6 +26806,19 @@ sort: by_weight
 赢麻了	ying ma le	9999
 赢麻了吗	ying ma le ma	100
 赢麻了吧	ying ma le ba	100
+赺	yin
+趛	yin
+跇	yi
+跠	yi
+踦	yi
+踦	yi	7
+軈	ying
+軼	yi
+輑	yin
+輢	yi
+轙	yi
+轶	yi
+轶	yi	6150
 轶事	yi shi	9045
 轶事遗闻	yi shi yi wen	100
 轶伦越等	yi lun yue deng	1
@@ -25836,6 +26826,10 @@ sort: by_weight
 轶群绝类	yi qun jue lei	1
 轶闻	yi wen	2900
 轶闻遗事	yi wen yi shi	1
+辷	yi
+迆	yi
+迎	ying
+迎	ying	276814
 迎七一	ying qi yi	190
 迎上	ying shang	13580
 迎上去	ying shang qu	5790
@@ -26039,10 +27033,17 @@ sort: by_weight
 迎龙山	ying long shan	1
 迎龙桥	ying long qiao	7
 迎龙灯	ying long deng	113
+迤	yi
+迤	yi	2847
 迤山中学	yi shan zhong xue	100
 迤逦	yi li	4915
 迤逦不绝	yi li bu jue	100
 迤那镇	yi na zhen	27
+迱	yi
+迻	yi
+逘	yi
+逸	yi
+逸	yi	116826
 逸乐	yi le	1700
 逸乐途	yi le tu	100
 逸仙名居	yi xian ming ju	1
@@ -26095,6 +27096,8 @@ sort: by_weight
 逸韵高致	yi yun gao zhi	1
 逸风	yi feng	7225
 逸飞	yi fei	5240
+遗	yi
+遗	yi	186827
 遗下	yi xia	4175
 遗世孤立	yi shi gu li	6
 遗世忘累	yi shi wang lei	1
@@ -26472,12 +27475,17 @@ sort: by_weight
 遗骸	yi hai	6190
 遗魂亡魄	yi hun wang po	1
 遗黎故老	yi li gu lao	1
+遺	yi
+邑	yi
+邑	yi	10420
 邑人	yi ren	38
 邑人相将浮彩舟	yi ren xiang jiang fu cai zhou	1
 邑姜	yi jiang	1
 邑有流亡愧俸钱	yi you liu wang kui feng qian	8
 邑犬群吠	yi quan qun fei	100
 邑部	yi bu	1
+郢	ying
+郢	ying	2567
 郢中白雪	ying zhong bai xue	2
 郢中街道	ying zhong jie dao	4
 郢书燕说	ying shu yan shuo	100
@@ -26491,17 +27499,53 @@ sort: by_weight
 郢州	ying zhou	2
 郢路更参差	ying lu geng cen ci	1
 郢都	ying du	2
+郼	yi
+鄓	yi
+鄞	yin
+鄞	yin	673
 鄞县中心区	yin xian zhong xin qu	1
 鄞州区	yin zhou qu	997
 鄞州银行	yin zhou yin hang	100
+酏	yi
+酏	yi	14
 酏剂	yi ji	1
+酳	yin
+醫	yi
+醳	yi
+醷	yi
+釔	yi
+釴	yi
+釶	yi
+釿	yin
+鈏	yin
+鈘	yi
+鈝	yin
+鈠	yi
+鉯	yi
+銀	yin
+銥	yi
+銦	yin
+鎣	ying
+鎰	yi
+鏔	yi
+鐛	ying
+鐿	yi
+鑍	ying
+钇	yi
+钇	yi	25
 钇元素	yi yuan su	100
+铟	yin
+铟	yin	18
 铟元素	yin yuan su	100
+铱	yi
+铱	yi	515
 铱元素	yi yuan su	100
 铱星	yi xing	136
 铱星计划	yi xing ji hua	100
 铱金	yi jin	1075
 铱金笔	yi jin bi	305
+银	yin
+银	yin	399570
 银上校	yin shang xiao	100
 银丝	yin si	7700
 银丝仔乌汤	yin si zai wu tang	1
@@ -27620,7 +28664,18 @@ sort: by_weight
 银龙	yin long	8520
 银龙杯	yin long bei	106
 银龙花园	yin long hua yuan	183
+锳	ying
+锳	ying	101
+镒	yi
+镒	yi	311
+镱	yi
+镱	yi	700
 镱元素	yi yuan su	100
+闉	yin
+阣	yi
+阥	yin
+阴	yin
+阴	yin	393419
 阴三儿	yin san er	100
 阴上	yin shang	81
 阴不抱阳	yin bu bao yang	1
@@ -28046,6 +29101,12 @@ sort: by_weight
 阴魂不散	yin hun bu san	5200
 阴鸷	yin zhi	1670
 阴鸷狠戾	yin zhi hen li	100
+陭	yi
+陰	yin
+陻	yin
+隂	yin
+隐	yin
+隐	yin	466049
 隐世	yin shi	22222
 隐世录	yin shi lu	100
 隐丹参酮	yin dan shen tong	1
@@ -28565,6 +29626,20 @@ sort: by_weight
 隐鳞戢翼	yin lin ji yi	1
 隐鳞藏彩	yin lin cang cai	1
 隐龙窟	yin long ku	100
+隠	yin
+隱	yin
+隿	yi
+霒	yin
+霙	ying
+霠	yin
+霪	yin
+霪	yin	349
+霬	yi
+靷	yin
+鞇	yin
+鞕	ying
+音	yin
+音	yin	1100301
 音义	yin yi	3780
 音乐	yin yue	501059
 音乐一	yin yue yi	100
@@ -29307,6 +30382,16 @@ sort: by_weight
 音频驱动	yin pin qu dong	451
 音高	yin gao	11145
 音魁网	yin kui wang	1
+韺	ying
+韾	yin
+頉	yi
+頤	yi
+頥	yi
+頴	ying
+顊	yi
+顗	yi
+颍	ying
+颍	ying	2512
 颍上县	ying shang xian	3795
 颍东区	ying dong qu	1400
 颍南街道	ying nan jie dao	2
@@ -29321,6 +30406,8 @@ sort: by_weight
 颍河	ying he	3
 颍泉区	ying quan qu	1650
 颍西街道	ying xi jie dao	1
+颐	yi
+颐	yi	12797
 颐东苑	yi dong yuan	12
 颐中烟草	yi zhong yan cao	1
 颐之时	yi zhi shi	2
@@ -29362,6 +30449,9 @@ sort: by_weight
 颐达	yi da	15093
 颐高	yi gao	5350
 颐高数码	yi gao shu ma	4495
+颕	ying
+颖	ying
+颖	ying	63259
 颖川	ying chuan	1990
 颖川河	ying chuan he	6
 颖异	ying yi	3
@@ -29376,6 +30466,14 @@ sort: by_weight
 颖超	ying chao	2055
 颖阳镇	ying yang zhen	8
 颖鹿尺蛾	ying lu chi e	1
+食	yi
+食	yi	1
+飮	yin
+飲	yin
+飴	yi
+饐	yi
+饮	yin
+饮	yin	118969
 饮一杯	yin yi bei	5340
 饮下	yin xia	3450
 饮下了毒酒	yin xia le du jiu	100
@@ -29568,11 +30666,18 @@ sort: by_weight
 饮鸩止渴	yin zhen zhi ke	2930
 饮鸩解渴	yin zhen jie ke	1
 饮鹿池桥	yin lu chi qiao	9
+饴	yi
+饴	yi	1052
 饴含抱孙	yi han bao sun	2
 饴村乱数	yi cun luan shu	100
 饴糖	yi tang	4030
 饴细工	yi xi gong	100
 饴色天牛	yi se tian niu	1
+駅	yi
+駰	yin
+驛	yi
+驿	yi
+驿	yi	12436
 驿使梅花	yi shi mei hua	1
 驿卒	yi zu	470
 驿吏	yi li	210
@@ -29595,10 +30700,45 @@ sort: by_weight
 驿马村	yi ma cun	164
 驿马车	yi ma che	100
 驿骑如星流	yi qi ru xing liu	2
+骃	yin
+骃	yin	11
+骮	yi
+鮣	yin
+鮧	yi
 鮧鱼	yi yu	2
 鮧鱼目	yi yu mu	1
+鮨	yi
 鮨形朴丽鱼	yi xing pu li yu	1
 鮨鲈肖鲈	yi lu xiao lu	1
+鯣	yi
+鱦	ying
+鳦	yi
+鴬	ying
+鴺	yi
+鶂	yi
+鶃	yi
+鶍	yi
+鶑	ying
+鶧	ying
+鶯	ying
+鷁	yi
+鷊	yi
+鷖	yi
+鷣	yin
+鷧	yi
+鷪	ying
+鷹	ying
+鷾	yi
+鸃	yi
+鸎	ying
+鸚	ying
+鹝	yi
+鹝	yi	2
+鹢	yi
+鹢	yi	22
+鹥	yi
+鹦	ying
+鹦	ying	5289
 鹦交嘴雀	ying jiao zui que	1
 鹦哥	ying ge	3500
 鹦哥绿	ying ge lv	180
@@ -29628,6 +30768,8 @@ sort: by_weight
 鹦鹉能言	ying wu neng yan	10
 鹦鹉莴笋	ying wu wo sun	1
 鹦鹉螺	ying wu luo	4015
+鹰	ying
+鹰	ying	162593
 鹰不泊	ying bu bo	1
 鹰击毛挚	ying ji mao zhi	1
 鹰击长空	ying ji chang kong	2345
@@ -29720,7 +30862,19 @@ sort: by_weight
 鹰鹃	ying juan	3
 鹰鼻	ying bi	615
 鹰鼻鹞眼	ying bi yao yan	100
+黓	yi
+黟	yi
+黟	yi	721
 黟县	yi xian	7
+黳	yi
+齗	yin
+齦	yin
+齮	yi
+齸	yi
+龂	yin
+龂	yin	3
+龈	yin
+龈	yin	875
 龈下刮治术	yin xia gua zhi shu	1
 龈交穴	yin jiao xue	14
 龈擦音	yin ca yin	100
@@ -29729,6 +30883,442 @@ sort: by_weight
 龈脓肿	yin nong zhong	100
 龈腭音	yin e yin	100
 龈龈计较	yin yin ji jiao	1
+𠂆	yi
+𠃊	yin
+𠄱	yi
+𠅌	yi
+𠈶	yi
+𠊶	ying
+𠍫	yi
+𠍳	yi
+𠏩	yi
+𠐀	yi
+𠓋	yi
+𠖟	yin
+𠗺	yi
+𠚮	yi
+𠛃	yi
+𠜁	yi
+𠝟	ying
+𠠜	ying
+𠡔	yi
+𠡝	yi
+𠤕	yi
+𠤗	yi
+𠤘	yi
+𠥦	yi
+𠨾	yi
+𠩗	yi
+𠩫	yi
+𠪗	yi
+𠪚	yin
+𠮙	yi
+𠮜	yin
+𠮳	ying
+𠯋	yi
+𠰄	yi
+𠲔	yi
+𠲖	yi
+𠲚	yi
+𠲺	yi
+𠲻	yi
+𠶷	yi
+𠸄	ying
+𠼪	yi
+𠽜	yi
+𠽨	yin
+𠿣	yi
+𡀘	ying
+𡁊	ying
+𡂚	ying
+𡃅	ying
+𡄖	ying
+𡄵	yi
+𡄻	yi
+𡇂	yin
+𡈲	yin
+𡉛	yi
+𡊁	yi
+𡊶	yi
+𡋪	yin
+𡍡	yi
+𡎘	ying
+𡐔	yin
+𡓓	yin
+𡓿	yin
+𡖣	yin
+𡙘	yi
+𡜬	yi
+𡢘	ying
+𡥁	yi
+𡩘	yin
+𡬓	yi
+𡰥	yi
+𡱐	yi
+𡷪	yi
+𡸛	yin
+𡺡	ying
+𡻣	yi
+𡼎	yi
+𡼽	yin
+𡾾	yi
+𢀁	yi
+𢂒	yi
+𢂗	yi
+𢂨	yin
+𢂼	yi
+𢄅	yi
+𢄋	ying
+𢇙	yi
+𢇚	yi
+𢇸	yi
+𢈶	yi
+𢉩	yin
+𢊘	yi
+𢋻	yin
+𢌲	yin
+𢍰	yi
+𢎀	yi
+𢎃	yi
+𢎉	yi
+𢏗	yi
+𢓀	yi
+𢓕	yin
+𢓙	yin
+𢓡	yi
+𢕷	yi
+𢖅	yi
+𢖫	yi
+𢖴	yi
+𢖺	yi
+𢗎	yi
+𢘽	yi
+𢙇	yi
+𢛦	yin
+𢝯	yin
+𢞉	yi
+𢡃	yi
+𢣉	yi
+𢣙	ying
+𢥏	ying
+𢦕	yi
+𢨮	yi
+𢨳	yi
+𢩮	yi
+𢩼	yi
+𢪪	yin
+𢱁	yi
+𢳃	yin
+𢷍	yin
+𢷔	yi
+𣋋	ying
+𣎅	yi
+𣐓	yi
+𣐵	yi
+𣐿	yi
+𣓆	yin
+𣔸	yin
+𣕁	yi
+𣘦	yi
+𣙛	yi
+𣚘	yi
+𣟤	ying
+𣡊	yi
+𣢭	yi
+𣢷	yi
+𣤪	yi
+𣤵	ying
+𣦌	yi
+𣦫	yin
+𣧄	yi
+𣨟	yi
+𣫙	yi
+𣱐	yin
+𣱜	yin
+𣲜	ying
+𣷩	yi
+𣸊	yin
+𣸘	yi
+𣽮	yin
+𣿉	yi
+𤁽	ying
+𤂹	yin
+𤆾	yi
+𤇴	yi
+𤇾	ying
+𤈙	yi
+𤌌	ying
+𤎭	yin
+𤑹	yi
+𤖪	yi
+𤘊	yi
+𤜉	ying
+𤝎	yin
+𤝳	yi
+𤝻	yi
+𤟣	ying
+𤢦	yin
+𤣎	ying
+𤣨	yi
+𤣮	yi
+𤤺	yi
+𤥿	yi
+𤧕	yi
+𤬩	yi
+𤭫	ying
+𤯸	yin
+𤴧	yi
+𤵯	yin
+𤶛	yi
+𤷅	yi
+𤷏	yin
+𤸸	yi
+𤹜	ying
+𤹥	ying
+𤻂	yi
+𤻘	yin
+𤼌	yi
+𥃠	yi
+𥃸	yi
+𥄻	yi
+𥄿	yi
+𥅓	yi
+𥌟	yi
+𥌽	ying
+𥌾	ying
+𥍟	yi
+𥍴	yi
+𥍼	ying
+𥏎	ying
+𥏜	yi
+𥐑	ying
+𥑴	yi
+𥒵	yi
+𥖵	yin
+𥘒	yi
+𥘠	yi
+𥙁	yi
+𥙇	yi
+𥚿	ying
+𥜃	yi
+𥜥	yi
+𥟘	yi
+𥡪	yi
+𥢧	yi
+𥤷	yin
+𥥌	yi
+𥥴	yi
+𥩖	yi
+𥫃	yi
+𥫜	yi
+𥫝	yi
+𥬜	yin
+𥮍	yin
+𥰧	yi
+𥱃	yi
+𥸊	yi
+𥹋	yi
+𥾐	yi
+𥿫	yi
+𥿹	yi
+𦌩	yi
+𦎝	yi
+𦏸	yi
+𦓻	yi
+𦔃	ying
+𦔜	yi
+𦔥	yi
+𦔫	yi
+𦖽	ying
+𦘳	yi
+𦙨	yi
+𦚟	yi
+𦜲	yin
+𦝚	ying
+𦝴	yin
+𦟘	yin
+𦟧	yi
+𦠉	yi
+𦡫	yi
+𦡺	ying
+𦢆	ying
+𦥱	yi
+𦦿	ying
+𦨇	yi
+𦩩	ying
+𦭥	yi
+𦮸	yi
+𦶂	yi
+𦾻	yin
+𧃟	yi
+𧅋	ying
+𧅖	yi
+𧆦	yi
+𧈻	yi
+𧉅	yi
+𧉮	yi
+𧊣	yi
+𧊤	yi
+𧊭	yin
+𧋏	yi
+𧍢	yin
+𧐔	yi
+𧑌	yi
+𧓀	ying
+𧓗	yi
+𧔮	yi
+𧕄	ying
+𧕍	ying
+𧙡	yi
+𧜤	yi
+𧡇	yi
+𧢂	yi
+𧢛	ying
+𧣟	yi
+𧣬	yi
+𧥸	yin
+𧦧	yi
+𧦸	yin
+𧦹	yin
+𧩬	yin
+𧩹	yi
+𧫦	yi
+𧬇	yi
+𧭓	ying
+𧮆	ying
+𧮒	yi
+𧯀	ying
+𧱊	yi
+𧱏	yi
+𧳁	yi
+𧷅	yi
+𧷥	yi
+𧺎	yi
+𧺝	yi
+𧺢	yi
+𧺿	yi
+𧾰	yi
+𨈧	yin
+𨋙	yin
+𨋯	yi
+𨍞	ying
+𨏈	yin
+𨐐	yin
+𨒦	yin
+𨓮	yin
+𨛊	yin
+𨛯	yi
+𨜏	ying
+𨜶	yi
+𨜽	yi
+𨟏	yin
+𨟙	ying
+𨟴	yin
+𨠑	yi
+𨠶	yi
+𨠸	ying
+𨡢	yin
+𨢂	yin
+𨢎	yin
+𨣠	yi
+𨣬	yi
+𨦆	yin
+𨦯	yi
+𨪄	ying
+𨳷	yi
+𨵛	ying
+𨹝	yi
+𨻊	yi
+𨻏	yi
+𨽹	yi
+𨾓	yi
+𩂒	yi
+𩂝	ying
+𩂢	yin
+𩂥	yin
+𩂹	yi
+𩃬	yin
+𩄪	ying
+𩈭	yi
+𩋌	yi
+𩋹	ying
+𩍖	yi
+𩎭	yi
+𩎷	yi
+𩐞	yin
+𩓧	yi
+𩔦	yi
+𩕲	yi
+𩖄	yin
+𩖍	ying
+𩖹	yi
+𩖾	yi
+𩗑	yi
+𩘑	ying
+𩘧	yi
+𩚂	yi
+𩚇	yi
+𩚕	yin
+𩛆	yi
+𩛮	yi
+𩞾	yi
+𩟉	yi
+𩡣	yi
+𩣞	yi
+𩤒	yi
+𩥯	yi
+𩪟	yi
+𩪣	yi
+𩬵	yin
+𩮵	yi
+𩳇	yi
+𩳍	ying
+𩴜	yi
+𩴮	yi
+𩷍	yi
+𩷘	yi
+𩸥	ying
+𩸨	yi
+𩹅	ying
+𩻷	ying
+𩼨	yi
+𩾘	yi
+𩾠	yi
+𩾢	yi
+𪀓	yi
+𪀕	yi
+𪁚	yi
+𪁛	yi
+𪈨	yi
+𪊵	ying
+𪐔	yi
+𪐘	yi
+𪐣	yi
+𪒕	yi
+𪔰	yin
+𪔽	yin
+𪕶	yi
+𪗷	yi
+𪘃	yi
+𪘎	yin
+𪘬	yi
+𪘲	yi
+𪙤	yin
+𪙴	yi
+𪙾	yin
+𪛊	yin
+𫄷	yi	1
+𫖮	yi	1
+𬎆	ying
+𬘡	yin	1
+𬟁	yi	3
 𬟁草	yi cao	3
 𬟁草属	yi cao shu	2
+𬤇	yin	1
+𬬩	yi	1
+𬮱	yin	1
+𬸕	ying
+𬺈	yi	1
+𮐨	ying
 𮐨薁	ying yu	3
+𱉇	yi

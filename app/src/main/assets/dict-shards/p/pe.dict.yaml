@@ -3,6 +3,48 @@ name: merged.pe
 version: "1.0"
 sort: by_weight
 ...
+㑟	peng
+㔙	peng
+㘐	peng
+㛁	peng
+㛔	peng
+㟝	pei
+㣆	pei
+㤄	pei
+㥊	peng
+㧩	pei
+㧸	peng
+㨐	pei
+㫲	pei
+㮄	peng
+㮟	peng
+㱶	peng
+㳈	pei
+㸬	pei
+㼞	peng
+㾦	pei
+㾦	pen
+䂜	pei
+䄘	peng
+䊃	pei
+䋽	peng
+䕗	pei
+䟺	pei
+䡊	pei
+䡫	peng
+䣙	pei
+䪹	pei
+䫊	pei
+䫠	pei
+䯱	pei
+䰃	peng
+䲹	pei
+䴶	peng
+䵄	peng
+亨	peng
+伂	pei
+佩	pei
+佩	pei	153498
 佩亚诺	pei ya nuo	100
 佩佩	pei pei	450
 佩兰	pei lan	3955
@@ -98,8 +140,19 @@ sort: by_weight
 佩香囊	pei xiang nang	164
 佩鲁	pei lu	1490
 佩鲁贾	pei lu jia	2340
+俖	pei
+倗	peng
+傰	peng
+剻	peng
+匉	peng
+呠	pen
+呸	pei
+呸	pei	20447
 呸呸	pei pei	3505
 呸呸呸	pei pei pei	100
+喯	pen
+喷	pen
+喷	pen	112711
 喷一下	pen yi xia	73
 喷一喷	pen yi pen	123
 喷上	pen shang	7645
@@ -325,9 +378,15 @@ sort: by_weight
 喷鼻器	pen bi qi	100
 喷鼻子	pen bi zi	1111
 喷鼻息	pen bi xi	100
+嘭	peng
+嘭	peng	11327
 嘭嘭	peng peng	2695
 嘭嘭嘭嘭	peng peng peng peng	65
 嘭的一声	peng de yi sheng	111
+噴	pen
+坏	pei
+培	pei
+培	pei	98414
 培丰	pei feng	7
 培优	pei you	3585
 培元	pei yuan	111
@@ -529,10 +588,26 @@ sort: by_weight
 培训餐厅	pei xun can ting	3
 培高利特	pei gao li te	1
 培黎街道	pei li jie dao	37
+堋	peng
+堋	peng	72
 堋的	peng di	30
+塜	peng
+塳	peng
+妃	pei
+妚	pei
+姵	pei
+婄	pei
+媐	pei
+嶏	pei
+帔	pei
+帔	pei	2772
 帔晕紫槟榔	pei yun zi bing lang	1
+弸	peng
+弸	peng	3
 弸中彪外	peng zhong biao wai	100
 弸中肆外	peng zhong si wai	1
+彭	peng
+彭	peng	36069
 彭一刚	peng yi gang	160
 彭丹	peng dan	242
 彭丽丽	peng li li	100
@@ -702,6 +777,9 @@ sort: by_weight
 彭高峰	peng gao feng	132
 彭麻麻	peng ma ma	25
 彭龟年	peng gui nian	1
+怌	pei
+怦	peng
+怦	peng	14012
 怦怦	peng peng	6410
 怦怦乱跳	peng peng luan tiao	2090
 怦怦地跳	peng peng de tiao	100
@@ -712,8 +790,17 @@ sort: by_weight
 怦然心动	peng ran xin dong	12260
 怦然心动了	peng ran xin dong le	100
 怦然心动的感觉	peng ran xin dong de gan jue	100
+恲	peng
+憉	peng
+抨	peng
+抨	peng	3371
 抨击	peng ji	30465
 抨弹	peng tan	111
+抷	pei
+挷	peng
+捀	peng
+捧	peng
+捧	peng	68202
 捧一捧	peng yi peng	174
 捧一踩一	peng yi cai yi	195
 捧上	peng shang	4375
@@ -790,6 +877,16 @@ sort: by_weight
 捧起来	peng qi lai	100
 捧车族	peng che zu	100
 捧逗	peng dou	111
+掽	peng
+搒	peng
+搒	peng	1
+摓	peng
+攈	pei
+斾	pei
+旆	pei
+旆	pei	169
+朋	peng
+朋	peng	88716
 朋克	peng ke	18365
 朋克乐队	peng ke yue dui	100
 朋克养生	peng ke yang sheng	153
@@ -882,6 +979,12 @@ sort: by_weight
 朋辈	peng bei	13
 朋酒之会	peng jiu zhi hui	1
 朋霍费尔	peng huo fei er	5
+柭	pei
+柸	pei
+梈	peng
+棑	pei
+棚	peng
+棚	peng	28567
 棚代客车	peng dai ke che	100
 棚内	peng nei	12950
 棚内温度	peng nei wen du	100
@@ -898,9 +1001,18 @@ sort: by_weight
 棚舍	peng she	1085
 棚车	peng che	222
 棚里	peng li	11615
+椖	peng
+椪	peng
+椪	peng	8
 椪柑	peng gan	3965
 椪糖	peng tang	1
+槰	peng
+樥	peng
+歕	pen
+毰	pei
 毰毸	pei sai	1
+沛	pei
+沛	pei	24758
 沛公	pei gong	4315
 沛公不先破关中	pei gong bu xian po guan zhong	1
 沛公不胜杯杓	pei gong bu sheng bei shao	2
@@ -928,10 +1040,22 @@ sort: by_weight
 沛然有余	pei ran you yu	1
 沛雨甘霖	pei yu gan lin	1
 沛霆	pei ting	295
+泙	peng
+浿	pei
+淎	peng
+淜	peng
+淜	peng	2
+淠	pei
+湓	pen
+湓	pen	93
 湓浦沙头水馆前	pen pu sha tou shui guan qian	2
 湓浦街道	pen pu jie dao	2
 湓涌	pen yong	2
 湓溢	pen yi	2
+漨	peng
+漰	peng
+澎	peng
+澎	peng	16976
 澎恰恰	peng qia qia	100
 澎湃	peng pai	30095
 澎湃声	peng pai sheng	55
@@ -947,6 +1071,9 @@ sort: by_weight
 澎湖水道	peng hu shui dao	1
 澎湖湾	peng hu wan	1085
 澎湖群岛	peng hu qun dao	195
+濆	pen
+烹	peng
+烹	peng	9367
 烹丁香	peng ding xiang	13
 烹刑	peng xing	2
 烹制	peng zhi	27995
@@ -998,6 +1125,16 @@ sort: by_weight
 烹龙炮凤	peng long pao feng	111
 烹龙炮凤玉脂泣	peng long pao feng yu zhi qi	1
 烹龙煮凤	peng long zhu feng	100
+熢	peng
+犻	pei
+珮	pei
+珮	pei	1
+琣	pei
+瓫	pen
+痭	peng
+皏	peng
+盆	pen
+盆	pen	64086
 盆中	pen zhong	10500
 盆中花怎赏	pen zhong hua zen shang	100
 盆倾瓮倒	pen qing weng dao	1
@@ -1047,6 +1184,8 @@ sort: by_weight
 盆角齿	pen jiao chi	68
 盆里	pen li	11135
 盆骨	pen gu	1111
+砰	peng
+砰	peng	54753
 砰地关上	peng de guan shang	225
 砰头小丑	peng tou xiao chou	100
 砰然	peng ran	4235
@@ -1064,6 +1203,9 @@ sort: by_weight
 砰砰砰	peng peng peng	1405
 砰砰砰砰	peng peng peng peng	225
 砰砰计划	peng peng ji hua	100
+硑	peng
+硼	peng
+硼	peng	215
 硼元素	peng yuan su	100
 硼吖嗪	peng a qin	1
 硼替佐米	peng ti zuo mi	34
@@ -1079,6 +1221,8 @@ sort: by_weight
 硼酸盐	peng suan yan	100
 硼酸软膏	peng suan ruan gao	7
 硼铝镓铟铊	peng lv jia yin ta	100
+碰	peng
+碰	peng	240438
 碰一下	peng yi xia	3755
 碰一下就	peng yi xia jiu	100
 碰一次头	peng yi ci tou	980
@@ -1207,6 +1351,12 @@ sort: by_weight
 碰锁	peng suo	135
 碰面	peng mian	14530
 碰鸡蛋	peng ji dan	100
+磞	peng
+稝	peng
+竼	peng
+篣	peng
+篷	peng
+篷	peng	41474
 篷儿	peng er	2
 篷子	peng zi	225
 篷布	peng bu	1890
@@ -1215,6 +1365,13 @@ sort: by_weight
 篷盖布	peng gai bu	100
 篷船	peng chuan	999
 篷车	peng che	1565
+絣	peng
+纄	peng
+翸	pen
+肧	pei
+胓	peng
+胚	pei
+胚	pei	4101
 胚乳	pei ru	2775
 胚叶	pei ye	360
 胚囊	pei nang	5
@@ -1238,6 +1395,8 @@ sort: by_weight
 胚芽米	pei ya mi	100
 胚芽鞘	pei ya qiao	100
 胚轴	pei zhou	795
+膨	peng
+膨	peng	17894
 膨体纱	peng ti sha	685
 膨化	peng hua	993
 膨化机	peng hua ji	3000
@@ -1278,6 +1437,14 @@ sort: by_weight
 膨胀速度	peng zhang su du	100
 膨胀阀	peng zhang fa	2285
 膨脝	peng heng	11
+芃	peng
+芃	peng	1230
+苹	peng
+莑	peng
+葐	pen
+蓜	pei
+蓬	peng
+蓬	peng	46160
 蓬乱	peng luan	3075
 蓬勃	peng bo	45255
 蓬勃发展	peng bo fa zhan	72325
@@ -1381,8 +1548,17 @@ sort: by_weight
 蓬闾生辉	peng lv sheng hui	1
 蓬飘梗泛	peng piao geng fan	100
 蓬首垢面	peng shou gou mian	100
+蘕	peng
+蟚	peng
+蟛	peng
+蟛	peng	73
 蟛蜞	peng qi	415
 蟛蜞菊	peng qi ju	16
+衃	pei
+衃	pei	1
+袶	peng
+裴	pei
+裴	pei	29595
 裴二狗	pei er gou	100
 裴佳欣	pei jia xin	113
 裴元庆	pei yuan qing	2
@@ -1434,6 +1610,10 @@ sort: by_weight
 裴连奴	pei lian nu	1
 裴金佳	pei jin jia	136
 裴钰	pei yu	208
+裵	pei
+賠	pei
+赔	pei
+赔	pei	61380
 赔上	pei shang	5155
 赔上去	pei shang qu	100
 赔上来	pei shang lai	100
@@ -1549,8 +1729,16 @@ sort: by_weight
 赔钱	pei qian	22320
 赔钱了事	pei qian liao shi	100
 赔钱货	pei qian huo	375
+踫	peng
+軯	peng
+輣	peng
+轡	pei
+辔	pei
+辔	pei	1509
 辔头	pei tou	610
 辔甲尾袋鼠	pei jia wei dai shu	1
+配	pei
+配	pei	262063
 配一下	pei yi xia	12
 配一个	pei yi ge	12
 配一套	pei yi tao	64
@@ -2000,7 +2188,18 @@ sort: by_weight
 配饰	pei shi	38240
 配饰系列	pei shi xi lie	100
 配齐	pei qi	12990
+醅	pei
+醅	pei	96
+錇	pei
+錋	peng
+鑝	peng
+锫	pei
+锫	pei	42
 锫元素	pei yuan su	100
+閛	peng
+阫	pei
+陪	pei
+陪	pei	269126
 陪一下	pei yi xia	77
 陪不了	pei bu liao	90
 陪不是	pei bu shi	100
@@ -2205,9 +2404,22 @@ sort: by_weight
 陪餐	pei can	11
 陪餐制度	pei can zhi du	100
 陪饮	pei yin	165
+霈	pei
+霈	pei	378
+韸	peng
+韼	peng
+馷	pei
+駍	peng
+騯	peng
+髼	peng
+鬅	peng
 鬅头	peng tou	25
 鬅松	peng song	1
 鬅鬙	peng seng	1
+鬔	peng
+鵬	peng
+鹏	peng
+鹏	peng	79602
 鹏举	peng ju	3695
 鹏举绝笔	peng ju jue bi	100
 鹏之徙于南冥也	peng zhi xi yu nan ming ye	100
@@ -2245,3 +2457,69 @@ sort: by_weight
 鹏飞	peng fei	19250
 鹏鷃逍遥	peng yan xiao yao	100
 鹏鹏	peng peng	2625
+𠺔	pen
+𠽾	pen
+𡂫	peng
+𡗗	peng
+𡺜	pen
+𡼜	peng
+𢁖	pei
+𢏳	peng
+𢘀	pei
+𢥐	pei
+𢪋	peng
+𢼩	peng
+𢽩	peng
+𣍺	pei
+𣟀	peng
+𣨞	peng
+𣬆	pei
+𣯱	pei
+𤖳	peng
+𤗏	pei
+𤘾	peng
+𤜲	pei
+𤡭	peng
+𤬃	pei
+𥄔	pei
+𥕱	peng
+𥕽	peng
+𥹂	pei
+𦙂	pei
+𦚝	peng
+𦪪	peng
+𦯰	peng
+𦸪	pei
+𧌇	peng
+𧚋	peng
+𧳏	pei
+𧴂	peng
+𧴥	pei
+𨂃	peng
+𨅘	peng
+𨍩	peng
+𨎧	peng
+𨎳	peng
+𨑎	peng
+𨓿	pei
+𨙶	pei
+𨛬	pei
+𨠟	peng
+𨲰	peng
+𨺀	peng
+𩄦	peng
+𩎜	pei
+𩐛	peng
+𩑢	pei
+𩖛	peng
+𩖭	pei
+𩡕	peng
+𩮗	peng
+𩱀	peng
+𩱋	peng
+𩵣	pei
+𩸀	peng
+𩸂	pen
+𪂽	pen
+𪔍	peng
+𪔔	peng

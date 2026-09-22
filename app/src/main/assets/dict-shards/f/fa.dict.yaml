@@ -3,6 +3,58 @@ name: merged.fa
 version: "1.0"
 sort: by_weight
 ...
+㑂	fang
+㕨	fan
+㕫	fang
+㕹	fa
+㘺	fa
+㛲	fa
+㜶	fan
+㝃	fan
+㠶	fan
+㤃	fang
+㤆	fan
+㧍	fang
+㯐	fang
+㳎	fan
+㳒	fa
+㴀	fan
+㶗	fan
+㸋	fan
+㺕	fan
+㼝	fan
+㽹	fan
+㾱	fan
+䀀	fan
+䀟	fan
+䂲	fa
+䄱	fang
+䇅	fa
+䉊	fan
+䉊	fang
+䉒	fan
+䊩	fan
+䋣	fan
+䋦	fan
+䌓	fan
+䐪	fan
+䒥	fa
+䒦	fan
+䕰	fan
+䛀	fan
+䡊	fan
+䢍	fang
+䣲	fan
+䣹	fa
+䦈	fang
+䪛	fan
+䪤	fan
+䫶	fan
+䭵	fan
+䮳	fan
+䲱	fang
+乏	fa
+乏	fa	78100
 乏了	fa le	111
 乏人	fa ren	1865
 乏人问津	fa ren wen jin	2135
@@ -28,6 +80,9 @@ sort: by_weight
 乏燃料棒	fa ran liao bang	100
 乏色	fa se	35
 乏顿	fa dun	10
+仮	fan
+仿	fang
+仿	fang	313234
 仿不了	fang bu liao	20
 仿不出	fang bu chu	25
 仿不出来	fang bu chu lai	5
@@ -190,6 +245,8 @@ sort: by_weight
 仿造品	fang zao pin	925
 仿金箔	fang jin bo	5
 仿鲸科	fang jing ke	1
+伐	fa
+伐	fa	56861
 伐冰之家	fa bing zhi jia	100
 伐功矜能	fa gong jin neng	100
 伐区	fa qu	1680
@@ -225,6 +282,12 @@ sort: by_weight
 伐罪吊民	fa zui diao min	100
 伐薪烧炭南山中	fa xin shao tan nan shan zhong	8
 伐鼓撞钟	fa gu zhuang zhong	1
+佱	fa
+倣	fang
+傠	fa
+冹	fa
+凡	fan
+凡	fan	320342
 凡不符合	fan bu fu he	7330
 凡与	fan yu	1180
 凡世	fan shi	2145
@@ -332,8 +395,15 @@ sort: by_weight
 凡进必考	fan jin bi kao	41
 凡间	fan jian	16470
 凡需	fan xu	6320
+凢	fan
+凣	fan
+勫	fan
+匚	fang
 匚匸凵冂	fang xi kan jiong	100
 匚部	fang bu	1
+匥	fan
+反	fan
+反	fan	1250683
 反一号	fan yi hao	2
 反丁烯二酸	fan ding xi er suan	2
 反三角函数	fan san jiao han shu	550
@@ -1555,6 +1625,8 @@ sort: by_weight
 反黑路人甲	fan hei lu ren jia	100
 反𬌗	fan he	5
 反𬌗畸形	fan he ji xing	100
+发	fa
+发	fa	3946829
 发一下	fa yi xia	100
 发一个	fa yi ge	100
 发一些	fa yi xie	13
@@ -3815,6 +3887,9 @@ sort: by_weight
 发黏	fa nian	3000
 发黑	fa hei	22535
 发黑眉青	fa hei mei qing	100
+噃	fan
+坊	fang
+坊	fang	28892
 坊上	fang shang	70
 坊前村	fang qian cun	1
 坊子	fang zi	1085
@@ -3831,6 +3906,9 @@ sort: by_weight
 坊间传闻	fang jian chuan wen	165
 坊间流传	fang jian liu chuan	100
 坊闹半长安	fang nao ban chang an	1
+坺	fa
+垡	fa
+垡	fa	79
 垡头	fa tou	1065
 垡头南站	fa tou nan zhan	3
 垡头市场	fa tou shi chang	7
@@ -3838,6 +3916,14 @@ sort: by_weight
 垡头桥西	fa tou qiao xi	2
 垡头西里	fa tou xi li	152
 垡子	fa zi	35
+埅	fang
+堏	fang
+墢	fa
+墦	fan
+墦	fan	13
+奿	fan
+妨	fang
+妨	fang	46595
 妨事	fang shi	9999
 妨功害能	fang gong hai neng	1
 妨害	fang hai	28615
@@ -3859,6 +3945,13 @@ sort: by_weight
 妨碍球	fang ai qiu	100
 妨碍行人	fang ai xing ren	100
 妨碍通行	fang ai tong xing	100
+姂	fa
+婏	fan
+嬎	fan
+嬏	fan
+峜	fa
+帆	fan
+帆	fan	49724
 帆具	fan ju	70
 帆布	fan bu	22005
 帆布包	fan bu bao	1310
@@ -3885,6 +3978,8 @@ sort: by_weight
 帆船运动	fan chuan yun dong	1175
 帆蜥鱼亚目	fan xi yu ya mu	4
 帆鳍胎鳉鱼	fan qi tai jiang yu	1
+幡	fan
+幡	fan	7256
 幡儿	fan er	80
 幡然	fan ran	1205
 幡然变计	fan ran bian ji	100
@@ -3896,6 +3991,12 @@ sort: by_weight
 幡然改进	fan ran gai jin	1
 幡然改途	fan ran gai tu	1
 幡然醒悟	fan ran xing wu	2610
+彂	fa
+彷	fang
+忛	fan
+憣	fan
+房	fang
+房	fang	980289
 房上	fang shang	3265
 房东	fang dong	70320
 房东太太	fang dong tai tai	1575
@@ -4510,6 +4611,10 @@ sort: by_weight
 房颤	fang chan	3770
 房龄	fang ling	2000
 房龙	fang long	49
+払	fan
+拚	fan
+放	fang
+放	fang	7730745
 放一个	fang yi ge	100
 放一些	fang yi xie	31
 放一会	fang yi hui	65
@@ -5576,6 +5681,8 @@ sort: by_weight
 放鹰逐犬	fang ying zhu quan	3
 放龙入海	fang long ru hai	3
 放𬴐兜于崇山	fang huan dou yu chong shan	100
+方	fang
+方	fang	347176
 方丈	fang zhang	34950
 方丈室	fang zhang shi	1785
 方丈岛	fang zhang dao	100
@@ -6232,10 +6339,24 @@ sort: by_weight
 方高坪	fang gao ping	151
 方鸿渐	fang hong jian	2580
 方鼎英	fang ding ying	5
+旊	fang
+旙	fan
+旛	fan
+昉	fang
+昉	fang	351
+昘	fang
+杋	fan
+枋	fang
+枋	fang	446
 枋子	fang zi	1
 枋寮	fang liao	270
 枋寮乡	fang liao xiang	100
 枋山乡	fang shan xiang	100
+柉	fan
+栰	fa
+桳	fan
+梵	fan
+梵	fan	17305
 梵册贝叶	fan ce bei ye	100
 梵净山	fan jing shan	6595
 梵净山自然保护区	fan jing shan zi ran bao hu qu	165
@@ -6267,6 +6388,9 @@ sort: by_weight
 梵音谷	fan yin gu	100
 梵高	fan gao	7320
 梵高传	fan gao zhuan	125
+棥	fan
+樊	fan
+樊	fan	28633
 樊丽明	fan li ming	180
 樊亦敏	fan yi min	195
 樊凯杰	fan kai jie	172
@@ -6309,6 +6433,15 @@ sort: by_weight
 樊迟从游于舞雩之下	fan chi cong you yu wu yu zhi xia	1
 樊迟请学稼	fan chi qing xue jia	2
 樊钟秀	fan zhong xiu	5
+橃	fa
+橎	fan
+氾	fan
+氾	fan	71
+汎	fan
+汸	fang
+沷	fa
+法	fa
+法	fa	2798486
 法不传六	fa bu chuan liu	8
 法不传六耳	fa bu chuan liu er	100
 法不容情	fa bu rong qing	565
@@ -7473,6 +7606,8 @@ sort: by_weight
 法鲨	fa sha	111
 法鸡	fa ji	9999
 法鼓山	fa gu shan	305
+泛	fan
+泛	fan	93454
 泛不起	fan bu qi	170
 泛亚	fan ya	917
 泛代数	fan dai shu	100
@@ -7587,6 +7722,14 @@ sort: by_weight
 泛非主义	fan fei zhu yi	100
 泛音	fan yin	6555
 泛黄	fan huang	13315
+浌	fa
+淓	fang
+滼	fan
+瀪	fan
+瀿	fan
+灋	fa
+烦	fan
+烦	fan	350929
 烦不烦	fan bu fan	3690
 烦不烦人	fan bu fan ren	100
 烦不烦啊	fan bu fan a	100
@@ -7664,8 +7807,15 @@ sort: by_weight
 烦闷	fan men	13265
 烦闷的	fan men de	2160
 烦难	fan nan	530
+煩	fan
+燔	fan
+燔	fan	158
 燔书坑儒	fan shu keng ru	1
 燔祭	fan ji	765
+牥	fang
+牥	fang	1
+犯	fan
+犯	fan	254131
 犯上	fan shang	4810
 犯上作乱	fan shang zuo luan	1115
 犯下	fan xia	24720
@@ -7868,9 +8018,21 @@ sort: by_weight
 犯颜苦谏	fan yan ku jian	100
 犯颜进谏	fan yan jin jian	1
 犯鼻炎	fan bi yan	100
+犿	fan
+珐	fa
+珐	fa	878
 珐琅	fa lang	12445
 珐琅质	fa lang zhi	1235
+琺	fa
+璠	fan
+璠	fan	1232
+瓬	fang
+畈	fan
+畈	fan	334
 畈田	fan tian	260
+畨	fan
+番	fan
+番	fan	223306
 番人	fan ren	1225
 番位	fan wei	333
 番僧	fan seng	1965
@@ -7990,12 +8152,37 @@ sort: by_weight
 番路乡	fan lu xiang	100
 番邦	fan bang	1605
 番鸭	fan ya	3
+疺	fa
+発	fa
+發	fa
+盕	fan
+眆	fang
+眪	fang
+瞂	fa
+矾	fan
+矾	fan	718
 矾土	fan tu	1490
 矾石	fan shi	2120
 矾索叠砖	fan suo die zhuan	1
 矾藤痔注射液	fan teng zhi zhu she ye	1
+砝	fa
+砝	fa	1734
 砝码	fa ma	26055
+礬	fan
+祊	fang
+笩	fa
+笲	fan
+笵	fan
+筏	fa
+筏	fa	7349
 筏子	fa zi	3075
+範	fan
+籓	fan
+籵	fan
+紡	fang
+緐	fan
+繁	fan
+繁	fan	111669
 繁不繁忙	fan bu fan mang	100
 繁丝急管	fan si ji guan	1
 繁中	fan zhong	9999
@@ -8173,6 +8360,9 @@ sort: by_weight
 繁霜鬓	fan shuang bin	100
 繁音促节	fan yin cu jie	100
 繁鸟萃棘	fan niao cui ji	3
+繙	fan
+纺	fang
+纺	fang	8718
 纺丝	fang si	7180
 纺丝头	fang si tou	30
 纺丝机	fang si ji	615
@@ -8274,6 +8464,8 @@ sort: by_weight
 纺锥全列虫	fang zhui quan lie chong	1
 纺锭	fang ding	705
 纺麻	fang ma	190
+罚	fa
+罚	fa	94402
 罚一劝百	fa yi quan bai	100
 罚一罚	fa yi fa	234
 罚下	fa xia	5440
@@ -8345,6 +8537,11 @@ sort: by_weight
 罚金	fa jin	93665
 罚金刑	fa jin xing	1540
 罚钱	fa qian	4444
+罰	fa
+罸	fa
+羳	fan
+翻	fan
+翻	fan	1391454
 翻一下	fan yi xia	115
 翻一番	fan yi fan	2206
 翻一翻	fan yi fan	3285
@@ -8753,6 +8950,15 @@ sort: by_weight
 翻饼	fan bing	55
 翻黄	fan huang	1
 翻黄倒皂	fan huang dao zao	1
+肪	fang
+肪	fang	8036
+膰	fan
+舤	fan
+舧	fan
+舫	fang
+舫	fang	5324
+芳	fang
+芳	fang	175343
 芳亭	fang ting	2
 芳亭村	fang ting cun	1
 芳信路	fang xin lu	35
@@ -8861,6 +9067,8 @@ sort: by_weight
 芳魂	fang hun	147
 芳龄	fang ling	3945
 芳龄几许	fang ling ji xu	25
+范	fan
+范	fan	224772
 范世锜	fan shi qi	1
 范中杰	fan zhong jie	112
 范之杰	fan zhi jie	1
@@ -9077,9 +9285,17 @@ sort: by_weight
 范马刃牙	fan ma ren ya	175
 范马勇次郎	fan ma yong ci lang	170
 范鸿达	fan hong da	5
+茷	fa
+蕃	fan
+蕃	fan	9570
 蕃学	fan xue	1
 蕃息	fan xi	11
 蕃草席铺枫叶岸	fan cao xi pu feng ye an	1
+蕟	fa
+薠	fan
+藅	fa
+藩	fan
+藩	fan	26539
 藩主	fan zhu	960
 藩司	fan si	56
 藩国	fan guo	1250
@@ -9095,6 +9311,16 @@ sort: by_weight
 藩篱之鷃	fan li zhi yan	3
 藩镇	fan zhen	3665
 藩镇割据	fan zhen ge ju	1290
+蘩	fan
+蘩	fan	1942
+蚄	fang
+蚄	fang	7
+蠜	fan
+襎	fan
+訉	fan
+訪	fang
+访	fang
+访	fang	133498
 访京	fang jing	800
 访亲问友	fang qin wen you	100
 访匈	fang xiong	170
@@ -9228,6 +9454,9 @@ sort: by_weight
 访韩之旅	fang han zhi lv	100
 访韩团	fang han tuan	100
 访风景于崇阿	fang feng jing yu chong e	100
+販	fan
+贩	fan
+贩	fan	35971
 贩交买名	fan jiao mai ming	1
 贩假	fan jia	2610
 贩卖	fan mai	53575
@@ -9268,6 +9497,15 @@ sort: by_weight
 贩运户	fan yun hu	275
 贩运者	fan yun zhe	85
 贩黄	fan huang	760
+趽	fang
+蹯	fan
+蹯	fan	44
+軓	fan
+軬	fan
+輽	fan
+轓	fan
+返	fan
+返	fan	97646
 返乡	fan xiang	25885
 返乡人员	fan xiang ren yuan	126
 返乡回家	fan xiang hui jia	100
@@ -9468,6 +9706,19 @@ sort: by_weight
 返魂草	fan hun cao	25
 返魂草颗粒	fan hun cao ke li	1
 返黏	fan nian	1399
+邡	fang
+邡	fang	186
+酦	fa
+醗	fa
+醱	fa
+釩	fan
+鈁	fang
+錺	fang
+鍅	fa
+鐇	fan
+鐢	fan
+钒	fan
+钒	fan	103
 钒元素	fan yuan su	100
 钒合金	fan he jin	100
 钒电池	fan dian chi	155
@@ -9477,7 +9728,12 @@ sort: by_weight
 钒钢	fan gang	700
 钒铁	fan tie	2780
 钒铅矿	fan qian kuang	30
+钫	fang
+钫	fang	44
 钫元素	fang yuan su	100
+閥	fa
+阀	fa
+阀	fa	13821
 阀体	fa ti	12150
 阀座	fa zuo	6090
 阀杆	fa gan	629
@@ -9492,6 +9748,8 @@ sort: by_weight
 阀门系列	fa men xi lie	100
 阀门行业	fa men hang ye	100
 阀阅	fa yue	53
+防	fang
+防	fang	406226
 防一防	fang yi fang	142
 防不了	fang bu liao	480
 防不住	fang bu zhu	1270
@@ -10370,6 +10628,12 @@ sort: by_weight
 防鼠	fang shu	6020
 防龋	fang qu	181
 防龟裂	fang jun lie	1
+颿	fan
+飜	fan
+飯	fan
+飰	fan
+饭	fan
+饭	fan	592046
 饭不吃	fan bu chi	100
 饭也不吃	fan ye bu chi	995
 饭也不想吃	fan ye bu xiang chi	320
@@ -10494,8 +10758,91 @@ sort: by_weight
 饭馆里	fan guan li	4100
 饭香	fan xiang	1705
 饭麸果	fan fu guo	100
+髣	fang
 髣髴兮	fang fu xi	5
 髣髴兮若轻云之蔽月	fang fu xi ruo qing yun zhi bi yue	5
+髪	fa
+髮	fa
+魴	fang
+鱕	fan
+鲂	fang
+鲂	fang	282
 鲂鱼赪尾	fang yu cheng wei	3
 鲂𫚒	fang fu	1
 鲂𫚒科	fang fu ke	1
+鴋	fang
+鶭	fang
+鷭	fan
+𠆩	fan
+𠒾	fan
+𠞵	fa
+𠲎	fa
+𠲎	fa	1
+𡁈	fan
+𡗹	fan
+𡜀	fan
+𡤎	fan
+𡶉	fan
+𢇪	fan
+𢐲	fan
+𢗰	fan
+𢬵	fan
+𢶃	fan
+𣄅	fang
+𣔶	fan
+𣳜	fan
+𤄑	fan
+𤄫	fan
+𤇰	fa
+𤣹	fa
+𤬨	fan
+𤭍	fan
+𤳖	fan
+𤿓	fa
+𥃵	fan
+𥅒	fan
+𥎰	fa
+𥢌	fan
+𥩱	fa
+𥫳	fang
+𥸨	fan
+𥹇	fan
+𥻫	fan
+𥼞	fan
+𥿋	fan
+𦊻	fan
+𦜒	fan
+𦦽	fan
+𦨲	fan
+𦪑	fa
+𦪖	fan
+𧀭	fan
+𧁉	fan
+𧉤	fan
+𧊾	fan
+𧍙	fan
+𧢜	fan
+𧦟	fan
+𧬋	fa
+𨀳	fa
+𨆌	fan
+𨋺	fa
+𨙮	fan
+𨟄	fan
+𨠒	fan
+𨥧	fan
+𨾔	fang
+𩇴	fang
+𩕏	fan
+𩗧	fang
+𩡫	fan
+𩧅	fan
+𩨩	fan
+𩬝	fang
+𩮗	fang
+𩲌	fang
+𩷸	fang
+𪕃	fang
+𪖇	fan
+𫔍	fan	1
+𬸪	fan	1

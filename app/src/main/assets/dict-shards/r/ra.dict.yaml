@@ -3,6 +3,40 @@ name: merged.ra
 version: "1.0"
 sort: by_weight
 ...
+㑱	rao
+㒄	ran
+㚂	rang
+㚩	ran
+㜣	ran
+㯗	ran
+㲯	ran
+㸐	ran
+㹛	rao
+㹱	ran
+㾆	ran
+㿵	ran
+䇋	ran
+䉴	rang
+䎃	ran
+䎃	ran	1
+䑋	rang
+䑙	ran
+䒣	ran
+䔳	ran
+䕼	ran
+䖄	ran
+䣸	ran
+䤡	ran
+䫇	ran
+䫞	rao
+䰯	ran
+䳿	ran
+䶲	ran
+儴	rang
+儴	rang	2
+冄	ran
+冉	ran
+冉	ran	35293
 冉冉	ran ran	14145
 冉冉上升	ran ran shang sheng	940
 冉冉不绝	ran ran bu jue	1
@@ -22,6 +56,11 @@ sort: by_weight
 冉雄飞	ran xiong fei	22
 冉雪峰	ran xue feng	1
 冉高鸣	ran gao ming	180
+勷	rang
+呥	ran
+嘫	ran
+嚷	rang
+嚷	rang	69716
 嚷出去	rang chu qu	100
 嚷出来	rang chu lai	100
 嚷叫	rang jiao	9999
@@ -38,11 +77,22 @@ sort: by_weight
 嚷着	rang zhe	14370
 嚷起来	rang qi lai	1600
 嚷道	rang dao	1386
+壌	rang
+壤	rang
+壤	rang	15483
 壤口乡	rang kou xiang	3
 壤土	rang tu	11
 壤塘	rang tang	1000
 壤塘县	rang tang xian	605
 壤柯镇	rang ke zhen	1
+姌	ran
+娆	rao
+娆	rao	7099
+媣	ran
+嬈	rao
+懹	rang
+扰	rao
+扰	rao	122869
 扰乱	rao luan	77955
 扰乱了	rao luan le	100
 扰乱了市场	rao luan le shi chang	100
@@ -73,6 +123,9 @@ sort: by_weight
 扰流器	rao liu qi	550
 扰流板	rao liu ban	3630
 扰袭	rao xi	90
+擾	rao
+攘	rang
+攘	rang	14580
 攘为己有	rang wei ji you	1
 攘人之美	rang ren zhi mei	100
 攘境安民	rang jing an min	100
@@ -105,6 +158,8 @@ sort: by_weight
 攘袖见素手	rang xiu jian su shou	1
 攘除	rang chu	999
 攘除奸凶	rang chu jian xiong	100
+染	ran
+染	ran	126552
 染上	ran shang	40990
 染上了	ran shang le	100
 染上了风寒	ran shang le feng han	100
@@ -220,6 +275,8 @@ sort: by_weight
 染黄了	ran huang le	3
 染黄毛	ran huang mao	3
 染黑	ran hei	2950
+桡	rao
+桡	rao	229
 桡侧	rao ce	70
 桡侧副韧带	rao ce fu ren dai	1
 桡侧腕屈肌	rao ce wan qu ji	2
@@ -236,9 +293,15 @@ sort: by_weight
 桡骨小头半脱位	rao gu xiao tou ban tuo wei	8
 桡骨茎突	rao gu jing tu	11
 桡骨茎突腱鞘炎	rao gu jing tu jian qiao yan	5
+橈	rao
+橪	ran
+瀼	rang
+瀼	rang	22
 瀼河	rang he	2
 瀼河乡	rang he xiang	9
 瀼瀼	rang rang	1
+然	ran
+然	ran	7339938
 然不自意能先入关破秦	ran bu zi yi neng xian ru guan po qin	1
 然乌	ran wu	70
 然乌湖	ran wu hu	2145
@@ -342,6 +405,9 @@ sort: by_weight
 然身死才数月耳	ran shen si cai shu yue er	100
 然遍地腥云	ran bian di xing yun	10
 然鹅	ran e	1000
+熯	ran
+燃	ran
+燃	ran	118687
 燃一把	ran yi ba	100
 燃一次	ran yi ci	100
 燃了	ran le	3333
@@ -487,16 +553,32 @@ sort: by_weight
 燃起来了	ran qi lai le	100
 燃面	ran mian	1327
 燃香	ran xiang	1405
+爙	rang
+獽	rang
+珃	ran
+瓤	rang
+瓤	rang	846
 瓤儿	rang er	5
 瓤子	rang zi	260
 瓤豆腐	rang dou fu	133
+禳	rang
+禳	rang	600
 禳灾	rang zai	111
 禳解	rang jie	1
 禳谢	rang xie	5
+穘	rao
+穣	rang
+穰	rang
+穰	rang	534
 穰穰	rang rang	365
 穰穰劳劳	rang rang lao lao	1
 穰穰垓垓	rang rang gai gai	1
 穰穰满家	rang rang man jia	3
+繎	ran
+繞	rao
+纕	rang
+绕	rao
+绕	rao	150071
 绕一下	rao yi xia	71
 绕一圈	rao yi quan	100
 绕不出	rao bu chu	180
@@ -601,13 +683,33 @@ sort: by_weight
 绕郭荷花三十里	rao guo he hua san shi li	1
 绕金乡	rao jin xiang	1
 绕阳河	rao yang he	129
+肰	ran
+苒	ran
+苒	ran	3850
 苒苒	ran ran	1180
 苒苒物华休	ran ran wu hua xiu	1
+荛	rao
+荛	rao	132
 荛夫野人	rao fu ye ren	100
 荛歌牧啸	rao ge mu xiao	100
 荛花	rao hua	2
+蒅	ran
+蕘	rao
+蘘	rang
+蘘	rang	11
 蘘荷	rang he	32
+蚦	ran
+蚺	ran
+蚺	ran	940
 蚺蛇	ran she	475
+衻	ran
+袇	ran
+袡	ran
+襓	rao
+譲	rang
+讓	rang
+让	rang
+让	rang	2999423
 让-保罗·萨特	rang bao luo sa te	100
 让-雅克·卢梭	rang ya ke lu suo	100
 让-雅克·阿诺	rang ya ke a nuo	100
@@ -1036,6 +1138,12 @@ sort: by_weight
 让风吹	rang feng chui	1780
 让食品	rang shi pin	265
 让马停下	rang ma ting xia	100
+躟	rang
+遶	rao
+隢	rao
+饒	rao
+饶	rao
+饶	rao	85409
 饶不了	rao bu liao	2490
 饶不了你	rao bu liao ni	100
 饶丰镇	rao feng zhen	7
@@ -1084,7 +1192,52 @@ sort: by_weight
 饶雪漫	rao xue man	100
 饶颖	rao ying	107
 饶鹏	rao peng	6
+髥	ran
+髯	ran
+髯	ran	8077
 髯口	ran kou	485
 髯毛鰕虎	ran mao xia hu	1
 髯毛鰕虎鱼	ran mao xia hu yu	1
 髯海豹	ran hai bao	100
+鬤	rang
+𠊌	ran
+𠒸	rao
+𠤀	ran
+𠯍	ran
+𠱞	ran
+𡈦	rao
+𡖝	ran
+𡜉	ran
+𡜫	ran
+𢓒	ran
+𣩽	rang
+𣰦	ran
+𣰶	rang
+𤅑	rang
+𤙼	ran
+𤡮	ran
+𤬥	rang
+𤰂	rang
+𤱋	ran
+𤲗	ran
+𥀫	ran
+𥀭	ran
+𥗝	rang
+𥬕	ran
+𥳚	ran
+𦪛	rao
+𦫉	ran
+𧟄	rang
+𧳨	rao
+𨇄	rao
+𨏛	rang
+𨟚	rang
+𨹌	ran
+𩃵	ran
+𩆶	rang
+𩢡	ran
+𩧬	ran
+𩶎	ran
+𪓘	ran
+𪓚	ran
+𪚮	ran

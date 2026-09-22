@@ -3,6 +3,39 @@ name: merged.sa
 version: "1.0"
 sort: by_weight
 ...
+㒎	sa
+㗷	sai
+㘔	sai
+㛐	sao
+㛮	sao
+㤾	san
+㧲	san
+㪔	san
+㪚	san
+㪪	sa
+㳐	sa
+㽂	sa
+㿋	sao
+䀐	san
+䈢	sai
+䉈	san
+䊉	san
+䊛	sa
+䐹	sao
+䑥	sa
+䓲	sa
+䕅	sao
+䘮	sa
+䘮	sang
+䙣	sa
+䚡	sai
+䡦	sang
+䫅	san
+䫙	sang
+䫩	san
+䬃	sa
+三	san
+三	san	2747794
 三〇〇〇	san ling ling ling	100
 三〇〇〇年	san ling ling ling nian	100
 三〇〇一	san ling ling yi	100
@@ -6026,6 +6059,8 @@ sort: by_weight
 三齿转刺蛛	san chi zhuan ci zhu	1
 三龙图	san long tu	100
 三龙村	san long cun	38
+丧	sang
+丧	sang	128277
 丧乱	sang luan	1785
 丧乱帖	sang luan tie	285
 丧了	sang le	111
@@ -6121,6 +6156,9 @@ sort: by_weight
 丧门神	sang men shen	295
 丧魂失魄	sang hun shi po	100
 丧魂落魄	sang hun luo po	490
+仐	san
+仨	sa
+仨	sa	5719
 仨人	sa ren	3333
 仨仨俩俩	sa sa lia lia	100
 仨字	sa zi	333
@@ -6128,6 +6166,8 @@ sort: by_weight
 仨小时	sa xiao shi	100
 仨月	sa yue	3333
 仨瓜俩枣	sa gua lia zao	9999
+伞	san
+伞	san	33523
 伞下	san xia	4890
 伞业	san ye	262
 伞兵	san bing	10065
@@ -6149,7 +6189,22 @@ sort: by_weight
 伞降	san jiang	1820
 伞骨	san gu	222
 伞齿轮	san chi lun	100
+俕	san
+傘	san
+僿	sai
+卅	sa
+卅	sa	1019
 卅年仍到赫曦台	sa nian reng dao he xi tai	2
+厁	san
+叁	san
+叁	san	5883
+参	san
+參	san
+叄	san
+叅	san
+喪	sang
+嗓	sang
+嗓	sang	66941
 嗓子	sang zi	56150
 嗓子哑了	sang zi ya le	100
 嗓子好	sang zi hao	390
@@ -6163,6 +6218,10 @@ sort: by_weight
 嗓门	sang men	17855
 嗓门儿	sang men er	600
 嗓音	sang yin	55630
+嗮	sai
+嘥	sai
+噻	sai
+噻	sai	2629
 噻吗心安	sai ma xin an	3
 噻吗洛尔	sai ma luo er	2
 噻吩	sai fen	1
@@ -6175,7 +6234,11 @@ sort: by_weight
 噻苯咪唑	sai ben mi zuo	94
 噻苯达唑	sai ben da zuo	2
 噻苯隆	sai ben long	2
+埽	sao
+埽	sao	166
 埽岸	sao an	2
+塞	sai
+塞	sai	206867
 塞一些	sai yi xie	1180
 塞万提斯	sai wan ti si	2930
 塞上	sai shang	11180
@@ -6407,12 +6470,23 @@ sort: by_weight
 塞飞洛	sai fei luo	100
 塞黑	sai hei	11055
 塞黑队	sai hei dui	10
+壭	san
+嫂	sao
+嫂	sao	69851
 嫂夫人	sao fu ren	1240
 嫂嫂	sao sao	87190
 嫂子	sao zi	50755
 嫂子呢	sao zi ne	100
 嫂子颂	sao zi song	17
 嫂溺叔援	sao ni shu yuan	1
+帴	san
+弎	san
+思	sai
+愢	sai
+慅	sao
+懆	sao
+扫	sao
+扫	sao	192957
 扫一下	sao yi xia	9
 扫一个	sao yi ge	100
 扫一哈	sao yi ha	100
@@ -6695,6 +6769,12 @@ sort: by_weight
 扫黑除恶进行时	sao hei chu e jin xing shi	100
 扫黑除恶领导小组	sao hei chu e ling dao xiao zu	100
 扫黑风暴	sao hei feng bao	191
+挲	sa	100
+掃	sao
+掻	sao
+揌	sai
+搔	sao
+搔	sao	13130
 搔一搔	sao yi sao	129
 搔了搔	sao le sao	1615
 搔了搔头	sao le sao tou	106
@@ -6712,6 +6792,11 @@ sort: by_weight
 搔首不知痒处	sao shou bu zhi yang chu	1
 搔首弄姿	sao shou nong zi	3290
 搔首踟蹰	sao shou chi chu	100
+搡	sang
+搡	sang	4714
+摋	sa
+撒	sa
+撒	sa	140910
 撒一地	sa yi di	100
 撒一撒	sa yi sa	123
 撒丁岛	sa ding dao	1180
@@ -6890,6 +6975,9 @@ sort: by_weight
 撒马尔罕	sa ma er han	1150
 撒骚放屁	sa sao fang pi	1
 撒鸭子	sa ya zi	100
+攃	sa
+散	san
+散	san	468009
 散上峰头望故乡	san shang feng tou wang gu xiang	7
 散不了	san bu liao	130
 散不出去	san bu chu qu	320
@@ -7159,6 +7247,8 @@ sort: by_weight
 散骑常侍	san qi chang shi	2865
 散黄	san huang	4096
 散黄蛋	san huang dan	4096
+桑	sang
+桑	sang	118729
 桑丘	sang qiu	111
 桑丘·潘萨	sang qiu pan sa	111
 桑中之喜	sang zhong zhi xi	1
@@ -7355,7 +7445,21 @@ sort: by_weight
 桑麻	sang ma	3170
 桑麻工业区	sang ma gong ye qu	1
 桑麻杜曲	sang ma du qu	100
+桒	sang
+梢	sao
+槡	sang
+櫒	sa
+毢	sai
+毵	san
+毵	san	64
 毵毵	san san	310
+毶	san
+毸	sai
+毿	san
+氉	sao
+泧	sa
+洒	sa
+洒	sa	96761
 洒一洒	sa yi sa	104
 洒上	sa shang	1111
 洒下	sa xia	10690
@@ -7416,14 +7520,44 @@ sort: by_weight
 洒金桃红	sa jin tao hong	1
 洒金桥	sa jin qiao	123
 洒金红	sa jin hong	1
+溞	sao
+溞	sao	3
+潵	sa
+潵	sa	60
+潵	san
+灑	sa
+犙	san
+瘙	sao
+瘙	sao	722
 瘙痒	sao yang	33510
 瘙痒病	sao yang bing	7
 瘙痒症	sao yang zheng	100
+矂	sao
+磉	sang
+磉	sang	12
+簺	sai
+糁	san
+糁	san	1
 糁汤	san tang	89
+糝	san
+糣	san
+糤	san
+繅	sao
+繖	san
+繰	sao
+纚	sa
+缫	sao
+缫	sao	253
 缫丝	sao si	5300
 缫丝厂	sao si chang	1115
 缫丝机	sao si ji	485
 缫车	sao che	5
+缲	sao
+缲	sao	1
+脎	sa
+脎	sa	20
+腮	sai
+腮	sai	20075
 腮上	sai shang	111
 腮帮	sai bang	2080
 腮帮子	sai bang zi	4035
@@ -7440,6 +7574,8 @@ sort: by_weight
 腮腺管	sai xian guan	4
 腮边的	sai bian de	415
 腮颊	sai jia	315
+臊	sao
+臊	sao	5795
 臊味	sao wei	700
 臊味儿	sao wei er	5
 臊味重	sao wei zhong	100
@@ -7456,6 +7592,8 @@ sort: by_weight
 臊膻	sao shan	4
 臊臭	sao chou	195
 臊臭味	sao chou wei	467
+萨	sa
+萨	sa	5184
 萨丁农场	sa ding nong chang	1
 萨丁尼亚	sa ding ni ya	100
 萨丁尼亚岛	sa ding ni ya dao	100
@@ -7743,6 +7881,14 @@ sort: by_weight
 萨默斯	sa mo si	1165
 萨默氏魮	sa mo shi pi	1
 萨默维尔蕈珊瑚	sa mo wei er xun shan hu	1
+蕯	sa
+薩	sa
+螦	sao
+褬	sang
+訯	sa
+賽	sai
+赛	sai
+赛	sai	301766
 赛·墨克斯	sai mo ke si	111
 赛不出	sai bu chu	30
 赛世香樟园	sai shi xiang zhang yuan	9
@@ -7973,7 +8119,27 @@ sort: by_weight
 赛鸽俱乐部	sai ge ju le bu	100
 赛龙舟	sai long zhou	3680
 赛龙船	sai long chuan	235
+躠	sa
+鈒	sa
+鎟	sang
+鏒	san
+鏾	sa
+鏾	san
+钑	sa
+閐	san
+隡	sa
+靸	sa
+靸	sa	168
 靸鞋	sa xie	35
+鞈	sa
+顋	sai
+顙	sang
+颡	sang
+颡	sang	180
+颯	sa
+颾	sao
+飒	sa
+飒	sa	12008
 飒如松起籁	sa ru song qi lai	1
 飒小姐	sa xiao jie	100
 飒尔凉风吹	sa er liang feng chui	1
@@ -7992,8 +8158,16 @@ sort: by_weight
 飒飒如有人	sa sa ru you ren	1
 飒飒萧萧	sa sa xiao xiao	2
 飒飒飒	sa sa sa	149
+饊	san
+馓	san
+馓	san	151
 馓子	san zi	2858
 馓子麻花	san zi ma hua	210
+馺	sa
+騒	sao
+騷	sao
+骚	sao
+骚	sao	72015
 骚一点	sao yi dian	100
 骚乱	sao luan	18910
 骚乱性	sao luan xing	20
@@ -8047,6 +8221,13 @@ sort: by_weight
 骚蹄子	sao ti zi	100
 骚逼	sao bi	22
 骚闹	sao nao	80
+髞	sao
+鬖	san
+鰓	sai
+鰠	sao
+鱢	sao
+鳃	sai
+鳃	sai	449
 鳃丝	sai si	16
 鳃呼吸	sai hu xi	120
 鳃弓	sai gong	3
@@ -8061,3 +8242,112 @@ sort: by_weight
 鳃裂瘘管	sai lie lou guan	1
 鳃金龟	sai jin gui	8
 鳃鱼龙	sai yu long	161
+鳋	sao
+𠋺	sao
+𠎷	sa
+𠦃	sa
+𠬙	sa
+𠮿	sa
+𠮿	san
+𠱡	sa
+𠿓	sa
+𡄳	sa
+𡐥	sa
+𡒁	sa
+𡕏	sang
+𡙘	san
+𡠏	sang
+𡨄	sai
+𡬉	sai
+𢁘	san
+𢓔	sa
+𢔳	sao
+𢕕	san
+𢕬	sa
+𢜶	sao
+𢠡	sao
+𢤁	sao
+𢮞	sao
+𢶍	sa
+𢻨	sa
+𣀧	san
+𣀫	san
+𣀯	sa
+𣉔	sao
+𣉕	sang
+𣊝	sang
+𣔱	sao
+𣘤	sa
+𣜂	sa
+𣞙	sang
+𣬛	san
+𣬬	sa
+𣮠	san
+𣰕	sao
+𤠘	sao
+𤢖	sao
+𤸯	sang
+𥊀	san
+𥋌	sa
+𥒬	san
+𥔫	sang
+𥰱	sao
+𥵯	sa
+𥸗	sa
+𥻦	sa
+𦅇	sang
+𦏛	sao
+𦕏	sao
+𦙱	san
+𦙸	san
+𦞣	sao
+𦞫	sai
+𦟄	sang
+𦟄	sao
+𦠿	sa
+𦡨	san
+𦷻	san
+𦺋	sao
+𦺻	san
+𦻅	sa
+𦼧	sa
+𦾘	sao
+𧀕	sa
+𧂩	sao
+𧍨	sang
+𧑫	sao
+𧖠	sao
+𧗋	san
+𧭝	sa
+𧱆	san
+𧽾	san
+𨃛	sa
+𨃣	sao
+𨆂	sa
+𨐖	sa
+𨢆	sang
+𨧪	sao
+𨪊	sao
+𨷆	sa
+𩀲	san
+𩀼	san
+𩆅	sa
+𩎕	sa
+𩐅	sa
+𩐷	sang
+𩗉	sa
+𩗞	sa
+𩙈	sao
+𩜱	san
+𩞀	san
+𩣞	sa
+𩦌	sang
+𩨞	sa
+𩨡	san
+𩫦	sao
+𩮚	sao
+𩯑	san
+𩺞	sang
+𪃄	sai
+𪍻	sao
+𪔬	sang

@@ -3,8 +3,24 @@ name: merged.te
 version: "1.0"
 sort: by_weight
 ...
+㥂	te
+㧹	te
+䒅	teng
+䕨	teng
+䠮	teng
+䲍	teng
+䲢	teng
+䲢	teng	14
 䲢头鲉	teng tou you	1
+儯	teng
+幐	teng
+忑	te
+忑	te	15706
 忑忑忐忐	te te tan tan	2
+忒	te
+忒	te	1
+忒	tei
+忒	tei	9833
 忒不好走	tei bu hao zou	3333
 忒丑	tei chou	3333
 忒丑了	tei chou le	3333
@@ -143,6 +159,10 @@ sort: by_weight
 忒黑	tei hei	3333
 忒黑了	tei hei le	3333
 忒黑了吧	tei hei le ba	3333
+慝	te
+慝	te	83
+滕	teng
+滕	teng	9254
 滕久寿	teng jiu shou	10
 滕亚杰	teng ya jie	75
 滕代远	teng dai yuan	140
@@ -168,11 +188,16 @@ sort: by_weight
 滕胤	teng yin	5
 滕芳兰	teng fang lan	100
 滕薛争长	teng xue zheng zhang	1
+漛	teng
+熥	teng
+熥	teng	9
 熥一下	teng yi xia	123
 熥一熥	teng yi teng	123
 熥了熥	teng le teng	123
 熥包子	teng bao zi	123
 熥馒头	teng man tou	123
+特	te
+特	te	1314148
 特一	te yi	4870
 特一粉	te yi fen	2065
 特一级	te yi ji	100
@@ -1469,6 +1494,9 @@ sort: by_weight
 特鲁索娃	te lu suo wa	100
 特鲜	te xian	2222
 特黑	te hei	2420
+犆	te
+疼	teng
+疼	teng	213129
 疼不	teng bu	1320
 疼不疼	teng bu teng	1805
 疼了	teng le	17710
@@ -1516,7 +1544,15 @@ sort: by_weight
 疼痛难忍	teng tong nan ren	6680
 疼的	teng de	22375
 疼着呢	teng zhe ne	190
+痋	teng
+籐	teng
+籘	teng
+縢	teng
+縢	teng	19
 縢屠郑酤	teng tu zheng gu	1
+脦	te
+腾	teng
+腾	teng	95410
 腾不出	teng bu chu	735
 腾不出手	teng bu chu shou	610
 腾不出来	teng bu chu lai	125
@@ -1647,6 +1683,9 @@ sort: by_weight
 腾飞路	teng fei lu	107
 腾龙	teng long	15505
 腾龙娱乐	teng long yu le	100
+膯	teng
+藤	teng
+藤	teng	61231
 藤井一夜	teng jing yi ye	6666
 藤井司	teng jing si	100
 藤井树	teng jing shu	36
@@ -1733,7 +1772,13 @@ sort: by_weight
 藤野先生	teng ye xian sheng	2245
 藤黄	teng huang	19
 藤黄健骨丸	teng huang jian gu wan	2
+虅	teng
+螣	teng
+螣	teng	57
 螣蛇	teng she	2845
+蟘	te
+誊	teng
+誊	teng	1318
 誊写	teng xie	2735
 誊写机	teng xie ji	45
 誊写版	teng xie ban	100
@@ -1746,4 +1791,44 @@ sort: by_weight
 誊本	teng ben	370
 誊正	teng zheng	85
 誊清	teng qing	930
+謄	teng
+貣	te
+邆	teng
+鋱	te
+铽	te
+铽	te	53
 铽元素	te yuan su	100
+霯	teng
+駦	teng
+騰	teng
+驣	teng
+鰧	teng
+鼟	teng
+𠈸	te
+𢘋	te
+𢚺	teng
+𢟱	teng
+𢥂	teng
+𣘱	te
+𣽨	teng
+𤃶	teng
+𤙰	te
+𤳘	teng
+𤹤	teng
+𥉋	teng
+𥊸	te
+𥌩	te
+𦗟	te
+𦡪	teng
+𦩫	teng
+𦪝	teng
+𦫀	teng
+𧄼	teng
+𧈜	teng
+𧭔	teng
+𨃗	teng
+𨄇	teng
+𩩻	teng
+𩴝	teng
+𪒿	teng
+𪔶	teng

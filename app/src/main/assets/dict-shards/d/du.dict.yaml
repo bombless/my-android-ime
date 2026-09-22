@@ -3,11 +3,91 @@ name: merged.du
 version: "1.0"
 sort: by_weight
 ...
+㓃	du
+㔍	duo
+㖼	duo
+㙂	dui
+㙍	duo
+㙍	duo	1
+㙐	duo
+㛆	duo
+㛊	duo
+㞘	du
 㞘儿	du er	2
 㞘子	du zi	2
+㟋	dui
+㠚	dui
+㡯	du
+㣞	duo
+㥩	duo
+㧷	duo
+㨃	dui
+㨃	dui	1
 㨃人	dui ren	9998
 㨃得	dui de	110
 㨃进	dui jin	3332
+㫁	duan
+㬣	dui
+㬿	dun
+㱩	du
+㱭	duan
+㳔	dui
+㵽	dui
+㸿	du
+㹍	du
+㻔	duo
+㻧	duo
+㾄	du
+䀾	du
+䁟	duo
+䄍	du
+䄍	duo
+䅊	du
+䅜	duo
+䇏	dui
+䇤	dui
+䈞	du
+䍴	duo
+䐗	du
+䐾	duo
+䑨	duo
+䒳	duo
+䓯	du
+䔪	dui
+䙃	duo
+䙟	duo
+䙤	duo
+䙱	du
+䟻	du
+䠤	duo
+䠪	duan
+䢱	du
+䤜	dun
+䤪	duo
+䤻	duo
+䨴	dui
+䨺	dui
+䩔	duo
+䩣	duo
+䪅	du
+䫂	duo
+䫳	du
+䬈	dui
+䬽	dui
+䮷	du
+䯟	dui
+䯬	duo
+䲊	duo
+䲧	du
+亸	duo
+亸	duo	31
+仛	duo
+伅	dun
+偳	duan
+兊	dui
+兌	dui
+兑	dui
+兑	dui	17197
 兑一下	dui yi xia	100
 兑一兑	dui yi dui	123
 兑不了	dui bu liao	110
@@ -59,6 +139,11 @@ sort: by_weight
 兑美元	dui mei yuan	100
 兑美元汇率	dui mei yuan hui lv	100
 兑领	dui ling	365
+凙	duo
+凟	du
+刴	duo
+剁	duo
+剁	duo	8222
 剁下	duo xia	3665
 剁下来	duo xia lai	1180
 剁了	duo le	9999
@@ -86,6 +171,16 @@ sort: by_weight
 剁肉馅	duo rou xian	145
 剁饺子馅	duo jiao zi xian	199
 剁骨头	duo gu tou	1180
+剟	duo
+剟	duo	8
+剢	du
+剫	duo
+剬	duan
+匵	du
+厾	du
+厾	du	43
+吨	dun
+吨	dun	18670
 吨以上	dun yi shang	2824
 吨以下	dun yi xia	1171
 吨位	dun wei	22545
@@ -99,6 +194,8 @@ sort: by_weight
 吨粮田	dun liang tian	360
 吨级	dun ji	15630
 吨重	dun zhong	5285
+咄	duo
+咄	duo	14825
 咄咄	duo duo	2475
 咄咄书空	duo duo shu kong	100
 咄咄怪事	duo duo guai shi	1590
@@ -110,6 +207,8 @@ sort: by_weight
 咄嗟可办	duo jie ke ban	1
 咄嗟立办	duo jie li ban	9999
 咄嗟而办	duo jie er ban	1
+哆	duo
+哆	duo	30257
 哆哆嗦嗦	duo duo suo suo	3955
 哆啦咪	duo la mi	4
 哆啦梦	duo la meng	117
@@ -117,6 +216,12 @@ sort: by_weight
 哆啰美远	duo luo mei yuan	100
 哆嗦	duo suo	26365
 哆嗦着	duo suo zhe	4955
+哚	duo
+哚	duo	419
+啍	dui
+喥	duo
+嘟	du
+嘟	du	61299
 嘟了嘟嘴	du le du zui	100
 嘟哝	du nong	3415
 嘟哝着	du nong zhe	2305
@@ -152,10 +257,24 @@ sort: by_weight
 嘟起嘴	du qi zui	100
 嘟起嘴唇	du qi zui chun	100
 嘟起小嘴	du qi xiao zui	100
+噸	dun
+嚉	duo
+嚲	duo
+囤	dun
+囤	dun	1
+坉	dun
+垖	dui
+垛	duo
+垛	duo	6052
 垛口	duo kou	2440
 垛堞	duo die	40
 垛子	duo zi	550
 垛草	duo cao	50
+垜	duo
+埵	duo
+埵	duo	90
+堆	dui
+堆	dui	174996
 堆一个	dui yi ge	100
 堆一堆	dui yi dui	260
 堆上	dui shang	5740
@@ -282,6 +401,8 @@ sort: by_weight
 堆齐牛录乡	dui qi niu lu xiang	9
 堆龙德庆	dui long de qing	560
 堆龙德庆县	dui long de qing xian	990
+堕	duo
+堕	duo	30285
 堕云雾中	duo yun wu zhong	100
 堕入	duo ru	13470
 堕入地狱	duo ru di yu	100
@@ -355,6 +476,8 @@ sort: by_weight
 堕落骑士	duo luo qi shi	100
 堕阿鼻地狱	duo a bi di yu	100
 堕马	duo ma	900
+堵	du
+堵	du	60165
 堵上	du shang	9999
 堵上了	du shang le	100
 堵上了啊	du shang le a	100
@@ -451,6 +574,11 @@ sort: by_weight
 堵车严重	du che yan zhong	100
 堵车了	du che le	195
 堵门	du men	7180
+塅	duan
+塅	duan	1
+塠	dui
+墩	dun
+墩	dun	8359
 墩上镇	dun shang zhen	3
 墩下	dun xia	22
 墩个地	dun ge di	100
@@ -474,6 +602,13 @@ sort: by_weight
 墩背	dun bei	8
 墩莳家园	dun shi jia yuan	121
 墩阔坦镇	dun kuo tan zhen	4
+墪	dun
+墫	dun
+墮	duo
+墯	duo
+壿	dun
+多	duo
+多	duo	4617194
 多一个	duo yi ge	19140
 多一事不如少一事	duo yi shi bu ru shao yi shi	2520
 多一事不如省一事	duo yi shi bu ru sheng yi shi	100
@@ -2943,6 +3078,9 @@ sort: by_weight
 多黏菌素	duo nian jun su	685
 多齿何信禄龙	duo chi he xin lu long	1
 多齿盐都龙	duo chi yan du long	20
+夛	duo
+夺	duo
+夺	duo	175135
 夺下	duo xia	7545
 夺下来	duo xia lai	355
 夺不了	duo bu liao	100
@@ -3080,6 +3218,10 @@ sort: by_weight
 夺魂矛	duo hun mao	1
 夺魄令	duo po ling	100
 夺魄幡	duo po fan	3
+奪	duo
+奲	duo
+妒	du
+妒	du	47550
 妒功忌能	du gong ji neng	1
 妒女庙	du nv miao	100
 妒妇	du fu	73
@@ -3097,6 +3239,13 @@ sort: by_weight
 妒能害贤	du neng hai xian	100
 妒贤嫉能	du xian ji neng	290
 妒贤忌能	du xian ji neng	100
+妬	du
+姤	du
+媏	duan
+媠	duo
+嬻	du
+对	dui
+对	dui	6195038
 对一下	dui yi xia	350
 对一个	dui yi ge	3
 对一些	dui yi xie	100
@@ -4205,6 +4354,15 @@ sort: by_weight
 对齐线	dui qi xian	66
 对齐颗粒度	dui qi ke li du	100
 对齿兽目	dui chi shou mu	4
+対	dui
+對	dui
+尮	duo
+崜	duo
+庉	dun
+度	du
+度	du	827850
+度	duo
+度	duo	9000
 度一切苦厄	du yi qie ku e	100
 度不高	du bu gao	100
 度个假	du ge jia	100
@@ -4388,6 +4546,9 @@ sort: by_weight
 度长絜大	duo chang xie da	90
 度长絜短	duo chang xie duan	1
 度难关	du nan guan	100
+忳	dun
+怼	dui
+怼	dui	765
 怼不起来	dui bu qi lai	100
 怼了起来	dui le qi lai	100
 怼人	dui ren	9999
@@ -4397,7 +4558,11 @@ sort: by_weight
 怼得	dui de	111
 怼得好	dui de hao	100
 怼进	dui jin	3333
+惇	dun
+惇	dun	3466
 惇信明义	dun xin ming yi	1
+惰	duo
+惰	duo	7669
 惰性	duo xing	26850
 惰性元素	duo xing yuan su	100
 惰性气体	duo xing qi ti	4820
@@ -4405,6 +4570,15 @@ sort: by_weight
 惰民	duo min	110
 惰游	duo you	20
 惰轮	duo lun	265
+憜	duo
+憝	dui
+憞	dui
+憞	dun
+懟	dui
+挅	duo
+挆	duo
+掇	duo
+掇	duo	3820
 掇乖弄俏	duo guai nong qiao	1
 掇刀	duo dao	1040
 掇刀区	duo dao qu	1150
@@ -4415,6 +4589,17 @@ sort: by_weight
 掇臀捧屁	duo tun peng pi	100
 掇菁撷华	duo jing xie hua	1
 掇青拾紫	duo qing shi zi	1
+撉	dun
+撴	dun
+敓	dui
+敓	duo
+敚	dui
+敚	duo
+敠	duo
+敦	dui
+敦	dui	0
+敦	dun
+敦	dun	35424
 敦世厉俗	dun shi li su	100
 敦交睦邻	dun jiao mu lin	100
 敦亲王	dun qin wang	112
@@ -4488,6 +4673,10 @@ sort: by_weight
 敦颐	dun yi	160
 敦风厉俗	dun feng li su	100
 敦默寡言	dun mo gua yan	1
+敪	duo
+斁	du
+断	duan
+断	duan	759788
 断一下	duan yi xia	250
 断一下电	duan yi xia dian	1180
 断七	duan qi	235
@@ -4874,6 +5063,11 @@ sort: by_weight
 断齑块粥	duan ji kuai zhou	1
 断齑画粥	duan ji hua zhou	2
 断齿	duan chi	395
+斷	duan
+晵	du
+暏	du
+朵	duo
+朵	duo	202374
 朵丹尼尔	duo dan ni er	3
 朵丹尼尔兽穴	duo dan ni er shou xue	1
 朵云	duo yun	3735
@@ -4890,6 +5084,11 @@ sort: by_weight
 朵颐	duo yi	2
 朵颐大快	duo yi da kuai	100
 朵颜三卫	duo yan san wei	115
+朶	duo
+杕	duo
+杕	duo	0
+杜	du
+杜	du	205040
 杜丸丸	du wan wan	147
 杜丽娘	du li niang	100
 杜丽莎	du li sha	100
@@ -5195,9 +5394,24 @@ sort: by_weight
 杜鹃鸟	du juan niao	146
 杜鹏程	du peng cheng	36
 杜默为诗	du mo wei shi	1
+杝	duo
+杸	dui
+枤	duo
+柁	duo
+柁	duo	0
+柂	duo
+柮	duo
+桗	duo
+椟	du
+椟	du	326
+椯	duo
+椴	duan
+椴	duan	414
 椴弧翅卷蛾	duan hu chi juan e	1
 椴木	duan mu	2500
 椴树	duan shu	2435
+楯	dun
+楯	dun	136
 楯冈满茂	dun gang man mao	2
 楯冈绘麻	dun gang hui ma	2
 楯山彩花	dun shan cai hua	2
@@ -5212,6 +5426,12 @@ sort: by_weight
 楯齿龙属	dun chi long shu	4
 楯齿龙目	dun chi long mu	4
 楯齿龙类	dun chi long lei	4
+橔	dun
+櫝	du
+殬	du
+殰	du
+段	duan
+段	duan	559051
 段丽阳	duan li yang	100
 段伯宇	duan bo yu	4
 段位	duan wei	15025
@@ -5315,6 +5535,9 @@ sort: by_weight
 段页式内存管理	duan ye shi nei cun guan li	1
 段页式管理	duan ye shi guan li	55
 段颎	duan jiong	1
+毈	duan
+毒	du
+毒	du	331576
 毒丸	du wan	2355
 毒丸计划	du wan ji hua	100
 毒之陷落	du zhi xian luo	1
@@ -5518,6 +5741,14 @@ sort: by_weight
 毒龙	du long	7420
 毒龙蝎	du long xie	100
 毒龙钻	du long zuan	100
+毲	duo
+沌	dun
+沌	dun	22474
+沰	duo
+沲	duo
+涜	du
+渎	du
+渎	du	8378
 渎犯	du fan	45
 渎神	du shen	960
 渎职	du zhi	20020
@@ -5529,6 +5760,8 @@ sort: by_weight
 渎职罪	du zhi zui	2875
 渎职行为	du zhi xing wei	5135
 渎货无厌	du huo wu yan	1
+渡	du
+渡	du	83062
 渡不了	du bu liao	35
 渡不过去	du bu guo qu	100
 渡了	du le	815
@@ -5595,6 +5828,14 @@ sort: by_weight
 渡长江	du chang jiang	100
 渡驾桥村	du jia qiao cun	1
 渡鸦	du ya	870
+潡	dun
+濧	dui
+濻	dui
+瀆	du
+瀢	dui
+瀩	dui
+炖	dun
+炖	dun	7982
 炖一下	dun yi xia	100
 炖一炖	dun yi dun	123
 炖乳鸽	dun ru ge	360
@@ -5648,6 +5889,8 @@ sort: by_weight
 炖鸡汁	dun ji zhi	22
 炖鸡汤	dun ji tang	100
 炖鸡面	dun ji mian	154
+煅	duan
+煅	duan	1250
 煅烧	duan shao	8355
 煅烧温度	duan shao wen du	100
 煅烧高岭土	duan shao gao ling tu	1430
@@ -5655,12 +5898,22 @@ sort: by_weight
 煅石灰	duan shi hui	100
 煅石膏	duan shi gao	215
 煅龙牡	duan long mu	102
+燉	dun
+牍	du
+牍	du	1877
+牘	du
+犊	du
+犊	du	4679
 犊子	du zi	2485
 犊新蛔虫病	du xin hui chong bing	5
 犊牛	du niu	4680
 犊牧采薪	du mu cai xin	1
 犊鼻穴	du bi xue	3
 犊鼻裈	du bi kun	100
+犜	dun
+犢	du
+独	du
+独	du	456526
 独一	du yi	7840
 独一份	du yi fen	100
 独一份儿	du yi fen er	100
@@ -6315,7 +6568,21 @@ sort: by_weight
 独龙族	du long zu	3530
 独龙江	du long jiang	100
 独龙钻	du long zuan	100
+獤	dun
+獨	du
+琽	du
+瑖	duan
+瑖	duan	1
+瓄	du
+畓	duo
+痥	duo
+痽	dui
+皾	du
+盹	dun
+盹	dun	4945
 盹儿	dun er	440
+盾	dun
+盾	dun	113909
 盾与独角兽	dun yu du jiao shou	100
 盾伪似盘钩虫	dun wei si pan gou chong	1
 盾八门孔虫	dun ba men kong chong	1
@@ -6343,6 +6610,8 @@ sort: by_weight
 盾蚧缺缘跳小蜂	dun jie que yuan tiao xiao feng	1
 盾蚧长缨蚜小蜂	dun jie chang ying ya xiao feng	1
 盾鳞	dun lin	11
+督	du
+督	du	103779
 督主有病	du zhu you bing	100
 督促	du cu	209180
 督促修行	du cu xiu xing	100
@@ -6408,6 +6677,8 @@ sort: by_weight
 督邮	du you	1920
 督阵	du zhen	860
 督院街	du yuan jie	129
+睹	du
+睹	du	36521
 睹一异鹊自南方来者	du yi yi que zi nan fang lai zhe	1
 睹始知终	du shi zhi zhong	1
 睹影知竿	du ying zhi gan	2
@@ -6424,6 +6695,8 @@ sort: by_weight
 睹着知微	du zhe zhi wei	1
 睹著知微	du zhu zhi wei	1
 睹貌献飧	du mao xian sun	1
+短	duan
+短	duan	345480
 短上衣	duan shang yi	3390
 短下长	duan xia chang	100
 短不了	duan bu liao	330
@@ -6970,10 +7243,25 @@ sort: by_weight
 短鳍新灯笼鱼	duan qi xin deng long yu	1
 短鳍粗棘蜥	duan qi cu ji xi	1
 短齿幼猫	duan chi you mao	1
+砘	dun
+砘	dun	53
 砘子	dun zi	35
+硾	duo
+碓	dui
+碓	dui	382
 碓冰拓海	dui bing tuo hai	100
 碓房	dui fang	185
 碓臼峪	dui jiu yu	21
+碫	duan
+碷	dun
+磓	dui
+礅	dun
+礅	dun	270
+祋	dui
+祋	dui	3
+秺	du
+端	duan
+端	duan	296020
 端上	duan shang	18030
 端上去	duan shang qu	100
 端上来	duan shang lai	5895
@@ -7178,6 +7466,9 @@ sort: by_weight
 端阳节	duan yang jie	1195
 端静	duan jing	95
 端面	duan mian	11030
+竺	du
+笃	du
+笃	du	10832
 笃专	du zhuan	10
 笃信	du xin	9000
 笃信好古	du xin hao gu	100
@@ -7218,6 +7509,16 @@ sort: by_weight
 笃论高言	du lun gao yan	1
 笃诚	du cheng	425
 笃近举远	du jin ju yuan	100
+篤	du
+簖	duan
+簖	duan	8
+籪	duan
+綐	dui
+綞	duo
+緞	duan
+缍	duo
+缎	duan
+缎	duan	13277
 缎子	duan zi	6820
 缎带	duan dai	9115
 缎带花	duan dai hua	100
@@ -7227,6 +7528,10 @@ sort: by_weight
 缎被	duan bei	210
 缎辉阔嘴鹟	duan hui kuo zui weng	1
 缎面	duan mian	3280
+耑	duan
+耑	duan	22
+肚	du
+肚	du	167538
 肚丝	du si	1180
 肚中	du zhong	4155
 肚儿	du er	346
@@ -7295,6 +7600,9 @@ sort: by_weight
 肚里说不出来的苦	du li shuo bu chu lai de ku	100
 肚里踌躇	du li chou chu	100
 肚量	du liang	3760
+腶	duan
+舵	duo
+舵	duo	17755
 舵主	duo zhu	6400
 舵位	duo wei	75
 舵工	duo gong	560
@@ -7308,6 +7616,16 @@ sort: by_weight
 舵落口	duo luo kou	330
 舵落口大市场	duo luo kou da shi chang	106
 舵轮	duo lun	6900
+芏	du
+芏	du	334
+荰	du
+葮	duan
+薱	dui
+蜳	dun
+螙	du
+蠧	du
+蠹	du
+蠹	du	852
 蠹书虫	du shu chong	100
 蠹众木折	du zhong mu zhe	100
 蠹啄剖梁柱	du zhuo pou liang zhu	100
@@ -7326,6 +7644,19 @@ sort: by_weight
 蠹简遗编	du jian yi bian	1
 蠹虫	du chong	13
 蠹鱼	du yu	415
+袳	duo
+裰	duo
+裰	duo	397
+裻	du
+褍	duan
+覩	du
+読	du
+譈	dui
+譵	dui
+讀	du
+讟	du
+读	du
+读	du	313506
 读一	du yi	25025
 读一下	du yi xia	91
 读一个	du yi ge	99
@@ -7646,6 +7977,11 @@ sort: by_weight
 读高中	du gao zhong	100
 读高几	du gao ji	100
 读高几了	du gao ji le	100
+豄	du
+賭	du
+贕	du
+赌	du
+赌	du	120539
 赌一下	du yi xia	100
 赌一把	du yi ba	3155
 赌一把吧	du yi ba ba	100
@@ -7748,6 +8084,9 @@ sort: by_weight
 赌马	du ma	1885
 赌马场	du ma chang	100
 赌鬼	du gui	1705
+趓	duo
+趸	dun
+趸	dun	623
 趸交	dun jiao	777
 趸卖	dun mai	35
 趸售	dun shou	108
@@ -7755,6 +8094,10 @@ sort: by_weight
 趸批	dun pi	45
 趸批买入	dun pi mai ru	100
 趸船	dun chuan	1355
+跢	duo
+跥	duo
+跺	duo
+跺	duo	20222
 跺一跺	duo yi duo	999
 跺一跺脚	duo yi duo jiao	100
 跺了	duo le	1111
@@ -7767,6 +8110,8 @@ sort: by_weight
 跺地面	duo di mian	7
 跺着脚	duo zhe jiao	100
 跺脚	duo jiao	16870
+踱	duo
+踱	duo	19897
 踱去	duo qu	435
 踱向	duo xiang	2222
 踱方步	duo fang bu	345
@@ -7776,6 +8121,9 @@ sort: by_weight
 踱着	duo zhe	128
 踱着方步	duo zhe fang bu	100
 踱着步	duo zhe bu	100
+踲	dun
+蹲	dun
+蹲	dun	66158
 蹲一下	dun yi xia	100
 蹲一个	dun yi ge	100
 蹲一位	dun yi wei	100
@@ -7840,6 +8188,13 @@ sort: by_weight
 蹲马步	dun ma bu	590
 蹲鸡窝里	dun ji wo li	100
 蹲麻了	dun ma le	100
+蹾	dun
+蹾	dun	224
+躉	dun
+躖	duan
+躱	duo
+躲	duo
+躲	duo	249450
 躲一躲	duo yi duo	1460
 躲上去	duo shang qu	100
 躲上来	duo shang lai	100
@@ -7959,6 +8314,12 @@ sort: by_weight
 躲雨	duo yu	3645
 躲风	duo feng	380
 躲风避雨	duo feng bi yu	100
+軃	duo
+轛	dui
+追	dui
+逇	dun
+遁	dun
+遁	dun	21435
 遁世	dun shi	2010
 遁世幽居	dun shi you ju	1
 遁世无闷	dun shi wu men	13
@@ -8004,7 +8365,10 @@ sort: by_weight
 遁逸无闷	dun yi wu men	1
 遁阴匿景	dun yin ni jing	1
 遁隐	dun yin	375
+遯	dun
 遯卦	dun gua	3
+都	du
+都	du	38058
 都中纸贵	du zhong zhi gui	2
 都井睦雄	du jing mu xiong	100
 都亭侯	du ting hou	100
@@ -8346,6 +8710,20 @@ sort: by_weight
 都铎王朝	du duo wang chao	100
 都门帐饮无绪	du men zhang yin wu xu	1180
 都香高速	du xiang gao su	100
+醏	du
+鈍	dun
+鈬	duo
+錖	du
+錞	dui
+鍍	du
+鍛	duan
+鍴	duan
+鐓	dui
+鐜	dui
+鐸	duo
+鑟	du
+钝	dun
+钝	dun	15645
 钝了	dun le	1980
 钝光回木虫	dun guang hui mu chong	1
 钝兵挫锐	dun bing cuo rui	100
@@ -8391,7 +8769,11 @@ sort: by_weight
 钝齿斯氏萤	dun chi si shi ying	1
 钝齿短桨蟹	dun chi duan jiang xie	1
 钝齿美体鳗	dun chi mei ti man	1
+铎	duo
+铎	duo	7819
 铎以声自悔	duo yi sheng zi hui	1
+锻	duan
+锻	duan	36524
 锻件	duan jian	1963
 锻冶	duan ye	1111
 锻刀	duan dao	1003
@@ -8453,6 +8835,8 @@ sort: by_weight
 锻铸	duan zhu	1035
 锻锤	duan chui	1315
 锻长板	duan chang ban	100
+镀	du
+镀	du	4821
 镀上	du shang	4465
 镀了一层金	du le yi ceng jin	100
 镀了金	du le jin	100
@@ -8483,6 +8867,14 @@ sort: by_weight
 镀锡	du xi	6435
 镀锡铁	du xi tie	9999
 镀镍	du nie	7300
+镦	dui
+镦	dui	0
+镦	dun	25
+闍	du
+阇	du
+阇	du	412
+队	dui
+队	dui	1255383
 队上	dui shang	3430
 队中	dui zhong	25715
 队伍	dui wu	500382
@@ -8558,6 +8950,23 @@ sort: by_weight
 队长袖标	dui zhang xiu biao	100
 队长选人	dui zhang xuan ren	100
 队魂	dui hun	32
+陊	duo
+陏	duo
+陮	dui
+隊	dui
+隋	duo
+隓	duo
+隳	duo
+靯	du
+韇	du
+韣	du
+韥	du
+頓	dun
+頧	dui
+顿	du
+顿	du	1
+顿	dun
+顿	dun	557768
 顿一下	dun yi xia	100
 顿一顿	dun yi dun	341
 顿了顿	dun le dun	18100
@@ -8628,10 +9037,235 @@ sort: by_weight
 顿首	dun shou	2
 顿首再拜	dun shou zai bai	10
 顿首百拜	dun shou bai bai	7
+飿	duo
+饳	duo
+饳	duo	37
+馱	duo
+駄	duo
+騳	du
+驐	dun
+驮	duo
+驮	duo	1
 驮子	duo zi	400
+髑	du
+髑	du	109
 髑髅	du lou	1
+鬌	duo
+鴭	dui
+鵽	duo
+黩	du
+黩	du	788
 黩武	du wu	635
 黩武穷兵	du wu qiong bing	100
 黩货	du huo	130
 黩货无厌	du huo wu yan	100
+黷	du
+𠂤	dui
+𠉩	du
+𠎻	dun
+𠏮	dui
+𠛫	duo
+𠜑	dui
+𠠔	du
+𠠠	du
+𠡒	dui
+𠡱	duan
+𠣰	du
+𠦗	dui
+𠫨	dui
+𡁨	dui
+𡆰	dun
+𡌭	duo
+𡍨	du
+𡎉	du
+𡏩	dui
+𡑈	dui
+𡓉	duo
+𡓷	duo
+𡜥	dui
+𡝜	du
+𡶲	duo
+𡷋	dui
+𡺇	duo
+𡼖	dun
+𡼻	dui
+𢆻	dui
+𢈹	dui
+𢉜	du
+𢜬	duo
+𢝂	du
+𢟋	dui
+𢬼	dun
+𢭃	duan
+𢯫	duan
+𢳽	duo
+𢷖	duan
+𢷺	du
+𢼠	duo
+𢽚	du
+𢾀	du
+𢾅	du
+𢿎	duo
+𣎴	dun
+𣑧	duo
+𣗁	dun
+𣚪	dun
+𣝉	dui
+𣞇	dun
+𣠭	duan
+𣧃	du
+𣧷	duo
+𣨲	du
+𣪌	dui
+𣫔	du
+𣰬	du
+𣵺	duo
+𣵻	duo
+𤄛	dui
+𤋨	duo
+𤌃	duo
+𤚚	du
+𤚡	du
+𤛛	duo
+𤟢	dun
+𤢕	duo
+𤤷	dui
+𤤸	duo
+𤧫	dui
+𤫻	du
+𤬂	du
+𤬪	du
+𤬾	duo
+𤭞	dun
+𤮩	dui
+𤴱	du
+𤵊	du
+𤶮	du
+𤷎	dui
+𤹵	dui
+𥀁	du
+𥀲	du
+𥂦	dun
+𥃾	du
+𥑯	du
+𥑵	dui
+𥓇	du
+𥓍	du
+𥖠	du
+𥖿	du
+𥝟	du
+𥝾	du
+𥞛	duo
+𥠄	duan
+𥫬	dun
+𥫱	dun
+𥬲	duo
+𥭒	dun
+𥯖	du
+𥲗	du
+𥳉	du
+𥳔	duo
+𥳲	du
+𥵣	duan
+𥹲	dui
+𥿰	duo
+𦌷	du
+𦍦	duo
+𦎧	dun
+𦏕	du
+𦕰	duo
+𦖋	duo
+𦘴	du
+𦙋	du
+𦚈	du
+𦛯	du
+𦞱	dui
+𦡄	du
+𦡷	dui
+𦪔	dun
+𦰭	dun
+𦳔	du
+𦶏	dui
+𦺇	du
+𦺥	du
+𦼿	dun
+𦾸	duan
+𧁿	du
+𧊱	duo
+𧋌	du
+𧐰	du
+𧑠	du
+𧔬	du
+𧙤	duo
+𧛔	du
+𧝗	dun
+𧞹	du
+𧢵	duo
+𧤗	duan
+𧧆	dui
+𧧇	duo
+𧩧	duo
+𧰵	du
+𧱫	duo
+𧶲	duan
+𧷿	du
+𧾥	du
+𧿗	dun
+𨀟	duo
+𨂭	du
+𨆅	duo
+𨉡	duo
+𨋈	du
+𨍛	du
+𨏔	du
+𨔡	dun
+𨦃	duo
+𨬍	dui
+𨬍	duo
+𨱚	duan
+𨲉	duo
+𨹃	duo
+𨹅	dui
+𨺣	duan
+𨻵	dui
+𨽍	du
+𩃒	duo
+𩄮	dui
+𩅆	dui
+𩅥	dui
+𩅲	dui
+𩈁	dui
+𩈜	dui
+𩊜	duo
+𩊭	dui
+𩍜	duo
+𩎫	duo
+𩏇	duan
+𩐌	dui
+𩑒	duo
+𩔂	dun
+𩜀	dui
+𩞤	dun
+𩞾	du
+𩢎	duo
+𩤚	duan
+𩤣	duan
+𩥋	du
+𩧈	du
+𩨳	du
+𩨽	dui
+𩩮	du
+𩬻	duo
+𩵚	du
+𩿩	duo
+𪃒	duo
+𪇆	du
+𪌤	dui
+𪍹	du
+𪐞	du
+𪒛	dui
+𪒡	dui
+𪘉	duo
+𬭊	du	2
 𬭊元素	du yuan su	100
+𬭚	dui	1

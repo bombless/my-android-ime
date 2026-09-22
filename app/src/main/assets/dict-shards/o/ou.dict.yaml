@@ -3,6 +3,17 @@ name: merged.ou
 version: "1.0"
 sort: by_weight
 ...
+㒖	ou
+㛏	ou
+㸸	ou
+㼴	ou
+䌂	ou
+䌔	ou
+䚆	ou
+䥲	ou
+䯚	ou
+偶	ou
+偶	ou	150991
 偶一	ou yi	13880
 偶一为之	ou yi wei zhi	1050
 偶不会	ou bu hui	187
@@ -132,6 +143,8 @@ sort: by_weight
 偶逢	ou feng	600
 偶遇	ou yu	23740
 偶鳍	ou qi	14
+区	ou
+区	ou	2425
 区乐民	ou le min	1
 区俊炫	ou jun xuan	100
 区大相	ou da xiang	5
@@ -145,6 +158,11 @@ sort: by_weight
 区诺轩	ou nuo xuan	100
 区适子	ou shi zi	1111
 区霭玲	ou ai ling	100
+區	ou
+吘	ou
+吽	ou
+呕	ou
+呕	ou	27879
 呕出	ou chu	1595
 呕出物	ou chu wu	30
 呕吐	ou tu	120615
@@ -166,10 +184,18 @@ sort: by_weight
 呕心镂骨	ou xin lou gu	100
 呕血	ou xie	374
 呕血	ou xue	374
+嘔	ou
+塸	ou
+怄	ou
+怄	ou	1573
 怄了一肚子气	ou le yi du zi qi	368
 怄了一肚子火	ou le yi du zi huo	100
 怄人	ou ren	1
 怄气	ou qi	2850
+慪	ou
+櫙	ou
+欧	ou
+欧	ou	253543
 欧·亨利	ou heng li	9999
 欧·亨利式	ou heng li shi	9999
 欧·亨利式结尾	ou heng li shi jie wei	9999
@@ -732,6 +758,9 @@ sort: by_weight
 欧麦尔	ou mai er	64
 欧麦格	ou mai ge	1
 欧麦里	ou mai li	58
+歐	ou
+殴	ou
+殴	ou	12875
 殴伤	ou shang	545
 殴公骂婆	ou gong ma po	1
 殴击	ou ji	310
@@ -743,6 +772,9 @@ sort: by_weight
 殴斗	ou dou	9999
 殴杀	ou sha	180
 殴辱	ou ru	155
+毆	ou
+沤	ou
+沤	ou	528
 沤坏	ou huai	464
 沤沫槿艳	ou mo jin yan	1
 沤浮泡影	ou fu pao ying	100
@@ -754,6 +786,10 @@ sort: by_weight
 沤臭	ou chou	123
 沤臭了	ou chou le	123
 沤麻	ou ma	450
+漚	ou
+熰	ou
+瓯	ou
+瓯	ou	1414
 瓯剧	ou ju	1
 瓯北	ou bei	6630
 瓯南大桥	ou nan da qiao	113
@@ -773,6 +809,10 @@ sort: by_weight
 瓯穴	ou xue	30
 瓯绣	ou xiu	1
 瓯饭瓢饮	ou fan piao yin	1
+甌	ou
+禺	ou
+耦	ou
+耦	ou	443
 耦丝葵	ou si kui	1
 耦丝魁	ou si kui	1
 耦俱无猜	ou ju wu cai	100
@@ -785,6 +825,11 @@ sort: by_weight
 耦合系统	ou he xi tong	57
 耦居无猜	ou ju wu cai	111
 耦联	ou lian	705
+腢	ou
+膒	ou
+蕅	ou
+藕	ou
+藕	ou	5784
 藕丝	ou si	1130
 藕丝步云履	ou si bu yun lv	100
 藕丝糕	ou si gao	19
@@ -818,9 +863,18 @@ sort: by_weight
 藕荷色	ou he se	100
 藕荷色的	ou he se de	100
 藕莛	ou ting	2
+藲	ou
+謳	ou
+讴	ou
+讴	ou	753
 讴功颂德	ou gong song de	1
 讴吟	ou yin	180
 讴歌	ou ge	36576
+鏂	ou
+鴎	ou
+鷗	ou
+鸥	ou
+鸥	ou	9276
 鸥亚科	ou ya ke	1
 鸥嘴噪鸥	ou zui zao ou	1
 鸥属	ou shu	30
@@ -833,7 +887,42 @@ sort: by_weight
 鸥鸟忘机	ou niao wang ji	100
 鸥鹭忘机	ou lu wang ji	100
 鸥龙属	ou long shu	1
+𠙶	ou
+𠙶	ou	1
 𠙶山镇	ou shan zhen	100
+𠢔	ou
+𠥝	ou
+𠴰	ou
+𡂿	ou
+𡈆	ou
+𡩾	ou
+𣂻	ou
+𣉾	ou
+𣓕	ou
+𣢨	ou
+𣽕	ou
+𤁮	ou
+𤛐	ou
+𤵎	ou
+𥈬	ou
+𥐂	ou
+𥧆	ou
+𥱸	ou
+𥻑	ou
+𦂕	ou
+𧏺	ou
+𧖼	ou
+𧪓	ou
+𩀫	ou
+𩔸	ou
+𩥋	ou
+𪊪	ou
+𪙃	ou
+𫪘	ou
+𫪘	ou	1
+𫭟	ou
+𫭟	ou	1
+𬉼	ou	9
 𬉼火	ou huo	2
 𬉼烟	ou yan	2
 𬉼蚊子	ou wen zi	5

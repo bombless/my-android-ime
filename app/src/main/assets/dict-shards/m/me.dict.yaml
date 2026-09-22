@@ -3,6 +3,73 @@ name: merged.me
 version: "1.0"
 sort: by_weight
 ...
+㙁	mei
+㙢	men
+㙹	meng
+㚞	meng
+㜫	mei
+㜴	meng
+㝱	meng
+㠓	meng
+㠓	meng	1
+㡈	men
+㡌	mei
+㥃	men
+㦖	men
+㨺	men
+㩚	meng
+㭑	mei
+㱪	men
+㵍	men
+㶬	mei
+㺳	mei
+㻊	men
+㻊	meng
+㽇	meng
+䀄	meng
+䀛	mei
+䀜	mei
+䁅	meng
+䆀	mei
+䇇	meng
+䉋	mei
+䉚	meng
+䊈	mei
+䊊	mei
+䊟	men
+䍙	mei
+䏵	meng
+䑃	meng
+䑅	meng
+䒐	meng
+䒽	mei
+䓝	meng
+䓺	mei
+䖟	meng
+䗈	meng
+䙦	meng
+䙩	meng
+䜸	mei
+䝢	meng
+䝧	men
+䞼	mei
+䟥	meng
+䠢	meng
+䤂	mei
+䤓	meng
+䥂	meng
+䥰	meng
+䫒	men
+䰒	meng
+䰨	mei
+䰪	mei
+䲛	meng
+䴌	meng
+䴿	meng
+䵆	meng
+䵢	mei
+么	me
+么	me	9727
 么么	me me	9999
 么么哒	me me da	3333
 么六桥乡	me liu qiao xiang	1
@@ -10,7 +77,16 @@ sort: by_weight
 么西么西	me xi me xi	100
 么角度	me jiao du	1
 么里镇	me li zhen	1
+亹	men
+们	men
+们	men	1074187
 们的	men de	5555
+們	men
+儚	meng
+冡	meng
+凂	mei
+勐	meng
+勐	meng	960
 勐库华侨农场	meng ku hua qiao nong chang	1
 勐往乡	meng wang xiang	15
 勐海	meng hai	10375
@@ -19,6 +95,18 @@ sort: by_weight
 勐简乡	meng jian xiang	1
 勐腊	meng la	1
 勐腊县	meng la xian	9
+呇	men	2
+嚒	me
+嚜	me
+嚜	mei
+嚰	me
+坆	mei
+堳	mei
+塺	mei
+夢	meng
+夣	meng
+妹	mei
+妹	mei	542424
 妹儿	mei er	9999
 妹啊	mei a	1111
 妹夫	mei fu	8090
@@ -38,6 +126,10 @@ sort: by_weight
 妹控	mei kong	111
 妹纸	mei zhi	8888
 妹非妹	mei fei mei	100
+媄	mei
+媄	mei	1
+媒	mei
+媒	mei	65752
 媒人	mei ren	14000
 媒人婆	mei ren po	100
 媒人婆迷了路	mei ren po mi le lu	100
@@ -124,6 +216,8 @@ sort: by_weight
 媒色锉口象鼻鱼	mei se cuo kou xiang bi yu	1
 媒质	mei zhi	319
 媒鸭	mei ya	46
+媚	mei
+媚	mei	110163
 媚上	mei shang	3698
 媚上欺下	mei shang qi xia	100
 媚世	mei shi	999
@@ -152,6 +246,10 @@ sort: by_weight
 媚而不惑	mei er bu huo	260
 媚药	mei yao	1665
 媚骨	mei gu	815
+媺	mei
+嬍	mei
+孟	meng
+孟	meng	162475
 孟不离焦	meng bu li jiao	100
 孟丽君	meng li jun	2400
 孟丽娜	meng li na	154
@@ -321,7 +419,30 @@ sort: by_weight
 孟飞	meng fei	1
 孟鲁司特钠	meng lu si te na	3
 孟鲁司特钠咀嚼片	meng lu si te na ju jue pian	2
+寐	mei
+寐	mei	10214
+尨	meng
+尨	meng	1
 尨茸	meng rong	2
+嵄	mei
+嵋	mei
+嵋	mei	7261
+幪	meng
+幪	meng	322
+庅	me
+庬	meng
+徾	mei
+怋	men
+悗	men
+悶	men
+惛	men
+懑	men
+懑	men	2697
+懜	meng
+懞	meng
+懣	men
+懵	meng
+懵	meng	15002
 懵了	meng le	10240
 懵圈	meng quan	3333
 懵头转向	meng tou zhuan xiang	100
@@ -341,6 +462,8 @@ sort: by_weight
 懵逼	meng bi	5555
 懵逼了	meng bi le	100
 懵里懵懂	meng li meng dong	100
+扪	men
+扪	men	2344
 扪参历井	men shen li jing	100
 扪参历井仰胁息	men shen li jing yang xie xi	1
 扪心	men xin	750
@@ -353,6 +476,16 @@ sort: by_weight
 扪虱而言	men shi er yan	100
 扪虱而谈	men shi er tan	100
 扪隙发罅	men xi fa xia	1
+抺	mei
+挴	mei
+捫	men
+掹	meng
+擝	meng
+攗	mei
+斖	men
+旀	mei
+昧	mei
+昧	mei	41576
 昧于事理	mei yu shi li	100
 昧地瞒天	mei di man tian	100
 昧地谩天	mei di man tian	1
@@ -371,8 +504,12 @@ sort: by_weight
 昧着良心说话	mei zhe liang xin shuo hua	100
 昧者不知也	mei zhe bu zhi ye	1
 昧良心	mei liang xin	870
+暪	men
+曚	meng
 曚云之月	meng yun zhi yue	1
 曚昽	meng long	1
+朦	meng
+朦	meng	42683
 朦朦	meng meng	5240
 朦朦胧胧	meng meng long long	8870
 朦胧	meng long	222
@@ -382,6 +519,8 @@ sort: by_weight
 朦胧的感觉	meng long de gan jue	100
 朦胧芋螺	meng long yu luo	1
 朦胧诗	meng long shi	2990
+枚	mei
+枚	mei	67198
 枚举	mei ju	13795
 枚举变量	mei ju bian liang	1837
 枚举暴力	mei ju bao li	30
@@ -392,6 +531,9 @@ sort: by_weight
 枚乘	mei sheng	2
 枚速马工	mei su ma gong	100
 枚金牌	mei jin pai	100
+栂	mei
+梅	mei
+梅	mei	333631
 梅三路	mei san lu	1
 梅东村	mei dong cun	14
 梅丽	mei li	5545
@@ -817,6 +959,8 @@ sort: by_weight
 梅龙公路	mei long gong lu	1
 梅龙茶	mei long cha	5
 梅龙镇	mei long zhen	2890
+梦	meng
+梦	meng	650909
 梦一场	meng yi chang	2250
 梦不落	meng bu luo	187
 梦不落雨林	meng bu luo yu lin	100
@@ -1168,12 +1312,25 @@ sort: by_weight
 梦魇靴	meng yan xue	1
 梦魔	meng mo	1285
 梦鸽	meng ge	820
+椚	men
+楣	mei
+楣	mei	4189
 楣斑线夜蛾	mei ban xian ye e	1
 楣窗	mei chuang	15
 楣运当头	mei yun dang tou	100
+楳	mei
 楳图一雄	mei tu yi xiong	2
+槑	mei
+橗	meng
+檬	meng
+檬	meng	8818
 檬双乡	meng shuang xiang	7
 檬梓村	meng zi cun	14
+櫗	mei
+殙	mei
+毎	mei
+每	mei
+每	mei	1015025
 每一	mei yi	293260
 每一丝	mei yi si	2475
 每一个	mei yi ge	500354
@@ -1935,10 +2092,17 @@ sort: by_weight
 每首歌	mei shou ge	3625
 每首歌曲	mei shou ge qu	1515
 每鲜米粉	mei xian mi fen	1
+氋	meng
+氓	meng
+氓	meng	1
 氓之蚩蚩	meng zhi chi chi	3
 氓獠户歌	meng liao hu ge	2
 氓隶	meng li	5
 氓隶之人	meng li zhi ren	5
+汶	men
+沒	mei
+没	mei
+没	mei	7560391
 没一	mei yi	1111
 没一个	mei yi ge	111111
 没一个人	mei yi ge ren	100
@@ -7517,6 +7681,13 @@ sort: by_weight
 没默契	mei mo qi	100
 没鼻子	mei bi zi	100
 没鼻梁	mei bi liang	100
+沬	mei
+浼	mei
+浼	mei	154
+渼	mei
+渼	mei	15
+湄	mei
+湄	mei	5774
 湄公	mei gong	118
 湄公河	mei gong he	8035
 湄公河三角洲	mei gong he san jiao zhou	100
@@ -7540,6 +7711,13 @@ sort: by_weight
 湄浦路	mei pu lu	3
 湄潭县	mei tan xian	242
 湄澜传情	mei lan chuan qing	1
+湈	mei
+溕	meng
+濛	meng
+濛	meng	1
+濹	me
+焖	men
+焖	men	1422
 焖一焖	men yi men	123
 焖划水	men hua shui	1
 焖大虾	men da xia	1364
@@ -7572,6 +7750,9 @@ sort: by_weight
 焖鸭掌	men ya zhang	7
 焖鸭掌儿	men ya zhang er	7
 焖黄鳝	men huang shan	144
+煝	mei
+煤	mei
+煤	mei	34203
 煤业	mei ye	10900
 煤井	mei jing	1215
 煤仓	mei cang	1135
@@ -7753,6 +7934,10 @@ sort: by_weight
 煤饼炉	mei bing lu	180
 煤黑	mei hei	1
 煤黑油	mei hei you	1
+燘	mei
+燜	men
+猛	meng
+猛	meng	403183
 猛一看	meng yi kan	100
 猛一跺地	meng yi duo di	97
 猛丁	meng ding	60
@@ -7944,10 +8129,16 @@ sort: by_weight
 猛龙怪客	meng long guai ke	100
 猛龙过江	meng long guo jiang	2640
 猛龙队	meng long dui	1735
+猸	mei
 猸子	mei zi	1
+獴	meng
+獴	meng	73
 獴大口非鲫	meng da kou fei ji	1
 獴科	meng ke	1
 獴美狐猴	meng mei hu hou	1
+玧	men
+玫	mei
+玫	mei	79367
 玫斑野鲮	mei ban ye ling	1
 玫斑阿科斯喉盘鱼	mei ban a ke si hou pan yu	1
 玫灰蝶属	mei hui die shu	1
@@ -8081,6 +8272,17 @@ sort: by_weight
 玫胸白斑翅雀	mei xiong bai ban chi que	1
 玫色优草螽	mei se you cao zhong	1
 玫贵人	mei gui ren	100
+珻	mei
+瑂	mei
+瑂	mei	1
+璊	men
+甍	meng
+甍	meng	130
+甿	meng
+痗	mei
+癦	meng
+盟	meng
+盟	meng	158636
 盟主	meng zhu	4456
 盟书	meng shu	980
 盟会	meng hui	4795
@@ -8107,6 +8309,8 @@ sort: by_weight
 盟邦	meng bang	795
 盟重土城	meng zhong tu cheng	75
 盟长	meng zhang	1395
+眉	mei
+眉	mei	363007
 眉低眼慢	mei di yan man	1
 眉冲	mei chong	1
 眉分八彩	mei fen ba cai	100
@@ -8242,11 +8446,31 @@ sort: by_weight
 眉黛	mei dai	1345
 眉黛夺将萱草色	mei dai duo jiang xuan cao se	2
 眉黛青颦	mei dai qing pin	1
+眛	mei
+睂	mei
+睸	mei
+瞒	men
+瞞	men
+瞢	meng
+瞢	meng	140
+矇	meng
+矒	meng
+礞	meng
+礞	meng	12
 礞石	meng shi	1
 礞石滚痰片	meng shi gun tan pian	1
+祙	mei
+禖	mei
+穈	mei
+穈	men
+篃	mei
+糜	mei
+糜	mei	1
 糜子	mei zi	1325
 糜子粉	mei zi fen	8
 糜黍	mei shu	2
+美	mei
+美	mei	1692264
 美不可言	mei bu ke yan	100
 美不美	mei bu mei	3415
 美不美丽	mei bu mei li	100
@@ -9862,14 +10086,30 @@ sort: by_weight
 美鸟日记	mei niao ri ji	100
 美鹿	mei lu	294
 美齿	mei chi	905
+羙	mei
+脄	mei
+脢	mei
+脢	mei	1
 脢头肉	mei tou rou	100
 脢子	mei zi	1
 脢子肉	mei zi rou	100
 脢条肉	mei tiao rou	9
 脢肉	mei rou	150
+腜	mei
+艋	meng
+艋	meng	201
 艋舺	meng jia	2
+艨	meng
+艨	meng	580
 艨艟	meng chong	615
+苺	mei
+莓	mei
+莓	mei	6323
 莓苔见履痕	mei tai jian lv hen	3
+莔	meng
+菛	men
+萌	meng
+萌	meng	34408
 萌出牙	meng chu ya	100
 萌到	meng dao	111
 萌到我了	meng dao wo le	100
@@ -9921,6 +10161,9 @@ sort: by_weight
 萌黄	meng huang	1
 萌黄帆美	meng huang fan mei	1
 萌黄绘萌	meng huang hui meng	1
+葿	mei
+蒙	meng
+蒙	meng	290989
 蒙一个	meng yi ge	100
 蒙一堂	meng yi tang	100
 蒙上	meng shang	29840
@@ -10239,10 +10482,32 @@ sort: by_weight
 蒙骗过去了	meng pian guo qu le	100
 蒙骜	meng ao	1070
 蒙鲆	meng ping	1
+蕄	meng
+虋	men
+虻	meng
+虻	meng	868
+蜢	meng
+蜢	meng	1188
+蝞	mei
+蝱	meng
+蟒	meng
+蠓	meng
+蠓	meng	195
 蠓虫	meng chong	250
 蠓虫儿	meng chong er	9999
+袂	mei
+袂	mei	4693
 袂云汗雨	mei yun han yu	1
 袂接肩摩	mei jie jian mo	1
+谜	mei
+跊	mei
+躾	mei
+郿	mei
+郿	mei	497
+鄳	meng
+鄸	meng
+酶	mei
+酶	mei	1616
 酶促反应	mei cu fan ying	860
 酶催化反应	mei cui hua fan ying	200
 酶免仪	mei mian yi	1
@@ -10261,7 +10526,17 @@ sort: by_weight
 酶联免疫吸附测定	mei lian mian yi xi fu ce ding	165
 酶联免疫吸附试验	mei lian mian yi xi fu shi yan	11
 酶蜘	mei zhi	2
+鋂	mei
+鋂	meng
+錳	meng
+鍆	men
+鎂	mei
+鎇	mei
+钔	men
+钔	men	33
 钔元素	men yuan su	100
+锰	meng
+锰	meng	563
 锰元素	meng yuan su	100
 锰的	meng de	3
 锰矿	meng kuang	6350
@@ -10271,6 +10546,8 @@ sort: by_weight
 锰酸钾	meng suan jia	1402
 锰钢	meng gang	1220
 锰铁	meng tie	2685
+镁	mei
+镁	mei	1409
 镁元素	mei yuan su	100
 镁光	mei guang	999
 镁光灯	mei guang deng	3335
@@ -10281,7 +10558,13 @@ sort: by_weight
 镁粉	mei fen	3692
 镁铝	mei lv	2040
 镁铝合金	mei lv he jin	4145
+镅	mei
+镅	mei	19
 镅元素	mei yuan su	100
+門	men
+閅	men
+门	men
+门	men	223346
 门丁	men ding	1340
 门上	men shang	48850
 门下	men xia	47475
@@ -10673,6 +10956,8 @@ sort: by_weight
 门首	men shou	6080
 门鼻儿	men bi er	20
 门齿	men chi	2550
+闷	men
+闷	men	203501
 闷不作声	men bu zuo sheng	100
 闷不闷	men bu men	160
 闷了	men le	4825
@@ -10744,6 +11029,9 @@ sort: by_weight
 闷雷	men lei	3060
 闷骚	men sao	9120
 闷骚型	men sao xing	100
+雺	meng
+霉	mei
+霉	mei	55470
 霉丝	mei si	4
 霉变	mei bian	16970
 霉味	mei wei	5995
@@ -10786,6 +11074,17 @@ sort: by_weight
 霉香咸鱼	mei xiang xian yu	100
 霉黄后窗网蛾	mei huang hou chuang wang e	1
 霉黄毒蛾	mei huang du e	1
+霥	meng
+霿	meng
+靀	meng
+鞔	men
+韎	mei
+顭	meng
+饛	meng
+髳	meng
+鬽	mei
+魅	mei
+魅	mei	79400
 魅人	mei ren	2
 魅力	mei li	401041
 魅力值	mei li zhi	75025
@@ -10819,4 +11118,123 @@ sort: by_weight
 魅蓝系列	mei lan xi lie	100
 魅魔	mei mo	6666
 魅魔纹身	mei mo wen shen	100
+鯍	meng
+鯭	meng
+鶥	mei
+鸏	meng
+鹛	mei
+鹛	mei	41
+鹲	meng
+鹲	meng	9
 鹲科	meng ke	1
+麼	me
+麽	me
+黣	mei
+黴	mei
+黽	meng
+黾	meng
+鼆	meng
+𠊉	mei
+𠍨	mei
+𠐁	meng
+𠐧	meng
+𠖆	meng
+𠪃	mei
+𠵼	meng
+𡒯	meng
+𡚔	meng
+𡬆	meng
+𡬌	meng
+𡲭	mei
+𢄐	meng
+𢕙	meng
+𢤘	meng
+𢮇	mei
+𢿂	meng
+𣊔	meng
+𣓝	meng
+𣞑	meng
+𣟸	mei
+𣯩	men
+𣰥	meng
+𣽭	meng
+𤅣	men
+𤈦	mei
+𤚤	mei
+𤯻	meng
+𤱴	meng
+𤼁	meng
+𤽃	mei
+𤾬	meng
+𥂂	meng
+𥄁	meng
+𥉕	meng
+𥋝	meng
+𥌯	meng
+𥌱	meng
+𥞊	mei
+𥣛	meng
+𥧴	mei
+𥭮	meng
+𦆟	meng
+𦊽	meng
+𦢧	meng
+𦫰	meng
+𦱋	meng
+𦳶	meng
+𦴔	meng
+𦷹	meng
+𦼻	mei
+𦿏	meng
+𧀆	meng
+𧀧	meng
+𧁊	meng
+𧂛	meng
+𧂡	meng
+𧄸	men
+𧈧	meng
+𧓨	meng
+𧞑	meng
+𧭊	meng
+𧭵	mei
+𧲍	meng
+𧳬	mei
+𧴺	men
+𨉭	mei
+𨜘	mei
+𨞫	meng
+𨢊	meng
+𨢠	meng
+𨣘	meng
+𨨸	meng
+𨮒	meng
+𨳔	men
+𨴺	men
+𨼿	meng
+𩄖	meng
+𩆽	meng
+𩈐	mei
+𩋿	mei
+𩎟	mei
+𩑥	men
+𩔉	men
+𩕱	meng
+𩟞	meng
+𩦺	meng
+𩫍	mei
+𩲈	mei
+𩲢	mei
+𩴈	mei
+𩴲	meng
+𩶡	meng
+𪂜	mei
+𪃏	mei
+𪅇	meng
+𪇓	meng
+𪈆	meng
+𪎦	mei
+𪎭	mei
+𫑡	meng	1
+𫞩	men
+𫞩	men	1
+𲎈	meng

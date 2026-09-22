@@ -3,6 +3,59 @@ name: merged.zu
 version: "1.0"
 sort: by_weight
 ...
+㑅	zuo
+㘀	zuo
+㘴	zuo
+㛗	zuo
+㝡	zui
+㝾	zuo
+㞺	zu
+㠑	zui
+㣱	zuo
+㤰	zuo
+㧻	zu
+㭮	zuo
+㭰	zui
+㰎	zui
+㰵	zu
+㲋	zu
+㲞	zu
+㵀	zu
+㶡	zuo
+㷪	zuan
+㸲	zuo
+䂎	zuan
+䅸	zu
+䇥	zuo
+䋏	zuo
+䌣	zuan
+䎰	zuo
+䔃	zu
+䔘	zuo
+䔿	zun
+䖕	zu
+䘒	zui
+䘚	zu
+䘹	zui
+䙘	zu
+䚝	zu
+䝫	zuo
+䞢	zuo
+䞰	zuo
+䟄	zuo
+䟶	zuo
+䡅	zuan
+䤸	zuan
+䦈	zuo
+䩦	zuo
+䬤	zuo
+䬨	zu
+䮔	zui
+䯿	zu
+䯿	zuo
+䱣	zu
+佐	zuo
+佐	zuo	50271
 佐世保	zuo shi bao	745
 佐丹奴	zuo dan nu	2650
 佐久早圣臣	zuo jiu zao sheng chen	100
@@ -93,6 +146,8 @@ sort: by_weight
 佐餐	zuo can	6775
 佐餐面包	zuo can mian bao	1
 佐饔得尝	zuo yong de chang	100
+作	zuo
+作	zuo	2437693
 作一个	zuo yi ge	3285
 作一团	zuo yi tuan	458
 作万般幽怨	zuo wan ban you yuan	1
@@ -592,10 +647,16 @@ sort: by_weight
 作风霸道	zuo feng ba dao	275
 作首诗	zuo shou shi	100
 作鸟兽散	zuo niao shou san	1985
+侳	zuo
+俎	zu
+俎	zu	1606
 俎上之肉	zu shang zhi rou	100
 俎上肉	zu shang rou	70
 俎樽折冲	zu zun zhe chong	1
 俎豆	zu dou	1245
+倅	zu
+做	zuo
+做	zuo	3254997
 做一下	zuo yi xia	6560
 做一个	zuo yi ge	192010
 做一个吧	zuo yi ge ba	100
@@ -1822,6 +1883,13 @@ sort: by_weight
 做鸭	zuo ya	1875
 做黄	zuo huang	3333
 做黄了	zuo huang le	3333
+僔	zun
+僔	zun	1
+冣	zui
+劗	zuan
+卆	zu
+卒	zu
+卒	zu	40372
 卒业	zu ye	1890
 卒于	zu yu	10560
 卒伍	zu wu	1
@@ -1831,10 +1899,21 @@ sort: by_weight
 卒年	zu nian	9999
 卒年穷岁	zu nian qiong sui	1
 卒底炮	zu di pao	109
+厜	zui
+咀	zui
+咀	zui	1
+咗	zuo
+哫	zu
+唑	zuo
+唑	zuo	157
 唑啉	zuo lin	3410
 唑来膦酸	zuo lai lin suan	5
 唑来膦酸注射液	zuo lai lin suan zhu she ye	1
 唑酮	zuo tong	675
+唨	zu
+嗺	zui
+嘬	zuo
+嘬	zuo	1426
 嘬一下	zuo yi xia	100
 嘬一嘬	zuo yi zuo	123
 嘬两口	zuo liang kou	100
@@ -1846,6 +1925,8 @@ sort: by_weight
 嘬汤	zuo tang	123
 嘬瘪子	zuo bie zi	9999
 嘬粥	zuo zhou	123
+嘴	zui
+嘴	zui	762052
 嘴上	zui shang	49680
 嘴上功夫	zui shang gong fu	730
 嘴上无毛	zui shang wu mao	195
@@ -1953,6 +2034,11 @@ sort: by_weight
 嘴长	zui chang	1205
 嘴馋	zui chan	4470
 嘴馋极了	zui chan ji le	123
+噂	zun
+噂	zun	3
+噿	zui
+坐	zuo
+坐	zuo	1106273
 坐一上午	zuo yi shang wu	100
 坐一下	zuo yi xia	2625
 坐一下午	zuo yi xia wu	100
@@ -2450,6 +2536,9 @@ sort: by_weight
 坐高	zuo gao	2040
 坐高铁	zuo gao tie	100
 坐麻了	zuo ma le	100
+墫	zun
+尊	zun
+尊	zun	260962
 尊一声	zun yi sheng	100
 尊上	zun shang	1111
 尊严	zun yan	141100
@@ -2686,7 +2775,19 @@ sort: by_weight
 尊驾	zun jia	2940
 尊龙	zun long	1520
 尊龙名社	zun long ming she	1
+岝	zuo
+岞	zuo
+岞	zuo	6
 岞山	zuo shan	11
+崒	zu
+崒	zu	51
+崪	zu
+嶊	zui
+嶟	zun
+嶟	zun	1
+嶵	zui
+左	zuo
+左	zuo	538289
 左一	zuo yi	5
 左一下右一下	zuo yi xia you yi xia	100
 左一拳右一拳	zuo yi quan you yi quan	100
@@ -3186,6 +3287,8 @@ sort: by_weight
 左马	zuo ma	1
 左髋	zuo kuan	9
 左鬓	zuo bin	69
+座	zuo
+座	zuo	388236
 座上	zuo shang	15995
 座上客	zuo shang ke	2110
 座上客常满	zuo shang ke chang man	3
@@ -3250,12 +3353,28 @@ sort: by_weight
 座驾	zuo jia	8810
 座驾式洗地机	zuo jia shi xi di ji	100
 座驾抹光机	zuo jia mo guang ji	100
+怍	zuo
+怍	zuo	185
+怚	zu
+拵	zun
+捘	zun
+捽	zuo
+捽	zuo	149
+揝	zuan
+撙	zun
+撙	zun	87
 撙节	zun jie	1
+撮	zuo
+撮	zuo	10534
 撮子	zuo zi	1111
+攥	zuan
+攥	zuan	14543
 攥住	zuan zhu	3225
 攥着	zuan zhe	8850
 攥着呢	zuan zhe ne	80
 攥紧	zuan jin	3460
+族	zu
+族	zu	423884
 族与万物并	zu yu wan wu bing	5
 族中	zu zhong	15480
 族主义	zu zhu yi	202
@@ -3288,6 +3407,8 @@ sort: by_weight
 族长夫人	zu zhang fu ren	100
 族长期	zu zhang qi	28
 族长爷爷	zu zhang ye ye	100
+昨	zuo
+昨	zuo	238837
 昨下午	zuo xia wu	75
 昨个	zuo ge	1111
 昨儿	zuo er	3280
@@ -3371,6 +3492,9 @@ sort: by_weight
 昨晨	zuo chen	1940
 昨玩西城月	zuo wan xi cheng yue	1
 昨非今是	zuo fei jin shi	100
+晬	zui
+最	zui
+最	zui	2582957
 最上	zui shang	19645
 最上乘	zui shang cheng	2760
 最上头	zui shang tou	161
@@ -6217,6 +6341,9 @@ sort: by_weight
 最鼎盛	zui ding sheng	100
 最鼎盛时期	zui ding sheng shi qi	100
 最齐	zui qi	13485
+朘	zui
+柞	zuo
+柞	zuo	565
 柞丝	zuo si	3
 柞丝绸	zuo si chou	45
 柞木	zuo mu	3270
@@ -6225,13 +6352,33 @@ sort: by_weight
 柞蚕丝	zuo can si	1265
 柞蚕蛹	zuo can yong	8
 柞蚕饰腹寄蝇	zuo can shi fu ji ying	5
+柤	zu
+柮	zuo
+栫	zun
+栬	zui
+椊	zu
+槜	zui
+槜	zui	1
 槜李	zui li	1
+樶	zui
+樽	zun
+樽	zun	2441
 樽俎	zun zu	440
 樽俎折冲	zun zu zhe chong	1
 樽前月下	zun qian yue xia	1
 樽皇酒具	zun huang jiu ju	24
 樽酒家贫只旧醅	zun jiu jia pin zhi jiu pei	4
 樽酒论文	zun jiu lun wen	1
+檇	zui
+檌	zui
+欈	zui
+濢	zui
+瀳	zun
+爼	zu
+珇	zu
+珇	zu	7
+琢	zuo
+琢	zuo	36857
 琢磨	zuo mo	72530
 琢磨不透	zuo mo bu tou	3520
 琢磨了这么久	zuo mo le zhe me jiu	100
@@ -6244,6 +6391,10 @@ sort: by_weight
 琢磨琢磨	zuo mo zuo mo	100
 琢磨着	zuo mo zhe	12385
 琢磨透了	zuo mo tou le	250
+璻	zui
+睟	zui
+祖	zu
+祖	zu	225814
 祖丁	zu ding	11
 祖上	zu shang	3015
 祖上有德	zu shang you de	70
@@ -6432,6 +6583,11 @@ sort: by_weight
 祖龙	zu long	2765
 祖龙一炬	zu long yi ju	100
 祖龙娱乐	zu long yu le	100
+祚	zuo
+祚	zuo	1977
+祽	zui
+租	zu
+租	zu	98428
 租一天	zu yi tian	100
 租下	zu xia	7880
 租下来	zu xia lai	735
@@ -6584,8 +6740,32 @@ sort: by_weight
 租金收益率	zu jin shou yi lv	100
 租钱	zu qian	420
 租鸡青一	zu ji qing yi	100
+秨	zuo
+稓	zuo
+稡	zu
+稡	zui
+穝	zuo
+笮	zuo
+笮	zuo	405
+筰	zuo
+箤	zu
+篹	zuan
+籫	zuan
+糳	zuo
+組	zu
+絊	zui
+繓	zuo
+繜	zun
+繤	zuan
+纂	zuan
+纂	zuan	2790
 纂修	zuan xiu	5700
 纂辑	zuan ji	600
+纉	zuan
+纗	zui
+纘	zuan
+组	zu
+组	zu	707445
 组一下	zu yi xia	63
 组一个	zu yi ge	100
 组上	zu shang	4444
@@ -6990,6 +7170,11 @@ sort: by_weight
 组队系统	zu dui xi tong	100
 组队赛	zu dui sai	108
 组雕	zu diao	9999
+缵	zuan
+缵	zuan	271
+罇	zun
+罪	zui
+罪	zui	300821
 罪上加罪	zui shang jia zui	460
 罪不可恕	zui bu ke shu	25
 罪不可赎	zui bu ke shu	3
@@ -7120,13 +7305,36 @@ sort: by_weight
 罪障	zui zhang	2965
 罪魁	zui kui	2705
 罪魁祸首	zui kui huo shou	23690
+胙	zuo
+胙	zuo	169
 胙土分茅	zuo tu fen mao	2
 胙城县	zuo cheng xian	1
+苲	zuo
+莋	zuo
+菹	zu
+菹	zu	99
 菹醢	zu hai	150
+葃	zuo
+葄	zuo
+葅	zu
+蒩	zu
+蓙	zuo
+蕞	zui
+蕞	zui	136
 蕞尔	zui er	2
 蕞尔小国	zui er xiao guo	100
 蕞尔小邦	zui er xiao bang	100
 蕞尔弹丸	zui er dan wan	100
+蟕	zui
+袏	zuo
+袸	zun
+觜	zui
+觜	zui	1
+詛	zu
+諎	zuo
+譐	zun
+诅	zu
+诅	zu	24236
 诅咒	zu zhou	71020
 诅咒之亡	zu zhou zhi wang	1
 诅咒之伤	zu zhou zhi shang	1
@@ -7136,7 +7344,11 @@ sort: by_weight
 诅咒语	zu zhou yu	100
 诅咒长靴	zu zhou chang xue	1
 诅骂	zu ma	265
+賺	zuan
+赚	zuan	1
 赚人	zuan ren	2
+足	zu
+足	zu	680607
 足三里	zu san li	5445
 足下	zu xia	16495
 足下生辉	zu xia sheng hui	21
@@ -7384,6 +7596,13 @@ sort: by_weight
 足骨	zu gu	28
 足高气强	zu gao qi qiang	100
 足高气扬	zu gao qi yang	100
+踤	zu
+躜	zuan
+躜	zuan	59
+躦	zuan
+辠	zui
+遵	zun
+遵	zun	50067
 遵义	zun yi	40820
 遵义中院	zun yi zhong yuan	87
 遵义会议	zun yi hui yi	9020
@@ -7463,6 +7682,12 @@ sort: by_weight
 遵行	zun xing	7015
 遵赤水而容与	zun chi shui er rong yu	1
 遵道秉义	zun dao bing yi	1
+酔	zui
+酢	zuo
+酢	zuo	371
+酻	zui
+醉	zui
+醉	zui	181356
 醉不了	zui bu liao	250
 醉不了我	zui bu liao wo	100
 醉不成欢惨将别	zui bu cheng huan can jiang bie	2
@@ -7597,6 +7822,19 @@ sort: by_weight
 醉鸳鸯	zui yuan yang	1
 醉鹅	zui e	6
 醉鹅掌	zui e zhang	1
+鈼	zuo
+鉆	zuan
+銌	zun
+鋷	zui
+錊	zui
+鎐	zu
+鎺	zu
+鏃	zu
+鐏	zun
+鑚	zuan
+鑽	zuan
+钻	zuan
+钻	zuan	132223
 钻一行	zuan yi hang	100
 钻一钻	zuan yi zuan	378
 钻不出	zuan bu chu	475
@@ -7770,7 +8008,11 @@ sort: by_weight
 钻门子	zuan men zi	100
 钻隙逾墙	zuan xi yu qiang	100
 钻饰	zuan shi	7520
+镞	zu
+镞	zu	765
 镞砺括羽	zu li kuo yu	100
+阻	zu
+阻	zu	187918
 阻不住	zu bu zhu	200
 阻值	zu zhi	15885
 阻兵安忍	zu bing an ren	2
@@ -7906,5 +8148,141 @@ sort: by_weight
 阻隔率	zu ge lv	100
 阻难	zu nan	795
 阻雨	zu yu	135
+阼	zuo
+阼	zuo	53
+靻	zu
+飵	zuo
+鱒	zun
+鳟	zun
+鳟	zun	436
 鳟形棘隆头鱼	zun xing ji long tou yu	1
 鳟鱼	zun yu	4135
+鶎	zun
+鷷	zun
+𠂇	zuo
+𠟃	zun
+𠱜	zun
+𠱯	zuo
+𠲋	zui
+𠹠	zuo
+𠻏	zu
+𠾋	zui
+𠿘	zui
+𡉺	zuan
+𡙭	zui
+𡡔	zui
+𡪳	zuo
+𡯨	zuo
+𡹥	zuo
+𡻬	zu
+𡽁	zui
+𡽛	zui
+𢀡	zuo
+𢂃	zuo
+𢅪	zu
+𢈡	zui
+𢉺	zu
+𢊛	zui
+𢤎	zuo
+𢫵	zu
+𢳇	zu
+𢳈	zu
+𣀶	zuan
+𣇙	zu
+𣖱	zui
+𣠹	zuo
+𣢰	zu
+𣤶	zu
+𣨛	zu
+𣩈	zuo
+𣩑	zui
+𣪁	zuan
+𣹧	zuo
+𤓵	zu
+𤬧	zu
+𤮐	zun
+𤱌	zu
+𤽱	zu
+𤿀	zuo
+𥅁	zuo
+𥊭	zun
+𥍋	zui
+𥙀	zuo
+𥛜	zu
+𥞘	zun
+𥞯	zu
+𥢎	zun
+𥣆	zu
+𥥏	zuo
+𥳣	zui
+𥳵	zui
+𥹁	zuo
+𥼀	zu
+𥼪	zu
+𥽿	zuo
+𦁎	zuo
+𦆈	zuan
+𦆈	zui
+𦈬	zui
+𦏳	zui
+𦑋	zu
+𦙈	zui
+𦙉	zuan
+𦢐	zun
+𦥬	zuo
+𦦹	zuo
+𦨆	zun
+𦪚	zun
+𦵬	zu
+𦸺	zui
+𧃘	zuo
+𧇈	zu
+𧇿	zu
+𧎲	zu
+𧎹	zui
+𧐈	zu
+𧑙	zu
+𧗎	zu
+𧞰	zu
+𧨀	zuo
+𧮙	zuo
+𧲭	zuo
+𧺒	zu
+𧻝	zui
+𨀨	zuo
+𨂀	zu
+𨃭	zu
+𨄕	zu
+𨇃	zuan
+𨉖	zuan
+𨐳	zuo
+𨝨	zuo
+𨞒	zuo
+𨢅	zui
+𨧰	zu
+𨨳	zu
+𨩰	zu
+𨰭	zuan
+𨱔	zun	1
+𨻵	zui
+𨿇	zui
+𩎑	zuan
+𩐡	zu
+𩚻	zui
+𩛠	zuo
+𩛻	zuan
+𩣷	zui
+𩥿	zu
+𩩠	zu
+𩯄	zun
+𩯳	zuan
+𩲨	zui
+𩲲	zu
+𩺯	zu
+𪋌	zui
+𪋍	zu
+𪎇	zuo
+𪎲	zuo
+𪓌	zui
+𪘧	zu
+𪙳	zu

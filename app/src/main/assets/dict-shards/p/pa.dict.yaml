@@ -3,11 +3,60 @@ name: merged.pa
 version: "1.0"
 sort: by_weight
 ...
+㑂	pang
+㘐	pao
+㚿	pao
+㜊	pang
+㝑	pang
+㞎	pa
+㤶	pang
+㥬	pang
+㩯	pan
+㫄	pang
+㭛	pai
+㯡	pao
+㯱	pao
+㳪	pan
+㵗	pan
+㵺	pai
+䂇	pang
+䃑	pan
+䃲	pan
+䃻	pai
+䅭	pang
+䈲	pan
+䋣	pan
+䒍	pang
+䔤	pa
+䖰	pai
+䙃	pan
+䙪	pan
+䛌	pao
+䠙	pang
+䠙	pao
+䨦	pang
+䩝	pao
+䮘	pai
+䮾	pang
+䯲	pa
+䰉	pan
+䰔	pan
+䱝	pai
+䶌	pao
+䶕	pa
+丬	pan
+乓	pang
+乓	pang	8098
 乓乓	pang pang	256
+俳	pai
+俳	pai	515
 俳优	pai you	2
 俳优畜之	pai you xu zhi	2
 俳句	pai ju	1215
 俳谐	pai xie	205
+冸	pan
+判	pan
+判	pan	204750
 判下去	pan xia qu	100
 判下来	pan xia lai	100
 判不了	pan bu liao	175
@@ -137,6 +186,8 @@ sort: by_weight
 判轻了	pan qing le	321
 判重了	pan zhong le	321
 判阅	pan yue	99
+刨	pao
+刨	pao	8691
 刨人家祖坟	pao ren jia zu fen	100
 刨人祖坟	pao ren zu fen	100
 刨出去	pao chu qu	12
@@ -162,10 +213,15 @@ sort: by_weight
 刨除	pao chu	2317
 刨食	pao shi	299
 刨食儿	pao shi er	299
+匏	pao
+匏	pao	229
 匏有苦叶	pao you ku ye	100
 匏瓜	pao gua	2
 匏瓜徒悬	pao gua tu xuan	1
 匏瓜空悬	pao gua kong xuan	1
+厐	pang
+叛	pan
+叛	pan	97192
 叛乱	pan luan	27145
 叛乱分子	pan luan fen zi	1335
 叛乱罪	pan luan zui	100
@@ -204,6 +260,8 @@ sort: by_weight
 叛逆的	pan ni de	8620
 叛逆者	pan ni zhe	2805
 叛逆行为	pan ni xing wei	285
+咆	pao
+咆	pao	23494
 咆哮	pao xiao	32960
 咆哮万里触龙门	pao xiao wan li chu long men	6
 咆哮体	pao xiao ti	100
@@ -220,6 +278,8 @@ sort: by_weight
 咆哮虎	pao xiao hu	184
 咆哮起来	pao xiao qi lai	1410
 咆哮道	pao xiao dao	1650
+哌	pai
+哌	pai	77
 哌唑嗪	pai zuo qin	11
 哌喹	pai kui	12
 哌嗪	pai qin	17
@@ -232,6 +292,8 @@ sort: by_weight
 哌替啶	pai ti ding	100
 哌柏西利	pai bo xi li	100
 哌泊塞嗪	pai bo sai qin	3
+啪	pa
+啪	pa	75251
 啪哒声	pa da sheng	100
 啪唧	pa ji	3365
 啪啦	pa la	399
@@ -247,6 +309,19 @@ sort: by_weight
 啪的	pa de	2465
 啪的一下	pa de yi xia	100
 啪的一声	pa de yi sheng	3945
+嗙	pang
+嚗	pao
+坢	pan
+垉	pao
+夆	pang
+奅	pao
+妑	pa
+媻	pan
+嫎	pang
+尨	pang
+帊	pa
+帕	pa
+帕	pa	75768
 帕丁森	pa ding sen	186
 帕丘卡	pa qiu ka	124
 帕丽斯	pa li si	3235
@@ -408,12 +483,17 @@ sort: by_weight
 帕露露	pa lu lu	100
 帕鲁	pa lu	1111
 帕黎恩魔杖	pa li en mo zhang	2
+幋	pan
+庖	pao
+庖	pao	1610
 庖丁	pao ding	1975
 庖丁解牛	pao ding jie niu	1925
 庖代	pao dai	60
 庖厨	pao chu	128
 庖牺	pao xi	1
 庖牺氏	pao xi shi	1111
+庞	pang
+庞	pang	122515
 庞不庞大	pang bu pang da	100
 庞不庞大呀	pang bu pang da ya	100
 庞不庞大啊	pang bu pang da a	100
@@ -498,6 +578,10 @@ sort: by_weight
 庞鸿书	pang hong shu	3
 庞麦郎	pang mai lang	100
 庞龙	pang long	6545
+庬	pang
+廹	pai
+彷	pang
+彷	pang	21360
 彷徨	pang huang	42755
 彷徨四顾	pang huang si gu	100
 彷徨夜灵	pang huang ye ling	100
@@ -507,6 +591,8 @@ sort: by_weight
 彷徨无计	pang huang wu ji	100
 彷徨时	pang huang shi	100
 彷徨歧途	pang huang qi tu	100
+徘	pai
+徘	pai	17122
 徘徊	pai huai	117060
 徘徊不前	pai huai bu qian	4660
 徘徊不去	pai huai bu qu	100
@@ -525,6 +611,9 @@ sort: by_weight
 徘徊瞻眺	pai huai zhan tiao	8
 徘徊者	pai huai zhe	835
 徘徊观望	pai huai guan wang	345
+徬	pang
+怕	pa
+怕	pa	1114820
 怕三怕四	pa san pa si	100
 怕下雪	pa xia xue	100
 怕不	pa bu	9999
@@ -664,6 +753,9 @@ sort: by_weight
 怕鸡毛啊	pa ji mao a	100
 怕麻烦	pa ma fan	7530
 怕黑	pa hei	4315
+房	pang
+扒	pa
+扒	pa	25334
 扒三样	pa san yang	23
 扒三样儿	pa san yang er	13
 扒原壳鲍鱼	pa yuan ke bao yu	147
@@ -696,6 +788,8 @@ sort: by_weight
 扒鸡块儿	pa ji kuai er	13
 扒鸡腿儿	pa ji tui er	13
 扒龙须鲍鱼	pa long xu bao yu	1
+抛	pao
+抛	pao	111366
 抛一抛	pao yi pao	104
 抛下	pao xia	9999
 抛下去	pao xia qu	365
@@ -818,6 +912,10 @@ sort: by_weight
 抛锚	pao mao	9950
 抛除	pao chu	470
 抛鸾拆凤	pao luan chai feng	1
+拋	pao
+拌	pan
+拍	pai
+拍	pai	449481
 拍一下	pai yi xia	2965
 拍一个	pai yi ge	2222
 拍一些	pai yi xie	30
@@ -1202,6 +1300,9 @@ sort: by_weight
 拍黄片儿	pai huang pian er	100
 拍黄瓜	pai huang gua	1295
 拍鼓	pai gu	223
+拚	pan
+排	pai
+排	pai	449584
 排一下	pai yi xia	525
 排一个	pai yi ge	12
 排一排	pai yi pai	123
@@ -1800,6 +1901,10 @@ sort: by_weight
 排骨面	pai gu mian	830
 排骨饭	pai gu fan	1195
 排齐	pai qi	740
+掱	pa
+搫	pan
+攀	pan
+攀	pan	45399
 攀上	pan shang	15500
 攀上关系	pan shang guan xi	100
 攀上去	pan shang qu	100
@@ -1903,6 +2008,8 @@ sort: by_weight
 攀龙托凤	pan long tuo feng	100
 攀龙附凤	pan long fu feng	1105
 攀龙附骥	pan long fu ji	100
+旁	pang
+旁	pang	610425
 旁上	pang shang	49
 旁人	pang ren	51965
 旁人不惜妻止之	pang ren bu xi qi zhi zhi	1
@@ -2001,7 +2108,20 @@ sort: by_weight
 旁顾	pang gu	9999
 旁顾左右	pang gu zuo you	65
 旁骛	pang wu	950
+杷	pa
+杷	pa	759
 杷罗剔抉	pa luo ti jue	25
+柈	pan
+棑	pai
+槃	pan
+槃	pan	1340
+汃	pa
+汸	pang
+沗	pang
+沜	pan
+沠	pai
+泡	pao
+泡	pao	114183
 泡一壶	pao yi hu	1360
 泡一壶茶	pao yi hu cha	960
 泡一泡	pao yi pao	123
@@ -2205,6 +2325,8 @@ sort: by_weight
 泡马子	pao ma zi	635
 泡龙井	pao long jing	980
 泡龙井茶	pao long jing cha	1180
+泮	pan
+泮	pan	301
 泮塘总站	pan tang zong zhan	7
 泮塘马蹄糕	pan tang ma ti gao	61
 泮宫	pan gong	250
@@ -2217,6 +2339,10 @@ sort: by_weight
 泮林革音	pan lin ge yin	1
 泮池	pan chi	1215
 泮溪酒家	pan xi jiu jia	1010
+洀	pan
+派	pa
+派	pai
+派	pai	537090
 派一个	pai yi ge	3333
 派上	pai shang	10760
 派上了用场	pai shang le yong chang	100
@@ -2392,13 +2518,24 @@ sort: by_weight
 派驻在	pai zhu zai	470
 派驻所	pai zhu suo	100
 派高手	pai gao shou	100
+渒	pai
+湃	pai
+湃	pai	12221
+湴	pan
+溿	pan
+滂	pang
+滂	pang	2319
 滂江街	pang jiang jie	157
 滂沛	pang pei	75
 滂沱	pang tuo	4475
 滂沱大雨	pang tuo da yu	2120
 滂沱大雨遽然而至	pang tuo da yu ju ran er zhi	100
 滂湃	pang pai	175
+潖	pa
+潖	pa	2
 潖江	pa jiang	2
+潘	pan
+潘	pan	63492
 潘世恩	pan shi en	9
 潘东升	pan dong sheng	164
 潘东文	pan dong wen	100
@@ -2605,6 +2742,11 @@ sort: by_weight
 潘鬓沈腰	pan bin shen yao	100
 潘鼎	pan ding	6
 潘龄皋	pan ling gao	6
+瀊	pan
+炍	pan
+炐	pang
+炮	pao
+炮	pao	176432
 炮三士	pao san shi	1
 炮五进四	pao wu jin si	100
 炮仗	pao zhang	2630
@@ -2698,6 +2840,10 @@ sort: by_weight
 炮阵地	pao zhen di	100
 炮龙烹凤	pao long peng feng	100
 炮龙节	pao long jie	100
+炰	pao
+烰	pao
+爬	pa
+爬	pa	183266
 爬一爬	pa yi pa	123
 爬上	pa shang	78785
 爬上了	pa shang le	100
@@ -2831,7 +2977,13 @@ sort: by_weight
 爬雪山过草地	pa xue shan guo cao di	100
 爬高	pa gao	3810
 爬高高	pa gao gao	100
+爮	pao
+爿	pan
+爿	pan	1035
 爿部	pan bu	1
+牉	pan
+牌	pai
+牌	pai	237160
 牌不是万能的	pai bu shi wan neng de	100
 牌九	pai jiu	2990
 牌价	pai jia	7415
@@ -2882,17 +3034,29 @@ sort: by_weight
 牌赌	pai du	200
 牌面	pai mian	15795
 牌风	pai feng	475
+犤	pai
+狍	pao
+狍	pao	1153
 狍子	pao zi	2750
 狍子脊	pao zi ji	2
+猅	pai
+琶	pa
+琶	pa	8308
 琶杰	pa jie	1
 琶洲	pa zhou	4628
 琶洲砥柱	pa zhou di zhu	10
 琶洲街	pa zhou jie	124
 琶洲街道	pa zhou jie dao	35
 琶音	pa yin	123
+瓟	pao
+畔	pan
+畔	pan	23833
 畔塘	pan tang	5
 畔江花园	pan jiang hua yuan	1
 畔道离经	pan dao li jing	1
+畨	pan
+番	pan
+番	pan	1
 番海大桥	pan hai da qiao	100
 番禺	pan yu	2
 番禺人	pan yu ren	1
@@ -2917,12 +3081,18 @@ sort: by_weight
 番禺职业技术学院	pan yu zhi ye ji shu xue yuan	1
 番禺路	pan yu lu	132
 番禺长隆	pan yu chang long	1
+疱	pao
+疱	pao	1049
 疱疹	pao zhen	20260
 疱疹性咽峡炎	pao zhen xing yan xia yan	92
 疱疹性结膜炎	pao zhen xing jie mo yan	1
 疱疹性脑膜炎	pao zhen xing nao mo yan	1
 疱疹样皮炎	pao zhen yang pi yan	1
 疱疹病毒	pao zhen bing du	5725
+皅	pa
+皰	pao
+盘	pan
+盘	pan	279546
 盘一下	pan yi xia	93
 盘上	pan shang	34810
 盘下	pan xia	7465
@@ -3144,6 +3314,10 @@ sort: by_weight
 盘龙菜	pan long cai	194
 盘龙踞虎	pan long ju hu	100
 盘龙阁	pan long ge	100
+盤	pan
+盻	pan
+盼	pan
+盼	pan	70327
 盼不到	pan bu dao	550
 盼与寄	pan yu ji	1
 盼了	pan le	111
@@ -3176,6 +3350,12 @@ sort: by_weight
 盼着我可以	pan zhe wo ke yi	100
 盼着长大	pan zhe zhang da	100
 盼能与君长相依	pan neng yu jun chang xiang yi	100
+眅	pan
+眫	pan
+眫	pang
+砲	pao
+磅	pang
+磅	pang	200
 磅礴	pang bo	13830
 磅礴之力	pang bo zhi li	100
 磅礴之势	pang bo zhi shi	100
@@ -3185,6 +3365,8 @@ sort: by_weight
 磅礴大雨	pang bo da yu	100
 磅礴气势	pang bo qi shi	100
 磅礴的气势	pang bo de qi shi	100
+磐	pan
+磐	pan	5916
 磐东街道	pan dong jie dao	3
 磐安县	pan an xian	4085
 磐田喜悦	pan tian xi yue	135
@@ -3194,11 +3376,27 @@ sort: by_weight
 磐石之安	pan shi zhi an	100
 磐石县	pan shi xian	7
 磐石市	pan shi shi	1540
+磻	pan
+磻	pan	160
 磻坑	pan keng	1
 磻溪	pan xi	1
 磻溪村	pan xi cun	6
+礟	pao
+礮	pao
+穮	pao
+筢	pa
+筢	pa	568
 筢子	pa zi	135
+箄	pai
+篣	pang
+簰	pai
+簰	pai	10
 簰洲湾镇	pai zhou wan zhen	14
+簲	pai
+籓	pan
+縏	pan
+耙	pa
+耙	pa	3977
 耙匀	pa yun	2
 耙土	pa tu	2
 耙地	pa di	2
@@ -3207,6 +3405,15 @@ sort: by_weight
 耙梳	pa shu	190
 耙耙柑	pa pa gan	123
 耙耳朵	pa er duo	123
+耪	pang
+耪	pang	139
+聁	pan
+肨	pan
+肨	pang
+胖	pan
+胖	pan	1
+胖	pang
+胖	pang	178105
 胖一圈	pang yi quan	100
 胖丁	pang ding	11
 胖不了	pang bu liao	185
@@ -3328,7 +3535,12 @@ sort: by_weight
 胖鱼	pang yu	7
 胖鸟	pang niao	3
 胖鼓鼓	pang gu gu	8
+胮	pang
+脬	pao
+脬	pao	135
 脬气不固	pao qi bu gu	1
+膀	pang
+膀	pang	1
 膀了	pang le	3
 膀肿	pang zhong	16
 膀胱	pang guang	55525
@@ -3385,7 +3597,24 @@ sort: by_weight
 膀胱颈梗阻	pang guang jing geng zu	14
 膀胱颈部	pang guang jing bu	100
 膀胱颈钳	pang guang jing qian	1
+膖	pang
+膰	pan
+舥	pa
+舥	pa	1
+般	pan
+舽	pang
+苩	pa
+萠	pan
+萢	pao
+葩	pa
+葩	pa	2209
+蒎	pai
+蒎	pai	5
 蒎烯	pai xi	7
+蒰	pan
+藨	pao
+螃	pang
+螃	pang	6823
 螃蟹	pang xie	54830
 螃蟹井	pang xie jing	4
 螃蟹叫	pang xie jiao	112
@@ -3398,6 +3627,8 @@ sort: by_weight
 螃蟹肉	pang xie rou	450
 螃蟹舞	pang xie wu	161
 螃蟹酥	pang xie su	3
+蟠	pan
+蟠	pan	5464
 蟠凤	pan feng	10
 蟠地极天	pan di ji tian	100
 蟠天际地	pan tian ji di	100
@@ -3415,6 +3646,9 @@ sort: by_weight
 蟠桃盛宴	pan tao sheng yan	100
 蟠桃胜会	pan tao sheng hui	100
 蟠龙松	pan long song	100
+袌	pao
+袍	pao
+袍	pao	89409
 袍哥	pao ge	2
 袍哥会	pao ge hui	2222
 袍子	pao zi	9705
@@ -3426,6 +3660,16 @@ sort: by_weight
 袍泽之谊	pao ze zhi yi	100
 袍笏登场	pao hu deng chang	9999
 袍里乡	pao li xiang	5
+袙	pa
+袢	pan
+袢	pan	208
+褜	pao
+襻	pan
+襻	pan	129
+覫	pang
+詊	pan
+趴	pa
+趴	pa	65882
 趴一趴	pa yi pa	123
 趴下	pa xia	10100
 趴下了	pa xia le	3360
@@ -3465,6 +3709,10 @@ sort: by_weight
 趴趴	pa pa	1
 趴趴熊	pa pa xiong	100
 趴蹄	pa ti	40
+趽	pang
+跁	pao
+跑	pao
+跑	pao	767297
 跑一	pao yi	1111
 跑一下	pao yi xia	100
 跑一会儿	pao yi hui er	15
@@ -3800,6 +4048,9 @@ sort: by_weight
 跑马赛	pao ma sai	45
 跑龙套	pao long tao	8680
 跑龙套的	pao long tao de	100
+跘	pan
+蹒	pan
+蹒	pan	6305
 蹒跚	pan shan	12310
 蹒跚前行	pan shan qian xing	100
 蹒跚地走	pan shan de zou	1035
@@ -3809,15 +4060,153 @@ sort: by_weight
 蹒跚而行	pan shan er xing	750
 蹒跚行走	pan shan xing zou	125
 蹒蹒跚跚	pan pan shan shan	70
+蹣	pan
+軳	pao
+輫	pai
+迫	pai
+迫	pai	1
 迫击炮	pai ji pao	10320
 迫击炮弹	pai ji pao dan	1375
 迫击炮连	pai ji pao lian	1111
 迫榴炮	pai liu pao	1180
+逄	pang
+逄	pang	529
 逄姓	pang xing	10
 逄家庄	pang jia zhuang	1
 逄王四村	pang wang si cun	4
+鈀	pa
+鉋	pao
+鋬	pan
+鎃	pai
+鎜	pan
+鑻	pan
+钯	pa
+钯	pa	0
+铇	pao
+闆	pan
+雱	pang
+雱	pang	486
+霶	pang
+靤	pao
+鞄	pao
+鞶	pan
+頖	pan
+髈	pang
+鰟	pang
+鳑	pang
+鳑	pang	84
 鳑鲏	pang pi	803
 鳑鲏锚头鱼蚤	pang pi mao tou yu zao	1
 鳑鲏鱼	pang pi yu	125
+鵥	pan
+麃	pao
+麅	pao
+麭	pao
+龎	pang
+龐	pang
+𠂢	pai
+𠗵	pang
+𠣳	pao
+𠦲	pang
+𠸁	pai
+𠽲	pan
+𡂘	pao
+𡅃	pang
+𡞟	pan
+𡧙	pao
+𡯈	pao
+𡾌	pao
+𢐊	pang
+𢬵	pan
+𢰿	pan
+𢲔	pan
+𢾳	pao
+𢿏	pao
+𣁦	pan
+𣂆	pang
+𣏟	pai
+𣔚	pan
+𣕅	pao
+𣖐	pai
+𣚇	pao
+𣚒	pa
+𣝁	pai
+𣟏	pao
+𣧜	pa
+𣮃	pao
+𣱺	pa
+𣲖	pai
+𣴪	pai
+𣶐	pao
+𤄜	pan
+𤄧	pan
+𤆵	pa
+𤆵	pa	1
 𤆵耳朵	pa er duo	101
 𤆵𤆵柑	pa pa gan	101
+𤔉	pao
+𤖭	pan
+𤠍	pan
+𤧭	pang
+𤵸	pang
+𤺏	pan
+𤻷	pan
+𤽉	pa
+𥈼	pan
+𥉟	pan
+𥌊	pan
+𥐙	pa
+𥕿	pan
+𥩙	pa
+𥪴	pang
+𥯟	pai
+𥱼	pai
+𥴖	pai
+𥶔	pao
+𥿯	pai
+𦐆	pa
+𦐸	pao
+𦔠	pai
+𦔩	pao
+𦙀	pan
+𦜍	pang
+𦠖	pao
+𦣂	pang
+𦩯	pai
+𦪹	pan
+𦫖	pai
+𧑡	pa
+𧔧	pang
+𧙌	pao
+𧣃	pa
+𧣣	pa
+𧵠	pai
+𧺾	pan
+𧿆	pang
+𨂝	pan
+𨃞	pan
+𨃟	pan
+𨋐	pa
+𨋛	pao
+𨒃	pan
+𨜷	pang
+𨣙	pao
+𩂞	pao
+𩃎	pang
+𩅅	pang
+𩆘	pao
+𩈆	pa
+𩈈	pang
+𩎘	pao
+𩎾	pao
+𩐜	pao
+𩐨	pang
+𩗥	pao
+𩛇	pai
+𪄀	pan
+𪊳	pao
+𪐿	pang
+𪒀	pan
+𪒋	pan
+𪔔	pang
+𪗔	pa

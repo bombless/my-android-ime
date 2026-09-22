@@ -3,6 +3,66 @@ name: merged.cu
 version: "1.0"
 sort: by_weight
 ...
+㗤	cu
+㝮	cui
+㟇	cuo
+㠝	cuan
+㤘	cu
+㥞	cui
+㧘	cui
+㭫	cuan
+㭫	cuo
+㯔	cui
+㯜	cui
+㰗	cu
+㱖	cui
+㳃	cui
+㵀	cuan
+㵏	cui
+㷃	cui
+㷪	cui
+㸑	cuan
+㽨	cuo
+㿷	cuo
+䂱	cui
+䂳	cuo
+䃀	cui
+䃚	cu
+䄟	cui
+䆊	cui
+䆘	cuan
+䊫	cui
+䍎	cun
+䎌	cu
+䐣	cuo
+䐤	cuo
+䑘	cuo
+䓚	cu
+䔴	cui
+䙯	cu
+䛤	cu
+䞼	cuan
+䟟	cu
+䟶	cuo
+䠓	cu
+䠞	cu
+䠡	cuo
+䢐	cu
+䢪	cui
+䣜	cuo
+䥄	cu
+䥘	cu
+䥘	cuo
+䧽	cui
+䬨	cu
+䰈	cuo
+䰖	cuan
+䱜	cuo
+䴾	cuo
+伜	cui
+侟	cun
+促	cu
+促	cu	114240
 促产	cu chan	890
 促使	cu shi	305195
 促使性	cu shi xing	175
@@ -194,6 +254,9 @@ sort: by_weight
 促黄体素	cu huang ti su	230
 促黄体素释放素	cu huang ti su shi fang su	1
 促黑素细胞激素	cu hei su xi bao ji su	1
+倅	cui
+催	cui
+催	cui	86151
 催一下	cui yi xia	100
 催一催	cui yi cui	123
 催不动	cui bu dong	100
@@ -319,6 +382,12 @@ sort: by_weight
 催雨弹	cui yu dan	100
 催青	cui qing	390
 催马加鞭	cui ma jia bian	3
+凗	cui
+刌	cun
+剉	cuo
+剒	cuo
+卒	cu
+卒	cu	600
 卒中	cu zhong	6035
 卒中中心	cu zhong zhong xin	100
 卒中中心建设	cu zhong zhong xin jian she	100
@@ -331,13 +400,26 @@ sort: by_weight
 卒中风险	cu zhong feng xian	100
 卒卒鲜暇	cu cu xian xia	1
 卒极之事	cu ji zhi shi	1
+厝	cuo
+厝	cuo	794
 厝上村	cuo shang cun	3
 厝斗村	cuo dou cun	3
 厝火燎原	cuo huo liao yuan	1
 厝火积薪	cuo huo ji xin	9999
 厝薪于火	cuo xin yu huo	100
+吋	cun
+啐	cui
+啐	cui	7044
 啐了	cui le	3780
 啐道	cui dao	1180
+啛	cui
+噈	cu
+墔	cui
+壿	cun
+夎	cuo
+媨	cu
+存	cun
+存	cun	485467
 存一下	cun yi xia	275
 存下	cun xia	6035
 存下来	cun xia lai	3525
@@ -708,6 +790,8 @@ sort: by_weight
 存项	cun xiang	160
 存食	cun shi	155
 存高远	cun gao yuan	1535
+寸	cun
+寸	cun	85513
 寸丝不挂	cun si bu gua	100
 寸丝为定	cun si wei ding	1
 寸丝半粟	cun si ban su	100
@@ -806,6 +890,9 @@ sort: by_weight
 寸阴若岁	cun yin ruo sui	100
 寸马豆人	cun ma dou ren	1
 寸骨	cun gu	2
+崒	cui
+崔	cui
+崔	cui	71661
 崔三娘	cui san niang	194
 崔丝塔娜	cui si ta na	100
 崔九堂前几度闻	cui jiu tang qian ji du wen	1180
@@ -927,16 +1014,35 @@ sort: by_weight
 崔颢	cui hao	1
 崔鸿	cui hong	1
 崔黄口	cui huang kou	3
+嵟	cui
+嵯	cuo
+嵯	cuo	555
 嵯岗牧场	cuo gang mu chang	2
 嵯岗镇	cuo gang zhen	4
 嵯峨	cuo e	467
+嵳	cuo
+巑	cuan
+庴	cuo
+徂	cu
+徂	cu	560
 徂徕	cu lai	11
 徂徕镇	cu lai zhen	116
+忖	cun
+忖	cun	25374
 忖度	cun duo	1350
 忖思	cun si	590
 忖摸	cun mo	9999
 忖道	cun dao	1
 忖量	cun liang	465
+忰	cui
+怚	cu
+悴	cui
+悴	cui	19029
+慛	cui
+憱	cu
+拵	cun
+挫	cuo
+挫	cuo	32364
 挫一挫	cuo yi cuo	123
 挫万物于笔端	cuo wan wu yu bi duan	23
 挫伤	cuo shang	25025
@@ -951,6 +1057,8 @@ sort: by_weight
 挫败	cuo bai	19845
 挫败感	cuo bai gan	3770
 挫骨扬灰	cuo gu yang hui	615
+措	cuo
+措	cuo	104929
 措办	cuo ban	9
 措勤县	cuo qin xian	260
 措周乡	cuo zhou xiang	1
@@ -995,6 +1103,8 @@ sort: by_weight
 措辞强硬	cuo ci qiang ying	405
 措迈乡	cuo mai xiang	1
 措颜无地	cuo yan wu di	1
+搓	cuo
+搓	cuo	28103
 搓一搓	cuo yi cuo	567
 搓一顿	cuo yi dun	100
 搓下	cuo xia	987
@@ -1045,6 +1155,8 @@ sort: by_weight
 搓过来	cuo guo lai	100
 搓麻	cuo ma	5555
 搓麻将	cuo ma jiang	3050
+摧	cui
+摧	cui	40766
 摧兰折玉	cui lan zhe yu	100
 摧刚为柔	cui gang wei rou	1
 摧刚植柔	cui gang zhi rou	100
@@ -1087,6 +1199,8 @@ sort: by_weight
 摧锋陷坚	cui feng xian jian	1
 摧锋陷阵	cui feng xian zhen	100
 摧陷廓清	cui xian kuo qing	65
+撮	cuo
+撮	cuo	10534
 撮一顿	cuo yi dun	1195
 撮口呼	cuo kou hu	100
 撮合	cuo he	19550
@@ -1109,10 +1223,14 @@ sort: by_weight
 撮药	cuo yao	2
 撮要	cuo yao	1290
 撮要删繁	cuo yao shan fan	1
+撺	cuan
+撺	cuan	1661
 撺哄鸟乱	cuan hong niao luan	100
 撺弄	cuan nong	20
 撺拳拢袖	cuan quan long xiu	1
 撺掇	cuan duo	2390
+攒	cuan
+攒	cuan	300
 攒三集五	cuan san ji wu	1
 攒动	cuan dong	1335
 攒射	cuan she	425
@@ -1133,6 +1251,10 @@ sort: by_weight
 攒锋聚镝	cuan feng ju di	1
 攒集	cuan ji	105
 攒零合整	cuan ling he zheng	1
+攛	cuan
+攢	cuan
+村	cun
+村	cun	343959
 村上	cun shang	16670
 村上春树	cun shang chun shu	4545
 村上爱	cun shang ai	1
@@ -1332,10 +1454,25 @@ sort: by_weight
 村雨	cun yu	580
 村霸	cun ba	725
 村领导	cun ling dao	3600
+棤	cuo	1
+椊	cui
+榱	cui
+榱	cui	81
 榱崩栋折	cui beng dong zhe	100
 榱栋崩折	cui dong beng zhe	1
+槯	cui
+橻	cu
+櫕	cuan
+欑	cuan
+殂	cu
+殂	cu	248
 殂谢	cu xie	1
+殩	cuan
+毳	cui
+毳	cui	60
 毳毛	cui mao	9999
+汆	cuan
+汆	cuan	182
 汆一下	cuan yi xia	100
 汆三样儿	cuan san yang er	17
 汆丸子	cuan wan zi	100
@@ -1346,6 +1483,8 @@ sort: by_weight
 汆白肉	cuan bai rou	100
 汆银耳鸭舌	cuan yin er ya she	2
 汆黄瓜片	cuan huang gua pian	100
+淬	cui
+淬	cui	3322
 淬星耀世	cui xing yao shi	100
 淬毒之珠	cui du zhi zhu	100
 淬火	cui huo	23410
@@ -1356,10 +1495,23 @@ sort: by_weight
 淬砺	cui li	9999
 淬透性	cui tou xing	1045
 淬针	cui zhen	1
+漼	cui
+漼	cui	23
+澊	cun
+濢	cui
+濽	cuan
+灒	cuan
+焠	cui
+熣	cui
+熶	cuan
+爨	cuan
+爨	cuan	137
 爨宝子碑	cuan bao zi bei	245
 爨底下村	cuan di xia cun	61
 爨桂炊玉	cuan gui chui yu	100
 爨龙颜碑	cuan long yan bei	305
+猝	cu
+猝	cu	12077
 猝不及防	cu bu ji fang	8970
 猝不及防的	cu bu ji fang de	100
 猝倒	cu dao	1970
@@ -1370,23 +1522,51 @@ sort: by_weight
 猝死率	cu si lv	100
 猝然	cu ran	7145
 猝然临之而不惊	cu ran lin zhi er bu jing	1180
+獕	cui
+琗	cui
+瑳	cuo
+瑳	cuo	14
+璀	cui
+璀	cui	8045
 璀璨	cui can	58290
 璀璨之星	cui can zhi xing	106
 璀璨夺目	cui can duo mu	3925
 璀璨星途	cui can xing tu	183
 璀璨晶莹	cui can jing ying	100
 璀璨钻石	cui can zuan shi	100
+疩	cui
+痤	cuo
+痤	cuo	358
 痤疮	cuo chuang	948
+瘁	cui
+瘁	cui	3936
+瘄	cu
+瘥	cuo
+瘥	cuo	1
+瘯	cu
+皠	cui
+皴	cun
+皴	cun	307
 皴了	cun le	1180
 皴儿	cun er	111
 皴法	cun fa	1615
 皴裂	cun lie	9999
+皻	cu
+睉	cuo
+矬	cuo
+矬	cuo	654
 矬个儿	cuo ge er	100
 矬子	cuo zi	550
+磋	cuo
+磋	cuo	10397
 磋商	cuo shang	59480
 磋商中	cuo shang zhong	1020
 磋商后	cuo shang hou	1755
 磋磨	cuo mo	9999
+磪	cui
+穳	cuan
+窜	cuan
+窜	cuan	65974
 窜三苗于三危	cuan san miao yu san wei	100
 窜入	cuan ru	7380
 窜出	cuan chu	12760
@@ -1407,6 +1587,13 @@ sort: by_weight
 窜进	cuan jin	3390
 窜进窜出	cuan jin cuan chu	100
 窜逃	cuan tao	9999
+窽	cuan
+窾	cuan
+竁	cui
+竄	cuan
+竴	cun
+篡	cuan
+篡	cuan	6922
 篡位	cuan wei	7195
 篡位者	cuan wei zhe	100
 篡党	cuan dang	85
@@ -1419,6 +1606,8 @@ sort: by_weight
 篡改历史	cuan gai li shi	1680
 篡权	cuan quan	2005
 篡汉	cuan han	111
+簇	cu
+簇	cu	19096
 簇叶	cu ye	145
 簇团	cu tuan	100
 簇大小	cu da xiao	470
@@ -1446,6 +1635,11 @@ sort: by_weight
 簇锦团花	cu jin tuan hua	1
 簇锦街道	cu jin jie dao	109
 簇香天色	cu xiang tian se	1
+簒	cuan
+籿	cun
+粋	cui
+粗	cu
+粗	cu	159898
 粗不粗啊	cu bu cu a	100
 粗中带细	cu zhong dai xi	100
 粗中有细	cu zhong you xi	1320
@@ -1773,10 +1967,22 @@ sort: by_weight
 粗鼻钝颚白蚁	cu bi dun e bai yi	1
 粗齿	cu chi	350
 粗齿鹑螺	cu chi chun luo	1
+粹	cui
+粹	cui	36862
 粹白	cui bai	85
 粹缜	cui zhen	1
 粹美	cui mei	170
+紣	cui
+綷	cui
+縒	cuo
+縗	cui
+縬	cu
+缞	cui
+缞	cui	12
 缞绖	cui die	4
+翆	cui
+翠	cui
+翠	cui	82046
 翠云区	cui yun qu	1255
 翠云水煮鱼	cui yun shui zhu yu	97
 翠云裘	cui yun qiu	100
@@ -1931,6 +2137,9 @@ sort: by_weight
 翠黄	cui huang	1
 翠黛	cui dai	1620
 翠𫁡科	cui li ke	3
+脃	cui
+脆	cui
+脆	cui	145125
 脆了	cui le	1111
 脆亮	cui liang	375
 脆化	cui hua	4198
@@ -2014,7 +2223,20 @@ sort: by_weight
 脆鲩鱼	cui huan yu	100
 脆鸡堡	cui ji bao	158
 脆鸡版	cui ji ban	100
+脞	cuo
+脞	cuo	55
+脨	cu
+脺	cui
+膥	cun
+膬	cui
+膵	cui
+臎	cui
+莝	cuo
+莝	cuo	1
 莝草	cuo cao	9999
+莡	cuo
+萃	cui
+萃	cui	6318
 萃卦	cui gua	3
 萃取	cui qu	54410
 萃取液	cui qu ye	5330
@@ -2024,8 +2246,30 @@ sort: by_weight
 萃聚	cui ju	150
 萃英园	cui ying yuan	100
 萃集	cui ji	210
+蒫	cuo
+蓌	cuo
+蔖	cuo
+蔟	cu
+蔟	cu	192
+虘	cuo
+衰	cui
+衰	cui	0
+襊	cui
+觕	cu
+誎	cu
+諎	cuo
+趋	cu
+趗	cu
+趡	cui
+趣	cu
+趨	cu
+踆	cun
 踆乌	cun wu	1
+踧	cu
 踧踖不安	cu ji bu an	100
+踿	cu
+蹉	cuo
+蹉	cuo	1454
 蹉跌	cuo die	355
 蹉跎	cuo tuo	7780
 蹉跎了岁月	cuo tuo le sui yue	100
@@ -2036,6 +2280,8 @@ sort: by_weight
 蹉跎时光	cuo tuo shi guang	100
 蹉跎时日	cuo tuo shi ri	1
 蹉跎自误	cuo tuo zi wu	1
+蹙	cu
+蹙	cu	10904
 蹙了蹙眉	cu le cu mei	100
 蹙国丧师	cu guo sang shi	1
 蹙国百里	cu guo bai li	5
@@ -2050,12 +2296,19 @@ sort: by_weight
 蹙金结绣	cu jin jie xiu	1
 蹙额	cu e	465
 蹙额攒眉	cu e cuan mei	1
+蹲	cun
+蹲	cun	1
 蹲了腿	cun le tui	5
+蹴	cu
+蹴	cu	1919
 蹴尔而与之	cu er er yu zhi	12
 蹴豹博䝙	cu bao bo chu	100
 蹴踏	cu ta	135
 蹴鞠	cu ju	2210
 蹴鞠小子	cu ju xiao zi	179
+蹵	cu
+蹿	cuan
+蹿	cuan	12631
 蹿一蹿	cuan yi cuan	678
 蹿上	cuan shang	241
 蹿上了	cuan shang le	100
@@ -2079,13 +2332,26 @@ sort: by_weight
 蹿血	cuan xue	32
 蹿起来了	cuan qi lai le	100
 蹿跳	cuan tiao	115
+躥	cuan
+逪	cuo
+遳	cuo
+邨	cun
+邨	cun	108
+酂	cuan	0
+酂	cuo
+酂	cuo	1
 酂城镇	cuo cheng zhen	6
 酂阳乡	cuo yang xiang	3
+酇	cuo
+酢	cu
+酢	cu	371
 酢浆灰蝶	cu jiang hui die	100
 酢浆草	cu jiang cao	1180
 酢浆草属	cu jiang cao shu	100
 酢浆草目	cu jiang cao mu	100
 酢浆草科	cu jiang cao ke	100
+醋	cu
+醋	cu	33580
 醋五味子	cu wu wei zi	4
 醋劲	cu jin	1490
 醋劲儿	cu jin er	100
@@ -2174,12 +2440,23 @@ sort: by_weight
 醋香附	cu xiang fu	44
 醋鱼	cu yu	325
 醋鸡	cu ji	9999
+醝	cuo
+銼	cuo
+鋑	cuan
+錯	cuo
+鎈	cuo
+鏙	cui
+鑹	cuan
+锉	cuo
+锉	cuo	1419
 锉光	cuo guang	65
 锉刀	cuo dao	4040
 锉屑	cuo xie	70
 锉平	cuo ping	405
 锉掉	cuo diao	1634
 锉纹鹑螺	cuo wen chun luo	1
+错	cuo
+错	cuo	839927
 错一个	cuo yi ge	100
 错一步	cuo yi bu	108
 错上加错	cuo shang jia cuo	2005
@@ -2462,5 +2739,128 @@ sort: by_weight
 错题	cuo ti	1111
 错𬌗	cuo he	5
 错𬌗畸形	cuo he ji xing	100
+镩	cuan
+镩	cuan	16
 镩冰	cuan bing	98
 镩子	cuan zi	111
+隹	cui
+顇	cui
+顣	cu
+鹺	cuo
+鹾	cuo
+鹾	cuo	214
+麁	cu
+麄	cu
+麆	cu
+麤	cu
+鼀	cu
+𠑯	cu
+𠗚	cui
+𠛙	cu
+𠞿	cui
+𠟓	cui
+𠦏	cuo
+𠩪	cui
+𠱙	cu
+𠴫	cu
+𠽶	cui
+𡄱	cu
+𡘛	cu
+𡝉	cu
+𡞜	cu
+𢂕	cui
+𢄧	cu
+𢄸	cui
+𢈠	cu
+𢒐	cuo
+𢕘	cui
+𢖑	cuan
+𢚂	cuo
+𢡈	cui
+𢤎	cuo
+𢪃	cu
+𢫬	cuo
+𢯽	cuo
+𢶓	cui
+𢸥	cuan
+𣃍	cui
+𣖵	cuo
+𣨎	cuo
+𣩈	cuo
+𣯧	cui
+𣰚	cui
+𣿒	cui
+𣿓	cui
+𤎋	cui
+𤐲	cuan
+𤗁	cu
+𤗯	cui
+𤛍	cui
+𤛏	cu
+𤠝	cuo
+𤠽	cu
+𤿄	cun
+𤿚	cu
+𥅗	cu
+𥍬	cuan
+𥎢	cuan
+𥎣	cuan
+𥎤	cuan
+𥕉	cuo
+𥤳	cuan
+𥨒	cuan
+𥨒	cui
+𥪱	cu
+𥭭	cuo
+𥰭	cuo
+𥳈	cui
+𥷼	cu
+𥻒	cu
+𥻮	cui
+𥼂	cui
+𥼛	cui
+𥼺	cui
+𥾛	cu
+𦙈	cui
+𦟠	cu
+𦠁	cu
+𦦣	cui
+𦯣	cu
+𧆓	cu
+𧎃	cui
+𧑎	cui
+𧚉	cun
+𧚏	cuo
+𧚥	cui
+𧜱	cui
+𧪘	cuo
+𧳚	cui
+𧹺	cui
+𧺲	cu
+𧼜	cu
+𧼬	cui
+𧽠	cui
+𧽾	cun
+𨀛	cun
+𨄍	cui
+𨅎	cui
+𨇃	cuo
+𨊉	cui
+𨙯	cun
+𨙲	cun
+𨚲	cun
+𨛏	cuo
+𨣵	cuan
+𨻵	cui
+𨼉	cuan
+𨿐	cui
+𩄝	cuo
+𩤏	cui
+𩮴	cui
+𩯉	cuo
+𪒙	cuo
+𪓡	cu
+𪓰	cu
+𪕝	cu
+𪘓	cuo
+𪚯	cu

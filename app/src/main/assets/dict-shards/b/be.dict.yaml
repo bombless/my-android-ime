@@ -3,6 +3,52 @@ name: merged.be
 version: "1.0"
 sort: by_weight
 ...
+㑟	beng
+㓈	bei
+㔨	bei
+㛝	bei
+㛝	beng
+㡷	ben
+㣁	bei
+㤓	ben
+㤳	bei
+㨧	ben
+㮺	ben
+㰆	bei
+㱵	ben
+㱶	beng
+㶔	bei
+㷯	beng
+㷶	bei
+㸢	bei
+㸬	bei
+㸽	bei
+㻗	bei
+㼎	bei
+㽡	bei
+㾱	bei
+䁅	bei
+䋳	bei
+䋽	beng
+䎬	bei
+䎱	bei
+䔒	bei
+䙀	beng
+䟺	bei
+䠙	bei
+䡶	bei
+䥯	bei
+䨻	beng
+䩀	bei
+䩬	beng
+䬱	ben
+䭰	beng
+䰽	bei
+䳞	beng
+伻	beng
+俻	bei
+倍	bei
+倍	bei	124204
 倍于	bei yu	8685
 倍他乐克	bei ta le ke	39
 倍他司汀	bei ta si ting	30
@@ -76,7 +122,16 @@ sort: by_weight
 倍镜	bei jing	1111
 倍频	bei pin	15695
 倍频器	bei pin qi	100
+倴	ben
+倴	ben	3
 倴城镇	ben cheng zhen	2
+偝	bei
+偹	bei
+備	bei
+僃	bei
+勃	bei
+北	bei
+北	bei	718033
 北一东路	bei yi dong lu	37
 北一中	bei yi zhong	1
 北一区	bei yi qu	144
@@ -2004,6 +2059,8 @@ sort: by_weight
 北齐书	bei qi shu	172
 北齐二首	bei qi er shou	181
 北𬇹镇	bei guo zhen	3
+卑	bei
+卑	bei	82925
 卑下	bei xia	371
 卑不学恭	bei bu xue gong	100
 卑不足道	bei bu zu dao	100
@@ -2068,12 +2125,28 @@ sort: by_weight
 卑鄙龌龊	bei bi wo chuo	345
 卑陋龌龊	bei lou wo chuo	100
 卑陬失色	bei zou shi se	3
+呗	bei
+呗	bei	317817
+唄	bei
+喯	ben
+嗙	beng
+嘣	beng
+嘣	beng	4487
 嘣嘣	beng beng	1111
 嘣嘣嘣	beng beng beng	1111
 嘣嘣嘣嘣	beng beng beng beng	100
 嘣的一声	beng de yi sheng	100
+坋	ben
+坌	ben
+坌	ben	44
 坌地	ben di	2
 坌集	ben ji	3
+埄	beng
+埲	beng
+堋	beng
+塴	beng
+备	bei
+备	bei	823555
 备一个	bei yi ge	135
 备一些	bei yi xie	77
 备一份	bei yi fen	100
@@ -2277,7 +2350,12 @@ sort: by_weight
 备马	bei ma	1505
 备齐	bei qi	11490
 备齐了	bei qi le	100
+夯	ben
+夯	ben	0
 夯货	ben huo	2
+夲	ben
+奔	ben
+奔	ben	264800
 奔三	ben san	3015
 奔丧	ben sang	3700
 奔了	ben le	85
@@ -2411,6 +2489,12 @@ sort: by_weight
 奔驰车	ben chi che	5895
 奔驰车队	ben chi che dui	472
 奔驶	ben shi	222
+奙	ben
+奟	beng
+孛	bei
+孛	bei	3274
+崩	beng
+崩	beng	61288
 崩不	beng bu	1111
 崩不了	beng bu liao	100
 崩不崩	beng bu beng	100
@@ -2456,6 +2540,10 @@ sort: by_weight
 崩铁启动	beng tie qi dong	100
 崩铁新剧情	beng tie xin ju qing	100
 崩龙族	beng long zu	100
+嵭	beng
+庳	bei
+悖	bei
+悖	bei	5666
 悖乱	bei luan	310
 悖乱人伦	bei luan ren lun	100
 悖于	bei yu	3360
@@ -2474,6 +2562,8 @@ sort: by_weight
 悖谬	bei miu	1415
 悖逆	bei ni	2850
 悖逆不轨	bei ni bu gui	100
+悲	bei
+悲	bei	238519
 悲不自胜	bei bu zi sheng	275
 悲与喜	bei yu xi	545
 悲了个催	bei le ge cui	100
@@ -2621,6 +2711,17 @@ sort: by_weight
 悲鸣	bei ming	6835
 悲鸣不已	bei ming bu yi	100
 悲鸿	bei hong	124
+惫	bei
+惫	bei	40277
+愂	bei
+憊	bei
+捹	ben
+揹	bei
+揼	beng
+撪	ben
+昁	bei
+本	ben
+本	ben	2579524
 本·拉丹	ben la dan	100
 本·拉登	ben la deng	313
 本·西蒙斯	ben xi meng si	143
@@ -3705,6 +3806,9 @@ sort: by_weight
 本题	ben ti	6849
 本馆	ben guan	17845
 本首歌曲	ben shou ge qu	76
+杮	bei
+杯	bei
+杯	bei	301690
 杯中	bei zhong	28640
 杯中之物	bei zhong zhi wu	315
 杯中倒茶	bei zhong dao cha	100
@@ -3783,13 +3887,28 @@ sort: by_weight
 杯酒释兵权	bei jiu shi bing quan	900
 杯里	bei li	9800
 杯面	bei mian	100
+柸	bei
+栟	ben
+栟	ben	2
 栟茶	ben cha	1
+桮	bei
+桳	ben
+梖	bei
+棑	bei
+棓	bei
+棓	bei	6
 棓儿茶素	bei er cha su	100
 棓儿茶酸	bei er cha suan	100
+椑	bei
+椑	bei	2
 椑南乡	bei nan xiang	31
 椑子	bei zi	2
 椑木镇	bei mu zhen	100
 椑柿	bei shi	11
+楍	ben
+泍	ben
+泵	beng
+泵	beng	1553
 泵业	beng ye	11010
 泵入	beng ru	256
 泵出	beng chu	132
@@ -3809,6 +3928,11 @@ sort: by_weight
 泵送系统	beng song xi tong	100
 泵阀	beng fa	16975
 泵阀行业	beng fa hang ye	100
+渀	ben
+漰	ben
+炃	ben
+焙	bei
+焙	bei	1206
 焙干	bei gan	202
 焙炒	bei chao	333
 焙烤	bei kao	5500
@@ -3816,6 +3940,23 @@ sort: by_weight
 焙烧	bei shao	111
 焙粉	bei fen	11
 焙茶	bei cha	11
+牬	bei
+犇	ben
+犇	ben	89
+犕	bei
+狈	bei
+狈	bei	33949
+狽	bei
+珼	bei
+琣	beng
+琫	beng
+琫	beng	5
+琲	bei
+琲	bei	4
+甏	beng
+甏	beng	65
+甭	beng
+甭	beng	10111
 甭他妈	beng ta ma	100
 甭他妈提	beng ta ma ti	100
 甭他妈提了	beng ta ma ti le	100
@@ -3844,10 +3985,17 @@ sort: by_weight
 甭管男的女的	beng guan nan de nv de	100
 甭说	beng shuo	3430
 甭说了	beng shuo le	100
+甮	beng
+畚	ben
+畚	ben	155
 畚土	ben tu	1
 畚斗	ben dou	590
 畚炉灰	ben lu hui	3
 畚箕	ben ji	9
+痭	beng
+盃	bei
+碑	bei
+碑	bei	34260
 碑上	bei shang	6610
 碑亭	bei ting	10
 碑刻	bei ke	15240
@@ -3871,7 +4019,14 @@ sort: by_weight
 碑面	bei mian	2222
 碑额	bei e	9999
 碑首	bei shou	1111
+碚	bei
+碚	bei	151
+祊	beng
+祊	beng	2
 祊河	beng he	1
+禙	bei
+笨	ben
+笨	ben	100829
 笨不溜秋	ben bu liu qiu	100
 笨不溜秋蛋	ben bu liu qiu dan	100
 笨乎乎	ben hu hu	100
@@ -3935,6 +4090,14 @@ sort: by_weight
 笨驴	ben lv	605
 笨鸟	ben niao	3385
 笨鸟先飞	ben niao xian fei	2793
+箄	bei
+糒	bei
+糒	bei	6
+絣	beng
+綳	beng
+繃	beng
+绷	beng
+绷	beng	29020
 绷不住	beng bu zhu	265
 绷不住了	beng bu zhu le	310
 绷不住脸	beng bu zhu lian	70
@@ -3973,6 +4136,9 @@ sort: by_weight
 绷紧神经	beng jin shen jing	490
 绷脸	beng lian	100
 绷起	beng qi	75
+翉	ben
+背	bei
+背	bei	642470
 背一段	bei yi duan	1111
 背一点	bei yi dian	111
 背一背	bei yi bei	123
@@ -4423,6 +4589,11 @@ sort: by_weight
 背鳞	bei lin	3
 背黑锅	bei hei guo	2890
 背黑锅我来	bei hei guo wo lai	100
+臂	bei
+臂	bei	1
+苝	bei
+苯	ben
+苯	ben	3045
 苯丁抑制素	ben ding yi zhi su	1
 苯丁酸氮芥	ben ding suan dan jie	25
 苯丙哌林	ben bing pai lin	2
@@ -4537,8 +4708,14 @@ sort: by_weight
 苯酚钠	ben fen na	100
 苯酮尿症	ben tong niao zheng	100
 苯骈三氮唑	ben pian san dan zuo	51
+菶	beng
+蓓	bei
+蓓	bei	12618
 蓓蓓	bei bei	1
 蓓蕾	bei lei	7980
+藣	bei
+蚌	beng
+蚌	beng	1
 蚌埠	beng bu	43405
 蚌埠中院	beng bu zhong yuan	100
 蚌埠二中	beng bu er zhong	100
@@ -4568,6 +4745,10 @@ sort: by_weight
 蚌埠路	beng bu lu	100
 蚌埠道	beng bu dao	18
 蚌山区	beng shan qu	1111
+蛽	bei
+蟦	ben
+被	bei
+被	bei	2998064
 被㨃	bei dui	1110
 被一个	bei yi ge	33360
 被一些	bei yi xie	18445
@@ -6177,8 +6358,16 @@ sort: by_weight
 被黑客	bei hei ke	8140
 被黑得最惨	bei hei de zui can	100
 被黑得最惨的一次	bei hei de zui can de yi ci	100
+褙	bei
+褙	bei	243
 褙子	bei zi	1
 褙鞋帮	bei xie bang	11
+誖	bei
+諀	bei
+貝	bei
+賁	ben
+贝	bei
+贝	bei	211741
 贝丝堡迪	bei si bao di	7
 贝丝扒菜胆	bei si pa cai dan	1
 贝丽丝	bei li si	168
@@ -6442,11 +6631,16 @@ sort: by_weight
 贝鲁奇	bei lu qi	100
 贝鲁特	bei lu te	7190
 贝齿	bei chi	18
+贲	ben
+贲	ben	4601
 贲红镇	ben hong zhen	4
 贲育之勇	ben yu zhi yong	1
 贲门	ben men	1111
 贲门失弛缓症	ben men shi chi huan zheng	1
 贲门癌	ben men ai	2210
+跰	beng
+蹦	beng
+蹦	beng	49581
 蹦一蹦	beng yi beng	123
 蹦不蹦跶	beng bu beng da	100
 蹦凌晨三点的迪	beng ling chen san dian de di	100
@@ -6488,6 +6682,10 @@ sort: by_weight
 蹦高	beng gao	9999
 蹦高儿	beng gao er	100
 蹦高高	beng gao gao	100
+軰	bei
+輩	bei
+辈	bei
+辈	bei	281934
 辈儿	bei er	111
 辈出	bei chu	10855
 辈分	bei fen	6505
@@ -6497,6 +6695,8 @@ sort: by_weight
 辈数儿	bei shu er	9999
 辈行	bei hang	91
 辈辈	bei bei	605
+迸	beng
+迸	beng	17662
 迸体杯形珊瑚	beng ti bei xing shan hu	1
 迸出	beng chu	5890
 迸出去	beng chu qu	100
@@ -6509,20 +6709,143 @@ sort: by_weight
 迸溅	beng jian	925
 迸裂	beng lie	999
 迸飞	beng fei	999
+逩	ben
+逬	beng
+邶	bei
+邶	bei	1064
 邶风	bei feng	64
+郥	bei
+鄁	bei
+鉳	bei
+鋇	bei
+錛	ben
+鏰	beng
+鐾	bei
+鐾	bei	47
 鐾一鐾	bei yi bei	11
 鐾刀布	bei dao bu	11
+钡	bei
+钡	bei	386
 钡元素	bei yuan su	55
 钡餐	bei can	1955
 钡餐透视	bei can tou shi	8
+锛	ben
+锛	ben	483
 锛子	ben zi	99
 锛平	ben ping	3
 锛得儿木	ben de er mu	100
+镚	beng
+镚	beng	111
 镚儿	beng er	1111
 镚子	beng zi	11
 镚子儿	beng zi er	9999
+閍	beng
+陂	bei
+陂	bei	947
 陂塘	bei tang	2
 陂池	bei chi	2
 陂湖禀量	bei hu bing liang	19
+鞁	bei
+鞁	bei	1
+鞛	beng
+鞞	bei
+鞴	bei
+鞴	bei	71
+骳	bei
+鵯	bei
+鹎	bei
+鹎	bei	22
 鹎科	bei ke	2
 鹎鸟	bei niao	1
+𠋭	bei
+𠐡	bei
+𠜳	beng
+𠡮	beng
+𠢥	bei
+𡋭	bei
+𡎾	beng
+𡗢	ben
+𡗲	ben
+𡡈	beng
+𡥞	bei
+𡰯	bei
+𡶤	beng
+𡾛	beng
+𢂏	bei
+𢃍	bei
+𢆸	beng
+𢉁	beng
+𢏳	beng
+𢐒	beng
+𢴾	bei
+𢻵	bei
+𣂤	beng
+𣄏	ben
+𣎵	bei
+𣖾	bei
+𣝁	bei
+𣨥	beng
+𣬍	bei
+𣬪	bei
+𣳰	ben
+𣴞	ben
+𤙾	beng
+𤜲	bei
+𤡭	beng
+𤫬	beng
+𤰈	bei
+𤳦	bei
+𤵛	bei
+𤷁	bei
+𤷒	bei
+𤹲	bei
+𤿒	bei
+𤿾	bei
+𥀂	beng
+𥏓	bei
+𥖗	beng
+𥛱	beng
+𥞩	beng
+𥢊	ben
+𥦜	beng
+𥶓	bei
+𦂌	beng
+𦅈	beng
+𦈧	bei
+𦈶	bei
+𦝷	beng
+𦩖	bei
+𦮷	bei
+𦯀	ben
+𦺑	beng
+𦾙	bei
+𧉥	bei
+𧋲	bei
+𧑑	beng
+𧚭	beng
+𧩱	beng
+𧶙	bei
+𧻓	beng
+𧼠	bei
+𨆊	beng
+𨋒	ben
+𨓁	beng
+𨕧	beng
+𨚍	bei
+𨹹	beng
+𨻱	beng
+𩂦	beng
+𩇩	bei
+𩊌	beng
+𩑚	beng
+𩔹	bei
+𩖠	bei
+𩗴	beng
+𩚾	bei
+𩣺	ben
+𩰶	ben
+𪊜	ben
+𪎝	ben
+𪑖	ben
+𪔑	beng
+𬇙	bei	1

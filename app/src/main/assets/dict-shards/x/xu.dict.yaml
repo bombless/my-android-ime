@@ -3,9 +3,158 @@ name: merged.xu
 version: "1.0"
 sort: by_weight
 ...
+㐨	xu
+㑔	xu
+㑯	xu
+㒷	xu
+㒸	xuan
+㔧	xue
+㔯	xuan
+㔵	xuan
+㕛	xu
+㖅	xu
+㖸	xue
+㗵	xu
+㗾	xue
+㘣	xuan
+㘧	xu
+㙾	xue
+㚜	xu
+㚯	xun
+㜄	xun
+㜅	xu
+㜗	xuan
+㜿	xu
+㝁	xun
+㞊	xu
+㞰	xu
+㞽	xue
+㟧	xun
+㡄	xun
+㡜	xue
+㢲	xun
+㤢	xu
+㥠	xu
+㦌	xu
+㦏	xuan
+㦜	xue
+㦽	xu
+㧋	xuan
+㧒	xue
+㧦	xuan
+㨚	xun
+㯀	xuan
+㯠	xun
+㰊	xun
+㰒	xue
+㰬	xun
+㰲	xu
+㳙	xuan
+㳚	xu	1
+㳬	xuan
+㵌	xun
+㵰	xu
+㶅	xue
+㷤	xue
+㷦	xu
+㹡	xuan
+㺷	xu
+㽦	xun
+㽳	xu
+㾌	xuan
+㾥	xu
+㿅	xuan
+㿱	xue
+䀏	xuan
+䀜	xue
+䁔	xuan
+䁢	xuan
+䂆	xu
+䂸	xu
+䃀	xun
+䃠	xuan
+䅡	xu
+䆷	xue
+䋉	xue
+䋶	xu
+䋸	xun
+䍗	xuan
+䍱	xu
+䍻	xuan
+䎀	xue
+䒸	xue
+䔓	xu
+䖲	xun
+䖼	xue
+䗠	xuan
+䘏	xu
+䘩	xuan
+䘩	xun
+䙉	xun
+䙒	xu
+䚙	xuan
+䚭	xuan
+䛎	xue
+䛙	xu
+䛜	xun
+䜡	xu
+䜡	xue
+䝮	xuan
+䞊	xun
+䠣	xuan
+䠼	xue
+䡅	xun
+䢕	xu
+䣱	xu
+䣴	xu
+䤕	xue
+䥧	xuan
+䦗	xu
+䦽	xu
+䧁	xu
+䧎	xuan
+䧟	xuan
+䨆	xu
+䨮	xue
+䩈	xue
+䩙	xuan
+䩰	xuan
+䫻	xue
+䫼	xue
+䬂	xue
+䬔	xu
+䭀	xun
+䭥	xue
+䮄	xuan
+䱑	xue
+䱬	xu
+䲂	xuan
+䲻	xuan
+䳳	xu
+䴉	xuan
+䴋	xuan
+乴	xue
 于嗟女兮	xu jie nv xi	100
 于嗟鸠兮	xu jie jiu xi	100
+休	xu
+伨	xun
+伭	xuan
+伭	xuan	1
+伵	xu
+侐	xu
+侚	xun
+俆	xu
+偦	xu
+偱	xun
+儇	xuan
+儇	xuan	278
 儇薄	xuan bo	6
+冔	xu
+冔	xu	1
+券	xuan
+券	xuan	1
+削	xue
+削	xue	54894
 削一削	xue yi xue	123
 削下	xue xia	1705
 削下来	xue xia lai	380
@@ -69,6 +218,8 @@ sort: by_weight
 削迹捐势	xue ji juan shi	5
 削铁如泥	xue tie ru ni	1580
 削除	xue chu	9999
+勋	xun
+勋	xun	30855
 勋业	xun ye	975
 勋业安能保不磨	xun ye an neng bao bu mo	1
 勋劳	xun lao	370
@@ -78,9 +229,20 @@ sort: by_weight
 勋章车	xun zhang che	100
 勋绩	xun ji	295
 勋贵	xun gui	876
+勖	xu
+勖	xu	1351
 勖以大义	xu yi da yi	1
 勖勉	xu mian	85
 勖勉有加	xu mian you jia	1
+勗	xu
+勛	xun
+勲	xun
+勳	xun
+卂	xun
+卹	xu
+县	xuan
+叙	xu
+叙	xu	51398
 叙事	xu shi	68875
 叙事体	xu shi ti	215
 叙事性	xu shi xing	1910
@@ -133,6 +295,8 @@ sort: by_weight
 叙述着	xu shu zhe	1640
 叙述者	xu shu zhe	3180
 叙道	xu dao	105
+吁	xu
+吁	xu	47540
 吁一口气	xu yi kou qi	100
 吁了口气	xu le kou qi	100
 吁口气	xu kou qi	100
@@ -142,7 +306,18 @@ sort: by_weight
 吁咈都俞	xu fu du yu	100
 吁嗟	xu jie	111
 吁气	xu qi	190
+吅	xuan
+吷	xue
+呴	xu
 呴湿濡沫	xu shi ru mo	100
+咰	xun
+咺	xuan
+咺	xuan	4
+喐	xu
+喛	xuan
+喣	xu
+喧	xuan
+喧	xuan	37906
 喧叫	xuan jiao	290
 喧呼	xuan hu	330
 喧响	xuan xiang	560
@@ -186,6 +361,8 @@ sort: by_weight
 喧闹的人	xuan nao de ren	1165
 喧闹纷乱	xuan nao fen luan	10
 喧阗	xuan tian	645
+嘘	xu
+嘘	xu	32604
 嘘一个	xu yi ge	100
 嘘下台	xu xia tai	100
 嘘下台去	xu xia tai qu	100
@@ -200,24 +377,65 @@ sort: by_weight
 嘘寒问暖	xu han wen nuan	8220
 嘘枯吹生	xu ku chui sheng	100
 嘘气	xu qi	2
+嘼	xu
+噀	xun
+噀	xun	37
 噀玉喷珠	xun yu pen zhu	100
+噓	xu
+噚	xun
+噱	xue
+噱	xue	1309
 噱头	xue tou	19175
+嚑	xun
+圩	xu
+圩	xu	1050
 圩场	xu chang	3
 圩市	xu shi	3
 圩日	xu ri	2
 圩期	xu qi	2
 圩镇	xu zhen	2
+坃	xun
+坹	xue
+垿	xu
+垿	xu	1
+埙	xun
+埙	xun	1145
 埙唱篪应	xun chang chi ying	100
 埙篪和好	xun chi he hao	100
 埙篪相和	xun chi xiang he	100
 埙篪相应	xun chi xiang ying	100
+塇	xuan
+塤	xun
+墟	xu
+墟	xu	13672
 墟沟街	xu gou jie	5
 墟沟镇	xu gou zhen	60
 墟落	xu luo	2
 墟里	xu li	95
 墟里上孤烟	xu li shang gu yan	4
+壆	xue
+壎	xun
+壦	xun
+壻	xu
+夐	xuan
+奞	xun
+妶	xu
+妶	xuan
+姁	xu
+姰	xun
+婿	xu
+婿	xu	21914
 婿郎	xu lang	5
+媗	xuan
+媭	xu
+媭	xu	39
+嫙	xuan
+嬃	xu
+嬛	xuan
 嬛嬛一袅楚宫腰	xuan xuan yi niao chu gong yao	100
+孙	xun
+学	xue
+学	xue	2566533
 学一学	xue yi xue	2630
 学一技之长	xue yi ji zhi chang	100
 学一点	xue yi dian	100
@@ -2150,6 +2368,10 @@ sort: by_weight
 学龄前	xue ling qian	6240
 学龄前儿童	xue ling qian er tong	7470
 学龄期	xue ling qi	1365
+孫	xun
+學	xue
+宣	xuan
+宣	xuan	214690
 宣了	xuan le	11
 宣亚国际	xuan ya guo ji	129
 宣仁墩	xuan ren dun	100
@@ -2743,6 +2965,8 @@ sort: by_weight
 宣钢	xuan gang	1950
 宣闸	xuan zha	27
 宣颐家园	xuan yi jia yuan	15
+寻	xun
+寻	xun	328045
 寻一下	xun yi xia	100
 寻一寻	xun yi xun	236
 寻一首好诗	xun yi shou hao shi	1
@@ -2991,6 +3215,15 @@ sort: by_weight
 寻龙夺宝	xun long duo bao	100
 寻龙诀	xun long jue	100
 寻龙镇魂棺	xun long zhen hun guan	100
+尋	xun
+岤	xue
+峃	xue
+峃	xue	1
+峋	xun
+峋	xun	3167
+嶨	xue
+巡	xun
+巡	xun	85023
 巡一巡	xun yi xun	534
 巡了巡	xun le xun	231
 巡医	xun yi	1
@@ -3140,6 +3373,9 @@ sort: by_weight
 巡防营	xun fang ying	100
 巡风	xun feng	2
 巡飞弹	xun fei dan	100
+巺	xun
+巽	xun
+巽	xun	2320
 巽为风	xun wei feng	100
 巽他海峡	xun ta hai xia	100
 巽他皱盔犀鸟	xun ta zhou kui xi niao	1
@@ -3148,6 +3384,8 @@ sort: by_weight
 巽寮滨海旅游度假区管委会	xun liao bin hai lv you du jia qu guan wei hui	1
 巽寮镇	xun liao zhen	4
 巽风	xun feng	111
+序	xu
+序	xu	109198
 序偶	xu ou	136
 序列	xu lie	105005
 序列之争	xu lie zhi zheng	108
@@ -3187,7 +3425,12 @@ sort: by_weight
 序词	xu ci	65
 序跋	xu ba	2495
 序齿	xu chi	265
+廵	xun
+弲	xuan
+彐	xue
 彐部	xue bu	1
+徇	xun
+徇	xun	1922
 徇公灭私	xun gong mie si	1
 徇国忘家	xun guo wang jia	100
 徇国忘身	xun guo wang shen	1
@@ -3203,6 +3446,8 @@ sort: by_weight
 徇私舞弊	xun si wu bi	66030
 徇私舞弊罪	xun si wu bi zui	1120
 徇蒙招尤	xun meng zhao you	2
+徐	xu
+徐	xu	287405
 徐一丹	xu yi dan	100
 徐一宁	xu yi ning	154
 徐一恩	xu yi en	100
@@ -3680,6 +3925,8 @@ sort: by_weight
 徐鼒	xu zi	1
 徐龙乡	xu long xiang	2
 徐龙象	xu long xiang	1
+循	xun
+循	xun	46243
 循例	xun li	1365
 循化	xun hua	2510
 循化县	xun hua xian	895
@@ -3812,14 +4059,24 @@ sort: by_weight
 循迹漫聊	xun ji man liao	100
 循迹讲堂	xun ji jiang tang	100
 循途守辙	xun tu shou zhe	100
+怰	xuan
+怴	xu
+怴	xue
+恂	xun
+恂	xun	734
 恂恂	xun xun	465
 恂然弃而走	xun ran qi er zou	1
+恓	xu
+恤	xu
+恤	xu	14830
 恤孤念寡	xu gu nian gua	100
 恤孤念苦	xu gu nian ku	1
 恤孤爱寡	xu gu ai gua	100
 恤老怜贫	xu lao lian pin	100
 恤衫	xu shan	9999
 恤金	xu jin	9999
+悬	xuan
+悬	xuan	91146
 悬为厉禁	xuan wei li jin	1
 悬乎	xuan hu	935
 悬于	xuan yu	6605
@@ -4028,8 +4285,20 @@ sort: by_weight
 悬鼓待椎	xuan gu dai chui	3
 悬鼗建铎	xuan tao jian duo	2
 悬龟系鱼	xuan gui xi yu	1
+惐	xu
+愃	xuan
+愃	xuan	1
+愋	xuan
+愻	xun
+慉	xu
+懁	xuan
+懸	xuan
+戌	xu
+戌	xu	4145
 戌时	xu shi	2075
 戌狗	xu gou	1212
+掝	xu
+揎	xuan
 揎拳拢袖	xuan quan long xiu	1
 揎拳捋袖	xuan quan luo xiu	100
 揎拳掳袖	xuan quan lu xiu	1
@@ -4037,6 +4306,16 @@ sort: by_weight
 揎拳裸手	xuan quan luo shou	1
 揎拳裸臂	xuan quan luo bi	1
 揎腕攘臂	xuan wan rang bi	1
+揗	xun
+揟	xu
+攳	xun
+敍	xu
+敘	xu
+敩	xue
+敻	xuan
+斈	xue
+旋	xuan
+旋	xuan	174074
 旋下	xuan xia	780
 旋乾转坤	xuan qian zhuan kun	100
 旋儿	xuan er	9999
@@ -4203,6 +4482,8 @@ sort: by_weight
 旋风装	xuan feng zhuang	100
 旋风长刀	xuan feng chang dao	1
 旋飞	xuan fei	690
+旬	xun
+旬	xun	17475
 旬刊	xun kan	2410
 旬报	xun bao	1890
 旬日	xun ri	2385
@@ -4211,6 +4492,8 @@ sort: by_weight
 旬邑县	xun yi xian	1755
 旬阳县	xun yang xian	1585
 旬阳市	xun yang shi	159
+旭	xu
+旭	xu	54482
 旭东	xu dong	17305
 旭光	xu guang	2
 旭光村	xu guang cun	18
@@ -4237,18 +4520,63 @@ sort: by_weight
 旭辉广场	xu hui guang chang	184
 旭辉银盛泰	xu hui yin sheng tai	100
 旭飞投资	xu fei tou zi	12500
+旴	xu
+旴	xu	3
+昍	xuan
+昡	xuan
+昡	xuan	8
+昫	xu
+昫	xu	18
+晅	xuan
+晅	xuan	34
+晇	xu
+暄	xuan
+暄	xuan	13336
 暄腾	xuan teng	65
+暅	xuan
+暊	xu
+暶	xuan
+暶	xuan	1
+曛	xun
+曛	xun	101
+朂	xu
+朐	xu
+杊	xun
+栒	xun
+栒	xun	22
 栒子木	xun zi mu	9999
+栩	xu
+栩	xu	13693
 栩栩	xu xu	1755
 栩栩如生	xu xu ru sheng	40955
 栩栩欲活	xu xu yu huo	3
 栩栩然蝴蝶也	xu xu ran hu die ye	1
+桖	xue
+桪	xun
+梋	xuan
+楈	xu
+楥	xuan
+楦	xuan
+楦	xuan	101
 楦一楦	xuan yi xuan	2
 楦头	xuan tou	2
 楦子	xuan zi	35
 楦枕头	xuan zhen tou	100
+槒	xu
+樰	xue
+樳	xun
+檈	xuan
+欨	xu
+欰	xu
+欻	xu
+欻	xu	44
 欻然	xu ran	2
 欻降	xu jiang	2
+歔	xu
+歘	xu
+殈	xu
+殉	xun
+殉	xun	8878
 殉义忘身	xun yi wang shen	100
 殉国	xun guo	5280
 殉国忘家	xun guo wang jia	111
@@ -4271,12 +4599,20 @@ sort: by_weight
 殉难	xun nan	5585
 殉难人员	xun nan ren yuan	100
 殉难者	xun nan zhe	855
+殾	xun
+毥	xun
+汛	xun
+汛	xun	1994
 汛前	xun qian	3715
 汛情	xun qing	4365
 汛期	xun qi	23915
 汛期地质灾害	xun qi di zhi zai hai	100
 汛桥	xun qiao	3
 汛潮环楔形蛤	xun chao huan xie xing ge	1
+汿	xu
+沀	xu
+泫	xuan
+泫	xuan	2739
 泫勃派	xuan bo pai	100
 泫氏	xuan shi	12
 泫然	xuan ran	99
@@ -4287,13 +4623,23 @@ sort: by_weight
 泫然泪下	xuan ran lei xia	100
 泫然流泣	xuan ran liu qi	100
 泫然流涕	xuan ran liu ti	100
+泬	xue
+泶	xue
+洫	xu
+洫	xu	224
+洵	xun
+洵	xun	4681
 洵阳路	xun yang lu	4
+浒	xu
+浒	xu	1
 浒墅关	xu shu guan	687
 浒墅关镇	xu shu guan zhen	100
 浒浦	xu pu	2
 浒浦黄花鱼	xu pu huang hua yu	1
 浒湾	xu wan	2
 浒湾镇	xu wan zhen	2
+浔	xun
+浔	xun	1503
 浔中村	xun zhong cun	1
 浔埔	xun pu	3
 浔埔社区	xun pu she qu	2
@@ -4307,8 +4653,13 @@ sort: by_weight
 浔阳地僻无音乐	xun yang di pi wu yin yue	1
 浔阳楼	xun yang lou	820
 浔阳江头夜送客	xun yang jiang tou ye song ke	5
+浚	xun
+浚	xun	1
 浚县	xun xian	1
 浚县古城	xun xian gu cheng	1
+淢	xu
+渲	xuan
+渲	xuan	6400
 渲染	xuan ran	119690
 渲染出的	xuan ran chu de	100
 渲染器	xuan ran qi	5955
@@ -4321,16 +4672,36 @@ sort: by_weight
 渲染着	xuan ran zhe	1160
 渲染端	xuan ran duan	100
 渲染管线	xuan ran guan xian	9415
+湏	xu
+湑	xu
+湑	xu	2
 湑水河	xu shui he	2
 湑水镇	xu shui zhen	2
+溆	xu
+溆	xu	110
 溆浦县	xu pu xian	1200
 溆浦鹅	xu pu e	78
+滀	xu
+滈	xue
+滸	xu
+漩	xuan
+漩	xuan	14215
 漩涡	xuan wo	3401
 漩涡之国	xuan wo zhi guo	100
 漩涡忍传	xuan wo ren zhuan	100
 漩涡玖辛奈	xuan wo jiu xin nai	100
 漩涡长门	xuan wo chang men	100
 漩涡鸣人	xuan wo ming ren	15
+漵	xu
+潊	xu
+潠	xun
+潯	xun
+澩	xue
+濬	xun
+瀥	xue
+灥	xun
+炫	xuan
+炫	xuan	26933
 炫一口	xuan yi kou	100
 炫一炫	xuan yi xuan	123
 炫丽	xuan li	5890
@@ -4372,16 +4743,29 @@ sort: by_weight
 炫酷效果	xuan ku xiao guo	224
 炫铃	xuan ling	6075
 炫鬻	xuan yu	35
+烅	xu
+烜	xuan
+烜	xuan	1568
 烜赫	xuan he	2
 烜赫一时	xuan he yi shi	42
 烜赫大梁城	xuan he da liang cheng	100
+烼	xu
+焄	xun
+煇	xun
+煊	xuan
+煊	xuan	2743
 煊赫	xuan he	1010
 煊赫一时	xuan he yi shi	111
+煖	xuan
+煦	xu
+煦	xu	7265
 煦伏之恩	xu fu zhi en	1
 煦暖	xu nuan	510
 煦煦	xu xu	245
 煦煦孑孑	xu xu jie jie	100
 煦色韶光	xu se shao guang	2
+熏	xun
+熏	xun	23690
 熏一熏	xun yi xun	123
 熏了熏	xun le xun	101
 熏人	xun ren	1357
@@ -4439,7 +4823,21 @@ sort: by_weight
 熏黄	xun huang	1987
 熏黑	xun hei	1920
 熏黑了	xun hei le	505
+燅	xun
+燖	xun
+燢	xue
+燸	xu
+燻	xun
+爋	xun
+爓	xun
+狘	xue
+狥	xun
+獝	xu
+獯	xun
+獯	xun	82
 獯鬻	xun yu	1
+玄	xuan
+玄	xuan	249249
 玄一郎	xuan yi lang	167
 玄中又玄	xuan zhong you xuan	100
 玄中寺	xuan zhong si	495
@@ -4584,7 +4982,21 @@ sort: by_weight
 玄麦甘桔颗粒	xuan mai gan jie ke li	4
 玄黄	xuan huang	2035
 玄黄翻覆	xuan huang fan fu	1
+玹	xuan
+玹	xuan	123
+珝	xu
+珝	xu	8
+珣	xun
+珣	xun	2240
 珣玗琪	xun yu qi	1
+珬	xu
+琁	xuan
+琄	xuan
+琄	xuan	1
+瑄	xuan
+瑄	xuan	2337
+璇	xuan
+璇	xuan	31459
 璇女峰	xuan nv feng	100
 璇玑	xuan ji	5570
 璇玑公主	xuan ji gong zhu	100
@@ -4593,6 +5005,11 @@ sort: by_weight
 璇璇	xuan xuan	1260
 璇霄丹台	xuan xiao dan tai	1
 璇霄丹阙	xuan xiao dan que	1
+璕	xun
+璿	xuan
+畃	xun
+畜	xu
+畜	xu	1000
 畜产	xu chan	7020
 畜产品	xu chan pin	28070
 畜产品加工	xu chan pin jia gong	100
@@ -4653,17 +5070,32 @@ sort: by_weight
 畜牧部门	xu mu bu men	100
 畜牧风机	xu mu feng ji	100
 畜牧饲料	xu mu si liao	100
+疞	xu
+疦	xue
+疶	xue
+痃	xuan
+痃	xuan	9
+癣	xuan
+癣	xuan	885
 癣弄蝶属	xuan nong die shu	1
 癣疥之疾	xuan jie zhi ji	9999
 癣病	xuan bing	34
 癣药水	xuan yao shui	4
 癣菌疹	xuan jun zhen	1
+癬	xuan
+盢	xu
+盨	xu
+盱	xu
+盱	xu	658
 盱眙	xu yi	7795
 盱眙县	xu yi xian	3015
 盱眙小龙虾	xu yi xiao long xia	298
 盱衡	xu heng	75
 盱衡厉色	xu heng li se	1
 盱衡大局	xu heng da ju	1
+眗	xu
+眩	xuan
+眩	xuan	26994
 眩人	xuan ren	740
 眩光	xuan guang	9675
 眩惑	xuan huo	1255
@@ -4675,9 +5107,29 @@ sort: by_weight
 眩碧成朱	xuan bi cheng zhu	1
 眩视惑听	xuan shi huo ting	1
 眩辉大咽非鲫	xuan hui da yan fei ji	1
+眴	xuan
+眴	xun
+睻	xuan
+瞁	xu
+瞲	xue
+矄	xun
+矎	xuan
+矞	xu
+砉	xu
+砉	xu	1
 砉然	xu ran	2
+碹	xuan
+碹	xuan	57
 碹涵洞	xuan han dong	100
+禑	xu
+禤	xuan
+禤	xuan	323
 禤靐龘	xuan bing da	100
+稄	xun
+稰	xu
+稸	xu
+穴	xue
+穴	xue	98539
 穴上	xue shang	2690
 穴中	xue zhong	4375
 穴位	xue wei	47760
@@ -4705,6 +5157,15 @@ sort: by_weight
 穴隙	xue xi	170
 穴鵖	xue bi	1
 穴鸮	xue xiao	3
+窨	xun
+窨	xun	1
+箮	xuan
+糈	xu
+糈	xu	64
+紃	xun
+絢	xuan
+絮	xu
+絮	xu	28392
 絮凝	xu ning	7250
 絮凝剂	xu ning ji	7185
 絮凝沉降	xu ning chen jiang	100
@@ -4726,6 +5187,20 @@ sort: by_weight
 絮语不休	xu yu bu xiu	100
 絮说	xu shuo	275
 絮酒炙鸡	xu jiu zhi ji	1
+綇	xu
+続	xu
+緒	xu
+緖	xu
+緰	xu
+縃	xu
+縣	xuan
+縼	xuan
+繏	xuan
+繻	xu
+纁	xun
+續	xu
+绚	xuan
+绚	xuan	13848
 绚丽	xuan li	79855
 绚丽多姿	xuan li duo zi	6275
 绚丽多彩	xuan li duo cai	13950
@@ -4736,11 +5211,15 @@ sort: by_weight
 绚烂夺目	xuan lan duo mu	100
 绚烂归于平淡	xuan lan gui yu ping dan	100
 绚香	xuan xiang	3
+绪	xu
+绪	xu	178054
 绪方惠美	xu fang hui mei	179
 绪言	xu yan	2
 绪言余论	xu yan yu lun	100
 绪论	xu lun	13650
 绪风	xu feng	330
+续	xu
+续	xu	591245
 续一秒	xu yi miao	100
 续上	xu shang	5385
 续了	xu le	9999
@@ -4830,11 +5309,26 @@ sort: by_weight
 续面	xu mian	93
 续高僧传	xu gao seng zhuan	100
 续鹜短鹤	xu wu duan he	1
+翧	xuan
+翾	xuan
+翾	xuan	23
+聓	xu
+聟	xu
+胥	xu
+胥	xu	5376
 胥仓村	xu cang cun	1
 胥吏	xu li	1145
 胥姓	xu xing	25
 胥家湾	xu jia wan	4
+膤	xue
+臐	xun
+艝	xue
+芧	xu
+茓	xue
+茓	xue	16
 茓子	xue zi	25
+荀	xun
+荀	xun	11378
 荀令君	xun ling jun	100
 荀令衣香	xun ling yi xiang	100
 荀况	xun kuang	19
@@ -4851,6 +5345,9 @@ sort: by_weight
 荀白水	xun bai shui	100
 荀皇后	xun huang hou	100
 荀飞盏	xun fei zhan	100
+荤	xun
+荨	xun
+荨	xun	527
 荨麻疹	xun ma zhen	21660
 荨麻疹性血管炎	xun ma zhen xing xie guan yan	100
 荨麻疹性血管炎	xun ma zhen xing xue guan yan	100
@@ -4858,6 +5355,8 @@ sort: by_weight
 荨麻疹治疗	xun ma zhen zhi liao	100
 荨麻疹症状	xun ma zhen zheng zhuang	100
 荨麻疹的治疗	xun ma zhen de zhi liao	100
+萱	xuan
+萱	xuan	24846
 萱儿	xuan er	2
 萱堂	xuan tang	245
 萱花中学	xuan hua zhong xue	100
@@ -4871,6 +5370,11 @@ sort: by_weight
 萱草花	xuan cao hua	192
 萱草解忘忧	xuan cao jie wang you	2
 萱萱	xuan xuan	4695
+萲	xuan
+蒆	xue
+蒣	xu
+蓄	xu
+蓄	xu	42731
 蓄养	xu yang	1755
 蓄力	xu li	7625
 蓄力刀	xu li dao	195
@@ -4931,12 +5435,24 @@ sort: by_weight
 蓄集乡	xu ji xiang	2
 蓄须	xu xu	860
 蓄须明志	xu xu ming zhi	100
+蓒	xuan
+蓲	xu
+蓿	xu
+蓿	xu	806
+蔙	xuan
+蕁	xun
+蕈	xun
+蕈	xun	337
 蕈样肉芽肿	xun yang rou ya zhong	4
 蕈状云	xun zhuang yun	100
 蕈类	xun lei	8
 蕈菇	xun gu	5
 蕈菌	xun jun	8
 蕈蚊	xun wen	20
+蕦	xu
+蕿	xuan
+薛	xue
+薛	xue	61265
 薛丁山	xue ding shan	43
 薛下村乡	xue xia cun xiang	1
 薛中锐	xue zhong rui	133
@@ -5023,6 +5539,9 @@ sort: by_weight
 薛道衡	xue dao heng	405
 薛阁街道	xue ge jie dao	6
 薛雪	xue xue	40
+薫	xun
+薰	xun
+薰	xun	9574
 薰以香自烧	xun yi xiang zi shao	100
 薰以香自焚	xun yi xiang zi fen	1
 薰奈儿	xun nai er	10
@@ -5042,6 +5561,14 @@ sort: by_weight
 薰陆香	xun lu xiang	13
 薰风初入弦	xun feng chu ru xian	2
 薰香自烧	xun xiang zi shao	100
+藇	xu
+藚	xu
+藼	xuan
+蘍	xun
+蘐	xuan
+虗	xu
+虚	xu
+虚	xu	337176
 虚与委蛇	xu yu wei yi	1320
 虚中乐善	xu zhong le shan	1
 虚中夹实	xu zhong jia shi	18
@@ -5476,7 +6003,18 @@ sort: by_weight
 虚骄	xu jiao	410
 虚骄恃气	xu jiao shi qi	1
 虚高	xu gao	17965
+虛	xu
+蚼	xu
+蛡	xu
 蛡螉	xu weng	1
+蜁	xuan
+蝑	xu
+蝖	xuan
+蟫	xun
+蟳	xun
+蠉	xuan
+血	xue
+血	xue	933230
 血不住地	xue bu zhu de	100
 血不住地流	xue bu zhu de liu	100
 血丝	xue si	17175
@@ -5705,9 +6243,33 @@ sort: by_weight
 血魔	xue mo	999
 血黏度	xue nian du	100
 血龙	xue long	111
+衒	xuan
+衒	xuan	32
 衒玉求售	xuan yu qiu shou	1
 衒玉自售	xuan yu zi shou	2
 衒玉贾石	xuan yu jia shi	1
+袕	xue
+袨	xuan
+裇	xu
+觷	xue
+訊	xun
+訏	xu
+訓	xun
+訙	xun
+許	xu
+訹	xu
+詡	xu
+詢	xun
+諝	xu
+諠	xuan
+諼	xuan
+諿	xu
+謔	xue
+譃	xu
+譞	xuan
+讂	xuan
+训	xun
+训	xun	267251
 训一训	xun yi xun	789
 训不训	xun bu xun	100
 训了	xun le	3333
@@ -5840,6 +6402,8 @@ sort: by_weight
 训过	xun guo	420
 训迪	xun di	85
 训龙记	xun long ji	1598
+讯	xun
+讯	xun	82709
 讯号	xun hao	37975
 讯号旗	xun hao qi	100
 讯号枪	xun hao qiang	100
@@ -5868,6 +6432,8 @@ sort: by_weight
 讯飞语记	xun fei yu ji	182
 讯飞语音	xun fei yu yin	205
 讯飞输入法	xun fei shu ru fa	100
+许	xu
+许	xu	1299512
 许一个	xu yi ge	3345
 许三多	xu san duo	100
 许下	xu xia	18105
@@ -6262,6 +6828,8 @@ sort: by_weight
 许鞍华	xu an hua	199
 许飞	xu fei	279
 许飞鹏	xu fei peng	363
+询	xun
+询	xun	81882
 询一下	xun yi xia	112
 询个价	xun ge jia	155
 询事考言	xun shi kao yan	4
@@ -6290,17 +6858,34 @@ sort: by_weight
 询问调查	xun wen diao cha	100
 询问起	xun wen qi	860
 询问问题	xun wen wen ti	550
+诩	xu
+诩	xu	8833
 诩诩自得	xu xu zi de	100
+谑	xue
+谑	xue	7031
 谑浪笑傲	xue lang xiao ao	100
 谑浪笑敖	xue lang xiao ao	9
 谑称	xue cheng	570
 谑而不虐	xue er bu nve	100
 谑语	xue yu	1450
+谖	xuan
+谖	xuan	320
+谞	xu
+谞	xu	64
+賉	xu
+贙	xuan
+趐	xue
+踅	xue
+踅	xue	1165
 踅回来	xue hui lai	100
 踅摸	xue mo	530
 踅来踅去	xue lai xue qu	100
 踅门瞭户	xue men liao hu	100
 踅门踅户	xue men xue hu	100
+軒	xuan
+轌	xue
+轩	xuan
+轩	xuan	159922
 轩儿	xuan er	2
 轩冕相袭	xuan mian xiang xi	1
 轩墨宝宝	xuan mo bao bao	179
@@ -6356,6 +6941,10 @@ sort: by_weight
 轩逸	xuan yi	2222
 轩邈	xuan miao	90
 轩鹤冠猴	xuan he guan hou	1
+辥	xue
+辪	xue
+迅	xun
+迅	xun	225006
 迅即	xun ji	9730
 迅即出发	xun ji chu fa	100
 迅即处理	xun ji chu li	100
@@ -6446,6 +7035,9 @@ sort: by_weight
 迅雷音速	xun lei yin su	100
 迅雷风烈	xun lei feng lie	16
 迅风暴雨	xun feng bao yu	1
+迿	xun
+选	xuan
+选	xuan	498189
 选一下	xuan yi xia	7
 选一个	xuan yi ge	17770
 选一双	xuan yi shuang	100
@@ -7045,6 +7637,8 @@ sort: by_weight
 选项里面	xuan xiang li mian	100
 选题	xuan ti	77630
 选题箱	xuan ti xiang	100
+逊	xun
+逊	xun	51585
 逊于	xun yu	10965
 逊位	xun wei	1025
 逊克	xun ke	7
@@ -7060,13 +7654,39 @@ sort: by_weight
 逊色	xun se	27025
 逊色于	xun se yu	9365
 逊顺	xun shun	115
+遜	xun
+選	xuan
+邪	xu
+郇	xun
+郇	xun	199
+鄦	xu
+鄩	xun
+酗	xu
+酗	xu	3709
 酗酒	xu jiu	30670
 酗酒滋事	xu jiu zi shi	500
 酗酒者	xu jiu zhe	1725
 酗酒闹事	xu jiu nao shi	590
+醑	xu
+醑	xu	18
 醑剂	xu ji	1
+醺	xun
+醺	xun	7468
 醺醺	xun xun	755
 醺醺然	xun xun ran	345
+鉉	xuan
+銊	xu
+鋗	xuan
+鍹	xuan
+鏇	xuan
+鑂	xun
+鑐	xu
+铉	xuan
+铉	xuan	2376
+镟	xuan
+雤	xue
+雪	xue
+雪	xue	820388
 雪上	xue shang	9960
 雪上一枝蒿	xue shang yi zhi hao	14
 雪上加霜	xue shang jia shuang	20345
@@ -7595,6 +8215,8 @@ sort: by_weight
 雪鸮	xue xiao	6
 雪龙	xue long	5700
 雪龙吟	xue long yin	100
+需	xu
+需	xu	543409
 需不需	xu bu xu	12
 需不需要	xu bu xu yao	9165
 需不需要吗	xu bu xu yao ma	100
@@ -7879,6 +8501,8 @@ sort: by_weight
 需重视	xu zhong shi	100
 需长期服药	xu chang qi fu yao	100
 需预交	xu yu jiao	68
+靴	xue
+靴	xue	17283
 靴刀誓死	xue dao shi si	1
 靴叶棘蝇	xue ye ji ying	1
 靴后跟	xue hou gen	100
@@ -7891,6 +8515,13 @@ sort: by_weight
 靴筒	xue tong	75
 靴袢	xue pan	10
 靴靿儿	xue yao er	3
+鞙	xuan
+鞾	xue
+須	xu
+頊	xu
+顨	xun
+须	xu
+须	xu	397623
 须不是	xu bu shi	265
 须从	xu cong	7530
 须仿鲸科	xu fang jing ke	1
@@ -7973,6 +8604,16 @@ sort: by_weight
 须鲸	xu jing	800
 须鳂	xu wei	1
 须𫚪	xu yu	1
+顼	xu
+顼	xu	2931
+颴	xuan
+馴	xun
+駨	xuan
+駨	xun
+駽	xuan
+驉	xu
+驯	xun
+驯	xun	13729
 驯从	xun cong	110
 驯养	xun yang	16030
 驯养繁殖	xun yang fan zhi	100
@@ -8012,12 +8653,289 @@ sort: by_weight
 驯鹿角胶	xun lu jiao jiao	1
 驯鹿部落	xun lu bu luo	100
 驯龙	xun long	1
+鬚	xu
+魆	xu
+魆	xu	587
 魆风骤雨	xu feng zhou yu	1
+魖	xu
+鰚	xuan
+鱈	xue
+鱏	xun
+鱘	xun
+鱮	xu
+鲟	xun
+鲟	xun	272
 鲟形目	xun xing mu	100
 鲟鱼	xun yu	4030
 鲟鱼汤	xun yu tang	100
 鲟鱼规模化池塘养殖技术	xun yu gui mo hua chi tang yang zhi ji shu	1
 鲟鳇	xun huang	490
+鳕	xue
+鳕	xue	399
 鳕鱼	xue yu	14876
 鳕鱼豆腐羹	xue yu dou fu geng	1
 鳕鳞鱼属	xue lin yu shu	1
+鶽	xun
+鷽	xue
+鸴	xue
+𠆐	xu
+𠊫	xun
+𠗻	xuan
+𠜄	xu
+𠣖	xuan
+𠤰	xuan
+𠥞	xuan
+𠧰	xu
+𠯜	xu
+𠵷	xuan
+𠷙	xu
+𠹀	xun
+𠹘	xu
+𠾫	xu
+𡈣	xuan
+𡈴	xuan
+𡑎	xun
+𡦁	xu
+𡬳	xuan
+𡱣	xu
+𡹲	xu
+𡺕	xun
+𡾥	xuan
+𡿼	xun
+𢂄	xuan
+𢄼	xu
+𢆯	xuan
+𢈋	xuan
+𢏤	xun
+𢏧	xuan
+𢖳	xu
+𢙂	xuan
+𢨁	xu
+𢨰	xu
+𢩕	xu
+𢪎	xue
+𢯳	xue
+𢰊	xuan
+𢳄	xuan
+𢼺	xue
+𢿌	xuan
+𣅤	xu
+𣆒	xu
+𣉖	xuan
+𣊞	xu
+𣌨	xun
+𣎓	xuan
+𣎛	xue
+𣖼	xun
+𣚏	xu
+𣟳	xuan
+𣢊	xu
+𣧌	xue
+𣧡	xue
+𣧵	xu
+𣧵	xue
+𣨤	xu
+𣪨	xue
+𣰃	xu
+𣸃	xu
+𣹯	xun
+𣺭	xue
+𤀰	xue
+𤂿	xuan
+𤃺	xun
+𤆞	xu
+𤇳	xu
+𤇳	xue
+𤑕	xun
+𤚉	xu
+𤛧	xun
+𤟠	xu
+𤟤	xun
+𤟿	xuan
+𤡣	xu
+𤡶	xu
+𤬱	xu
+𤭽	xu
+𤲸	xu
+𤴙	xu
+𤷇	xu
+𤸀	xu
+𤿟	xun
+𥀣	xue
+𥄎	xue
+𥄒	xue
+𥄴	xue
+𥄵	xu
+𥅧	xue
+𥅺	xu
+𥆛	xu
+𥇏	xu
+𥇿	xu
+𥈈	xu
+𥊊	xu
+𥌭	xuan
+𥍟	xu
+𥎕	xu
+𥎗	xu
+𥒘	xun
+𥕰	xu
+𥙣	xun
+𥚩	xu
+𥥾	xuan
+𥮪	xu
+𥳍	xun
+𥳗	xu
+𥶷	xuan
+𥾡	xun
+𦄼	xu
+𦅀	xun
+𦅏	xu
+𦅑	xun
+𦈡	xu	1
+𦌔	xuan
+𦐍	xue
+𦐽	xuan
+𦑍	xu
+𦑙	xuan
+𦓔	xu
+𦔰	xu
+𦕓	xu
+𦘶	xun
+𦘼	xu
+𦛔	xuan
+𦜃	xu
+𦝳	xu
+𦠅	xun
+𦠷	xu
+𦥯	xue
+𦪡	xu
+𦫯	xun
+𦯅	xu
+𦰰	xu
+𦰲	xu
+𦰾	xue
+𦲰	xu
+𦳣	xun
+𧁃	xu
+𧂇	xun
+𧆜	xu
+𧆡	xu
+𧉎	xuan
+𧉢	xue
+𧊥	xu
+𧋍	xue
+𧏺	xu
+𧐗	xuan
+𧑩	xuan
+𧔗	xue
+𧔤	xuan
+𧕼	xu
+𧙆	xu
+𧜽	xuan
+𧟨	xuan
+𧟬	xu
+𧡚	xuan
+𧡢	xuan
+𧤎	xuan
+𧥿	xun
+𧧓	xu
+𧪮	xu
+𧭦	xuan
+𧮞	xue
+𧰣	xun
+𧶍	xu
+𧸗	xue
+𧸩	xun
+𧸾	xuan
+𧹭	xu
+𧹴	xu
+𧼑	xu
+𧾆	xuan
+𧾎	xuan
+𧾝	xun
+𧾠	xun
+𧾩	xuan
+𧾩	xun
+𨀮	xuan
+𨀴	xun
+𨁁	xuan
+𨂂	xue
+𨂠	xu
+𨅑	xu
+𨊼	xuan
+𨋾	xu
+𨌎	xu
+𨏂	xuan
+𨑣	xue
+𨒲	xue
+𨜿	xu
+𨞣	xu
+𨣦	xu
+𨨺	xue
+𨬗	xu
+𨭁	xue
+𨴎	xu
+𨵮	xu
+𨷔	xu
+𨹆	xuan
+𨹘	xu
+𨺮	xun
+𨻍	xu
+𨼋	xu
+𨼔	xun
+𩂉	xu
+𩃚	xuan
+𩉥	xuan
+𩊻	xun
+𩋢	xuan
+𩋫	xuan
+𩋱	xuan
+𩋾	xue
+𩌊	xue
+𩌮	xu
+𩌲	xu
+𩍳	xu
+𩑕	xu
+𩑹	xuan
+𩒇	xu
+𩒧	xu
+𩓣	xu
+𩔴	xu
+𩔼	xu
+𩕖	xuan
+𩕪	xuan
+𩖰	xun
+𩖱	xue
+𩖶	xue
+𩘒	xuan
+𩙢	xuan
+𩙽	xuan
+𩝔	xu
+𩟁	xuan
+𩣊	xu
+𩤡	xuan
+𩪉	xu
+𩪱	xun
+𩰠	xu
+𩶫	xue
+𩷰	xun
+𩽆	xu
+𩾧	xun
+𪀠	xun
+𪀽	xun
+𪃅	xue
+𪆛	xu
+𪇑	xun
+𪍧	xuan
+𪖩	xu
+𪙫	xu
+𫄸	xun	1
+𫍽	xuan	1
+𫓶	xuan	1
+𫠊	xuan
+𫠊	xuan	1
+𬊈	xun	1
+𬍤	xun	1
+𬘓	xun	1
+𬣙	xu	1
+𬩽	xun	1

@@ -3,6 +3,53 @@ name: merged.ho
 version: "1.0"
 sort: by_weight
 ...
+㕈	hou
+㖃	hou
+㖓	hong
+㗋	hou
+㗢	hong
+㢬	hong
+㤧	hou
+㫗	hou
+㬋	hou
+㬴	hong
+㮢	hou
+㰯	hou
+㶹	hong
+㷎	hong
+㸸	hou
+㺅	hou
+䀧	hong
+䂉	hou
+䂫	hong
+䃔	hong
+䆖	hong
+䉺	hong
+䍔	hong
+䗔	hou
+䙈	hou
+䜫	hong
+䞀	hou
+䞑	hong
+䞧	hou
+䡌	hong
+䡏	hong
+䡩	hou
+䧆	hong
+䨎	hong
+䩑	hong
+䪦	hong
+䪷	hou
+䫛	hou
+䫹	hong
+䫺	hong
+䫺	hou
+䬝	hong
+䲨	hong
+䳧	hou
+仜	hong
+侯	hou
+侯	hou	142640
 侯万户	hou wan hu	100
 侯二小区	hou er xiao qu	2
 侯亮平	hou liang ping	100
@@ -91,6 +138,8 @@ sort: by_weight
 侯马市	hou ma shi	27
 侯马性侵事件	hou ma xing qin shi jian	9
 侯高俊杰	hou gao jun jie	100
+候	hou
+候	hou	2064968
 候一候	hou yi hou	239
 候任	hou ren	1120
 候位	hou wei	27777
@@ -176,6 +225,8 @@ sort: by_weight
 候鸟型	hou niao xing	100
 候鸟栖息地	hou niao qi xi di	100
 候鸟的	hou niao de	2085
+厚	hou
+厚	hou	239064
 厚一些	hou yi xie	90
 厚了	hou le	1111
 厚俸桥南	hou feng qiao nan	1
@@ -380,6 +431,10 @@ sort: by_weight
 厚颜无耻之人	hou yan wu chi zhi ren	100
 厚颜无耻地	hou yan wu chi de	100
 厚黑学	hou hei xue	2315
+厷	hong
+叿	hong
+后	hou
+后	hou	6544446
 后一个	hou yi ge	100
 后一名	hou yi ming	255
 后一度	hou yi du	705
@@ -1552,6 +1607,9 @@ sort: by_weight
 后龙村	hou long cun	20
 后龙溪	hou long xi	100
 后龙镇	hou long zhen	100
+吰	hong
+吼	hou
+吼	hou	152621
 吼一吼	hou yi hou	123
 吼三喝四	hou san he si	100
 吼了	hou le	2222
@@ -1576,6 +1634,13 @@ sort: by_weight
 吼起来	hou qi lai	1600
 吼道	hou dao	4835
 吼鲸王	hou jing wang	100
+吽	hong
+吽	hong	361
+吽	hou
+呍	hong
+呴	hou
+哄	hong
+哄	hong	72071
 哄一哄	hong yi hong	456
 哄不了	hong bu liao	100
 哄不住	hong bu zhu	185
@@ -1631,6 +1696,10 @@ sort: by_weight
 哄逗	hong dou	110
 哄闹	hong nao	1860
 哄骗	hong pian	6130
+唝	hong
+唝	hong	15
+喉	hou
+喉	hou	68460
 喉上神经	hou shang shen jing	3
 喉中水鸡声	hou zhong shui ji sheng	1
 喉关	hou guan	1
@@ -1699,6 +1768,17 @@ sort: by_weight
 喉风散	hou feng san	999
 喉鳞	hou lin	3
 喉鸣	hou ming	305
+嗊	hong
+嚝	hong
+垕	hou
+垕	hou	148
+垬	hong
+堠	hou
+堠	hou	154
+妅	hong
+娂	hong
+宏	hong
+宏	hong	84747
 宏三	hong san	5
 宏业村街道	hong ye cun jie dao	1
 宏业集团	hong ye ji tuan	2
@@ -1846,6 +1926,12 @@ sort: by_weight
 宏途星城	hong tu xing cheng	100
 宏道	hong dao	53
 宏阔	hong kuo	1925
+宖	hong
+屸	hong
+巆	hong
+帿	hou
+弘	hong
+弘	hong	38264
 弘一大师	hong yi da shi	13
 弘一法师	hong yi fa shi	2630
 弘业期货	hong ye qi huo	191
@@ -1910,8 +1996,22 @@ sort: by_weight
 弘道	hong dao	2260
 弘阳地产	hong yang di chan	100
 弘阳广场	hong yang guang chang	102
+彋	hong
+後	hou
+愩	hong
+慐	hong
+揈	hong
+撔	hong
+晎	hong
+汯	hong
+沗	hong
+泓	hong
+泓	hong	6716
 泓峥萧瑟	hong zheng xiao se	1
 泓涵演迤	hong han yan yi	1
+洉	hou
+洪	hong
+洪	hong	158368
 洪七公	hong qi gong	10785
 洪东社区	hong dong she qu	2
 洪之光	hong zhi guang	100
@@ -2149,6 +2249,16 @@ sort: by_weight
 洪雅族	hong ya zu	100
 洪静雯	hong jing wen	145
 洪魔	hong mo	11
+浤	hong
+浲	hong
+渱	hong
+渹	hong
+溄	hong
+潂	hong
+澒	hong
+灴	hong
+烘	hong
+烘	hong	13793
 烘一烘	hong yi hong	123
 烘云托月	hong yun tuo yue	555
 烘制	hong zhi	1170
@@ -2196,6 +2306,10 @@ sort: by_weight
 烘起来	hong qi lai	100
 烘过来	hong guo lai	100
 烘青	hong qing	1875
+焢	hong
+犼	hou
+猴	hou
+猴	hou	73614
 猴儿	hou er	7550
 猴儿急	hou er ji	9999
 猴儿戏	hou er xi	1055
@@ -2270,7 +2384,32 @@ sort: by_weight
 猴面包树	hou mian bao shu	180
 猴面花	hou mian hua	3
 猴面雀	hou mian que	100
+玒	hong
+玒	hong	1
+玜	hong
+瓨	hong
+瘊	hou
+瘊	hou	195
 瘊子	hou zi	1065
+睺	hou
+矦	hou
+硔	hong
+硡	hong
+竑	hong
+竑	hong	283
+竤	hong
+篊	hong
+篌	hou
+篌	hou	320
+粠	hong
+糇	hou
+糇	hou	45
+紅	hong
+紘	hong
+紭	hong
+綋	hong
+红	hong
+红	hong	1282649
 红一师	hong yi shi	780
 红一连	hong yi lian	590
 红万寿	hong wan shou	6
@@ -4068,8 +4207,30 @@ sort: by_weight
 红龙乡	hong long xiang	8
 红龙庙	hong long miao	9
 红龟	hong gui	559
+纮	hong
+纮	hong	468
+羾	hong
+翃	hong
+翃	hong	107
+翝	hong
+翭	hou
+翵	hou
+耾	hong
+苰	hong
+茩	hou
+荭	hong
+荭	hong	689
 荭草	hong cao	1
+葒	hong
+葓	hong
+葔	hou
+蕻	hong
+蕻	hong	116
+薨	hong
+薨	hong	839
 薨了	hong le	111
+虹	hong
+虹	hong	86362
 虹中路	hong zhong lu	19
 虹二村	hong er cun	5
 虹井路	hong jing lu	52
@@ -4150,8 +4311,23 @@ sort: by_weight
 虹鳟人工繁殖法	hong zun ren gong fan zhi fa	1
 虹鳟鱼	hong zun yu	2820
 虹𬶋鰕虎鱼	hong ju xia hu yu	1
+訇	hong
+訇	hong	837
 訇然	hong ran	855
 訇的一声	hong de yi sheng	2
+訌	hong
+讧	hong
+讧	hong	2114
+谹	hong
+谼	hong
+谼	hong	1
+谾	hong
+豞	hou
+軣	hong
+輷	hong
+轟	hong
+轰	hong
+轰	hong	168120
 轰上去	hong shang qu	100
 轰上来	hong shang lai	100
 轰下	hong xia	1280
@@ -4229,6 +4405,24 @@ sort: by_weight
 轰鸣	hong ming	20925
 轰鸣声	hong ming sheng	8660
 轰鸣着	hong ming zhe	1115
+逅	hou
+逅	hou	5938
+郈	hou
+郈	hou	11
+鄇	hou
+鈜	hong
+鉷	hong
+銗	hou
+銾	hong
+鋐	hong
+鍧	hong
+鍭	hou
+閎	hong
+閧	hong
+闀	hong
+闂	hong
+闳	hong
+闳	hong	3673
 闳中肆外	hong zhong si wai	100
 闳侈不经	hong chi bu jing	1
 闳大不经	hong da bu jing	100
@@ -4240,15 +4434,33 @@ sort: by_weight
 闳言高论	hong yan gao lun	1
 闳识孤怀	hong shi gu huai	100
 闳远微妙	hong yuan wei miao	1
+霐	hong
+霟	hong
+鞃	hong
+餱	hou
+骺	hou
+骺	hou	64
 骺板	hou ban	303
 骺线	hou xian	2
 骺软骨板	hou ruan gu ban	100
+鬨	hong
+魟	hong
+鮜	hou
+鯸	hou
+鱟	hou
+鲎	hou
+鲎	hou	190
 鲎粿	hou guo	5
 鲎虫	hou chong	1
 鲎试验	hou shi yan	210
 鲎鱼	hou yu	32
+鲘	hou
+鲘	hou	1
 鲘门站	hou men zhan	100
 鲘门镇	hou men zhen	43
+鴻	hong
+鸿	hong
+鸿	hong	79055
 鸿业	hong ye	1415
 鸿业远图	hong ye yuan tu	1
 鸿仁名居	hong ren ming ju	1
@@ -4376,12 +4588,17 @@ sort: by_weight
 鸿鹄志	hong hu zhi	100
 鸿鹄高翔	hong hu gao xiang	1
 鸿𬸣凤立	hong xian feng li	100
+黉	hong
+黉	hong	71
 黉宇	hong yu	2
 黉门	hong men	370
 黉门后街	hong men hou jie	19
 黉门学子	hong men xue zi	100
 黉门秀才	hong men xiu cai	100
 黉门街	hong men jie	92
+黌	hong
+齁	hou
+齁	hou	96
 齁人	hou ren	2222
 齁冷	hou leng	580
 齁咸	hou xian	580
@@ -4396,6 +4613,115 @@ sort: by_weight
 齁疼	hou teng	123
 齁着	hou zhe	666
 齁苦	hou ku	580
+𠐿	hong
+𠪷	hong
+𠯜	hou
+𠲓	hong
+𠳃	hong
+𠴣	hou
+𠷋	hou
+𠹅	hong
+𡇳	hong
+𡞥	hou
+𡟑	hou
+𡵓	hong
+𡹵	hou
+𡺭	hong
+𢂔	hong
+𢗵	hong
+𢘌	hong
+𢜴	hou
+𢝻	hong
+𢦅	hong
+𢬀	hong
+𢼦	hong
+𣔹	hou
+𣣠	hou
+𣣡	hou
+𣽝	hong
+𤂲	hong
+𤃫	hong
+𤄏	hong
+𤘽	hou
+𤙽	hou
+𤟼	hong
+𥀃	hou
+𥅠	hou
+𥈑	hou
+𥈿	hong
+𥏕	hong
+𥓰	hong
+𥔀	hong
+𥕗	hong
+𥚦	hou
+𥥈	hong
+𥥡	hong
+𥰲	hong
+𦁷	hong
+𦍵	hou
+𦏺	hong
+𦐳	hong
+𦑚	hou
+𦑟	hong
+𦑠	hong
+𦒃	hong
+𦕠	hong
+𦕷	hong
+𦚥	hou
+𦞈	hou
+𦞕	hou
+𦶓	hong
+𧇹	hou
+𧈽	hong
+𧊯	hong
+𧋔	hong
+𧐬	hong
+𧙺	hou
+𧩨	hou
+𧮴	hong
+𧮶	hou
+𧻿	hou
+𧼵	hou
+𧾧	hong
+𨌁	hong
+𨌆	hong
+𨎗	hong
+𨒙	hou
+𨢣	hong
+𨥺	hong
+𨹁	hong
+𨾊	hong
+𩃺	hou
+𩄬	hou
+𩐠	hong
+𩒓	hong
+𩒴	hong
+𩒼	hong
+𩓅	hong
+𩕆	hong
+𩕉	hong
+𩖉	hong
+𩗄	hong
+𩗢	hong
+𩘇	hong
+𩘋	hou
+𩘎	hong
+𩙛	hong
+𩙡	hou
+𩰓	hong
+𩶥	hong
+𪃶	hou
+𪄗	hou
+𪅺	hou
+𪇂	hou
+𪈘	hong
+𪑻	hou
+𪖙	hou
+𫚉	hong
 𫚉伪蓝鱼虱	hong wei lan yu shi	1
 𫚉科	hong ke	35
 𫚉鱼	hong yu	3
+𫟹	hong
+𫟹	hong	1
+𬭎	hong	1
+𬭤	hou	1

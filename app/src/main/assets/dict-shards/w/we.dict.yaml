@@ -3,6 +3,102 @@ name: merged.we
 version: "1.0"
 sort: by_weight
 ...
+㑮	wen
+㒚	wen
+㕒	wei
+㖐	wei
+㖧	wen
+㗃	wen
+㘢	weng
+㛱	wei
+㜲	weng
+㝧	wen
+㞇	wei
+㞑	wei
+㟩	wen
+㟪	wei
+㟴	wei
+㠕	wei
+㡈	wen
+㢻	wei
+㣲	wei
+㥜	wei
+㥨	wei
+㦣	wei
+㧑	wei
+㨊	wei
+㨒	wei
+㬙	wei
+㭏	wei
+㱬	wei
+㳷	wen
+㵮	wen
+㷉	wei
+㸵	wei
+㹙	weng
+㹚	weng
+㺔	wei
+㻰	wei
+㼂	wen
+㾯	wei
+䃬	wei
+䅏	wei
+䇻	wei
+䈧	wei
+䈵	weng
+䉠	wei
+䍴	wei
+䍷	wei
+䎹	wen
+䎽	wen
+䐥	weng
+䑊	wei
+䓕	wei
+䓺	wei
+䔺	wei
+䗆	wei
+䗽	wei
+䘇	wen
+䘙	wei
+䙟	wei
+䙿	wei
+䛪	wei
+䜅	wei
+䜜	wei
+䝐	wei
+䞔	wei
+䡺	wei
+䣀	wei
+䤰	weng
+䥆	wei
+䥩	wei
+䦤	wen
+䦱	wei
+䦷	wen
+䧦	wei
+䨴	weng
+䩈	wei
+䩞	wei
+䪋	wei
+䪘	wei
+䫥	wei
+䬐	wei
+䬑	wei
+䬿	wei
+䭓	wen
+䭡	wen
+䭳	wei
+䮹	wei
+䰚	wen
+䱞	wei
+䱵	weng
+䲁	wei
+䲘	wei
+䵋	wei
+䵢	wei
+䵳	wei
+为	wei
+为	wei	7309300
 为一个	wei yi ge	100
 为一体	wei yi ti	250420
 为一己私利	wei yi ji si li	382
@@ -1180,7 +1276,12 @@ sort: by_weight
 为鬼为魅	wei gui wei mei	100
 为鱼肉	wei yu rou	100
 为鼓励	wei gu li	17990
+亹	wei
+亹	wei	30
 亹亹不倦	wei wei bu juan	100
+伆	wen
+伟	wei
+伟	wei	242973
 伟业	wei ye	6354
 伟业房地产	wei ye fang di chan	100
 伟业星城	wei ye xing cheng	15
@@ -1283,6 +1384,8 @@ sort: by_weight
 伟鬣齿兽	wei lie chi shou	8
 伟鳄兽	wei e shou	1
 伟鳞短额鲆	wei lin duan e ping	1
+伪	wei
+伪	wei	66990
 伪书	wei shu	3475
 伪人	wei ren	4
 伪代码	wei dai ma	11970
@@ -1437,6 +1540,8 @@ sort: by_weight
 伪麻黄碱	wei ma huang jian	183
 伪麻黄素	wei ma huang su	100
 伪黄基棘蝇	wei huang ji ji ying	1
+位	wei
+位	wei	1682896
 位上	wei shang	5555
 位不期骄	wei bu qi jiao	1
 位与	wei yu	3469
@@ -1614,6 +1719,10 @@ sort: by_weight
 位驱动	wei qu dong	450
 位高	wei gao	1453
 位高权重	wei gao quan zhong	4245
+倭	wei
+偉	wei
+偎	wei
+偎	wei	18007
 偎依	wei yi	5835
 偎倚	wei yi	41
 偎傍	wei bang	120
@@ -1626,9 +1735,17 @@ sort: by_weight
 偎红倚翠	wei hong yi cui	100
 偎贴	wei tie	85
 偎香倚玉	wei xiang yi yu	100
+偽	wei
+僞	wei
+儰	wei
+刎	wen
+刎	wen	2349
 刎颈之交	wen jing zhi jiao	999
 刎颈交	wen jing jiao	9999
 刎颈自尽	wen jing zi jin	35
+勜	weng
+卫	wei
+卫	wei	504141
 卫不卫生	wei bu wei sheng	100
 卫不卫生吗	wei bu wei sheng ma	100
 卫不卫生吧	wei bu wei sheng ba	100
@@ -1985,6 +2102,8 @@ sort: by_weight
 卫龙大面筋	wei long da mian jin	100
 卫龙小面筋	wei long xiao mian jin	100
 卫龙辣条	wei long la tiao	100
+危	wei
+危	wei	279881
 危中寻机	wei zhong xun ji	100
 危中有机	wei zhong you ji	149
 危乎高哉	wei hu gao zai	100
@@ -2238,6 +2357,10 @@ sort: by_weight
 危难	wei nan	25050
 危难之际	wei nan zhi ji	2605
 危难见真情	wei nan jian zhen qing	40
+厃	wei
+叞	wei
+吻	wen
+吻	wen	151655
 吻一吻	wen yi wen	1260
 吻上	wen shang	1111
 吻上了	wen shang le	1640
@@ -2298,6 +2421,10 @@ sort: by_weight
 吻鰕虎	wen xia hu	9
 吻鳞	wen lin	3
 吻𬶋	wen ju	1
+呅	wen
+呡	wen
+味	wei
+味	wei	493741
 味之太羹	wei zhi tai geng	1180
 味之素	wei zhi su	1625
 味之臾	wei zhi yu	1
@@ -2386,6 +2513,9 @@ sort: by_weight
 味道重	wei dao zhong	100
 味道鲜	wei dao xian	2235
 味道鲜美	wei dao xian mei	15340
+唩	wei
+唯	wei
+唯	wei	217658
 唯一	wei yi	500331
 唯一一位	wei yi yi wei	118
 唯一一家	wei yi yi jia	566
@@ -2589,6 +2719,9 @@ sort: by_weight
 唯闻女叹息	wei wen nv tan xi	2
 唯阿之间	wei a zhi jian	1
 唯雅诺	wei ya nuo	329
+問	wen
+喂	wei
+喂	wei	148044
 喂一喂	wei yi wei	214
 喂乳	wei ru	870
 喂了	wei le	7070
@@ -2652,6 +2785,10 @@ sort: by_weight
 喂马劈柴	wei ma pi chai	100
 喂鱼	wei yu	6418
 喂鸡	wei ji	2970
+喡	wei
+喴	wei
+嗡	weng
+嗡	weng	38010
 嗡嗡	weng weng	16820
 嗡嗡作响	weng weng zuo xiang	3850
 嗡嗡作声	weng weng zuo sheng	5
@@ -2667,6 +2804,10 @@ sort: by_weight
 嗡山药	weng shan yao	1
 嗡的一声	weng de yi sheng	100
 嗡蝠	weng fu	9
+囗	wei
+囲	wei
+围	wei
+围	wei	659219
 围一圈	wei yi quan	100
 围三阙一	wei san que yi	100
 围上	wei shang	7475
@@ -2874,10 +3015,21 @@ sort: by_weight
 围魏救赵计	wei wei jiu zhao ji	20
 围鼻猪鰕虎鱼	wei bi zhu xia hu yu	1
 围龙屋	wei long wu	1700
+圍	wei
+圩	wei
+圩	wei	1050
 圩垸	wei yuan	2
 圩堤	wei di	2
 圩子	wei zi	2
 圩田	wei tian	2
+塕	weng
+塭	wen
+墛	wei
+壝	wei
+奣	weng
+妏	wen
+委	wei
+委	wei	274305
 委中	wei zhong	2025
 委中痈	wei zhong yong	1
 委书记	wei shu ji	100
@@ -3061,6 +3213,8 @@ sort: by_weight
 委量差	wei liang cha	145
 委陵菜	wei ling cai	261
 委顿	wei dun	3050
+威	wei
+威	wei	503918
 威不可测	wei bu ke ce	100
 威严	wei yan	34270
 威严发泡	wei yan fa pao	1
@@ -3374,6 +3528,8 @@ sort: by_weight
 威龙	wei long	12985
 威龙杀阵	wei long sha zhen	1
 威龙行动	wei long xing dong	100
+娓	wei
+娓	wei	8105
 娓娓	wei wei	4
 娓娓不倦	wei wei bu juan	100
 娓娓动人	wei wei dong ren	100
@@ -3382,6 +3538,12 @@ sort: by_weight
 娓娓而谈	wei wei er tan	645
 娓娓道来	wei wei dao lai	12565
 娓翠夜蛾	wei cui ye e	1
+媁	wei
+媙	wei
+媦	wei
+寪	wei
+尉	wei
+尉	wei	62071
 尉健行	wei jian xing	595
 尉天池	wei tian chi	455
 尉官	wei guan	3815
@@ -3395,6 +3557,8 @@ sort: by_weight
 尉氏县	wei shi xian	1285
 尉缭子	wei liao zi	100
 尉郭乡	wei guo xiang	1
+尾	wei
+尾	wei	148960
 尾七	wei qi	7
 尾上若叶	wei shang ruo ye	100
 尾下鳞	wei xia lin	3
@@ -3562,8 +3726,23 @@ sort: by_weight
 尾鳞头鰕虎	wei lin tou xia hu	1
 尾鳞犬齿瓢眼鰕虎	wei lin quan chi piao yan xia hu	1
 尾鳞盲鰕虎鱼	wei lin mang xia hu yu	1
+屗	wei
+峗	wei
+峗	wei	1
+峞	wei
+崣	wei
+崴	wei
+崴	wei	1
 崴嵬	wei wei	3
+嵔	wei
+嵡	weng
+嵬	wei
+嵬	wei	5144
 嵬目鸿耳	wei mu hong er	1
+嶉	wei
+嶶	wei
+巍	wei
+巍	wei	20904
 巍山	wei shan	3035
 巍山县	wei shan xian	515
 巍山彝族回族自治县	wei shan yi zu hui zu zi zhi xian	100
@@ -3583,6 +3762,10 @@ sort: by_weight
 巍然挺立	wei ran ting li	325
 巍然矗立	wei ran chu li	695
 巍然耸立	wei ran song li	1320
+帏	wei
+帏	wei	1123
+帷	wei
+帷	wei	8007
 帷墙之制	wei qiang zhi zhi	1
 帷子	wei zi	125
 帷帐	wei zhang	1440
@@ -3596,6 +3779,13 @@ sort: by_weight
 帷灯箧剑	wei deng qie jian	1
 帷箔不修	wei bo bu xiu	111
 帷箔不肃	wei bo bu su	100
+幃	wei
+廆	wei
+廆	wei	80
+彣	wen
+徫	wei
+微	wei
+微	wei	1082510
 微不可察	wei bu ke cha	260
 微不可辨	wei bu ke bian	15
 微不足录	wei bu zu lu	100
@@ -4326,6 +4516,10 @@ sort: by_weight
 微麻微辣	wei ma wei la	106
 微黄	wei huang	5890
 微黑	wei hei	1425
+忞	wen
+忟	wen
+惟	wei
+惟	wei	92036
 惟与蜘蛛乞巧丝	wei yu zhi zhu qi qiao si	1
 惟义所在	wei yi suo zai	100
 惟刑之恤	wei xing zhi xu	2
@@ -4368,6 +4562,10 @@ sort: by_weight
 惟闻钟磬音	wei wen zhong qing yin	1180
 惟陈言之务去	wei chen yan zhi wu qu	2
 惟须遵守	wei xu zun shou	100
+愄	wei
+愇	wei
+慰	wei
+慰	wei	160488
 慰劳	wei lao	6515
 慰劳品	wei lao pin	90
 慰勉	wei mian	620
@@ -4396,8 +4594,22 @@ sort: by_weight
 慰问费	wei wen fei	12
 慰问部	wei wen bu	1
 慰问金	wei wen jin	32741
+懀	wei
+抆	wen
+捤	wei
+捼	wei
+揋	wei
+揻	wei
+揾	wen
+揾	wen	1
 揾英雄泪	wen ying xiong lei	100
 揾食艰难	wen shi jian nan	100
+搵	wen
+撝	wei
+撱	wei
+攚	weng
+文	wen
+文	wen	1637873
 文一	wen yi	5930
 文一地产	wen yi di chan	100
 文一科技	wen yi ke ji	117
@@ -6158,6 +6370,12 @@ sort: by_weight
 文鼎创数据	wen ding chuang shu ju	87
 文齐福不齐	wen qi fu bu qi	3
 文龙	wen long	16855
+斖	wei
+昷	wen
+暐	wei
+暡	weng
+未	wei
+未	wei	758953
 未上	wei shang	91
 未上传	wei shang chuan	100
 未上屏	wei shang ping	100
@@ -7152,6 +7370,8 @@ sort: by_weight
 未饱和	wei bao he	630
 未驯服	wei xun fu	70
 未麻的部屋	wei ma de bu wu	170
+桅	wei
+桅	wei	5611
 桅子灰蝶	wei zi hui die	1
 桅帆船	wei fan chuan	99
 桅木	wei mu	65
@@ -7160,13 +7380,26 @@ sort: by_weight
 桅樯	wei qiang	2
 桅灯	wei deng	385
 桅顶	wei ding	450
+桽	wen
+梶	wei
 梶浦由记	wei pu you ji	4
 梶田隆章	wei tian long zhang	100
+椲	wei
+椳	wei
+楲	wei
+榅	wen
+榅	wen	9
 榅桲	wen po	2
 榅桲属	wen po shu	100
 榅桲果	wen po guo	100
 榅桲果酱	wen po guo jiang	100
 榅桲树	wen po shu	100
+榲	wen
+欈	wei
+歾	wen
+殟	wen
+汶	wen
+汶	wen	8380
 汶上县	wen shang xian	1430
 汶上县人民医院	wen shang xian ren min yi yuan	1
 汶南镇	wen nan zhen	191
@@ -7191,12 +7424,25 @@ sort: by_weight
 汶河	wen he	2
 汶阳	wen yang	16
 汶阳田反	wen yang tian fan	1
+沩	wei
+沩	wei	106
 沩山	wei shan	2355
 沩山毛尖	wei shan mao jian	116
+洈	wei
+洈	wei	1
 洈水镇	wei shui zhen	100
+洧	wei
+洧	wei	122
 洧川镇	wei chuan zhen	108
+浘	wei
+涠	wei
+涠	wei	57
 涠洲岛	wei zhou dao	6495
 涠洲镇	wei zhou zhen	27
+渂	wen
+渨	wei
+温	wen
+温	wen	447521
 温一中	wen yi zhong	100
 温一温	wen yi wen	106
 温世霖	wen shi lin	7
@@ -7866,6 +8112,8 @@ sort: by_weight
 温馨花园	wen xin hua yuan	42
 温馨鸟	wen xin niao	1
 温驯	wen xun	7190
+渭	wei
+渭	wei	5648
 渭丰乡	wei feng xiang	7
 渭北	wei bei	3340
 渭北春天树	wei bei chun tian shu	3
@@ -7916,8 +8164,17 @@ sort: by_weight
 渭阳之谊	wei yang zhi yi	100
 渭阳西路	wei yang xi lu	99
 渭阳路	wei yang lu	31
+湋	wei
+溈	wei
+溦	wei
+溦	wei	647
+溫	wen
+滃	weng
+滃	weng	9
 滃江	weng jiang	2
 滃滃澹澹	weng weng dan dan	100
+潍	wei
+潍	wei	792
 潍县萝卜	wei xian luo bo	100
 潍坊	wei fang	81530
 潍坊传媒网	wei fang chuan mei wang	100
@@ -7945,6 +8202,22 @@ sort: by_weight
 潍河	wei he	51
 潍莱高铁	wei lai gao tie	100
 潍高路	wei gao lu	125
+潙	wei
+潿	wei
+濰	wei
+濻	wei
+瀢	wei
+炆	wen
+炆	wen	623
+炜	wei
+炜	wei	10301
+為	wei
+烓	wei
+煒	wei
+煟	wei
+煟	wei	5
+煨	wei
+煨	wei	1424
 煨干就湿	wei gan jiu shi	100
 煨干避湿	wei gan bi shi	100
 煨烂	wei lan	689
@@ -7960,6 +8233,14 @@ sort: by_weight
 煨豆腐	wei dou fu	43
 煨鱿鱼	wei you yu	19
 煨鸡汤	wei ji tang	121
+熭	wei
+燰	wei
+爲	wei
+犚	wei
+犩	wei
+猚	wei
+猥	wei
+猥	wei	8898
 猥亵	wei xie	16285
 猥亵妇女	wei xie fu nv	815
 猥亵学生	wei xie xue sheng	100
@@ -7976,9 +8257,25 @@ sort: by_weight
 猥琐鹤	wei suo he	98
 猥结蚊聚	wei jie wen ju	1
 猥辞	wei ci	1
+猬	wei
+猬	wei	5025
 猬实属	wei shi shu	100
 猬结蚁聚	wei jie yi ju	100
 猬集	wei ji	235
+玟	wen
+玟	wen	7088
+玮	wei
+玮	wei	10284
+珳	wen
+琟	wei
+琟	wei	2
+瑋	wei
+瑥	wen
+璺	wen
+璺	wen	446
+瓗	wei
+瓮	weng
+瓮	weng	6733
 瓮中	weng zhong	1280
 瓮中之鳖	weng zhong zhi bie	1145
 瓮中捉鳖	weng zhong zhuo bie	985
@@ -7998,6 +8295,9 @@ sort: by_weight
 瓮牖绳枢之子	weng you sheng shu zhi zi	2
 瓮里捉鳖	weng li zhuo bie	100
 瓮里醯鸡	weng li xi ji	100
+甕	weng
+畏	wei
+畏	wei	70481
 畏之如虎	wei zhi ru hu	300
 畏光	wei guang	2550
 畏光性	wei guang xing	100
@@ -8046,8 +8346,14 @@ sort: by_weight
 畏难情绪	wei nan qing xu	7025
 畏难苟安	wei nan gou an	100
 畏首畏尾	wei shou wei wei	3680
+痏	wei
+痿	wei
+痿	wei	2501
 痿不忘起	wei bu wang qi	1
 痿躄	wei bi	1
+瘒	wen
+瘟	wen
+瘟	wen	11924
 瘟到死	wen dao si	10
 瘟头瘟脑	wen tou wen nao	100
 瘟猪	wen zhu	16
@@ -8065,6 +8371,20 @@ sort: by_weight
 瘟病	wen bing	1550
 瘟神	wen shen	5330
 瘟鸡	wen ji	118
+癐	wei
+癓	wei
+瞆	wei
+瞈	weng
+矀	wei
+硊	wei
+硙	wei
+硙	wei	2
+碨	wei
+碨	wei	22
+磈	wei
+磑	wei
+稳	wen
+稳	wen	203430
 稳一稳	wen yi wen	1262
 稳三农	wen san nong	100
 稳不	wen bu	2
@@ -8330,8 +8650,23 @@ sort: by_weight
 稳重风格	wen zhong feng ge	100
 稳降	wen jiang	369
 稳驾慢行	wen jia man xing	156
+穏	wen
+穩	wen
+紊	wen
+紊	wen	9236
 紊乱	wen luan	63905
 紊乱的	wen luan de	6990
+紋	wen
+絻	wen
+維	wei
+緭	wei
+緯	wei
+緼	wen
+縅	wei
+縕	wen
+繧	wen
+纬	wei
+纬	wei	7715
 纬一路	wei yi lu	767
 纬七路	wei qi lu	488
 纬三路	wei san lu	638
@@ -8362,6 +8697,8 @@ sort: by_weight
 纬编	wei bian	2475
 纬编机	wei bian ji	65
 纬谶	wei chen	2
+纹	wen
+纹	wen	84809
 纹丝	wen si	1670
 纹丝不动	wen si bu dong	8650
 纹丝儿	wen si er	100
@@ -8437,6 +8774,8 @@ sort: by_weight
 纹顶鹟莺	wen ding weng ying	1
 纹风不动	wen feng bu dong	540
 纹饰	wen shi	25775
+维	wei
+维	wei	369458
 维万死不能相报	wei wan si bu neng xiang bao	100
 维东酒店	wei dong jiu dian	2705
 维中	wei zhong	1265
@@ -8979,6 +9318,11 @@ sort: by_weight
 维那犬	wei na quan	6
 维酶素	wei mei su	15
 维黛儿	wei dai er	100
+缊	wen
+罋	weng
+罻	wei
+翁	weng
+翁	weng	48774
 翁丽丽	weng li li	6
 翁仲	weng zhong	1255
 翁俊明	weng jun ming	17
@@ -9031,6 +9375,11 @@ sort: by_weight
 翁虹	weng hong	5160
 翁达	weng da	16
 翁达镇	weng da zhen	8
+聞	wen
+聬	weng
+肳	wen
+胃	wei
+胃	wei	253113
 胃上	wei shang	1030
 胃下垂	wei xia chui	3285
 胃不舒服	wei bu shu fu	1035
@@ -9209,6 +9558,15 @@ sort: by_weight
 胃食道逆流	wei shi dao ni liu	100
 胃鳞虫	wei lin chong	1
 胃黏膜	wei nian mo	7050
+脗	wen
+腲	wei
+艉	wei
+艉	wei	333
+芛	wei
+芠	wen
+芠	wen	17349
+苇	wei
+苇	wei	16237
 苇下口鲶	wei xia kou nian	1
 苇丛	wei cong	635
 苇叶	wei ye	3
@@ -9241,6 +9599,12 @@ sort: by_weight
 苇鳽属	wei jian shu	1
 苇鸻	wei heng	1
 苇鹀	wei wu	6
+苿	wei
+荱	wei
+莬	wen
+菋	wei
+萎	wei
+萎	wei	17426
 萎了	wei le	6666
 萎缩	wei suo	91115
 萎缩婴儿	wei suo ying er	143
@@ -9261,13 +9625,23 @@ sort: by_weight
 萎靡不振	wei mi bu zhen	6630
 萎黄	wei huang	4265
 萎黄病	wei huang bing	100
+葦	wei
+葨	wei
+葳	wei
+葳	wei	2548
 葳蕤	wei rui	2555
 葳蕤繁祉	wei rui fan zhi	100
 葳蕤自生光	wei rui zi sheng guang	1
+蒍	wei
+蓊	weng
+蓊	weng	394
 蓊勃	weng bo	20
 蓊蓊郁郁	weng weng yu yu	465
 蓊蔚洇润	weng wei yin run	100
 蓊郁	weng yu	2045
+蓶	wei
+蔚	wei
+蔚	wei	20152
 蔚为壮观	wei wei zhuang guan	10225
 蔚为大观	wei wei da guan	2145
 蔚为奇观	wei wei qi guan	1815
@@ -9301,8 +9675,15 @@ sort: by_weight
 蔚蓝追风鸟	wei lan zhui feng niao	72
 蔚蓝锂芯	wei lan li xin	127
 蔚逐虎蛾	wei zhu hu e	1
+蔿	wei
+蕰	wen
+蕰	wen	9
 蕰草	wen cao	1
+蕹	weng
+蕹	weng	40
 蕹菜	weng cai	9999
+薇	wei
+薇	wei	104428
 薇丽塔	wei li ta	118
 薇克巴顿	wei ke ba dun	100
 薇古丝	wei gu si	100
@@ -9317,6 +9698,13 @@ sort: by_weight
 薇菜	wei cai	1305
 薇薇	wei wei	19380
 薇薇安娜	wei wei an na	129
+薳	wei
+薳	wei	2
+藯	wei
+蘶	wei
+蚉	wen
+蚊	wen
+蚊	wen	23018
 蚊不叮	wen bu ding	980
 蚊力负山	wen li fu shan	100
 蚊动牛斗	wen dong niu dou	100
@@ -9355,13 +9743,36 @@ sort: by_weight
 蚊香蛙	wen xiang wa	100
 蚊香蛙皇	wen xiang wa huang	100
 蚊香蝌蚪	wen xiang ke dou	100
+蜲	wei
+蜼	wei
+蝛	wei
+蝟	wei
+螉	weng
+螡	wen
+螱	wei
+螱	wei	1
 螱蠊科	wei lian ke	1
+蟁	wen
+衛	wei
+衞	wei
+褽	wei
+覣	wei
+覹	wei
+詴	wei
+諉	wei
+謂	wei
+讆	wei
+讏	wei
+诿	wei
+诿	wei	1417
 诿卸	wei xie	1
 诿罪	wei zui	55
 诿罪于人	wei zui yu ren	100
 诿责	wei ze	2
 诿过	wei guo	2
 诿过于人	wei guo yu ren	100
+谓	wei
+谓	wei	235703
 谓之	wei zhi	92455
 谓之义之徒	wei zhi yi zhi tu	1
 谓之亡国	wei zhi wang guo	100
@@ -9382,7 +9793,19 @@ sort: by_weight
 谓词逻辑	wei ci luo ji	107
 谓语	wei yu	14050
 谓语动词	wei yu dong ci	7565
+豱	wen
+踓	wei
+躗	wei
+躛	wei
+軎	wei
+輼	wen
+轀	wen
+轊	wei
+辒	wen
+辒	wen	62
 辒辌	wen liang	1
+违	wei
+违	wei	83636
 违不违法	wei bu wei fa	100
 违不违法吗	wei bu wei fa ma	100
 违不违法吧	wei bu wei fa ba	100
@@ -9646,15 +10069,35 @@ sort: by_weight
 违误	wei wu	190
 违贰	wei er	4
 违逆	wei ni	2900
+逶	wei
+逶	wei	1163
 逶迤	wei yi	1107
 逶迤傍隈隩	wei yi bang wei ao	1
 逶迤过千城	wei yi guo qian cheng	1
 逶迤退食	wei yi tui shi	1
+違	wei
+遗	wei
+遗	wei	1
 遗之千金	wei zhi qian jin	100
 遗大投艰	wei da tou jian	100
 遗艰投大	wei jian tou da	100
 遗赠	wei zeng	3
 遗送	wei song	2
+遺	wei
+鄬	wei
+醀	wei
+鍏	wei
+鍡	wei
+鎓	weng
+鎾	wen
+鏏	wei
+閺	wen
+閿	wen
+闅	wen
+闈	wei
+闦	wen
+问	wen
+问	wen	2899681
 问一下	wen yi xia	53760
 问一个	wen yi ge	12905
 问一些	wen yi xie	64
@@ -10083,7 +10526,11 @@ sort: by_weight
 问鼎巅峰	wen ding dian feng	195
 问鼎江湖	wen ding jiang hu	100
 问鼎轻重	wen ding qing zhong	100
+闱	wei
+闱	wei	1805
 闱墨	wei mo	90
+闻	wen
+闻	wen	394529
 闻一下	wen yi xia	65
 闻一多	wen yi duo	7685
 闻一知二	wen yi zhi er	100
@@ -10247,10 +10694,30 @@ sort: by_weight
 闻香榭	wen xiang xie	132
 闻香识女人	wen xiang shi nv ren	100
 闻鸡起舞	wen ji qi wu	2020
+阌	wen
+阌	wen	91
+隇	wei
+隈	wei
+隈	wei	152
 隈研吾	wei yan wu	100
+隗	wei
+隗	wei	4223
 隗姓	wei xing	1
+隹	wei
+雯	wen
+雯	wen	57561
 雯雅婷	wen ya ting	100
 雯雯	wen wen	1218
+霨	wei
+霨	wei	78
+霺	wei
+鞰	wen
+韋	wei
+韑	wei
+韙	wei
+韡	wei
+韦	wei
+韦	wei	77085
 韦东奕	wei dong yi	150
 韦乐平	wei le ping	100
 韦伦克列比塘鳢	wei lun ke lie bi tang li	1
@@ -10384,6 +10851,23 @@ sort: by_weight
 韦驮天	wei tuo tian	186
 韦驮菩萨	wei tuo pu sa	100
 韦鲁斯	wei lu si	100
+韪	wei
+韪	wei	1315
+韫	wen
+頠	wei
+顐	wen
+颹	wei
+餧	wei
+餵	wei
+饂	wen
+饖	wei
+馼	wen
+駇	wen
+骩	wei
+骪	wei
+骫	wei
+魏	wei
+魏	wei	120376
 魏不能信用	wei bu neng xin yong	1
 魏东亭	wei dong ting	123
 魏东凌	wei dong ling	187
@@ -10547,18 +11031,225 @@ sort: by_weight
 魏风	wei feng	64
 魏鹊无枝	wei que wu zhi	1
 魏鹤龄	wei he ling	3
+魰	wen
+鮇	wei
+鮠	wei
+鮪	wei
+鰃	wei
+鰄	wei
+鰛	wen
+鰮	wen
+鲔	wei
+鲔	wei	488
 鲔鱼	wei yu	9
 鲔鱼三明治	wei yu san ming zhi	157
 鲔鱼肚	wei yu du	100
+鳁	wen
+鳁	wen	2
 鳁鲸	wen jing	120
+鳂	wei
+鳂	wei	8
+鳚	wei
+鳚	wei	7
 鳚亚目	wei ya mu	100
 鳚形目	wei xing mu	100
+鳼	wen
+鴍	wen
+鶲	weng
+鹟	weng
+鹟	weng	32
 鹟䴕科	weng lie ke	3
 鹟亚科	weng ya ke	1
 鹟科	weng ke	48
 鹟鵙	weng ju	1
+鼤	wen
+齆	weng
 齆声齆气	weng sheng weng qi	9999
 齆鼻儿	weng bi er	9999
+𠄿	wei
+𠆟	wei
+𠐢	wen
+𠙕	wei
+𠥎	wei
+𠯳	wen
+𠰈	weng
+𠳿	wei
+𠹤	wei
+𡁋	wen
+𡂗	wei
+𡇦	wei
+𡍻	weng
+𡔱	wei
+𡚈	wei
+𡩥	weng
+𡶎	wei
+𡷕	wei
+𡻐	weng
+𡼱	wei
+𢉝	wei
+𢊯	wei
+𢍚	wei
+𢣘	wei
+𢯷	wei
+𢲴	wei
+𢸦	wei
+𢼸	wei
+𢾁	wei
+𢾿	wen
+𣄧	wei
+𣄺	wei
+𣈎	wei
+𣍟	wei
+𣜺	wen
+𣨙	wei
+𣩪	wei
+𣫪	wei
+𣲗	wei
+𣲗	wei	1
+𣶌	wen
+𣽴	wei
+𤀷	wei
+𤁿	wei
+𤌏	weng
+𤛁	wen
+𤛲	wei
+𤜂	wei
+𤡕	wen
+𤡪	wei
+𤵒	wen
+𤸆	wei
+𤺉	wei
+𤻅	wei
+𤼒	wei
+𥁕	wen
+𥃮	wen
+𥅵	wei
+𥉖	wei
+𥊪	wei
+𥌰	wei
+𥒮	wei
+𥕀	weng
+𥦊	wen
+𥧙	wei
+𥧚	wen
+𥬼	wen
+𥯜	wei
+𥯤	wei
+𥶽	wei
+𥿫	wei
+𦇅	wei
+𦓽	wei
+𦖞	wen
+𦝛	wei
+𦝮	wen
+𦞡	weng
+𦞽	wei
+𦟕	wen
+𦠻	wei
+𦢿	wei
+𦦯	wen
+𦧅	weng
+𦩏	wei
+𦩝	wei
+𦩬	wei
+𦪒	wei
+𦮶	wen
+𦳢	wei
+𦾛	wei
+𧄸	wei
+𧍥	wei
+𧍫	wei
+𧐌	wei
+𧔥	wei
+𧕞	wei
+𧖁	wen
+𧚇	wen
+𧚐	weng
+𧚷	wei
+𧛚	wei
+𧛹	weng
+𧝕	wei
+𧞸	wei
+𧟼	wei
+𧢒	wei
+𧢧	wei
+𧤖	wei
+𧲄	wei
+𧲗	wei
+𧲝	wei
+𧳞	wei
+𧳪	wei
+𧴖	wei
+𧸽	wei
+𨃄	wei
+𨆲	wen
+𨖿	wei
+𨗨	wei
+𨚘	wei
+𨜵	wen
+𨜺	weng
+𨝀	wei
+𨞑	weng
+𨟗	wei
+𨟸	wen
+𨠥	wei
+𨢉	wei
+𨪈	wei
+𨴓	wei
+𨵋	wei
+𨶭	wen
+𨸔	wei
+𨸩	wen
+𨻒	wei
+𨾂	wei
+𨿭	wei
+𩀣	wei
+𩀶	wei
+𩁌	wei
+𩄘	weng
+𩆁	wei
+𩋾	wei
+𩎵	wei
+𩏉	wei
+𩏏	wei
+𩏐	wei
+𩑵	wei
+𩔚	weng
+𩗘	wei
+𩗜	wei
+𩜧	wei
+𩟟	wei
+𩠯	wei
+𩡓	weng
+𩢌	wen
+𩤸	wei
+𩥈	wen
+𩭋	wen
+𩮬	weng
+𩰎	weng
+𩲂	wei
+𩲄	wei
+𩲈	wei
+𩴞	wei
+𩵠	wei
+𩹂	wei
+𩹥	wei
+𩹷	wei
+𩼂	wei
+𩼌	wei
+𩽎	wei
+𪂄	wei
+𪉸	wen
+𪑐	wei
+𪑭	wei
+𫇭	wei	1
+𫘜	wen	1
+𬀩	wei	1
+𬭩	weng	16
 𬭩盐	weng yan	2
 𬭩离子	weng li zi	100
+𬭬	wei	1
+𬱟	wei	1
+𬶏	wei	9
 𬶏鱼	wei yu	41
+𮧵	wei

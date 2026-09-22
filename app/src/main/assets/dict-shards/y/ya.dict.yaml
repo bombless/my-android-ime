@@ -3,6 +3,178 @@ name: merged.ya
 version: "1.0"
 sort: by_weight
 ...
+㑸	yao
+㑾	yao
+㒆	yan
+㓞	yao
+㓧	yan
+㔦	yang
+㔽	yao
+㕣	yan
+㗇	ya
+㗴	yan
+㘖	yan
+㘙	yan
+㙘	yao	1
+㚧	yan
+㛪	yan
+㝔	yao
+㝞	ya
+㝦	ya
+㞁	yao
+㟅	yang
+㟱	yao
+㡉	yan
+㢂	yan
+㢓	yao
+㢛	yan
+㤉	ya
+㤊	yao
+㤿	yan
+㦔	yan
+㦹	yang
+㧎	ya
+㨱	yao
+㨾	yang
+㫃	yan
+㫏	yao
+㫐	yao
+㫟	yan
+㬕	yang
+㬫	yan
+㬭	yao
+㭺	yan
+㮁	yao
+㮞	ya
+㰳	ya
+㰽	yan
+㱌	yan
+㱘	yan
+㳂	yan
+㴭	yao
+㵸	yao
+㶄	yan
+㷔	yan
+㷳	yan
+㷼	yan
+㺂	yan
+㺊	yang
+㺒	yao
+㺗	yan
+㼤	ya
+㿑	yao
+㿕	yan
+㿢	yao
+㿮	yang
+㿼	yan
+㿿	ya
+䀋	yan
+䀽	yan
+䁏	yao
+䁑	yang
+䁘	yao
+䁙	yan
+䂒	ya
+䂚	yao
+䂩	yan
+䂴	yan
+䃁	ya
+䄋	yan
+䄏	yao
+䄰	ya
+䅉	ya
+䅧	yan
+䅬	yan
+䆘	ya
+䆙	yao
+䆞	yao
+䇦	yang
+䇾	yan
+䉰	yao
+䉷	yan
+䊙	yan
+䊦	ya
+䊻	yan
+䋂	yao
+䋤	yao
+䌊	yao
+䌛	yao
+䌠	yan
+䌪	yan
+䍃	yao
+䍓	ya
+䍩	yang
+䍾	yan
+䎦	yan
+䑆	yang
+䑍	yan
+䑬	yao
+䒁	ya
+䒋	yang
+䒒	yao
+䓂	yan
+䔄	yao
+䕾	yan
+䖌	ya
+䖗	yan
+䖴	yao
+䖹	yang
+䗡	yan
+䗺	yan
+䘶	yan
+䙅	yao
+䚆	yao
+䚺	yao
+䚻	yao
+䛳	yan
+䜩	yan
+䝟	ya
+䞁	yan
+䞁	yang
+䠛	yao
+䢝	ya
+䢣	yao
+䢥	yan
+䢭	yan
+䣍	yan
+䤷	yan
+䦧	yan
+䦪	ya
+䦲	yan
+䧅	ya
+䨄	yan
+䨙	ya
+䪵	ya
+䫖	ya
+䫡	yan
+䬗	yang
+䬙	yao
+䬬	yang
+䬺	yang
+䭐	yang
+䭘	yan
+䭥	yang
+䭥	yao
+䮗	yan
+䯉	ya
+䯚	yao
+䰲	ya
+䱀	yang
+䱲	yan
+䲓	yan
+䳛	yan
+䳬	yao
+䳺	yan
+䴏	yan
+䴠	yao
+䵝	ya
+䵮	yang
+䶧	yao
+䶫	yan
+䶮	yan
+䶮	yan	8
+严	yan
+严	yan	480979
 严一点	yan yi dian	12
 严不严重	yan bu yan zhong	520
 严不严重吗	yan bu yan zhong ma	100
@@ -790,6 +962,8 @@ sort: by_weight
 严颜	yan yan	20
 严颢	yan hao	3
 严饬	yan chi	300
+丫	ya
+丫	ya	183167
 丫丫	ya ya	28210
 丫丫叉叉	ya ya cha cha	6
 丫他镇	ya ta zhen	3
@@ -809,7 +983,13 @@ sort: by_weight
 丫角山	ya jiao shan	4
 丫髻	ya ji	590
 丫髻山	ya ji shan	100
+么	yao
+么	yao	0
+乐	yao
 乐山乐水	yao shan yao shui	425
+乵	yan
+亚	ya
+亚	ya	502177
 亚丁	ya ding	1
 亚丁乡	ya ding xiang	2
 亚丁人	ya ding ren	100
@@ -1414,6 +1594,10 @@ sort: by_weight
 亚龙	ya long	212
 亚龙乡	ya long xiang	15
 亚龙湾	ya long wan	28660
+亜	ya
+亞	ya
+仰	yang
+仰	yang	159568
 仰不愧天	yang bu kui tian	32
 仰不足以事父母	yang bu zu yi shi fu mu	1
 仰世而来	yang shi er lai	158
@@ -1529,8 +1713,14 @@ sort: by_weight
 仰高	yang gao	615
 仰高钻坚	yang gao zuan jian	100
 仰鼻艾鰕虎鱼	yang bi ai xia hu yu	1
+仸	yao
+伢	ya
+伢	ya	2531
 伢子	ya zi	8
 伢崽	ya zai	110
+佒	yang
+佯	yang
+佯	yang	10873
 佯作	yang zuo	1570
 佯动	yang dong	710
 佯嗔	yang chen	85
@@ -1549,6 +1739,10 @@ sort: by_weight
 佯轮诈败	yang lun zha bai	1
 佯输诈败	yang shu zha bai	12
 佯风诈冒	yang feng zha mao	1
+侥	yao
+侥	yao	1
+俨	yan
+俨	yan	12202
 俨乎其然	yan hu qi ran	1
 俨如	yan ru	2755
 俨如一个	yan ru yi ge	100
@@ -1559,6 +1753,10 @@ sort: by_weight
 俨然是	yan ran shi	6470
 俨若	yan ruo	705
 俨骖𬴂于上路	yan can fei yu shang lu	100
+俹	ya
+倄	yao
+偃	yan
+偃	yan	4730
 偃仰	yan yang	640
 偃兵修文	yan bing xiu wen	1
 偃兵息甲	yan bing xi jia	100
@@ -1592,6 +1790,15 @@ sort: by_weight
 偃革倒戈	yan ge dao ge	1
 偃革尚文	yan ge shang wen	1
 偃鼠饮河	yan shu yin he	15
+偐	yan
+偠	yao
+傜	yao
+傟	yang
+傿	yan
+僥	yao
+儼	yan
+兖	yan
+兖	yan	3094
 兖州	yan zhou	2
 兖州区	yan zhou qu	2000
 兖州县	yan zhou xian	100
@@ -1599,6 +1806,9 @@ sort: by_weight
 兖州府	yan zhou fu	100
 兖州路	yan zhou lu	159
 兖石铁路	yan shi tie lu	370
+兗	yan
+养	yang
+养	yang	1019753
 养一养	yang yi yang	123
 养一方人	yang yi fang ren	2045
 养下来	yang xia lai	845
@@ -2057,6 +2267,21 @@ sort: by_weight
 养鹿	yang lu	1275
 养鹿场	yang lu chang	695
 养龟	yang gui	1270
+冴	ya
+剡	yan
+剡	yan	1
+剦	yan
+劜	ya
+劷	yang
+勜	yang
+匋	yao
+匽	yan
+卬	yang
+卬	yang	1
+厃	yan
+厊	ya
+压	ya
+压	ya	427672
 压一压	ya yi ya	1465
 压上	ya shang	9800
 压上了	ya shang le	100
@@ -2504,6 +2729,8 @@ sort: by_weight
 压顶	ya ding	2630
 压顶而来	ya ding er lai	100
 压题	ya ti	1260
+厌	yan
+厌	yan	148169
 厌世	yan shi	4485
 厌世主义	yan shi zhu yi	65
 厌世者	yan shi zhe	250
@@ -2557,7 +2784,16 @@ sort: by_weight
 厌食	yan shi	15095
 厌食症	yan shi zheng	5065
 厌食的	yan shi de	675
+厑	ya
+厓	ya
+厣	yan
+厣	yan	332
 厣盖	yan gai	8
+厭	yan
+厳	yan
+厴	yan
+吆	yao
+吆	yao	14326
 吆三喝四	yao san he si	100
 吆五喝六	yao wu he liu	755
 吆吆喝喝	yao yao he he	215
@@ -2569,7 +2805,11 @@ sort: by_weight
 吆喝吆喝	yao he yao he	100
 吆喝声	yao he sheng	3610
 吆喝着	yao he zhe	4345
+吖	ya
+吖	ya	160000
 吖吖吖	ya ya ya	2
+呀	ya
+呀	ya	673765
 呀呀	ya ya	14065
 呀呀个呸	ya ya ge pei	100
 呀呀个呸呀	ya ya ge pei ya	100
@@ -2578,7 +2818,11 @@ sort: by_weight
 呀呀学语	ya ya xue yu	100
 呀啊	ya a	3333
 呀啦嗦	ya la suo	100
+咉	yang
+咉	yang	19
 咉咽	yang ye	1
+咬	yao
+咬	yao	214227
 咬一下	yao yi xia	64
 咬一口	yao yi kou	6945
 咬一咬	yao yi yao	1111
@@ -2714,6 +2958,8 @@ sort: by_weight
 咬鹃目	yao juan mu	11
 咬鹃翠叶红颈凤蝶	yao juan cui ye hong jing feng die	1
 咬齿牡蛎	yao chi mu li	1
+咽	yan
+咽	yan	90794
 咽一咽	yan yi yan	214
 咽下	yan xia	14705
 咽下去	yan xia qu	3370
@@ -2773,6 +3019,8 @@ sort: by_weight
 咽鼓管	yan gu guan	2600
 咽鼓管咽口	yan gu guan yan kou	20
 咽齿	yan chi	5
+哑	ya
+哑	ya	65950
 哑了	ya le	3333
 哑了火	ya le huo	100
 哑光	ya guang	3333
@@ -2831,15 +3079,56 @@ sort: by_weight
 哑门	ya men	295
 哑门穴	ya men xue	3
 哑霸鹟	ya ba weng	1
+唁	yan
+唁	yan	1383
 唁函	yan han	330
 唁电	yan dian	2090
+唌	yan
+唖	ya
+啞	ya
+啱	yan
+喓	yao
+喦	yan
+喭	yan
+嗂	yao
+噞	yan
+嚈	yan
+嚥	yan
+嚴	yan
+囐	yan
+圔	ya
+圠	ya
+圧	ya
+坱	yang
+垚	yao
+垚	yao	70
+垟	yang
+垟	yang	42
 垟儿路	yang er lu	26
 垟儿路口	yang er lu kou	14
+垭	ya
+垭	ya	662
 垭口	ya kou	514
+埏	yan
+埏	yan	1
+埡	ya
+堐	ya
+堐	ya	6
+堯	yao
+堰	yan
+堰	yan	2783
 堰塘	yan tang	552
 堰塞湖	yan se hu	2330
 堰头村	yan tou cun	32
 堰湖山庄	yan hu shan zhuang	131
+塩	yan
+墕	yan
+墕	yan	1
+壓	ya
+壛	yan
+壧	yan
+夭	yao
+夭	yao	25128
 夭亡	yao wang	235
 夭夭	yao yao	15225
 夭寿	yao shou	1
@@ -2852,6 +3141,8 @@ sort: by_weight
 夭矫转空碧	yao jiao zhuan kong bi	1
 夭逝	yao shi	185
 夭阏	yao e	2
+央	yang
+央	yang	146296
 央中	yang zhong	2
 央产房	yang chan fang	1640
 央人	yang ren	705
@@ -2944,6 +3235,9 @@ sort: by_weight
 央金	yang jin	1175
 央金拉姆	yang jin la mu	100
 央隆乡	yang long xiang	13
+夵	yan
+奄	yan
+奄	yan	13947
 奄奄	yan yan	965
 奄奄一息	yan yan yi xi	17150
 奄奄不振	yan yan bu zhen	100
@@ -2959,6 +3253,8 @@ sort: by_weight
 奄有天下	yan you tian xia	100
 奄然	yan ran	385
 奄然而逝	yan ran er shi	100
+妍	yan
+妍	yan	45256
 妍儿	yan er	2
 妍妍	yan yan	4105
 妍媸	yan chi	610
@@ -2968,6 +3264,8 @@ sort: by_weight
 妍皮痴骨	yan pi chi gu	1
 妍皮裹痴骨	yan pi guo chi gu	100
 妍蚩好恶	yan chi hao e	100
+妖	yao
+妖	yao	278201
 妖不胜德	yao bu sheng de	7
 妖丹	yao dan	111
 妖为鬼蜮必成灾	yao wei gui yu bi cheng zai	3
@@ -3079,6 +3377,10 @@ sort: by_weight
 妖魔部落	yao mo bu luo	1
 妖魔鬼怪	yao mo gui guai	6980
 妖龙	yao long	1160
+妟	yan
+姎	yang
+姚	yao
+姚	yao	81369
 姚一苇	yao yi wei	11
 姚中仁	yao zhong ren	153
 姚中英	yao zhong ying	18
@@ -3214,6 +3516,20 @@ sort: by_weight
 姚黄魏品	yao huang wei pin	1
 姚黄魏紫	yao huang wei zi	100
 姚鼐	yao nai	5
+姲	yan
+姶	ya
+姸	yan
+娅	ya
+娅	ya	55108
+娫	yan
+娮	yan
+婭	ya
+婸	yang
+婹	yao
+媱	yao
+媱	yao	1
+嫣	yan
+嫣	yan	53722
 嫣儿	yan er	2
 嫣朵拉	yan duo la	100
 嫣然	yan ran	23845
@@ -3224,6 +3540,16 @@ sort: by_weight
 嫣红	yan hong	8680
 嫣红姹紫	yan hong cha zi	100
 嫣语赋	yan yu fu	100
+嬊	yan
+嬐	yan
+嬮	yan
+嬿	yan
+嬿	yan	19
+孍	yan
+孲	ya
+宎	yao
+宴	yan
+宴	yan	69541
 宴会	yan hui	69835
 宴会上	yan hui shang	9645
 宴会厅	yan hui ting	26930
@@ -3245,6 +3571,8 @@ sort: by_weight
 宴铭园	yan ming yuan	1
 宴陶家亭子	yan tao jia ting zi	1
 宴饮	yan yin	3515
+尧	yao
+尧	yao	17147
 尧之为君也	yao zhi wei jun ye	1
 尧典桥路	yao dian qiao lu	106
 尧化新村	yao hua xin cun	22
@@ -3275,6 +3603,13 @@ sort: by_weight
 尧都区	yao du qu	2570
 尧阳	yao yang	4
 尧雨舜风	yao yu shun feng	1
+尭	yao
+岆	yao
+岈	ya
+岈	ya	625
+岟	yang
+岩	yan
+岩	yan	102961
 岩上无心云相逐	yan shang wu xin yun xiang zhu	1
 岩上茶室	yan shang cha shi	100
 岩下云方合	yan xia yun fang he	1
@@ -3420,7 +3755,12 @@ sort: by_weight
 岩鹿乳康胶囊	yan lu ru kang jiao nang	1
 岩黄毒蛾	yan huang du e	1
 岩黄连	yan huang lian	4
+峣	yao
+峣	yao	74
 峣峣易缺	yao yao yi que	1
+崕	ya
+崖	ya
+崖	ya	63804
 崖上	ya shang	6785
 崖上的波妞	ya shang de bo niu	100
 崖倾路何难	ya qing lu he nan	2
@@ -3449,9 +3789,28 @@ sort: by_weight
 崖谷	ya gu	36
 崖边	ya bian	4795
 崖顶	ya ding	1280
+崦	yan
+崦	yan	177
 崦嵫	yan zi	2
 崦嵫山	yan zi shan	1
+崵	yang
+崸	yang
+崾	yao
+崾	yao	106
 崾崄乡	yao xian xiang	1
+嵃	yan
+嵒	yan
+嵓	yan
+嶖	yan
+嶢	yao
+嶤	yao
+巌	yan
+巖	yan
+巗	yan
+巘	yan
+巚	yan
+幺	yao
+幺	yao	17926
 幺三八	yao san ba	100
 幺九振切	yao jiu zhen qie	100
 幺九牌	yao jiu pai	100
@@ -3482,6 +3841,10 @@ sort: by_weight
 幺鸡	yao ji	4165
 幺麽	yao mo	1
 幺麽小丑	yao mo xiao chou	100
+庌	ya
+庘	ya
+延	yan
+延	yan	148658
 延一下	yan yi xia	98
 延一延	yan yi yan	116
 延不延	yan bu yan	100
@@ -3825,29 +4188,60 @@ sort: by_weight
 延髓麻痹	yan sui ma bi	11
 延龄	yan ling	3080
 延龄巷	yan ling xiang	60
+弇	yan
+弇	yan	89
 弇陋	yan lou	1
+彥	yan
+彦	yan
+彦	yan	44325
 彦张村	yan zhang cun	3
 彦彪	yan biao	115
 彦彬	yan bin	865
 彦明	yan ming	1520
 彦祖	yan zu	9999
 彦祖们	yan zu men	100
+徉	yang
+徉	yang	2314
+徭	yao
+徭	yao	1157
 徭役	yao yi	5010
 徭役令	yao yi ling	3
 徭役地租	yao yi di zu	100
+徺	yao
+怏	yang
+怏	yang	6323
 怏怏	yang yang	3
 怏怏不乐	yang yang bu le	815
 怏怏不平	yang yang bu ping	5
 怏怏不快	yang yang bu kuai	100
 怏怏不悦	yang yang bu yue	100
 怏然	yang ran	270
+怮	yao
+恌	yao
+恙	yang
+恙	yang	11433
 恙虫	yang chong	625
 恙虫病	yang chong bing	137
 恙螨	yang man	474
 恙螨皮炎	yang man pi yan	1
+恹	yan
+恹	yan	3306
 恹恹	yan yan	2505
 恹恹缩缩	yan yan suo suo	100
+愓	yang
+愝	yan
+愮	yao
+慃	yang
+懕	yan
+懨	yan
+懩	yang
+戭	yan
+戭	yan	1
+扊	yan
+扊	yan	4
 扊扅	yan yi	1
+扬	yang
+扬	yang	383219
 扬中	yang zhong	3
 扬中县	yang zhong xian	35
 扬中市	yang zhong shi	5240
@@ -4009,6 +4403,11 @@ sort: by_weight
 扬雄	yang xiong	2720
 扬鞭	yang bian	5180
 扬鞭跃马	yang bian yue ma	100
+抁	yan
+抭	yao
+抰	yang
+押	ya
+押	ya	53350
 押一付一	ya yi fu yi	100
 押一付三	ya yi fu san	100
 押三付三	ya san fu san	100
@@ -4086,6 +4485,13 @@ sort: by_weight
 押韵了	ya yun le	100
 押韵诗	ya yun shi	10
 押题	ya ti	7680
+拁	ya
+挜	ya
+掗	ya
+掞	yan
+掞	yan	22
+掩	yan
+掩	yan	159891
 掩上	yan shang	4280
 掩上了	yan shang le	432
 掩不住	yan bu zhu	5950
@@ -4194,7 +4600,16 @@ sort: by_weight
 掩鼻	yan bi	1555
 掩鼻偷香	yan bi tou xiang	1
 掩鼻而过	yan bi er guo	339
+揅	yan
+揚	yang
+揜	yan
+揠	ya
+揠	ya	139
 揠苗助长	ya miao zhu zhang	1460
+揺	yao
+搖	yao
+摇	yao
+摇	yao	647544
 摇一下	yao yi xia	1724
 摇一摇	yao yi yao	2880
 摇一摇广告	yao yi yao guang gao	100
@@ -4415,6 +4830,17 @@ sort: by_weight
 摇鹅毛扇	yao e mao shan	9999
 摇鹊鸲	yao que qu	1
 摇鼓	yao gu	250
+摿	yao
+撽	yao
+攁	yang
+敥	yan
+敭	yang
+旸	yang
+旸	yang	1023
+昖	yan
+昜	yang
+晏	yan
+晏	yan	11688
 晏云之	yan yun zhi	100
 晏公庙	yan gong miao	25
 晏几道	yan ji dao	100
@@ -4444,10 +4870,21 @@ sort: by_weight
 晏然	yan ran	745
 晏然自若	yan ran zi ruo	111
 晏驾	yan jia	61
+晻	yan
+暘	yang
+暚	yao
+暥	yan
+曕	yan
+曜	yao
+曜	yao	8963
 曜之阁	yao zhi ge	171
 曜星社	yao xing she	100
 曜石蓝	yao shi lan	100
 曜石蓝的	yao shi lan de	100
+曣	yan
+曮	yan
+杨	yang
+杨	yang	633480
 杨-米尔斯方程	yang mi er si fang cheng	100
 杨-米尔斯理论	yang mi er si li lun	100
 杨一	yang yi	7855
@@ -5222,6 +5659,8 @@ sort: by_weight
 杨黎锋	yang li feng	187
 杨默依	yang mo yi	160
 杨鼎新	yang ding xin	162
+杳	yao
+杳	yao	4833
 杳不可得	yao bu ke de	100
 杳不可闻	yao bu ke wen	100
 杳冥	yao ming	1595
@@ -5246,6 +5685,12 @@ sort: by_weight
 杳杳钟声晚	yao yao zhong sheng wan	1
 杳渺	yao miao	200
 杳然	yao ran	1400
+枒	ya
+枖	yao
+柍	yang
+柼	yao
+样	yang
+样	yang	969842
 样东西	yang dong xi	100
 样书	yang shu	3325
 样件	yang jian	308
@@ -5345,7 +5790,29 @@ sort: by_weight
 样貌	yang mao	6333
 样钱	yang qian	2703
 样题	yang ti	7375
+桠	ya
+桠	ya	2171
 桠枫	ya feng	55
+梴	yan
+棪	yan
+棪	yan	13
+椏	ya
+椻	ya
+椻	yan
+椼	yan
+楆	yao
+楊	yang
+楌	yan
+楧	yang
+榚	yao
+榣	yao
+様	yang
+樂	yao
+樣	yang
+樮	yan
+橪	yan
+檐	yan
+檐	yan	18211
 檐下	yan xia	7915
 檐下赐酒结仙缘	yan xia ci jiu jie xian yuan	100
 檐前	yan qian	1420
@@ -5362,6 +5829,13 @@ sort: by_weight
 檐瓦	yan wa	255
 檐角	yan jiao	1860
 檐马	yan ma	20
+檿	yan
+櫩	yan
+欕	yan
+歅	yan
+殀	yao
+殃	yang
+殃	yang	8611
 殃人货	yang ren huo	100
 殃及	yang ji	7340
 殃及无辜	yang ji wu gu	385
@@ -5371,6 +5845,9 @@ sort: by_weight
 殃国祸家	yang guo huo jia	100
 殃民	yang min	385
 殃民蠹国	yang min du guo	100
+殗	yan
+殷	yan
+殷	yan	1
 殷红	yan hong	11585
 殷红如	yan hong ru	100
 殷红的血	yan hong de xie	100
@@ -5378,6 +5855,10 @@ sort: by_weight
 殷红的血迹	yan hong de xie ji	100
 殷红的血迹	yan hong de xue ji	100
 殷红色	yan hong se	1111
+殽	yao
+氜	yang
+氧	yang
+氧	yang	14746
 氧不足	yang bu zu	31
 氧乐果	yang le guo	100
 氧乙炔	yang yi que	330
@@ -5513,11 +5994,19 @@ sort: by_weight
 氧𬭩化合物	yang weng hua he wu	101
 氧𬭩叶立德	yang weng ye li de	100
 氧𬭩离子	yang weng li zi	100
+氩	ya
+氩	ya	80
 氩元素	ya yuan su	15
 氩原子	ya yuan zi	100
 氩弧焊	ya hu han	3815
 氩弧焊机	ya hu han ji	1140
 氩气	ya qi	3945
+氬	ya
+氱	yang
+沇	yan
+沇	yan	2
+沿	yan
+沿	yan	118963
 沿丰街道	yan feng jie dao	4
 沿例	yan li	10
 沿儿	yan er	11
@@ -5630,9 +6119,13 @@ sort: by_weight
 沿门挨户	yan men ai hu	100
 沿阶草	yan jie cao	100
 沿革	yan ge	13040
+泱	yang
+泱	yang	3316
 泱泱	yang yang	59
 泱泱大国	yang yang da guo	5270
 泱泱大风	yang yang da feng	100
+洋	yang
+洋	yang	293496
 洋上村	yang shang cun	13
 洋下新村	yang xia xin cun	12
 洋下村	yang xia cun	12
@@ -5874,7 +6367,13 @@ sort: by_weight
 洋鬼子	yang gui zi	4440
 洋鱼	yang yu	385
 洋麻钩蛾	yang ma gou e	1
+洝	yan
+涯	ya
+涯	ya	68222
 涯际	ya ji	385
+淊	yan
+淹	yan
+淹	yan	91580
 淹不到	yan bu dao	120
 淹不着	yan bu zhao	65
 淹了	yan le	2240
@@ -5910,6 +6409,11 @@ sort: by_weight
 淹烂	yan lan	434
 淹留	yan liu	2200
 淹留亦何益	yan liu yi he yi	1
+渰	yan
+渰	yan	39
+渷	yan
+湮	yan
+湮	yan	6374
 湮没	yan mo	999
 湮没不彰	yan mo bu zhang	100
 湮没弗彰	yan mo fu zhang	100
@@ -5919,8 +6423,16 @@ sort: by_weight
 湮灭挂件	yan mie gua jian	100
 湮灭无闻	yan mie wu wen	100
 湮灭证据	yan mie zheng ju	100
+溎	yan
+溔	yao
+滟	yan
+滟	yan	1712
 滟滟随波千万里	yan yan sui bo qian wan li	9
 滟滪堆	yan yu dui	100
+滧	yao
+漄	ya
+演	yan
+演	yan	341366
 演一下	yan yi xia	116
 演一个	yan yi ge	1111
 演一个月戏	yan yi ge yue xi	100
@@ -6238,6 +6750,10 @@ sort: by_weight
 演都不演	yan dou bu yan	100
 演都不演了	yan dou bu yan le	100
 演配角	yan pei jue	100
+漹	yan
+漹	yan	1
+漾	yang
+漾	yang	20836
 漾奶	yang nai	1
 漾开	yang kai	8
 漾漾	yang yang	2
@@ -6247,8 +6763,18 @@ sort: by_weight
 漾濞核桃	yang bi he tao	87
 漾濞槭	yang bi qi	100
 漾濞江	yang bi jiang	280
+潝	ya
+瀁	yang
+灎	yan
+灔	yan
+灧	yan
+灩	yan
+炀	yang
+炀	yang	5157
 炀帝	yang di	3745
 炀帝雷塘土	yang di lei tang tu	1
+炎	yan
+炎	yan	120855
 炎之呼吸	yan zhi hu xi	162
 炎亚纶	yan ya lun	108
 炎兔儿	yan tu er	164
@@ -6329,6 +6855,14 @@ sort: by_weight
 炎龙之手	yan long zhi shou	1
 炎龙之鳞	yan long zhi lin	100
 炎龙果	yan long guo	100
+炏	yan
+炴	yang
+烄	yao
+烊	yang
+烊	yang	1882
+烑	yao
+烟	yan
+烟	yan	435202
 烟三鲜儿	yan san xian er	15
 烟不出火不进	yan bu chu huo bu jin	1
 烟丝	yan si	10965
@@ -6713,6 +7247,10 @@ sort: by_weight
 烟鸭掌儿	yan ya zhang er	12
 烟鸽子蛋	yan ge zi dan	15
 烟黑	yan hei	350
+烻	yan
+烻	yan	1
+焉	yan
+焉	yan	35627
 焉乌成马	yan wu cheng ma	1
 焉得	yan de	3111
 焉得人人而济之	yan de ren ren er ji zhi	1
@@ -6739,6 +7277,10 @@ sort: by_weight
 焉能	yan neng	11305
 焉能守旧丘	yan neng shou jiu qiu	1
 焉能系而不食	yan neng xi er bu shi	1
+焑	yan
+焔	yan
+焰	yan
+焰	yan	117059
 焰分噬浪尺	yan fen shi lang chi	162
 焰口	yan kou	1
 焰后蜥	yan hou xi	100
@@ -6750,6 +7292,15 @@ sort: by_weight
 焰焰烧空红佛桑	yan yan shao kong hong fo sang	1
 焰羽星花	yan yu xing hua	100
 焰色反应	yan se fan ying	501
+焱	yan
+焱	yan	12242
+煙	yan
+煬	yang
+熎	yao
+熖	yan
+燄	yan
+燕	yan
+燕	yan	251483
 燕丹	yan dan	11
 燕丹村	yan dan cun	11
 燕丹路口西	yan dan lu kou xi	1
@@ -7055,9 +7606,15 @@ sort: by_weight
 燕麦蝇金小蜂	yan mai ying jin xiao feng	1
 燕麦饭	yan mai fan	30
 燕𫚉	yan hong	3
+燿	yao
+爓	yan
+爻	yao
+爻	yao	3448
 爻纹细蛾	yao wen xi e	13
 爻象	yao xiang	910
 爻辞	yao ci	3030
+牙	ya
+牙	ya	300629
 牙买加	ya mai jia	12070
 牙买加仓鼠	ya mai jia cang shu	2
 牙买加圆尾鹱	ya mai jia yuan wei hu	1
@@ -7278,11 +7835,40 @@ sort: by_weight
 牙龈瘤	ya yin liu	13
 牙龈肿痛	ya yin zhong tong	279
 牙龈退缩	ya yin tui suo	19
+牪	yan
+犽	ya
+狕	yao
+狿	yan
+猏	yan
+猒	yan
+猚	ya
+猰	ya
+猰	ya	108
 猰㺄	ya yu	1
+猺	yao
+猺	yao	3
+獟	yao
+玚	yang
+玚	yang	28
+玡	ya
+玡	ya	156
+珚	yan
+珜	yang
+珧	yao
+珧	yao	56
 珧柱	yao zhu	1253
 珧柱丝	yao zhu si	163
 珧柱汤	yao zhu tang	19
 珧柱牛肉粥	yao zhu niu rou zhou	2
+琂	yan
+琊	ya
+琊	ya	2528
+琰	yan
+琰	yan	5886
+瑒	yang
+瑤	yao
+瑶	yao
+瑶	yao	81683
 瑶之圃	yao zhi pu	100
 瑶乡	yao xiang	18
 瑶井玉绳相对晓	yao jing yu sheng xiang dui xiao	2
@@ -7335,7 +7921,18 @@ sort: by_weight
 瑶草琪葩	yao cao qi pa	1
 瑶螈	yao yuan	2
 瑶麓瑶族乡	yao lu yao zu xiang	4
+瓛	ya
+甗	yan
+甗	yan	2
+疋	ya
+疟	yao
+疟	yao	10
 疟子	yao zi	80
+疡	yang
+疡	yang	1426
+疨	ya
+痒	yang
+痒	yang	54133
 痒不痒	yang bu yang	181
 痒了	yang le	1111
 痒到	yang dao	111
@@ -7356,6 +7953,14 @@ sort: by_weight
 痒痒树	yang yang shu	100
 痒痒的	yang yang de	10265
 痒的	yang de	1000
+痖	ya
+瘂	ya
+瘍	yang
+瘧	yao
+癢	yang
+皐	yao
+盐	yan
+盐	yan	37729
 盐一茶匙	yan yi cha chi	100
 盐与避难所	yan yu bi nan suo	152
 盐业	yan ye	28920
@@ -7739,6 +8344,11 @@ sort: by_weight
 盐饼子	yan bing zi	33
 盐鸭蛋	yan ya dan	157
 盐黄檗	yan huang bo	86
+眏	yang
+眑	yao
+眻	yang
+眼	yan
+眼	yan	3495315
 眼一闭	yan yi bi	1315
 眼下	yan xia	95675
 眼下如何	yan xia ru he	100
@@ -8297,6 +8907,8 @@ sort: by_weight
 眼𥆧	yan shun	2
 眼𥆧心跳	yan run xin tiao	2
 眼𥆧心跳	yan shun xin tiao	2
+睚	ya
+睚	ya	1984
 睚眦	ya zi	1170
 睚眦之冤必报	ya zi zhi yuan bi bao	1180
 睚眦之嫌	ya zi zhi xian	100
@@ -8305,6 +8917,11 @@ sort: by_weight
 睚眦必报	ya zi bi bao	1310
 睚眦杀人	ya zi sha ren	4
 睚眦触死	ya zi chu si	1
+矅	yao
+砑	ya
+砑	ya	66
+研	yan
+研	yan	263794
 研为细末	yan wei xi mo	1195
 研习	yan xi	17490
 研习会	yan xi hui	1120
@@ -8606,6 +9223,8 @@ sort: by_weight
 研评	yan ping	70
 研读	yan du	26925
 研钵	yan bo	1050
+砚	yan
+砚	yan	13267
 砚冰坚	yan bing jian	100
 砚台	yan tai	5855
 砚山县	yan shan xian	910
@@ -8616,6 +9235,19 @@ sort: by_weight
 砚田	yan tian	2
 砚田笔耒	yan tian bi lei	1
 砚石	yan shi	1715
+硏	yan
+硯	yan
+硽	yan
+碞	yan
+碣	ya
+磍	ya
+磘	yao
+礢	yang
+礹	yan
+祅	yao
+禓	yang
+秧	yang
+秧	yang	5967
 秧子	yang zi	1280
 秧宅村	yang zhai cun	1
 秧歌	yang ge	14705
@@ -8627,6 +9259,12 @@ sort: by_weight
 秧苗生长	yang miao sheng zhang	100
 秧鸡	yang ji	530
 秧龄	yang ling	1345
+稏	ya
+穾	yao
+窅	yao
+窅	yao	79
+窈	yao
+窈	yao	5693
 窈冥	yao ming	370
 窈窈冥冥	yao yao ming ming	165
 窈窕	yao tiao	18460
@@ -8634,6 +9272,8 @@ sort: by_weight
 窈窕无双颜如玉	yao tiao wu shuang yan ru yu	1
 窈窕淑女	yao tiao shu nv	8835
 窈窕艳城郭	yao tiao yan cheng guo	3
+窑	yao
+窑	yao	17450
 窑主	yao zhu	2
 窑内	yao nei	1735
 窑前村	yao qian cun	5
@@ -8671,16 +9311,42 @@ sort: by_weight
 窑门	yao men	450
 窑院村	yao yuan cun	1
 窑顶	yao ding	9
+窔	yao
+窕	yao
+窫	ya
+窯	yao
+窰	yao
+窴	yan
+笌	ya
+筄	yao
+筵	yan
+筵	yan	4970
 筵宴	yan yan	1985
 筵席	yan xi	1164
 筵席捐	yan xi juan	100
 筵席税	yan xi shui	930
+箹	yao
+篶	yan
+簷	yan
+約	yao
+紻	yang
+綖	yan
+縯	yan
+繇	yao
+繇	yao	1
+纅	yao
+约	yao
+约	yao	10000
 约一下	yao yi xia	3
 约一斤	yao yi jin	3333
 约一斤肉	yao yi jin rou	3333
 约一约	yao yi yao	3
 约塔	yao ta	555
 约约	yao yao	1330
+罨	yan
+罨	yan	40
+羊	yang
+羊	yang	113627
 羊三木乡	yang san mu xiang	4
 羊下水	yang xia shui	14
 羊主	yang zhu	8
@@ -8996,6 +9662,12 @@ sort: by_weight
 羊鼻虫	yang bi chong	100
 羊齿	yang chi	2225
 羊齿植物	yang chi zhi wu	100
+羏	yang
+羕	yang
+羕	yang	559
+羬	yan
+耀	yao
+耀	yao	140263
 耀光	yao guang	1
 耀光三刺角蝉	yao guang san ci jiao chan	1
 耀光使	yao guang shi	100
@@ -9044,11 +9716,17 @@ sort: by_weight
 耀群	yao qun	1
 耀邦	yao bang	2760
 耀隆集团	yao long ji tuan	2
+聐	ya
+肴	yao
+肴	yao	12069
 肴肉	yao rou	1348
 肴肉面	yao rou mian	41
 肴酒	yao jiu	95
 肴馔	yao zhuan	1410
 肴驴肉	yao lv rou	215
+胦	yang
+胭	yan
+胭	yan	9088
 胭红	yan hong	2
 胭脂	yan zhi	31935
 胭脂债	yan zhi zhai	100
@@ -9074,6 +9752,8 @@ sort: by_weight
 胭脂路	yan zhi lu	159
 胭脂镇	yan zhi zhen	1
 胭脂鱼	yan zhi yu	1060
+腌	yan
+腌	yan	4020
 腌一腌	yan yi yan	456
 腌了腌	yan le yan	117
 腌制	yan zhi	26740
@@ -9115,6 +9795,8 @@ sort: by_weight
 腌鱼肉	yan yu rou	30
 腌鲜鳜鱼	yan xian gui yu	73
 腌黄瓜	yan huang gua	440
+腰	yao
+腰	yao	241952
 腰上	yao shang	18585
 腰上的伤	yao shang de shang	100
 腰下	yao xia	2200
@@ -9269,6 +9951,9 @@ sort: by_weight
 腰鼓百面春雷发	yao gu bai mian chun lei fa	3
 腰鼓舞	yao gu wu	260
 腰鼓队	yao gu dui	2420
+臙	yan
+舀	yao
+舀	yao	4517
 舀了	yao le	100
 舀出	yao chu	1660
 舀子	yao zi	195
@@ -9277,6 +9962,9 @@ sort: by_weight
 舀油	yao you	50
 舀起	yao qi	1940
 舀酒	yao jiu	80
+艞	yao
+艳	yan
+艳	yan	147563
 艳丽	yan li	66005
 艳丽丝鳍鹦鲷	yan li si qi ying diao	1
 艳丽夺目	yan li duo mu	800
@@ -9357,6 +10045,10 @@ sort: by_weight
 艳阳高照	yan yang gao zhao	6405
 艳降勾魂	yan jiang gou hun	100
 艳霞	yan xia	1
+艶	yan
+艷	yan
+芫	yan
+芫	yan	1105
 芫爆仔鸽	yan bao zi ge	22
 芫爆散丹	yan bao san dan	64
 芫爆肉丝	yan bao rou si	16
@@ -9366,6 +10058,8 @@ sort: by_weight
 芫荽叶	yan sui ye	100
 芫荽属	yan sui shu	100
 芫荽籽	yan sui zi	100
+芽	ya
+芽	ya	17121
 芽体	ya ti	555
 芽儿	ya er	5225
 芽变	ya bian	22
@@ -9390,6 +10084,9 @@ sort: by_weight
 芽菜	ya cai	13246
 芽豆	ya dou	175
 芽鳞	ya lin	4
+苭	yao
+药	yao
+药	yao	361732
 药不对症	yao bu dui zheng	505
 药不离口	yao bu li kou	242
 药业	yao ye	7732
@@ -9748,11 +10445,35 @@ sort: by_weight
 药面儿	yao mian er	100
 药食同源	yao shi tong yuan	3485
 药饵	yao er	2285
+莚	yan
+菸	yan
+萒	yan
+葯	yao
+葽	yao
+蓔	yao
+蔅	yan
+蕥	ya
+薬	yao
+藥	yao
+蘨	yao
+虤	yan
+虤	yan	1
+蚜	ya
+蚜	ya	224
 蚜茧蜂	ya jian feng	3
 蚜虫	ya chong	15885
+蛘	yang
+蛘	yang	81
+蜒	yan
+蜒	yan	8877
 蜒蚰	yan you	9
+蝆	yang
+蝘	yan
+蝘	yan	2
 蝘蜓	yan ting	3
 蝘蜓座	yan ting zuo	100
+衍	yan
+衍	yan	33445
 衍化	yan hua	2500
 衍变	yan bian	3695
 衍圣公	yan sheng gong	1205
@@ -9783,6 +10504,8 @@ sort: by_weight
 衍生行业	yan sheng hang ye	100
 衍生词	yan sheng ci	100
 衍福寺	yan fu si	1
+衙	ya
+衙	ya	33073
 衙下镇	ya xia zhen	3
 衙内	ya nei	4785
 衙前	ya qian	86
@@ -9804,6 +10527,13 @@ sort: by_weight
 衙门口站	ya men kou zhan	6
 衙门口西社区	ya men kou xi she qu	1
 衙门村	ya men cun	157
+袎	yao
+裺	yan
+褗	yan
+襾	ya
+覀	ya
+要	yao
+要	yao	7944606
 要一下	yao yi xia	345
 要一下手机号	yao yi xia shou ji hao	100
 要一下无线密码	yao yi xia wu xian mi ma	100
@@ -11169,6 +11899,13 @@ sort: by_weight
 要高价	yao gao jia	395
 要高点	yao gao dian	100
 要麻烦	yao ma fan	100
+覎	yan
+覞	yao
+觃	yan
+觃	yan	1
+觾	yan
+言	yan
+言	yan	1026005
 言三语四	yan san yu si	100
 言下	yan xia	3230
 言下之意	yan xia zhi yi	9810
@@ -11454,14 +12191,36 @@ sort: by_weight
 言颠语倒	yan dian yu dao	100
 言高旨远	yan gao zhi yuan	1
 言高语低	yan gao yu di	1
+訁	yan
+訝	ya
+訞	yao
+訮	yan
+詇	yang
+詏	yao
+詽	yan
+諹	yang
+諺	yan
+謠	yao
+謡	yao
+讌	yan
+讑	yao
+讞	yan
+讠	yan
+讶	ya
+讶	ya	157124
 讶异	ya yi	4444
 讶然	ya ran	4370
 讶道	ya dao	5555
+详	yang
+谚	yan
+谚	yan	3210
 谚文	yan wen	111
 谚曰	yan yue	1350
 谚语	yan yu	27245
 谚语是日常经验的结晶	yan yu shi ri chang jing yan de jie jing	1
 谚语的	yan yu de	730
+谣	yao
+谣	yao	24186
 谣传	yao chuan	8680
 谣俗	yao su	210
 谣甲尾鹏	yao jia wei peng	1
@@ -11478,11 +12237,28 @@ sort: by_weight
 谣诼	yao zhuo	330
 谣诼纷纭	yao zhuo fen yun	1
 谣诼谓余以善淫	yao zhuo wei yu yi shan yin	6
+谳	yan
+谳	yan	239
+豓	yan
+豔	yan
+豣	yan
+贋	yan
+贗	yan
+赝	yan
+赝	yan	1389
 赝作	yan zuo	4
 赝品	yan pin	36524
 赝币	yan bi	15
 赝本	yan ben	100
 赝鼎	yan ding	30
+躽	yan
+軅	yan
+軋	ya
+軮	yang
+軺	yao
+輰	yang
+轧	ya
+轧	ya	4919
 轧了	ya le	999
 轧伤	ya shang	5999
 轧伤了	ya shang le	100
@@ -11510,8 +12286,16 @@ sort: by_weight
 轧道机	ya dao ji	35
 轧道车	ya dao che	10
 轧马路	ya ma lu	435
+轺	yao
+轺	yao	477
 轺车	yao che	1
+迓	ya
+迓	ya	260
 迓驾镇	ya jia zhen	22
+遃	yan
+遙	yao
+遥	yao
+遥	yao	188299
 遥不可及	yao bu ke ji	17700
 遥亘千里	yao gen qian li	6
 遥以心照	yao yi xin zhao	3
@@ -11623,6 +12407,8 @@ sort: by_weight
 遥遥领先	yao yao ling xian	15305
 遥闻	yao wen	1500
 遥闻欸乃曲	yao wen ai nai qu	100
+邀	yao
+邀	yao	72128
 邀一下	yao yi xia	123
 邀一邀	yao yi yao	157
 邀不了你	yao bu liao ni	100
@@ -11683,18 +12469,46 @@ sort: by_weight
 邀诸位共赏	yao zhu wei gong shang	100
 邀赏	yao shang	999
 邀集	yao ji	1
+邎	yao
+邪	ya
+郔	yan
+郾	yan
+郾	yan	952
 郾城	yan cheng	1
 郾城区	yan cheng qu	1435
 郾城县	yan cheng xian	720
+鄢	yan
+鄢	yan	2776
 鄢家河	yan jia he	1
 鄢睿男	yan rui nan	562
 鄢陵一高	yan ling yi gao	194
 鄢陵县	yan ling xian	1580
 鄢颇	yan po	87
+酀	yan
+酓	yan
+酽	yan
+酽	yan	681
 酽茶	yan cha	99
+醃	yan
+醶	yan
+醼	yan
+釅	yan
+釾	ya
+鉠	yang
+銚	yao
+錏	ya
+鍈	yang
+鍚	yang
+鎐	yao
+鐚	ya
+鑰	yao
+钖	yang
+钖	yang	9
 钖伯鲶	yang bo nian	1
 钖克曼南鳅	yang ke man nan qiu	1
 钖尔河拟铲鲟	yang er he ni chan xun	1
+钥	yao
+钥	yao	44779
 钥匙	yao shi	206595
 钥匙丢了	yao shi diu le	100
 钥匙串	yao shi chuan	2990
@@ -11717,9 +12531,21 @@ sort: by_weight
 钥匙鲶盘虫	yao shi nian pan chong	1
 钥圈儿	yao quan er	100
 钥孔嘁螺超科	yao kong qi luo chao ke	1
+铅	yan
+铅	yan	1
 铅山	yan shan	1
 铅山县	yan shan xian	2475
 铅山县公安局	yan shan xian gong an ju	1
+铔	ya
+铫	yao
+铫	yao	102
+閆	yan
+閹	yan
+閻	yan
+閼	yan
+闄	yao
+闫	yan
+闫	yan	4234
 闫佩伦	yan pei lun	100
 闫佳宝	yan jia bao	100
 闫勤	yan qin	25
@@ -11746,6 +12572,8 @@ sort: by_weight
 闫永强	yan yong qiang	109
 闫湾村	yan wan cun	3
 闫跃龙	yan yue long	8
+阉	yan
+阉	yan	6489
 阉了	yan le	2260
 阉人	yan ren	2120
 阉党	yan dang	1245
@@ -11761,6 +12589,8 @@ sort: by_weight
 阉猪	yan zhu	123
 阉羊	yan yang	65
 阉鸡	yan ji	990
+阎	yan
+阎	yan	39776
 阎世铎	yan shi duo	1340
 阎主任	yan zhu ren	12
 阎仙垡	yan xian fa	4
@@ -11818,7 +12648,12 @@ sort: by_weight
 阎魔亭	yan mo ting	100
 阎魔爱	yan mo ai	560
 阎魔王	yan mo wang	100
+阏	yan
+阏	yan	1
 阏氏	yan zhi	1
+阦	yang
+阳	yang
+阳	yang	850226
 阳三街道	yang san jie dao	1
 阳上	yang shang	81
 阳不阳	yang bu yang	2
@@ -12217,6 +13052,15 @@ sort: by_weight
 阳高县	yang gao xian	117
 阳高杏脯	yang gao xing fu	39
 阳黄	yang huang	725
+阽	yan
+陶	yao
+陶	yao	1
+陽	yang
+隁	yan
+隃	yao
+隒	yan
+雁	yan
+雁	yan	43201
 雁丘词	yan qiu ci	222
 雁北	yan bei	3240
 雁南燕北	yan nan yan bei	1
@@ -12292,6 +13136,8 @@ sort: by_weight
 雁鸣	yan ming	2270
 雁鸣小区东门	yan ming xiao qu dong men	1
 雁默先烹	yan mo xian peng	1
+雅	ya
+雅	ya	387226
 雅一些	ya yi xie	760
 雅万高铁	ya wan gao tie	177
 雅丝诺丹	ya si nuo dan	1
@@ -12546,9 +13392,21 @@ sort: by_weight
 雅黑字体	ya hei zi ti	1180
 雅龙	ya long	1245
 雅龙乡	ya long xiang	11
+雵	yang
+霷	yang
+靿	yao
+靿	yao	56
 靿儿	yao er	3
+鞅	yang
+鞅	yang	3011
 鞅掌	yang zhang	235
 鞅鞅不乐	yang yang bu le	1
+顏	yan
+顔	yan
+顤	yao
+顩	yan
+颜	yan
+颜	yan	236409
 颜丙涛	yan bing tao	159
 颜丹晨	yan dan chen	93
 颜丹鬓绿	yan dan bin lv	1
@@ -12670,7 +13528,28 @@ sort: by_weight
 颜骏凌	yan jun ling	130
 颜骨柳筋	yan gu liu jin	100
 颜鲁公	yan lu gong	850
+颺	yang
+颻	yao
+飏	yang
+飏	yang	742
+飖	yao
+飬	yang
+餆	yao
+養	yang
+餍	yan
+餍	yan	403
 餍足	yan zu	510
+餚	yao
+饜	yan
+駚	yang
+騐	yan
+験	yan
+騕	yao
+騴	yan
+驗	yan
+驠	yan
+验	yan
+验	yan	288664
 验一下	yan yi xia	123
 验一验	yan yi yan	789
 验不出	yan bu chu	210
@@ -12785,8 +13664,37 @@ sort: by_weight
 验镖	yan biao	1
 验验成色	yan yan cheng se	100
 验验镖	yan yan biao	100
+鬳	yan
+魇	yan
+魇	yan	8387
+魘	yan
+鰋	yan
+鰑	yang
+鰩	yao
+鱙	yao
+鳐	yao
+鳐	yao	184
 鳐鱼	yao yu	660
+鳫	yan
+鳱	yan
+鴁	yao
+鴈	yan
+鴉	ya
+鴢	yao
+鴦	yang
+鴨	ya
+鴳	yan
+鴹	yang
+鵶	ya
+鶠	yan
+鷂	yao
+鷃	yan
 鷃肉	yan rou	2
+鷕	yao
+鷰	yan
+鸉	yang
+鸦	ya
+鸦	ya	39645
 鸦儿胡同	ya er hu tong	26
 鸦叫声	ya jiao sheng	5
 鸦嘴锄	ya zui chu	100
@@ -12824,6 +13732,8 @@ sort: by_weight
 鸦鹃	ya juan	3
 鸦鹊湖乡	ya que hu xiang	3
 鸦默雀静	ya mo que jing	311
+鸭	ya
+鸭	ya	43846
 鸭丝掐菜	ya si qia cai	11
 鸭仔	ya zai	910
 鸭儿梨	ya er li	100
@@ -12947,11 +13857,405 @@ sort: by_weight
 鸭鹅杀	ya e sha	100
 鸭黄	ya huang	2222
 鸭黄豆腐	ya huang dou fu	14
+鸯	yang
+鸯	yang	10164
+鹞	yao
+鹞	yao	2889
 鹞子	yao zi	2
 鹞子翻身	yao zi fan shen	1150
 鹞落坪	yao luo ping	100
 鹞鹰	yao ying	850
+鹽	yan
+麣	yan
+黡	yan
+黡	yan	61
+黤	yan
+黫	yan
+黬	yan
+黭	yan
+黰	yan
+黶	yan
+鼴	yan
+鼹	yan
+鼹	yan	1331
 鼹鼠	yan shu	6865
 鼹鼠之歌	yan shu zhi ge	122
 鼹鼠皮	yan shu pi	100
 鼹鼠饮河	yan shu yin he	100
+鼼	yao
+齖	ya
+齞	yan
+齩	yao
+齴	yan
+齾	ya
+龑	yan
+𠄮	ya
+𠆲	yan
+𠉬	yan
+𠋗	ya
+𠌠	yao
+𠍛	yan
+𠍩	yao
+𠍵	yang
+𠏈	yao
+𠑐	yao
+𠕻	yao
+𠘥	yan
+𠛭	yan
+𠜲	ya
+𠝢	yan
+𠟋	yao
+𠢩	yao
+𠢴	yang
+𠣑	yao
+𠮜	ya
+𠮴	yang
+𠰖	yan
+𠵣	ya
+𠹑	yao
+𠻤	yan
+𡆩	yao
+𡇼	ya
+𡔜	yao
+𡙶	yan
+𡚇	yan
+𡛙	yao
+𡝛	yao
+𡝩	yao
+𡠘	yang
+𡡂	yang
+𡢹	yao
+𡣠	yao
+𡣽	yan
+𡨇	yao
+𡩶	yang
+𡩸	yao
+𡴭	ya
+𡶂	yao
+𡶦	ya
+𡷻	ya
+𡸗	ya
+𡹄	ya
+𡹕	yang
+𡹶	yan
+𡹼	yan
+𡺯	yao
+𡻡	yan
+𡿖	ya
+𢂊	yao
+𢅠	yan
+𢅹	yao
+𢆷	yao
+𢆽	yao
+𢇈	yan
+𢇘	yan
+𢈂	yan
+𢈆	yao
+𢉘	yan
+𢊙	yao
+𢋇	yao
+𢌨	yan
+𢏙	yang
+𢑈	yao
+𢔂	yan
+𢛄	ya
+𢛟	ya
+𢜰	yan
+𢝍	yao
+𢟣	yang
+𢤍	yan
+𢮊	ya
+𢯼	yan
+𢵇	yang
+𢸴	yan
+𢺇	yao
+𢽕	yang
+𢾑	yan
+𣃝	yang
+𣃧	yan
+𣃳	yan
+𣃾	yan
+𣄉	yan
+𣄑	yan
+𣄝	yan
+𣉚	yang
+𣉩	ya
+𣏎	ya
+𣐫	yang
+𣗹	yang
+𣚕	yan
+𣝎	yan
+𣡕	yan
+𣡞	yan
+𣡶	yan
+𣣳	yao
+𣥡	yan
+𣨘	yao
+𣩙	yan
+𣭻	yan
+𣼞	yan
+𣼠	yan
+𤂠	yan
+𤂼	yao
+𤄶	yao
+𤅊	yan
+𤅸	yan
+𤎄	yan
+𤒝	yao
+𤒦	yan
+𤖝	yan
+𤗎	yan
+𤘅	ya
+𤘆	ya
+𤚭	yao
+𤜵	yan
+𤞢	yang
+𤟇	yan
+𤟟	yan
+𤡖	yan
+𤡥	yan
+𤢋	yan
+𤢐	yang
+𤢮	yang
+𤫣	yan
+𤫺	yao
+𤬔	yao
+𤬖	yao
+𤬝	yan
+𤯇	yan
+𤯐	yan
+𤲩	yan
+𤴓	ya
+𤵭	ya
+𤷅	ya
+𤸡	yang
+𤸱	ya
+𤸹	yan
+𤹎	ya
+𤺃	yao
+𤾫	yao
+𥀬	yan
+𥁒	yao
+𥂁	yan
+𥂸	yang
+𥃧	yao
+𥃩	yan
+𥃺	yao
+𥃽	yang
+𥃿	yan
+𥇠	ya
+𥌚	ya
+𥌺	yao
+𥍓	yan
+𥍻	yan
+𥏝	ya
+𥐕	ya
+𥒞	yang
+𥒧	ya
+𥕼	yan
+𥜒	yan
+𥠜	yang
+𥣘	yan
+𥤟	yan
+𥤣	yao
+𥤴	yan
+𥤹	yao
+𥥵	yang
+𥦍	yan
+𥦖	yao
+𥧑	yan
+𥪯	yao
+𥬓	yao
+𥬴	yang
+𥯃	yan
+𥳜	yang
+𥴿	yan
+𥶿	yan
+𥷀	yan
+𥹱	yao
+𦁏	yan
+𦁙	yan
+𦆸	yao
+𦇬	yao
+𦉟	ya
+𦉧	ya
+𦌚	yan
+𦍕	yang
+𦍲	yang
+𦍹	yang
+𦎣	yan
+𦏥	yan
+𦏱	yang
+𦏹	yan
+𦑎	yan
+𦔷	yao
+𦖈	yan
+𦖧	yan
+𦛞	yan
+𦛣	yan
+𦜖	ya
+𦝪	yan
+𦡱	yao
+𦤋	yao
+𦥝	yao
+𦦌	yao
+𦧡	yan
+𦫤	yan
+𦭵	yang
+𦯒	yang
+𦴊	yang
+𦼴	yang
+𦾺	yao
+𦾾	yao
+𧄎	yao
+𧇠	yao
+𧇱	yan
+𧈝	ya
+𧉮	yan
+𧊔	yan
+𧍔	yao
+𧍢	yan
+𧎘	yan
+𧓪	ya
+𧓲	yang
+𧞣	yan
+𧠦	yan
+𧠽	yao
+𧡋	ya
+𧢢	yao
+𧤮	yao
+𧥜	yan
+𧥴	yang
+𧧝	ya
+𧩅	yan
+𧫛	yang
+𧬌	yan
+𧬬	ya
+𧲱	yang
+𧴣	yan
+𧵌	yang
+𧷋	yao
+𧹬	yan
+𧺅	yan
+𧻃	yan
+𧽉	yan
+𧽎	yao
+𧽞	yan
+𧾤	yan
+𨀅	yan
+𨁍	yan
+𨁶	ya
+𨁹	yan
+𨂪	yan
+𨃰	yan
+𨆁	yan
+𨋕	yang
+𨋽	yang
+𨍳	yao
+𨎔	yang
+𨒄	yan
+𨒫	yang
+𨓳	yao
+𨓴	ya
+𨖌	yang
+𨖭	ya
+𨘔	yao
+𨟹	yan
+𨠭	yan
+𨡄	yan
+𨡎	yan
+𨡣	yan
+𨣻	yan
+𨤎	yan
+𨦡	yang
+𨨙	ya
+𨪶	yan
+𨱝	yang
+𨱧	yao
+𨴣	yan
+𨶁	yan
+𨷽	yan
+𨸮	yan
+𨸺	ya
+𨹈	yang
+𨹋	yao
+𨹝	ya
+𨺥	yan
+𨻂	yan
+𨻳	yan
+𨽐	yang
+𨽑	yan
+𩃀	yan
+𩃐	ya
+𩇠	yan
+𩈯	yan
+𩊑	yang
+𩋃	yao
+𩋬	yang
+𩑔	ya
+𩑗	yao
+𩑴	yao
+𩒖	yan
+𩖁	ya
+𩗷	yan
+𩜸	yao
+𩜽	yan
+𩢒	yao
+𩣲	yan
+𩤟	yang
+𩥣	yao
+𩨠	ya
+𩨴	yao
+𩩄	yan
+𩩴	yan
+𩩶	yan
+𩩼	yao
+𩪴	yan
+𩬗	yao
+𩭯	ya
+𩮝	ya
+𩯛	yao
+𩲴	yang
+𩲻	yao
+𩳔	yao
+𩳢	yan
+𩴨	yang
+𩸋	ya
+𩸞	yan
+𩻖	yan
+𩾝	yan
+𩾸	yan
+𩿔	ya
+𩿕	yao
+𩿼	ya
+𪀋	ya
+𪀌	ya
+𪁡	yan
+𪂈	yan
+𪆰	ya
+𪐘	yan
+𪐯	yao
+𪑈	yan
+𪑸	yan
+𪒝	yan
+𪒠	yan
+𪓛	yang
+𪕫	yang
+𪖐	ya
+𪖐	yao
+𪗙	yan
+𪗤	yan
+𪗹	ya
+𪘬	ya
+𪘲	ya
+𪙊	yan
+𪚻	yang
+𪩘	yan	21
+𫄧	yan	1
+𫚐	yang
+𫛩	yan
+𬙂	yan	1
+𬸘	yan
+𬸘	yan	3
+𰽽	yang
+𲰹	ya

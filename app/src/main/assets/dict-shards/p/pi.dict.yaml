@@ -3,12 +3,80 @@ name: merged.pi
 version: "1.0"
 sort: by_weight
 ...
+㓟	pi
+㓲	pian
+㔃	pi
+㔥	pi
+㛹	pian
+㛹	pian	1
 㛹娟	pian juan	1
+㡙	pi
+㨽	pi
+㩠	piao
+㬓	piao
+㮰	pi
+㯅	pi
+㯱	piao
+㰋	pin
+㱟	pi
+㲏	piao
+㲏	pin
+㲏	ping
+㳪	pi
+㵗	ping
+㵨	pi
+㵱	piao
+㸤	pian
+㹾	piao
+㺓	piao
+㺸	ping
+㻂	ping
+㼐	pian
+㼰	pi
+㼼	piao
+㾫	pian
+㿙	pi
+䀻	pin
+䈂	ping
+䍈	ping
+䏇	piao
+䏒	pian
+䏘	pi
+䑀	pi
+䑄	pi
+䓑	ping
+䕯	piao
+䖩	pi
+䗄	pi
+䚰	pi
+䚹	pi
+䠘	pi
+䡟	pi
+䡶	pi
+䤏	pi
+䤨	pi
+䥕	pie
+䪐	pi
+䫌	pi
+䫠	pi
+䮁	pian
+䯱	pi
+䰦	pi
+䴙	pi
+䴙	pi	25
 䴙䴘	pi ti	250
 䴙䴘目	pi ti mu	4
 䴙䴘科	pi ti ke	3
+䴩	piao
+䴽	pi
+䶄	ping
+丕	pi
+丕	pi	5020
 丕变	pi bian	620
 丕显	pi xian	51
+丿	pie
+乒	ping
+乒	ping	8803
 乒乒	ping ping	219
 乒乒乓乓	ping ping pang pang	2695
 乒乓	ping pang	18655
@@ -45,8 +113,15 @@ sort: by_weight
 乒坛	ping tan	2520
 乒联	ping lian	5555
 乒超联赛	ping chao lian sai	149
+仳	pi
+仳	pi	110
 仳离	pi li	470
+伓	pi
+伾	pi
+伾	pi	107
 伾伾	pi pi	1
+便	pian
+便	pian	2676
 便不便宜	pian bu pian yi	100
 便不便宜吗	pian bu pian yi ma	100
 便不便宜吧	pian bu pian yi ba	100
@@ -148,6 +223,10 @@ sort: by_weight
 便宜车	pian yi che	100
 便宜这么多	pian yi zhe me duo	100
 便益不失当家	pian yi bu shi dang jia	100
+俜	ping
+俜	ping	73
+偏	pian
+偏	pian	236193
 偏一点	pian yi dian	99
 偏一点儿	pian yi dian er	99
 偏三向四	pian san xiang si	1
@@ -482,6 +561,9 @@ sort: by_weight
 偏高	pian gao	77920
 偏黄	pian huang	1111
 偏黑	pian hei	5
+僄	piao
+僻	pi
+僻	pi	28410
 僻书	pi shu	102
 僻典	pi dian	65
 僻壤	pi rang	770
@@ -500,7 +582,11 @@ sort: by_weight
 僻陋	pi lou	300
 僻静	pi jing	13880
 僻静的角落	pi jing de jiao luo	100
+冯	ping
+冯	ping	1
 冯虚御风	ping xu yu feng	175
+凭	ping
+凭	ping	221418
 凭一口气	ping yi kou qi	100
 凭一己之力	ping yi ji zhi li	167
 凭不厌乎求索	ping bu yan hu qiu suo	1
@@ -642,6 +728,10 @@ sort: by_weight
 凭高望远	ping gao wang yuan	100
 凭高视下	ping gao shi xia	100
 凭高远眺	ping gao yuan tiao	100
+凴	ping
+副	pi
+剽	piao
+剽	piao	3778
 剽取	piao qu	40
 剽悍	piao han	6920
 剽悍行动营	piao han xing dong ying	100
@@ -651,6 +741,8 @@ sort: by_weight
 剽窃者	piao qie zhe	560
 剽窃行为	piao qie xing wei	1525
 剽袭	piao xi	30
+劈	pi
+劈	pi	88694
 劈下	pi xia	5660
 劈下去	pi xia qu	3560
 劈下来	pi xia lai	1730
@@ -719,6 +811,9 @@ sort: by_weight
 劈面	pi mian	2175
 劈颅巨魔	pi lu ju mo	1
 劈风斩浪	pi feng zhan lang	22
+勡	piao
+匹	pi
+匹	pi	97644
 匹似闲	pi si xian	100
 匹克	pi ke	7300
 匹克态极	pi ke tai ji	185
@@ -782,6 +877,9 @@ sort: by_weight
 匹马当先	pi ma dang xian	100
 匹马戍梁州	pi ma shu liang zhou	2
 匹马短衣	pi ma duan yi	100
+吡	pi
+否	pi
+否	pi	1
 否卦	pi gua	3
 否去泰来	pi qu tai lai	100
 否往泰来	pi wang tai lai	1
@@ -794,6 +892,9 @@ sort: by_weight
 否泰如天地	pi tai ru tian di	2
 否终则泰	pi zhong ze tai	100
 否终复泰	pi zhong fu tai	1
+呯	ping
+品	pin
+品	pin	566800
 品一品	pin yi pin	123
 品三国	pin san guo	100
 品三湘	pin san xiang	65
@@ -1110,6 +1211,8 @@ sort: by_weight
 品阶	pin jie	123
 品题	pin ti	1025
 品高云	pin gao yun	10
+啤	pi
+啤	pi	41686
 啤梨	pi li	3055
 啤特果	pi te guo	100
 啤酒	pi jiu	263535
@@ -1148,8 +1251,12 @@ sort: by_weight
 啤酒鱼	pi jiu yu	3356
 啤酒鸭	pi jiu ya	1401
 啤酒鸭火锅	pi jiu ya huo guo	66
+嘌	piao
+嘌	piao	136
 嘌呤	piao ling	7890
 嘌呤霉素	piao ling mei su	40
+噼	pi
+噼	pi	11014
 噼哩叭啦	pi li ba la	26
 噼啪	pi pa	3470
 噼啪响	pi pa xiang	35
@@ -1162,6 +1269,17 @@ sort: by_weight
 噼里啪啦	pi li pa la	6995
 噼里啪啦响	pi li pa la xiang	100
 噼里啪啦地响	pi li pa la de xiang	100
+噽	pi
+嚊	pi
+嚬	pin
+嚭	pi
+嚭	pi	84
+囨	pian
+圮	pi
+圮	pi	323
+坏	pi
+坪	ping
+坪	ping	20132
 坪上	ping shang	426
 坪乐乡	ping le xiang	1
 坪地街道	ping di jie dao	100
@@ -1185,19 +1303,30 @@ sort: by_weight
 坪溪村	ping xi cun	3
 坪石	ping shi	4510
 坪顶	ping ding	23
+坯	pi
+坯	pi	3815
 坯儿	pi er	5
 坯子	pi zi	2850
 坯布	pi bu	144
 坯料	pi liao	5300
 坯胎	pi tai	11
+埤	pi
+埤	pi	97
 埤堄	pi ni	1
 埤头乡	pi tou xiang	100
+塀	ping
+壀	pi
+妚	pi
+姘	pin
+姘	pin	1291
 姘出去	pin chu qu	100
 姘夫	pin fu	255
 姘头	pin tou	1755
 姘妇	pin fu	555
 姘居	pin ju	2710
 姘识	pin shi	40
+娉	ping
+娉	ping	8067
 娉娉婷婷	ping ping ting ting	550
 娉娉袅袅	ping ping niao niao	225
 娉娉袅袅十三余	ping ping niao niao shi san yu	7
@@ -1206,9 +1335,18 @@ sort: by_weight
 娉婷婀娜	ping ting e nuo	48
 娉婷小苑中	ping ting xiao yuan zhong	1
 娉婷袅娜	ping ting niao nuo	100
+娦	pin
+媥	pian
+媲	pi
+媲	pi	5774
 媲美	pi mei	41105
 媲美的	pi mei de	100
+嫓	pi
+嫔	pin
+嫔	pin	8467
 嫔妃	pin fei	5545
+嫖	piao
+嫖	piao	13042
 嫖下娼	piao xia chang	100
 嫖不嫖娼	piao bu piao chang	100
 嫖不嫖娼呀	piao bu piao chang ya	100
@@ -1226,6 +1364,10 @@ sort: by_weight
 嫖资	piao zi	1450
 嫖赌吃喝	piao du chi he	3
 嫖过娼	piao guo chang	100
+嫳	pie
+嬪	pin
+屁	pi
+屁	pi	159868
 屁事	pi shi	5240
 屁事儿多	pi shi er duo	100
 屁事多	pi shi duo	100
@@ -1275,6 +1417,8 @@ sort: by_weight
 屁颠儿	pi dian er	43
 屁颠屁颠	pi dian pi dian	5440
 屁颠屁颠地跑	pi dian pi dian de pao	100
+屏	ping
+屏	ping	89750
 屏下	ping xia	50
 屏下摄像头	ping xia she xiang tou	124
 屏不屏蔽	ping bu ping bi	100
@@ -1408,8 +1552,19 @@ sort: by_weight
 屏风生脉胶囊	ping feng sheng mai jiao nang	1
 屏风马	ping feng ma	100
 屏风马儿	ping feng ma er	100
+屛	ping
+岯	pi
+岼	ping
+崥	pi
+嶏	pi
+帡	ping
+帡	ping	4
 帡天极地	ping tian ji di	1
 帡幪	ping meng	1
+帲	ping
+幈	ping
+平	ping
+平	ping	1439957
 平一	ping yi	49
 平上去入	ping shang qu ru	100
 平不了	ping bu liao	145
@@ -2783,11 +2938,26 @@ sort: by_weight
 平鲉	ping you	1
 平齐	ping qi	1567
 平齐铁路	ping qi tie lu	4
+庀	pi
+庰	ping
+庳	pi
+彯	piao
+徱	piao
+怶	pi
+悂	pi
+慓	piao
+慿	ping
+憑	ping
+憵	pi
+扁	pian
+扁	pian	1
 扁舟	pian zhou	7310
 扁舟一叶	pian zhou yi ye	43
 扁舟何处寻	pian zhou he chu xun	1
 扁舟共济与君同	pian zhou gong ji yu jun tong	2
 扁舟意不忘	pian zhou yi bu wang	1
+批	pi
+批	pi	218230
 批一下	pi yi xia	2960
 批三国	pi san guo	100
 批上	pi shang	1780
@@ -2997,6 +3167,8 @@ sort: by_weight
 批风抹月	pi feng mo yue	100
 批驳	pi bo	9165
 批鳞请剑	pi lin qing jian	1
+披	pi
+披	pi	85497
 披上	pi shang	32485
 披上去	pi shang qu	100
 披上来	pi shang lai	100
@@ -3146,6 +3318,10 @@ sort: by_weight
 披麻戴孝	pi ma dai xiao	850
 披麻救火	pi ma jiu huo	100
 披麻袋	pi ma dai	162
+抷	pi
+拚	pin
+拼	pin
+拼	pin	181290
 拼一	pin yi	1720
 拼一下	pin yi xia	1720
 拼一个	pin yi ge	1720
@@ -3373,6 +3549,10 @@ sort: by_weight
 拼音输入法	pin yin shu ru fa	6465
 拼音阶段	pin yin jie duan	100
 拼音音节	pin yin yin jie	100
+揊	pi
+撆	pie
+撇	pie
+撇	pie	47004
 撇下	pie xia	7350
 撇不了	pie bu liao	5
 撇不开	pie bu kai	189
@@ -3401,6 +3581,13 @@ sort: by_weight
 撇着嘴	pie zhe zui	100
 撇脱	pie tuo	37
 撇除	pie chu	835
+擗	pi
+旇	pi
+旚	piao
+暼	pie
+朇	pi
+朴	piao
+朴	piao	1000
 朴世洙	piao shi zhu	100
 朴世荣	piao shi rong	100
 朴世莉	piao shi li	100
@@ -3547,6 +3734,8 @@ sort: by_weight
 朴韩星	piao han xing	100
 朴韬宇	piao tao yu	100
 朴龙河	piao long he	100
+枇	pi
+枇	pi	674
 枇杷	pi pa	111
 枇杷十藏	pi pa shi zang	100
 枇杷叶	pi pa ye	201
@@ -3562,6 +3751,22 @@ sort: by_weight
 枇杷门巷	pi pa men xiang	100
 枇杷露	pi pa lu	64
 枇杷黄毛虫	pi pa huang mao chong	6
+枈	pi
+枰	ping
+枰	ping	685
+椑	pi
+椑	pi	2
+楄	pian
+楩	pian
+楩	pian	13
+榀	pin
+榀	pin	1
+榌	pi
+檘	ping
+殍	piao
+殍	piao	388
+毗	pi
+毗	pi	3984
 毗卢寺	pi lu si	188
 毗卢遮那	pi lu zhe na	100
 毗卢遮那佛	pi lu zhe na fo	100
@@ -3583,11 +3788,26 @@ sort: by_weight
 毗邻而居	pi lin er ju	910
 毗邻贫田螺	pi lin pin tian luo	1
 毗陵	pi ling	1390
+毘	pi
+氕	pie
+氕	pie	5
 氕核	pie he	5
 氕氘氚	pie dao chuan	75
+汖	pin
+泙	ping
+泙	ping	22
+洴	ping
+洴	ping	10
 洴浰	ping lian	2
 洴澼	ping pi	1
+涄	ping
+涄	ping	1
+淜	ping
+淠	pi
+淠	pi	49
 淠河	pi he	1
+漂	piao
+漂	piao	245966
 漂不漂亮	piao bu piao liang	1180
 漂不漂亮吗	piao bu piao liang ma	100
 漂不漂亮吧	piao bu piao liang ba	100
@@ -3766,6 +3986,16 @@ sort: by_weight
 漂过去	piao guo qu	100
 漂过来	piao guo lai	100
 漂鸟	piao niao	80
+潎	pi
+潎	pie
+澼	pi
+澼	pi	6
+濞	pi
+炋	pi
+焩	ping
+焷	pi
+片	pian
+片	pian	859001
 片上系统	pian shang xi tong	100
 片中	pian zhong	85155
 片中的主角	pian zhong de zhu jue	100
@@ -3917,6 +4147,8 @@ sort: by_weight
 片鳞碎甲	pian lin sui jia	1
 片鸡粉	pian ji fen	18
 片麻岩	pian ma yan	1810
+牝	pin
+牝	pin	864
 牝常以静胜牡	pin chang yi jing sheng mu	1
 牝户	pin hu	18
 牝牛	pin niu	250
@@ -3930,9 +4162,25 @@ sort: by_weight
 牝鸡牡鸣	pin ji mu ming	100
 牝鸡自卵	pin ji zi luan	100
 牝鹿	pin lu	125
+犏	pian
+犏	pian	46
 犏牛	pian niu	490
+犥	piao
+狉	pi
+狉	pi	8
 狉狉	pi pi	1
+狓	pi
+猈	pi
+猵	pian
+獱	pian
+玭	pin
+玭	pin	28
 玭珠	pin zhu	12
+玶	ping
+玶	ping	1
+琕	pin
+琵	pi
+琵	pi	8200
 琵嘴鸭	pi zui ya	3
 琵岩山	pi yan shan	100
 琵琶	pi pa	8888
@@ -3968,6 +4216,10 @@ sort: by_weight
 琵琶鱼	pi pa yu	100
 琵琶鱼肚	pi pa yu du	13
 琵鹭	pi lu	1
+瑸	pian
+璸	pian
+瓢	piao
+瓢	piao	8967
 瓢儿	piao er	930
 瓢儿菜	piao er cai	55
 瓢把子	piao ba zi	480
@@ -3985,6 +4237,8 @@ sort: by_weight
 瓢虫隐尾跳小蜂	piao chong yin wei tiao xiao feng	1
 瓢鰕虎鱼	piao xia hu yu	1
 瓢鳍鰕虎鱼	piao qi xia hu yu	1
+瓶	ping
+瓶	ping	151362
 瓶上	ping shang	3490
 瓶中	ping zhong	23315
 瓶中沙	ping zhong sha	275
@@ -4026,6 +4280,14 @@ sort: by_weight
 瓶鼻海豚	ping bi hai tun	100
 瓶鼻鲸	ping bi jing	43
 瓶鼻鲸属	ping bi jing shu	1
+甁	ping
+甓	pi
+甓	pi	35
+甹	ping
+疈	pi
+疋	pi
+疲	pi
+疲	pi	106623
 疲乏	pi fa	23185
 疲乏不堪	pi fa bu kan	420
 疲乏无力	pi fa wu li	3430
@@ -4078,6 +4340,8 @@ sort: by_weight
 疲软	pi ruan	25525
 疲软的	pi ruan de	6540
 疲顿	pi dun	170
+痞	pi
+痞	pi	14766
 痞块	pi kuai	1
 痞子	pi zi	28330
 痞子殿下	pi zi dian xia	100
@@ -4089,9 +4353,14 @@ sort: by_weight
 痞满	pi man	30
 痞积	pi ji	60
 痞老板	pi lao ban	100
+癖	pi
+癖	pi	7798
 癖习	pi xi	45
 癖好	pi hao	8600
 癖性	pi xing	540
+皫	piao
+皮	pi
+皮	pi	487744
 皮上衣	pi shang yi	340
 皮下	pi xia	25065
 皮下囊肿	pi xia nang zhong	5
@@ -4555,18 +4824,24 @@ sort: by_weight
 皮须小鲉	pi xu xiao you	1
 皮黄	pi huang	1825
 皮鼓	pi gu	2330
+睥	pi
+睥	pi	2153
 睥睨	pi ni	4520
 睥睨一世	pi ni yi shi	6
 睥睨一切	pi ni yi qie	350
 睥睨万物	pi ni wan wu	100
 睥睨物表	pi ni wu biao	1
 睥睨窥觎	pi ni kui yu	1
+瞟	piao
+瞟	piao	25058
 瞟一眼	piao yi yan	1420
 瞟了	piao le	9570
 瞟了一眼	piao le yi yan	5020
 瞟到	piao dao	369
 瞟向	piao xiang	1620
 瞟见	piao jian	560
+瞥	pie
+瞥	pie	38910
 瞥一眼	pie yi yan	1540
 瞥了	pie le	167
 瞥了一眼	pie le yi yan	635
@@ -4580,9 +4855,21 @@ sort: by_weight
 瞥见	pie jian	13055
 瞥视	pie shi	270
 瞥都没瞥	pie dou mei pie	100
+矉	pin
+砏	pin
+砒	pi
+砒	pi	1066
 砒石毒药	pi shi du yao	1
 砒霜	pi shuang	7480
 砒霜门	pi shuang men	283
+砯	ping
+硑	ping
+磇	pi
+礔	pi
+礕	pi
+礗	pin
+票	piao
+票	piao	164603
 票上注明	piao shang zhu ming	1950
 票买好了	piao mai hao le	100
 票价	piao jia	208150
@@ -4665,6 +4952,16 @@ sort: by_weight
 票面年利率	piao mian nian li lv	100
 票面额	piao mian e	535
 票额	piao e	2925
+禆	pi
+秛	pi
+秠	pi
+稫	pi
+穦	pin
+竮	ping
+笓	pi
+箳	ping
+篇	pian
+篇	pian	140190
 篇什	pian shi	2
 篇名	pian ming	8460
 篇子	pian zi	230
@@ -4682,15 +4979,35 @@ sort: by_weight
 篇终接混茫	pian zhong jie hun mang	1
 篇页	pian ye	250
 篇首	pian shou	2270
+篺	pi
+篻	piao
+簈	ping
+紕	pi
+緶	pian
+縹	piao
+纰	pi
+纰	pi	2598
 纰漏	pi lou	8185
 纰漏百出	pi lou bai chu	100
 纰缪	pi miu	185
+缏	pian
+缥	piao
+缥	piao	8410
 缥囊缃帙	piao nang xiang zhi	1
 缥缈	piao miao	34180
 缥缈之旅	piao miao zhi lv	1220
 缥缈入石如飞烟	piao miao ru shi ru fei yan	1
 缥缈孤鸿影	piao miao gu hong ying	4
 缥缈虚无	piao miao xu wu	17
+缾	ping
+罢	pi
+罴	pi
+罴	pi	531
+罷	pi
+羆	pi
+翍	pi
+翩	pian
+翩	pian	35855
 翩其反矣	pian qi fan yi	100
 翩然	pian ran	9355
 翩然而至	pian ran er zhi	100
@@ -4716,6 +5033,10 @@ sort: by_weight
 翩跹	pian xian	999
 翩跹而舞	pian xian er wu	4
 翩跹起舞	pian xian qi wu	545
+翲	piao
+耚	pi
+聘	pin
+聘	pin	42542
 聘上	pin shang	475
 聘为	pin wei	27565
 聘书	pin shu	14785
@@ -4744,12 +5065,20 @@ sort: by_weight
 聘选	pin xuan	185
 聘金	pin jin	1300
 聘问	pin wen	999
+聠	ping
+肶	pi
+胓	ping
+胼	pian
+胼	pian	175
 胼手胝足	pian shou zhi zu	505
 胼胝	pian zhi	37
 胼胝之劳	pian zhi zhi lao	1
 胼胝体	pian zhi ti	785
 胼胝手足	pian zhi shou zu	100
 胼胝质	pian zhi zhi	35
+脴	pi
+脾	pi
+脾	pi	74235
 脾为后天之本	pi wei hou tian zhi ben	45
 脾为生痰之源	pi wei sheng tan zhi yuan	12
 脾主中州	pi zhu zhong zhou	1
@@ -4837,8 +5166,20 @@ sort: by_weight
 脾虚证	pi xu zheng	10
 脾阳	pi yang	67
 脾阴	pi yin	6
+腁	pian
+腗	pi
+膍	pi
+艵	ping
+芘	pi
+芘	pi	1
 芘芣	pi fu	1
+苉	pi
+苉	pi	1
+苤	pie
+苤	pie	81
 苤蓝	pie lan	9999
+苹	ping
+苹	ping	37052
 苹婆	ping po	33
 苹婆果	ping po guo	3
 苹婆花	ping po hua	3
@@ -4956,6 +5297,12 @@ sort: by_weight
 苹果鹰夜蛾	ping guo ying ye e	1
 苹果鼠标	ping guo shu biao	100
 苹美皮夜	ping mei pi ye	1
+荓	ping
+荓	ping	3
+莩	piao
+莩	piao	0
+萍	ping
+萍	ping	84637
 萍乡中院	ping xiang zhong yuan	87
 萍乡市	ping xiang shi	815
 萍乡花果	ping xiang hua guo	17
@@ -4985,20 +5332,43 @@ sort: by_weight
 萍踪靡定	ping zong mi ding	100
 萍飘梗泛	ping piao geng fan	1
 萍飘蓬转	ping piao peng zhuan	100
+蓱	ping
+蔈	piao	1
 蔈草乡	piao cao xiang	2
 蔈草社区	piao cao she qu	2
 蔈草镇	piao cao zhen	2
+薲	pin
+薸	piao
+薸	piao	9
+蘋	pin
+蘋	ping
+蚍	pi
+蚍	pi	232
 蚍子草	pi zi cao	2
 蚍蜉	pi fu	350
 蚍蜉戴盆	pi fu dai pen	1
 蚍蜉撼大树	pi fu han da shu	560
 蚍蜉撼树	pi fu han shu	510
 蚍蜉撼树谈何易	pi fu han shu tan he yi	19
+蚲	ping
+蚲	ping	1
+蚽	pi
+蚾	pi
+蛢	ping
+蜱	pi
+蜱	pi	104
 蜱传回归热	pi chuan hui gui re	3
 蜱传脑炎	pi chuan nao yan	3
 蜱叮咬	pi ding yao	163
 蜱虫	pi chong	1111
+螕	pi
+螵	piao
+螵	piao	25
 螵蛸	piao xiao	95
+螷	pi
+蠙	pin
+蠯	pi
+被	pi
 被发佯狂	pi fa yang kuang	100
 被发入山	pi fa ru shan	100
 被发左衽	pi fa zuo ren	100
@@ -5018,8 +5388,17 @@ sort: by_weight
 被褐怀玉	pi he huai yu	100
 被褐怀珠	pi he huai zhu	100
 被褐食牛	pi he si niu	100
+裨	pi
+裨	pi	2321
 裨将	pi jiang	1660
 裨将军	pi jiang jun	1
+覑	pian
+覕	pie
+評	ping
+諀	pi
+諞	pian
+譬	pi
+譬	pi	11807
 譬似	pi si	2
 譬似闲	pi si xian	100
 譬喻	pi yu	7470
@@ -5031,6 +5410,8 @@ sort: by_weight
 譬若	pi ruo	785
 譬解	pi jie	95
 譬语	pi yu	20
+评	ping
+评	ping	170396
 评一评	ping yi ping	4785
 评上	ping shang	8085
 评上了	ping shang le	321
@@ -5292,12 +5673,23 @@ sort: by_weight
 评阅人	ping yue ren	77
 评阅试卷	ping yue shi juan	545
 评骘	ping zhi	1
+谝	pian
+谝	pian	408
 谝传子	pian chuan zi	6
 谝闲传	pian xian chuan	15
+豼	pi
+豾	pi
+貔	pi
+貔	pi	764
 貔子	pi zi	165
 貔虎	pi hu	240
 貔貅	pi xiu	9060
 貔貅百万	pi xiu bai wan	1
+貧	pin
+貵	pian
+賆	pian
+贫	pin
+贫	pin	80408
 贫下中农	pin xia zhong nong	5235
 贫下中农再教育	pin xia zhong nong zai jiao yu	100
 贫不失志	pin bu shi zhi	1
@@ -5467,7 +5859,14 @@ sort: by_weight
 贫雇农	pin gu nong	1345
 贫齿目	pin chi mu	51
 贫齿类	pin chi lei	7
+跰	pian
+蹁	pian
+蹁	pian	503
 蹁跹	pian xian	888
+軿	ping
+輧	ping
+辟	pi
+辟	pi	29251
 辟个谣	pi ge yao	100
 辟为	pi wei	10225
 辟兵	pi bing	5
@@ -5493,20 +5892,50 @@ sort: by_weight
 辟谣过	pi yao guo	100
 辟蹊径	pi xi jing	1111
 辟邪佩	pi xie pei	1
+邳	pi
+邳	pi	1407
 邳县	pi xian	4
 邳州	pi zhou	10495
 邳州市	pi zhou shi	5500
 邳州市实验小学	pi zhou shi shi yan xiao xue	1
 邳州市李口小学	pi zhou shi li kou xiao xue	1
+郫	pi
+郫	pi	187
 郫县	pi xian	90
 郫县豆瓣	pi xian dou ban	3092
 郫筒街道	pi tong jie dao	124
 郫花路口	pi hua lu kou	4
 郫都区	pi du qu	100
+郱	ping
+醥	piao
+釽	pi
+鈚	pi
+鈹	pi
+鉟	pi
+鉼	ping
+銔	pi
+銢	pi
+錃	pi
+錍	pi
+鍂	pian
+鎞	pi
+鐅	pie
+铍	pi
+铍	pi	219
 铍元素	pi yuan su	100
 铍矿	pi kuang	5
 铍镁钙锶钡镭	pi mei gai si bei lei	100
 铍青铜	pi qing tong	1590
+闝	piao
+闢	pi
+阰	pi
+陂	pi
+陂	pi	947
+陴	pi
+陴	pi	73
+隦	pi
+霹	pi
+霹	pi	19613
 霹雳	pi li	40105
 霹雳一声暴动	pi li yi sheng bao dong	2
 霹雳刀锋	pi li dao feng	9
@@ -5531,6 +5960,13 @@ sort: by_weight
 霹雳金丹	pi li jin dan	1
 霹雷	pi lei	795
 霹雷戈	pi lei ge	1
+鞞	pi
+頩	ping
+頻	pin
+顠	piao
+顰	pin
+频	pin
+频	pin	70697
 频仍	pin reng	2885
 频传	pin chuan	3640
 频传捷报	pin chuan jie bao	100
@@ -5650,8 +6086,14 @@ sort: by_weight
 频频告捷	pin pin gao jie	65
 频频得手	pin pin de shou	100
 频频点头	pin pin dian tou	4350
+颦	pin
+颦	pin	4297
 颦眉	pin mei	760
 颦蹙	pin cu	375
+飃	piao
+飄	piao
+飘	piao
+飘	piao	319989
 飘上去	piao shang qu	100
 飘下	piao xia	4865
 飘下去	piao xia qu	100
@@ -5828,6 +6270,17 @@ sort: by_weight
 飘香丽人	piao xiang li ren	1
 飘香猪脆骨	piao xiang zhu cui gu	1
 飘香路	piao xiang lu	3
+馪	pin
+馮	ping
+駓	pi
+駢	pian
+騈	pian
+騗	pian
+騙	pian
+驃	piao
+驞	pin
+骈	pian
+骈	pian	1356
 骈体	pian ti	590
 骈体文	pian ti wen	615
 骈俪	pian li	410
@@ -5859,6 +6312,8 @@ sort: by_weight
 骈首就死	pian shou jiu si	100
 骈首就系	pian shou jiu xi	100
 骈首就逮	pian shou jiu dai	100
+骗	pian
+骗	pian	178600
 骗一骗	pian yi pian	123
 骗上去	pian shang qu	100
 骗上来	pian shang lai	100
@@ -5984,6 +6439,8 @@ sort: by_weight
 骗骗花	pian pian hua	153
 骗鬼	pian gui	635
 骗鬼呢	pian gui ne	100
+骠	piao
+骠	piao	3168
 骠勇	piao yong	35
 骠骑	piao qi	4155
 骠骑兵	piao qi bing	100
@@ -5991,5 +6448,212 @@ sort: by_weight
 骠骑将军	piao qi jiang jun	2835
 骠骑府	piao qi fu	100
 骠骑营	piao qi ying	100
+骿	pian
+髬	pi
+魒	piao
+魮	pi
+魸	pian
+魾	pi
+鮃	ping
+鮍	pi
+鰾	piao
+鲆	ping
+鲆	ping	156
 鲆科	ping ke	48
+鲏	pi
+鲏	pi	84
+鴄	pi
+鵧	pi
+鶣	pian
+鷿	pi
+鸊	pi
+鼙	pi
+鼙	pi	246
 鼙鼓	pi gu	795
+𠐈	pian
+𠐺	pin
+𠑟	pian
+𠗥	ping
+𠗦	ping
+𠜱	pi
+𠟈	pie
+𠡄	pi
+𠢪	pie
+𠨸	pi
+𠪮	pi
+𠮰	pin
+𠯔	pi
+𠯭	pi
+𠯯	pian
+𠵬	pi
+𠷊	pian
+𠷻	piao
+𠹦	pi
+𡊝	pi
+𡊞	ping
+𡎚	pian
+𡎚	pian	1
+𡛘	pi
+𡛞	pin
+𡛡	pi
+𡢱	piao
+𡣋	piao
+𡦟	pi
+𡲮	pi
+𡶌	pi
+𡺮	pi
+𢆟	ping
+𢇳	pi
+𢉞	pian
+𢐃	pian
+𢓖	pi
+𢕨	pian
+𢖊	ping
+𢞗	pi
+𢣐	pin
+𢬵	pin
+𢰘	pi
+𢱧	pi
+𢳂	pie
+𢶳	pin
+𢻹	pi
+𢾇	pi
+𢾱	pi
+𣋳	piao
+𣎳	pin
+𣓋	pi
+𣔬	pi
+𣖰	pi
+𣝐	piao
+𣢋	pi
+𣪉	pi
+𣬉	pi
+𣬮	pi
+𣬼	pi
+𣳭	piao
+𣴪	pi
+𣹚	pi
+𣹮	pi
+𤂃	pi
+𤖿	pi
+𤘢	pi
+𤘤	pi
+𤘹	pi
+𤚪	pi
+𤜻	pi
+𤬭	pi
+𤭔	ping
+𤮕	pie
+𤱍	pi
+𤳊	ping
+𤴣	pi
+𤷒	pi
+𤼜	pi
+𤿇	pi
+𤿎	pi
+𤿐	pi
+𤿙	pi
+𥀘	pi
+𥑓	pin
+𥔁	pi
+𥖶	pin
+𥤻	pi
+𥪁	ping
+𥭢	ping
+𥯡	pi
+𥱼	pi
+𥵪	ping
+𦀔	ping
+𦀘	pi
+𦃋	pi
+𦇖	pin
+𦊁	pi
+𦒐	pie
+𦗥	pie
+𦘩	pi
+𦘲	pi
+𦚓	ping
+𦤢	pi
+𦥚	ping
+𦥤	ping
+𦨭	pi
+𦭼	piao
+𦰽	pi
+𦳄	pian
+𦳈	pi
+𦶊	ping
+𦹽	pi
+𧂋	ping
+𧌠	piao
+𧍲	pian
+𧏑	ping
+𧑜	pi
+𧓎	pi
+𧔪	pin
+𧙁	pi
+𧡤	pian
+𧧺	pi
+𧪫	pi
+𧭹	pin
+𧮝	pin
+𧱩	pian
+𧲺	pi
+𧳼	pi
+𧴉	pi
+𧽤	piao
+𧾑	pi
+𨂯	pian
+𨂲	ping
+𨈚	pi
+𨏞	pin
+𨐴	pi
+𨑜	pi
+𨝓	piao
+𨤽	pi
+𨧦	pi
+𨮬	piao
+𨲐	pi
+𨲜	pian
+𨵡	pi
+𨵩	pi
+𨵸	pian
+𨺤	pi
+𨻀	pi
+𨽗	pin
+𩂾	ping
+𩄷	piao
+𩈚	ping
+𩓼	pie
+𩔙	pi
+𩕵	pin
+𩗏	piao
+𩗫	pi
+𩙒	piao
+𩛞	piao
+𩜰	pi
+𩠿	pie
+𩡦	piao
+𩣚	pi
+𩩍	ping
+𩫫	pi
+𩮳	piao
+𩮳	pie
+𩰗	pin
+𪄆	pi
+𪅃	piao
+𪇊	pi
+𪊕	pi
+𪋋	ping
+𪋖	piao
+𪌈	pi
+𪏫	piao
+𪔾	ping
+𪕒	ping
+𪖞	pi
+𪘀	pian
+𪛎	pi
+𬞟	pin	3
+𬭯	pie	1
+𬳵	pi	1
+𬸜	pian
+𱇒	pi

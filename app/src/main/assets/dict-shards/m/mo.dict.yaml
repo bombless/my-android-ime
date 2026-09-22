@@ -3,17 +3,77 @@ name: merged.mo
 version: "1.0"
 sort: by_weight
 ...
+㖼	mou
+㜥	mo
+㭌	mou
+㱄	mo
+㱳	mo
+㶬	mo
+㷬	mo
+㷵	mo
+㹮	mo
+㼋	mou
+㾺	mo
+䁼	mo
+䁿	mo
+䃺	mo
+䉑	mo
+䋷	mou
+䌕	mo
+䍒	mou
+䏞	mo
+䏬	mou
+䒬	mo
+䗋	mou
+䘃	mo
+䘑	mo
+䜆	mo
+䤉	mo
+䥐	mou
+䦈	mou
+䩋	mo
+䬴	mo
+䭩	mo
+䮬	mo
+䯢	mo
+䱅	mo
+䱕	mou
+䳟	mo
+䳮	mo
+䴲	mo
+万	mo
+万	mo	1
 万俟	mo qi	202
 万俟卨	mo qi xie	2
 万俟咏	mo qi yong	1
+侔	mou
+侔	mou	143
 侔夷节兮	mou yi jie xi	100
 侔色揣称	mou se chuai chen	100
+冒	mo
+冒	mo	1
 冒顿	mo du	2
 冒顿单于	mo du chan yu	7
+劘	mo
+劺	mou
+厶	mou
+呣	mou
+哞	mou
+哞	mou	1583
 哞利斯塔	mou li si ta	100
 哞哞	mou mou	1100
 哞哞叫	mou mou jiao	100
 哞哞地叫	mou mou de jiao	100
+嗼	mo
+嘿	mo
+嘿	mo	0
+嚜	mo
+嚤	mo
+圽	mo
+堥	mou
+塻	mo
+墨	mo
+墨	mo	107669
 墨丈寻常	mo zhang xun chang	1
 墨丘利	mo qiu li	100
 墨债山积	mo zhai shan ji	1
@@ -274,9 +334,27 @@ sort: by_weight
 墨麒麟	mo qi lin	200
 墨黑	mo hei	337
 墨龙睛蝶尾鱼	mo long jing die wei yu	1
+妺	mo
 妺喜	mo xi	5
+嫫	mo
+嫫	mo	2089
 嫫母	mo mu	420
+嫼	mo
+嬤	mo
+嬷	mo
+嬷	mo	9757
 嬷嬷	mo mo	3845
+寞	mo
+寞	mo	67695
+尛	mo
+帓	mo
+帞	mo
+庅	mo
+恈	mou
+懡	mo
+戂	mo
+抹	mo
+抹	mo	113249
 抹一些	mo yi xie	100
 抹一些酱	mo yi xie jiang	100
 抹一层	mo yi ceng	100
@@ -491,6 +569,8 @@ sort: by_weight
 抹黑别人	mo hei bie ren	100
 抹黑大陆	mo hei da lu	100
 抹鼻子	mo bi zi	155
+摩	mo
+摩	mo	168189
 摩丝	mo si	6560
 摩乔球螋	mo qiao qiu sou	1
 摩亨佐达罗	mo heng zuo da luo	100
@@ -755,6 +835,8 @@ sort: by_weight
 摩鹿加鹰	mo lu jia ying	1
 摩鹿绯鲤	mo lu fei li	1
 摩鹿翠叶红颈凤蝶	mo lu cui ye hong jing feng die	1
+摸	mo
+摸	mo	342354
 摸一下	mo yi xia	91
 摸一把	mo yi ba	100
 摸一摸	mo yi mo	5660
@@ -931,6 +1013,8 @@ sort: by_weight
 摸黑	mo hei	5570
 摸黑儿	mo hei er	9999
 摸鼻子	mo bi zi	333
+摹	mo
+摹	mo	4677
 摹仿穗肩鳚	mo fang sui jian wei	1
 摹写	mo xie	2285
 摹刻	mo ke	1245
@@ -940,6 +1024,14 @@ sort: by_weight
 摹本	mo ben	3135
 摹状	mo zhuang	190
 摹绘	mo hui	270
+擵	mo
+攠	mo
+敄	mou
+无	mo
+无	mo	1
+昩	mo
+末	mo
+末	mo	137858
 末世	mo shi	12180
 末世了	mo shi le	100
 末世殖民地	mo shi zhi min di	100
@@ -1076,6 +1168,9 @@ sort: by_weight
 末页	mo ye	108710
 末项	mo xiang	220
 末龄幼虫	mo ling you chong	100
+枺	mo
+某	mou
+某	mou	342978
 某一	mou yi	368365
 某一个	mou yi ge	83915
 某一个地方	mou yi ge di fang	100
@@ -1240,6 +1335,9 @@ sort: by_weight
 某项事务	mou xiang shi wu	68
 某项目	mou xiang mu	2745
 某高校	mou gao xiao	100
+桙	mou
+模	mo
+模	mo	378985
 模不模糊	mo bu mo hu	100
 模不模糊呀	mo bu mo hu ya	100
 模不模糊啊	mo bu mo hu a	100
@@ -2108,6 +2206,11 @@ sort: by_weight
 模里西斯宝螺	mo li xi si bao luo	1
 模量	mo liang	5380
 模铸	mo zhu	1350
+橅	mo
+歾	mo
+歿	mo
+殁	mo
+殁	mo	1535
 殁世	mo shi	150
 殁世不忘	mo shi bu wang	100
 殁世不朽	mo shi bu xiu	1
@@ -2116,6 +2219,9 @@ sort: by_weight
 殁年	mo nian	4
 殁而不朽	mo er bu xiu	100
 殁而无朽	mo er wu xiu	1
+沒	mo
+没	mo
+没	mo	99019
 没世	mo shi	610
 没世不忘	mo shi bu wang	80
 没世不渝	mo shi bu yu	11
@@ -2182,6 +2288,8 @@ sort: by_weight
 没齿无怨	mo chi wu yuan	2
 没齿难忘	mo chi nan wang	860
 没齿难泯	mo chi nan min	1
+沫	mo
+沫	mo	36929
 沫东镇	mo dong zhen	7
 沫儿	mo er	2110
 沫子	mo zi	1830
@@ -2189,6 +2297,8 @@ sort: by_weight
 沫状变形虫	mo zhuang bian xing chong	1
 沫若香茗	mo ruo xiang ming	10
 沫蝉科	mo chan ke	2
+漠	mo
+漠	mo	119153
 漠不关心	mo bu guan xin	11745
 漠不关心的态度	mo bu guan xin de tai du	100
 漠不关情	mo bu guan qing	1
@@ -2220,6 +2330,11 @@ sort: by_weight
 漠鵖	mo bi	1
 漠鹀属	mo wu shu	1
 漠鹑	mo chun	1
+瀎	mo
+無	mo
+爅	mo
+牟	mou
+牟	mou	13962
 牟传珩	mou chuan heng	100
 牟利	mou li	63496
 牟勒氏幼虫	mou le shi you chong	3
@@ -2243,10 +2358,25 @@ sort: by_weight
 牟氏𫚒杜父鱼	mou shi fu du fu yu	1
 牟足了劲	mou zu le jin	100
 牟逍媛	mou xiao yuan	14
+狢	mo
+獏	mo
+瘼	mo
+瘼	mo	64
+皌	mo
+眜	mo
+眸	mou
+眸	mou	59961
 眸中	mou zhong	111
 眸含春水	mou han chun shui	100
 眸子	mou zi	27895
 眸子不能掩其恶	mou zi bu neng yan qi e	1
+眽	mo
+眿	mo
+瞐	mo
+瞙	mo
+砞	mo
+磨	mo
+磨	mo	167370
 磨一下	mo yi xia	78
 磨一剑	mo yi jian	100
 磨一磨	mo yi mo	123
@@ -2472,6 +2602,9 @@ sort: by_weight
 磨齿机	mo chi ji	1585
 磨齿穴丽鱼	mo chi xue li yu	1
 磨齿钝齿鱼	mo chi dun chi yu	1
+礳	mo
+秣	mo
+秣	mo	1868
 秣厉兵马	mo li bing ma	100
 秣陵	mo ling	2
 秣陵路	mo ling lu	137
@@ -2480,6 +2613,19 @@ sort: by_weight
 秣马束兵	mo ma shu bing	100
 秣马膏车	mo ma gao che	100
 秣马蓐食	mo ma ru shi	100
+糢	mo
+絈	mo
+絔	mo
+縸	mo
+繆	mou
+纆	mo
+缪	mou
+缪	mou	14901
+耱	mo
+耱	mo	8
+脈	mo
+脉	mo
+脉	mo	1
 脉脉	mo mo	222
 脉脉不得语	mo mo bu de yu	27
 脉脉不语	mo mo bu yu	111
@@ -2488,6 +2634,8 @@ sort: by_weight
 脉脉此情谁诉	mo mo ci qing shei su	100
 脉脉此情谁诉	mo mo ci qing shui su	100
 脉脉温情	mo mo wen qing	100
+膜	mo
+膜	mo	26833
 膜分离	mo fen li	5385
 膜厚度	mo hou du	100
 膜厚计	mo hou ji	205
@@ -2535,6 +2683,8 @@ sort: by_weight
 膜运输蛋白	mo yun shu dan bai	100
 膜颅	mo lu	27
 膜颅间关节	mo lu jian guan jie	1
+茉	mo
+茉	mo	16199
 茉织华	mo zhi hua	8
 茉艾拉	mo ai la	100
 茉艾拉索瑞森	mo ai la suo rui sen	100
@@ -2555,6 +2705,9 @@ sort: by_weight
 茉莉香水	mo li xiang shui	8
 茉莉鱼丁	mo li yu ding	3
 茉藜园	mo li yuan	12
+莈	mo
+莫	mo
+莫	mo	485268
 莫三妹	mo san mei	100
 莫三比克	mo san bi ke	100
 莫三比克口孵非鲫	mo san bi ke kou fu fei ji	1
@@ -3032,11 +3185,17 @@ sort: by_weight
 莫高股份	mo gao gu fen	51
 莫高雷	mo gao lei	100
 莫鲁瓦	mo lu wa	60
+蓦	mo
+蓦	mo	36965
 蓦地	mo de	6710
 蓦地里	mo de li	100
 蓦然	mo ran	2325
 蓦然回首	mo ran hui shou	14425
 蓦然间	mo ran jian	2465
+藦	mo
+藦	mo	33
+蘑	mo
+蘑	mo	7944
 蘑菇	mo gu	75490
 蘑菇丁	mo gu ding	111
 蘑菇云	mo gu yun	2200
@@ -3057,6 +3216,17 @@ sort: by_weight
 蘑菇钉	mo gu ding	222
 蘑菇顶海螺	mo gu ding hai luo	1
 蘑蘑菇	mo mo gu	100
+蛑	mou
+蛑	mou	61
+蛨	mo
+蟆	mo
+蟔	mo
+袹	mo
+謀	mou
+謨	mo
+謩	mo
+谋	mou
+谋	mou	204688
 谋为不轨	mou wei bu gui	100
 谋主	mou zhu	890
 谋事	mou shi	5495
@@ -3157,9 +3327,27 @@ sort: by_weight
 谋面	mou mian	10530
 谋食	mou shi	620
 谋黄忠	mou huang zhong	100
+谟	mo
+谟	mo	3201
+貃	mo
+貈	mo
+貉	mo
+貊	mo
+貊	mo	990
 貊乡鼠壤	mo xiang shu rang	2
 貊乡鼠攘	mo xiang shu rang	1
+貘	mo
+貘	mo	508
+踎	mou
+銆	mo
+鍪	mou
+鍪	mou	305
+鏌	mo
+镆	mo
+镆	mo	117
 镆元素	mo yuan su	100
+陌	mo
+陌	mo	97194
 陌上	mo shang	6
 陌上尧樽倾北斗	mo shang yao zun qing bei dou	1
 陌上桑	mo shang sang	925
@@ -3198,8 +3386,20 @@ sort: by_weight
 陌路人	mo lu ren	2665
 陌路相逢	mo lu xiang feng	24
 陌陌	mo mo	5555
+靺	mo
+靺	mo	566
 靺鞨	mo he	1
+鞪	mou
+饃	mo
+饝	mo
+馍	mo
+馍	mo	4217
 馍馍	mo mo	4026
+驀	mo
+骳	mo
+髍	mo
+魔	mo
+魔	mo	1160330
 魔丸	mo wan	7
 魔丽鮨	mo li yi	1
 魔人	mo ren	2222
@@ -3619,6 +3819,16 @@ sort: by_weight
 魔龙枪	mo long qiang	100
 魔龙狂舞	mo long kuang wu	100
 魔龙的狂舞	mo long de kuang wu	100
+魩	mo
+魹	mo
+鴾	mou
+麰	mou
+麼	mo
+麽	mo
+麽	mo	98
+麿	mo	1
+默	mo
+默	mo	454458
 默丁格	mo ding ge	100
 默不作声	mo bu zuo sheng	9135
 默书	mo shu	95
@@ -3807,3 +4017,100 @@ sort: by_weight
 默默祈祷	mo mo qi dao	157
 默默耕耘	mo mo geng yun	4090
 默默酱	mo mo jiang	100
+黙	mo
+𠀱	mou
+𠄮	mo
+𠆮	mo
+𠇱	mo
+𠡞	mo
+𠢓	mo
+𠥨	mou
+𠬛	mo
+𠻚	mo
+𡈗	mo
+𡊉	mo
+𡠜	mo
+𡡉	mo
+𡢜	mo
+𡻟	mo
+𡾉	mo
+𢃱	mou
+𢄏	mo
+𢊗	mo
+𢐖	mo
+𢗿	mo
+𢜯	mou
+𢣗	mo
+𢳀	mo
+𣋟	mo
+𣧒	mo
+𣧣	mo
+𣫬	mou
+𣶊	mo
+𣻕	mo
+𤋂	mo
+𤣻	mo
+𤹴	mo
+𤿖	mo
+𥂓	mo
+𥄕	mo
+𥆆	mou
+𥕓	mo
+𥙎	mo
+𥞪	mo
+𥬎	mo
+𥱹	mo
+𥽘	mo
+𥿉	mo
+𥿵	mou
+𦅔	mo
+𦊋	mou
+𦊎	mou
+𦋡	mou
+𦔭	mo
+𦟟	mo
+𦥦	mo
+𦫕	mo
+𦭷	mou
+𦮅	mo
+𦳑	mou
+𦺒	mou
+𧀅	mo
+𧎄	mou
+𧎻	mou
+𧕤	mo
+𧕥	mo
+𧠓	mo
+𧥟	mo
+𧰱	mo
+𧻙	mo
+𧼟	mo
+𧿴	mo
+𨆽	mo
+𨟖	mo
+𨰞	mo
+𨱱	mo
+𨴍	mou
+𩃁	mo
+𩄻	mo
+𩌧	mo
+𩎟	mo
+𩐻	mo
+𩑦	mo
+𩑷	mo
+𩞁	mo
+𩟠	mo
+𩢖	mo
+𩢫	mou
+𩢷	mo
+𩥔	mo
+𩪮	mo
+𩶢	mou
+𩿣	mo
+𪍇	mo
+𪍤	mo
+𪎠	mo
+𪏟	mo
+𪒂	mo
+𪒇	mo
+𬙊	mo	1

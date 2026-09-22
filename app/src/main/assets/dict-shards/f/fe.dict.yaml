@@ -3,6 +3,59 @@ name: merged.fe
 version: "1.0"
 sort: by_weight
 ...
+㒥	feng
+㓈	fei
+㔗	fei
+㖹	fen
+㡝	feng
+㥱	fei
+㥹	fen
+㦀	feng
+㩌	fei
+㫵	fei
+㭭	fei
+㮥	fen
+㱵	fen
+㵒	fei
+㵯	feng
+㷊	fen
+㸬	fei
+㸮	fen
+㹃	fei
+㾱	fei
+㿎	fen
+䀟	fei
+䀟	fen
+䆏	fei
+䈈	fei
+䉬	fei
+䍨	fei
+䏎	feng
+䑔	fei
+䒈	fei
+䒠	feng
+䕁	fei
+䕠	fei
+䙜	feng
+䚨	fei
+䛍	fei
+䞳	fei
+䟪	feng
+䠊	fei
+䢍	fen
+䤵	fei
+䨽	fei
+䨾	fei
+䩁	fei
+䩬	feng
+䩼	feng
+䩿	fen
+䯨	fen
+䰁	fei
+䴅	fen
+䵄	feng
+丰	feng
+丰	feng	169048
 丰上杀下	feng shang sha xia	1
 丰上锐下	feng shang rui xia	100
 丰下楢彦	feng xia you yan	1
@@ -353,6 +406,9 @@ sort: by_weight
 丰饶之地	feng rao zhi di	100
 丰饶之角	feng rao zhi jiao	100
 丰饶角	feng rao jiao	100
+仹	feng
+份	fen
+份	fen	493685
 份上	fen shang	24960
 份儿	fen er	11680
 份儿菜	fen er cai	9999
@@ -364,6 +420,9 @@ sort: by_weight
 份额	fen e	296090
 份额净值增长	fen e jing zhi zeng zhang	100
 份饭	fen fan	1390
+俷	fei
+俸	feng
+俸	feng	5469
 俸伯小学	feng bo xiao xue	3
 俸伯村	feng bo cun	1
 俸禄	feng lu	9635
@@ -373,7 +432,14 @@ sort: by_weight
 俸金	feng jin	135
 俸钱	feng qian	1111
 俸钱万六千	feng qian wan liu qian	3
+偑	feng
+偾	fen
+偾	fen	212
 偾军之将	fen jun zhi jiang	100
+僨	fen
+僼	feng
+冯	feng
+冯	feng	115225
 冯·诺伊曼	feng nuo yi man	1
 冯一刀	feng yi dao	1
 冯一萌	feng yi meng	1
@@ -491,6 +557,8 @@ sort: by_weight
 冯颖琪	feng ying qi	100
 冯骏骅	feng jun hua	139
 冯骥才	feng ji cai	4415
+凤	feng
+凤	feng	288364
 凤与凰	feng yu huang	100
 凤丹白	feng dan bai	3
 凤于九天	feng yu jiu tian	107
@@ -895,6 +963,11 @@ sort: by_weight
 凤龙	feng long	30
 凤龙湾	feng long wan	100
 凤𬸦	feng zhuo	2
+凨	feng
+凬	feng
+凮	feng
+分	fen
+分	fen	2568782
 分一下	fen yi xia	12
 分一个	fen yi ge	76
 分一分	fen yi fen	1365
@@ -2628,6 +2701,10 @@ sort: by_weight
 分高	fen gao	1111
 分高下	fen gao xia	100
 分龄	fen ling	385
+剕	fei
+剕	fei	9
+匪	fei
+匪	fei	72837
 匪人	fei ren	1350
 匪伊朝夕	fei yi zhao xi	6
 匪兵	fei bing	1310
@@ -2662,6 +2739,9 @@ sort: by_weight
 匪过如梳	fei guo ru shu	100
 匪里匪气	fei li fei qi	2
 匪首	fei shou	4080
+厞	fei
+吠	fei
+吠	fei	6242
 吠叫	fei jiao	4295
 吠声	fei sheng	1250
 吠声吠影	fei sheng fei ying	100
@@ -2672,12 +2752,23 @@ sort: by_weight
 吠陀	fei tuo	2625
 吠陀经	fei tuo jing	300
 吠非其主	fei fei qi zhu	100
+吩	fen
+吩	fen	72921
 吩咐	fen fu	102765
 吩咐过	fen fu guo	100
 吩嗪	fen qin	65
 吩噻嗪	fen sai qin	2
 吩𫫇噻	fen e sai	2
+唪	feng
+唪	feng	99
 唪经	feng jing	1
+啡	fei
+啡	fei	74499
+坆	fen
+坋	fen
+坋	fen	1
+坟	fen
+坟	fen	37471
 坟上村	fen shang cun	8
 坟丘	fen qiu	785
 坟典	fen dian	260
@@ -2705,6 +2796,13 @@ sort: by_weight
 坟少爷	fen shao ye	100
 坟山	fen shan	1185
 坟茔	fen ying	2250
+埄	feng
+堸	feng
+堼	feng
+墳	fen
+夆	feng
+奉	feng
+奉	feng	131631
 奉三无私	feng san wu si	8
 奉上	feng shang	25105
 奉为	feng wei	20300
@@ -2853,6 +2951,8 @@ sort: by_weight
 奉陪到底	feng pei dao di	1590
 奉顺英	feng shun ying	68
 奉香上寿	feng xiang shang shou	3
+奋	fen
+奋	fen	269740
 奋不虑身	fen bu lv shen	1
 奋不起	fen bu qi	78
 奋不顾命	fen bu gu ming	1
@@ -2974,12 +3074,23 @@ sort: by_weight
 奋进者	fen jin zhe	179
 奋飞	fen fei	1725
 奋飞横绝	fen fei heng jue	1
+奜	fei
+奮	fen
+妃	fei
+妃	fei	94415
 妃嫔	fei pin	4970
 妃嫔媵嫱	fei pin ying qiang	50
 妃子	fei zi	14810
 妃子笑	fei zi xiao	1395
 妃悠爱	fei you ai	6666
 妃色	fei se	280
+妢	fen
+妦	feng
+婓	fei
+婔	fei
+寷	feng
+封	feng
+封	feng	341037
 封一	feng yi	3135
 封一封	feng yi feng	123
 封一辈子	feng yi bei zi	100
@@ -3348,6 +3459,11 @@ sort: by_weight
 封魔录	feng mo lu	885
 封魔结界	feng mo jie jie	100
 封黑法印	feng hei fa yin	100
+屝	fei
+岎	fen
+峯	feng
+峰	feng
+峰	feng	245132
 峰下	feng xia	8305
 峰不二子	feng bu er zi	1
 峰中	feng zhong	2845
@@ -3397,6 +3513,12 @@ sort: by_weight
 峰顶	feng ding	25775
 峰骈仙掌出	feng pian xian zhang chu	1
 峰高	feng gao	1465
+崶	feng
+崶	feng	1
+帉	fen
+幩	fen
+废	fei
+废	fei	148745
 废不了	fei bu liao	40
 废为庶人	fei wei shu ren	430
 废书而叹	fei shu er tan	100
@@ -3579,6 +3701,11 @@ sort: by_weight
 废黜	fei chu	2700
 废黜太子	fei chu tai zi	100
 废黜帝制	fei chu di zhi	100
+廃	fei
+廢	fei
+弅	fen
+忿	fen
+忿	fen	19358
 忿恚	fen hui	285
 忿戾	fen li	95
 忿火中烧	fen huo zhong shao	1
@@ -3586,8 +3713,12 @@ sort: by_weight
 忿然作色	fen ran zuo se	155
 忿狷	fen juan	1
 忿詈	fen li	10
+悱	fei
+悱	fei	1249
 悱恻	fei ce	1120
 悱恻缠绵	fei ce chan mian	275
+愤	fen
+愤	fen	195304
 愤不欲生	fen bu yu sheng	100
 愤世	fen shi	1310
 愤世嫉俗	fen shi ji su	7115
@@ -3637,8 +3768,14 @@ sort: by_weight
 愤而辞职	fen er ci zhi	710
 愤青	fen qing	17635
 愤风惊浪	fen feng jing lang	1
+憤	fen
+扉	fei
+扉	fei	9977
 扉画	fei hua	45
 扉页	fei ye	14840
+摓	feng
+斐	fei
+斐	fei	15019
 斐林试剂	fei lin shi ji	100
 斐波拉契数列	fei bo la qi shu lie	350
 斐波那契	fei bo na qi	1625
@@ -3667,7 +3804,19 @@ sort: by_weight
 斐豹蛱蝶	fei bao jia die	100
 斐迪南	fei di nan	1060
 斐迪南德	fei di nan de	3
+昐	fen
+昲	fei
+暃	fei
+曊	fei
+朆	fen
+朌	fen
+朏	fei
+朏	fei	26
 朏头	fei tou	3
+杮	fei
+枌	fen
+枫	feng
+枫	feng	177695
 枫与铃	feng yu ling	100
 枫丹白露	feng dan bai lu	2735
 枫丹雅苑	feng dan ya yuan	12
@@ -3754,7 +3903,26 @@ sort: by_weight
 枫香木	feng xiang mu	100
 枫香村	feng xiang cun	34
 枫香树	feng xiang shu	100
+柹	fei
+桻	feng
+梤	fen
+棐	fei
+棐	fei	15
+棻	fen
+棻	fen	97
+棼	fen
+棼	fen	238
+楓	feng
+榧	fei
+榧	fei	224
 榧子	fei zi	1
+橃	fei
+橨	fei
+橨	fen
+檒	feng
+櫠	fei
+氛	fen
+氛	fen	95504
 氛围	fen wei	4316
 氛围下	fen wei xia	85
 氛围中	fen wei zhong	28325
@@ -3764,6 +3932,8 @@ sort: by_weight
 氛埃辟而清凉	fen ai pi er qing liang	2
 氛雾冥冥	fen wu ming ming	1
 氛霾	fen mai	10
+汾	fen
+汾	fen	2940
 汾东公寓	fen dong gong yu	8
 汾宁白糖棉花糕	fen ning bai tang mian hua gao	6
 汾州府	fen zhou fu	100
@@ -3795,6 +3965,8 @@ sort: by_weight
 汾阳市	fen yang shi	1275
 汾阳路	fen yang lu	70
 汾陈村	fen chen cun	1
+沣	feng
+沣	feng	3396
 沣东	feng dong	284
 沣东镇	feng dong zhen	2
 沣惠南路	feng hui nan lu	157
@@ -3804,7 +3976,11 @@ sort: by_weight
 沣河新区	feng he xin qu	1
 沣河桥	feng he qiao	21
 沣镐东路	feng gao dong lu	19
+沨	feng
+沨	feng	1244
 沨沨	feng feng	1
+沸	fei
+沸	fei	42184
 沸反摇天	fei fan yao tian	100
 沸反盈天	fei fan ying tian	565
 沸反连天	fei fan lian tian	1
@@ -3831,10 +4007,28 @@ sort: by_weight
 沸腾鱼	fei teng yu	2277
 沸腾鱼乡	fei teng yu xiang	100
 泛驾之马	feng jia zhi ma	100
+浲	feng
+浲	feng	1
+淝	fei
+淝	fei	843
 淝南乡	fei nan xiang	7
 淝水	fei shui	1190
 淝水之战	fei shui zhi zhan	1525
+渄	fei
+渢	feng
+湗	feng
+溄	feng
+漨	feng
+濆	fen
+濷	fei
+瀵	fen
+瀵	fen	5
 瀵泉	fen quan	2
+灃	feng
+炃	fen
+炐	feng
+烽	feng
+烽	feng	6755
 烽火	feng huo	43165
 烽火台	feng huo tai	9445
 烽火台斗五连鞭	feng huo tai dou wu lian bian	100
@@ -3861,6 +4055,8 @@ sort: by_weight
 烽燧	feng sui	3170
 烽燹	feng xian	4
 烽鼓不息	feng gu bu xi	1
+焚	fen
+焚	fen	39561
 焚书	fen shu	2790
 焚书坑儒	fen shu keng ru	3195
 焚典坑儒	fen dian keng ru	100
@@ -3918,8 +4114,26 @@ sort: by_weight
 焚香谷谷主	fen xiang gu gu zhu	100
 焚香顶礼	fen xiang ding li	440
 焚骨扬灰	fen gu yang hui	100
+焨	feng
+煈	feng
+熢	feng
+燌	fen
+燓	fen
+犎	feng
+犻	fei
+狒	fei
+狒	fei	2002
 狒狒	fei fei	4030
 狒狒花	fei fei hua	1
+猆	fei
+猦	feng
+獖	fen
+玢	fen
+玢	fen	592
+琒	feng
+甮	feng
+疯	feng
+疯	feng	244767
 疯不疯	feng bu feng	111
 疯丫头	feng ya tou	2150
 疯了	feng le	80700
@@ -4040,8 +4254,28 @@ sort: by_weight
 疯马秀	feng ma xiu	100
 疯驴子	feng lv zi	100
 疯魔	feng mo	8435
+疿	fei
+痱	fei
+痱	fei	434
 痱子	fei zi	5850
 痱子粉	fei zi fen	1125
+瘋	feng
+癈	fei
+盽	feng
+瞓	fen
+砏	fen
+砜	feng
+砜	feng	49
+砩	fei
+碸	feng
+秎	fen
+竕	fen
+笰	fei
+篈	feng
+篚	fei
+篚	fei	29
+粉	fen
+粉	fen	151878
 粉丝	fen si	114010
 粉丝们	fen si men	6505
 粉丝们觉得	fen si men jue de	100
@@ -4360,6 +4594,8 @@ sort: by_weight
 粉黛子	fen dai zi	176
 粉黛生春	fen dai sheng chun	1
 粉黛草	fen dai cao	132
+粪	fen
+粪	fen	16072
 粪产碱杆菌	fen chan jian gan jun	1
 粪作	fen zuo	317
 粪便	fen bian	73780
@@ -4406,6 +4642,13 @@ sort: by_weight
 粪车	fen che	2460
 粪金龟	fen jin gui	100
 粪金龟子	fen jin gui zi	100
+糞	fen
+紛	fen
+綘	feng
+緋	fei
+縫	feng
+纷	fen
+纷	fen	308101
 纷乱	fen luan	20335
 纷乱不宁	fen luan bu ning	100
 纷乱如麻	fen luan ru ma	300
@@ -4479,6 +4722,8 @@ sort: by_weight
 纷至沓来	fen zhi ta lai	16035
 纷起	fen qi	1995
 纷飞	fen fei	24840
+绯	fei
+绯	fei	23150
 绯弹的亚里亚	fei dan de ya li ya	100
 绯忍传	fei ren zhuan	100
 绯月仙行录	fei yue xian xing lu	100
@@ -4514,6 +4759,8 @@ sort: by_weight
 绯闻曝光	fei wen bao guang	100
 绯闻男友	fei wen nan you	2155
 绯额锥尾鹦鹉	fei e zhui wei ying wu	1
+缝	feng
+缝	feng	94012
 缝一下	feng yi xia	123
 缝一缝	feng yi feng	456
 缝上	feng shang	4050
@@ -4593,6 +4840,12 @@ sort: by_weight
 缝隙连接	feng xi lian jie	140
 缝隙里	feng xi li	4475
 缝隙间	feng xi jian	2070
+羒	fen
+羵	fen
+翂	fen
+翂	fen	7
+翡	fei
+翡	fei	10243
 翡丽城	fei li cheng	159
 翡冷翠	fei leng cui	7140
 翡冷翠提拉米苏	fei leng cui ti la mi su	6
@@ -4647,6 +4900,8 @@ sort: by_weight
 翡翠黄金缕	fei cui huang jin lv	1
 翡若翠属	fei ruo cui shu	100
 翡若翠科	fei ruo cui ke	100
+肥	fei
+肥	fei	93039
 肥䐛䐛	fei da da	2
 肥䐛䐛的	fei da da de	2
 肥东	fei dong	3375
@@ -4823,6 +5078,8 @@ sort: by_weight
 肥鸡	fei ji	8
 肥鸭	fei ya	1610
 肥鹅	fei e	8
+肺	fei
+肺	fei	38759
 肺上	fei shang	10300
 肺上沟	fei shang gou	100
 肺上沟瘤	fei shang gou liu	100
@@ -4984,6 +5241,11 @@ sort: by_weight
 肺静脉	fei jing mai	2005
 肺鱼	fei yu	3068
 肺鼠疫	fei shu yi	120
+胇	fei
+胏	fei
+胐	fei
+腓	fei
+腓	fei	1737
 腓侧副韧带	fei ce fu ren dai	2
 腓利门书	fei li men shu	100
 腓力	fei li	1
@@ -5006,6 +5268,10 @@ sort: by_weight
 腓骨短肌	fei gu duan ji	2
 腓骨肌萎缩	fei gu ji wei suo	4
 腓骨颈	fei gu jing	1
+膹	fen
+艂	feng
+芬	fen
+芬	fen	63866
 芬兰	fen lan	85475
 芬兰丝毛犬	fen lan si mao quan	3
 芬兰人	fen lan ren	2260
@@ -5043,6 +5309,11 @@ sort: by_weight
 芬达	fen da	7410
 芬里斯岛	fen li si dao	3
 芬香	fen xiang	1995
+芾	fei
+芾	fei	624
+莑	feng
+菲	fei
+菲	fei	252624
 菲丽菲拉	fei li fei la	192
 菲亚梅塔	fei ya mei ta	100
 菲亚特	fei ya te	29670
@@ -5156,7 +5427,18 @@ sort: by_weight
 菲酌	fei zhuo	30
 菲食卑宫	fei shi bei gong	100
 菲鲁斯	fei lu si	118
+萉	fei
+葑	feng
+葑	feng	123
 葑菲之采	feng fei zhi cai	100
+蒶	fen
+蕜	fei
+蕡	fen
+蘴	feng
+蚠	fen
+蚡	fen
+蜂	feng
+蜂	feng	43028
 蜂乱蝶狂	feng luan die kuang	100
 蜂乳	feng ru	199
 蜂产品	feng chan pin	9695
@@ -5294,6 +5576,8 @@ sort: by_weight
 蜂鸣器	feng ming qi	8605
 蜂黄暗偷晕	feng huang an tou yun	1
 蜂黄蝶粉	feng huang die fen	100
+蜚	fei
+蜚	fei	2915
 蜚克图	fei ke tu	108
 蜚声	fei sheng	9770
 蜚声世界	fei sheng shi jie	100
@@ -5307,6 +5591,17 @@ sort: by_weight
 蜚蠊目	fei lian mu	100
 蜚蠊科	fei lian ke	100
 蜚言蜚语	fei yan fei yu	100
+蜰	fei
+蟦	fei
+蠭	feng
+衯	fen
+裶	fei
+覂	feng
+訜	fen
+誹	fei
+諷	feng
+讽	feng
+讽	feng	48150
 讽一劝百	feng yi quan bai	100
 讽刺	feng ci	81930
 讽刺作品	feng ci zuo pin	160
@@ -5328,13 +5623,23 @@ sort: by_weight
 讽德诵功	feng de song gong	1
 讽诵	feng song	1330
 讽谏	feng jian	835
+诽	fei
+诽	fei	3969
 诽誉在俗	fei yu zai su	1
 诽谤	fei bang	129950
 诽谤之木	fei bang zhi mu	7
 诽谤之术	fei bang zhi shu	1
 诽谤性	fei bang xing	480
 诽谤罪	fei bang zui	2325
+豐	feng
+豮	fen
+豮	fen	1
 豮猪	fen zhu	1
+豶	fen
+費	fei
+賵	feng
+费	fei
+费	fei	449492
 费不了	fei bu liao	330
 费不费水	fei bu fei shui	100
 费不费水呀	fei bu fei shui ya	100
@@ -5577,6 +5882,12 @@ sort: by_weight
 费马定理	fei ma ding li	80
 费马小定理	fei ma xiao ding li	1380
 费高云	fei gao yun	121
+赗	feng
+赗	feng	7
+躮	fen
+轒	fen
+逢	feng
+逢	feng	65867
 逢七	feng qi	2777
 逢三	feng san	3333
 逢中必反	feng zhong bi fan	100
@@ -5651,11 +5962,16 @@ sort: by_weight
 逢高卖出	feng gao mai chu	640
 逢魔时	feng mo shi	100
 逢魔时刻	feng mo shi ke	100
+鄷	feng
+酆	feng
+酆	feng	878
 酆都	feng du	2022
 酆都城	feng du cheng	111
 酆都大帝	feng du da di	100
 酆都女王	feng dou nv wang	1
 酆都鬼城	feng du gui cheng	999
+酚	fen
+酚	fen	329
 酚中毒	fen zhong du	1
 酚咖麻敏胶囊	fen ka ma min jiao nang	15
 酚妥拉明	fen tuo la ming	6
@@ -5674,6 +5990,14 @@ sort: by_weight
 酚醛树脂	fen quan shu zhi	6180
 酚醛胶	fen quan jiao	100
 酚麻美敏片	fen ma mei min pian	15
+鈖	fen
+鋒	feng
+鎽	feng
+鏠	feng
+鐨	fei
+鐼	fen
+锋	feng
+锋	feng	232525
 锋不可当	feng bu ke dang	100
 锋兰达	feng lan da	177
 锋刃	feng ren	3550
@@ -5708,12 +6032,24 @@ sort: by_weight
 锋面	feng mian	3100
 锋面系统	feng mian xi tong	173
 锋面雨	feng mian yu	100
+镄	fei
+镄	fei	15
 镄元素	fei yuan su	100
+陫	fei
+隫	fen
+雰	fen
+霏	fei
+霏	fei	11940
 霏丝佳	fei si jia	173
 霏微	fei wei	1
 霏欧纳	fei ou na	100
 霏霏	fei fei	2
 霏霏细雨	fei fei xi yu	100
+霻	feng
+靅	fei
+靊	feng
+非	fei
+非	fei	1219442
 非一些	fei yi xie	60
 非一家	fei yi jia	135
 非一日之功	fei yi ri zhi gong	100
@@ -7747,6 +8083,11 @@ sort: by_weight
 非鬼非人意其仙	fei gui fei ren yi qi xian	1
 非麻醉	fei ma zui	205
 非黑	fei hei	2
+靟	fei
+風	feng
+飌	feng
+风	feng
+风	feng	2175031
 风不小	feng bu xiao	100
 风不止	feng bu zhi	100
 风不调	feng bu tiao	100
@@ -9079,6 +9420,10 @@ sort: by_weight
 风龙废墟	feng long fei xu	174
 风龙魂	feng long hun	107
 风龙鳞盔甲	feng long lin kui jia	1
+飛	fei
+飝	fei
+飞	fei
+飞	fei	1593771
 飞一会儿	fei yi hui er	100
 飞一样的感觉	fei yi yang de gan jue	100
 飞一般	fei yi ban	5955
@@ -9946,7 +10291,168 @@ sort: by_weight
 飞龙汤	fei long tang	83
 飞龙皮甲	fei long pi jia	1
 飞龙皮长靴	fei long pi chang xue	1
+餥	fei
+餴	fen
+饙	fen
+馚	fen
+馡	fei
+馩	fen
+馮	feng
+騑	fei
+騛	fei
+魵	fen
+鯡	fei
+鱝	fen
+鲱	fei
+鲱	fei	213
 鲱形白鲑	fei xing bai gui	1
 鲱形目	fei xing mu	100
 鲱鱼	fei yu	3195
+鲼	fen
+鲼	fen	107
+鳯	feng
+鳳	feng
+鳻	fen
+鴌	feng
+麷	feng
+黂	fen
+黺	fen
+鼖	fen
+鼢	fen
+鼢	fen	13
 鼢鼠	fen shu	260
+鼣	fei
+𠏿	fei
+𠛸	fen
+𠮆	fei
+𠲎	fei
+𠵮	fen
+𠻫	fen
+𡉚	feng
+𡊄	fen
+𡊅	fen
+𡌦	fei
+𡕖	feng
+𡨖	fen
+𡨛	feng
+𡵞	feng
+𢁤	fen
+𢅯	fen
+𢇫	feng
+𢊱	fen
+𢑮	fei
+𢒍	fei
+𢓱	feng
+𢚅	fen
+𢧝	fen
+𢪋	feng
+𢳁	fei
+𢴢	fen
+𢹔	fen
+𢾺	fei
+𣍧	fei
+𣙿	fei
+𣬩	fen
+𣯻	fen
+𣱦	fen
+𣸣	fen
+𣸣	fen	1
+𣿝	feng
+𤔟	fen
+𤖀	feng
+𤖘	fen
+𤗸	fen
+𤘝	fen
+𤝟	fei
+𤰪	fen
+𤷂	fei
+𤺕	fei
+𤼺	fei
+𥂙	fen
+𥄱	fei
+𥇖	fei
+𥊒	feng
+𥍮	feng
+𥛝	feng
+𥝊	fei
+𥝋	fei
+𥟍	fei
+𥠶	fei
+𥭬	fei
+𥳡	fen
+𥷜	feng
+𥹻	fen
+𥽈	feng
+𥽒	fen
+𦃄	fei
+𦍏	fen
+𦍪	fen
+𦐈	fen
+𦜁	feng
+𦦑	fen
+𦧁	feng
+𦰛	fen
+𦱷	fei
+𦶚	fen
+𧆉	feng
+𧌘	fei
+𧍃	fei
+𧍯	feng
+𧑈	fei
+𧓖	fei
+𧕒	fei
+𧕿	fei
+𧚆	fei
+𧝇	fei
+𧥹	feng
+𧮱	fen
+𧷐	fen
+𧾳	feng
+𧿚	fen
+𧿳	fei
+𨎾	fen
+𨚓	fei
+𨝭	feng
+𨤘	fen
+𨤚	fen
+𨩥	feng
+𨲫	feng
+𨳚	fen
+𨳣	fen
+𨵈	fei
+𨷒	fen
+𨺢	feng
+𨻃	fei
+𩄼	fei
+𩆦	fei
+𩇫	fei
+𩇮	fei
+𩇯	fei
+𩇽	fei
+𩉧	feng
+𩉵	fen
+𩊩	feng
+𩋮	feng
+𩐯	feng
+𩘵	feng
+𩙐	feng
+𩙣	feng
+𩙲	fei
+𩡷	fei
+𩡷	fen
+𩢈	fen
+𩦎	fei
+𩪌	feng
+𩯃	fei
+𩰟	fen
+𩰲	fei
+𩰾	fei
+𩱎	fei
+𩵥	fei
+𩸂	fen
+𩹉	fei
+𩿈	fen
+𪁹	fei
+𪂏	fei
+𪐃	feng
+𬴂	fei	7

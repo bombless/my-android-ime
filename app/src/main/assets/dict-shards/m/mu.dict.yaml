@@ -3,12 +3,36 @@ name: merged.mu
 version: "1.0"
 sort: by_weight
 ...
+㒇	mu
+㙁	mu
+㜈	mu
+㟂	mu
+㡔	mu
+㣎	mu
+㧅	mu
+㫛	mu
+㾇	mu
+䀲	mu
+䁼	mu
+䊾	mu
+䑵	mu
+䥈	mu
+䧔	mu
+䮸	mu
+䱯	mu
+亩	mu
+亩	mu	13986
 亩产	mu chan	37680
 亩产值	mu chan zhi	2375
 亩产量	mu chan liang	3515
 亩土地	mu tu di	100
 亩数	mu shu	1210
+仫	mu
+仫	mu	27
 仫佬族	mu lao zu	2180
+凩	mu
+募	mu
+募	mu	13095
 募兵	mu bing	2020
 募兵制	mu bing zhi	875
 募化	mu hua	1085
@@ -30,8 +54,12 @@ sort: by_weight
 募集设立	mu ji she li	3010
 募集资金	mu ji zi jin	100
 募集资金规模	mu ji zi jin gui mo	100
+呒	mu	1
 呒虾米	mu xia mi	100
 呒虾米输入法	mu xia mi shu ru fa	100
+坶	mu
+墓	mu
+墓	mu	71994
 墓中	mu zhong	10610
 墓主	mu zhu	404
 墓冢	mu zhong	99
@@ -66,6 +94,8 @@ sort: by_weight
 墓被盗	mu bei dao	100
 墓道	mu dao	6975
 墓门	mu men	2560
+姆	mu
+姆	mu	140194
 姆万扎平头飞龙蜥蜴	mu wan zha ping tou fei long xi yi	1
 姆亚菈丝	mu ya la si	1
 姆克儿	mu ke er	100
@@ -87,7 +117,13 @@ sort: by_weight
 姆贝基	mu bei ji	359
 姆韦鲁湖口孵非鲫	mu wei lu hu kou fu fei ji	1
 姆韦鲁湖小棱鲱	mu wei lu hu xiao leng fei	1
+姥	mu
+姥	mu	1
 姥鲨	mu sha	2
+娒	mu
+峔	mu
+幕	mu
+幕	mu	186169
 幕上燕巢	mu shang yan chao	1
 幕下	mu xia	55
 幕下力士	mu xia li shi	100
@@ -145,6 +181,10 @@ sort: by_weight
 幕间休息	mu jian xiu xi	100
 幕间曲	mu jian qu	170
 幕骨	mu gu	18
+幙	mu
+慔	mu
+慕	mu
+慕	mu	186450
 慕中华	mu zhong hua	1
 慕亚平	mu ya ping	94
 慕光性	mu guang xing	100
@@ -207,6 +247,8 @@ sort: by_weight
 慕达夫	mu da fu	100
 慕道友	mu dao you	100
 慕风蘑菇	mu feng mo gu	100
+拇	mu
+拇	mu	19655
 拇战	mu zhan	95
 拇指	mu zhi	73945
 拇指一族	mu zhi yi zu	585
@@ -222,6 +264,8 @@ sort: by_weight
 拇指腕掌	mu zhi wan zhang	20
 拇趾隆起	mu zhi long qi	1
 拇长展肌	mu chang zhan ji	1
+暮	mu
+暮	mu	32619
 暮久酱	mu jiu jiang	100
 暮之霞	mu zhi xia	100
 暮云	mu yun	641
@@ -305,6 +349,9 @@ sort: by_weight
 暮鼓晨钟	mu gu chen zhong	1460
 暮鼓朝钟	mu gu zhao zhong	1
 暮鼠	mu shu	1
+暯	mu
+木	mu
+木	mu	547209
 木七七	mu qi qi	109
 木三对	mu san dui	4
 木下	mu xia	85
@@ -934,6 +981,10 @@ sort: by_weight
 木齿耙	mu chi ba	100
 木龙湖	mu long hu	26
 木龙骨	mu long gu	6035
+朷	mu
+楘	mu
+模	mu
+模	mu	378985
 模具	mu ju	302485
 模具专业	mu ju zhuan ye	100
 模具业	mu ju ye	100
@@ -1127,6 +1178,9 @@ sort: by_weight
 模温机	mu wen ji	2665
 模锻	mu duan	2870
 模锻件	mu duan jian	100
+樢	mu
+母	mu
+母	mu	701521
 母丁香	mu ding xiang	6
 母与子	mu yu zi	1680
 母乌龟	mu wu gui	5
@@ -1348,7 +1402,13 @@ sort: by_weight
 母麻雀	mu ma que	5
 母鼠	mu shu	1432
 母龟	mu gui	5
+毣	mu
+毪	mu
+毪	mu	94
 毪子	mu zi	1
+氁	mu
+沐	mu
+沐	mu	43038
 沐三	mu san	4
 沐丹阳	mu dan yang	37
 沐之晴	mu zhi qing	100
@@ -1390,10 +1450,15 @@ sort: by_weight
 沐雨梳风	mu yu shu feng	1
 沐雨经霜	mu yu jing shuang	100
 沐霞路	mu xia lu	2
+炑	mu
+牟	mu
+牟	mu	1
 牟平	mu ping	1
 牟平区	mu ping qu	2255
 牟平县	mu ping xian	365
 牟平路	mu ping lu	13
+牡	mu
+牡	mu	15032
 牡丹	mu dan	110470
 牡丹中华锯花天牛	mu dan zhong hua ju hua tian niu	2
 牡丹乡	mu dan xiang	100
@@ -1455,6 +1520,8 @@ sort: by_weight
 牡蛎蒸米饭	mu li zheng mi fan	2
 牡蛎骨螺	mu li gu luo	1
 牡鹿	mu lu	659
+牧	mu
+牧	mu	72623
 牧业	mu ye	41870
 牧业税	mu ye shui	2555
 牧业经济	mu ye jing ji	100
@@ -1542,6 +1609,16 @@ sort: by_weight
 牧魂人	mu hun ren	100
 牧魂人约里克	mu hun ren yue li ke	100
 牧龙河	mu long he	8
+牳	mu
+狇	mu
+畂	mu
+畆	mu
+畒	mu
+畝	mu
+畞	mu
+畮	mu
+目	mu
+目	mu	1365310
 目下	mu xia	44180
 目下十行	mu xia shi hang	100
 目下有卧蚕	mu xia you wo can	1
@@ -2034,6 +2111,8 @@ sort: by_weight
 目验	mu yan	9999
 目黑惠	mu hei hui	6666
 目黑莲	mu hei lian	139
+睦	mu
+睦	mu	8412
 睦南公园	mu nan gong yuan	100
 睦南道	mu nan dao	10
 睦村乡	mu cun xiang	4
@@ -2044,6 +2123,9 @@ sort: by_weight
 睦邻政策	mu lin zheng ce	160
 睦里村	mu li cun	4
 睦镇硕	mu zhen shuo	5
+砪	mu
+穆	mu
+穆	mu	74572
 穆先生	mu xian sheng	2180
 穆克什	mu ke shi	100
 穆克吉	mu ke ji	100
@@ -2130,15 +2212,68 @@ sort: by_weight
 穆青	mu qing	206
 穆顺	mu shun	1
 穆鲁	mu lu	1
+縸	mu
+繆	mu
+缪	mu
+胟	mu
+艒	mu
+苜	mu
+苜	mu	1022
 苜蓿	mu xu	2468
 苜蓿园	mu xu yuan	277
 苜蓿园地	mu xu yuan di	1
 苜蓿盘空	mu xu pan kong	1
 苜蓿草	mu xu cao	1455
+莫	mu
+莯	mu
+蚞	mu
+踇	mu
+鉧	mu
+鉬	mu
+钼	mu
+钼	mu	180
 钼元素	mu yuan su	100
 钼矿	mu kuang	3530
 钼酸	mu suan	725
 钼酸盐	mu suan yan	370
 钼酸钠	mu suan na	530
 钼酸铵	mu suan an	1530
+雮	mu
+霂	mu
+霂	mu	1
+鞪	mu
+𠺖	mu
+𡵬	mu
+𢘃	mu
+𢜯	mu
+𢟨	mu
+𣈊	mu
+𣳠	mu
+𤚅	mu
+𤝂	mu
+𤝕	mu
+𤵝	mu
+𥄈	mu
+𥣸	mu
+𥰻	mu
+𦃤	mu
+𦱒	mu
+𧚀	mu
+𧩒	mu
+𧬏	mu
+𧰷	mu
+𧿹	mu
+𧿹	mu	1
 𧿹外翻	mu wai fan	743
+𨈶	mu
+𨍎	mu
+𨎸	mu
+𨡭	mu
+𨢢	mu
+𩡨	mu
+𩬍	mu
+𩵦	mu
+𩶖	mu
+𩶩	mu
+𪎫	mu
+𬭁	mu	1

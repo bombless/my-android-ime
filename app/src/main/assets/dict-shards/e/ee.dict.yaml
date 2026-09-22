@@ -3,6 +3,45 @@ name: merged.ee
 version: "1.0"
 sort: by_weight
 ...
+㓵	e
+㔩	e
+㕎	e
+㖾	e
+㗁	e
+㗉	e
+㟧	e
+㠋	e
+㡋	e
+㦍	e
+㧖	e
+㩵	e
+㮙	e
+㱦	e
+㷈	e
+㼂	e
+㼢	e
+㼰	e
+䄉	e
+䆓	e
+䑥	e
+䑪	e
+䓊	e
+䔾	e
+䕏	e
+䖸	e
+䙳	e
+䛖	e
+䝈	e
+䞩	e
+䣞	e
+䩹	e
+䫷	e
+䱮	e
+䳗	e
+䳘	e
+䳬	e
+俄	e
+俄	e	84261
 俄中	e zhong	4835
 俄中关系	e zhong guan xi	725
 俄中朝	e zhong chao	100
@@ -161,6 +200,12 @@ sort: by_weight
 俄防长	e fang zhang	100
 俄顷	e qing	1720
 俄顷风定云墨色	e qing feng ding yun mo se	1
+偔	e
+僫	e
+匎	e
+卾	e
+厄	e
+厄	e	18380
 厄他培南	e ta pei nan	18
 厄休拉	e xiu la	140
 厄利空	e li kong	580
@@ -211,6 +256,9 @@ sort: by_weight
 厄里倪厄斯	e li ni e si	35
 厄里斯	e li si	250
 厄难	e nan	910
+吪	e
+呃	e
+呃	e	535105
 呃不对	e bu dui	100
 呃不是	e bu shi	100
 呃呃	e e	3333
@@ -219,6 +267,14 @@ sort: by_weight
 呃呵呵	e he he	100
 呃呵呵呵呵	e he he he he	100
 呃逆	e ni	151
+呝	e
+咢	e
+咹	e
+哦	e
+哦	e	1
+噁	e
+噩	e
+噩	e	27969
 噩兆	e zhao	90
 噩噩浑浑	e e hun hun	100
 噩梦	e meng	51130
@@ -234,13 +290,30 @@ sort: by_weight
 噩耗	e hao	11855
 噩耗传来	e hao chuan lai	1670
 噩运	e yun	2390
+囮	e
+垩	e
+垩	e	676
 垩白	e bai	5
 垩白度	e bai du	5
 垩白粒率	e bai li lv	5
+堊	e
+堨	e
+堨	e	1
+堮	e
+妸	e
+妿	e
+姶	e
+姶	e	10
+娥	e
+娥	e	21944
 娥姐粉果	e jie fen guo	90
 娥娥红粉妆	e e hong fen zhuang	1
 娥皇	e huang	1955
 娥皇女英	e huang nv ying	315
+娾	e
+娿	e
+婀	e
+婀	e	5532
 婀娜	e nuo	16705
 婀娜多姿	e nuo duo zi	9160
 婀娜多姿的身材	e nuo duo zi de shen cai	100
@@ -255,11 +328,17 @@ sort: by_weight
 婀娜的身段	e nuo de shen duan	100
 婀娜身姿	e nuo shen zi	100
 婀白灰蝶	e bai hui die	1
+屙	e
+屙	e	1267
 屙㞎㞎	e ba ba	8
 屙尿	e niao	450
 屙屎	e shi	720
 屙野屎	e ye shi	100
 屙金尿银	e jin niao yin	2
+岋	e
+峉	e
+峨	e
+峨	e	18374
 峨冠博带	e guan bo dai	575
 峨堡镇	e bao zhen	12
 峨山	e shan	4735
@@ -311,6 +390,12 @@ sort: by_weight
 峨蕊茶	e rui cha	73
 峨边县	e bian xian	360
 峨边彝族自治县	e bian yi zu zi zhi xian	385
+峩	e
+崿	e
+崿	e	14
+廅	e
+恶	e
+恶	e	450813
 恶不可长	e bu ke zhang	100
 恶不恶心	e bu e xin	100
 恶不恶心吗	e bu e xin ma	100
@@ -1053,8 +1138,15 @@ sort: by_weight
 恶龙	e long	8305
 恶龙不斗地头蛇	e long bu dou di tou she	1
 恶龙咆哮	e long pao xiao	100
+悪	e
+惡	e
+愕	e
+愕	e	51262
 愕然	e ran	37260
 愕视	e shi	15
+戹	e
+扼	e
+扼	e	12762
 扼亢拊背	e kang fu bei	1
 扼住	e zhu	3950
 扼住了	e zhu le	100
@@ -1084,6 +1176,34 @@ sort: by_weight
 扼要说明	e yao shuo ming	555
 扼阻	e zu	75
 扼颈	e jing	77
+搕	e
+搤	e
+搹	e
+擜	e
+敋	e
+枙	e
+櫮	e
+欸	e	534
+歞	e
+歺	e
+洝	e
+涐	e
+涐	e	2
+湂	e
+珴	e
+琧	e
+痷	e
+痾	e
+皒	e
+睋	e
+砈	e
+砐	e
+砨	e
+硆	e
+磀	e
+礘	e
+腭	e
+腭	e	586
 腭咽闭合不全	e yan bi he bu quan	4
 腭式阀	e shi fa	124
 腭扁桃体	e bian tao ti	6
@@ -1096,13 +1216,19 @@ sort: by_weight
 腭音	e yin	85
 腭骨	e gu	1315
 腭齿	e chi	7
+苊	e
+苊	e	156
 苊醌	e kun	2
+莪	e
+莪	e	362
 莪山乡	e shan xiang	10
 莪术	e zhu	46
 莪术油	e zhu you	560
 莪术油葡萄糖注射液	e zhu you pu tao tang zhu she ye	1
 莪术醇	e zhu chun	1
 莪蒿	e hao	11
+萼	e
+萼	e	1513
 萼凤梨	e feng li	2
 萼洞叶蛛	e dong ye zhu	1
 萼片	e pian	2385
@@ -1110,6 +1236,10 @@ sort: by_weight
 萼绿化	e lv hua	1
 萼裂片	e lie pian	5
 萼距花	e ju hua	3
+蕚	e
+蚅	e
+蛾	e
+蛾	e	9694
 蛾儿雪柳黄金缕	e er xue liu huang jin lv	8
 蛾子	e zi	3055
 蛾扑灯蕊	e pu deng rui	1
@@ -1132,6 +1262,15 @@ sort: by_weight
 蛾蠓	e meng	111
 蛾蠓科	e meng ke	100
 蛾贞胶丸	e zhen jiao wan	6
+蝁	e
+覨	e
+訛	e
+誐	e
+諤	e
+譌	e
+讍	e
+讹	e
+讹	e	4383
 讹人	e ren	300
 讹人钱财	e ren qian cai	100
 讹他	e ta	3
@@ -1154,10 +1293,21 @@ sort: by_weight
 讹误	e wu	1450
 讹谬	e miu	9999
 讹赖	e lai	9999
+谔	e
+谔	e	958
 谔谔	e e	2
 谔谔之臣	e e zhi chen	1
 谔谔以昌	e e yi chang	2
 谔谔坦言	e e tan yan	9999
+豟	e
+軛	e
+軶	e
+轭	e
+轭	e	222
+迗	e
+遌	e
+遏	e
+遏	e	13099
 遏云	e yun	240
 遏云社	e yun she	100
 遏云绕梁	e yun rao liang	1
@@ -1179,6 +1329,9 @@ sort: by_weight
 遏蓝菜	e lan cai	9999
 遏阻	e zu	675
 遏阻作用	e zu zuo yong	100
+遻	e
+鄂	e
+鄂	e	14061
 鄂东地区	e dong di qu	100
 鄂之巨人	e zhi ju ren	100
 鄂伦春	e lun chun	5095
@@ -1235,11 +1388,27 @@ sort: by_weight
 鄂霍次克短吻狮子	e huo ci ke duan wen shi zi	1
 鄂霍茨克隐棘杜父	e huo ci ke yin ji du fu	1
 鄂靖文	e jing wen	100
+鈋	e
+鈪	e
+鋨	e
+鍔	e
+鑩	e
+锇	e
+锇	e	78
 锇元素	e yuan su	100
 锇酸	e suan	70
+锷	e
+锷	e	3471
+閼	e
+阏	e
+阏	e	3812
 阏伯	e bo	2
 阏伯台	e bo tai	123
 阏壅	e yong	2
+阨	e
+阸	e
+阿	e
+阿	e	4336
 阿世取容	e shi qu rong	100
 阿世媚俗	e shi mei su	100
 阿世循俗	e shi xun su	1
@@ -1315,6 +1484,13 @@ sort: by_weight
 阿郑之化	e zheng zhi hua	100
 阿附	e fu	9999
 阿顺取容	e shun qu rong	1
+頋	e
+頞	e
+頟	e
+額	e
+顎	e
+颚	e
+颚	e	2867
 颚下腺	e xia xian	100
 颚口线虫病	e kou xian chong bing	19
 颚巨人	e ju ren	100
@@ -1324,6 +1500,8 @@ sort: by_weight
 颚胃动物门	e wei dong wu men	1
 颚足	e zu	7
 颚齿	e chi	5
+额	e
+额	e	164812
 额上	e shang	17480
 额上沟	e shang gou	100
 额也会	e ye hui	7
@@ -1452,6 +1630,10 @@ sort: by_weight
 额颊沟	e jia gou	1
 额骨	e gu	1370
 额鳞	e lin	3
+餓	e
+餩	e
+饿	e
+饿	e	606677
 饿不了	e bu liao	30
 饿不死	e bu si	2245
 饿不死你	e bu si ni	100
@@ -1581,6 +1763,13 @@ sort: by_weight
 饿鬼投胎	e gui tou tai	36
 饿鬼法界	e gui fa jie	100
 饿鬼道	e gui dao	100
+騀	e
+魤	e
+鰐	e
+鰪	e
+鱷	e
+鳄	e
+鳄	e	9891
 鳄叉尾鹤鱵	e cha wei he zhen	1
 鳄形叉尾鹤鱵	e xing cha wei he zhen	1
 鳄形短体蛇鳗	e xing duan ti she man	1
@@ -1599,6 +1788,12 @@ sort: by_weight
 鳄鱼蛋	e yu dan	3
 鳄鱼衫	e yu shan	100
 鳄鱼钳	e yu qian	60
+鵈	e
+鵝	e
+鵞	e
+鶚	e
+鹅	e
+鹅	e	29947
 鹅不食草	e bu shi cao	2
 鹅公岭侗族苗族乡	e gong ling dong zu miao zu xiang	9
 鹅公村	e gong cun	194
@@ -1689,8 +1884,102 @@ sort: by_weight
 鹅黄色	e huang se	2580
 鹅黄色的	e huang se de	100
 鹅鼻嘴	e bi zui	142
+鹗	e
+鹗	e	1868
 鹗心鹂舌	e xin li she	1
 鹗蟹守螺	e xie shou luo	1
+齃	e
+齶	e
+𠥍	e
+𠥕	e
+𠥜	e
+𠯪	e
+𠰜	e
+𠱥	e
+𠱫	e
+𠷸	e
+𡀾	e
+𡅅	e
+𡅡	e
+𡪑	e
+𡪗	e
+𡴯	e
+𡹣	e
+𡾙	e
+𢃲	e
+𢨡	e
+𢼚	e
+𢼛	e
+𣄰	e
+𣘨	e
+𣢛	e
+𣤲	e
+𣦵	e
+𤂷	e
+𤎣	e
+𤡾	e
+𤪄	e
+𤭼	e
+𤸱	e
+𤻜	e
+𥋙	e
+𥑺	e
+𥑾	e
+𥓈	e
+𥔲	e
+𥔲	e	1
+𥯳	e
+𦊪	e
+𦛅	e
+𧊜	e
+𧊧	e
+𧌄	e
+𧍬	e
+𧒎	e
+𧔼	e
+𧙃	e
+𧚄	e
+𧠞	e
+𧢽	e
+𧨟	e
+𧭪	e
+𧼎	e
+𧽶	e
+𧿕	e
+𨂁	e
+𨃃	e
+𨌧	e
+𨤕	e
+𨵌	e
+𨶯	e
+𨸷	e
+𨺨	e
+𩇠	e
+𩉴	e
+𩊢	e
+𩋊	e
+𩋽	e
+𩐰	e
+𩑁	e
+𩒕	e
+𩒰	e
+𩕟	e
+𩕬	e
+𩖀	e
+𩚬	e
+𩣣	e
+𩤩	e
+𩨮	e
+𩪤	e
+𩸇	e
+𩸋	e
+𩸖	e
+𪀝	e
+𪅴	e
+𪘊	e
+𪘐	e
+𪙯	e
+𫫇	e	32
 𫫇唑	e zuo	2
 𫫇唑啉	e zuo lin	100
 𫫇唑啉酮	e zuo lin tong	100

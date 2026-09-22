@@ -3,6 +3,8 @@ name: merged.aa
 version: "1.0"
 sort: by_weight
 ...
+吖	a
+吖	a	160000
 吖丁啶	a ding ding	1
 吖丙啶	a bing ding	1
 吖啶	a ding	615
@@ -11,6 +13,10 @@ sort: by_weight
 吖啶黄	a ding huang	85
 吖嗪	a qin	99
 吖庚环	a geng huan	1
+呵	a
+呵	a	0
+啊	a
+啊	a	5366043
 啊不	a bu	3855
 啊不知道	a bu zhi dao	3855
 啊了一声	a le yi sheng	100
@@ -70,11 +76,20 @@ sort: by_weight
 啊这	a zhe	3333
 啊这儿	a zhe er	3333
 啊飘	a piao	1111
+嗄	a
+嗄	a	0
+腌	a
+腌	a	1
 腌臜	a za	400
 腌臜之物	a za zhi wu	100
+錒	a
+锕	a
+锕	a	144
 锕元素	a yuan su	100
 锕系	a xi	9
 锕系元素	a xi yuan su	100
+阿	a
+阿	a	867275
 阿七	a qi	9999
 阿万仓乡	a wan cang xiang	22
 阿三	a san	9175
@@ -1490,3 +1505,6 @@ sort: by_weight
 阿龙	a long	10075
 阿龙正罡	a long zheng gang	100
 阿龙迪尔	a long di er	100
+𠼞	a
+𥥩	a
+𨉚	a

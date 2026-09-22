@@ -3,6 +3,10 @@ name: merged.nv
 version: "1.0"
 sort: by_weight
 ...
+䖈	nve
+䖋	nve
+女	nv
+女	nv	3362646
 女一	nv yi	1111
 女一人	nv yi ren	13
 女一号	nv yi hao	5030
@@ -942,12 +946,25 @@ sort: by_weight
 女魔法师	nv mo fa shi	1815
 女黑人	nv hei ren	160
 女鼓手	nv gu shou	100
+婩	nve
+恧	nv
+恧	nv	70
+朒	nv
+沑	nv
+疟	nve
+疟	nve	1012
 疟原虫	nve yuan chong	3120
 疟原虫科	nve yuan chong ke	4
 疟疾	nve ji	20130
 疟疾疫苗	nve ji yi miao	290
 疟疾病	nve ji bing	100
 疟蚊	nve wen	180
+瘧	nve
+硸	nve
+籹	nv
+聏	nv
+虐	nve
+虐	nve	30741
 虐俘	nve fu	1310
 虐哭	nve ku	2468
 虐囚	nve qiu	9999
@@ -984,6 +1001,20 @@ sort: by_weight
 虐童事件	nve tong shi jian	999
 虐菜	nve cai	9999
 虐龙	nve long	190
+衂	nv
+衄	nv
+衄	nv	42
+釹	nv
+钕	nv
+钕	nv	80
 钕元素	nv yuan su	100
 钕玻璃	nv bo li	130
 钕铁硼	nv tie peng	7360
+𤷡	nve
+𥄋	nv
+𥍞	nv
+𦓕	nv
+𦓖	nv
+𧖷	nv
+𨵫	nve
+𩈢	nv

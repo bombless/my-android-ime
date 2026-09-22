@@ -3,6 +3,31 @@ name: merged.ne
 version: "1.0"
 sort: by_weight
 ...
+㐻	nei
+㒄	nen
+㕯	ne
+㘨	nei
+㜛	nen
+㨅	nei
+㯎	nen
+㲌	neng
+㴰	neng
+㶧	nen
+㼏	nei
+䅞	ne
+䇣	nei
+䎪	ne
+䏻	neng
+䘅	neng
+䜆	nei
+䡾	nei
+䭆	ne
+䭚	ne
+䲎	nei
+䳖	nei
+內	nei
+内	nei
+内	nei	1509530
 内一句话	nei yi ju hua	100
 内三元	nei san yuan	610
 内不自安	nei bu zi an	100
@@ -1320,10 +1345,18 @@ sort: by_weight
 内鼻孔亚纲	nei bi kong ya gang	2
 内龙骨	nei long gu	40
 内𬭩盐	nei weng yan	101
+吶	ne
+呐	ne
+呢	ne
+呢	ne	179349
 呢个时候	ne ge shi hou	109
 呢吧	ne ba	99999
 呢呢痴痴	ne ne chi chi	100
 呢料	ne liao	9999
+哪	ne
+哪	ne	1
+哪	nei
+哪	nei	1
 哪吒	ne zha	14235
 哪吒一样	ne zha yi yang	100
 哪吒三太子	ne zha san tai zi	100
@@ -1359,6 +1392,11 @@ sort: by_weight
 哪吒闹海	ne zha nao hai	1660
 哪吒降妖记	ne zha xiang yao ji	100
 哪吒魔童降世	ne zha mo tong jiang shi	1111
+堧	nen	0
+娞	nei
+媆	nen
+嫩	nen
+嫩	nen	58594
 嫩乳	nen ru	315
 嫩了点	nen le dian	100
 嫩于金色软于丝	nen yu jin se ruan yu si	2
@@ -1429,10 +1467,21 @@ sort: by_weight
 嫩黄瓜	nen huang gua	335
 嫩黄色	nen huang se	795
 嫩黄豆	nen huang dou	1
+嫰	nen
+恁	nen
+恁	nen	3956
 恁别无萦绊	nen bie wu ying ban	1
 恁地	nen di	2625
 恁娘	nen niang	3333
 恁时相见早留心	nen shi xiang jian zao liu xin	1
+抐	ne
+氝	nei
+氞	nei
+浽	nei
+疒	ne
+眲	ne
+能	neng
+能	neng	59336
 能一样吗	neng yi yang ma	100
 能上	neng shang	35685
 能上一中吗	neng shang yi zhong ma	100
@@ -2599,6 +2648,12 @@ sort: by_weight
 能飞行	neng fei xing	100
 能饮一杯无	neng yin yi bei wu	33
 能麻烦	neng ma fan	69
+脮	nei
+腇	nei
+螚	neng
+訥	ne
+讷	ne
+讷	ne	10324
 讷于言	ne yu yan	100
 讷南镇	ne nan zhen	1
 讷口少言	ne kou shao yan	100
@@ -2608,7 +2663,37 @@ sort: by_weight
 讷直守信	ne zhi shou xin	1
 讷言敏行	ne yan min xing	22
 讷讷	ne ne	3035
+那	ne
+那	nei
+錗	nei
+餒	nei
+馁	nei
+馁	nei	5700
 馁在其中矣	nei zai qi zhong yi	1
 馁怯	nei qie	30
 馁殍相望	nei piao xiang wang	1
 馁虎	nei hu	70
+鮾	nei
+鯘	nei
+𠑚	nei
+𠑛	nei
+𠹌	neng
+𡞾	nen
+𡣢	nei
+𢁩	nei
+𢅼	nei
+𢆂	neng
+𢗉	ne
+𢛉	nei
+𣓃	nei
+𣧍	ne
+𥡭	nei
+𧤜	ne
+𧮠	nen
+𨃳	neng
+𨈗	nen
+𨡌	nei
+𨶙	neng
+𩗔	nei
+𩛞	nei
+𩬀	nei

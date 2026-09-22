@@ -3,12 +3,147 @@ name: merged.mi
 version: "1.0"
 sort: by_weight
 ...
+㐷	mian
+㑤	miao
+㒙	mian
+㒝	mie
+㘠	mi
+㛯	mian
+㜆	mi
+㜷	mi
+㝃	mian
+㝠	ming
+㝥	mi
+㝰	mian
+㞶	min
+㟜	mi
+㟩	min
+㟭	min
+㟰	ming
+㠧	mi
+㠺	miao
+㢯	min
+㣆	mi
+㤁	mian
+㥝	mi
+㥝	mian
+㥸	min
+㦄	mi
+㦝	miao
+㨉	min
+㨠	mi
+㨺	mi
+㨺	mian
+㩢	mi
+㩢	mie
+㫘	mi
+㫘	mian
+㫥	ming
+㬆	mian
+㬆	min
+㮌	mian
+㮌	min
+㰃	mian
+㰽	mi
+㳴	mi
+㳽	mi
+㴐	mian
+㴵	mi
+㵋	mi
+㵥	mi
+㷅	miao
+㸏	mi
+㸓	mi
+㻰	mian
+䀎	mian
+䁇	mi
+䁕	min
+䁧	miao
+䁾	mie
+䂥	min
+䃇	mian
+䃉	min
+䄙	ming
+䅺	miao
+䆨	ming
+䆩	ming
+䈼	mi
+䈼	mie
+䈿	mi
+䉲	mi
+䉾	mi
+䊅	ming
+䊫	mi
+䊳	mi
+䋋	min
+䋛	mi
+䋳	mi
+䌏	mi
+䌏	mian
+䌐	mi
+䌕	mi
+䌘	mi
+䌩	mi
+䌩	mie
+䍘	mi
+䏃	mian
+䏚	miao
+䒌	ming
+䕳	mi
+䕷	mi
+䖑	mi
+䖢	miao
+䘊	mie
+䛉	mi
+䛉	mian
+䛑	mi
+䛧	mi
+䝧	min
+䞀	min
+䟨	min
+䡅	min
+䡑	min
+䡻	min
+䣥	mi
+䣾	mi
+䤄	mian
+䤉	mi
+䤉	ming
+䤍	mi
+䥸	mi
+䩏	mie
+䪸	min
+䪾	mi
+䫤	ming
+䫵	mian
+䭧	mi
+䭩	mi
+䮭	mi
+䰓	mian
+䱊	mi
+䲄	min
+䳟	ming
+䴢	mi
+䶔	min
+丏	mian
+丏	mian	131
+乜	mie
+乜	mie	1936
 乜乜斜斜	mie mie xie xie	100
 乜斜	mie xie	1150
 乜都得	mie dou de	23
+仯	miao
+佲	ming
+侎	mi
+俛	mian
+偭	mian
+偭	mian	1
 偭规矩而改错	mian gui ju er gai cuo	1
 偭规越矩	mian gui yue ju	100
 偭规错矩	mian gui cuo ju	100
+僶	min
+免	mian
+免	mian	289084
 免不	mian bu	111
 免不了	mian bu liao	36145
 免不了要	mian bu liao yao	100
@@ -517,6 +652,8 @@ sort: by_weight
 免骚扰	mian sao rao	80
 免高速	mian gao su	100
 免高速费	mian gao su fei	100
+冕	mian
+冕	mian	10994
 冕宁	mian ning	2415
 冕宁县	mian ning xian	1400
 冕旒	mian liu	760
@@ -524,7 +661,11 @@ sort: by_weight
 冕角瓣舟蛾	mian jiao ban zhou e	1
 冕雀	mian que	3
 冕鹧鸪	mian zhe gu	100
+冖	mi
 冖部	mi bu	1
+冞	mi
+冥	ming
+冥	ming	116978
 冥冥	ming ming	8670
 冥冥中	ming ming zhong	9395
 冥冥之中	ming ming zhi zhong	9560
@@ -592,6 +733,14 @@ sort: by_weight
 冥魂之夜	ming hun zhi ye	100
 冥魂大帝	ming hun da di	100
 冥龙王	ming long wang	100
+冪	mi
+冺	min
+凕	ming
+刡	min
+劰	miao
+勄	min
+勉	mian
+勉	mian	95918
 勉为其难	mian wei qi nan	7360
 勉力	mian li	7580
 勉力而为	mian li er wei	100
@@ -616,6 +765,12 @@ sort: by_weight
 勉强通过	mian qiang tong guo	630
 勉慰	mian wei	1111
 勉远逝而无狐疑兮	mian yuan shi er wu hu yi xi	1
+勔	mian
+勔	mian	58
+厸	miao
+吀	mie
+名	ming
+名	ming	1804559
 名下	ming xia	35010
 名下无虚	ming xia wu xu	170
 名下无虚士	ming xia wu xu shi	4
@@ -1237,6 +1392,9 @@ sort: by_weight
 名高天下	ming gao tian xia	100
 名高望重	ming gao wang zhong	4
 名高难副	ming gao nan fu	100
+呡	min
+命	ming
+命	ming	1368062
 命不久已	ming bu jiu yi	100
 命不久矣	ming bu jiu yi	845
 命不好	ming bu hao	100
@@ -1494,12 +1652,16 @@ sort: by_weight
 命题范围	ming ti fan wei	2400
 命题逻辑	ming ti luo ji	189
 命驾	ming jia	670
+咩	mie
+咩	mie	1318
 咩利羊	mie li yang	100
 咩咩	mie mie	4665
 咩咩叫	mie mie jiao	100
 咩咩咩	mie mie mie	100
 咩咩羊	mie mie yang	100
 咩意思	mie yi si	100
+咪	mi
+咪	mi	32218
 咪咕	mi gu	1111
 咪咕体育	mi gu ti yu	194
 咪咕汇	mi gu hui	100
@@ -1524,6 +1686,10 @@ sort: by_weight
 咪达唑仑	mi da zuo lun	24
 咪达唑仑注射液	mi da zuo lun zhu she ye	1
 咪达普利	mi da pu li	12
+哶	mie
+喕	mian
+喵	miao
+喵	miao	8410
 喵了个咪	miao le ge mi	100
 喵了个咪的	miao le ge mi de	100
 喵千岁	miao qian sui	149
@@ -1550,7 +1716,13 @@ sort: by_weight
 喵的	miao de	9999
 喵赛克	miao sai ke	169
 喵速达	miao su da	100
+嘧	mi
+嘧	mi	73
 嘧啶	mi ding	9355
+垊	min
+塓	mi
+妙	miao
+妙	miao	280421
 妙不可言	miao bu ke yan	11740
 妙之又妙	miao zhi you miao	100
 妙书	miao shu	60
@@ -1686,9 +1858,27 @@ sort: by_weight
 妙龄少女	miao ling shao nv	4100
 妙龄童	miao ling tong	100
 妙龄驰誉	miao ling chi yu	1
+姄	min
+姳	ming
+娩	mian
+娩	mian	2352
 娩出	mian chu	5410
 娩后	mian hou	285
+婂	mian
+媌	miao
+媔	mian
+嫇	ming
+嫹	miao
+嬵	mian
+孊	mi
+孭	mie
+宀	mian
 宀部	mian bu	1
+宓	mi
+宓	mi	4473
+宻	mi
+密	mi
+密	mi	506110
 密不可分	mi bu ke fen	37715
 密不透风	mi bu tou feng	6365
 密不通风	mi bu tong feng	535
@@ -2109,6 +2299,8 @@ sort: by_weight
 密鳃鲥东南亚鲥	mi sai shi dong nan ya shi	1
 密麻麻	mi ma ma	9999
 密鼓紧锣	mi gu jin luo	1
+岷	min
+岷	min	2214
 岷县	min xian	4440
 岷山	min shan	6660
 岷岛司氏戎	min dao si shi rong	1
@@ -2117,6 +2309,10 @@ sort: by_weight
 岷江碘泡虫	min jiang dian pao chong	1
 岷江路	min jiang lu	52
 岷答那骨螺	min da na gu luo	1
+峚	mi
+崏	min
+幂	mi
+幂	mi	671
 幂函数	mi han shu	970
 幂的	mi de	1370
 幂的运算	mi de yun suan	495
@@ -2126,6 +2322,11 @@ sort: by_weight
 幂运算	mi yun suan	123
 幂集	mi ji	2
 幂集公理	mi ji gong li	10
+幎	mi
+幦	mi
+幭	mie
+庙	miao
+庙	miao	63493
 庙上	miao shang	89
 庙东村	miao dong cun	5
 庙中	miao zhong	8090
@@ -2188,6 +2389,10 @@ sort: by_weight
 庙里的猪头	miao li de zhu tou	100
 庙门	miao men	7195
 庙阳坡	miao yang po	1
+庿	miao
+廟	miao
+弥	mi
+弥	mi	97735
 弥久	mi jiu	735
 弥习弥佳	mi xi mi jia	100
 弥兴镇	mi xing zhen	1
@@ -2287,6 +2492,8 @@ sort: by_weight
 弥陀寺	mi tuo si	52
 弥陀岩	mi tuo yan	3
 弥陀救度	mi tuo jiu du	100
+弭	mi
+弭	mi	1669
 弭乱	mi luan	80
 弭乱持危	mi luan chi wei	100
 弭兵	mi bing	1
@@ -2300,10 +2507,30 @@ sort: by_weight
 弭谤	mi bang	1
 弭除	mi chu	125
 弭除成见	mi chu cheng jian	100
+彌	mi
+忞	min
+忞	min	92
+忟	min
+怋	min
+怽	mi
+悯	min
+悯	min	19771
 悯农	min nong	620
 悯恤	min xu	3333
 悯惜	min xi	9999
 悯时病俗	min shi bing su	100
+惽	min
+愍	min
+愍	min	412
+愐	mian
+愐	mian	5
+慏	ming
+慜	min
+憫	min
+懱	mie
+戂	mi
+抿	min
+抿	min	21329
 抿了	min le	3890
 抿了一口	min le yi kou	100
 抿了抿	min le min	860
@@ -2322,6 +2549,10 @@ sort: by_weight
 抿着嘴唇	min zhe zui chun	100
 抿着嘴笑	min zhe zui xiao	455
 抿酒	min jiu	1111
+捪	min
+掵	ming
+描	miao
+描	miao	87436
 描一描	miao yi miao	123
 描上	miao shang	3745
 描不了	miao bu liao	1
@@ -2389,7 +2620,16 @@ sort: by_weight
 描龙刺凤	miao long ci feng	1
 描龙画凤	miao long hua feng	100
 描龙绣凤	miao long xiu feng	18
+搣	mie
+摵	mi
+擟	mi
+攠	mi
+敃	min
+敉	mi
+敉	mi	114
 敉平	mi ping	215
+敏	min
+敏	min	196615
 敏于事而慎于言	min yu shi er shen yu yan	27
 敏于伎	min yu ji	100
 敏于行	min yu xing	100
@@ -2495,7 +2735,13 @@ sort: by_weight
 敏锐贼	min rui zei	100
 敏雄	min xiong	640
 敏鲈胶	min lu jiao	1
+敯	min
+旻	min
+旻	min	1174
 旻宁	min ning	8
+旼	min
+明	ming
+明	ming	2864492
 明万历	ming wan li	12190
 明不明	ming bu ming	100
 明不明显	ming bu ming xian	1105
@@ -3742,12 +3988,22 @@ sort: by_weight
 明黑	ming hei	2
 明鼓而攻之	ming gu er gong zhi	1
 明齐日月	ming qi ri yue	1
+暋	min
 暋不畏死	min bu wei si	101
+暝	ming
+暝	ming	1136
 暝投剡中宿	ming tou shan zhong su	1
 暝色	ming se	655
 暝菜	ming cai	1
+朙	ming
 朙月	ming yue	1
 朙月拼音	ming yue pin yin	9999
+杣	mian
+杪	miao
+杪	miao	140
+枈	mi
+棉	mian
+棉	mian	44297
 棉业	mian ye	2440
 棉兰	mian lan	1345
 棉兰老	mian lan lao	385
@@ -3888,6 +4144,16 @@ sort: by_weight
 棉麻	mian ma	8535
 棉麻公司	mian ma gong si	83
 棉麻长裙	mian ma chang qun	100
+榓	mi
+榠	ming
+樒	mi
+檰	mian
+檷	mi
+櫁	mi
+櫋	mian
+櫗	mie
+民	min
+民	min	902697
 民一庭	min yi ting	1905
 民一庭副庭长	min yi ting fu ting zhang	100
 民一庭庭长	min yi ting ting zhang	100
@@ -4950,10 +5216,15 @@ sort: by_weight
 民风古朴	min feng gu pu	100
 民风土俗	min feng tu su	100
 民风淳朴	min feng chun pu	4985
+汅	mian
+汨	mi
+汨	mi	1454
 汨罗	mi luo	945
 汨罗县	mi luo xian	3
 汨罗市	mi luo shi	256
 汨罗江	mi luo jiang	1705
+沔	mian
+沔	mian	623
 沔北路	mian bei lu	1
 沔城莲藕	mian cheng lian ou	13
 沔阳	mian yang	2090
@@ -4963,6 +5234,10 @@ sort: by_weight
 沔阳粉蒸肉	mian yang fen zheng rou	1
 沔阳蒸珍珠圆	mian yang zheng zhen zhu yuan	2
 沔阳蒸豆腐圆	mian yang zheng dou fu yuan	1
+沕	mi
+沵	mi
+泌	mi
+泌	mi	8695
 泌乳	mi ru	9220
 泌乳素	mi ru su	2410
 泌乳素瘤	mi ru su liu	7
@@ -4997,19 +5272,34 @@ sort: by_weight
 泌尿量	mi niao liang	100
 泌水乐饥	mi shui le ji	100
 泌淋清胶囊	mi lin qing jiao nang	3
+泯	min
+泯	min	8435
 泯没	min mo	275
 泯灭	min mie	13120
 泯除	min chu	190
+洣	mi
+洣	mi	2
 洣水	mi shui	1
 洣江乡	mi jiang xiang	26
+洺	ming
+洺	ming	405
 洺口镇	ming kou zhen	1
 洺州镇	ming zhou zhen	4
 洺悦城	ming yue cheng	152
+淧	mi
+淼	miao
+淼	miao	8593
 淼南渡之焉如	miao nan du zhi yan ru	1
 淼淼	miao miao	3590
+渂	min
+渑	mian
+渑	mian	500
 渑池	mian chi	380
 渑池之功	mian chi zhi gong	1
 渑池县	mian chi xian	188
+渳	mi
+渺	miao
+渺	miao	44689
 渺万里层云	miao wan li ceng yun	4
 渺不渺小	miao bu miao xiao	100
 渺不渺小呀	miao bu miao xiao ya	100
@@ -5044,8 +5334,27 @@ sort: by_weight
 渺若烟云	miao ruo yan yun	1
 渺茫	miao mang	19895
 渺茫无望	miao mang wu wang	100
+湎	mian
+湎	mian	1455
+湏	min
+湣	min
+湣	min	282
+溟	ming
+溟	ming	5020
 溟波龙	ming bo long	102
 溟蒙	ming meng	1
+滅	mie
+滵	mi
+漞	mi
+潣	min
+澠	mian
+濔	mi
+濗	mi
+瀎	mie
+瀰	mi
+灖	mi
+灭	mie
+灭	mie	280837
 灭一灭	mie yi mie	123
 灭不了	mie bu liao	490
 灭世	mie shi	50000
@@ -5159,6 +5468,12 @@ sort: by_weight
 灭魔戒指	mie mo jie zhi	1
 灭鼠	mie shu	16800
 灭鼠药	mie shu yao	2050
+烕	mie
+熐	mi
+爢	mi
+牑	mian
+猕	mi
+猕	mi	1070
 猕猴	mi hou	11295
 猕猴桃	mi hou tao	40357
 猕猴桃基地	mi hou tao ji di	100
@@ -5167,19 +5482,42 @@ sort: by_weight
 猕猴桃种植基地	mi hou tao zhong zhi ji di	100
 猕猴桃科	mi hou tao ke	100
 猕猴骑土牛	mi hou qi tu niu	3
+猽	ming
+獼	mi
+玅	miao
+玟	min
+玟	min	1
+珉	min
+珉	min	9079
+琘	min
+琝	min
+瑉	min
+瓕	mi
+痻	min
+皿	min
+皿	min	3662
 皿三昧	min san mei	100
 皿墩	min dun	1
 皿墩儿	min dun er	1
 皿字底	min zi di	1111
 皿形长逍遥蛛	min xing chang xiao yao zhu	1
+盿	min
+眀	ming
+眄	mian
+眄	mian	178
 眄庭柯以怡颜	mian ting ke yi yi yan	1
 眄视	mian shi	1
 眄视指使	mian shi zhi shi	1
+眇	miao
+眇	miao	479
 眇乎其小	miao hu qi xiao	1
 眇乎小哉	miao hu xiao zai	3
 眇小丈夫	miao xiao zhang fu	1
 眇眇之身	miao miao zhi shen	10
 眇眇忽忽	miao miao hu hu	1
+眜	mie
+眠	mian
+眠	mian	74642
 眠云卧石	mian yun wo shi	1
 眠安宁口服液	mian an ning kou fu ye	4
 眠尔通	mian er tong	4
@@ -5191,6 +5529,8 @@ sort: by_weight
 眠花醉柳	mian hua zui liu	100
 眠霜卧雪	mian shuang wo xue	100
 眠龙洞穴	mian long dong xue	2
+眯	mi
+眯	mi	73287
 眯一会	mi yi hui	3880
 眯一会儿	mi yi hui er	100
 眯一宿	mi yi xiu	1180
@@ -5227,6 +5567,10 @@ sort: by_weight
 眯起来	mi qi lai	575
 眯起眼	mi qi yan	100
 眯起眼睛	mi qi yan jing	100
+眳	ming
+睌	mian
+瞄	miao
+瞄	miao	40747
 瞄一眼	miao yi yan	100
 瞄一瞄	miao yi miao	190
 瞄上	miao shang	5555
@@ -5257,10 +5601,27 @@ sort: by_weight
 瞄着	miao zhe	4105
 瞄着呢	miao zhe ne	5
 瞄瞄	miao miao	2010
+瞇	mi
+瞑	ming
+瞑	ming	6405
 瞑子里	ming zi li	100
 瞑目	ming mu	6220
 瞑眩	ming xuan	4
+瞴	mi
+矈	mian
+矊	mian
+矏	mian
+砇	min
+碈	min
+礣	mie
+祕	mi
+祕	mi	190
+祢	mi
+祢	mi	3851
 祢衡	mi heng	2245
+禰	mi
+秒	miao
+秒	miao	90580
 秒不了	miao bu liao	83
 秒了	miao le	2
 秒人	miao ren	1111
@@ -5313,6 +5674,8 @@ sort: by_weight
 秒针	miao zhen	4675
 秒针系统	miao zhen xi tong	100
 秒钟	miao zhong	89880
+秘	mi
+秘	mi	380904
 秘不示人	mi bu shi ren	555
 秘书	mi shu	271780
 秘书二处	mi shu er chu	340
@@ -5449,6 +5812,12 @@ sort: by_weight
 秘银马刺	mi yin ma ci	2
 秘闻	mi wen	3145
 秘雕鱼	mi diao yu	4
+竗	miao
+笢	min
+笽	min
+篎	miao
+篾	mie
+篾	mie	1074
 篾刀	mie dao	70
 篾匠	mie jiang	610
 篾子	mie zi	1
@@ -5459,6 +5828,11 @@ sort: by_weight
 篾篓	mie lou	999
 篾青	mie qing	1
 篾黄	mie huang	30
+簚	mi
+簚	mie
+簢	min
+米	mi
+米	mi	503964
 米万钟	mi wan zhong	6
 米业	mi ye	10680
 米乐星	mi le xing	100
@@ -5825,6 +6199,10 @@ sort: by_weight
 米黄色	mi huang se	7315
 米龙	mi long	46
 米龙乡	mi long xiang	13
+粎	mi
+糆	mian
+糜	mi
+糜	mi	8423
 糜夫人	mi fu ren	3
 糜姓	mi xing	5
 糜烂	mi lan	26215
@@ -5839,6 +6217,21 @@ sort: by_weight
 糜躯碎首	mi qu sui shou	1
 糜饷劳师	mi xiang lao shi	2
 糜鹿姑苏	mi lu gu su	1
+糸	mi
+絻	mian
+綿	mian
+緍	min
+緜	mian
+緡	min
+緢	miao
+緬	mian
+緲	miao
+縻	mi
+縻	mi	588
+繆	miao
+繆	miu
+绵	mian
+绵	mian	86358
 绵世股份	mian shi gu fen	12500
 绵中	mian zhong	27
 绵亘	mian gen	3430
@@ -5911,6 +6304,8 @@ sort: by_weight
 绵阳高新	mian yang gao xin	60
 绵马贯众	mian ma guan zhong	90
 绵鳚亚目	mian wei ya mu	100
+缅	mian
+缅	mian	13481
 缅人	mian ren	69
 缅北	mian bei	1470
 缅北原矛头蝮	mian bei yuan mao tou fu	1
@@ -5961,6 +6356,14 @@ sort: by_weight
 缅语	mian yu	69
 缅钢刀	mian gang dao	1
 缅陆	mian lu	171
+缈	miao
+缈	miao	8275
+缗	min
+缗	min	503
+缪	miao
+缪	miao	1
+缪	miu
+缪	miu	14901
 缪仲一	miao zhong yi	187
 缪伯英	miao bo ying	100
 缪先生	miao xian sheng	100
@@ -5986,6 +6389,13 @@ sort: by_weight
 缪荃孙	miao quan sun	6
 缪诺琳	miao nuo lin	100
 缪骞人	miao qian ren	100
+罠	min
+羃	mi
+羋	mi
+脒	mi
+脒	mi	10
+腼	mian
+腼	mian	7396
 腼腆	mian tian	27085
 腼腼腆腆	mian mian tian tian	7
 腼颜事仇	mian yan shi chou	100
@@ -5993,12 +6403,18 @@ sort: by_weight
 腼颜人世	mian yan ren shi	1
 腼颜借命	mian yan jie ming	100
 腼颜天壤	mian yan tian rang	1
+臱	mian
+芇	mian
+芈	mi
+芈	mi	1723
 芈十四	mi shi si	191
 芈昱廷	mi yu ting	168
 芈月	mi yue	1
 芈月传	mi yue zhuan	100
 芈月传中	mi yue zhuan zhong	100
 芈芈芈	mi mi mi	100
+苗	miao
+苗	miao	70433
 苗乡酸汤水饺	miao xiang suan tang shui jiao	1
 苗二河乡	miao er he xiang	1
 苗人	miao ren	6250
@@ -6080,13 +6496,33 @@ sort: by_weight
 苗语	miao yu	99
 苗韵竹荪鹅	miao yun zhu sun e	2
 苗颖竹荪鹅	miao ying zhu sun e	10
+苠	min
+苠	min	5
+茗	ming
+茗	ming	22789
 茗生此中石	ming sheng ci zhong shi	1
 茗荷	ming he	8
 茗香流	ming xiang liu	2
+莬	mian
+葂	mian
+葞	mi
+蒾	mi
+蒾	mi	1
+蓂	mi	72
+蓂	ming
+蓂	ming	1
 蓂荚	ming jia	2
+蔑	mie
+蔑	mie	29247
 蔑伦悖理	mie lun bei li	1
 蔑称	mie cheng	1225
 蔑视	mie shi	28935
+蔝	mi
+蔤	mi
+薎	mie
+藌	mi
+藐	miao
+藐	miao	5308
 藐兹一身	miao zi yi shen	1
 藐姑射	miao gu ye	128
 藐姑射之山	miao gu ye zhi shan	128
@@ -6094,7 +6530,12 @@ sort: by_weight
 藐视一切	miao shi yi qie	890
 藐视君威	miao shi jun wei	100
 藐视法庭罪	miao shi fa ting zui	445
+蘪	mi
+蘼	mi
+蘼	mi	337
 蘼芜	mi wu	505
+蜜	mi
+蜜	mi	76559
 蜜三刀	mi san dao	1585
 蜜三果	mi san guo	1
 蜜丝婷	mi si ting	187
@@ -6243,6 +6684,9 @@ sort: by_weight
 蜜饯黄连	mi jian huang lian	100
 蜜饯龙眼	mi jian long yan	3
 蜜麻花	mi ma hua	1580
+蝒	mian
+螟	ming
+螟	ming	810
 螟虫	ming chong	199
 螟虫长体茧蜂	ming chong chang ti jian feng	1
 螟蛉	ming ling	820
@@ -6252,7 +6696,18 @@ sort: by_weight
 螟蛉狭面姬小蜂	ming ling xia mian ji xiao feng	1
 螟蛉虫	ming ling chong	24
 螟蛾	ming e	4
+蠛	mie
 蠛蠓	mie meng	80
+蠠	min
+衊	mie
+袮	mi
+覓	mi
+覔	mi
+覕	mie
+覛	mi
+覭	ming
+觅	mi
+觅	mi	21336
 觅人	mi ren	370
 觅儿寺镇	mi er si zhen	54
 觅取	mi qu	395
@@ -6278,6 +6733,13 @@ sort: by_weight
 觅食地	mi shi di	100
 觅食洄游	mi shi hui you	100
 觅食行为	mi shi xing wei	100
+詸	mi
+詺	ming
+謎	mi
+謐	mi
+謬	miu
+谜	mi
+谜	mi	26947
 谜一样	mi yi yang	3105
 谜一样的	mi yi yang de	100
 谜一样的微笑	mi yi yang de wei xiao	100
@@ -6315,6 +6777,10 @@ sort: by_weight
 谜踪之国	mi zong zhi guo	100
 谜面	mi mian	4040
 谜题	mi ti	8375
+谧	mi
+谧	mi	7781
+谬	miu
+谬	miu	15676
 谬以千里	miu yi qian li	1245
 谬传	miu chuan	265
 谬奖	miu jiang	200
@@ -6333,6 +6799,9 @@ sort: by_weight
 谬采虚声	miu cai xu sheng	100
 谬采虚誉	miu cai xu yu	100
 谬错	miu cuo	1111
+賯	min
+迷	mi
+迷	mi	424854
 迷上	mi shang	10575
 迷上了	mi shang le	15490
 迷上他	mi shang ta	100
@@ -6618,6 +7087,8 @@ sort: by_weight
 迷魅术	mi mei shu	9
 迷鸟	mi niao	489
 迷齿亚纲	mi chi ya gang	9
+邈	miao
+邈	miao	2409
 邈以山河	miao yi shan he	1
 邈冥冥	miao ming ming	100
 邈如旷世	miao ru kuang shi	1
@@ -6626,11 +7097,28 @@ sort: by_weight
 邈若河汉	miao ruo he han	1
 邈远	miao yuan	330
 邈邈	miao miao	165
+鄍	ming
+酩	ming
+酩	ming	2357
 酩悦香槟	ming yue xiang bin	100
 酩酊	ming ding	1840
 酩酊大醉	ming ding da zui	4785
 酩酊烂醉	ming ding lan zui	1
+醚	mi
+醚	mi	288
 醚类	mi lei	5
+醾	mi
+醾	mi	1
+醿	mi
+釄	mi
+鈱	min
+銘	ming
+銤	mi
+錉	min
+鍲	min
+鑖	mie
+铭	ming
+铭	ming	68150
 铭万网	ming wan wang	1125
 铭仁园	ming ren yuan	100
 铭传商专	ming chuan shang zhuan	100
@@ -6681,6 +7169,11 @@ sort: by_weight
 铭都雅苑	ming dou ya yuan	1
 铭雄明	ming xiong ming	7
 铭雅苑	ming ya yuan	11
+镾	mi
+閔	min
+閩	min
+闵	min
+闵	min	17114
 闵乱思治	min luan si zhi	1
 闵可夫斯基不等式	min ke fu si ji bu deng shi	5
 闵妃	min fei	420
@@ -6712,6 +7205,8 @@ sort: by_weight
 闵西桥	min xi qiao	15
 闵采尔	min cai er	195
 闵默	min mo	10
+闽	min
+闽	min	7169
 闽东	min dong	10830
 闽东地区	min dong di qu	100
 闽东语	min dong yu	100
@@ -6777,6 +7272,8 @@ sort: by_weight
 闽越水镇	min yue shui zhen	109
 闽运汽车北站	min yun qi che bei zhan	11
 闽都文化	min du wen hua	100
+靡	mi
+靡	mi	16931
 靡不所措	mi bu suo cuo	1
 靡不有初	mi bu you chu	385
 靡丽	mi li	890
@@ -6807,6 +7304,8 @@ sort: by_weight
 靡靡之声	mi mi zhi sheng	100
 靡靡之音	mi mi zhi yin	2285
 靡靡之风	mi mi zhi feng	65
+面	mian
+面	mian	4532962
 面上	mian shang	130830
 面上不显	mian shang bu xian	100
 面上无光	mian shang wu guang	360
@@ -7404,12 +7903,26 @@ sort: by_weight
 面黄	mian huang	2355
 面黄肌瘦	mian huang ji shou	3620
 面鼎香	mian ding xiang	2
+靣	mian
+靦	mian
+鮸	mian
+鰵	min
+鱴	mie
+鳘	min
+鳘	min	13
 鳘鱼	min yu	5
 鳘鱼沙	min yu sha	100
 鳘鱼沙村	min yu sha cun	100
 鳘鱼肚	min yu du	100
 鳘鱼胶	min yu jiao	100
 鳘鱼鳔	min yu biao	100
+鳴	ming
+鴓	mie
+鴖	min
+鶓	miao
+鸍	mi
+鸣	ming
+鸣	ming	142206
 鸣上岚	ming shang lan	134
 鸣不平	ming bu ping	3040
 鸣个不平	ming ge bu ping	100
@@ -7507,6 +8020,11 @@ sort: by_weight
 鸣鼓而攻	ming gu er gong	100
 鸣鼓而攻之	ming gu er gong zhi	9999
 鸣龙镇	ming long zhen	2
+鹋	miao
+鹋	miao	41
+麊	mi
+麋	mi
+麋	mi	1708
 麋何食兮庭中	mi he shi xi ting zhong	1
 麋沸蚁动	mi fei yi dong	1
 麋沸蚁聚	mi fei yi ju	1
@@ -7514,10 +8032,205 @@ sort: by_weight
 麋鹿村	mi lu cun	7
 麋鹿王	mi lu wang	100
 麋鹿见之决骤	mi lu jian zhi jue zhou	1
+麛	mi
+麪	mian
+麫	mian
+麵	mian
+麺	mian
+麿	mi
+黽	mian
+黽	min
+黾	mian
+黾	min
+黾	min	130
 黾勉	min mian	450
 黾勉从事	min mian cong shi	100
 黾勉棘蝇	min mian ji ying	1
+鼏	mi
+𠋝	miao
+𠋶	ming
+𠞧	mi
+𠵸	mi
+𠺗	mie
+𡄣	mi
+𡇒	mi
+𡊭	mi
+𡒳	mian
+𡓭	mi
+𡕢	mian
+𡖺	mie
+𡙎	miao
+𡞙	mie
+𡟬	mie
+𡡺	miao
+𡥸	ming
+𡧍	mian
+𡧒	mian
+𡬐	mi
+𡯫	mian
+𡲼	mi
+𡾱	mi
+𢃮	mian
+𢆯	mi
+𢆷	miao
+𢇲	mi
+𢘺	mi
+𢚋	miao
+𢞞	mi
+𢣔	mian
+𢤧	miao
+𢦼	mie
+𢧞	mie
+𢨖	mie
+𢱮	mi
+𢷕	miao
+𢼖	min
+𢽹	min
+𣅍	mian
+𣓔	mi
+𣡠	mian
+𣧲	mi
+𣧾	mian
+𣱈	min
+𣱉	min
+𣷠	ming
+𣹒	min
+𤇜	min
+𤊾	mie
+𤏿	mie
+𤛎	min
+𤛬	mi
+𤸅	min
+𤺖	min
+𤾛	miao
+𤿕	min
+𥁑	mi
+𥄝	mian
+𥄲	mie
+𥅘	mi
+𥇆	mi
+𥇎	mi
+𥈕	mi
+𥉓	mie
+𥉴	mi
+𥉿	mi
+𥊿	mian
+𥋚	mie
+𥌂	mian
+𥌏	ming
+𥌨	mie
+𥎖	mi
+𥜐	min
+𥞪	mi
+𥣫	mie
+𥤵	mian
+𥥊	ming
+𥦀	mi
+𥧧	mi
+𥭝	miao
+𥭫	mi
+𥵒	mie
+𥵨	mi
+𥸴	mie
+𥹄	mi
+𥹆	ming
+𥹫	mi
+𥻒	mi
+𥻩	mian
+𥽘	mie
+𥽰	mi
+𥾝	mian
+𥾝	mie
+𥿨	ming
+𥿫	mi
+𦄐	mi
+𦇪	mie
+𦌡	min
+𦖬	mi
+𦗕	mi
+𦞟	mi
+𦟂	mi
+𦡉	ming
+𦣥	mi
+𦫭	ming
+𦫮	min
+𦬛	mian
+𦳜	min
+𦳥	miao
+𦸡	mi
+𦽃	mian
+𧀅	mie
+𧁋	min
+𧂝	mie
+𧌙	min
+𧐎	mi
+𧕵	mi
+𧟠	ming
+𧠟	mi
+𧭇	mian
+𧱴	ming
+𧱻	mi
+𧲃	min
+𧵣	min
+𧵬	mi
+𧶡	mi
+𧷦	mi
+𧸨	mian
+𧼊	mi
+𧽨	mi
+𨇻	mi
+𨉥	mian
+𨏵	min
+𨒲	mi
+𨟺	mian
+𨡞	mian
+𨢎	mi
+𨢥	mi
+𨣯	mi
+𨣱	mie
+𨣾	mi
+𨱯	miu
+𨲛	mian
+𨲾	mian
+𨷬	mi
+𩀶	mi
+𩈹	mian
+𩋠	mian
+𩔉	min
+𩔠	mie
+𩔢	mi
+𩞁	mi
+𩞇	mi
+𩣶	ming
+𩬞	mian
+𩭷	min
+𩮉	mian
+𩱷	mie
+𩳸	miao
+𩸹	mi
+𩾃	mian	1
 𩾃状黄姑鱼	mian zhuang huang gu yu	15
 𩾃鱼	mian yu	333
 𩾃鱼丸	mian yu wan	100
 𩾃鱼胶	mian yu jiao	100
+𪀿	mi
+𪁼	mian
+𪂆	min
+𪂤	ming
+𪃐	miao
+𪃦	miao
+𪄴	min
+𪅮	mi
+𪇴	mie
+𪋗	mi
+𪋢	mi
+𪌺	mie
+𪎔	mi
+𪎗	mi
+𪏊	mian
+𪑸	mi
+𪒄	mi
+𪒍	mie
+𪓬	mi
+𪕈	mi
+𪗸	ming

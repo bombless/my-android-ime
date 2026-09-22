@@ -3,15 +3,125 @@ name: merged.ni
 version: "1.0"
 sort: by_weight
 ...
+㒟	niao
+㖏	nie
+㖏	nie	1
 㖏㖏	nie nie	32
 㖏㖏㖏	nie nie nie	123
+㖕	nie
+㖖	nie
+㘝	nian
+㘝	nie
+㘿	nie
+㙞	nie
+㚔	nie
+㜣	nian
+㜤	nian
+㜦	nie
+㜵	niao
+㜸	nie
+㝕	ning
+㞋	nian
+㞙	niao
+㞾	ni
+㟧	nie
+㠜	ni
+㠡	niao
+㡪	nie
+㣇	ni
+㣷	ning
+㤛	nin
+㥾	ni
+㦐	ni
+㧱	ni
+㩶	nie
+㩶	ning
+㪒	ni
+㭤	niao
+㮆	nie
+㮞	ni
+㮟	nian
+㲡	ni
+㲰	ning
+㲻	ni
+㲽	nian
+㳮	niao
+㴪	nie
+㵫	ni
+㸎	nie
+㹸	ni
+㺲	niu
+㼭	niao
+㽱	niu
+㿦	ning
+䀑	ni
+䀔	niu
+䁥	ni
+䂇	niu
+䂼	nie
+䃵	niao
+䄒	nie
+䄭	nian
+䄹	nian
+䋴	niu
+䋻	nin
+䌜	nie
+䍲	ni
+䏔	niu
+䐁	niao
+䒜	niu
+䔭	ning
+䕥	ni
+䖆	niang
+䗿	ning
+䘌	ni
+䘦	ni
+䘽	ni
+䙚	niao
+䚓	nian
+䚾	nin
+䛏	ni
+䛘	nin
+䜓	nie
+䝚	ni
+䞕	nie
+䟢	nian
+䡾	nie
+䤔	niu
+䦊	niao
+䦵	ni
+䧇	ni
+䧔	nian
+䩞	nian
+䬯	nian
+䭢	ning
+䭲	ni
+䮍	niao
+䮗	niu
+䮘	ni
+䯀	nie
+䯅	nie
+䯵	nie
+䰯	ni
+䴴	nian
+䵑	ni
+䵒	ni
+乜	nie
+乜	nie	1
 乜姓	nie xing	2
+伱	ni
+伲	ni
+伲	ni	211
+佞	ning
+佞	ning	2329
 佞人	ning ren	1999
 佞佛持斋	ning fo chi zhai	1
 佞幸	ning xing	11
 佞笑	ning xiao	10
 佞臣	ning chen	1610
 佞臣贼子	ning chen zei zi	100
+你	ni
+你	ni	1422192
 你一	ni yi	118570
 你一下	ni yi xia	12
 你一个	ni yi ge	100
@@ -4855,6 +4965,9 @@ sort: by_weight
 你高兴了	ni gao xing le	100
 你默认	ni mo ren	100
 你默认了	ni mo ren le	100
+侫	ning
+倪	ni
+倪	ni	32398
 倪一膺	ni yi ying	1
 倪东艳	ni dong yan	965
 倪云林	ni yun lin	100
@@ -4894,6 +5007,12 @@ sort: by_weight
 倪震	ni zhen	3
 倪非凡	ni fei fan	100
 倪鸿	ni hong	1
+倿	ning
+儗	ni
+儜	ning
+儞	ni
+凝	ning
+凝	ning	208926
 凝不住	ning bu zhu	230
 凝为	ning wei	930
 凝乳	ning ru	2405
@@ -5028,6 +5147,8 @@ sort: by_weight
 凝露	ning lu	111
 凝露成霜	ning lu cheng shuang	100
 凝魂之露	ning hun zhi lu	100
+匿	ni
+匿	ni	17242
 匿了	ni le	1
 匿伏	ni fu	175
 匿名	ni ming	278845
@@ -5061,6 +5182,9 @@ sort: by_weight
 匿迹潜形	ni ji qian xing	100
 匿迹销声	ni ji xiao sheng	100
 匿迹隐形	ni ji yin xing	1
+卄	nian
+呢	ni
+呢	ni	1
 呢呢喃喃	ni ni nan nan	245
 呢喃	ni nan	1822
 呢喃低语	ni nan di yu	100
@@ -5077,6 +5201,12 @@ sort: by_weight
 呢子衣	ni zi yi	1
 呢绒	ni rong	5015
 呢绒大衣	ni rong da yi	1
+咛	ning
+咛	ning	5821
+哖	nian
+唸	nian
+啮	nie
+啮	nie	1810
 啮合	nie he	1940
 啮噬	nie shi	1
 啮檗吞针	nie bo tun zhen	1
@@ -5090,18 +5220,38 @@ sort: by_weight
 啮齿类	nie chi lei	1200
 啮齿类动物	nie chi lei dong wu	1000
 啮齿类动物之最	nie chi lei dong wu zhi zui	1
+嗫	nie
+嗫	nie	6049
 嗫嗫嚅嚅	nie nie ru ru	400
 嗫嚅	nie ru	4895
 嗫嚅不言	nie ru bu yan	100
 嗫嚅小儿	nie ru xiao er	1
 嗫嚅着	nie ru zhe	2925
+噛	nie
+嚀	ning
+嚙	nie
+囁	nie
+囐	nie
+囓	nie
+囜	nin
+圼	nie
+坭	ni
+坭	ni	55
 坭坝乡	ni ba xiang	1
 坭美彝族乡	ni mei yi zu xiang	2
 坭金镇	ni jin zhen	2
+埝	nian
+埝	nian	101
 埝坛村	nian tan cun	3
+埿	ni
+堄	ni
+妞	niu
+妞	niu	39626
 妞儿	niu er	4900
 妞妞	niu niu	28415
 妞子	niu zi	1995
+妮	ni
+妮	ni	15537
 妮儿	ni er	2915
 妮古·罗宾	ni gu luo bin	111
 妮可	ni ke	2323
@@ -5120,6 +5270,10 @@ sort: by_weight
 妮蔻	ni kou	11
 妮雅	ni ya	2
 妮雅丝	ni ya si	100
+妳	ni
+姩	nian
+娘	niang
+娘	niang	603856
 娘不	niang bu	333
 娘不娘	niang bu niang	333
 娘亲	niang qin	8040
@@ -5164,7 +5318,22 @@ sort: by_weight
 娘胎	niang tai	4575
 娘舅	niang jiu	2545
 娘要嫁人	niang yao jia ren	100
+婗	ni
+嫋	niao
+嫟	ni
+嬝	niao
+嬢	niang
+嬢	niang	1
 嬢嬢	niang niang	2
+嬣	ning
+嬲	niao
+嬺	ni
+孃	niang
+孧	niu
+孴	ni
+孼	nie
+孽	nie
+孽	nie	25919
 孽主	nie zhu	1111
 孽债	nie zhai	9999
 孽子	nie zi	955
@@ -5181,6 +5350,8 @@ sort: by_weight
 孽重罪深	nie zhong zui shen	1
 孽障	nie zhang	2400
 孽障种子	nie zhang zhong zi	100
+宁	ning
+宁	ning	316587
 宁不知倾城与倾国	ning bu zhi qing cheng yu qing guo	5
 宁东	ning dong	2
 宁东基地	ning dong ji di	100
@@ -5515,6 +5686,13 @@ sort: by_weight
 宁风致	ning feng zhi	187
 宁馨儿	ning xin er	975
 宁鸣而死	ning ming er si	100
+寍	ning
+寕	ning
+寗	ning
+寜	ning
+寧	ning
+尼	ni
+尼	ni	272244
 尼乾陀	ni qian tuo	100
 尼亚	ni ya	2
 尼亚加拉	ni ya jia la	2085
@@ -5735,6 +5913,8 @@ sort: by_weight
 尼龙网	ni long wang	9999
 尼龙袋	ni long dai	1125
 尼龙袜	ni long wa	460
+尿	niao
+尿	niao	42861
 尿三杯试验	niao san bei shi yan	2
 尿不出	niao bu chu	185
 尿不出尿	niao bu chu niao	95
@@ -5883,6 +6063,16 @@ sort: by_weight
 尿频	niao pin	20810
 尿黄	niao huang	5
 尿黄素	niao huang su	5
+屔	ni
+屰	ni
+峊	nie
+嵲	nie
+嵲	nie	1
+嶭	nie
+巕	nie
+帇	nie
+年	nian
+年	nian	3465446
 年三十	nian san shi	5050
 年下	nian xia	78430
 年与时弛	nian yu shi chi	100
@@ -6839,6 +7029,8 @@ sort: by_weight
 年龄限制	nian ling xian zhi	8880
 年龙	nian long	253
 年龙乡	nian long xiang	3
+廿	nian
+廿	nian	3123
 廿一	nian yi	1111
 廿一世纪	nian yi shi ji	1795
 廿七	nian qi	777
@@ -6855,6 +7047,8 @@ sort: by_weight
 廿四史	nian si shi	100
 廿地乡	nian di xiang	1
 廿里堡	nian li bao	7
+念	nian
+念	nian	559620
 念一下	nian yi xia	2222
 念一些	nian yi xie	100
 念一句	nian yi ju	100
@@ -6974,11 +7168,20 @@ sort: by_weight
 念高几	nian gao ji	100
 念高几了	nian gao ji le	100
 念龙	nian long	210
+忸	niu
+忸	niu	2351
 忸忸怩怩	niu niu ni ni	345
 忸怩	niu ni	3640
 忸怩不安	niu ni bu an	100
 忸怩作态	niu ni zuo tai	520
 忸怩好	niu ni hao	1
+怓	niu
+怩	ni
+怩	ni	2372
+恁	nin
+悥	nian
+您	nin
+您	nin	523541
 您不	nin bu	184635
 您不到	nin bu dao	35
 您不可以	nin bu ke yi	58985
@@ -7171,6 +7374,12 @@ sort: by_weight
 您错了	nin cuo le	100
 您需要	nin xu yao	100
 您需要什么	nin xu yao shen me	100
+惄	ni
+惗	nian
+愵	ni
+懝	ni
+扭	niu
+扭	niu	173801
 扭一扭	niu yi niu	123
 扭下	niu xia	9565
 扭中华宝螺	niu zhong hua bao luo	1
@@ -7311,6 +7520,11 @@ sort: by_weight
 扭过头来	niu guo tou lai	1755
 扭过来	niu guo lai	450
 扭送	niu song	12176
+抐	ni
+抝	niu
+抳	ni
+拈	nian
+拈	nian	9106
 拈华摘艳	nian hua zhai yan	1
 拈弓搭箭	nian gong da jian	375
 拈斤播两	nian jin bo liang	1
@@ -7341,8 +7555,12 @@ sort: by_weight
 拈阄儿	nian jiu er	9999
 拈须	nian xu	535
 拈香	nian xiang	1325
+拗	niu
+拗	niu	9593
 拗不过	niu bu guo	6200
 拗劲	niu jin	135
+拟	ni
+拟	ni	50704
 拟一份	ni yi fen	100
 拟七棱浅室水母	ni qi leng qian shi shui mu	1
 拟上报	ni shang bao	202
@@ -7509,6 +7727,8 @@ sort: by_weight
 拟鸫希夫霸鹟	ni dong xi fu ba weng	1
 拟鹨灌丛雀	ni liu guan cong que	1
 拟𫚒无眉鳚	ni fu wu mei wei	1
+拧	ning
+拧	ning	27504
 拧上	ning shang	1515
 拧下	ning xia	3610
 拧下去	ning xia qu	100
@@ -7537,6 +7757,9 @@ sort: by_weight
 拧起	ning qi	1125
 拧起来	ning qi lai	100
 拧转	ning zhuan	1140
+拰	nin
+捏	nie
+捏	nie	81503
 捏一把冷汗	nie yi ba leng han	100
 捏一把汗	nie yi ba han	1875
 捏一捏	nie yi nie	890
@@ -7614,6 +7837,9 @@ sort: by_weight
 捏造陷阱	nie zao xian jing	100
 捏闸	nie zha	5
 捏面人	nie mian ren	100
+捻	nian
+捻	nian	8152
+捻	nie
 捻一捻	nian yi nian	256
 捻了捻	nian le nian	123
 捻军	nian jun	2425
@@ -7638,6 +7864,14 @@ sort: by_weight
 捻转补泻	nian zhuan bu xie	5
 捻酸吃醋	nian suan chi cu	111
 捻须	nian xu	540
+掜	ni
+掜	nie
+揑	nie
+摄	nie
+摰	nie
+撚	nian
+撵	nian
+撵	nian	6857
 撵一撵	nian yi nian	124
 撵上	nian shang	3385
 撵上来	nian shang lai	1180
@@ -7655,8 +7889,25 @@ sort: by_weight
 撵着跑	nian zhe pao	100
 撵走	nian zou	2950
 撵跑	nian pao	140
+擬	ni
+擰	ning
+攆	nian
+攝	nie
+敜	nie
+旎	ni
+旎	ni	3505
+昵	ni
+昵	ni	11208
 昵友	ni you	3
 昵称	ni cheng	253850
+晲	ni
+暱	ni
+杻	niu
+杻	niu	1
+枿	nie
+柅	ni
+柠	ning
+柠	ning	8126
 柠乐	ning le	122
 柠檬	ning meng	216416
 柠檬乳酪饼	ning meng ru lao bing	7
@@ -7717,9 +7968,24 @@ sort: by_weight
 柠溪	ning xi	35
 柠溪市场	ning xi shi chang	6
 柠香里脊肉	ning xiang li ji rou	1
+棿	ni
+榐	nian
+槷	nie
+樢	niao
+橣	ning
+檷	ni
+檸	ning
+櫱	nie
+氼	ni
+汼	niu
+沑	niu
+泞	ning
+泞	ning	5314
 泞滑	ning hua	40
 泞盲鳗	ning mang man	1
 泞齿鳉	ning chi jiang	1
+泥	ni
+泥	ni	120657
 泥丁	ni ding	101
 泥三角	ni san jiao	5
 泥东风螺	ni dong feng luo	9
@@ -7902,6 +8168,8 @@ sort: by_weight
 泥鳅面	ni qiu mian	100
 泥鸡	ni ji	160
 泥龙乡	ni long xiang	2
+涅	nie
+涅	nie	16639
 涅克拉索夫	nie ke la suo fu	97
 涅斐丽	nie fei li	100
 涅普里亚耶娃	nie pu li ya ye wa	562
@@ -7919,6 +8187,15 @@ sort: by_weight
 涅茨	nie ci	3325
 涅阳	nie yang	4
 涅齿	nie chi	2
+涊	nian
+淣	ni
+淰	nian
+湼	nie
+溓	nian
+溺	ni
+溺	ni	14495
+溺	niao
+溺	niao	1
 溺于旧闻	ni yu jiu wen	3
 溺亡	ni wang	4410
 溺器	niao qi	7
@@ -7933,6 +8210,13 @@ sort: by_weight
 溺爱	ni ai	19915
 溺爱不明	ni ai bu ming	5
 溺职	ni zhi	16
+澝	ning
+濔	ni
+濘	ning
+炄	niu
+焾	nian
+牛	niu
+牛	niu	313393
 牛㹴杂交犬	niu geng za jiao quan	100
 牛不出头	niu bu chu tou	5
 牛不喝水强按头	niu bu he shui qiang an tou	13
@@ -8659,19 +8943,38 @@ sort: by_weight
 牛鼻	niu bi	1985
 牛鼻子	niu bi zi	4985
 牛鼻黄貂鱼	niu bi huang diao yu	64
+牜	niu
+狃	niu
+狃	niu	137
 狃于成见	niu yu cheng jian	100
 狃于故辙	niu yu gu zhe	2
 狃拉	niu la	1
 狃花女	niu hua nv	100
+狔	ni
+狞	ning
+狞	ning	29726
 狞恶可怖	ning e ke bu	100
 狞恶如虎	ning e ru hu	100
 狞猫	ning mao	3
 狞笑	ning xiao	10050
 狞髯张目	ning ran zhang mu	1
+猊	ni
+猊	ni	2254
+獰	ning
+甯	ning
+甯	ning	106
 甯戚扣角	ning qi kou jiao	100
 甯戚饭牛	ning qi fan niu	100
+疑	ni
+痆	nie
+眤	ni
+睨	ni
+睨	ni	7131
 睨着	ni zhe	985
 睨视	ni shi	600
+矃	ning
+碾	nian
+碾	nian	7058
 碾一碾	nian yi nian	123
 碾下去	nian xia qu	100
 碾为齑粉	nian wei ji fen	100
@@ -8706,7 +9009,24 @@ sort: by_weight
 碾米机	nian mi ji	1135
 碾轧	nian ya	2
 碾过	nian guo	4510
+祢	ni
+秊	nian
+秜	ni
+秥	nian
+篞	nie
+簐	nian
+籋	nie
+籾	ni
+粘	nian
+粘	nian	1
 粘得力	nian de li	100
+糱	nie
+糵	nie
+糵	nie	92
+紐	niu
+縌	ni
+纽	niu
+纽	niu	42599
 纽伦堡	niu lun bao	13270
 纽伦堡审判	niu lun bao shen pan	785
 纽伯林赛道	niu bo lin sai dao	76
@@ -8816,6 +9136,8 @@ sort: by_weight
 纽西兰鸫鹟	niu xi lan dong weng	1
 纽黑文	niu hei wen	695
 纽齿目	niu chi mu	3
+聂	nie
+聂	nie	36076
 聂云竹	nie yun zhu	100
 聂人王	nie ren wang	100
 聂伯河	nie bo he	100
@@ -8866,9 +9188,21 @@ sort: by_weight
 聂隐娘	nie yin niang	144
 聂风	nie feng	9999
 聂鲁达	nie lu da	168
+聍	ning
+聍	ning	30
+聣	ni
+聶	nie
+聹	ning
+聻	ni
+胒	ni
+脌	nin
+脲	niao
+脲	niao	14
 脲酶	niao mei	2
 脲醛	niao quan	1270
 脲醛树脂	niao quan shu zhi	3305
+腻	ni
+腻	ni	42294
 腻不腻	ni bu ni	100
 腻了	ni le	8405
 腻人	ni ren	1160
@@ -8887,10 +9221,29 @@ sort: by_weight
 腻着	ni zhe	420
 腻腻歪歪	ni ni wai wai	100
 腻虫	ni chong	1
+膩	ni
+臡	ni
+臬	nie
+臬	nie	1210
+臲	nie
 臲卼	nie wu	1
+艌	nian
+苧	ning
+苧	ning	33
+苨	ni
+苶	nie
+苶	nie	1
 苶然	nie ran	4
+茑	niao
+茑	niao	395
 茑萝	niao luo	32
 茑萝施乔松	niao luo shi qiao song	100
+莥	niu
+菍	nie
+菍	nie	1
+蔦	niao
+蔫	nian
+蔫	nian	5224
 蔫不出溜	nian bu chu liu	30
 蔫不唧	nian bu ji	9999
 蔫乎乎	nian hu hu	999
@@ -8907,7 +9260,18 @@ sort: by_weight
 蔫巴	nian ba	9999
 蔫巴巴	nian ba ba	40
 蔫脾气	nian pi qi	100
+薴	ning
+薿	ni
+薿	ni	11
 薿薿	ni ni	1
+蘖	nie
+蘖	nie	235
+蚭	ni
+蛪	ni
+蜺	ni
+蠥	nie
+袅	niao
+袅	niao	16381
 袅娜	niao nuo	3030
 袅娜多姿	niao nuo duo zi	235
 袅娜娉婷	niao nuo ping ting	28
@@ -8924,6 +9288,19 @@ sort: by_weight
 袅袅娜娜	niao niao nuo nuo	525
 袅袅婷婷	niao niao ting ting	1250
 袅袅炊烟	niao niao chui yan	100
+裊	niao
+褭	niao
+觬	ni
+誽	ni
+讘	nie
+貎	ni
+跜	ni
+踂	nie
+踗	nie
+踙	nie
+蹍	nian
+蹑	nie
+蹑	nie	12942
 蹑影潜踪	nie ying qian zong	1
 蹑影藏形	nie ying cang xing	100
 蹑影追风	nie ying zhui feng	100
@@ -8943,7 +9320,17 @@ sort: by_weight
 蹑足附耳	nie zu fu er	100
 蹑踪	nie zong	70
 蹑蹻担簦	nie jue dan deng	100
+蹨	nian
+躎	nian
+躡	nie
+輗	ni
+輦	nian
+辇	nian
+辇	nian	2547
 辇毂之下	nian gu zhi xia	100
+辗	nian
+逆	ni
+逆	ni	73790
 逆之者亡	ni zhi zhe wang	505
 逆产	ni chan	155
 逆价	ni jia	690
@@ -9184,6 +9571,9 @@ sort: by_weight
 逆鳞	ni lin	2245
 逆龄生长	ni ling sheng zhang	100
 逆龙道	ni long dao	100
+郳	ni
+酿	niang
+酿	niang	22424
 酿之成美酒	niang zhi cheng mei jiu	1
 酿倭瓜	niang wo gua	9
 酿冬瓜	niang dong gua	24
@@ -9232,6 +9622,20 @@ sort: by_weight
 酿馅鱼	niang xian yu	1
 酿馅鸡	niang xian ji	2
 酿馅鸡蛋	niang xian ji dan	1
+醸	niang
+釀	niang
+鈕	niu
+鈮	ni
+銸	nie
+鋷	nie
+錜	nie
+鎳	nie
+鑈	nie
+鑏	ning
+鑷	nie
+钀	nie
+钮	niu
+钮	niu	11556
 钮大可	niu da ke	100
 钮子开关	niu zi kai guan	640
 钮承泽	niu cheng ze	100
@@ -9241,9 +9645,15 @@ sort: by_weight
 钮祜禄氏	niu hu lu shi	100
 钮福保	niu fu bao	1
 钮茂生	niu mao sheng	310
+铌	ni
+铌	ni	17
 铌元素	ni yuan su	100
 铌矿	ni kuang	5
+镊	nie
+镊	nie	836
 镊子	nie zi	10435
+镍	nie
+镍	nie	485
 镍中毒	nie zhong du	321
 镍元素	nie yuan su	100
 镍合金	nie he jin	3705
@@ -9264,6 +9674,13 @@ sort: by_weight
 镍铬合金	nie ge he jin	1020
 镍镉	nie ge	3895
 镍镉电池	nie ge dian chi	5810
+闑	nie
+陧	nie
+陧	nie	54
+隉	nie
+隬	ni
+霓	ni
+霓	ni	25232
 霓为衣兮风为马	ni wei yi xi feng wei ma	1
 霓凰	ni huang	12
 霓凰姐姐	ni huang jie jie	100
@@ -9292,6 +9709,10 @@ sort: by_weight
 霓裳花	ni chang hua	162
 霓裳茶舞	ni chang cha wu	134
 霓裳阁	ni chang ge	100
+靵	niu
+顳	nie
+颞	nie
+颞	nie	167
 颞上沟	nie shang gou	100
 颞下窝	nie xia wo	4
 颞下颌关节	nie xia he guan jie	77
@@ -9308,6 +9729,13 @@ sort: by_weight
 颞骨	nie gu	1240
 颞骨骨折	nie gu gu zhe	90
 颞鳞	nie lin	3
+馜	ni
+鬡	ning
+鮎	nian
+鯢	ni
+鯰	nian
+鲇	nian
+鲇	nian	681
 鲇形目	nian xing mu	100
 鲇锚头鱼蚤	nian mao tou yu zao	1
 鲇鱼	nian yu	9999
@@ -9318,10 +9746,19 @@ sort: by_weight
 鲇鱼效应	nian yu xiao ying	1225
 鲇鱼村	nian yu cun	2
 鲇鱼缘竹竿	nian yu yuan zhu gan	1
+鲵	ni
+鲵	ni	482
+鲶	nian
+鲶	nian	680
 鲶鱼	nian yu	1111
 鲶鱼效应	nian yu xiao ying	153
 鲶鱼王	nian yu wang	100
 鲶鱼脸	nian yu lian	100
+鳥	niao
+鵇	nian
+鸋	ning
+鸟	niao
+鸟	niao	178842
 鸟不宿	niao bu su	6
 鸟不拉屎的地方	niao bu la shi de di fang	100
 鸟不生蛋	niao bu sheng dan	100
@@ -9483,6 +9920,10 @@ sort: by_weight
 鸟鸣山更幽	niao ming shan geng you	33
 鸟鸣转基因老鼠	niao ming zhuan ji yin lao shu	1
 鸟鹊之巢可攀援而窥	niao que zhi chao ke pan yuan er kui	1
+麑	ni
+麑	ni	16
+黏	nian
+黏	nian	10465
 黏上去	nian shang qu	100
 黏上来	nian shang lai	100
 黏下去	nian xia qu	100
@@ -9647,4 +10088,226 @@ sort: by_weight
 黏黏稠稠	nian nian chou chou	60
 黏黏糊糊	nian nian hu hu	730
 黏黏腻腻	nian nian ni ni	10
+齧	nie
+齯	ni
+鿭	ni
+鿭	ni	1
 鿭元素	ni yuan su	100
+𠆵	ni
+𠈊	nie
+𠒰	ni
+𠒰	niao
+𠕟	nian
+𠗋	nian
+𠣇	nian
+𠫺	nian
+𠬋	nian
+𠱘	ni
+𠶿	nie
+𠸺	ni
+𠽝	nin
+𠽬	ni
+𡆣	nie
+𡇄	nie
+𡍤	nie
+𡎳	ni
+𡎿	ni
+𡘏	niao
+𡝋	niao
+𡝒	niao
+𡝟	nian
+𡞭	ni
+𡠿	niao
+𡣁	ni
+𡥦	ni
+𡥨	ni
+𡫃	ning
+𡫸	ni
+𡬗	ni
+𡰆	nie
+𡰫	nian
+𡴎	nie
+𡶫	nie
+𡷪	ning
+𡸣	nie
+𡾦	nie
+𡾲	nie
+𡿖	nie
+𡿗	nie
+𢅟	ni
+𢈸	nie
+𢔟	niu
+𢚮	ni
+𢛜	ni
+𢣚	ni
+𢦱	ni
+𢫻	nie
+𢬴	nie
+𢶑	niao
+𢸣	niao
+𣀳	nie
+𣅚	niu
+𣌍	nie
+𣍆	ning
+𣎔	nian
+𣐏	nian
+𣘗	ni
+𣙗	nie
+𣟊	niao
+𣡋	ni
+𣢞	ni
+𣧊	niu
+𣭙	ni
+𣯭	nie
+𣰼	nie
+𣲶	niu
+𣲷	ni
+𤁥	nian
+𤕦	ning
+𤙌	ni
+𤦤	ni
+𤭂	nie
+𤲶	niao
+𤴘	nie
+𤶚	nie
+𤷈	nie
+𤸏	nie
+𤹧	ning
+𤺐	nie
+𤻝	ning
+𤽿	nian
+𥀝	niu
+𥄽	ni
+𥇄	ni
+𥍳	niu
+𥔄	nie
+𥜦	ni
+𥜬	ni
+𥝦	niu
+𥣗	ning
+𥤂	niao
+𥧤	ning
+𥬬	nie
+𥭙	nie
+𥮘	nian
+𥮤	nie
+𥳥	ning
+𥷄	ni
+𥺜	ni
+𥺴	nian
+𥽬	niang
+𥾇	niao
+𦁇	nian
+𦄌	nie
+𦆦	ni
+𦘒	nie
+𦛠	nie
+𦞆	nie
+𦡃	nie
+𦡲	ning
+𦡼	ning
+𦣀	nie
+𦤽	ni
+𦦃	ni
+𦭁	nian
+𦮾	ni
+𦯖	nie
+𦰫	ni
+𦵐	nie
+𦷙	nian
+𧁈	nie
+𧃩	ni
+𧃱	ning
+𧈞	ni
+𧋖	nie
+𧍖	ning
+𧏾	ni
+𧑗	ning
+𧕝	ning
+𧖷	ni
+𧘥	niu
+𧞍	nie
+𧭈	ning
+𧵼	ni
+𧹞	nian
+𧺰	ni
+𧻼	nie
+𨀀	ni
+𨀀	nian
+𨇍	nian
+𨊞	nie
+𨋀	niu
+𨋗	ni
+𨋚	nian
+𨏛	nian
+𨒫	ni
+𨙓	nie
+𨙺	niu
+𨚶	nian
+𨢯	nian
+𨱺	nie
+𨲀	nie
+𨳀	niao
+𨳞	niu
+𨴞	nian
+𨶠	nie
+𨷁	niu
+𨸱	nian
+𨺙	ni
+𨺙	ni	1
+𨻄	nie
+𨽖	niao
+𨽦	ni
+𩈇	niu
+𩈢	ni
+𩉄	nian
+𩉹	ni
+𩊫	nian
+𩋏	nie
+𩋪	ni
+𩍦	ni
+𩐭	nie
+𩒕	nie
+𩕳	ning
+𩖁	nie
+𩖔	niao
+𩙷	niu
+𩚖	niu
+𩚮	ni
+𩚯	ni
+𩜷	niu
+𩣘	nie
+𩩢	ni
+𩭑	niao
+𩯨	ni
+𩰞	ni
+𩱄	ni
+𩲍	niu
+𩵠	niu
+𩸦	ni
+𩸧	ni
+𩺝	ni
+𩺱	ni
+𩽴	nian
+𪅝	niao
+𪈼	niao
+𪌊	nie
+𪌿	nie
+𪎃	nie
+𪎅	nie
+𪏲	niu
+𪏵	ni
+𪏸	ni
+𪐇	nian
+𪐌	ni
+𪑮	nian
+𪓃	niang
+𪘅	nie
+𪘎	nie
+𪙛	ni
+𫐐	ni	1
+𫔶	nie	1
+𫠜	ni
+𫠜	ni	1
+𰳆	nie
+𲰹	nia

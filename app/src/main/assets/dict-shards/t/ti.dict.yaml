@@ -3,7 +3,101 @@ name: merged.ti
 version: "1.0"
 sort: by_weight
 ...
+㐁	tian
+㕮	tiao
+㖒	ti
+㖭	tian
+㖷	ti
+㗣	ti
+㙉	tian
+㟘	tiao
+㡗	ti
+㣢	ti
+㤁	tian
+㥏	tian
+㧂	tian
+㧱	tian
+㩖	tiao
+㬱	ti
+㮇	tian
+㯩	ti
+㶺	tian
+㸠	tiao
+㹶	ting
+㼗	ting
+䂪	tiao
+䂿	tie
+䄕	tian
+䄹	tian
+䄼	tian
+䄽	tian
+䅍	ting
+䅠	ti
+䈕	ti
+䋼	ting
+䌡	ti
+䎄	tiao
+䎮	ti
+䏦	tian
+䏲	ti	3
+䐌	tian
+䑚	tian
+䒒	tiao
+䔶	ti
+䖺	tiao
+䗴	ting
+䗴	ting	1
+䙗	ti
+䚣	ti
+䛱	ti
+䝰	ti
+䞶	ti
+䟧	tian
+䟭	tiao
+䠄	tian
+䠷	tiao
+䡒	tian
+䡘	tian
+䢰	ti
+䣠	ti
+䣡	ti
+䣯	tian
+䣶	tian
+䣽	ti
+䥖	tian
+䥫	tie
+䦐	ting
+䧂	tiao
+䧃	tian
+䧅	ti
+䨑	ti
+䩄	tian
+䩞	tian
+䩞	tie
+䩟	ti
+䩦	tiao
+䪆	ti
+䫖	ting
+䫮	ti
+䬫	ti
+䬾	ti
+䯜	ti
+䯾	tiao
+䱓	ting
+䱔	tiao
+䱱	ti
+䳂	tiao
+䴘	ti
+䴘	ti	25
 䴘形目	ti xing mu	1
+䴴	tie
+䵺	ting
+䵿	tie
+䶍	ti
+䶏	ti
+䶑	ti
+亭	ting
+亭	ting	72135
 亭下	ting xia	97
 亭下水连空	ting xia shui lian kong	1
 亭中	ting zhong	5215
@@ -45,6 +139,10 @@ sort: by_weight
 亭长	ting zhang	306
 亭顶	ting ding	53
 亭顶村	ting ding cun	1
+佃	tian
+佃	tian	1
+体	ti
+体	ti	799811
 体中何如	ti zhong he ru	3
 体会	ti hui	418395
 体会不到	ti hui bu dao	100
@@ -787,13 +885,26 @@ sort: by_weight
 体魄	ti po	28025
 体鳞	ti lin	3
 体鸣乐器	ti ming yue qi	170
+佻	tiao
+佻	tiao	3042
 佻巧	tiao qiao	75
+侱	ting
+侹	ting
+侹	ting	2
+俶	ti
+俶	ti	0
+倎	tian
+倜	ti
+倜	ti	6979
 倜傥	ti tang	4155
 倜傥不羁	ti tang bu ji	100
 倜傥不群	ti tang bu qun	100
 倜傥疏放	ti tang shu fang	100
 倜傥风流	ti tang feng liu	200
 倜然	ti ran	90
+偍	ti
+停	ting
+停	ting	715545
 停一下	ting yi xia	3585
 停一停	ting yi ting	2550
 停一次	ting yi ci	105
@@ -1184,6 +1295,10 @@ sort: by_weight
 停食	ting shi	1830
 停驶	ting shi	6970
 停驻	ting zhu	4075
+僣	tie
+兲	tian
+剃	ti
+剃	ti	10941
 剃个光头	ti ge guang tou	136
 剃了	ti le	3450
 剃了个光头	ti le ge guang tou	235
@@ -1232,6 +1347,8 @@ sort: by_weight
 剃须啫喱	ti xu zhe li	2500
 剃须泡	ti xu pao	2530
 剃龙头	ti long tou	100
+剔	ti
+剔	ti	21278
 剔光	ti guang	165
 剔出	ti chu	2605
 剔去	ti qu	2105
@@ -1258,6 +1375,8 @@ sort: by_weight
 剔骨还父	ti gu huan fu	100
 剔髓挑筋	ti sui tiao jin	100
 剔齿纤	ti chi xian	100
+厅	ting
+厅	ting	297396
 厅上	ting shang	7025
 厅中	ting zhong	6355
 厅主任	ting zhu ren	240
@@ -1276,6 +1395,10 @@ sort: by_weight
 厅里	ting li	24995
 厅长	ting zhang	54710
 厅门	ting men	3010
+厗	ti
+厛	ting
+听	ting
+听	ting	2449553
 听一下	ting yi xia	5250
 听一句劝	ting yi ju quan	100
 听一听	ting yi ting	8680
@@ -1901,6 +2024,13 @@ sort: by_weight
 听骨链	ting gu lian	100
 听鬼故事	ting gui gu shi	475
 听鹂馆	ting li guan	1
+呑	tian
+呫	tie
+唺	tian
+啁	tiao
+啑	ti
+啼	ti
+啼	ti	21533
 啼不住	ti bu zhu	65
 啼叫	ti jiao	2355
 啼号	ti hao	105
@@ -1922,8 +2052,17 @@ sort: by_weight
 啼血	ti xue	2
 啼饥号寒	ti ji hao han	285
 啼鸣	ti ming	2335
+嗁	ti
+嚏	ti
+嚏	ti	7017
 嚏喷	ti pen	111
 嚏根草	ti gen cao	1
+嚔	ti
+圢	ting
+圢	ting	1
+塡	tian
+填	tian
+填	tian	47816
 填一下	tian yi xia	100
 填一个	tian yi ge	730
 填一填	tian yi tian	123
@@ -2117,6 +2256,8 @@ sort: by_weight
 填鸭	tian ya	2155
 填鸭式	tian ya shi	4340
 填鸭式灌输	tian ya shi guan shu	60
+天	tian
+天	tian	6797499
 天一	tian yi	103
 天一亮	tian yi liang	3075
 天一坊	tian yi fang	74
@@ -5159,13 +5300,36 @@ sort: by_weight
 天龙集团	tian long ji tuan	32
 天龙饭店	tian long fan dian	2
 天龙马	tian long ma	100
+奃	ti
+奵	tian
+娗	ting
+婖	tian
+婷	ting
+婷	ting	123852
 婷婷	ting ting	44710
 婷婷基地	ting ting ji di	100
 婷婷袅袅	ting ting niao niao	270
 婷美	ting mei	1
 婷美小屋	ting mei xiao wu	100
+媂	ti
+媞	ti
+媞	ti	1080
 媞媞	ti ti	1
+嬥	tiao
+嬥	tiao	1
+宨	tiao
+屇	tian
+屉	ti
+屉	ti	16514
 屉子	ti zi	255
+屜	ti
+屟	ti
+岧	tiao
+岹	tiao
+崹	ti
+嵉	ting
+帖	tie
+帖	tie	30180
 帖子	tie zi	502879
 帖子不错	tie zi bu cuo	292
 帖子列表	tie zi lie biao	14995
@@ -5176,6 +5340,11 @@ sort: by_weight
 帖数	tie shu	6850
 帖木儿	tie mu er	4255
 帖木儿大汗	tie mu er da han	100
+庁	ting
+庍	ting
+庣	tiao
+庭	ting
+庭	ting	211391
 庭上	ting shang	5370
 庭下如积水空明	ting xia ru ji shui kong ming	3
 庭中	ting zhong	1740
@@ -5216,6 +5385,10 @@ sort: by_weight
 庭除	ting chu	760
 庭雪到腰埋不死	ting xue dao yao mai bu si	1
 庭香园	ting xiang yuan	4
+廰	ting
+廳	ting
+廷	ting
+廷	ting	132059
 廷争面折	ting zheng mian zhe	100
 廷尉	ting wei	4615
 廷巴克图	ting ba ke tu	100
@@ -5226,6 +5399,12 @@ sort: by_weight
 廷臣	ting chen	2360
 廷芳	ting fang	4110
 廷试	ting shi	655
+弟	ti
+徥	ti
+徲	ti
+忊	ting
+忝	tian
+忝	tian	1235
 忝为	tian wei	50
 忝列	tian lie	256
 忝列其中	tian lie qi zhong	100
@@ -5233,6 +5412,10 @@ sort: by_weight
 忝列门墙	tian lie men qiang	100
 忝居	tian ju	390
 忝陪末座	tian pei mo zuo	3
+怗	tie
+恌	tiao
+恬	tian
+恬	tian	16632
 恬不为怪	tian bu wei guai	100
 恬不为意	tian bu wei yi	100
 恬不为耻	tian bu wei chi	1
@@ -5260,7 +5443,18 @@ sort: by_weight
 恬适	tian shi	1805
 恬静	tian jing	22155
 恬静的	tian jing de	8585
+悌	ti
+悌	ti	1330
+悐	ti
+悿	tian
+惕	ti
+惕	ti	27307
 惕厉	ti li	2
+惖	ti
+惿	ti
+戻	ti
+挑	tiao
+挑	tiao	245886
 挑一	tiao yi	14960
 挑一个	tiao yi ge	100
 挑一些	tiao yi xie	12
@@ -5508,6 +5702,9 @@ sort: by_weight
 挑鼻子	tiao bi zi	100
 挑鼻子瞪眼	tiao bi zi deng yan	100
 挑鼻子竖眼	tiao bi zi shu yan	100
+挮	ti
+挺	ting
+挺	ting	269816
 挺一挺	ting yi ting	610
 挺一致	ting yi zhi	100
 挺一致的	ting yi zhi de	100
@@ -6142,6 +6339,11 @@ sort: by_weight
 挺麻烦的	ting ma fan de	100
 挺黄	ting huang	1111
 挺黑	ting hei	420
+掦	ti
+掭	tian
+掭	tian	37
+提	ti
+提	ti	1026285
 提一下	ti yi xia	100
 提一个	ti yi ge	2
 提一个建议	ti yi ge jian yi	100
@@ -7274,9 +7476,20 @@ sort: by_weight
 提高饲料利用率	ti gao si liao li yong lv	100
 提高骨密度	ti gao gu mi du	100
 提鲜	ti xian	1111
+揥	ti
+搷	tian
+擿	ti
+擿	ti	11
 擿伏发奸	ti fu fa jian	100
 擿伏发隐	ti fu fa yin	1
 擿奸发伏	ti jian fa fu	1
+斢	tiao
+旫	tiao
+晀	tiao
+晪	tian
+晪	tian	1
+替	ti
+替	ti	218469
 替下	ti xia	3985
 替不了	ti bu liao	135
 替人	ti ren	11490
@@ -7424,6 +7637,12 @@ sort: by_weight
 替身术	ti shen shu	100
 替身演员	ti shen yan yuan	1680
 替雷利珠单抗	ti lei li zhu dan kang	100
+朑	ti
+朓	tiao
+朓	tiao	20
+朷	tiao
+条	tiao
+条	tiao	925439
 条令	tiao ling	7660
 条令条例	tiao ling tiao li	100
 条件	tiao jian	501364
@@ -7623,8 +7842,17 @@ sort: by_weight
 条顿族	tiao dun zu	100
 条马陆	tiao ma lu	1
 条鱼	tiao yu	17170
+栝	tian
+桋	ti
+桯	ting
+桯	ting	8
 桯子	ting zi	1
+梃	ting
+梃	ting	271
 梃子	ting zi	1
+條	tiao
+梯	ti
+梯	ti	107297
 梯也尔	ti ye er	100
 梯云纵	ti yun zong	100
 梯子	ti zi	24620
@@ -7673,9 +7901,19 @@ sort: by_weight
 梯队式	ti dui shi	155
 梯阵式	ti zhen shi	5
 梯阶	ti jie	910
+棣	ti
+楟	ting
+榳	ting
+樤	tiao
+歒	ti
+殄	tian
+殄	tian	1518
+殢	ti
 殢云尤雨	ti yun you yu	100
 殢酒淹花	ti jiu yan hua	100
 殢雨尤云	ti yu you yun	100
+汀	ting
+汀	ting	15090
 汀上白沙看不见	ting shang bai sha kan bu jian	3
 汀兰苑	ting lan yuan	100
 汀坪乡	ting ping xiang	61
@@ -7692,10 +7930,15 @@ sort: by_weight
 汀草岸花浑不见	ting cao an hua hun bu jian	1
 汀角	ting jiao	6
 汀香郡	ting xiang jun	127
+沺	tian
+沺	tian	1
 沺泾乡	tian jing xiang	2
 沺泾河	tian jing he	2
 沺泾社区	tian jing she qu	2
 沺泾老街	tian jing lao jie	2
+涏	ting
+涕	ti
+涕	ti	24195
 涕如绠縻	ti ru geng mi	1
 涕泗	ti si	1
 涕泗交下	ti si jiao xia	100
@@ -7716,6 +7959,10 @@ sort: by_weight
 涕泪滂沱	ti lei pang tuo	205
 涕零	ti ling	815
 涕零如雨	ti ling ru yu	265
+淟	tian
+淟	tian	1
+添	tian
+添	tian	69960
 添一添	tian yi tian	114
 添一笔	tian yi bi	178
 添一锅	tian yi guo	19
@@ -7855,10 +8102,35 @@ sort: by_weight
 添马舰	tian ma jian	275
 添麻烦	tian ma fan	10080
 添麻烦了	tian ma fan le	100
+渟	ting
+渟	ting	19
+渧	ti
+湉	tian
+湉	tian	612
+漽	ti
+濎	ting
+烃	ting
+烃	ting	130
 烃化作用	ting hua zuo yong	100
 烃基	ting ji	1040
 烃类	ting lei	5715
+烴	ting
+烶	ting
+烶	ting	1
+珶	ti
+珽	ting
+珽	ting	349
+琠	tian
+瑅	ti
+瑅	ti	1
+瑱	tian
+瑱	tian	65
 瑱𬘘	tian dan	2
+璳	tian
+瓋	ti
+甛	tian
+甜	tian
+甜	tian	156743
 甜不辣	tian bu la	100
 甜丝丝	tian si si	2770
 甜丸卵	tian wan luan	9
@@ -8097,6 +8369,8 @@ sort: by_weight
 甜馨果酒湖	tian xin guo jiu hu	100
 甜高粱	tian gao liang	2105
 甜麻花	tian ma hua	46
+田	tian
+田	tian	339958
 田一名	tian yi ming	168
 田一鸣	tian yi ming	110
 田一龙	tian yi long	100
@@ -8455,11 +8729,26 @@ sort: by_weight
 田黄石	tian huang shi	1980
 田鼠	tian shu	6065
 田齐	tian qi	5
+甸	tian
+町	ting
+町	ting	1
 町畦	ting qi	2
+甼	ting
+畋	tian
+畋	tian	178
 畋猎	tian lie	7
+畑	tian
+畑	tian	1
 畑井氏歌津鱼龙	tian jing shi ge jin yu long	1
 畑俊六	tian jun liu	1
 畑芽育	tian ya yu	1
+畠	tian
+痶	tian
+盷	tian
+盷	tian	29
+眣	ti
+眺	tiao
+眺	tiao	12749
 眺望	tiao wang	34895
 眺望台	tiao wang tai	100
 眺望塔	tiao wang ta	100
@@ -8467,22 +8756,71 @@ sort: by_weight
 眺望着	tiao wang zhe	3365
 眺望着远方	tiao wang zhe yuan fang	100
 眺望远方	tiao wang yuan fang	100
+睓	tian
+睼	ti
+碮	ti
+碵	tian
+磃	ti
+磌	tian
+祒	tiao
+祧	tiao
+祧	tiao	804
+禔	ti
+禵	ti
+稊	ti
 稊米	ti mi	13
+窕	tiao
+窕	tiao	5351
+窱	tiao
+窴	tian
+笤	tiao
+笤	tiao	1028
 笤帚	tiao zhou	2820
 笤帚胡同	tiao zhou hu tong	8
+笹	ti
+筳	ting
+籊	ti
+粜	tiao
+粜	tiao	223
 粜米	tiao mi	3
 粜风卖雨	tiao feng mai yu	1
+糶	tiao
+紾	tian
+絩	tiao
+綈	ti
+綎	ting
+緂	tian
+緹	ti
+绨	ti
+绨	ti	222
 绨袍之义	ti pao zhi yi	2
 绨袍之赠	ti pao zhi zeng	1
 绨袍恋恋	ti pao lian lian	2
+缇	ti
+缇	ti	6721
 缇丝丹	ti si dan	6
 缇米朵	ti mi duo	100
 缇骑	ti qi	111
+罤	ti
+耓	ting
+聎	tiao
+聑	tie
+聤	ting
+聴	ting
+聼	ting
+聽	ting
+胋	tian
+脁	tiao
+脡	ting
+腆	tian
+腆	tian	9132
 腆着	tian zhe	1605
 腆着个	tian zhe ge	100
 腆着个大肚子	tian zhe ge da du zi	100
 腆着肚子	tian zhe du zi	545
 腆着胸脯	tian zhe xiong pu	100
+舔	tian
+舔	tian	26424
 舔一下	tian yi xia	100
 舔一舔	tian yi tian	1475
 舔不着	tian bu zhao	1
@@ -8534,26 +8872,63 @@ sort: by_weight
 舔遍	tian bian	1111
 舔阴	tian yin	1205
 舔食	tian shi	3080
+舚	tian
+艇	ting
+艇	ting	52284
 艇仔粥	ting zai zhou	1317
 艇只	ting zhi	2
 艇员	ting yuan	1700
 艇甲板	ting jia ban	100
 艇长	ting zhang	3500
+芀	tiao
+苐	ti
+苕	tiao
+苕	tiao	1
 苕溪	tiao xi	1
 苕溪大桥	tiao xi da qiao	4
 苕溪渔隐丛话	tiao xi yu yin cong hua	3
 苕溪西路	tiao xi xi lu	1
 苕溪路	tiao xi lu	3
+荑	ti
+荑	ti	1744
 荑手纤纤	ti shou xian xian	100
+莛	ting
+莛	ting	876
+菾	tian
+萔	tiao
+萜	tie
+萜	tie	21
 萜烯树脂	tie xi shu zhi	345
 萜类	tie lei	5
+葶	ting
+葶	ting	910
 葶苈	ting li	725
 葶苈子	ting li zi	29
 葶苈草颗粒	ting li cao ke li	7
+蓚	tiao
+蓧	tiao
+蓨	tiao
+蕛	ti
+薙	ti
+薙	ti	1
 薙刀	ti dao	101
 薙切绘里奈	ti qie hui li nai	1
+蛈	tie
 蛈蛚	tie lie	1
+蜓	ting
+蜓	ting	7149
+蜩	tiao
+蜩	tiao	96
 蜩螗沸羹	tiao tang fei geng	100
+蝏	ting
+裼	ti
+裼	ti	61
+褅	ti
+褆	ti
+覜	tiao
+覥	tian
+觍	tian
+觍	tian	81
 觍着	tian zhe	1060
 觍着一张老脸	tian zhe yi zhang lao lian	10000
 觍着大脸	tian zhe da lian	10000
@@ -8561,6 +8936,13 @@ sort: by_weight
 觍着脸	tian zhe lian	500
 觍脸	tian lian	111
 觍颜	tian yan	1250
+誂	tiao
+誔	ting
+調	tiao
+諪	ting
+謕	ti
+调	tiao
+调	tiao	542792
 调一下	tiao yi xia	998
 调一次	tiao yi ci	63
 调一调	tiao yi tiao	999
@@ -9811,6 +10193,10 @@ sort: by_weight
 调高到	tiao gao dao	1540
 调鸡尾酒	tiao ji wei jiu	100
 调鼎斋	tiao ding zhai	1
+貼	tie
+賟	tian
+贴	tie
+贴	tie	169181
 贴一个	tie yi ge	62
 贴一贴	tie yi tie	123
 贴上	tie shang	60075
@@ -10025,6 +10411,13 @@ sort: by_weight
 贴饼子	tie bing zi	1255
 贴饽饽熬小鱼	tie bo bo ao xiao yu	155
 贴饽饽熬鱼	tie bo bo ao yu	33
+趒	tiao
+趧	ti
+趯	ti
+趯	ti	35
+跕	tie
+跳	tiao
+跳	tiao	532527
 跳一下	tiao yi xia	66
 跳一段舞	tiao yi duan wu	100
 跳一段舞吧	tiao yi duan wu ba	100
@@ -10382,6 +10775,8 @@ sort: by_weight
 跳鼠科	tiao shu ke	100
 跳龙卧虎	tiao long wo hu	1
 跳龙门	tiao long men	1190
+踢	ti
+踢	ti	115921
 踢一脚	ti yi jiao	1610
 踢一踢	ti yi ti	894
 踢上	ti shang	1875
@@ -10531,6 +10926,8 @@ sort: by_weight
 踢馆	ti guan	1575
 踢馆儿	ti guan er	1575
 踢马刺	ti ma ci	135
+蹄	ti
+蹄	ti	38922
 蹄儿	ti er	9999
 蹄儿朝西	ti er chao xi	100
 蹄兔属	ti tu shu	100
@@ -10552,6 +10949,11 @@ sort: by_weight
 蹄铁	ti tie	725
 蹄闲三寻	ti xian san xun	1
 蹄间三寻	ti jian san xun	1
+蹏	ti
+躰	ti
+軆	ti
+迢	tiao
+迢	tiao	9447
 迢远	tiao yuan	50
 迢迢	tiao tiao	8920
 迢迢万里	tiao tiao wan li	100
@@ -10565,11 +10967,37 @@ sort: by_weight
 迢递	tiao di	1
 迢递三巴路	tiao di san ba lu	1
 迢遥	tiao yao	805
+逖	ti
+逖	ti	2022
 逖听远闻	ti ting yuan wen	1
 逖听遐视	ti ting xia shi	1
+逷	ti
+遆	ti
+遆	ti	29
+邒	ting
+酟	tian
+醍	ti
+醍	ti	1453
 醍醐	ti hu	2685
 醍醐乡	ti hu xiang	3
 醍醐灌顶	ti hu guan ding	5070
+鉄	tie
+銕	tie
+銚	tiao
+銛	tian
+銻	ti
+銽	tian
+鋌	ting
+鋚	tiao
+錪	tian
+鍗	ti
+鎥	tiao
+鐡	tie
+鐵	tie
+钿	tian
+钿	tian	1
+铁	tie
+铁	tie	520031
 铁一中	tie yi zhong	100
 铁一中东校区	tie yi zhong dong xiao qu	2
 铁一局医院	tie yi ju yi yuan	6
@@ -11326,13 +11754,35 @@ sort: by_weight
 铁齿铜牙	tie chi tong ya	1800
 铁齿铜牙纪晓岚	tie chi tong ya ji xiao lan	100
 铁龙股份	tie long gu fen	12500
+铤	ting
+铤	ting	2171
 铤而走险	ting er zou xian	11945
+铦	tian
+铫	tiao
+锑	ti
+锑	ti	173
 锑元素	ti yuan su	100
 锑化物	ti hua wu	45
 锑化砷	ti hua shen	123
 锑矿	ti kuang	5
 锑矿石	ti kuang shi	65
+閮	ting
+闐	tian
+阗	tian
+阗	tian	2749
 阗路骈陌	tian lu pian mo	100
+霆	ting
+霆	ting	29470
+靔	tian
+靝	tian
+鞓	ting
+鞗	tiao
+頲	ting
+題	ti
+颋	ting
+颋	ting	9
+题	ti
+题	ti	976178
 题上	ti shang	9535
 题上去	ti shang qu	85
 题上来	ti shang lai	280
@@ -11424,11 +11874,240 @@ sort: by_weight
 题难不	ti nan bu	100
 题集	ti ji	4350
 题额	ti e	1
+飻	tie
+餂	tian
+餮	tie
+餮	tie	2648
+騠	ti
+驖	tie
+骵	ti
+體	ti
+髫	tiao
+髫	tiao	317
 髫年	tiao nian	115
 髫龄	tiao ling	6
+髰	ti
+鬀	ti
+鬄	ti
+鮷	ti
+鯈	tiao
+鯷	ti
+鰷	tiao
+鲦	tiao
+鲦	tiao	86
 鲦鱼	tiao yu	2
+鳀	ti
+鳀	ti	13
+鴫	tian
+鵜	ti
+鶗	ti
+鶙	ti
+鷆	tian
+鷈	ti
+鷉	ti
+鷏	tian
+鷤	ti
+鹈	ti
+鹈	ti	579
 鹈形目	ti xing mu	100
 鹈鹕	ti hu	1355
+黇	tian
+黇	tian	2
 黇鹿	tian lu	38
+鼮	ting
+齠	tiao
+龆	tiao
+龆	tiao	106
 龆年稚齿	tiao nian zhi chi	1
+鿬	tian
+鿬	tian	1
 鿬元素	tian yuan su	100
+𠄚	ting
+𠕊	ting
+𠗘	tian
+𠘋	ting
+𠛪	tiao
+𠞄	ti
+𠤺	tiao
+𠧪	tiao
+𡈼	ting
+𡒧	tian
+𡔛	ting
+𡙒	tian
+𡠊	tiao
+𡥩	ti
+𡯿	tiao
+𡰎	ti
+𡲕	ti
+𡲿	ti
+𡳏	tiao
+𡸑	ti
+𢇶	tian
+𢈄	tiao
+𢓍	tian
+𢓝	tiao
+𢓡	ti
+𢖈	tiao
+𢝹	ti
+𢞖	ti
+𢧑	ti
+𢬫	ting
+𢱦	ti
+𢳓	ti
+𢳙	tiao
+𢶋	tie
+𢺫	tiao
+𢽄	ting
+𣂁	tiao
+𣂥	tiao
+𣂴	ting
+𣄍	ti
+𣄿	ting
+𣈡	ti
+𣉆	ti
+𣉡	ting
+𣊖	tian
+𣒼	tiao
+𣖅	ti
+𣖸	ti
+𣜹	ti
+𣟐	tiao
+𣤖	ti
+𣧂	ti
+𣨼	ti
+𣬸	tiao
+𣸒	ti
+𣹲	ti
+𤗘	ti
+𤗞	ting
+𤗢	ti
+𤘖	ting
+𤘠	tian
+𤚢	ti
+𤝓	tie
+𤟥	ti
+𤟾	ti
+𤤦	tian
+𤩱	tian
+𤫞	tian
+𤭌	ti
+𤱹	ting
+𤲖	tian
+𥆑	ting
+𥉈	ti
+𥉘	ti
+𥎺	tiao
+𥑈	ting
+𥡦	ti
+𥥶	ting
+𥧑	tian
+𥪌	tian
+𥪧	tian
+𥫙	ting
+𥫵	ti
+𥳫	tian
+𥳳	ti
+𥴑	ting
+𥵶	tian
+𥶏	tiao
+𥶛	ti
+𦉬	ting
+𦊊	tian
+𦌢	ti
+𦐿	ting
+𦔿	tian
+𦕢	ting
+𦗀	tian
+𦗁	tian
+𦗟	ting
+𦝒	tie
+𦝞	ting
+𦧒	tian
+𦧖	tian
+𦧝	tian
+𦧡	tian
+𦧢	tie
+𦧤	tie
+𦩄	tiao
+𦬞	tian
+𦳇	tian
+𦴚	tiao
+𦺰	tiao
+𦻀	ti
+𧀠	ti
+𧀰	ti
+𧉂	tian
+𧋘	ti
+𧌁	tiao
+𧌎	tian
+𧓴	ting
+𧔩	ti
+𧖨	ting
+𧙣	ti
+𧛒	ti
+𧝆	ti
+𧝐	ti
+𧡨	ti
+𧤍	ti
+𧨩	tian
+𧨱	ti
+𧨸	tian
+𧰊	tian
+𧰩	ting
+𧶺	ting
+𧼮	ti
+𨁃	ti
+𨁗	ting
+𨆁	tian
+𨉥	ti
+𨉬	ting
+𨉾	tian
+𨊡	ting
+𨋫	tiao
+𨌈	tian
+𨓍	ting
+𨔛	ti
+𨠏	ti
+𨡁	tian
+𨡏	tian
+𨪉	ti
+𨲎	ti
+𨲞	ti
+𨳑	ting
+𨳝	ting
+𨴼	ti
+𨸱	tian
+𨹻	tian
+𨾾	tiao
+𩆆	ting
+𩈍	tian
+𩉁	tian
+𩋣	ti
+𩐴	ting
+𩑙	ting
+𩒞	ting
+𩓂	ti
+𩚣	tian
+𩛑	ti
+𩛶	ti
+𩝊	ti
+𩤽	ti
+𩨑	ting
+𩬲	ti
+𩮜	ti
+𩲤	tiao
+𩳕	ti
+𩹇	ting
+𩿷	ti
+𪁩	ti
+𪅉	tian
+𪊶	ting
+𪌩	tian
+𪌪	tiao
+𪍲	ti
+𪎋	tie
+𪎾	tian
+𪕩	ti
+𪖦	ti
+𫘨	ti	1
+𬘩	ting	99

@@ -7,7 +7,13 @@ import java.nio.file.Path
 
 fun main() {
     val root = Path.of(System.getProperty("user.dir"))
-    val files = listOf("base.dict.yaml", "ext.dict.yaml", "tencent.dict.yaml")
+    val files = listOf(
+        "base.dict.yaml",
+        "ext.dict.yaml",
+        "tencent.dict.yaml",
+        "8105.dict.yaml",
+        "41448.dict.yaml",
+    )
         .map { root.resolve(".vendor/rime-ice/cn_dicts").resolve(it) }
         .filter(Files::exists)
 

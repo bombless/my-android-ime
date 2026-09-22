@@ -3,11 +3,93 @@ name: merged.qu
 version: "1.0"
 sort: by_weight
 ...
+㒰	quan
+㕁	que
+㖆	qu
+㚁	qu
+㜹	qu
+㟨	quan
+㟫	quan
+㣄	qu
+㤲	qu
+㧁	qu
+㩁	que
+㩲	quan
+㪊	qun
+㪯	qu
+㫢	qu
+㭕	qu
+㭕	qu	1
+㯫	qu
+㰌	que
+㰦	qu
+㱋	que
+㱿	que
+㲉	que
+㲘	qu
+㴶	que
+㹤	que
+㹱	que
+㻃	qu
+㽛	qu
+㾡	que
+㿏	qun
+䀇	que
+䀠	qu
+䀬	quan
+䁦	qu
+䂂	qu
+䄐	quan
+䅓	qu
+䅚	quan
+䆽	qu
+䆽	qun
+䇎	que
+䊎	quan
+䋧	qu
+䌌	qu
+䌯	quan
+䍳	que
+䏣	qu
+䑏	quan
+䒧	qu
+䒼	qu
+䓛	qu
+䓛	qu	1
+䖦	qu
+䗇	qu
+䝣	qu
+䞤	qu
+䞭	qun
+䟊	qu
+䟒	quan
+䠐	qu
+䠓	qu
+䠰	quan
+䢗	qu
+䢧	que
+䦬	que
+䧢	qu
+䧿	que
+䪨	qu
+䭽	qun
+䱜	que
+䲵	que
+䵶	qu
+䶚	qu
+伹	qu
+佉	qu
 佉卢字母	qu lu zi mu	1
 佉卢文	qu lu wen	100
 佉卢文字	qu lu wen zi	1
 佉罗文	qu luo wen	1
 佉阳照	qu yang zhao	1
+佢	qu
+佺	quan
+佺	quan	237
+傕	que
+全	quan
+全	quan	2085206
 全一册	quan yi ce	3605
 全一快递	quan yi kuai di	100
 全一点	quan yi dian	369
@@ -2286,6 +2368,9 @@ sort: by_weight
 全黄荷苔蛾	quan huang he tai e	1
 全黑	quan hei	11075
 全齿目	quan chi mu	2
+刞	qu
+券	quan
+券	quan	21437
 券后	quan hou	1111
 券后价	quan hou jia	1111
 券后价格	quan hou jia ge	1111
@@ -2296,6 +2381,8 @@ sort: by_weight
 券商行情	quan shang hang qing	100
 券商银行	quan shang yin hang	100
 券种	quan zhong	11
+劝	quan
+劝	quan	142540
 劝不了	quan bu liao	505
 劝不住	quan bu zhu	1035
 劝不过	quan bu guo	301
@@ -2392,9 +2479,16 @@ sort: by_weight
 劝降书	quan xiang shu	120
 劝降信	quan xiang xin	100
 劝驾	quan jia	275
+劬	qu
+劬	qu	192
 劬劳	qu lao	1111
 劬劳之恩	qu lao zhi en	100
 劬劳顾复	qu lao gu fu	100
+勧	quan
+勸	quan
+匤	qu
+区	qu
+区	qu	485061
 区一中	qu yi zhong	46
 区一建	qu yi jian	1
 区一院	qu yi yuan	4
@@ -2666,6 +2760,9 @@ sort: by_weight
 区闻陬见	qu wen zou jian	5
 区队长	qu dui zhang	100
 区隔	qu ge	1500
+區	qu
+却	que
+却	que	2377929
 却一点都不	que yi dian dou bu	100
 却一笑而过	que yi xiao er guo	100
 却上心头	que shang xin tou	3365
@@ -2888,6 +2985,11 @@ sort: by_weight
 却阻不住	que zu bu zhu	100
 却难拓你的美	que nan ta ni de mei	100
 却顾所来径	que gu suo lai jing	49
+卻	que
+卻	que	1
+厺	qu
+去	qu
+去	qu	7182400
 去一下	qu yi xia	8
 去一个	qu yi ge	802
 去一次	qu yi ci	9999
@@ -3919,6 +4021,8 @@ sort: by_weight
 去麦当劳	qu mai dang lao	1790
 去黄提亮	qu huang ti liang	187
 去黑头	qu hei tou	4705
+取	qu
+取	qu	602170
 取一下经	qu yi xia jing	64
 取一个	qu yi ge	72
 取一处	qu yi chu	100
@@ -4467,6 +4571,12 @@ sort: by_weight
 取餐口	qu can kou	100
 取餐处	qu can chu	100
 取齐	qu qi	910
+呿	qu
+啳	quan
+囷	qun
+囷	qun	24
+圈	quan
+圈	quan	232242
 圈一圈	quan yi quan	100
 圈不住	quan bu zhu	110
 圈中	quan zhong	21465
@@ -4547,6 +4657,20 @@ sort: by_weight
 圈阅	quan yue	1130
 圈颈鲾	quan jing bi	1
 圈黑卷叶象	quan hei juan ye xiang	1
+圏	quan
+坥	qu
+坥	qu	1
+埆	que
+埆	que	1
+埢	quan
+塙	que
+塸	qu
+墧	que
+夋	qun
+奍	quan
+姾	quan
+娶	qu
+娶	qu	63133
 娶一个	qu yi ge	542
 娶不了	qu bu liao	90
 娶不到	qu bu dao	1430
@@ -4588,6 +4712,12 @@ sort: by_weight
 娶谁	qu shei	1111
 娶谁	qu shui	1111
 娶进门	qu jin men	108
+婘	quan
+婘	quan	3
+孉	quan
+宭	qun
+屈	qu
+屈	qu	129274
 屈一伸万	qu yi shen wan	100
 屈万里	qu wan li	7
 屈从	qu cong	6175
@@ -4704,6 +4834,32 @@ sort: by_weight
 屈辱性	qu ru xing	30
 屈驾	qu jia	420
 屈高就下	qu gao jiu xia	100
+岖	qu
+岖	qu	4782
+岨	qu	1
+岴	qu
+峑	quan
+峮	qun
+崅	que
+嶇	qu
+巏	quan
+帬	qun
+弮	quan
+忂	qu
+恮	quan
+悛	quan
+悛	quan	245
+悫	que
+悫	que	105
+惓	quan
+愨	que
+慤	que
+憈	qu
+戌	qu	1
+戵	qu
+抾	qu
+拳	quan
+拳	quan	264501
 拳不离手	quan bu li shou	660
 拳击	quan ji	34525
 拳击俱乐部	quan ji ju le bu	100
@@ -4773,6 +4929,15 @@ sort: by_weight
 拳霸	quan ba	2950
 拳馆	quan guan	6999
 拳魂觉醒	quan hun jue xing	100
+捲	quan
+搉	que
+搼	quan
+敠	que
+敪	que
+敺	qu
+斪	qu
+曲	qu
+曲	qu	250151
 曲不离口	qu bu li kou	820
 曲中	qu zhong	11190
 曲为之解	qu wei zhi jie	100
@@ -5120,6 +5285,10 @@ sort: by_weight
 曲鲁海乡	qu lu hai xiang	15
 曲麻莱	qu ma lai	600
 曲麻莱县	qu ma lai xian	635
+朐	qu
+朐	qu	290
+权	quan
+权	quan	422461
 权且	quan qie	4910
 权交线	quan jiao xian	1
 权位	quan wei	4825
@@ -5383,10 +5552,29 @@ sort: by_weight
 权限问题	quan xian wen ti	5571
 权顺荣	quan shun rong	136
 权高位重	quan gao wei zhong	100
+棤	que
+棬	quan
+棬	quan	19
 棬子树	quan zi shu	2
+椦	quan
+楾	quan
+榷	que
+榷	que	1857
 榷酒征茶	que jiu zheng cha	1
+槫	quan
+権	quan
+權	quan
+欋	qu
+欔	qu
+欪	qu
+歏	qun
+氍	qu
+氍	qu	69
 氍毹	qu shu	1
 氍毹岁月	qu shu sui yue	1
+汋	que
+泉	quan
+泉	quan	121061
 泉上有芹芽	quan shang you qin ya	1
 泉下	quan xia	2305
 泉东	quan dong	18
@@ -5482,6 +5670,11 @@ sort: by_weight
 泉香而酒洌	quan xiang er jiu lie	2
 泉鲻鰕虎鱼	quan zi xia hu yu	1
 泉龙	quan long	804
+洤	quan
+浀	qu
+淭	qu
+渠	qu
+渠	qu	25514
 渠东	qu dong	31
 渠化	qu hua	15
 渠县	qu xian	11515
@@ -5514,13 +5707,30 @@ sort: by_weight
 渠阳镇	qu yang zhen	1
 渠马镇	qu ma zhen	3
 渠魁	qu kui	200
+湶	quan
+灈	qu
+灈	qu	5
 灈阳镇	qu yang zhen	1
+灥	quan
+炔	que
+炔	que	385
 炔烃	que ting	5
 炔螨特	que man te	141
 炔诺酮	que nuo tong	17
 炔雌醇	que ci chun	4
 炔雌醇片	que ci chun pian	4
 炔雌醚	que ci mi	1
+烇	quan
+焌	qu
+焌	qu	130
+煀	qu
+燩	que
+爠	qu
+牶	quan
+牷	quan
+犈	quan
+犬	quan
+犬	quan	40178
 犬上阶眠知地湿	quan shang jie mian zhi di shi	1
 犬不夜吠	quan bu ye fei	100
 犬业	quan ye	73
@@ -5630,15 +5840,30 @@ sort: by_weight
 犬齿背眼鰕虎鱼	quan chi bei yan xia hu yu	1
 犬齿赤莲	quan chi chi lian	1
 犬齿龙附目	quan chi long fu mu	1
+犭	quan
+犮	quan
+狋	quan
+琷	que
+瑔	quan
+瑔	quan	1
+璖	qu
+璩	qu
+璩	qu	245
 璩姓	qu xing	2
 璩美凤	qu mei feng	2495
+畎	quan
+畎	quan	136
 畎亩	quan mu	345
 畎亩下才	quan mu xia cai	1
 畎亩之中	quan mu zhi zhong	345
 畎亩之忠	quan mu zhi zhong	1
 畎桥村	quan qiao cun	1
+痊	quan
+痊	quan	8478
 痊愈	quan yu	57700
 痊愈率	quan yu lv	470
+瘸	que
+瘸	que	11577
 瘸了	que le	14121
 瘸了一条腿	que le yi tiao tui	100
 瘸了腿	que le tui	100
@@ -5646,6 +5871,11 @@ sort: by_weight
 瘸的	que de	460
 瘸着腿	que zhe tui	100
 瘸腿	que tui	3195
+癯	qu
+癯	qu	732
+皵	que
+瞿	qu
+瞿	qu	7952
 瞿中溶	qu zhong rong	1
 瞿俊	qu jun	15
 瞿友宁	qu you ning	37
@@ -5664,6 +5894,11 @@ sort: by_weight
 瞿秋白	qu qiu bai	6895
 瞿颖	qu ying	8075
 瞿麦	qu mai	16
+矔	quan
+硂	quan
+硞	que
+确	que
+确	que	722242
 确不可易	que bu ke yi	2
 确乎	que hu	3480
 确乎不拔	que hu bu ba	100
@@ -5965,6 +6200,16 @@ sort: by_weight
 确需	que xu	5555
 确非	que fei	1180
 确非易事	que fei yi shi	485
+碏	que
+碏	que	12
+確	que
+碻	que
+磲	qu
+磲	qu	180
+礐	que
+礭	que
+祛	qu
+祛	qu	1909
 祛厄禳灾	qu e rang zai	100
 祛寒止痛	qu han zhi tong	91
 祛斑	qu ban	28080
@@ -6001,6 +6246,25 @@ sort: by_weight
 祛风湿药酒	qu feng shi yao jiu	3
 祛风除湿	qu feng chu shi	2130
 祛魅	qu mei	2222
+竘	qu
+竘	qu	2
+竬	qu
+筁	qu
+筌	quan
+筌	quan	1011
+箘	qun
+箞	quan
+籧	qu
+粬	qu
+紶	qu
+絇	qu
+絟	quan
+綣	quan
+縓	quan
+绻	quan
+绻	quan	1547
+缺	que
+缺	que	207517
 缺一	que yi	10370
 缺一不可	que yi bu ke	27005
 缺一个	que yi ge	100
@@ -6268,6 +6532,10 @@ sort: by_weight
 缺齿红丝线	que chi hong si xian	1
 缺齿青铜金龟	que chi qing tong jin gui	1
 缺齿鼹	que chi yan	15
+缼	que
+羣	qun
+群	qun
+群	qun	516077
 群丑	qun chou	385
 群中	qun zhong	62185
 群主	qun zhu	9999
@@ -6588,18 +6856,46 @@ sort: by_weight
 群龙之首	qun long zhi shou	100
 群龙夺宝	qun long duo bao	13
 群龙无首	qun long wu shou	4035
+翑	qu
+翵	qu
+耝	qu
+胊	qu
+胠	qu
+胠	qu	23
+臞	qu
+苣	qu
+苣	qu	620
 苣荬菜	qu mai cai	111
 苣荬菜包子	qu mai cai bao zi	3
+荃	quan
+荃	quan	4385
 荃湾	quan wan	1
 荃湾区	quan wan qu	73
 荃者所以在鱼	quan zhe suo yi zai yu	1
+菃	qu
+葋	qu
+葲	quan
+蒛	que
+蕖	qu
+蕖	qu	379
+蘧	qu
+蘧	qu	304
 蘧然	qu ran	205
 蘧瑗知非	qu yuan zhi fei	1
+虇	quan
+蚗	que
+蚼	qu
+蛆	qu
+蛆	qu	4296
 蛆虫	qu chong	3675
+蛐	qu
+蛐	qu	4560
 蛐儿蛐	qu er qu	100
 蛐儿蛐儿	qu er qu er	100
 蛐蛐	qu qu	5590
 蛐蛐儿	qu qu er	1240
+蜷	quan
+蜷	quan	15341
 蜷伏	quan fu	1240
 蜷卧	quan wo	280
 蜷在	quan zai	2900
@@ -6616,7 +6912,17 @@ sort: by_weight
 蜷缩着身体	quan suo zhe shen ti	100
 蜷缩着身子	quan suo zhe shen zi	100
 蜷蜿	quan wan	222
+蝺	qu
+螶	qu
+蟝	qu
+蠷	qu
+蠸	quan
+蠼	qu
+蠼	qu	145
 蠼螋	qu sou	2
+衐	qu
+衢	qu
+衢	qu	2011
 衢县	qu xian	915
 衢州	qu zhou	42390
 衢州中院	qu zhou zhong yuan	87
@@ -6627,8 +6933,12 @@ sort: by_weight
 衢州府	qu zhou fu	100
 衢州机场	qu zhou ji chang	199
 衢江路富春江路口	qu jiang lu fu chun jiang lu kou	1
+袪	qu
+袪	qu	73
 袪痒	qu yang	369
 袪衣受业	qu yi shou ye	100
+裙	qun
+裙	qun	82091
 裙下	qun xia	6666
 裙儿小姐	qun er xiao jie	100
 裙内	qun nei	1180
@@ -6667,12 +6977,27 @@ sort: by_weight
 裙边	qun bian	6085
 裙边菜	qun bian cai	1585
 裙钗	qun chai	575
+裠	qun
+覰	qu
+覷	qu
+覻	qu
+觑	qu
+觑	qu	22005
 觑个意顺	qu ge yi shun	100
 觑机会	qu ji hui	100
 觑着眼	qu zhuo yan	100
 觑觑眼	qu qu yan	100
+觠	quan
+詓	qu
+詘	qu
+詮	quan
+誳	qu
+诎	qu
+诎	qu	147
 诎寸信尺	qu cun xin chi	1
 诎膝请和	qu xi qing he	1
+诠	quan
+诠	quan	4687
 诠力科技	quan li ke ji	100
 诠才末学	quan cai mo xue	1
 诠次	quan ci	1
@@ -6689,6 +7014,8 @@ sort: by_weight
 诠释着	quan shi zhe	5950
 诠释者	quan shi zhe	1205
 诠释角色	quan shi jue se	100
+趋	qu
+趋	qu	40579
 趋之如市	qu zhi ru shi	100
 趋之如鹜	qu zhi ru wu	100
 趋之若鹜	qu zhi ruo wu	12505
@@ -6758,6 +7085,10 @@ sort: by_weight
 趋附于	qu fu yu	25
 趋附权贵	qu fu quan gui	10
 趋魔犬	qu mo quan	1
+趍	qu
+趞	que
+趣	qu
+趣	qu	278572
 趣事	qu shi	28030
 趣口才	qu kou cai	107
 趣味	qu wei	106930
@@ -6787,6 +7118,12 @@ sort: by_weight
 趣配音	qu pei yin	289
 趣闻	qu wen	12390
 趣闻轶事	qu wen yi shi	1495
+趨	qu
+跧	quan
+踡	quan
+躣	qu
+躯	qu
+躯	qu	93458
 躯体	qu ti	64440
 躯体化障碍	qu ti hua zhang ai	14
 躯体变形障碍	qu ti bian xing zhang ai	7
@@ -6800,11 +7137,20 @@ sort: by_weight
 躯干肌	qu gan ji	3
 躯干骨	qu gan gu	11
 躯骸	qu hai	25
+軀	qu
+軥	qu
+輇	quan
+辁	quan
+辁	quan	6
 辁才小慧	quan cai xiao hui	1
+逡	qun
+逡	qun	1804
 逡巡	qun xun	4450
 逡巡不前	qun xun bu qian	80
 逡巡不进	qun xun bu jin	100
 逡巡于	qun xun yu	165
+醛	quan
+醛	quan	322
 醛固酮	quan gu tong	3930
 醛基	quan ji	5
 醛无病	quan wu bing	1
@@ -6812,8 +7158,20 @@ sort: by_weight
 醛缩酶	quan suo mei	1
 醛肟	quan wo	2
 醛酸	quan suan	1970
+銓	quan
+鐉	quan
+鑺	qu
+铨	quan
+铨	quan	1177
 铨叙	quan xu	595
 铨叙部	quan xu bu	180
+閴	qu
+闃	qu
+闋	que
+闎	quan
+闕	que
+阒	qu
+阒	qu	490
 阒其无人	qu qi wu ren	100
 阒寂无声	qu ji wu sheng	100
 阒无一人	qu wu yi ren	100
@@ -6822,6 +7180,10 @@ sort: by_weight
 阒然	qu ran	145
 阒然无声	qu ran wu sheng	100
 阒若无人	qu ruo wu ren	1
+阕	que
+阕	que	2173
+阙	que
+阙	que	7335
 阙下	que xia	1275
 阙如	que ru	2250
 阙姓	que xing	35
@@ -6830,6 +7192,9 @@ sort: by_weight
 阙疑	que yi	260
 阙道华	que dao hua	49
 阙门	que men	853
+阹	qu
+雀	que
+雀	que	64212
 雀仁乡	que ren xiang	8
 雀儿	que er	7115
 雀儿山	que er shan	100
@@ -6878,11 +7243,22 @@ sort: by_weight
 雀鹰	que ying	1
 雀麦	que mai	415
 雀鼠之争	que shu zhi zheng	1
+韏	quan
+顴	quan
+颧	quan
+颧	quan	2608
 颧突抹香鲸	quan tu mo xiang jing	1
 颧骨	quan gu	14105
 颧骨骨折	quan gu gu zhe	72
 颧髎	quan liao	1
 颧鸟	quan niao	220
+駆	qu
+駈	qu
+駩	quan
+騡	quan
+驅	qu
+驱	qu
+驱	qu	73684
 驱之不散	qu zhi bu san	25
 驱使	qu shi	51105
 驱使下	qu shi xia	66
@@ -7016,9 +7392,26 @@ sort: by_weight
 驱魔赶鬼	qu mo gan gui	100
 驱魔道长	qu mo dao zhang	100
 驱鸟	qu niao	396
+髷	qu
+鬈	quan
+鬈	quan	784
 鬈曲	quan qu	1
+魼	qu
+鰁	quan
+鰸	qu
+鱋	qu
+鳈	quan
+鳈	quan	8
+鴝	qu
+鵲	que
+鶌	qu
+鸜	qu
+鸲	qu
+鸲	qu	43
 鸲姬鹟	qu ji weng	1
 鸲鹆	qu yu	2
+鹊	que
+鹊	que	7905
 鹊刀门	que dao men	100
 鹊刀门传奇	que dao men chuan qi	100
 鹊反鸾惊	que fan luan jing	1
@@ -7041,16 +7434,225 @@ sort: by_weight
 鹊踏枝	que ta zhi	1075
 鹊返鸾回	que fan luan hui	1
 鹊鸲	que qu	6
+麇	qun
+麇	qun	284
 麇至沓来	qun zhi ta lai	111
 麇集	qun ji	600
+麮	qu
+麯	qu
+麴	qu
+麹	qu
+麹	qu	25
 麹智盛	qu zhi sheng	100
 麹氏家族	qu shi jia zu	100
 麹氏王朝	qu shi wang chao	100
 麹氏高昌	qu shi gao chang	100
+黢	qu
+黢	qu	1907
 黢黑	qu hei	420
+鼁	qu
+鼩	qu
+鼩	qu	5
 鼩形目	qu xing mu	100
 鼩鼱	qu jing	1
+齤	quan
+齲	qu
+龋	qu
+龋	qu	412
 龋病	qu bing	2990
 龋病学	qu bing xue	3
 龋齿	qu chi	15910
 龋齿性	qu chi xing	100
+𠇯	qu
+𠍲	qu
+𠏛	qu
+𠛮	quan
+𠞗	que
+𠣪	qu
+𠤹	quan
+𠥙	quan
+𡇮	quan
+𡇱	que
+𡈀	qun
+𡈉	quan
+𡉉	que
+𡙅	quan
+𡙐	quan
+𡟥	qu
+𡡥	qu
+𡰝	quan
+𡱅	qu
+𡱺	qu
+𡲰	qu
+𡳆	qu
+𡴔	quan
+𡺟	quan
+𡿨	quan
+𢂁	qu
+𢌄	qu
+𢌷	qu
+𢍕	quan
+𢎖	qu
+𢎠	quan
+𢑆	quan
+𢔑	quan
+𢔱	que
+𢛕	qun
+𢠬	que
+𢦌	qu
+𢫔	quan
+𢴮	qu
+𢼰	qu
+𣀄	qun
+𣍴	quan
+𣖪	qu
+𣖫	que
+𣛵	que
+𣤇	que
+𣪹	que
+𣭳	qu
+𣮈	qu
+𣯸	qu
+𣰋	qu
+𣰠	qu
+𣰡	qu
+𣰻	qu
+𣸋	quan
+𤖬	qu
+𤙏	qu
+𤛭	qun
+𤜍	quan
+𤡯	que
+𤢓	qu
+𤣅	que
+𤥷	quan
+𤨎	qu
+𤬠	quan
+𤰝	quan
+𤷄	quan
+𤷽	que
+𤸷	qun
+𤿋	que
+𤿩	que
+𤿵	que
+𥀎	que
+𥁠	quan
+𥁸	quan
+𥃔	qu
+𥆸	que
+𥕹	que
+𥗙	que
+𥗫	qu
+𥗮	que
+𥜵	que
+𥤊	quan
+𥧻	qu
+𥩢	que
+𥬔	qu
+𥶶	qu
+𥹳	quan
+𥺷	qu
+𥽧	qu
+𦃢	qun
+𦄽	qu
+𦋓	quan
+𦍅	quan
+𦏮	quan
+𦐛	qu
+𦓰	quan
+𦔬	qu
+𦕙	qu
+𦗛	qu
+𦛕	qu
+𦛱	qu
+𦣒	qu
+𦨚	quan
+𦸶	qu
+𦼫	qu
+𦽖	qun
+𧄒	qu
+𧈾	quan
+𧉧	qu
+𧊛	qu
+𧌑	qu
+𧍭	quan
+𧎯	que
+𧐅	qu
+𧕎	qu
+𧗪	qu
+𧝔	qu
+𧠢	qu
+𧢩	que
+𧢭	que
+𧲵	qu
+𧸾	quan
+𧻃	qu
+𧼐	qun
+𧾱	qu
+𧾶	qu
+𨃘	qu
+𨄅	qu
+𨊘	qu
+𨎶	qu
+𨐣	qu
+𨓭	qu
+𨛈	quan
+𨜩	quan
+𨞗	qun
+𨞙	qu
+𨞩	que
+𨟠	quan
+𨟠	quan	1
+𨟠	que
+𨢜	que
+𨧱	qu
+𨨗	quan
+𨩸	quan
+𨴊	que
+𨴒	que
+𨵗	que
+𨼫	qu
+𨼽	qu
+𩇐	qu
+𩉿	qu
+𩍔	qu
+𩍷	que
+𩎗	qun
+𩓫	quan
+𩖷	qu
+𩘘	quan
+𩜬	quan
+𩢳	qu
+𩣹	qu
+𩤁	qun
+𩤈	que
+𩧘	qu
+𩨭	que
+𩨷	que
+𩪍	qu
+𩫠	que
+𩴹	qu
+𩵅	qu
+𩽩	qu
+𩿟	qu
+𩿥	qu
+𩿩	qu
+𪀊	qu
+𪁖	qu
+𪄊	qu
+𪆂	qu
+𪈻	quan
+𪋄	qu
+𪌆	qu
+𪌬	qu
+𪍸	qu
+𪏈	que
+𪏨	que
+𪐂	quan
+𪖀	que
+𪛃	qu
+𪨰	qu	1
+𫭟	qu
+𫭟	qu	1
+𬒈	que	1
+𬸱	qu

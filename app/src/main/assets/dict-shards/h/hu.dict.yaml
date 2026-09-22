@@ -3,9 +3,242 @@ name: merged.hu
 version: "1.0"
 sort: by_weight
 ...
+㑮	hun
+㑰	hui
+㑹	hui
+㒑	hui
+㓉	huan
+㓉	huo
+㓰	hua
+㔳	huan
+㕆	hu
+㕕	huan
+㕡	huo
+㕦	hua
+㕲	hua
+㕵	hun
+㕷	hua
+㗅	hu
+㗲	huo
+㘞	huo
+㚌	hua
+㚌	huo
+㜇	hui
+㜳	huai
+㞧	hui
+㞷	huang
+㟆	hua
+㠏	hua
+㠢	huai
+㠵	huang
+㡲	huan
+㢰	huan
+㣪	huan
+㤬	hui
+㤺	huang
+㥣	hui
+㥵	hun
+㦊	hua
+㦌	hu
+㦎	hua
+㦜	huo
+㦥	huan
+㦯	huo
+㦿	hu
+㧑	hui	1
+㧽	hu
+㧾	hu
+㨡	hun
+㨤	hui
+㨪	huang
+㨭	hu
+㨯	huo
+㨰	hun
+㨰	huo
+㨹	hui
+㩇	hua
+㩇	huo
+㩓	hui
+㩨	hui
+㪱	huan
+㪶	hu
+㫚	hu
+㬇	huan
+㬊	huan
+㬊	huan	1
+㬩	hui
+㬻	huang
+㭉	hua
+㮯	hua
+㮯	hun
+㯉	huo
+㯛	hu
+㯛	huo
+㯻	hun
+㰥	hui
+㱪	hun
+㱱	hui
+㳷	hu
+㵹	huan
+㶎	huan
+㶡	huo
+㷄	hui
+㷐	hui
+㷤	hu
+㸌	huo
+㸌	huo	1
+㸦	hu
+㹕	huan
+㹖	huan
+㹱	hu
+㺀	hu
 㺀𤝽	hu lv	9
+㺉	hu
+㺢	huo
 㺢㹢狓	huo jia pi	72
+㻅	hui
+㼫	huan
+㽇	hu
+㽇	hui
+㾠	huang
+㾮	huang
+㾰	hu
+㿠	huang
+㿠	huang	1
+㿥	hu
+㿪	huan
+䀓	huan
+䀨	huan
+䁔	huan
+䁜	huang
+䁨	huo
+䁫	hu
+䂄	huo
+䂕	hui
+䃣	hui
+䃶	huai
+䄀	huo
+䄆	huo
+䄑	huo
+䄓	huang
+䅏	hui
+䅙	hun
+䅣	huang
+䅱	hun
+䅿	hua
+䆠	huan
+䇈	hua
+䇘	hu
+䇻	hui
+䈠	huan
+䈭	huai
+䈸	hu
+䉉	hu
+䉟	huo
+䉿	hu
+䊀	hu
+䊐	hua
+䊐	huan
+䊐	hun
+䊗	huang
+䊣	huang
+䊺	hu
+䋀	hua
+䋭	huo
+䌙	huang
+䍓	hu
+䍷	hui
+䍺	huan
+䍿	huang
+䎁	hu
+䎚	hui
+䏦	hua
+䏨	hui
+䐊	hun
+䐠	huang
+䐵	huang
+䐸	huo
+䑟	huang
+䒛	huan
+䓤	hu
+䔢	hua
+䔯	hu
+䔯	hua
+䕇	hui
+䕶	hu
+䗂	hu
+䙌	hui
+䙡	hui
+䚛	hu
+䚠	hun
+䛎	hu
+䛛	hui
+䛡	hua
+䛰	hun
+䛼	hui
+䜋	hui
+䜐	hui
+䝠	huan
+䞱	hu
+䞹	huang
+䠉	hua
+䠉	huan
+䠉	hui
+䠒	hu
+䡣	hun
+䣶	huo
+䤧	hui
+䥧	huan
+䦚	huo
+䦡	huan
+䧥	hui
+䧦	hui
+䧰	hun
+䧼	hu
+䨥	hu
+䨥	huo
+䨼	hu
+䩈	hui
+䩴	hu
+䪄	huang
+䪝	hu
+䫖	hui
+䫟	hun
+䫭	hui
+䬍	hu
+䭅	hu
+䭌	hu
+䭍	hu
+䭴	huan
+䮝	huan
+䮝	hun
+䮲	huang
+䮸	hu
+䯏	huo
+䯘	huan
+䰎	hui
+䰟	hun
+䰥	huo
+䰧	hu
+䱛	huo
+䱻	hua
+䲵	hu
+䳨	huang
+䴜	huai
+䴟	huan
+䴳	hua
+䴷	hun
+䵻	hu
+䵻	hui
+䶐	hui
+䶤	hua
+乎	hu
+乎	hu	1157322
 乎乎	hu hu	111
+乕	hu
+乯	hu
+互	hu
+互	hu	215472
 互㨃	hu dui	1110
 互不	hu bu	45370
 互不了解	hu bu liao jie	100
@@ -469,6 +702,8 @@ sort: by_weight
 互问	hu wen	750
 互领	hu ling	5555
 互骂	hu ma	9999
+伙	huo
+伙	huo	518273
 伙伴	huo ban	224740
 伙伴们	huo ban men	16265
 伙伴关系	huo ban guan xi	39595
@@ -494,6 +729,8 @@ sort: by_weight
 伙食标准	huo shi biao zhun	1275
 伙食补助	huo shi bu zhu	2240
 伙食费	huo shi fei	12975
+会	hui
+会	hui	6824927
 会一会	hui yi hui	1225
 会一点	hui yi dian	87
 会上	hui shang	404320
@@ -1461,9 +1698,28 @@ sort: by_weight
 会魔法的老人	hui mo fa de lao ren	100
 会齐	hui qi	1765
 会龙桥	hui long qiao	3
+佪	huai
+佪	hui
+佸	huo
+佸	huo	1
+俒	hun
+俰	huo
+俿	hu
+倱	hun
+偟	huang
+僡	hui
+儶	hui
+兤	huang
+冱	hu
+冱	hu	37
+凰	huang
+凰	huang	49489
 凰天魔衣	huang tian mo yi	20
 凰岗镇	huang gang zhen	19
 凰香奈芽	huang xiang nai ya	6666
+划	hua
+划	hua	385366
+划	huai
 划一	hua yi	1071
 划一不二	hua yi bu er	100
 划一个	hua yi ge	4810
@@ -1619,8 +1875,14 @@ sort: by_weight
 划龙桥西	hua long qiao xi	2
 划龙舟	hua long zhou	1885
 划龙船	hua long chuan	178
+剨	huo
+劃	hua
+劐	huo
+劐	huo	22
 劐开	huo kai	727
 劐开了	huo kai le	456
+化	hua
+化	hua	951401
 化下妆	hua xia zhuang	100
 化不了	hua bu liao	385
 化不化妆吗	hua bu hua zhuang ma	100
@@ -2131,7 +2393,14 @@ sort: by_weight
 化龙池	hua long chi	129
 化龙社区	hua long she qu	2
 化龙记	hua long ji	100
+匢	hu
+匫	hu
+匯	hui
+卉	hui
+卉	hui	10030
 卉原中学	hui yuan zhong xue	100
+华	hua
+华	hua	800451
 华不再扬	hua bu zai yang	6
 华业地产	hua ye di chan	12500
 华业大厦	hua ye da sha	35
@@ -3053,6 +3322,11 @@ sort: by_weight
 华龙苑南里	hua long yuan nan li	6
 华龙道	hua long dao	6
 华龙集团	hua long ji tuan	2
+吙	huo
+吪	hua
+呚	hua
+呼	hu
+呼	hu	649070
 呼不给吸	hu bu ji xi	1
 呼中区	hu zhong qu	200
 呼么喝六	hu me he liu	4
@@ -3344,6 +3618,10 @@ sort: by_weight
 呼香草	hu xiang cao	1
 呼马呼牛	hu ma hu niu	100
 呼鹰走狗	hu ying zou gou	1
+和	hu
+和	hu	41260
+和	huo
+和	huo	4126
 和不了	hu bu liao	130
 和了	hu le	1567
 和弄	huo nong	410
@@ -3355,10 +3633,18 @@ sort: by_weight
 和稀泥	huo xi ni	1675
 和面	huo mian	16275
 和面机	huo mian ji	100
+咟	huo
+咴	hui
+咴	hui	965
 咴儿	hui er	123
 咴儿咴儿	hui er hui er	9999
 咴咴	hui hui	1
+咶	huai
+哕	hui
+哕	hui	1
 哕哕	hui hui	2
+哗	hua
+哗	hua	68257
 哗世动俗	hua shi dong su	1
 哗世取名	hua shi qu ming	1
 哗世取宠	hua shi qu chong	1
@@ -3384,6 +3670,8 @@ sort: by_weight
 哗的一下	hua de yi xia	223
 哗的一声	hua de yi sheng	565
 哗笑	hua xiao	215
+唤	huan
+唤	huan	138357
 唤不起	huan bu qi	255
 唤了	huan le	1111
 唤了一声	huan le yi sheng	100
@@ -3428,6 +3716,8 @@ sort: by_weight
 唤醒者	huan xing zhe	320
 唤雨呼风	huan yu hu feng	100
 唤魔师	huan mo shi	171
+唬	hu
+唬	hu	22716
 唬一唬	hu yi hu	876
 唬不住	hu bu zhu	95
 唬人	hu ren	4875
@@ -3442,18 +3732,48 @@ sort: by_weight
 唬我	hu wo	1111
 唬来唬去	hu lai hu qu	100
 唬鬼瞒神	hu gui man shen	1
+唿	hu
+唿	hu	1366
+喐	huo
+喖	hu
+喙	hui
+喙	hui	2114
 喙头目	hui tou mu	100
 喙头蜥	hui tou xi	100
 喙尾琵琶甲	hui wei pi pa jia	1
 喙突	hui tu	280
 喙膜指环虫	hui mo zhi huan chong	1
 喙长三尺	hui chang san chi	2
+喚	huan
+喛	huan
+喤	huang
+喤	huang	21
 喤喤	huang huang	1
+嗀	hu
+嗃	hu
+嘑	hu
+嘒	hui
+嘝	hu
+嘩	hua
+噅	hui
+噕	hui
+噦	hui
+嚄	huo
+嚄	huo	64
+嚖	hui
+嚛	hu
+嚯	huo
+嚯	huo	2371
 嚯嚯	huo huo	930
 嚯嚯地笑	huo huo de xiao	100
 嚯嚯地笑了	huo huo de xiao le	100
 嚯嚯地笑了起来	huo huo de xiao le qi lai	100
 嚯棱棱	huo leng leng	100
+嚾	huan
+嚿	huo
+囘	hui
+回	hui
+回	hui	3608341
 回㨃	hui dui	5554
 回一下	hui yi xia	92
 回一回	hui yi hui	123
@@ -4686,6 +5006,8 @@ sort: by_weight
 回龙观收费站	hui long guan shou fei zhan	16
 回龙观第二小学	hui long guan di er xiao xue	3
 回龙观西大街	hui long guan xi da jie	22
+囫	hu
+囫	hu	1691
 囫囵	hu lun	3240
 囫囵个儿	hu lun ge er	21
 囫囵半片	hu lun ban pian	1
@@ -4693,6 +5015,13 @@ sort: by_weight
 囫囵吞枣	hu lun tun zao	3255
 囫囵竹	hu lun zhu	100
 囫囵觉	hu lun jiao	9999
+囬	hui
+圂	hun
+圚	hui
+圜	huan
+圜	huan	1661
+坏	huai
+坏	huai	365836
 坏一点	huai yi dian	545
 坏不	huai bu	3333
 坏不了	huai bu liao	220
@@ -4855,7 +5184,20 @@ sort: by_weight
 坏银	huai yin	11
 坏领导	huai ling dao	100
 坏风格	huai feng ge	100
+垀	hu
+垸	huan
+埖	hua
+堕	hui
 堕高堙庳	hui gao yin bi	100
+堚	huan
+堭	huang
+塃	huang
+墮	hui
+墴	huang
+壊	huai
+壞	huai
+壶	hu
+壶	hu	45112
 壶中	hu zhong	6555
 壶中之天	hu zhong zhi tian	1
 壶中天地	hu zhong tian di	100
@@ -4890,6 +5232,22 @@ sort: by_weight
 壶里	hu li	4085
 壶里乾坤	hu li qian kun	265
 壶锥帽虫	hu zhui mao chong	1
+壷	hu
+壺	hu
+夥	huo
+夥	huo	3748
+夻	hua
+奂	huan
+奂	huan	2292
+奐	huan
+奛	huang
+奯	huo
+姡	hua
+姡	huo
+姱	hu
+婎	hui
+婚	hun
+婚	hun	306955
 婚丧	hun sang	5010
 婚丧喜庆	hun sang xi qing	2820
 婚丧嫁娶	hun sang jia qu	5395
@@ -5080,6 +5438,27 @@ sort: by_weight
 婚鞋	hun xie	1111
 婚飞	hun fei	456
 婚龄	hun ling	3245
+婟	hu
+婫	hun
+婲	hua
+婳	hua
+婳	hua	1640
+媈	hui
+媓	huang
+媓	huang	2
+媩	hu
+嫭	hu
+嫭	hu	2
+嫮	hu
+嫿	hua
+嬅	hua
+嬒	hui
+嬛	huan
+嬛	huan	405
+孈	hui
+孉	huan
+宦	huan
+宦	huan	12302
 宦人	huan ren	360
 宦囊	huan nang	160
 宦囊清苦	huan nang qing ku	1
@@ -5099,6 +5478,12 @@ sort: by_weight
 宦者令	huan zhe ling	110
 宦途	huan tu	780
 宦门	huan men	335
+宺	huang
+寏	huan
+寣	hu
+寭	hui
+寰	huan
+寰	huan	9242
 寰宇	huan yu	12945
 寰宇之星	huan yu zhi xing	3725
 寰宇京航宾馆	huan yu jing hang bin guan	16
@@ -5108,7 +5493,25 @@ sort: by_weight
 寰瀛	huan ying	2
 寰球	huan qiu	306
 寰谛凤翎	huan di feng ling	100
+尡	hun
+屶	hui
+屷	hui
+岵	hu
+岵	hu	128
+峘	huan
+峘	huan	1
+崋	hua
+崲	huang
+嵈	huan
+巟	huang
+帍	hu
+幌	huang
+幌	huang	6566
 幌子	huang zi	20275
+幑	hui
+幠	hu
+幻	huan
+幻	huan	248831
 幻世	huan shi	2765
 幻世九歌	huan shi jiu ge	100
 幻世录	huan shi lu	830
@@ -5235,7 +5638,13 @@ sort: by_weight
 幻龙	huan long	1500
 幻龙九封印	huan long jiu feng yin	100
 幻龙九封尽	huan long jiu feng jin	100
+廆	hui
+廻	hui
 廻龙村	hui long cun	8
+廽	hui
+弖	hu
+弧	hu
+弧	hu	25808
 弧光	hu guang	2310
 弧光大作战	hu guang da zuo zhan	100
 弧光放电	hu guang fang dian	220
@@ -5260,6 +5669,8 @@ sort: by_weight
 弧面	hu mian	2675
 弧顶	hu ding	2222
 弧齿	hu chi	1880
+彗	hui
+彗	hui	2839
 彗尾	hui wei	995
 彗差	hui cha	369
 彗星	hui xing	33015
@@ -5270,7 +5681,18 @@ sort: by_weight
 彗氾画涂	hui fan hua tu	100
 彗汜画涂	hui si hua tu	1
 彗泛画涂	hui fan hua tu	1
+彙	hui
+彚	hui
+彟	huo
+彠	huo
+徊	huai
+徊	huai	17842
 徊肠伤气	huai chang shang qi	2
+徨	huang
+徨	huang	7081
+徻	hui
+徽	hui
+徽	hui	33080
 徽剧	hui ju	1560
 徽县	hui xian	1
 徽号	hui hao	1400
@@ -5311,6 +5733,9 @@ sort: by_weight
 徽菜馆	hui cai guan	15
 徽记	hui ji	5410
 徽调	hui diao	515
+忶	hun
+忽	hu
+忽	hu	585369
 忽上忽下	hu shang hu xia	2030
 忽上忽落	hu shang hu luo	1
 忽下忽停	hu xia hu ting	3
@@ -5599,6 +6024,8 @@ sort: by_weight
 忽鲁谟斯	hu lu mo si	100
 忽鸡图乡	hu ji tu xiang	1
 忽鸡沟乡	hu ji gou xiang	1
+怀	huai
+怀	huai	60703
 怀上	huai shang	6385
 怀上了	huai shang le	4660
 怀不了	huai bu liao	110
@@ -5921,6 +6348,9 @@ sort: by_weight
 怀黄佩紫	huai huang pei zi	100
 怀黄拖紫	huai huang tuo zi	1
 怀黄握白	huai huang wo bai	1
+怘	hu
+怙	hu
+怙	hu	367
 怙恩恃宠	hu en shi chong	1
 怙恶不悛	hu e bu quan	295
 怙恶不改	hu e bu gai	100
@@ -5931,6 +6361,9 @@ sort: by_weight
 怙罪不悛	hu zui bu quan	100
 怙过不悛	hu guo bu quan	100
 怙顽不悛	hu wan bu quan	1
+怳	huang
+恍	huang
+恍	huang	76884
 恍兮惚兮	huang xi hu xi	10
 恍同隔世	huang tong ge shi	100
 恍如	huang ru	14235
@@ -5957,8 +6390,14 @@ sort: by_weight
 恍若未闻	huang ruo wei wen	93
 恍若自失	huang ruo zi shi	100
 恍若隔世	huang ruo ge shi	2760
+恗	hu
+恚	hui
+恚	hui	658
 恚怒	hui nu	695
 恚恨	hui hen	255
+恛	hui
+恢	hui
+恢	hui	164984
 恢复	hui fu	500443
 恢复一下	hui fu yi xia	100
 恢复一丝理智	hui fu yi si li zhi	100
@@ -6122,6 +6561,9 @@ sort: by_weight
 恢恢有余	hui hui you yu	100
 恢胎旷荡	hui tai kuang dang	1
 恢诡谲怪	hui gui jue guai	7
+恵	hui
+悔	hui
+悔	hui	146037
 悔不当初	hui bu dang chu	1890
 悔不当时留住	hui bu dang shi liu zhu	1
 悔不该	hui bu gai	9999
@@ -6164,6 +6606,8 @@ sort: by_weight
 悔过自责	hui guo zi ze	9
 悔过迁善	hui guo qian shan	100
 悔青了肠子	hui qing le chang zi	100
+患	huan
+患	huan	76682
 患上	huan shang	55170
 患上了	huan shang le	1111
 患上了抑郁症	huan shang le yi yu zheng	100
@@ -6245,6 +6689,8 @@ sort: by_weight
 患难见真情	huan nan jian zhen qing	1470
 患难见知己	huan nan jian zhi ji	2
 患麻疹	huan ma zhen	205
+惑	huo
+惑	huo	217812
 惑世盗名	huo shi dao ming	2
 惑世诬民	huo shi wu min	15
 惑乱	huo luan	1675
@@ -6252,6 +6698,12 @@ sort: by_weight
 惑人耳目	huo ren er mu	70
 惑众	huo zhong	1590
 惑而不从师	huo er bu cong shi	7
+惚	hu
+惚	hu	28986
+惛	hun
+惛	hun	13
+惠	hui
+惠	hui	105489
 惠东县	hui dong xian	5520
 惠丰园	hui feng yuan	189
 惠丰小区	hui feng xiao qu	6
@@ -6412,6 +6864,8 @@ sort: by_weight
 惠鲜鳏寡	hui xian guan gua	1
 惠龙城	hui long cheng	1
 惠龙新村	hui long xin cun	2
+惶	huang
+惶	huang	54202
 惶急	huang ji	2635
 惶恐	huang kong	29315
 惶恐不安	huang kong bu an	3555
@@ -6433,6 +6887,11 @@ sort: by_weight
 惶惶然	huang huang ran	9999
 惶然	huang ran	2455
 惶遽	huang ju	210
+愌	huan
+愰	huang
+慁	hun
+慌	huang
+慌	huang	196225
 慌不慌	huang bu huang	100
 慌不择路	huang bu ze lu	3100
 慌也没用	huang ye mei yong	100
@@ -6477,6 +6936,8 @@ sort: by_weight
 慌神	huang shen	775
 慌神儿	huang shen er	55
 慌里慌张	huang li huang zhang	1170
+慧	hui
+慧	hui	171937
 慧业才人	hui ye cai ren	1
 慧业文人	hui ye wen ren	3
 慧中	hui zhong	1875
@@ -6527,6 +6988,16 @@ sort: by_weight
 慧远	hui yuan	3820
 慧道	hui dao	445
 慧黠	hui xia	1900
+憓	hui
+懁	huan
+懐	huai
+懳	hui
+懷	huai
+懽	huan
+戏	hu
+戏	hu	0
+或	huo
+或	huo	8967870
 或一或二	huo yi huo er	95
 或一或多	huo yi huo duo	3
 或三或二	huo san huo er	1
@@ -7279,6 +7750,12 @@ sort: by_weight
 或默或语	huo mo huo yu	4
 或鼓或罢	huo gu huo ba	9
 或龙或神	huo long huo shen	5
+戯	hu
+戱	hu
+戲	hu
+戶	hu
+户	hu
+户	hu	227191
 户上隼辅	hu shang sun fu	122
 户主	hu zhu	22015
 户主配偶	hu zhu pei ou	68
@@ -7411,7 +7888,12 @@ sort: by_weight
 户限为穿	hu xian wei chuan	100
 户静门清	hu jing men qing	100
 户鞘谷蛾	hu qiao gu e	100
+戸	hu
+戽	hu
+戽	hu	66
 戽斗	hu dou	208
+扈	hu
+扈	hu	10073
 扈三娘	hu san niang	1000
 扈从	hu cong	1705
 扈姓	hu xing	1
@@ -7419,6 +7901,9 @@ sort: by_weight
 扈江离与辟芷兮	hu jiang li yu pi zhi xi	7
 扈胡镇	hu hu zhen	2
 扈驾	hu jia	165
+抇	hu
+护	hu
+护	hu	551817
 护一护	hu yi hu	123
 护不住	hu bu zhu	130
 护专生	hu zhuan sheng	100
@@ -7726,6 +8211,9 @@ sort: by_weight
 护齿	hu chi	9876
 护齿套	hu chi tao	2
 护龙镇	hu long zhen	2
+拻	hui
+挥	hui
+挥	hui	468277
 挥一挥	hui yi hui	5915
 挥一挥衣袖	hui yi hui yi xiu	100
 挥不了	hui bu liao	185
@@ -7845,6 +8333,9 @@ sort: by_weight
 挥鞭	hui bian	2555
 挥鞭伤	hui bian shang	19
 挥麈	hui zhu	85
+捇	huo
+换	huan
+换	huan	996459
 换一下	huan yi xia	12
 换一个	huan yi ge	40845
 换一个人	huan yi ge ren	63
@@ -8387,20 +8878,44 @@ sort: by_weight
 换骨夺胎	huan gu duo tai	1
 换骨抽胎	huan gu chou tai	100
 换骨脱胎	huan gu tuo tai	9
+掍	hun
+掝	huo
+揘	huang
+換	huan
+揮	hui
+搰	hu
+搳	hua
+摢	hu
+摦	hua
+撝	hui
+撶	hua
+擐	huan
+擐	huan	87
 擐甲执兵	huan jia zhi bing	100
 擐甲执锐	huan jia zhi rui	100
 擐甲披袍	huan jia pi pao	1
 擐甲挥戈	huan jia hui ge	100
 擐甲操戈	huan jia cao ge	1
+擭	huo
+攉	huo
+攉	huo	80
 攉土	huo tu	34
 攉土兔	huo tu tu	100
 攉煤	huo mei	4
 攉煤机	huo mei ji	100
+攌	huan
+斛	hu
+斛	hu	1720
 斛山乡	hu shan xiang	7
 斛律	hu lv	1
 斛律光	hu lv guang	4
 斛珠夫人	hu zhu fu ren	103
+旤	huo
+昈	hu
+昈	hu	1
 昈分殊事	hu fen shu shi	100
+昏	hun
+昏	hun	197245
 昏乱	hun luan	266
 昏了	hun le	1189
 昏了头	hun le tou	100
@@ -8486,6 +9001,11 @@ sort: by_weight
 昏鸦	hun ya	2970
 昏黄	hun huang	15115
 昏黑	hun hei	1805
+昒	hu
+昒	hu	7
+昬	hun
+晃	huang
+晃	huang	210916
 晃一下	huang yi xia	85
 晃一圈	huang yi quan	100
 晃一晃	huang yi huang	1475
@@ -8537,7 +9057,12 @@ sort: by_weight
 晃荡绝壁横	huang dang jue bi heng	1
 晃蜂鳃虱	huang feng sai shi	1
 晃起来	huang qi lai	149
+晄	huang
+晖	hui
+晖	hui	19478
 晖光日新	hui guang ri xin	3
+晦	hui
+晦	hui	16662
 晦夜	hui ye	999
 晦日	hui ri	213
 晦明	hui ming	2280
@@ -8552,7 +9077,21 @@ sort: by_weight
 晦盲否塞	hui mang pi se	1
 晦迹山林	hui ji shan lin	100
 晦迹韬光	hui ji tao guang	100
+暉	hui
+暳	hui
+曂	huang
+曤	huo
+曶	hu
+會	hui
+朚	huang
+杹	hua
+枑	hu
+枠	hua
+核	hu
+核	hu	4000
 核儿	hu er	460
+桓	huan
+桓	huan	28953
 桓仁	huan ren	3
 桓仁县	huan ren xian	102
 桓仁满族自治县	huan ren man zu zi zhi xian	109
@@ -8564,6 +9103,8 @@ sort: by_weight
 桓帝	huan di	1
 桓帝灵帝	huan di ling di	100
 桓那兰那	huan na lan na	100
+桦	hua
+桦	hua	13149
 桦南县	hua nan xian	135
 桦南村	hua nan cun	3
 桦南林业局	hua nan lin ye ju	25
@@ -8585,6 +9126,20 @@ sort: by_weight
 桦皮羌子林场	hua pi qiang zi lin chang	3
 桦皮脸	hua pi lian	100
 桦赋科技	hua fu ke ji	100
+桧	hui
+桧	hui	1
+梙	huan
+棍	hun
+棔	hun
+椛	hua
+椲	hui
+楎	hui
+楛	hu
+楜	hu
+楻	huang
+榥	huang
+槐	huai
+槐	huai	25776
 槐东村	huai dong cun	1
 槐南一梦	huai nan yi meng	1
 槐南乡	huai nan xiang	3
@@ -8649,6 +9204,10 @@ sort: by_weight
 槐豆	huai dou	250
 槐豆胶	huai dou jiao	168
 槐阳镇	huai yang zhen	192
+槥	hui
+槬	hua
+槲	hu
+槲	hu	376
 槲叶	hu ye	10
 槲叶落山路	hu ye luo shan lu	1
 槲寄生	hu ji sheng	980
@@ -8657,6 +9216,20 @@ sort: by_weight
 槲皮素	hu pi su	1065
 槲皮苷	hu pi gan	2
 槲豆螺	hu dou luo	1
+槴	hu
+槵	huan
+樺	hua
+橞	hui
+橞	hui	4
+檅	hui
+檓	hui
+檜	hui
+檴	huo
+櫎	huang
+櫘	hui
+櫰	huai
+欢	huan
+欢	huan	90885
 欢不欢乐	huan bu huan le	100
 欢不欢乐呀	huan bu huan le ya	100
 欢不欢迎	huan bu huan ying	100
@@ -9010,6 +9583,14 @@ sort: by_weight
 欢闹	huan nao	1200
 欢颜	huan yan	7745
 欢饮达旦	huan yin da dan	1180
+歑	hu
+歓	huan
+歡	huan
+殙	hun
+殨	hui
+毀	hui
+毁	hui
+毁	hui	150469
 毁一生	hui yi sheng	100
 毁不了	hui bu liao	225
 毁不危身	hui bu wei shen	1
@@ -9104,6 +9685,9 @@ sort: by_weight
 毁车杀马	hui che sha ma	100
 毁钟为铎	hui zhong wei duo	100
 毁风败俗	hui feng bai su	1
+毇	hui
+汇	hui
+汇	hui	101717
 汇业财经集团	hui ye cai jing ji tuan	100
 汇业银行	hui ye yin hang	100
 汇东乡	hui dong xiang	4
@@ -9331,8 +9915,15 @@ sort: by_weight
 汇集点	hui ji dian	100
 汇集着	hui ji zhe	1085
 汇龙潭	hui long tan	980
+汻	hu
+汻	huang
+沍	hu
+沎	huo
+沕	hu
 沕沕水	hu hu shui	2
 沕沕水村	hu hu shui cun	2
+沪	hu
+沪	hu	10326
 沪上	hu shang	29085
 沪上情欲流	hu shang qing yu liu	100
 沪东	hu dong	2
@@ -9386,13 +9977,22 @@ sort: by_weight
 沪闵路	hu min lu	5470
 沪青平	hu qing ping	3537
 沪青平公路	hu qing ping gong lu	262
+泋	hui
+泘	hu
 泘沱村	hu tuo cun	3
+洃	hui
+洄	hui
+洄	hui	457
 洄水镇	hui shui zhen	1
 洄游	hui you	3785
 洄游通道	hui you tong dao	100
 洄澜南苑	hui lan nan yuan	1
+洹	huan
+洹	huan	584
 洹北小区	huan bei xiao qu	138
 洹北街道	huan bei jie dao	2
+活	huo
+活	huo	1317244
 活上	huo shang	6875
 活下去	huo xia qu	37625
 活下去了	huo xia qu le	1135
@@ -10079,7 +10679,11 @@ sort: by_weight
 活鸡	huo ji	7805
 活龙活现	huo long huo xian	620
 活龙鲜健	huo long xian jian	1
+浍	hui
+浍	hui	92
 浍河	hui he	1
+浑	hun
+浑	hun	175322
 浑不怕	hun bu pa	109
 浑人	hun ren	1150
 浑仪	hun yi	9999
@@ -10187,7 +10791,11 @@ sort: by_weight
 浑铁枪	hun tie qiang	3
 浑闲事	hun xian shi	100
 浑黄灯蛾	hun huang deng e	1
+浒	hu
+浒	hu	4561
 浒苔	hu tai	255
+浣	huan
+浣	huan	6534
 浣沙路	huan sha lu	8
 浣洗	huan xi	460
 浣溪沙	huan xi sha	6168
@@ -10204,6 +10812,8 @@ sort: by_weight
 浣花路	huan hua lu	47
 浣衣	huan yi	1140
 浣衣局	huan yi ju	115
+涣	huan
+涣	huan	6445
 涣卦	huan gua	3
 涣发大号	huan fa da hao	1
 涣如冰释	huan ru bing shi	1
@@ -10217,6 +10827,9 @@ sort: by_weight
 涣神沙	huan shen sha	1
 涣若冰消	huan ruo bing xiao	1
 涣若冰释	huan ruo bing shi	100
+涽	hun
+淮	huai
+淮	huai	36109
 淮上与友人别	huai shang yu you ren bie	1180
 淮上区	huai shang qu	100
 淮军	huai jun	34
@@ -10328,7 +10941,12 @@ sort: by_weight
 淮阴鸡粥蒲菜	huai yin ji zhou pu cai	1
 淮雨别风	huai yu bie feng	1
 淮饺	huai jiao	63
+淲	hu
+淴	hu
+淴	hu	8
 淴浴	hu yu	2
+混	hun
+混	hun	338565
 混一	hun yi	3550
 混一色	hun yi se	100
 混一起	hun yi qi	100
@@ -10712,6 +11330,11 @@ sort: by_weight
 混频器	hun pin qi	1650
 混饭	hun fan	2630
 混饭吃	hun fan chi	2500
+渙	huan
+渾	hun
+湏	hui
+湖	hu
+湖	hu	327739
 湖㳇社区	hu fu she qu	2
 湖㳇镇	hu fu zhen	9
 湖三崩	hu san beng	172
@@ -11341,13 +11964,26 @@ sort: by_weight
 湖面上	hu mian shang	9070
 湖鱥鱼	hu gui yu	1
 湖鳟	hu zun	11
+湟	huang
+湟	huang	1167
 湟中	huang zhong	1
 湟中区	huang zhong qu	117
 湟中县	huang zhong xian	2840
 湟水	huang shui	22
 湟源县	huang yuan xian	2225
 湟潦生苹	huang liao sheng ping	100
+湣	hun
+湱	huo
+湷	hun
+溃	hui
+溃	hui	1
 溃脓	hui nong	1
+溷	hun
+溷	hun	156
+滉	huang
+滉	huang	59
+滑	hua
+滑	hua	156890
 滑上	hua shang	960
 滑上去	hua shang qu	100
 滑上来	hua shang lai	100
@@ -11617,23 +12253,52 @@ sort: by_weight
 滑鼠垫	hua shu dian	100
 滑鼠蛇	hua shu she	100
 滑齿	hua chi	9
+滙	hui
+滬	hu
+滸	hu
+滹	hu
+滹	hu	219
 滹沱	hu tuo	1035
 滹沱店	hu tuo dian	100
 滹沱村	hu tuo cun	9
 滹沱河	hu tuo he	1945
 滹沱社区	hu tuo she qu	100
 滹沱营	hu tuo ying	100
+漶	huan
+漶	huan	133
+漷	huo
+漷	huo	20
 漷县	huo xian	2
 漷县中学	huo xian zhong xue	13
 漷县村	huo xian cun	1
 漷县镇政府	huo xian zhen zheng fu	8
+潓	hui
+潢	huang
+潢	huang	3727
 潢川	huang chuan	5555
 潢川县	huang chuan xian	1965
 潢池弄兵	huang chi nong bing	1
 潢池盗弄	huang chi dao nong	1
 潢池赤子	huang chi chi zi	100
 潢潦可荐	huang liao ke jian	1
+潰	hui
+澅	hua
+澣	huan
+澮	hui
+澴	huan
+澴	huan	21
 澴潭镇	huan tan zhen	4
+濊	hui
+濊	huo
+濩	hu
+濩	huo
+濩	huo	22
+瀈	hui
+瀖	huo
+瀤	huai
+瀫	hu
+火	huo
+火	huo	1180390
 火上	huo shang	16245
 火上之心	huo shang zhi xin	3333
 火上加油	huo shang jia you	296
@@ -12550,6 +13215,9 @@ sort: by_weight
 火龙鳞盔甲	huo long lin kui jia	1
 火龙黼黻	huo long fu fu	1
 火龙龙	huo long long	100
+灬	huo
+灰	hui
+灰	hui	202762
 灰不喇唧	hui bu la ji	100
 灰不溜丢	hui bu liu diu	100
 灰不溜秋	hui bu liu qiu	580
@@ -12973,6 +13641,10 @@ sort: by_weight
 灰鼠皮	hui shu pi	140
 灰鼠蛇	hui shu she	5
 灰齐山麓	hui qi shan lu	100
+灳	hui
+炾	huang
+烀	hu
+烀	hu	69
 烀地瓜	hu di gua	123
 烀烂甲鱼	hu lan jia yu	15
 烀猪蹄	hu zhu ti	100
@@ -12982,6 +13654,12 @@ sort: by_weight
 烀肘子	hu zhou zi	100
 烀豆子	hu dou zi	123
 烀饼	hu bing	2
+烉	huan
+烠	hui
+烠	hui	1
+烣	hui
+烩	hui
+烩	hui	1966
 烩三丝鱼翅	hui san si yu chi	11
 烩丸子	hui wan zi	1
 烩乌龟蛋	hui wu gui dan	3
@@ -13021,6 +13699,10 @@ sort: by_weight
 烩鸭四宝	hui ya si bao	38
 烩鸭腰儿	hui ya yao er	25
 烩麻食	hui ma shi	49
+焀	hu
+焄	hun
+焕	huan
+焕	huan	31989
 焕友	huan you	90
 焕发	huan fa	48270
 焕发了	huan fa le	100
@@ -13038,11 +13720,28 @@ sort: by_weight
 焕然冰释	huan ran bing shi	3
 焕然如新	huan ran ru xin	100
 焕章	huan zhang	1915
+焝	hun
+煇	hui
+煌	huang
+煌	huang	40547
 煌上煌	huang shang huang	100
 煌煌	huang huang	3
 煌煌天威	huang huang tian wei	100
 煌煌祖宗业	huang huang zu zong ye	3
 煌黑龙	huang hei long	125
+煥	huan
+煳	hu
+煳	hu	243
+煷	huo
+熀	huang
+熩	hu
+熿	huang
+燬	hui
+燴	hui
+爌	huang
+犿	huan
+狐	hu
+狐	hu	139523
 狐不二雄	hu bu er xiong	2
 狐之助	hu zhi zhu	100
 狐之窗	hu zhi chuang	100
@@ -13143,15 +13842,28 @@ sort: by_weight
 狐鸣篝火	hu ming gou huo	1
 狐鸣鱼书	hu ming yu shu	100
 狐鼠之徒	hu shu zhi tu	1
+狟	huan
+猢	hu
+猢	hu	1334
 猢狲	hu sun	1820
 猢狲儿	hu sun er	100
 猢狲入布袋	hu sun ru bu dai	100
 猢狲入袋	hu sun ru dai	3
 猢狲疳	hu sun gan	1
+猾	hua
+猾	hua	22221
 猾黠	hua xia	35
+獂	huan
+獚	huang
+獩	hui
+獲	huo
+獾	huan
+獾	huan	974
 獾子	huan zi	3
 獾油	huan you	120
 獾猪	huan zhu	2333
+环	huan
+环	huan	300871
 环世界	huan shi jie	100
 环丙孕酮	huan bing yun tong	5
 环丙氟哌酸	huan bing fu pai suan	1
@@ -13771,11 +14483,17 @@ sort: by_weight
 环颈鹧鸪	huan jing zhe gu	100
 环首之刑	huan shou zhi xing	100
 环鸟苷酸	huan niao gan suan	35
+珲	hui
+珲	hui	1336
+珲	hun
+珲	hun	1336
 珲乌高速	hun wu gao su	100
 珲春	hun chun	7635
 珲春县	hun chun xian	50
 珲春市	hun chun shi	739
 珲春街	hun chun jie	100
+琥	hu
+琥	hu	5562
 琥乙红霉素	hu yi hong mei su	11
 琥乙红霉素片	hu yi hong mei su pian	2
 琥乙红霉素胶囊	hu yi hong mei su jiao nang	1
@@ -13814,12 +14532,31 @@ sort: by_weight
 琥珀鸽蛋	hu po ge dan	136
 琥珀黄	hu po huang	100
 琥珀黄的	hu po huang de	100
+琿	hui
+琿	hun
+瑍	huan
+瑚	hu
+瑚	hu	9681
 瑚琏之器	hu lian zhi qi	1
 瑚琏之资	hu lian zhi zi	1
+瑝	huang
+瑝	huang	3
+璜	huang
+璜	huang	2543
+璤	hui
+璯	hui
+環	huan
+瓛	huan
+瓠	hu
+瓠	hu	406
 瓠子	hu zi	9
 瓠果	hu guo	1
 瓠瓜	hu gua	2
 瓠齿樱唇	hu chi ying chun	100
+瓡	hu
+瓳	hu
+画	hua
+画	hua	359784
 画一个	hua yi ge	5955
 画一个圆	hua yi ge yuan	100
 画一个圆儿	hua yi ge yuan er	100
@@ -14172,7 +14909,19 @@ sort: by_weight
 画龙不成反为狗	hua long bu cheng fan wei gou	1
 画龙点睛	hua long dian jing	16245
 画龙画虎难画骨	hua long hua hu nan hua gu	140
+畫	hua
+畵	hua
+痐	hui
+痪	huan
+痪	huan	6519
+瘓	huan
+瘣	hui
+癀	huang
+癀	huang	14
 癀病	huang bing	999
+癨	huo
+皇	huang
+皇	huang	640305
 皇上	huang shang	131320
 皇上不急	huang shang bu ji	100
 皇上不急太监急	huang shang bu ji tai jian ji	100
@@ -14387,7 +15136,30 @@ sort: by_weight
 皇马地址	huang ma di zhi	100
 皇马币	huang ma bi	637
 皇马队长	huang ma dui zhang	174
+皝	huang
+皩	huang
+眃	hun
+眓	huo
+睆	huan
+睆	huan	1
 睆目	huan mu	2
+睢	hui
+睧	hun
+睯	hun
+睳	hui
+睴	hun
+瞏	huan
+瞺	hui
+矆	huo
+矐	huo
+砉	hua
+砉	hua	111
+硊	hui	5
+硴	hua
+碈	hun	1
+磆	hua
+磺	huang
+磺	huang	2222
 磺乙基	huang yi ji	5
 磺化	huang hua	5875
 磺厂	huang chang	119
@@ -14420,6 +15192,12 @@ sort: by_weight
 磺酸	huang suan	10110
 磺酸盐	huang suan yan	2160
 磺酸钠	huang suan na	4580
+礊	huo
+礐	hu
+祜	hu
+祜	hu	1442
+祸	huo
+祸	huo	100219
 祸不单行	huo bu dan xing	5390
 祸不妄至	huo bu wang zhi	1
 祸不息	huo bu xi	100
@@ -14527,6 +15305,13 @@ sort: by_weight
 祸迫眉睫	huo po mei jie	1
 祸首	huo shou	3760
 祸首罪魁	huo shou zui kui	100
+禈	hui
+禍	huo
+秮	huo
+秳	huo
+秴	huo
+秽	hui
+秽	hui	12887
 秽乱	hui luan	430
 秽乱后宫	hui luan hou gong	167
 秽亵	hui xie	18
@@ -14552,13 +15337,31 @@ sort: by_weight
 秽迹金刚	hui ji jin gang	100
 秽闻	hui wen	100
 秽闻四播	hui wen si bo	1
+穔	huang
+穢	hui
+穫	huo
+窢	huo
+笏	hu
+笏	hu	918
+箶	hu
+篁	huang
+篁	huang	410
 篁岭人	huang ling ren	100
 篁碧乡	huang bi xiang	10
+篧	huo
+篲	hui
+簄	hu
+簧	huang
+簧	huang	7430
 簧乐器	huang yue qi	100
 簧片	huang pian	4395
 簧管	huang guan	11
 簧舌	huang she	125
 簧风琴	huang feng qin	100
+粐	hu
+糀	hua
+糊	hu
+糊	hu	235912
 糊一糊	hu yi hu	47
 糊不了	hu bu liao	25
 糊了	hu le	5335
@@ -14622,7 +15425,25 @@ sort: by_weight
 糊辣汤	hu la tang	1114
 糊里又糊涂	hu li you hu tu	100
 糊里糊涂	hu li hu tu	14755
+糫	huan
+絗	hu
+絙	huan
+絵	hui
+綄	huan
+綔	hu
+緩	huan
+縎	hu
+縠	hu
+縠	hu	46
 縠皱波纹迎客棹	hu zhou bo wen ying ke zhao	1180
+縨	huang
+繉	hun
+繢	hui
+繣	hua
+繪	hui
+繯	huan
+绘	hui
+绘	hui	39443
 绘不出	hui bu chu	60
 绘世花鸟卷	hui shi hua niao juan	100
 绘事后素	hui shi hou su	225
@@ -14684,6 +15505,9 @@ sort: by_weight
 绘画系	hui hua xi	100
 绘画艺术	hui hua yi shu	8970
 绘画颜料与色彩指南	hui hua yan liao yu se cai zhi nan	1
+缋	hui
+缓	huan
+缓	huan	450418
 缓一缓	huan yi huan	1360
 缓下	huan xia	1520
 缓不济急	huan bu ji ji	138
@@ -14856,14 +15680,32 @@ sort: by_weight
 缓限	huan xian	3
 缓震	huan zhen	1111
 缓颊	huan jia	315
+缳	huan
+缳	huan	311
+羦	huan
+翙	hui
+翙	hui	106
 翙翙	hui hui	1
 翙翙其羽	hui hui qi yu	1111
+翚	hui
+翚	hui	145
+翬	hui
+翽	hui
+耠	huo
+耠	huo	22
 耠土	huo tu	123
 耠地	huo di	23
 耠子	huo zi	1
+耯	huo
+耲	huai
 耲耙	huai ba	1
+肒	huan
+肓	huang
+肓	huang	1770
 肓之原	huang zhi yuan	3
 肓腧穴	huang shu xue	1
+胡	hu
+胡	hu	468131
 胡一刀	hu yi dao	16
 胡一彪	hu yi biao	100
 胡一统	hu yi tong	142
@@ -15487,6 +16329,17 @@ sort: by_weight
 胡麻饼样学京都	hu ma bing yang xue jing du	2
 胡黄连	hu huang lian	20
 胡𬶋	hu ju	2
+膴	hu
+臛	huo
+舙	hua
+艎	huang
+艎	huang	4
+艧	huo
+芐	hu
+芔	hu
+芔	hui
+花	hua
+花	hua	1277183
 花一分钱	hua yi fen qian	183
 花上	hua shang	29160
 花上露犹泫	hua shang lu you xuan	1
@@ -16830,6 +17683,11 @@ sort: by_weight
 花龄盛会	hua ling sheng hui	3
 花龙门	hua long men	10
 花龟	hua gui	1
+芲	hua
+芴	hu
+苸	hu
+茴	hui
+茴	hui	732
 茴三硫	hui san liu	19
 茴拉西坦	hui la xi tan	21
 茴拉西坦颗粒	hui la xi tan ke li	2
@@ -16848,6 +17706,10 @@ sort: by_weight
 茴香霉素	hui xiang mei su	15
 茴香鸡蛋	hui xiang ji dan	180
 茴鱼	hui yu	1
+荁	huan
+荁	huan	1
+荒	huang
+荒	huang	136353
 荒丘	huang qiu	3160
 荒乱	huang luan	665
 荒了	huang le	162
@@ -17009,10 +17871,14 @@ sort: by_weight
 荒野行动	huang ye xing dong	100
 荒野行动中	huang ye xing dong zhong	100
 荒野里	huang ye li	3250
+荟	hui
+荟	hui	2001
 荟芳园	hui fang yuan	5
 荟萃	hui cui	47200
 荟萃一堂	hui cui yi tang	340
 荟集	hui ji	910
+荤	hun
+荤	hun	6658
 荤口	hun kou	40
 荤段子	hun duan zi	1155
 荤油	hun you	885
@@ -17028,6 +17894,8 @@ sort: by_weight
 荤豆花	hun dou hua	112
 荤酒	hun jiu	111
 荤食	hun shi	2185
+获	huo
+获	huo	245741
 获中国	huo zhong guo	15245
 获优胜	huo you sheng	110
 获保首领	huo bao shou ling	1
@@ -17494,10 +18362,18 @@ sort: by_weight
 获鹿	huo lu	1005
 获鹿县	huo lu xian	330
 获鹿镇	huo lu zhen	100
+華	hua
+萀	hu
+萈	huan
+萑	huan
+萑	huan	287
 萑苻	huan fu	2
 萑苻之盗	huan fu zhi dao	100
 萑苻遍野	huan fu bian ye	1
 萑蒲之盗	huan pu zhi dao	100
+葟	huang
+葫	hu
+葫	hu	21733
 葫芦	hu lu	68855
 葫芦丝	hu lu si	6930
 葫芦伪似盘钩虫	hu lu wei si pan gou chong	1
@@ -17545,6 +18421,17 @@ sort: by_weight
 葫芦阵	hu lu zhen	31
 葫芦鸡	hu lu ji	400
 葫蔓藤	hu man teng	100
+葷	hun
+蒊	hua
+蒝	huan
+蒦	huo
+蔒	hun
+蔛	hu
+蔧	hui
+蔰	hu
+蕐	hua
+蕙	hui
+蕙	hui	8173
 蕙兰	hui lan	22
 蕙兰瑜伽	hui lan yu jia	100
 蕙心兰质	hui xin lan zhi	100
@@ -17552,6 +18439,12 @@ sort: by_weight
 蕙损兰摧	hui sun lan cui	1
 蕙草留芳根	hui cao liu fang gen	1
 蕙质兰心	hui zhi lan xin	675
+薈	hui
+薉	hui
+藧	huan
+藱	hui
+藿	huo
+藿	huo	435
 藿朴夏苓汤	huo po xia ling tang	3
 藿食藜羹	huo shi li geng	100
 藿香	huo xiang	9535
@@ -17567,6 +18460,13 @@ sort: by_weight
 藿香正气颗粒	huo xiang zheng qi ke li	3
 藿香清胃胶囊	huo xiang qing wei jiao nang	1
 藿香祛暑软胶囊	huo xiang qu shu ruan jiao nang	3
+蘤	hua
+蘳	hui
+蘹	huai
+蘾	huai
+虍	hu
+虎	hu
+虎	hu	391382
 虎不拉	hu bu la	100
 虎不食儿	hu bu shi er	1
 虎丘	hu qiu	108
@@ -17960,9 +18860,16 @@ sort: by_weight
 虎鹿羊三妖	hu lu yang san yao	100
 虎鼓瑟兮鸾回车	hu gu se xi luan hui che	1
 虎𬇙	hu bei	1
+虖	hu
+虝	hu
+虺	hui
+虺	hui	1438
 虺蜮	hui yu	20
 虺蜴	hui yi	60
 虺龙	hui long	10
+蚘	hui
+蛔	hui
+蛔	hui	1423
 蛔厥	hui jue	3
 蛔虫	hui chong	10095
 蛔虫卵	hui chong luan	47
@@ -17971,12 +18878,18 @@ sort: by_weight
 蛔虫症	hui chong zheng	100
 蛔虫药	hui chong yao	55
 蛔蚴	hui you	4
+蛕	hui
+蜖	hui
+蝗	huang
+蝗	huang	6770
 蝗害	huang hai	160
 蝗灾	huang zai	1875
 蝗莺	huang ying	25
 蝗虫	huang chong	14945
 蝗虫过境	huang chong guo jing	100
 蝗蝻	huang nan	1
+蝴	hu
+蝴	hu	33327
 蝴蝶	hu die	175410
 蝴蝶之梦为周与	hu die zhi meng wei zhou yu	2
 蝴蝶俱乐部	hu die ju le bu	100
@@ -18018,12 +18931,57 @@ sort: by_weight
 蝴蝶馆	hu die guan	289
 蝴蝶香囊	hu die xiang nang	1
 蝴蝶骨	hu die gu	160
+螖	hua
+螜	hu
+螝	hui
+蟥	huang
+蟥	huang	559
+蟪	hui
+蟪	hui	56
 蟪蛄	hui gu	260
 蟪蛄不知春秋	hui gu bu zhi chun qiu	5
+蠖	huo
+蠖	huo	190
 蠖屈不伸	huo qu bu shen	1
 蠖屈求伸	huo qu qiu shen	100
+衁	huang
+衚	hu
+袆	hui
+袆	hui	417
 袆衣	hui yi	2
+褘	hui
+褢	huai
+褱	huai
+觟	hua
+觟	hua	3
+觨	hun
+觳	hu
+觳	hu	205
 觳觫	hu su	430
+觷	hu
+詤	huang
+詯	hui
+話	hua
+詼	hui
+誨	hui
+誮	hua
+諙	hua
+諢	hun
+諣	hua
+諱	hui
+諻	huang
+謊	huang
+謋	huo
+謼	hu
+譁	hua
+譓	hui
+譭	hui
+譮	hua
+護	hu
+譿	hui
+讙	huan
+讳	hui
+讳	hui	21199
 讳兵畏刑	hui bing wei xing	1
 讳字	hui zi	2
 讳忌	hui ji	1
@@ -18035,10 +18993,15 @@ sort: by_weight
 讳言	hui yan	7810
 讳败推过	hui bai tui guo	1
 讳饰	hui shi	210
+许	hu
+诙	hui
+诙	hui	2611
 诙谐	hui xie	7465
 诙谐地	hui xie de	915
 诙谐曲	hui xie qu	335
 诙谐歌曲	hui xie ge qu	20
+话	hua
+话	hua	3744917
 话不可乱说	hua bu ke luan shuo	100
 话不多说	hua bu duo shuo	100
 话不投机	hua bu tou ji	2355
@@ -18181,8 +19144,12 @@ sort: by_weight
 话题热度	hua ti re du	100
 话题简述	hua ti jian shu	100
 话题讨论度	hua ti tao lun du	100
+诨	hun
+诨	hun	1476
 诨号	hun hao	350
 诨名	hun ming	545
+诲	hui
+诲	hui	8309
 诲人不倦	hui ren bu juan	3775
 诲奸导淫	hui jian dao yin	1
 诲淫	hui yin	1090
@@ -18190,6 +19157,8 @@ sort: by_weight
 诲淫诲盗	hui yin hui dao	485
 诲盗诲淫	hui dao hui yin	100
 诲而不倦	hui er bu juan	7
+谎	huang
+谎	huang	59414
 谎价	huang jia	22
 谎信	huang xin	9999
 谎报	huang bao	21340
@@ -18206,6 +19175,9 @@ sort: by_weight
 谎话	huang hua	15620
 谎说	huang shuo	835
 谎骗	huang pian	260
+豁	hua
+豁	huo
+豁	huo	26107
 豁上干	huo shang gan	100
 豁不出	huo bu chu	55
 豁了	huo le	123
@@ -18251,7 +19223,19 @@ sort: by_weight
 豁达大度	huo da da du	1665
 豁达的人生态度	huo da de ren sheng tai du	100
 豁飘	huo piao	4
+豗	hui
+豢	huan
+豢	huan	1562
 豢养	huan yang	5950
+豰	hu
+豲	huan
+貆	huan
+貆	huan	3
+貛	huan
+貨	huo
+賄	hui
+货	huo
+货	huo	161159
 货不对版	huo bu dui ban	100
 货主	huo zhu	40530
 货仓	huo cang	6075
@@ -18463,6 +19447,8 @@ sort: by_weight
 货郎担	huo lang dan	445
 货郎鼓	huo lang gu	170
 货驳	huo bo	120
+贿	hui
+贿	hui	14729
 贿买	hui mai	1605
 贿款	hui kuan	1700
 贿货公行	hui huo gong xing	100
@@ -18480,6 +19466,10 @@ sort: by_weight
 贿选案	hui xuan an	100
 贿通	hui tong	60
 贿金	hui jin	530
+趏	huo
+趪	huang
+踝	huai
+踝	huai	6039
 踝关节	huai guan jie	9625
 踝关节扭伤	huai guan jie niu shang	74
 踝关节脱位	huai guan jie tuo wei	19
@@ -18491,6 +19481,14 @@ sort: by_weight
 踝部	huai bu	8246
 踝骨	huai gu	1860
 踝骨骨折	huai gu gu zhe	156
+軤	hu
+輝	hui
+轋	hun
+轘	huan
+轷	hu
+轷	hu	2
+辉	hui
+辉	hui	165245
 辉丰股份	hui feng gu fen	165
 辉光	hui guang	2725
 辉光之辰	hui guang zhi chen	100
@@ -18552,6 +19550,8 @@ sort: by_weight
 辉风鸟	hui feng niao	1
 辉黑蚁鸟	hui hei yi niao	1
 辉黑裳凤蝶	hui hei chang feng die	1
+还	huan
+还	huan	406569
 还一次	huan yi ci	62
 还上	huan shang	1180
 还不上	huan bu shang	102
@@ -18800,25 +19800,94 @@ sort: by_weight
 还魂草	huan hun cao	100
 还鲊	huan zha	2
 还鲊遗书	huan zha wei shu	2
+迴	hui
+逥	hui
+逭	huan
+逭	huan	127
+遑	huang
+遑	huang	2242
 遑论	huang lun	6035
 遑论其他	huang lun qi ta	100
 遑遑	huang huang	2
+還	huan
+邩	huo
+郇	huan
+郇	huan	199
+鄠	hu
+鄠	hu	69
 鄠邑站	hu yi zhan	154
+酄	huan
+醐	hu
+醐	hu	1401
+釪	hua
+釫	hua
+鈥	huo
+銊	hui
+鋘	hua
+錵	hua
+錿	hu
+鍃	huo
+鍙	hu
+鍠	huang
+鍰	huan
+鍸	hu
+鎤	huang
+鏵	hua
+鏸	hui
+鐄	huang
+鐬	hui
+鐶	huan
+鑊	huo
+钬	huo
+钬	huo	65
 钬元素	huo yuan su	100
+铧	hua
+铧	hua	952
 铧尖	hua jian	11
+锪	huo
+锪	huo	38
 锪孔	huo kong	155
 锪钻	huo zuan	90
+锽	huang
+锽	huang	10
 锽锽	huang huang	1
+锾	huan
+锾	huan	55
+镬	huo
+镬	huo	308
 镬子	huo zi	1
 镬气	huo qi	3
+镮	huan
+镮	huan	25
+閄	huo
+閽	hun
+闠	hui
+闤	huan
+阍	hun
+阍	hun	371
 阍者	hun zhe	280
+阓	hui
+阛	huan
 阛阓	huan hui	1
+隍	huang
+隍	huang	1797
+隓	hui
+隳	hui
+隳	hui	150
 隳突	hui tu	140
 隳突乎南北	hui tu hu nan bei	18
 隳肝尝胆	hui gan chang dan	1
 隳肝沥胆	hui gan li dan	1
 隳胆抽肠	hui dan chou chang	1
 隳节败名	hui jie bai ming	1
+隺	hu
+雈	huan
+雐	hu
+雘	huo
+雚	huan
+雽	hu
+霍	huo
+霍	huo	91016
 霍不疑	huo bu yi	100
 霍东阁	huo dong ge	365
 霍乐迪	huo le di	165
@@ -18964,14 +20033,40 @@ sort: by_weight
 霍长风	huo chang feng	100
 霍霍	huo huo	9170
 霍霍了	huo huo le	100
+靃	huo
+靧	hui
+韄	huo
+韹	huang
+頀	hu
+頮	hui
+頶	hu
+顪	hui
+颒	hui
+餛	hun
+餬	hu
+餭	huang
+餯	hui
+馄	hun
+馄	hun	2975
 馄饨	hun tun	47850
 馄饨侯	hun tun hou	672
 馄饨千层饼	hun tun qian ceng bing	6
 馄饨面	hun tun mian	435
 馄饨香蕉卷	hun tun xiang jiao juan	3
 馄饨鸭子	hun tun ya zi	4
+騜	huang
+騞	huo
+驊	hua
+驩	huan
+骅	hua
+骅	hua	2520
 骅中街道	hua zhong jie dao	1
 骅骝	hua liu	1
+鬍	hu
+鬟	huan
+鬟	huan	13671
+魂	hun
+魂	hun	291928
 魂一夕而九逝	hun yi xi er jiu shi	1
 魂不守宅	hun bu shou zhai	3
 魂不守舍	hun bu shou she	4840
@@ -19076,11 +20171,41 @@ sort: by_weight
 魂魄	hun po	31940
 魂魄不曾来入梦	hun po bu ceng lai ru meng	1
 魂魄毅兮为鬼雄	hun po yi xi wei gui xiong	27
+魱	hu
+鮰	hui
+鯇	huan
+鯱	hu
+鯶	huan
+鰀	huan
+鰉	huang
+鰗	hu
+鰴	hui
+鱑	huang
+鱯	hu
+鲩	huan
+鲩	huan	239
 鲩华双身虫	huan hua shuang shen chong	1
 鲩鱼	huan yu	2275
+鳇	huang
+鳇	huang	78
 鳇鱼	huang yu	9
+鳠	hu
+鳠	hu	4
 鳠伪锚盘虫	hu wei mao pan chong	1
 鳠拟棒体棘头虫	hu ni bang ti ji tou chong	1
+鳸	hu
+鴅	huan
+鵍	huan
+鵠	hu
+鶘	hu
+鶦	hu
+鶮	hu
+鶻	hu
+鷨	hua
+鷬	huang
+鸌	hu
+鹄	hu
+鹄	hu	2662
 鹄候	hu hou	2
 鹄候回音	hu hou hui yin	100
 鹄形鸟面	hu xing niao mian	1
@@ -19090,15 +20215,28 @@ sort: by_weight
 鹄立	hu li	235
 鹄面鸟形	hu mian niao xing	100
 鹄面鸠形	hu mian jiu xing	100
+鹕	hu
+鹕	hu	236
+鹘	hu
+鹘	hu	2636
 鹘入鸦群	hu ru ya qun	100
 鹘鹰	hu ying	3
+鹮	huan
+鹮	huan	10
 鹮嘴鹬	huan zui yu	2
 鹮科	huan ke	18
+鹱	hu
+鹱	hu	35
+麾	hui
+麾	hui	8918
 麾下	hui xia	21810
 麾之即去	hui zhi ji qu	5
 麾军前进	hui jun qian jin	100
 麾斥八极	hui chi ba ji	8
 麾村镇	hui cun zhen	1
+黃	huang
+黄	huang
+黄	huang	678776
 黄一刀	huang yi dao	196
 黄一苇	huang yi wei	6
 黄一飞	huang yi fei	100
@@ -21227,7 +22365,479 @@ sort: by_weight
 黄龙风景名胜区	huang long feng jing ming sheng qu	33
 黄𩽾𩾌	huang an kang	136
 黄𫚉	huang hong	2
+黊	hua
+鼲	hun
+𠂄	huan
+𠂸	huang
+𠉣	hun
+𠍗	hui
+𠓊	hui
+𠙞	huo
+𠝐	hua
+𠟼	huan
+𠤎	hua
+𠥰	hu
+𠦪	hu
+𠧩	hui
+𠯐	huo
+𠯠	hui
+𠯳	hu
+𠰛	hu
+𠱥	hui
+𠲛	hui
+𠳂	hua
+𠴱	hu
+𠺐	huan
+𠻍	huan
+𠽡	hui
+𠿔	hui
+𠿜	hua
+𡁑	hua
+𡄤	huan
+𡄴	huo
+𡅱	huan
+𡅻	huan
+𡇯	hun
+𡉚	huang
+𡉴	hu
+𡋙	hui
+𡍐	hu
+𡍦	huan
+𡏁	hui
+𡒾	hui
+𡓘	huo
+𡘍	huan
+𡚊	huan
+𡚜	huan
+𡜂	hu
+𡜋	huang
+𡜦	hui
+𡞠	hu
+𡡄	huang
+𡢕	hui
+𡥋	hui
+𡧥	hu
+𡧽	huang
+𡨩	hun
+𡨳	hun
+𡩂	huan
+𡪞	huo
+𡭛	hui
+𡯢	huo
+𡯥	hui
+𡰅	hu
+𡰋	hui
+𡱌	huan
+𡱽	hu
+𡴱	hu
+𡵘	hu
+𡷗	huan
+𡹎	hui
+𡹯	hui
+𡹹	hu
+𡺛	hua
+𡻮	hu
+𡼘	hu
+𡾜	huo
+𡿰	huang
+𡿿	huo
+𢀡	hui
+𢁹	huang
+𢃎	huo
+𢄣	hui
+𢄶	hua
+𢅫	hui
+𢆰	hu
+𢇟	huang
+𢉢	hu
+𢊄	hui
+𢊇	hui
+𢋒	huo
+𢎵	hu
+𢏯	hu
+𢑢	hu
+𢑹	hu
+𢓲	hu
+𢕺	hui
+𢚪	hu
+𢝇	huo
+𢞕	huo
+𢟾	hui
+𢟿	huan
+𢦚	hua
+𢨥	hu
+𢨦	hu
+𢪏	hu
+𢯷	hui
+𢻔	hui
+𢼤	hua
+𢽨	hu
+𣄓	hui
+𣄙	huang
+𣄟	hu
+𣄸	huo
+𣆖	huang
+𣇲	hun
+𣉒	huo
+𣉪	huang
+𣋘	hui
+𣌓	huan
+𣌭	hui
+𣎅	huan
+𣎚	hu
+𣑂	hu
+𣓗	hu
+𣙶	hu
+𣛫	hu
+𣝂	hun
+𣝗	hu
+𣟉	huai
+𣡾	hu
+𣣏	hun
+𣣞	hun
+𣤨	huo
+𣨶	hui
+𣨿	hun
+𣩹	huai
+𣫈	hu
+𣲑	hu
+𣴟	huan
+𣸀	hui
+𣸎	huai
+𣹬	hu
+𣺬	huang
+𤀣	huan
+𤁪	hua
+𤁹	huo
+𤃽	hui
+𤆄	huo
+𤆳	hui
+𤆴	huang
+𤇠	hu
+𤈦	hui
+𤊴	huo
+𤌋	hui
+𤌍	hu
+𤎲	hu
+𤏘	huo
+𤐀	hu
+𤐰	huo
+𤕚	hui
+𤘔	hu
+𤘵	hu
+𤙕	hua
+𤚝	huang
+𤛚	huan
+𤛥	huang
+𤜄	huai
+𤜋	hui
+𤜡	hui
+𤜷	hu
+𤝘	hu
+𤞲	hu
+𤟤	hui
+𤠛	huang
+𤡟	huan
+𤢁	huan
+𤨖	hu
+𤩽	huan	1
+𤬁	huo
+𤭉	huang
+𤭱	hu
+𤯷	huang
+𤳳	hui
+𤴯	huan
+𤶘	hu
+𤸁	hui
+𤹣	hu
+𤻙	huo
+𤼐	huan
+𤼒	hua
+𤼢	huan
+𤽅	huan
+𤽕	huan
+𤾅	hu
+𤾈	hui
+𤾑	huang
+𥀠	hui
+𥂤	hu
+𥃌	hui
+𥄇	hun
+𥇙	huo
+𥇰	hu
+𥈉	huan
+𥉄	hua
+𥊔	hui
+𥊮	huo
+𥌍	hui
+𥍋	hui
+𥏇	huan
+𥐓	huan
+𥐿	hu
+𥒠	huo
+𥒶	hua
+𥔯	hui
+𥙨	huo
+𥝂	huo
+𥠅	huan
+𥢮	hua
+𥧰	hua
+𥫼	huang
+𥰪	hu
+𥱵	hui
+𥲉	hu
+𥴯	hui
+𥶍	huan
+𥶜	hu
+𥶵	hui
+𥷆	hu
+𥸃	hui
+𥹚	huan
+𥹳	huan
+𥽥	huo
+𥾨	hu
+𥿪	huang
+𦁊	hua
+𦁕	hu
+𦂆	hui
+𦃕	hun
+𦊂	hu
+𦊘	hu
+𦊧	hu
+𦌦	huan
+𦏗	hu
+𦏨	huai
+𦑌	huo
+𦑛	huan
+𦑱	huo
+𦒎	hui
+𦒧	huo
+𦖍	hua
+𦖼	hu
+𦗣	hu
+𦝝	huan
+𦞙	hui
+𦞢	hun
+𦟮	huang
+𦟲	hun
+𦡖	hui
+𦡵	hun
+𦡽	huang
+𦣴	huan
+𦧘	hu
+𦧠	hua
+𦧬	huai
+𦧵	hua
+𦧹	hua
+𦨯	huo
+𦩕	hu
+𦪗	huang
+𦪠	hua
+𦬚	hu
+𦬺	huang
+𦭈	hu
+𦭹	hui
+𦴉	hu
+𦵣	hun
+𦵽	huang
+𦶎	hua
+𦷳	hu
+𦺟	hu
+𦻃	huan
+𦼉	huan
+𦽊	hua
+𦽐	hui
+𧂔	hu
+𧅰	hu
+𧆑	huo
+𧆢	hu
+𧆮	hu
+𧆯	hu
+𧇛	hu
+𧇰	hu
+𧉇	hui
+𧌧	hu
+𧍵	hu
+𧏧	hui
+𧑍	hua
+𧕸	huang
+𧖢	hui
+𧖬	huang
+𧗌	hu
+𧗏	hui
+𧗼	hui
+𧘢	hu
+𧚁	huan
+𧛞	hu
+𧞒	hu
+𧠚	hun
+𧠩	hu
+𧠬	huang
+𧡩	huan
+𧢰	hu
+𧣢	hun
+𧣼	hu
+𧤴	huo
+𧥮	hu
+𧥯	hu
+𧦚	hu
+𧦝	hu
+𧧾	hui
+𧨆	huang
+𧨋	hua
+𧩓	hu
+𧪮	hua
+𧬨	hui
+𧭾	hui
+𧯆	huo
+𧯱	huo
+𧰴	hu
+𧱳	huai
+𧲇	hu
+𧲥	hu
+𧳐	hui
+𧴊	huan
+𧵻	huo
+𧹲	hu
+𧹴	huo
+𧹾	hu
+𧻰	hu
+𧽌	hua
+𧿓	hu
+𧿠	hu
+𨂱	hun
+𨉁	huang
+𨉤	huang
+𨊢	hui
+𨋨	hun
+𨌝	huo
+𨍧	huang
+𨍲	hu
+𨍹	hui
+𨏂	hun
+𨐶	huo
+𨕚	hu
+𨕹	huan
+𨖃	hu
+𨗥	hui
+𨘇	hui
+𨘌	huo
+𨘲	hui
+𨙀	huo
+𨚳	huang
+𨛤	hui
+𨛵	hu
+𨜌	huan
+𨜔	huang
+𨝘	hu
+𨝞	hu
+𨝴	huang
+𨡫	hun
+𨢋	hu
+𨢤	hu
+𨣄	hua
+𨣗	hu
+𨥛	hu
+𨦗	hui
+𨱑	huang	1
+𨴬	hu
+𨵘	hui
+𨶬	hua
+𨶱	hua
+𨷮	huo
+𨽧	huan
+𨾡	huang
+𩀶	hui
+𩂂	hu
+𩂤	hua
+𩃾	hui
+𩅴	hun
+𩆀	huo
+𩆁	hui
+𩇇	hun
+𩇻	hui
+𩌃	huai
+𩍡	huan
+𩏖	hun
+𩑖	huan
+𩑶	hu
+𩒏	hui
+𩒳	hui
+𩔁	hui
+𩔉	hun
+𩖨	hu
+𩗐	hua
+𩗝	hui
+𩙽	huan
+𩝨	hua
+𩞩	huang
+𩞺	huo
+𩟨	huo
+𩟮	huai
+𩟸	huo
+𩡧	huan
+𩢪	hu
+𩢯	huang
+𩢱	hui
+𩤉	hua
+𩦐	huo
+𩦘	huan
+𩨔	hu
+𩨔	hua
+𩪭	huo
+𩭳	huo
+𩰯	hu
+𩱍	hu
+𩲏	hua
+𩳨	hu
+𩵄	huan
+𩵏	hua
+𩵬	hu
+𩶈	hu
+𩶥	hui
+𩸄	hua
+𩻟	hui
+𩾻	hu
+𩿊	huan
+𪀞	huang
+𪀟	hui
+𪀬	hui
+𪂒	hu
+𪄮	hu
+𪈑	hui
+𪈩	huan
+𪊂	hui
+𪊉	huai
+𪊥	huan
+𪌽	hun
+𪍂	hu
+𪍺	huan
+𪏇	hui
+𪏍	huang
+𪏏	hui
+𪏒	huang
+𪏙	huang
+𪏳	hu
+𪏻	hu
+𪑀	hui
+𪑕	hun
+𪒩	huo
+𪔊	hui
+𪕉	hu
+𪕮	hu
+𪕱	hu
+𪖕	hui
+𪗽	hua
+𪙈	hu
+𪛂	hui
+𫚔	hui
 𫚔鱼	hui yu	111
 𫚔鱼料	hui yu liao	2
 𫚔鱼肚片	hui yu du pian	1
+𫰡	hua
+𬘫	huan	3
+𬤝	hui	1
+𬭬	hui	1
+𬴃	huo	1
+𬴐	huan
 𬴐兜	huan dou	4
