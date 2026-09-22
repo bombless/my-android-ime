@@ -32,11 +32,13 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     private lateinit var imeEngine: PinyinImeEngine
     private lateinit var deepSeekAi: DeepSeekImeAi
     private lateinit var baiduSuggest: BaiduImeSuggest
+    private lateinit var inputHistoryStore: InputHistoryStore
     // Compose must observe composing changes; a plain StringBuilder does not
     // trigger recomposition, which previously left the candidate strip empty.
     private val composing = mutableStateOf("")
     private val aiRevision = mutableIntStateOf(0)
     private val baiduRevision = mutableIntStateOf(0)
+    private val historyRevision = mutableIntStateOf(0)
     private lateinit var lifecycleRegistry: LifecycleRegistry
     private lateinit var savedStateRegistryController: SavedStateRegistryController
 
@@ -51,6 +53,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         super.onCreate()
         deepSeekAi = DeepSeekImeAi(applicationContext)
         baiduSuggest = BaiduImeSuggest()
+        inputHistoryStore = InputHistoryStore(applicationContext)
         try { imeEngine = PinyinImeEngine(loadDictionary()) { pinyin -> deepSeekAi.candidates(pinyin) } }
         catch (e: Exception) { Log.e(TAG, "dictionary loading FAILED", e); throw e }
         lifecycleRegistry = LifecycleRegistry(this)
@@ -88,12 +91,14 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 setContent {
                     aiRevision.intValue
                     baiduRevision.intValue
+                    historyRevision.intValue
                     val pinyin = composing.value
                     KeyboardScreen(
                         composing = pinyin,
                         rimeCandidates = imeEngine.localCandidates(pinyin).map { it.text },
                         baiduCandidates = baiduSuggest.candidates(pinyin),
                         deepSeekCandidates = imeEngine.remoteCandidates(pinyin).map { it.text },
+                        historyCandidates = inputHistoryStore.candidates(pinyin),
                         onKey = ::handleKey,
                         onCandidate = ::commitCandidate
                     )
@@ -174,6 +179,9 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         Log.d(TAG, "commitCandidate text=$text composingBefore=${composing.value}")
         val c = currentInputConnection
         if (c == null) { Log.w(TAG, "commitCandidate no currentInputConnection text=$text"); return }
+        inputHistoryStore.recordSelection(composing.value, text)
+        historyRevision.intValue++
+        Log.d(TAG, "history selection recorded text=$text")
         Log.d(TAG, "commitText text=$text")
         c.commitText(text, 1)
         composing.value = ""
