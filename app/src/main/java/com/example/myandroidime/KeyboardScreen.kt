@@ -233,16 +233,18 @@ fun KeyboardScreen(
         val dy = localY - letterWheelCenter.y
         val distance = kotlin.math.sqrt(dx * dx + dy * dy)
 
-        // 内圈 A-M，外圈 N-Z；中心附近保持当前选择，避免刚长按时误切换。
+        // 内圈 A-J（10个），外圈 K-Z（16个）；中心附近保持当前选择，避免刚长按时误切换。
         val innerRadiusPx = with(density) { 78.dp.toPx() }
         val outerRadiusPx = with(density) { 142.dp.toPx() }
         if (distance < innerRadiusPx * 0.45f) return
 
-        val ringOffset = if (distance <= (innerRadiusPx + outerRadiusPx) / 2f) 0 else 13
+        val isInner = distance <= (innerRadiusPx + outerRadiusPx) / 2f
+        val ringOffset = if (isInner) 0 else 10
+        val ringSize = if (isInner) 10 else 16
         var angle = Math.toDegrees(atan2(dy.toDouble(), dx.toDouble()))
         if (angle < 0) angle += 360.0
-        val step = 360.0 / 13.0
-        val slot = (((angle + step / 2) % 360) / step).toInt().coerceIn(0, 12)
+        val step = 360.0 / ringSize
+        val slot = (((angle + step / 2) % 360) / step).toInt().coerceIn(0, ringSize - 1)
         selectedLetterIndex = ringOffset + slot
     }
 
@@ -387,13 +389,13 @@ fun KeyboardScreen(
                 ) {
                     val innerRadiusPx = with(density) { 78.dp.toPx() }
                     val outerRadiusPx = with(density) { 142.dp.toPx() }
-                    val letterStep = 360.0 / 13.0
-
                     letters.forEachIndexed { index, letter ->
-                        val isInner = index < 13
+                        val isInner = index < 10
                         val radius = if (isInner) innerRadiusPx else outerRadiusPx
-                        val slot = if (isInner) index else index - 13
-                        val angleRad = Math.toRadians(slot * letterStep)
+                        val slot = if (isInner) index else index - 10
+                        val ringSize = if (isInner) 10 else 16
+                        val step = 360.0 / ringSize
+                        val angleRad = Math.toRadians(slot * step)
 
                         val itemCenterX = letterWheelCenter.x + radius * cos(angleRad).toFloat()
                         val itemCenterY = letterWheelCenter.y + radius * sin(angleRad).toFloat()
