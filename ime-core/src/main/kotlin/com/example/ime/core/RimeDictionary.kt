@@ -65,6 +65,87 @@ class RimeDictionary private constructor(
             .toList()
     }
 
+    /**
+     * Cuts compact pinyin at consonant initials and takes the Cartesian product
+     * of exact dictionary candidates for the resulting chunks. zh/ch/sh are
+     * treated as two-letter initials. This is intended only as a fallback after
+     * normal exact and prefix lookup has returned no candidates.
+     */
+    fun candidatesByConsonantSegmentation(
+        input: String,
+        limit: Int = 9,
+        perSegmentLimit: Int = 9,
+    ): List<Candidate> {
+        val key = input.trim().lowercase(Locale.ROOT).replace(" ", "")
+        if (key.isEmpty() || !preloadComplete || limit <= 0 || perSegmentLimit <= 0) return emptyList()
+
+        val boundaries = ArrayList<Int>()
+        var index = 0
+        while (index < key.length) {
+            if (index > 0 && initialLengthAt(key, index) > 0) boundaries += index
+            index += initialLengthAt(key, index).coerceAtLeast(1)
+        }
+        if (boundaries.isEmpty()) return emptyList()
+
+        val segments = ArrayList<String>(boundaries.size + 1)
+        var start = 0
+        boundaries.forEach { end ->
+            segments += key.substring(start, end)
+            start = end
+        }
+        segments += key.substring(start)
+        if (segments.any { it.isEmpty() }) return emptyList()
+
+        data class Partial(val text: String, val weight: Int, val pinyin: String)
+        var partials = listOf(Partial("", 0, ""))
+        for (segment in segments) {
+            val candidates = candidatesForSegment(segment, perSegmentLimit)
+            if (candidates.isEmpty()) return emptyList()
+
+            partials = partials.asSequence()
+                .flatMap { prefix ->
+                    candidates.asSequence().map { candidate ->
+                        Partial(
+                            prefix.text + candidate.text,
+                            prefix.weight + candidate.weight,
+                            if (prefix.pinyin.isEmpty()) segment else prefix.pinyin + " " + segment,
+                        )
+                    }
+                }
+                .sortedByDescending { it.weight }
+                .distinctBy { it.text }
+                .take(limit)
+                .toList()
+        }
+
+        return partials.map { Candidate(it.text, it.pinyin, it.weight) }
+    }
+
+    private fun candidatesForSegment(segment: String, limit: Int): List<Candidate> {
+        val candidates = if (segment.length == 1 && initialLengthAt(segment, 0) == 1) {
+            // A one-letter initial is a prefix lookup (e.g. "b" -> "ba", "bu").
+            candidatesForPrefix(segment, limit * 4)
+        } else {
+            (byPinyin[segment].orEmpty() + byCompactPinyin[segment].orEmpty())
+                .sortedByDescending { it.weight }
+                .distinctBy { it.text }
+        }
+        return candidates
+            // Cartesian-product sampling is character based: never let a
+            // multi-character word such as "版权" occupy the "b" slot.
+            .filter { it.text.codePointCount(0, it.text.length) == 1 }
+            .sortedByDescending { it.weight }
+            .distinctBy { it.text }
+            .take(limit)
+    }
+
+    private fun initialLengthAt(input: String, index: Int): Int {
+        if (index >= input.length) return 0
+        if (index + 1 < input.length && input.substring(index, index + 2) in setOf("zh", "ch", "sh")) {
+            return 2
+        }
+        return if (input[index] in "bpmfdtnlgkhjqxzcsryw") 1 else 0
+    }
     private fun lowerBound(values: List<String>, target: String): Int {
         var low = 0
         var high = values.size

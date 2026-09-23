@@ -42,6 +42,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     private val baiduRevision = mutableIntStateOf(0)
     private val historyRevision = mutableIntStateOf(0)
     private val rimeRevision = mutableIntStateOf(0)
+    private var lastCommittedCandidate: String? = null
     private lateinit var lifecycleRegistry: LifecycleRegistry
     private lateinit var savedStateRegistryController: SavedStateRegistryController
 
@@ -80,6 +81,8 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         composing.value = ""
         continuationContext.value = ""
         deepSeekCandidates.value = emptyList()
+        lastCommittedCandidate = null
+        historyRevision.intValue++
     }
 
     override fun onStartInputView(info: android.view.inputmethod.EditorInfo?, restarting: Boolean) {
@@ -127,6 +130,12 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                         historyCandidates = run {
                             val t = System.nanoTime(); val value = inputHistoryStore.candidates(pinyin)
                             ImeTelemetry.record("history_lookup", System.nanoTime() - t, value.size); value
+                        },
+                        nextWordHistoryCandidates = run {
+                            val previous = lastCommittedCandidate
+                            val t = System.nanoTime()
+                            val value = if (pinyin.isEmpty() && previous != null) inputHistoryStore.nextWordCandidates(previous) else emptyList()
+                            ImeTelemetry.record("next_word_history_lookup", System.nanoTime() - t, value.size); value
                         },
                         onKey = ::handleKey,
                         onEmoji = ::commitEmoji,
@@ -193,6 +202,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                     Log.d(TAG, "enter commit raw latin composing=$text")
                     c.commitText(text, 1)
                     composing.value = ""
+                    lastCommittedCandidate = null
                     Log.d(TAG, "composingAfter=${composing.value}")
                 } else {
                     val result = logCandidates(text)
@@ -225,6 +235,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                         Log.d(TAG, "space commit raw composing=$text")
                         c.commitText(text, 1)
                         composing.value = ""
+                        lastCommittedCandidate = null
                         Log.d(TAG, "composingAfter=${composing.value}")
                     }
                 }
@@ -243,8 +254,10 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                         Log.d(TAG, "punctuation commit raw composing=${composing.value}")
                         c.commitText(composing.value, 1)
                         composing.value = ""
+                        lastCommittedCandidate = null
                     }
                 }
+                lastCommittedCandidate = null
                 Log.d(TAG, "punctuation commitText text=$key")
                 c.commitText(key, 1)
                 val punctuationContext = c.getTextBeforeCursor(256, 0)?.toString().orEmpty()
@@ -258,6 +271,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
             in "0123456789" -> {
                 Log.d(TAG, "number wheel commitText text=$key")
                 c.commitText(key, 1)
+                lastCommittedCandidate = null
                 continuationContext.value = c.getTextBeforeCursor(256, 0)?.toString().orEmpty()
             }
             else -> {
@@ -304,10 +318,14 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         Log.d(TAG, "stale Baidu/DeepSeek candidates cleared after selection")
         val c = currentInputConnection
         if (c == null) { Log.w(TAG, "commitCandidate no currentInputConnection text=$text"); return }
-        inputHistoryStore.recordSelection(composing.value, text)
-        userDictionaryRepository.incrementFrequency(composing.value, text)
+        val previousCandidate = lastCommittedCandidate
+        inputHistoryStore.recordSelection(composing.value, text, previousCandidate)
+        if (composing.value.isNotEmpty()) {
+            userDictionaryRepository.incrementFrequency(composing.value, text)
+        }
         historyRevision.intValue++
-        Log.d(TAG, "history selection recorded text=$text")
+        lastCommittedCandidate = text
+        Log.d(TAG, "history selection recorded text=$text previous=$previousCandidate")
         Log.d(TAG, "commitText text=$text")
         c.commitText(text, 1)
         composing.value = ""

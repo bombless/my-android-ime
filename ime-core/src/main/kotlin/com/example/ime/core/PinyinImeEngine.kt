@@ -16,7 +16,14 @@ class PinyinImeEngine(
             val prefixStart = System.nanoTime()
             val prefix = dictionary.candidatesForPrefix(pinyin, limit * 2)
             telemetry("rime_prefix", System.nanoTime() - prefixStart, prefix.size)
-            prefix.take(limit)
+            if (prefix.isNotEmpty()) {
+                prefix.take(limit)
+            } else {
+                val segmentationStart = System.nanoTime()
+                val segmented = dictionary.candidatesByConsonantSegmentation(pinyin, limit * 2)
+                telemetry("rime_segmentation", System.nanoTime() - segmentationStart, segmented.size)
+                segmented.take(limit)
+            }
         }
         telemetry("rime_local", System.nanoTime() - start, value.size)
         return value

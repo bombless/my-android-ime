@@ -156,6 +156,7 @@ fun KeyboardScreen(
     deepSeekCandidates: List<String>,
     showDeepSeek: Boolean,
     historyCandidates: List<HistoryCandidate>,
+    nextWordHistoryCandidates: List<NextWordCandidate>,
     onKey: (String) -> Unit,
     onEmoji: (String) -> Unit,
     onCandidate: (String) -> Unit
@@ -163,6 +164,9 @@ fun KeyboardScreen(
     var showPunctuation by remember { mutableStateOf(false) }
     var selectedIndex by remember { mutableStateOf(0) }
     val punctuation = remember { listOf("，", "。", "、", "；", "：", "？", "！", "《", "》", "（", "）") }
+    var showEnglishPunctuation by remember { mutableStateOf(false) }
+    var selectedEnglishPunctuationIndex by remember { mutableStateOf(0) }
+    val englishPunctuation = remember { listOf(".", ",", "?", "!", ":", ";", "'", "\"", "(", ")", "-", "_", "/", "@", "#") }
     var showNumbers by remember { mutableStateOf(false) }
     var selectedNumberIndex by remember { mutableStateOf(0) }
     val numbers = remember { listOf("0", "1", "2", "3", "4", "5", "6", "7", "8", "9") }
@@ -221,6 +225,20 @@ fun KeyboardScreen(
         val step = 360.0 / punctuation.size
         val index = (((angle + step / 2) % 360) / step).toInt().coerceIn(0, punctuation.lastIndex)
         selectedIndex = index
+    }
+
+    fun updateEnglishPunctuationSelection(windowTouchPos: Offset) {
+        val localX = windowTouchPos.x - keyboardWindowPos.x
+        val localY = windowTouchPos.y - keyboardWindowPos.y
+        val dx = localX - centerLocalX
+        val dy = localY - centerLocalY
+
+        var angle = Math.toDegrees(atan2(dy.toDouble(), dx.toDouble()))
+        if (angle < 0) angle += 360.0
+
+        val step = 360.0 / englishPunctuation.size
+        selectedEnglishPunctuationIndex = (((angle + step / 2) % 360) / step)
+            .toInt().coerceIn(0, englishPunctuation.lastIndex)
     }
 
     fun updateNumberSelection(windowTouchPos: Offset) {
@@ -283,9 +301,17 @@ fun KeyboardScreen(
                 }
                 CandidateSourceRow(
                     "历史输入",
-                    historyCandidates.map { "${it.text} (${it.count})" },
+                    if (composing.isEmpty()) {
+                        nextWordHistoryCandidates.map { "${it.text} (${it.count})" }
+                    } else {
+                        historyCandidates.map { "${it.text} (${it.count})" }
+                    },
                     onCandidate = { displayed ->
-                        historyCandidates.firstOrNull { "${it.text} (${it.count})" == displayed }?.let { onCandidate(it.text) }
+                        if (composing.isEmpty()) {
+                            nextWordHistoryCandidates.firstOrNull { "${it.text} (${it.count})" == displayed }?.let { onCandidate(it.text) }
+                        } else {
+                            historyCandidates.firstOrNull { "${it.text} (${it.count})" == displayed }?.let { onCandidate(it.text) }
+                        }
                     }
                 )
 
@@ -359,15 +385,28 @@ fun KeyboardScreen(
                     SpaceKey(
                         onSpace = onKey,
                         weight = 3f,
-                        onLongPressStart = { windowTouchPos ->
-                            showPunctuation = true
-                            updateSelection(windowTouchPos)
+                        onLongPressStart = { windowTouchPos, isLeftHalf ->
+                            // 空格键左右两半分别呼出英文、中文常用符号轮盘。
+                            if (isLeftHalf) {
+                                showEnglishPunctuation = true
+                                updateEnglishPunctuationSelection(windowTouchPos)
+                            } else {
+                                showPunctuation = true
+                                updateSelection(windowTouchPos)
+                            }
                         },
                         onDrag = { windowTouchPos ->
-                            updateSelection(windowTouchPos)
+                            if (showEnglishPunctuation) {
+                                updateEnglishPunctuationSelection(windowTouchPos)
+                            } else if (showPunctuation) {
+                                updateSelection(windowTouchPos)
+                            }
                         },
                         onRelease = {
-                            if (showPunctuation) {
+                            if (showEnglishPunctuation) {
+                                onKey(englishPunctuation[selectedEnglishPunctuationIndex])
+                                showEnglishPunctuation = false
+                            } else if (showPunctuation) {
                                 onKey(punctuation[selectedIndex])
                                 showPunctuation = false
                             }
@@ -483,6 +522,40 @@ fun KeyboardScreen(
                     }
                 }
             }
+            if (showEnglishPunctuation) {
+                Box(
+                    modifier = Modifier
+                        .matchParentSize()
+                        .background(Color.Black.copy(alpha = 0.25f))
+                ) {
+                    englishPunctuation.forEachIndexed { index, symbol ->
+                        val step = 360.0 / englishPunctuation.size
+                        val angleRad = Math.toRadians(index * step)
+                        val itemCenterX = centerLocalX + circleRadiusPx * cos(angleRad).toFloat()
+                        val itemCenterY = centerLocalY + circleRadiusPx * sin(angleRad).toFloat()
+                        val offsetX = with(density) { (itemCenterX - itemSizePx / 2f).toDp() }
+                        val offsetY = with(density) { (itemCenterY - itemSizePx / 2f).toDp() }
+                        val selected = index == selectedEnglishPunctuationIndex
+
+                        Surface(
+                            modifier = Modifier
+                                .offset(x = offsetX, y = offsetY)
+                                .size(itemSizeDp),
+                            shape = MaterialTheme.shapes.extraLarge,
+                            color = if (selected) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.surface,
+                            tonalElevation = if (selected) 8.dp else 2.dp
+                        ) {
+                            Box(contentAlignment = Alignment.Center) {
+                                Text(
+                                    text = symbol,
+                                    style = MaterialTheme.typography.titleMedium,
+                                    color = if (selected) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onSurface
+                                )
+                            }
+                        }
+                    }
+                }
+            }
             if (showNumbers) {
                 Box(
                     modifier = Modifier
@@ -522,7 +595,7 @@ fun KeyboardScreen(
 private fun RowScope.SpaceKey(
     onSpace: (String) -> Unit,
     weight: Float = 1f,
-    onLongPressStart: (Offset) -> Unit,
+    onLongPressStart: (Offset, Boolean) -> Unit,
     onDrag: (Offset) -> Unit,
     onRelease: () -> Unit
 ) {
@@ -549,7 +622,10 @@ private fun RowScope.SpaceKey(
                         if (longPress == null) {
                             onSpace("空格")
                         } else {
-                            onLongPressStart(keyWindowPos + down.position)
+                            onLongPressStart(
+                                keyWindowPos + down.position,
+                                down.position.x < size.width / 2f
+                            )
 
                             drag(down.id) { change ->
                                 onDrag(keyWindowPos + change.position)
