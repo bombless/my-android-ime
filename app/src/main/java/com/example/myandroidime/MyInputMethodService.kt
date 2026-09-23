@@ -43,6 +43,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     private val historyRevision = mutableIntStateOf(0)
     private val rimeRevision = mutableIntStateOf(0)
     private var lastCommittedCandidate: String? = null
+    private var currentEditorInfo: android.view.inputmethod.EditorInfo? = null
     private lateinit var lifecycleRegistry: LifecycleRegistry
     private lateinit var savedStateRegistryController: SavedStateRegistryController
 
@@ -78,6 +79,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     override fun onStartInput(attribute: android.view.inputmethod.EditorInfo?, restarting: Boolean) {
         Log.d(TAG, "onStartInput restarting=$restarting")
         super.onStartInput(attribute, restarting)
+        currentEditorInfo = attribute
         composing.value = ""
         continuationContext.value = ""
         deepSeekCandidates.value = emptyList()
@@ -87,10 +89,11 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
 
     override fun onStartInputView(info: android.view.inputmethod.EditorInfo?, restarting: Boolean) {
         Log.d(TAG, "onStartInputView restarting=$restarting")
+        currentEditorInfo = info
         super.onStartInputView(info, restarting)
     }
 
-    override fun onFinishInput() { composing.value = ""; Log.d(TAG, "onFinishInput"); super.onFinishInput() }
+    override fun onFinishInput() { composing.value = ""; currentEditorInfo = null; Log.d(TAG, "onFinishInput"); super.onFinishInput() }
     override fun onFinishInputView(finishingInput: Boolean) { Log.d(TAG, "onFinishInputView finishingInput=$finishingInput"); super.onFinishInputView(finishingInput) }
 
     override fun onCreateInputView(): View {
@@ -196,32 +199,36 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                     c.deleteSurroundingTextInCodePoints(1, 0)
                 }
             }
-            "↵" -> if (composing.value.isNotEmpty()) {
-                val text = composing.value
-                if (text.all { it in 'A'..'Z' || it in 'a'..'z' }) {
-                    Log.d(TAG, "enter commit raw latin composing=$text")
-                    c.commitText(text, 1)
-                    composing.value = ""
-                    lastCommittedCandidate = null
-                    Log.d(TAG, "composingAfter=${composing.value}")
-                } else {
-                    val result = logCandidates(text)
-                    val candidate = result.firstOrNull()
-                    if (candidate != null) {
-                        Log.d(TAG, "enter commit candidate=${candidate.text}")
-                        commitCandidate(candidate.text)
-                    } else {
-                        Log.d(TAG, "enter commit raw composing=$text")
-                        Log.d(TAG, "commitText text=$text")
+            "↵" -> {
+                if (composing.value.isNotEmpty()) {
+                    val text = composing.value
+                    if (text.all { it in 'A'..'Z' || it in 'a'..'z' }) {
+                        Log.d(TAG, "enter commit raw latin composing=$text")
                         c.commitText(text, 1)
                         composing.value = ""
+                        lastCommittedCandidate = null
                         Log.d(TAG, "composingAfter=${composing.value}")
+                    } else {
+                        val result = logCandidates(text)
+                        val candidate = result.firstOrNull()
+                        if (candidate != null) {
+                            Log.d(TAG, "enter commit candidate=${candidate.text}")
+                            commitCandidate(candidate.text)
+                        } else {
+                            Log.d(TAG, "enter commit raw composing=$text")
+                            Log.d(TAG, "commitText text=$text")
+                            c.commitText(text, 1)
+                            composing.value = ""
+                            Log.d(TAG, "composingAfter=${composing.value}")
+                        }
                     }
                 }
-            } else {
-                Log.d(TAG, "enter commit newline")
-                Log.d(TAG, "commitText text=\\n")
-                c.commitText("\n", 1)
+
+                if (!performEditorAction(c)) {
+                    Log.d(TAG, "enter commit newline")
+                    Log.d(TAG, "commitText text=\\n")
+                    c.commitText("\n", 1)
+                }
             }
             "空格" -> {
                 if (composing.value.isNotEmpty()) {
@@ -299,6 +306,21 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
             }
         }
         ImeTelemetry.record("handle_key", System.nanoTime() - handleStart, key.length)
+    }
+
+    /**
+     * Respect the action requested by the focused editor. Search boxes, for
+     * example, expose IME_ACTION_SEARCH instead of expecting a literal newline.
+     */
+    private fun performEditorAction(c: android.view.inputmethod.InputConnection): Boolean {
+        val info = currentEditorInfo ?: return false
+        val action = info.imeOptions and android.view.inputmethod.EditorInfo.IME_MASK_ACTION
+        if (action == android.view.inputmethod.EditorInfo.IME_ACTION_NONE ||
+            action == android.view.inputmethod.EditorInfo.IME_ACTION_UNSPECIFIED) {
+            return false
+        }
+        Log.d(TAG, "enter performEditorAction action=$action imeOptions=${info.imeOptions}")
+        return c.performEditorAction(action)
     }
 
     private fun committedContext(c: android.view.inputmethod.InputConnection, composingText: String): String {
