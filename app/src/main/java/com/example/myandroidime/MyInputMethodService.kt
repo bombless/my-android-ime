@@ -61,7 +61,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         try {
             imeEngine = PinyinImeEngine(
                 loadDictionary(),
-                { pinyin -> deepSeekAi.candidates(pinyin) },
+                { emptyList() },
                 { name, duration, size -> ImeTelemetry.record(name, duration, size) }
             )
         }

@@ -144,10 +144,10 @@ class MainActivity : Activity() {
                 }
             }, matchParentWrapContent())
             addView(Button(context).apply {
-                text = getString(R.string.deepseek_clear_cache)
+                text = getString(R.string.telemetry_clear)
                 setOnClickListener {
-                    deepSeekAi.clearAllPatches()
-                    Toast.makeText(this@MainActivity, getString(R.string.deepseek_clear_cache_done), Toast.LENGTH_SHORT).show()
+                    ImeTelemetry.clear()
+                    Toast.makeText(this@MainActivity, getString(R.string.telemetry_clear_done), Toast.LENGTH_SHORT).show()
                 }
             }, matchParentWrapContent())
             addView(TextView(context).apply {

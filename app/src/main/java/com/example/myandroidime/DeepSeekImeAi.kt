@@ -5,7 +5,6 @@ import android.util.Log
 import com.example.ime.core.Candidate
 import org.json.JSONArray
 import org.json.JSONObject
-import java.io.File
 import java.net.HttpURLConnection
 import java.net.URL
 import java.util.Locale
@@ -21,7 +20,7 @@ class DeepSeekImeAi(context: Context) {
         private const val PREFS = "deepseek_ime"
         private const val API_KEY = "api_key"
         private const val ENDPOINT_KEY = "endpoint"
-        private const val PATCH_FILE = "deepseek-ime-patches.json"
+
         private const val MODEL_KEY = "model"
         private const val ENABLED_KEY = "enabled"
         private const val DEFAULT_MODEL = "DeepSeek-V4.1-Flash"
@@ -37,12 +36,8 @@ class DeepSeekImeAi(context: Context) {
     }
 
     private val prefs = context.applicationContext.getSharedPreferences(PREFS, Context.MODE_PRIVATE)
-    private val patchFile = File(context.applicationContext.filesDir, PATCH_FILE)
     private val executor = Executors.newCachedThreadPool()
-    private val patches = ConcurrentHashMap<String, List<Candidate>>()
     private val inFlight = ConcurrentHashMap.newKeySet<String>()
-
-    init { loadPatches() }
 
     fun apiKey(): String = prefs.getString(API_KEY, "").orEmpty()
     fun saveApiKey(value: String) { prefs.edit().putString(API_KEY, value.trim()).apply() }
@@ -64,14 +59,6 @@ class DeepSeekImeAi(context: Context) {
         }
         prefs.edit().putString(ENDPOINT_KEY, endpoint).apply()
     }
-    fun clearAllPatches() {
-        patches.clear()
-        if (patchFile.exists()) patchFile.delete()
-        Log.d(TAG, "DeepSeek ALL PATCHES CLEARED")
-    }
-    fun candidates(pinyin: String): List<Candidate> = patches[pinyin.trim().lowercase(Locale.ROOT)].orEmpty()
-
-    fun candidates(context: String, pinyin: String): List<Candidate> = patches[cacheKey(context, pinyin)].orEmpty()
 
     /**
      * All DeepSeek suggestions use the standard Chat Completions API.
@@ -225,27 +212,4 @@ class DeepSeekImeAi(context: Context) {
     private fun cacheKey(context: String, pinyin: String): String =
         context.trim() + "\u0000" + pinyin.trim().lowercase(Locale.ROOT)
 
-    private fun loadPatches() {
-        if (!patchFile.exists()) return
-        try {
-            val root = JSONObject(patchFile.readText(Charsets.UTF_8))
-            root.keys().forEach { key ->
-                val array = root.optJSONArray(key) ?: return@forEach
-                val list = buildList {
-                    for (i in 0 until array.length()) {
-                        val text = array.optString(i)
-                        if (text.isNotBlank()) add(Candidate(text, key, 1000 - i))
-                    }
-                }
-                if (list.isNotEmpty()) patches[key] = list
-            }
-            Log.d(TAG, "AI patches loaded count=${patches.size}")
-        } catch (e: Exception) { Log.w(TAG, "AI patch file invalid; ignoring", e) }
-    }
-
-    private fun savePatches() {
-        val root = JSONObject()
-        patches.entries.sortedBy { it.key }.forEach { (key, values) -> root.put(key, JSONArray(values.map { it.text })) }
-        patchFile.writeText(root.toString(), Charsets.UTF_8)
-    }
 }

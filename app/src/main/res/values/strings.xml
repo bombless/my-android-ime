@@ -14,6 +14,6 @@
     <string name="deepseek_save_done">API Key 和接口地址已保存</string>
     <string name="deepseek_endpoint_hint">DeepSeek 接口地址</string>
     <string name="deepseek_model_hint">DeepSeek 模型</string>
-    <string name="deepseek_clear_cache">清空 DeepSeek 补全缓存</string>
-    <string name="deepseek_clear_cache_done">DeepSeek 补全缓存已清空</string>
+    <string name="telemetry_clear">清空遥测数据</string>
+    <string name="telemetry_clear_done">遥测数据已清空</string>
 </resources>

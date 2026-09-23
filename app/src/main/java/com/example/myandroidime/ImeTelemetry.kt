@@ -73,6 +73,14 @@ object ImeTelemetry {
         }
     }
 
+    fun clear() {
+        synchronized(lock) {
+            events.clear()
+            nextId.set(1)
+        }
+        Log.i(TAG, "telemetry data cleared")
+    }
+
     private fun serve() {
         Log.i(TAG, "telemetry accept loop started on 127.0.0.1:$PORT")
         while (running) {
