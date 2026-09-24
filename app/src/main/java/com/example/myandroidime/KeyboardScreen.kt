@@ -324,11 +324,15 @@ fun KeyboardScreen(
                     Text(composing, modifier = Modifier.fillMaxWidth(), maxLines = 1)
                 }
 
-                listOf("QWERTYUIOP", "ASDFGHJKL").forEach { row ->
+                // 三行按标准 QWERTY 逐行递进缩进：第二行半格，第三行一格。
+                // 使用与第一行一致的单键宽度，避免缩进后把按键压缩变窄。
+                val keyUnitWidth = ((LocalConfiguration.current.screenWidthDp.dp - 12.dp - 27.dp) / 10f)
+                listOf("QWERTYUIOP", "ASDFGHJKL").forEachIndexed { rowIndex, row ->
                     Row(
                         Modifier.fillMaxWidth(),
                         horizontalArrangement = Arrangement.spacedBy(3.dp)
                     ) {
+                        if (rowIndex == 1) Spacer(Modifier.width(keyUnitWidth / 2f))
                         row.forEach { letter ->
                             LetterKey(
                                 label = letter.toString(),
@@ -357,6 +361,7 @@ fun KeyboardScreen(
                     Modifier.fillMaxWidth(),
                     horizontalArrangement = Arrangement.spacedBy(3.dp)
                 ) {
+                    Spacer(Modifier.width(keyUnitWidth))
                     "ZXCVBNM".forEach { letter ->
                         LetterKey(
                             label = letter.toString(),
