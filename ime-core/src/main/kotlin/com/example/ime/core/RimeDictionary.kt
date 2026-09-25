@@ -122,8 +122,12 @@ class RimeDictionary private constructor(
     }
 
     private fun candidatesForSegment(segment: String, limit: Int): List<Candidate> {
-        val candidates = if (segment.length == 1 && initialLengthAt(segment, 0) == 1) {
-            // A one-letter initial is a prefix lookup (e.g. "b" -> "ba", "bu").
+        val isConsonantInitial = segment.length == 1 && initialLengthAt(segment, 0) == 1
+        val isTwoLetterInitial = segment in setOf("zh", "ch", "sh")
+        val candidates = if (isConsonantInitial || isTwoLetterInitial) {
+            // Initial-only segments are prefix lookups (e.g. "b" -> "ba", "bu",
+            // and "sh" -> "sha", "shen", "shi"). This also supports compact
+            // consonant-cut forms such as "weishme".
             candidatesForPrefix(segment, limit * 4)
         } else {
             (byPinyin[segment].orEmpty() + byCompactPinyin[segment].orEmpty())
