@@ -19,7 +19,7 @@ class RimeDictionaryTest {
         val dictionary = RimeDictionary.fromStreams(listOf(yaml.byteInputStream()))
         val candidates = dictionary.candidates("wo")
 
-        assertEquals(listOf("我", "我们"), candidates.map { it.text })
+        assertEquals(listOf("我"), candidates.map { it.text })
         assertEquals(30, candidates.first().weight)
     }
 
@@ -86,7 +86,7 @@ class RimeDictionaryTest {
         assertEquals(listOf("我"), engine.localCandidates("wo").map { it.text })
     }
     @Test
-    fun reproducesWeishmeConsonantCuttingMismatch() {
+    fun consonantCuttingMatchesWhyForWeishmeAndWsm() {
         val yaml = listOf(
             "---",
             "name: test",
@@ -98,18 +98,12 @@ class RimeDictionaryTest {
 
         val dictionary = RimeDictionary.fromStreams(listOf(yaml.byteInputStream()))
 
-        // Weishme is the compact consonant-cut form of “为什么”:
-        // wei + sh(en) + m(e). Rime/Weasel-style consonant cutting can
-        // use "sh" and "m" as syllable initials, but our fallback currently
-        // treats a multi-letter initial such as "sh" as an exact syllable.
-        //
-        // This assertion deliberately captures the current failure so the
-        // behavior can be fixed in a follow-up without silently losing the
-        // reproduction.
-        assertEquals(
-            emptyList(),
-            dictionary.candidatesByConsonantSegmentation("weishme").map { it.text },
-        )
+        val engine = PinyinImeEngine(dictionary)
+
+        assertEquals(listOf("为什么"), engine.localCandidates("weishme").map { it.text })
+        assertEquals(listOf("为什么"), engine.localCandidates("wsm").map { it.text })
     }
 
 }
+
+
