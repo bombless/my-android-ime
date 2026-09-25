@@ -166,7 +166,7 @@ fun KeyboardScreen(
     val punctuation = remember { listOf("，", "。", "、", "；", "：", "？", "！", "《", "》", "（", "）") }
     var showEnglishPunctuation by remember { mutableStateOf(false) }
     var selectedEnglishPunctuationIndex by remember { mutableStateOf(0) }
-    val englishPunctuation = remember { listOf(".", ",", "?", "!", ":", ";", "'", "\"", "(", ")", "-", "_", "/", "@", "#") }
+    val englishPunctuation = remember { listOf(".", ",", "?", "!", ":", ";", "'", "\"", "(", ")", "-", "_", "/", "@", "#", "~") }
     var showNumbers by remember { mutableStateOf(false) }
     var selectedNumberIndex by remember { mutableStateOf(0) }
     val numbers = remember { listOf("0", "1", "2", "3", "4", "5", "6", "7", "8", "9") }
