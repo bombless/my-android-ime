@@ -275,6 +275,25 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                     baiduSuggest.requestIfNeeded(punctuationContext, "") { baiduRevision.intValue++ }
                 }
             }
+            "~", "～" -> {
+                // Symbols selected from the punctuation wheel are literal input,
+                // not pinyin composing text.
+                Log.d(TAG, "symbol commitText text=$key")
+                if (composing.value.isNotEmpty()) {
+                    val result = logCandidates(composing.value)
+                    val candidate = result.firstOrNull()
+                    if (candidate != null) {
+                        commitCandidate(candidate.text)
+                    } else {
+                        c.commitText(composing.value, 1)
+                        composing.value = ""
+                        lastCommittedCandidate = null
+                    }
+                }
+                c.commitText(key, 1)
+                lastCommittedCandidate = null
+                continuationContext.value = c.getTextBeforeCursor(256, 0)?.toString().orEmpty()
+            }
             in "0123456789" -> {
                 Log.d(TAG, "number wheel commitText text=$key")
                 c.commitText(key, 1)
