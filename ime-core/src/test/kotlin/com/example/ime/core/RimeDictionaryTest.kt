@@ -2,6 +2,9 @@ package com.example.ime.core
 
 import kotlin.test.Test
 import kotlin.test.assertEquals
+import kotlin.test.assertTrue
+import java.nio.file.Files
+import java.nio.file.Path
 
 class RimeDictionaryTest {
     @Test
@@ -105,23 +108,32 @@ class RimeDictionaryTest {
     }
 
     @Test
-    fun consonantSegmentationPrefersTwoSyllablesBeforeMoreAggressiveCuts() {
-        val yaml = listOf(
-            "---",
-            "name: test",
-            "...",
-            "然\tran\t100",
-            "人\tr\t90",
-            "日\tr\t80",
-            "安\tan\t70",
-        ).joinToString("\n")
+    fun realDictionaryRranMatchesRanRanAndRenRan() {
+        val dictionaryDir = realRDictionaryShardDir()
+        val shards = Files.list(dictionaryDir).use { stream ->
+            stream.filter { it.fileName.toString().endsWith(".dict.yaml") }
+                .sorted()
+                .toList()
+        }
+        assertTrue(shards.isNotEmpty(), "real r dictionary shards not found at $dictionaryDir")
 
-        val dictionary = RimeDictionary.fromStreams(listOf(yaml.byteInputStream()))
+        val dictionary = RimeDictionary.fromFiles(shards)
+        val candidates = dictionary.candidatesByConsonantSegmentation("rran", limit = 9)
 
-        assertEquals(
-            listOf("然然", "人然"),
-            dictionary.candidatesByConsonantSegmentation("rran", limit = 2).map { it.text },
-        )
+        assertEquals("ran ran", candidates.first { it.text == "冉冉" }.pinyin)
+        assertEquals("ren ran", candidates.first { it.text == "荏苒" }.pinyin)
+        assertTrue(candidates.any { it.text == "冉冉" })
+        assertTrue(candidates.any { it.text == "荏苒" })
+    }
+
+    private fun realRDictionaryShardDir(): Path {
+        val relative = Path.of("app", "src", "main", "assets", "dict-shards", "r")
+        val cwd = Path.of(System.getProperty("user.dir")).toAbsolutePath().normalize()
+        return sequenceOf(cwd.resolve(relative), cwd.parent?.resolve(relative))
+            .filterNotNull()
+            .map { it.normalize() }
+            .firstOrNull { Files.isDirectory(it) }
+            ?: error("real r dictionary shard directory not found from $cwd")
     }
 
 }

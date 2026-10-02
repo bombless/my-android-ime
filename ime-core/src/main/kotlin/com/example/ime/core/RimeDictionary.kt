@@ -92,11 +92,21 @@ class RimeDictionary private constructor(
 
         data class Partial(val text: String, val weight: Int, val pinyin: String)
         val maxSegments = boundaries.size + 1
+        val accumulated = mutableListOf<Partial>()
         for (segmentCount in 2..maxSegments) {
             val results = mutableListOf<Partial>()
             enumerateSegmentations(
                 key, boundaries, segmentCount, 0, IntArray(segmentCount - 1), 0
             ) { segments ->
+                if (segmentCount == 2) {
+                    val wildcardResults = candidatesForTwoSyllableWildcard(segments, limit)
+                    if (wildcardResults.isNotEmpty()) {
+                        results += wildcardResults.map { candidate ->
+                            Partial(candidate.text, candidate.weight, candidate.pinyin)
+                        }
+                        return@enumerateSegmentations
+                    }
+                }
                 var partials = listOf(Partial("", 0, ""))
                 for (segment in segments) {
                     val candidates = candidatesForSegment(segment, perSegmentLimit)
@@ -116,12 +126,46 @@ class RimeDictionary private constructor(
                 }
                 results += partials
             }
-            val ranked = results.sortedByDescending { it.weight }.distinctBy { it.text }.take(limit)
-            if (ranked.size >= limit || segmentCount == maxSegments) {
-                return ranked.map { Candidate(it.text, it.pinyin, it.weight) }
+            val ranked = results.sortedByDescending { it.weight }.distinctBy { it.text }
+            for (partial in ranked) {
+                if (accumulated.none { it.text == partial.text }) accumulated += partial
             }
+            if (accumulated.size >= limit) break
         }
-        return emptyList()
+        return accumulated.take(limit).map { Candidate(it.text, it.pinyin, it.weight) }
+    }
+
+    /**
+     * Matches a two-syllable interpretation against whole dictionary entries.
+     *
+     * For an initial-only first segment such as "r" followed by "ran", the
+     * pattern is conceptually "r*ran": the wildcard must consume exactly one
+     * complete syllable. This deliberately returns the dictionary word itself
+     * instead of combining one character candidate for "r" with another one for
+     * "ran".
+     */
+    private fun candidatesForTwoSyllableWildcard(
+        segments: List<String>,
+        limit: Int,
+    ): List<Candidate> {
+        if (segments.size != 2) return emptyList()
+        val prefix = segments[0]
+        val suffix = segments[1]
+        val prefixIsInitial = prefix.length == 1 && initialLengthAt(prefix, 0) == 1
+        if (!prefixIsInitial || suffix.isEmpty()) return emptyList()
+
+        return byPinyin.asSequence()
+            .filter { (pinyin, _) ->
+                val syllables = pinyin.trim().lowercase(Locale.ROOT).split(Regex("\\s+"))
+                syllables.size == 2 &&
+                    syllables[0].startsWith(prefix) &&
+                    syllables[1].startsWith(suffix)
+            }
+            .flatMap { (_, candidates) -> candidates.asSequence() }
+            .sortedByDescending { it.weight }
+            .distinctBy { it.text }
+            .take(limit)
+            .toList()
     }
 
     private fun enumerateSegmentations(
