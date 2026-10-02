@@ -66,10 +66,13 @@ class RimeDictionary private constructor(
     }
 
     /**
-     * Cuts compact pinyin at consonant initials and takes the Cartesian product
-     * of exact dictionary candidates for the resulting chunks. zh/ch/sh are
-     * treated as two-letter initials. This is intended only as a fallback after
-     * normal exact and prefix lookup has returned no candidates.
+     * Tries compact-pinyin syllable cuts from fewer syllables to more syllables.
+     *
+     * The old implementation cut at every consonant, which made ambiguous input
+     * such as "rran" become "r / r / an" and therefore missed the useful
+     * "r / ran" interpretation. We now enumerate consonant-boundary partitions
+     * by segment count: all 2-syllable interpretations are tried first, then 3,
+     * etc. A later level is only used when the earlier level cannot fill `limit`.
      */
     fun candidatesByConsonantSegmentation(
         input: String,
@@ -87,38 +90,68 @@ class RimeDictionary private constructor(
         }
         if (boundaries.isEmpty()) return emptyList()
 
-        val segments = ArrayList<String>(boundaries.size + 1)
-        var start = 0
-        boundaries.forEach { end ->
-            segments += key.substring(start, end)
-            start = end
-        }
-        segments += key.substring(start)
-        if (segments.any { it.isEmpty() }) return emptyList()
-
         data class Partial(val text: String, val weight: Int, val pinyin: String)
-        var partials = listOf(Partial("", 0, ""))
-        for (segment in segments) {
-            val candidates = candidatesForSegment(segment, perSegmentLimit)
-            if (candidates.isEmpty()) return emptyList()
-
-            partials = partials.asSequence()
-                .flatMap { prefix ->
-                    candidates.asSequence().map { candidate ->
-                        Partial(
-                            prefix.text + candidate.text,
-                            prefix.weight + candidate.weight,
-                            if (prefix.pinyin.isEmpty()) segment else prefix.pinyin + " " + segment,
-                        )
-                    }
+        val maxSegments = boundaries.size + 1
+        for (segmentCount in 2..maxSegments) {
+            val results = mutableListOf<Partial>()
+            enumerateSegmentations(
+                key, boundaries, segmentCount, 0, IntArray(segmentCount - 1), 0
+            ) { segments ->
+                var partials = listOf(Partial("", 0, ""))
+                for (segment in segments) {
+                    val candidates = candidatesForSegment(segment, perSegmentLimit)
+                    if (candidates.isEmpty()) return@enumerateSegmentations
+                    partials = partials.asSequence()
+                        .flatMap { prefix -> candidates.asSequence().map { candidate ->
+                            Partial(
+                                prefix.text + candidate.text,
+                                prefix.weight + candidate.weight,
+                                if (prefix.pinyin.isEmpty()) segment else prefix.pinyin + " " + segment,
+                            )
+                        } }
+                        .sortedByDescending { it.weight }
+                        .distinctBy { it.text }
+                        .take(limit)
+                        .toList()
                 }
-                .sortedByDescending { it.weight }
-                .distinctBy { it.text }
-                .take(limit)
-                .toList()
+                results += partials
+            }
+            val ranked = results.sortedByDescending { it.weight }.distinctBy { it.text }.take(limit)
+            if (ranked.size >= limit || segmentCount == maxSegments) {
+                return ranked.map { Candidate(it.text, it.pinyin, it.weight) }
+            }
         }
+        return emptyList()
+    }
 
-        return partials.map { Candidate(it.text, it.pinyin, it.weight) }
+    private fun enumerateSegmentations(
+        key: String,
+        boundaries: List<Int>,
+        segmentCount: Int,
+        startBoundaryIndex: Int,
+        chosenBoundaries: IntArray,
+        chosenCount: Int,
+        consume: (List<String>) -> Unit,
+    ) {
+        if (chosenCount == chosenBoundaries.size) {
+            val segments = ArrayList<String>(segmentCount)
+            var start = 0
+            chosenBoundaries.forEach { end ->
+                segments += key.substring(start, end)
+                start = end
+            }
+            segments += key.substring(start)
+            if (segments.none { it.isEmpty() }) consume(segments)
+            return
+        }
+        val remainingCuts = chosenBoundaries.size - chosenCount
+        val lastExclusive = boundaries.size - (remainingCuts - 1)
+        for (i in startBoundaryIndex until lastExclusive) {
+            chosenBoundaries[chosenCount] = boundaries[i]
+            enumerateSegmentations(
+                key, boundaries, segmentCount, i + 1, chosenBoundaries, chosenCount + 1, consume
+            )
+        }
     }
 
     private fun candidatesForSegment(segment: String, limit: Int): List<Candidate> {

@@ -104,6 +104,26 @@ class RimeDictionaryTest {
         assertEquals(listOf("为什么"), engine.localCandidates("wsm").map { it.text })
     }
 
+    @Test
+    fun consonantSegmentationPrefersTwoSyllablesBeforeMoreAggressiveCuts() {
+        val yaml = listOf(
+            "---",
+            "name: test",
+            "...",
+            "然\tran\t100",
+            "人\tr\t90",
+            "日\tr\t80",
+            "安\tan\t70",
+        ).joinToString("\n")
+
+        val dictionary = RimeDictionary.fromStreams(listOf(yaml.byteInputStream()))
+
+        assertEquals(
+            listOf("然然", "人然"),
+            dictionary.candidatesByConsonantSegmentation("rran", limit = 2).map { it.text },
+        )
+    }
+
 }
 
 
