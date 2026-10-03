@@ -279,6 +279,7 @@ fun KeyboardScreen(
         Box(
             modifier = Modifier
                 .fillMaxWidth()
+                .background(MaterialTheme.colorScheme.surface)
                 .onGloballyPositioned { coordinates ->
                     keyboardWindowPos = coordinates.positionInWindow()
                     keyboardHeightPx = coordinates.size.height.toFloat()

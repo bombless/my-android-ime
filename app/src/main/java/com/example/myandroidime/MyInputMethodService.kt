@@ -4,6 +4,7 @@ import android.content.Context
 import android.inputmethodservice.InputMethodService
 import android.util.Log
 import android.view.View
+import android.view.WindowManager
 import com.example.ime.core.PinyinImeEngine
 import com.example.ime.core.RimeDictionary
 import java.io.File
@@ -53,9 +54,15 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     override val savedStateRegistry: SavedStateRegistry
         get() = savedStateRegistryController.savedStateRegistry
 
+    private var startupStartElapsedMs: Long = 0L
+
     override fun onCreate() {
         Log.d(TAG, "onCreate START")
+        startupStartElapsedMs = android.os.SystemClock.elapsedRealtime()
+        ImePerformanceStats.markStarting(applicationContext)
         super.onCreate()
+        window?.window?.setSoftInputMode(WindowManager.LayoutParams.SOFT_INPUT_ADJUST_RESIZE)
+        Log.d(TAG, "IME window soft input mode=adjustResize")
         deepSeekAi = DeepSeekImeAi(applicationContext)
         baiduSuggest = BaiduImeSuggest()
         inputHistoryStore = InputHistoryStore(applicationContext)
@@ -100,6 +107,11 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         Log.d(TAG, "onCreateInputView START")
         lifecycleRegistry.handleLifecycleEvent(Lifecycle.Event.ON_START)
         return ImeRootView(this, this).apply {
+            addOnLayoutChangeListener { view, left, top, right, bottom, oldLeft, oldTop, oldRight, oldBottom ->
+                if (right - left != oldRight - oldLeft || bottom - top != oldBottom - oldTop) {
+                    Log.d(TAG, "input view size=${right - left}x${bottom - top} old=${oldRight - oldLeft}x${oldBottom - oldTop}")
+                }
+            }
             addView(ComposeView(context).apply {
                 layoutParams = FrameLayout.LayoutParams(
                     FrameLayout.LayoutParams.MATCH_PARENT,
@@ -436,7 +448,7 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
     }
 
     private fun loadDictionary(): RimeDictionary {
-        Log.d(TAG, "dictionary loading START mode=background-preload")
+        Log.d(TAG, "dictionary loading START mode=background-preload+precomputed")
         val source = object : RimeDictionary.ShardSource {
             override fun list(initial: Char): List<String> {
                 val dir = "dict-shards/$initial"
@@ -450,12 +462,18 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 return assets.open(path)
             }
         }
-        val dictionary = RimeDictionary.fromShards(source)
+        val dictionary = runCatching {
+            RimeDictionary.fromShardsWithPrecomputed(source, assets.open("consonant_index.tsv"))
+        }.onFailure {
+            Log.w(TAG, "precomputed consonant index unavailable; using runtime fallback", it)
+        }.getOrElse { RimeDictionary.fromShards(source) }
         dictionary.preloadAllAsync {
-            Log.d(TAG, "dictionary preload COMPLETE")
+            val startupDurationMs = (android.os.SystemClock.elapsedRealtime() - startupStartElapsedMs).coerceAtLeast(0L)
+            ImePerformanceStats.markReady(applicationContext, startupDurationMs)
+            Log.d(TAG, "dictionary preload COMPLETE startupDurationMs=$startupDurationMs")
             rimeRevision.intValue++
         }
-        Log.d(TAG, "dictionary loading END mode=background-preload")
+        Log.d(TAG, "dictionary loading END mode=background-preload+precomputed")
         return dictionary
     }
 }

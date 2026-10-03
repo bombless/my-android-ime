@@ -10,6 +10,7 @@ import java.util.concurrent.atomic.AtomicBoolean
 class RimeDictionary private constructor(
     private val byPinyin: MutableMap<String, MutableList<Candidate>>,
     private val shardSource: ShardSource? = null,
+    private val precomputedSegmentation: Map<String, List<Candidate>> = emptyMap(),
 ) {
     private val byCompactPinyin = HashMap<String, MutableList<Candidate>>()
     private val compactKeys = ArrayList<String>()
@@ -81,6 +82,7 @@ class RimeDictionary private constructor(
     ): List<Candidate> {
         val key = input.trim().lowercase(Locale.ROOT).replace(" ", "")
         if (key.isEmpty() || !preloadComplete || limit <= 0 || perSegmentLimit <= 0) return emptyList()
+        precomputedSegmentation[key]?.let { return it.take(limit) }
 
         val boundaries = ArrayList<Int>()
         var index = 0
@@ -301,6 +303,29 @@ class RimeDictionary private constructor(
 
         fun fromShards(source: ShardSource): RimeDictionary =
             RimeDictionary(HashMap(), source)
+
+        fun fromShardsWithPrecomputed(source: ShardSource, precomputed: InputStream): RimeDictionary {
+            val index = HashMap<String, MutableList<Candidate>>()
+            precomputed.bufferedReader(Charsets.UTF_8).useLines { lines ->
+                lines.forEach { raw ->
+                    val line = raw.trimEnd()
+                    if (line.isEmpty() || line.startsWith("#")) return@forEach
+                    val fields = line.split('\t')
+                    if (fields.size < 4) return@forEach
+                    val key = fields[0].trim().lowercase(Locale.ROOT)
+                    val word = fields[1]
+                    val pinyin = fields[2].trim().lowercase(Locale.ROOT)
+                    val weight = fields[3].toIntOrNull() ?: 0
+                    if (key.isNotEmpty() && word.isNotEmpty() && pinyin.isNotEmpty()) {
+                        index.getOrPut(key) { mutableListOf() }.add(Candidate(word, pinyin, weight))
+                    }
+                }
+            }
+            val normalizedIndex = index.mapValues { (_, list) ->
+                list.sortedByDescending { it.weight }.distinctBy { it.text }
+            }
+            return RimeDictionary(HashMap(), source, normalizedIndex)
+        }
 
         private fun readInto(
             reader: BufferedReader,

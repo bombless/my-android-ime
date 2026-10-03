@@ -15,6 +15,7 @@ import java.util.Locale
 
 class MainActivity : Activity() {
     private lateinit var statusView: TextView
+    private lateinit var performanceView: TextView
     private lateinit var inputMethodManager: InputMethodManager
     private lateinit var deepSeekApiKeyView: EditText
     private lateinit var deepSeekEndpointView: EditText
@@ -23,6 +24,14 @@ class MainActivity : Activity() {
     private lateinit var dictionaryRepository: UserDictionaryRepository
     private lateinit var dictionaryList: LinearLayout
     private lateinit var dictionarySearch: EditText
+    private val performanceHandler = android.os.Handler(android.os.Looper.getMainLooper())
+    private var peakPssKb = 0
+    private val performanceRefresh = object : Runnable {
+        override fun run() {
+            updatePerformanceStats()
+            performanceHandler.postDelayed(this, 1_000L)
+        }
+    }
 
     private val serviceId: String
         get() = ComponentName(this, MyInputMethodService::class.java).flattenToShortString()
@@ -40,6 +49,13 @@ class MainActivity : Activity() {
         super.onResume()
         if (::statusView.isInitialized) updateStatus()
         if (::dictionaryList.isInitialized) refreshDictionary()
+        performanceHandler.removeCallbacks(performanceRefresh)
+        performanceHandler.post(performanceRefresh)
+    }
+
+    override fun onPause() {
+        performanceHandler.removeCallbacks(performanceRefresh)
+        super.onPause()
     }
 
     private fun createContentView(): ScrollView {
@@ -92,6 +108,12 @@ class MainActivity : Activity() {
             addView(TextView(context).also { statusView = it }.apply {
                 textSize = 16f
                 setPadding(0, spacing, 0, spacing)
+            }, matchParentWrapContent())
+            addView(TextView(context).also { performanceView = it }.apply {
+                textSize = 14f
+                setPadding(12, spacing, 12, spacing)
+                setBackgroundColor(0x11000000)
+                text = "性能信息加载中…"
             }, matchParentWrapContent())
             addView(Button(context).apply {
                 text = getString(R.string.open_input_method_settings)
@@ -287,6 +309,28 @@ class MainActivity : Activity() {
             else -> getString(R.string.ime_status_disabled)
         }
     }
+
+    private fun updatePerformanceStats() {
+        if (!::performanceView.isInitialized) return
+        val startupMs = ImePerformanceStats.startupDurationMs(applicationContext)
+        val memoryInfo = android.os.Debug.MemoryInfo()
+        android.os.Debug.getMemoryInfo(memoryInfo)
+        val currentPssKb = memoryInfo.totalPss.coerceAtLeast(0)
+        peakPssKb = maxOf(peakPssKb, currentPssKb)
+        val startupText = when {
+            startupMs == null -> "输入法启动耗时：尚未启动或词库仍在加载"
+            else -> "输入法启动耗时：${startupMs} ms（服务启动至词库加载完成）"
+        }
+        performanceView.text = buildString {
+            append("运行性能\n")
+            append(startupText)
+            append("\n当前进程内存（PSS）：${formatMemory(currentPssKb)} MB")
+            append("\n本次页面观测峰值：${formatMemory(peakPssKb)} MB")
+            append("\n每秒刷新；峰值从打开此页面后开始统计")
+        }
+    }
+
+    private fun formatMemory(kilobytes: Int): String = String.format(Locale.ROOT, "%.1f", kilobytes / 1024.0)
 
     private fun matchParentWrapContent() = LinearLayout.LayoutParams(ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT)
     private fun weightWrapContent(weight: Float) = LinearLayout.LayoutParams(0, ViewGroup.LayoutParams.WRAP_CONTENT, weight)
