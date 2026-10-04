@@ -1,5 +1,6 @@
 package com.example.myandroidime
 
+import android.content.Context
 import android.util.Log
 import org.json.JSONArray
 import org.json.JSONObject
@@ -25,6 +26,44 @@ object ImeTelemetry {
         val size: Int,
         val status: String,
     )
+
+    data class SlowRimeSearch(val pinyin: String, val durationMs: Double, val at: Long)
+
+    private const val SEARCH_PREFS = "rime_slow_searches"
+    private const val SEARCH_KEY = "top_three"
+
+    /** Keeps the three slowest local Rime lookups on-device for the settings screen. */
+    fun recordRimeSearch(context: Context, pinyin: String, durationNs: Long) {
+        if (pinyin.isBlank()) return
+        val prefs = context.applicationContext.getSharedPreferences(SEARCH_PREFS, Context.MODE_PRIVATE)
+        synchronized(lock) {
+            val current = readSlowSearches(prefs.getString(SEARCH_KEY, null))
+            val updated = (current + SlowRimeSearch(pinyin, durationNs.coerceAtLeast(0L) / 1_000_000.0, System.currentTimeMillis()))
+                .sortedByDescending { it.durationMs }
+                .take(3)
+            val json = JSONArray().apply {
+                updated.forEach { item ->
+                    put(JSONObject().put("pinyin", item.pinyin).put("durationMs", item.durationMs).put("at", item.at))
+                }
+            }
+            prefs.edit().putString(SEARCH_KEY, json.toString()).apply()
+        }
+    }
+
+    fun slowestRimeSearches(context: Context): List<SlowRimeSearch> {
+        val prefs = context.applicationContext.getSharedPreferences(SEARCH_PREFS, Context.MODE_PRIVATE)
+        return synchronized(lock) { readSlowSearches(prefs.getString(SEARCH_KEY, null)).sortedByDescending { it.durationMs }.take(3) }
+    }
+
+    private fun readSlowSearches(raw: String?): List<SlowRimeSearch> = runCatching {
+        val array = JSONArray(raw ?: "[]")
+        buildList {
+            for (i in 0 until array.length()) {
+                val item = array.getJSONObject(i)
+                add(SlowRimeSearch(item.optString("pinyin"), item.optDouble("durationMs", 0.0), item.optLong("at", 0L)))
+            }
+        }
+    }.getOrDefault(emptyList())
 
     private val nextId = AtomicLong(1)
     private val lock = Any()

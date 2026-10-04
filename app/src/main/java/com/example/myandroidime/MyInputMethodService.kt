@@ -127,7 +127,10 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                         composing = pinyin,
                         rimeCandidates = run {
                             val t = System.nanoTime(); val value = imeEngine.localCandidates(pinyin).map { it.text }
-                            ImeTelemetry.record("rime_candidates", System.nanoTime() - t, value.size); value
+                            val elapsed = System.nanoTime() - t
+                            ImeTelemetry.record("rime_candidates", elapsed, value.size)
+                            ImeTelemetry.recordRimeSearch(applicationContext, pinyin, elapsed)
+                            value
                         },
                         userDictionaryCandidates = run {
                             val t = System.nanoTime(); val value = userDictionaryRepository.candidates(pinyin).map { it.text }
@@ -427,7 +430,9 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
         Log.d(TAG, "candidate query pinyin=$pinyin")
         val rimeStart = System.nanoTime()
         val rime = imeEngine.candidates(pinyin)
-        ImeTelemetry.record("candidate_rime_total", System.nanoTime() - rimeStart, rime.size)
+        val rimeElapsed = System.nanoTime() - rimeStart
+        ImeTelemetry.record("candidate_rime_total", rimeElapsed, rime.size)
+        ImeTelemetry.recordRimeSearch(applicationContext, pinyin, rimeElapsed)
         val userStart = System.nanoTime()
         val user = userDictionaryRepository.candidates(pinyin, 8)
         ImeTelemetry.record("candidate_user_dictionary", System.nanoTime() - userStart, user.size)

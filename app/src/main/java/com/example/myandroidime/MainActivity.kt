@@ -16,6 +16,7 @@ import java.util.Locale
 class MainActivity : Activity() {
     private lateinit var statusView: TextView
     private lateinit var performanceView: TextView
+    private lateinit var slowRimeSearchesView: TextView
     private lateinit var inputMethodManager: InputMethodManager
     private lateinit var deepSeekApiKeyView: EditText
     private lateinit var deepSeekEndpointView: EditText
@@ -114,6 +115,12 @@ class MainActivity : Activity() {
                 setPadding(12, spacing, 12, spacing)
                 setBackgroundColor(0x11000000)
                 text = "性能信息加载中…"
+            }, matchParentWrapContent())
+            addView(TextView(context).also { slowRimeSearchesView = it }.apply {
+                textSize = 14f
+                setPadding(12, spacing, 12, spacing)
+                setBackgroundColor(0x11000000)
+                text = "小狼毫词库最慢的三次搜索\n暂无搜索记录"
             }, matchParentWrapContent())
             addView(Button(context).apply {
                 text = getString(R.string.open_input_method_settings)
@@ -327,6 +334,17 @@ class MainActivity : Activity() {
             append("\n当前进程内存（PSS）：${formatMemory(currentPssKb)} MB")
             append("\n本次页面观测峰值：${formatMemory(peakPssKb)} MB")
             append("\n每秒刷新；峰值从打开此页面后开始统计")
+        }
+        val slowSearches = ImeTelemetry.slowestRimeSearches(applicationContext)
+        slowRimeSearchesView.text = buildString {
+            append("小狼毫词库最慢的三次搜索（本机保存）")
+            if (slowSearches.isEmpty()) {
+                append("\n暂无搜索记录；开始使用输入法后会自动统计")
+            } else {
+                slowSearches.forEachIndexed { index, search ->
+                    append("\n${index + 1}. 拼音：${search.pinyin}  耗时：${String.format(Locale.ROOT, "%.3f", search.durationMs)} ms")
+                }
+            }
         }
     }
 
