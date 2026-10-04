@@ -307,6 +307,15 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                 continuationContext.value = c.getTextBeforeCursor(256, 0)?.toString().orEmpty()
             }
             in "0123456789" -> {
+                // A number is literal input. Flush any pending Latin composing
+                // text first so the digit doesn't replace it or leave it buffered.
+                if (composing.value.isNotEmpty()) {
+                    val pendingText = composing.value
+                    Log.d(TAG, "number flush composing text=$pendingText")
+                    c.commitText(pendingText, 1)
+                    composing.value = ""
+                    Log.d(TAG, "composingAfter=${composing.value}")
+                }
                 Log.d(TAG, "number wheel commitText text=$key")
                 c.commitText(key, 1)
                 lastCommittedCandidate = null
