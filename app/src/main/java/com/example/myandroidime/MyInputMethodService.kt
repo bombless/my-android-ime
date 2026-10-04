@@ -220,6 +220,11 @@ class MyInputMethodService : InputMethodService(), SavedStateRegistryOwner {
                         composing.value = ""
                         lastCommittedCandidate = null
                         Log.d(TAG, "composingAfter=${composing.value}")
+                        // Enter flushes a raw Latin buffer; it must not also
+                        // trigger the editor action (e.g. Search/Done) or add
+                        // a newline, so the user can continue typing.
+                        ImeTelemetry.record("handle_key", System.nanoTime() - handleStart, key.length)
+                        return
                     } else {
                         val result = logCandidates(text)
                         val candidate = result.firstOrNull()
