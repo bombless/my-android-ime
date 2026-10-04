@@ -2,7 +2,7 @@
 
 Minimal Android InputMethodService implemented with Jetpack Compose.
 
-- Package: `com.example.myandroidime`
+- Package: `io.github.bombless.myandroidime`
 - Min SDK: 26
 - Compile/target SDK: 35
 - UI: Jetpack Compose + Material 3

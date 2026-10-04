@@ -1,4 +1,4 @@
-package com.example.myandroidime
+package io.github.bombless.myandroidime
 import androidx.compose.foundation.gestures.awaitEachGesture
 import androidx.compose.foundation.gestures.awaitFirstDown
 import androidx.compose.foundation.gestures.awaitLongPressOrCancellation

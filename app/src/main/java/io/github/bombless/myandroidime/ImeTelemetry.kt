@@ -1,4 +1,4 @@
-package com.example.myandroidime
+package io.github.bombless.myandroidime
 
 import android.content.Context
 import android.util.Log

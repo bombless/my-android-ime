@@ -1,4 +1,4 @@
-package com.example.myandroidime.repl
+package io.github.bombless.myandroidime.repl
 
 import com.example.ime.core.PinyinImeEngine
 import com.example.ime.core.RimeDictionary

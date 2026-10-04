@@ -4,14 +4,14 @@ plugins {
     id("org.jetbrains.kotlin.plugin.compose")
 }
 android {
-    namespace = "com.example.myandroidime"
+    namespace = "io.github.bombless.myandroidime"
     compileSdk = 35
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
     }
     defaultConfig {
-        applicationId = "com.example.myandroidime"
+        applicationId = "io.github.bombless.myandroidime"
         minSdk = 26
         targetSdk = 35
         versionCode = 1

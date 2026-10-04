@@ -1,4 +1,4 @@
-package com.example.myandroidime
+package io.github.bombless.myandroidime
 
 import android.util.Log
 import org.json.JSONObject
